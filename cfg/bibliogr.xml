@@ -1991,6 +1991,11 @@ M&uuml;nchhausen</tit>
      </eld>
   </vrk>
 
+  <vrk mll="Vikt" tip="leksikono">
+     <url>https://kaikki.org/</url>
+     <tit>Vikivortaro (Wiktionary), tradukoj eltiritaj per wiktextract</tit>
+  </vrk>
+
   <vrk mll="VivZam">
     <url>https://tekstaro.com/pl/prenitutantekston.pl?nomo=vivo-de-zamenhof</url>
     <aut><a>Edmond</a> <n>Privat</n></aut>

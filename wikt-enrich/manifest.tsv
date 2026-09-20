@@ -1,0 +1,17 @@
+edition	url	last_modified	bytes	sha256
+de	https://kaikki.org/dewiktionary/raw-wiktextract-data.jsonl.gz	Fri, 18 Sep 2026 15:24:19 GMT	303380639	e0ad0936a824290ab6b43308f0780cad051c560ecb27a530bf679538af464ba4
+es	https://kaikki.org/eswiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 06:25:18 GMT	99931931	a95ce33dced8e686fedba0337eb1b02c02bc982fdf7b1078e98abcf69eae631c
+en	https://kaikki.org/dictionary/raw-wiktextract-data.jsonl.gz	Wed, 16 Sep 2026 15:37:43 GMT	2900609279	c7f0ebb9bc6f7ed8bd396dd338d62ef67e1141fe2acfedb2ef6e09e34fe3d4f9
+fr	https://kaikki.org/frwiktionary/raw-wiktextract-data.jsonl.gz	Fri, 18 Sep 2026 18:12:12 GMT	718568529	8eae1f8130c1fb0ddb19a75a28f2026a153362c930d0d6ff4dd462649ef43b90
+pl	https://kaikki.org/plwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 11:31:37 GMT	132355720	54754578c5c9a3e820ba19805873e204677f5ad07ff2bf5371a29118152cb612
+ru	https://kaikki.org/ruwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 08:00:40 GMT	292526569	fcaa313ebb9668aefaa3851afd809776a006c49ba6e663c1bc91fcbebabe0765
+pt	https://kaikki.org/ptwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 14:44:37 GMT	35583192	3608cd5db528af06ec5636c58a4f18c3af58bc420431efe15e98d61b36bcd1d1
+zh	https://kaikki.org/zhwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 02:55:42 GMT	226750509	824207e0d50a1e55983ba817639490ec47ed337720e4452b5d421b047bebf43c
+ja	https://kaikki.org/jawiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 10:43:24 GMT	61657570	fd91f391fca2602982fe229775fc1aaca970485da305b7ae24120d0be1fc788b
+el	https://kaikki.org/elwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 20:21:52 GMT	106892046	2e40403438b25351ea48d2faa0d02d9a99dc212c213d58526fd15346e1676b4b
+nl	https://kaikki.org/nlwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 12:53:02 GMT	128567759	ab1f9bde0544ba35189aa1b40d43b368ce995057b810a31b12d8b48e080b56c3
+cs	https://kaikki.org/cswiktionary/raw-wiktextract-data.jsonl.gz	Sun, 20 Sep 2026 00:28:44 GMT	38459785	0433bf0adaf19d06a77b2ceb6fbd3bb8971cd75b89c5849ca74430a731f469af
+it	https://kaikki.org/itwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 15:25:02 GMT	40145847	4f9bb242b94d0e753bc91e72dc854e0e6c5bbba6d29e3de0344b3c3de2750e01
+tr	https://kaikki.org/trwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 22:17:43 GMT	43470842	cb3145d70a3c2b1d3e08132273d21ff910ae7b09f733321a1741f00e64cecc53
+ko	https://kaikki.org/kowiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 14:19:15 GMT	25836438	9511062651d77bec74ceb5999f66af7de92d7fc8f7cdf1abcd9a4368fae99ec6
+ku	https://kaikki.org/kuwiktionary/raw-wiktextract-data.jsonl.gz	Sat, 19 Sep 2026 18:58:38 GMT	56533154	20ae01e417593d8cb9e5f181e9e64faba3f4226517e3e8b3e7e4513d0f99e078

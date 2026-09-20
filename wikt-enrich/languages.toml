@@ -1,0 +1,29 @@
+# Which languages get filled, and how. Sources are always every edition in manifest.tsv;
+# this file only governs targets. A language is switched on (fill = true) only after its
+# holdout table is in README.md.
+#
+#   script_min_editions  script tier: the language's own Wiktionary lists the pair, and this many
+#                        editions in total do (4 = own + 3 others)
+#   max_words            at most this many words per entry, strongest first
+#   judge                model for the judged tiers; absent = script-only language
+#   needs                ReVo conventions apply.py must support first (pr = <pr> transcription)
+
+[de]
+fill = true
+script_min_editions = 4
+max_words = 3
+judge = "claude-haiku-4-5"
+
+[en]
+fill = true
+script_min_editions = 4
+max_words = 3
+judge = "claude-haiku-4-5"
+
+[zh]
+fill = false
+needs = ["pr"]
+
+[ja]
+fill = false
+needs = ["pr"]

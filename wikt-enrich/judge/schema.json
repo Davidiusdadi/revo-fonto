@@ -1,0 +1,1 @@
+{"type":"object","required":["verdicts"],"additionalProperties":false,"properties":{"verdicts":{"type":"array","items":{"type":"object","required":["entry","id","sense"],"additionalProperties":false,"properties":{"entry":{"type":"string"},"id":{"type":"string"},"sense":{"type":"string"},"why":{"type":"string"}}}}}}
