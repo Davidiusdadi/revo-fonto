@@ -1,0 +1,81 @@
+# Register marks: Wiktionary sense tag -> ReVo code -> label in the target language.
+#
+# A marked word is written as  <trd lng="de" kod="ARK" fnt="...">Haupt <klr>(veraltet)</klr></trd>
+#   kod    the code from voko-grundo/cfg/stiloj.xml or fakoj.xml, where ReVo has one; machine-readable
+#   <klr>  the label readers see, in the form the language's translators already use in ReVo, or,
+#          where ReVo had none, the usual abbreviation of that language's dictionaries
+# Order is priority: a sense with several tags gets the first mark listed here.
+# "figurative" is absent on purpose: ReVo says that by filing the word under a FIG sense.
+# A language without a label for a mark does not use that mark.
+
+[mark.vulgar]
+tags = ["vulgar"]
+kod = "VULG"
+de = "[vulg.]"
+en = "(vulgar)"
+
+[mark.pejorative]
+tags = ["derogatory", "pejorative"]
+de = "[pej.]"
+en = "(derogatory)"
+
+[mark.colloquial]
+tags = ["colloquial", "casual", "informal", "slang"]
+de = "[ugs.]"
+en = "(colloquial)"
+
+[mark.dated]
+tags = ["outdated", "archaic", "dated", "obsolete"]
+kod = "ARK"
+de = "(veraltet)"
+en = "(dated)"
+
+[mark.historical]
+tags = ["historical"]
+kod = "HIS"
+de = "(hist.)"
+en = "(historical)"
+
+[mark.poetic]
+tags = ["poetic"]
+kod = "POE"
+de = "(poetisch)"
+en = "(poetic)"
+
+[mark.formal]
+tags = ["literary", "gehoben", "formal"]
+de = "(gehoben)"
+en = "(formal)"
+
+[mark.rare]
+tags = ["rare"]
+kod = "RAR"
+de = "(selten)"
+en = "(rare)"
+
+[mark.austrian]
+tags = ["Austrian German", "Austria"]
+de = "(österreich.)"
+
+[mark.swiss]
+tags = ["Swiss Standard German", "Switzerland"]
+de = "(schweiz.)"
+
+[mark.regional]
+tags = ["regional", "dialectal"]
+de = "(landsch.)"
+en = "(regional)"
+
+[mark.jargon]
+tags = ["jargon"]
+kod = "FAK"
+de = "(fachspr.)"
+en = "(jargon)"
+
+[mark.british]
+tags = ["UK", "British"]
+en = "(British)"
+
+[mark.us]
+tags = ["US"]
+en = "(US)"

@@ -1,24 +1,87 @@
 # Which languages get filled, and how. Sources are always every edition in manifest.tsv;
 # this file only governs targets. A language is switched on (fill = true) only after its
-# holdout table is in README.md.
+# holdout table is in README.md AND someone can read what its judge accepts.
 #
-#   script_min_editions  script tier: the language's own Wiktionary lists the pair, and this many
-#                        editions in total do (4 = own + 3 others)
-#   max_words            at most this many words per entry, strongest first
-#   judge                model for the judged tiers; absent = script-only language
+#   script_min_editions  what counts as strong evidence: the language's own Wiktionary lists the
+#                        pair, and this many editions in total do (4 = own + 3 others). Shown to
+#                        the judge and measured in the holdout; it no longer writes on its own
+#   max_words            at most this many words per sense, strongest first
+#   judge                the model that reads every candidate against the entry's definition
 #   needs                ReVo conventions apply.py must support first (pr = <pr> transcription)
+#   why_off              why a calibrated language is not filled
+#
+# Register marks are not configured here: marks.toml.
 
 [de]
 fill = true
 script_min_editions = 4
 max_words = 3
-judge = "claude-haiku-4-5"
+judge = "claude-opus-5"
 
 [en]
 fill = true
 script_min_editions = 4
 max_words = 3
-judge = "claude-haiku-4-5"
+judge = "claude-opus-5"
+
+# Calibrated (README, "Other languages") but switched off: their strong-evidence words were once
+# written by script alone, and the German and English ones then turned out to contain homonym
+# errors (pulo -> flea in the entry for the Afghan coin). Nobody here can read these languages, so
+# they wait for someone who can check a judge's output.
+
+[pt]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[ru]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[es]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[tr]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[it]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[cs]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[nl]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[fr]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
+
+[pl]
+fill = false
+why_off = "needs a reader"
+script_min_editions = 4
+max_words = 3
 
 [zh]
 fill = false

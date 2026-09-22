@@ -4,8 +4,13 @@
   apply.py --lng de            dry run: what would be inserted, plus a random sample to read
   apply.py --lng de --write    insert, then validate every touched file against the DTD
 
-Accepted = the script tier (packets.script_ok) plus, once judged, the accepted verdicts under
-out/queue.<lng>/results/.
+Accepted = the verdicts of the language's judge under out/queue.<lng>/results/. Nothing is
+written on evidence counts alone: Wiktionary lists Esperanto words by spelling, ReVo keeps
+homonyms apart, and only someone who reads the definition can tell which entry a word belongs to.
+
+A word with a register mark (marks.toml) is written as
+<trd lng="de" kod="ARK" fnt="...">Haupt <klr>(veraltet)</klr></trd>: kod for programs, where ReVo
+has a code, <klr> for readers.
 
 Idempotent: an entry that already has a translation in the language - anyone's - is skipped, and
 existing <trd> are never changed. Insertion is textual so the files keep their entities and
@@ -15,7 +20,7 @@ import argparse, json, random, re, sys, tomllib
 from collections import defaultdict
 from pathlib import Path
 from lxml import etree
-from packets import HERE, REVO, DTD, DtdResolver, fnt, parser, script_ok
+from packets import HERE, REVO, DTD, DtdResolver, fnt, mark_labels, parser
 
 BIB = REVO.parent / "cfg" / "bibliogr.xml"
 BIB_ENTRY = '''  <vrk mll="Vikt" tip="leksikono">
@@ -46,20 +51,32 @@ def encode(text, ents):
     return "".join(out)
 
 
-def script_tier(lng, cfg):
-    """Decisions that need no judge: strong pair agreement and an unambiguous sense."""
-    for line in open(HERE / "out" / f"packets.{lng}.jsonl", encoding="utf-8"):
-        e = json.loads(line)
-        good = [c for c in e["candidates"] if script_ok(c, lng, cfg)]
-        if not good:
-            continue
-        hint = good[0]["sense_hint"]
-        yield {"file": e["file"], "drv": e["mrk"], "eo": e["eo"], "lng": lng,
-               "node": hint[0] if len(hint) == 1 else None,
-               "words": [{"word": c["word"], "fnt": fnt(c, lng)} for c in good[: cfg.get("max_words", 3)]]}
+def judged_tier(lng, cfg):
+    """Accepted verdicts of the language's judge. A verdict only counts if the candidate it names is
+    still the same word in the current packets; one decision per sense the judge placed words in."""
+    model = cfg.get("judge")
+    q = HERE / "out" / f"queue.{lng}"
+    if not model or not (q / "results" / model).exists():
+        return
+    packets = {e["mrk"]: e for e in map(json.loads, open(HERE / "out" / f"packets.{lng}.jsonl", encoding="utf-8"))}
+    for res in sorted((q / "results" / model).glob("[0-9]*.json")):
+        sent = {(e["mrk"], c["id"]): c["word"] for e in json.loads((q / res.name).read_text(encoding="utf-8")) for c in e["candidates"]}
+        by_node = defaultdict(list)
+        for v in json.loads(res.read_text(encoding="utf-8"))["verdicts"]:
+            e = packets.get(v["entry"])
+            c = e and next((c for c in e["candidates"] if c["id"] == v["id"]), None)
+            if v["sense"] == "reject" or c is None or c["word"] != sent.get((v["entry"], v["id"])):
+                continue
+            mark = c.get("mark") or (v.get("mark") if v.get("mark") in c.get("marks", []) else "")
+            by_node[(v["entry"], None if v["sense"] == v["entry"] else v["sense"])].append({**c, "mark": mark})
+        for (mrk, node), cs in by_node.items():
+            e = packets[mrk]
+            cs.sort(key=lambda c: int(c["id"][1:]))
+            yield {"file": e["file"], "drv": mrk, "eo": e["eo"], "lng": lng, "node": node,
+                   "words": [{"word": c["word"], "mark": c["mark"], "fnt": fnt(c, lng, model)} for c in cs[: cfg.get("max_words", 3)]]}
 
 
-def plan_file(path, decisions, ents, p):
+def plan_file(path, decisions, ents, p, kods):
     """-> ([(line index, new lines, decision)], [(decision, why skipped)]) for one article."""
     with open(path, encoding="utf-8", newline="") as f:      # newline="": keep every byte as it is
         lines = f.read().splitlines(keepends=True)
@@ -101,12 +118,15 @@ def plan_file(path, decisions, ents, p):
         if not ok:
             skipped.append((d, "unusual layout")); continue
         ws = d["words"]
+        def trd(w, lng=None):
+            attrs = (f' lng="{lng}"' if lng else "") + (f' kod="{kods[w["mark"]]}"' if kods.get(w["mark"]) else "")
+            klr = f' <klr>{encode(w["mark"], ents)}</klr>' if w["mark"] else ""
+            return f'<trd{attrs} fnt="{w["fnt"]}">{encode(w["word"], ents)}{klr}</trd>'
         if len(ws) == 1:
-            new = [f'{indent}<trd lng="{d["lng"]}" fnt="{ws[0]["fnt"]}">{encode(ws[0]["word"], ents)}</trd>\n']
+            new = [f'{indent}{trd(ws[0], d["lng"])}\n']
         else:
             new = [f'{indent}<trdgrp lng="{d["lng"]}">\n']
-            new += [f'{indent}  <trd fnt="{w["fnt"]}">{encode(w["word"], ents)}</trd>{"," if i < len(ws) - 1 else ""}\n'
-                    for i, w in enumerate(ws)]
+            new += [f'{indent}  {trd(w)}{"," if i < len(ws) - 1 else ""}\n' for i, w in enumerate(ws)]
             new.append(f"{indent}</trdgrp>\n")
         d["node_used"] = node.get("mrk") or d["drv"]
         edits.append((at, new, d))
@@ -123,13 +143,13 @@ def main():
     if not cfg.get("fill") or cfg.get("needs"):
         sys.exit(f"{a.lng}: not switched on (fill={cfg.get('fill')}, needs={cfg.get('needs')})")
     by_file = defaultdict(list)
-    for d in script_tier(a.lng, cfg):
+    for d in judged_tier(a.lng, cfg):
         by_file[d["file"]].append(d)
-    ents, p = entity_map(), parser()
+    ents, p, kods = entity_map(), parser(), mark_labels(a.lng)
     done, skips, touched = [], [], []
     for name in sorted(by_file):
         path = REVO / name
-        lines, edits, skipped = plan_file(path, by_file[name], ents, p)
+        lines, edits, skipped = plan_file(path, by_file[name], ents, p, kods)
         skips += skipped
         if not edits:
             continue
@@ -147,7 +167,7 @@ def main():
           f' skipped: {dict(why) or "none"}')
     random.seed(7)
     for d in random.sample(done, min(a.sample, len(done))):
-        print(f'  {d["eo"]:<24} → {", ".join(w["word"] for w in d["words"]):<40} [{d["words"][0]["fnt"]}]')
+        print(f'  {d["eo"]:<24} → {", ".join(w["word"] + (" " + w["mark"] if w["mark"] else "") for w in d["words"]):<40} [{d["words"][0]["fnt"]}]')
     if not a.write:
         return
     v = etree.XMLParser(load_dtd=True, dtd_validation=True, no_network=True)

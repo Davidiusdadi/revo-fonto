@@ -2,8 +2,8 @@
 
 Fills missing translations in this ReVo fork from Wiktionary. No word is ever written by a
 language model: every inserted translation is one that Wiktionary editors put in a translation
-table next to the Esperanto word. Scripts decide where the evidence is strong; a model is only
-asked to accept or reject a given candidate where it is not.
+table next to the Esperanto word. Scripts collect the candidates and their evidence; a model
+reads each one against the entry's definition and may only accept it into a sense or reject it.
 
 ## Source
 
@@ -42,25 +42,87 @@ Exact match is a lower bound: in the strong tiers nearly all misses are synonyms
 variants (*Photograph* for ReVo's *Fotograph*, *Schraubendreher* for *Schraubenzieher*); the rest
 are near misses such as a broader term or a feminine form.
 
+### Other languages
+
+The same measurement for the strong-evidence rule (own edition, ≥ 4 editions, unambiguous sense,
+at most three words per entry), for every language that has an edition in the dumps:
+
+| | holdout match | holdout candidates | note |
+|---|---|---|---|
+| de · en | 90 % · 89 % | 4,068 · 5,303 | filled, through the judge, read by a speaker |
+| pt · ru · es | 93 % · 93 % · 91 % | 1,419 · 2,659 · 1,159 | not filled: needs a reader (below) |
+| nl · fr · pl · cs | 92 % · 92 % · 92 % · 89 % | 1,103 · 4,673 · 3,528 · 584 | not filled: needs a reader |
+| it · tr | 92 % · 91 % | 185 · 137 | not filled: needs a reader; small holdout |
+| el | 86 % | 198 | not filled: weaker, small holdout (88 % at ≥ 5 editions) |
+| ja · zh | 83 % · 80 % | 835 · 771 | not filled: misses are mostly script variants and synonyms, and ReVo writes a `<pr>` transcription that `apply.py` does not produce |
+| ku · ko | 71 % · 63 % | 98 · 177 | not filled: ReVo's own translations differ in kind (inflected forms, other vocabulary), so the holdout cannot vouch |
+
+Latin has no edition in the dumps, so only the "others only" column applies to it: 84 % at 6+
+editions on a holdout of 104, with vowel-length marks (*Mārs*) counted as misses. Not filled.
+
 What did **not** predict correctness: how many of ReVo's existing translations appear in the same
 Wiktionary row ("anchors"). A broad row lists several Esperanto and several German words, and an
 anchor confirms the row's sense, not the pairing. Anchors are used only to choose the `<snc>`.
 
 Two normalisations matter: en.wiktionary writes Cyrillic with stress accents (U+0301 is stripped
-before comparing), and it files dialects (Bavarian, Alemannic) under the parent language code.
+before comparing and never written), and it files dialects (Bavarian, Alemannic) under the parent language code.
 Those rows are not filtered out; a dialect word only gets through if several editions list it.
 
-## Tiers
+## Why counting is not enough: homonyms
 
-| | rule | decided by |
+A first version wrote the strong-evidence words without any model. Wiktionary lists an Esperanto
+word by its spelling only, while ReVo keeps homonyms as separate entries, and candidates are found
+by spelling. So *flea*, correct for *pulo*, was also written into the other *pulo*, a coin of
+Afghanistan; *Kiel* into *kilo* = kilogram; *almond* into *migdalo*, the part of the brain. Of the
+words written that way, 134 sat in entries that share their spelling with another entry, and of the
+German and English ones among them about three in four were wrong. A guard on same-spelled entries
+catches what ReVo knows, but not a meaning Wiktionary has and ReVo lacks. Requiring an anchor does
+not help either: *almond* has seven, because many languages use one word for both. Only reading
+the definition does, so every candidate now goes to the judge, which is shown the other
+same-spelled entries (`same_spelling`), and only languages someone here can read are filled.
+
+## Who decides
+
+| | | decided by |
 |---|---|---|
-| script | the language's own Wiktionary lists the pair, ≥ `script_min_editions` editions do in total (4 = own + 3 others: 80–94 % above), the source entry's part of speech does not contradict the Esperanto ending, and the sense is unambiguous (one sense, or all anchors point to one) | `apply.py`, no model |
-| judged | everything else that has a candidate: fewer editions, indirect sources only, or an ambiguous sense | a model with no tools, given a packet: accept into a sense, or reject |
+| judged | every gap entry that has a candidate | a model with no tools and no network, given a packet: accept into a sense, or reject |
 | — | Wiktionary has no candidate | nothing; out of scope |
 
+The packet (`judge/queue.py`) holds, per sense, the Esperanto definition, up to four examples with
+ReVo's style codes, cross-references and existing translations in up to eight languages; the
+article's root word with its definition; other entries of the same spelling; and per candidate the
+number of editions, whether the own edition is among them, the source entries and its register
+mark. One call judges a batch of 25 entries. `judge/prompt.md` carries a version number that is
+stored with every result.
+
+Measured on 300 German holdout entries (228 candidates, 36 % of which ReVo has): the share of
+accepted words that ReVo has was 64–67 % for claude-haiku-4-5, 61–74 % for claude-opus-5 depending
+on the prompt, 47–59 % for gpt-5.6-luna and -sol. The rest are largely valid synonyms, so the
+difference that mattered was in the errors read by hand: Haiku accepted *Vulkanolog*, *Jungfrau*
+for *virgulo* and the inflected *link*; Opus rejected them. Extended thinking did not repair any
+of them and flipped one verdict in six between runs. Asking Haiku whether a verdict was "obvious"
+did not either: it called every one of those errors obvious. Hence Opus for everything.
+`run.py --model gpt-…` runs the same batch through the Codex CLI for comparison.
+
 A language's judge is switched on only after it has been run on that language's holdout, where
-its accept/reject can be compared with what ReVo has. That is also how languages nobody here
-reads can be added later.
+its accept/reject can be compared with what ReVo has, and only when someone can read a sample of
+what it accepts.
+
+## Register marks
+
+Slang, dated or regional words are real translations (*Birne* for *kapo*), provided the reader is
+told. The mark is not the model's opinion: it comes from the tags the target language's own
+Wiktionary puts on the senses of the word (`sense_tags.py`), mapped in `marks.toml` to a ReVo
+code and to the label ReVo's translators already use in that language.
+
+- The sense that lists the Esperanto word is known, or all senses of the page agree: the mark is
+  set by script.
+- The senses differ (*Birne*: fruit, lamp, colloquially head): the packet offers the page's marks
+  and the judge chooses one or none for the sense it accepts the word in.
+- No page in the own edition: no mark; a word that is plainly not neutral is then rejected.
+
+Figurative use has no mark: ReVo expresses it by filing the word under a sense marked FIG, and
+the judge places each word under the sense it actually names.
 
 ## How an inserted translation is marked
 
@@ -68,9 +130,16 @@ ReVo cites through keys that resolve in `cfg/bibliogr.xml`. This adds the key `V
 `fnt` attribute the DTD provides on `<trd>` ("kie oni trovis la tradukon"):
 
 ```xml
-<trd lng="de" fnt="Vikt: de en fr ku pl ru">Bildhauer</trd>
-<trd lng="de" fnt="Vikt: en fr; juĝis claude-haiku-4-5">…</trd>
+<trd lng="de" fnt="Vikt: de en fr ku pl ru; juĝis claude-opus-5">Bildhauer</trd>
+<trd lng="de" kod="ARK" fnt="Vikt: en pl; juĝis claude-opus-5">Hürde <klr>(veraltet)</klr></trd>
+<trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Birne <klr>[ugs.]</klr></trd>
 ```
+
+A mark is written twice, for two readers: `kod` (the DTD's "komputile interpretebla kodo") holds
+the code from `stiloj.xml` or `fakoj.xml` where ReVo has one, for programs; `<klr>` holds the label
+for people, as ReVo's translators have always written it. Registers ReVo has no code for
+(colloquial, pejorative, regional, formal) have the label only. In `voko.db` these arrive as
+`trd.kod` and as a `klr` row whose `parent` is the translation.
 
 `Vikt: <editions listing the pair>[; juĝis <model>[ +reto]]`, the language's own edition first
 when it is among them. In that edition the page is the word itself
@@ -89,15 +158,20 @@ export WIKT_FREQ=/path/to/word-count.tsv # optional: orders the judge queue by u
 
 ./fetch.sh                               # download what is missing, verify against manifest.tsv
 ./extract.py de es en fr pl ru pt zh ja el nl cs it tr ko ku     # -> eo_links_all.db, ~25 min
-./packets.py --lng de                    # -> out/packets.de.jsonl, 15 s
+./sense_tags.py de                       # -> sense_tags.de.json: the own edition's register tags, 30 s
+./packets.py --lng de                    # -> out/packets.de.jsonl, 1 min
 ./packets.py --lng de --holdout && ./score.py out/holdout.de.jsonl   # the table above
-./apply.py --lng de                      # dry run + random sample to read
-./apply.py --lng de --write              # insert, then validate every touched file against the DTD
 
 judge/queue.py --lng de                  # fixed numbered batches of 25, most used words first
 judge/run.py --lng de --from 1 --to 5    # or --max-batches / --max-cost / --max-tokens
 judge/run.py --status                    # progress, spend (usage.tsv), projected remainder
+
+./apply.py --lng de                      # dry run + random sample to read
+./apply.py --lng de --write              # insert, then validate every touched file against the DTD
 ```
+
+`apply.py` reads `out/packets.<lng>.jsonl` and only uses a verdict whose candidate is still the
+same word there, so after any change to the XML run `packets.py` again before `apply.py`.
 
 `run.py` refuses to start without a limit. A batch result is written only when complete, so a run
 can be interrupted, and a finished batch is never paid for again.
