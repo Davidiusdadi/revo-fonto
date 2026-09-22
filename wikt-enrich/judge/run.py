@@ -12,7 +12,7 @@ A limit is mandatory. Each batch is one `claude -p` call with no tools and a JSO
 result lands in out/<queue>/results/NNNN.json only when complete, so interrupting is safe and a
 finished batch is never paid for again. Every call appends a row to usage.tsv.
 """
-import argparse, csv, datetime, json, os, subprocess, sys, tempfile, tomllib
+import argparse, csv, datetime, hashlib, json, os, subprocess, sys, tempfile, tomllib
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 from packets import HERE, mark_labels
@@ -21,6 +21,21 @@ USAGE = HERE / "usage.tsv"
 COLS = ["time", "queue", "batch", "model", "entries", "candidates", "in", "cache_read", "cache_write", "out", "cost_usd", "accepted", "rejected"]
 PROMPT = (Path(__file__).parent / "prompt.md").read_text(encoding="utf-8")
 SCHEMA = (Path(__file__).parent / "schema.json").read_text(encoding="utf-8")
+
+
+def batch_sha(p):
+    """A result belongs to the exact batch it judged; a rebuilt queue reuses numbers, not contents."""
+    return hashlib.sha256(p.read_bytes()).hexdigest()[:16]
+
+
+def done_for(res, p):
+    """True when res holds a result for this batch as it is now (older results carry no hash and
+    count as current: they predate the first rebuild)."""
+    r = res / p.name
+    if not r.exists():
+        return False
+    sha = json.loads(r.read_text(encoding="utf-8")).get("batch_sha")
+    return sha in (None, batch_sha(p))
 
 
 def rows():
@@ -106,7 +121,7 @@ def main():
     q = HERE / "out" / (f"queue.{a.lng}" + (".holdout" if a.holdout else "") + (f".{a.tag}" if a.tag else ""))
     label = model + ("+think" if a.think else "")
     res = q / "results" / label; res.mkdir(parents=True, exist_ok=True)
-    todo = [p for p in sorted(q.glob("[0-9]*.json")) if not (res / p.name).exists()
+    todo = [p for p in sorted(q.glob("[0-9]*.json")) if not done_for(res, p)
             and (not a.lo or a.lo <= int(p.stem) <= (a.hi or a.lo))]
     if a.max_batches: todo = todo[: a.max_batches]
     spent = tokens = 0.0; n = 0
@@ -138,7 +153,7 @@ def main():
                    cost_usd=f'{r.get("total_cost_usd", 0):.4f}', accepted=sum(v["sense"] != "reject" for v in ok),
                    rejected=sum(v["sense"] == "reject" for v in ok))
         row["in"] = u.get("input_tokens", 0)
-        (res / p.name).write_text(json.dumps({"model": model, "prompt_version": PROMPT.split("Version: ")[1].split()[0],
+        (res / p.name).write_text(json.dumps({"model": model, "batch_sha": batch_sha(p), "prompt_version": PROMPT.split("Version: ")[1].split()[0],
                                               "verdicts": ok, "dropped": len(raw["verdicts"]) - len(ok)}, ensure_ascii=False), encoding="utf-8")
         new = not USAGE.exists()
         with open(USAGE, "a", encoding="utf-8", newline="") as f:

@@ -176,13 +176,30 @@ same word there, so after any change to the XML run `packets.py` again before `a
 `run.py` refuses to start without a limit. A batch result is written only when complete, so a run
 can be interrupted, and a finished batch is never paid for again.
 
-## Reruns
+## Reviewing, reverting, refreshing
+
+Every added word stays recognisable by its `fnt`, and that is what makes later passes possible:
+a better model, corrected dumps, another source.
+
+- **Reviewed.** A person who checks a word appends `; kontrolita` to its `fnt`
+  (`fnt="Vikt: de en; juĝis claude-opus-5; kontrolita"`). The origin stays visible; who checked
+  it is in the commit log, as ReVo keeps people out of the XML. Reverting and refreshing leave
+  such words alone.
+- **Revert.** `revert.py --lng de [--judge MODEL] [--max-editions N] [--include-reviewed]`
+  (dry run; `--write` edits and validates) removes added words by what their `fnt` says. It only
+  removes lines in the shape `apply.py` wrote them, so a full revert restores the files
+  byte for byte; anything reshaped by hand is reported, not touched.
+- **Refresh.** `revert.py --write` for the unreviewed words, then `packets.py`, `judge/queue.py`,
+  `judge/run.py`, `apply.py` as for a first run. Each judge result stores a hash of the batch it
+  judged, so a rebuilt queue is judged again where its contents changed and never matched against
+  old verdicts. Verdicts are matched by word, not candidate number, and written in the order the
+  judge saw them: reverting and re-applying the same results reproduces the files exactly.
+  An entry that keeps a reviewed word is no longer a gap and is not judged again.
 
 The XML is the truth. The gap is recomputed from it each time, so an entry that has a translation
 in the language, from anyone, is never touched again, and a second run changes nothing. Existing
-`<trd>` are never edited or removed. `apply.py` inserts text and leaves every other byte alone
-(entities, line endings); a file whose layout is not one `<trd>` per line is reported and skipped.
-New dumps or upstream merges simply produce new packets.
+`<trd>` are never edited. `apply.py` inserts text and leaves every other byte alone (entities,
+line endings); a file whose layout is not one `<trd>` per line is reported and skipped.
 
 ## Licence note
 

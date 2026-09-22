@@ -21,6 +21,8 @@ from collections import defaultdict
 from pathlib import Path
 from lxml import etree
 from packets import HERE, REVO, DTD, DtdResolver, fnt, mark_labels, parser
+sys.path.insert(0, str(HERE / "judge"))
+from run import done_for
 
 BIB = REVO.parent / "cfg" / "bibliogr.xml"
 BIB_ENTRY = '''  <vrk mll="Vikt" tip="leksikono">
@@ -60,18 +62,22 @@ def judged_tier(lng, cfg):
         return
     packets = {e["mrk"]: e for e in map(json.loads, open(HERE / "out" / f"packets.{lng}.jsonl", encoding="utf-8"))}
     for res in sorted((q / "results" / model).glob("[0-9]*.json")):
+        if not done_for(q / "results" / model, q / res.name):
+            print(f"{res.name}: judged a different batch than the queue now holds, skipped (run judge/run.py)", file=sys.stderr)
+            continue
         sent = {(e["mrk"], c["id"]): c["word"] for e in json.loads((q / res.name).read_text(encoding="utf-8")) for c in e["candidates"]}
         by_node = defaultdict(list)
         for v in json.loads(res.read_text(encoding="utf-8"))["verdicts"]:
-            e = packets.get(v["entry"])
-            c = e and next((c for c in e["candidates"] if c["id"] == v["id"]), None)
-            if v["sense"] == "reject" or c is None or c["word"] != sent.get((v["entry"], v["id"])):
+            e = packets.get(v["entry"])           # by word: candidate numbers shift when other languages fill in
+            word = sent.get((v["entry"], v["id"]))
+            c = e and next((c for c in e["candidates"] if c["word"] == word), None)
+            if v["sense"] == "reject" or c is None:
                 continue
             mark = c.get("mark") or (v.get("mark") if v.get("mark") in c.get("marks", []) else "")
-            by_node[(v["entry"], None if v["sense"] == v["entry"] else v["sense"])].append({**c, "mark": mark})
+            by_node[(v["entry"], None if v["sense"] == v["entry"] else v["sense"])].append({**c, "mark": mark, "judged_as": v["id"]})
         for (mrk, node), cs in by_node.items():
             e = packets[mrk]
-            cs.sort(key=lambda c: int(c["id"][1:]))
+            cs.sort(key=lambda c: int(c["judged_as"][1:]))   # the order the judge saw: strongest first
             yield {"file": e["file"], "drv": mrk, "eo": e["eo"], "lng": lng, "node": node,
                    "words": [{"word": c["word"], "mark": c["mark"], "fnt": fnt(c, lng, model)} for c in cs[: cfg.get("max_words", 3)]]}
 
