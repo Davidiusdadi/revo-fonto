@@ -441,6 +441,10 @@
     <trd>&c_z;&c_n;&c_o;&c_w;</trd>,
     <trd>&c_p;&c_a;&c_w;&c_t;&c_o;&c_r;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="Vikt: en; juĝis claude-opus-5">noch einmal</trd>,
+    <trd fnt="Vikt: en; juĝis claude-opus-5">nochmals</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>once more</trd>,
     <trd>again</trd>,
@@ -489,6 +493,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">diesmal</trd>
   </snc>
   <trd lng="en">this time</trd>
   <trdgrp lng="ja">
@@ -591,6 +596,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en fr ja ko ku pl; juĝis claude-opus-5">manchmal</trd>,
+      <trd fnt="Vikt: de fr ko; juĝis claude-opus-5">gelegentlich</trd>,
+      <trd fnt="Vikt: ko; juĝis claude-opus-5">von Zeit zu Zeit</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_ch;&c_a;&c_s;&c_a;&c_m;</trd>,

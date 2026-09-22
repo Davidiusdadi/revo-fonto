@@ -50,6 +50,7 @@
             <fnt><bib>Revadoj</bib>, <lok>Sepa promenado</lok></fnt>.
           </ekz>
         </dif>
+        <trd lng="de" kod="ARK" fnt="Vikt: fr; juĝis claude-opus-5">affektieren <klr>(veraltet)</klr></trd>
         <trdgrp lng="fr">
           <trd>affecter<klr tip="ind"> (adopter une
           attitude)</klr></trd>,
@@ -201,6 +202,11 @@
             <ref cel="inklin.kor0o">korinklino</ref>.
           </refgrp>
         </rim>
+        <trdgrp lng="de">
+          <trd fnt="Vikt: fr pl; juĝis claude-opus-5">Ziererei</trd>,
+          <trd fnt="Vikt: fr pl; juĝis claude-opus-5">Affektiertheit</trd>,
+          <trd fnt="Vikt: fr; juĝis claude-opus-5">Gehabe</trd>
+        </trdgrp>
       </snc>
   <trdgrp lng="cs">
     <trd>afekt</trd>,
@@ -327,6 +333,10 @@
             <fnt><bib>UrdHadda</bib>, <lok>p. 12</lok></fnt>.
           </ekz>
         </dif>
+        <trdgrp lng="de">
+          <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">affektiert</trd>,
+          <trd fnt="Vikt: fr ru; juĝis claude-opus-5">geziert</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>affect&eacute;<klr tip="ind"> (qui trahit de
               l'affectation)</klr></trd>,
@@ -361,6 +371,11 @@
             <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 24</lok></fnt>.
           </ekz>
         </dif>
+        <trdgrp lng="de">
+          <trd fnt="Vikt: en; juĝis claude-opus-5">erheuchelt</trd>,
+          <trd fnt="Vikt: en; juĝis claude-opus-5">simuliert</trd>,
+          <trd fnt="Vikt: en; juĝis claude-opus-5">vorgespiegelt</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>affect&eacute;<klr tip="ind"> (feint)</klr></trd>,
           <trd>artificiel<klr tip="ind"> (feint)</klr></trd>,
@@ -522,6 +537,7 @@
             </fnt>.
           </ekz>
         </dif>
+        <trd lng="de" fnt="Vikt: ru; juĝis claude-opus-5">Poseur</trd>
       </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_z;&c_jo;&c_r;</trd>,
@@ -576,6 +592,7 @@
             <fnt><bib>UrdHadda</bib>, <lok>p. 7</lok></fnt>.
           </ekz>
         </dif>
+        <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">unpr&auml;tenti&ouml;s</trd>
       </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_y;</trd>,

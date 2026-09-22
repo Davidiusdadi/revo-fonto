@@ -815,6 +815,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="de" fnt="Vikt: en fr; juĝis claude-opus-5">plump <klr>[pej.]</klr></trd>
     </subsnc>
     <subsnc mrk="delika.mal0a.io_bona">
       <dif>
@@ -834,7 +835,9 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">derb</trd>
     </subsnc>
+    <trd lng="de" fnt="Vikt: de es fr; juĝis claude-opus-5">grob</trd>
   </snc>
   <snc mrk="delika.mal0a.iu">
     <uzo tip="klr">(iu)</uzo>
@@ -859,6 +862,11 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="Vikt: en es; juĝis claude-opus-5">ungeschliffen</trd>,
+        <trd kod="ARK" fnt="Vikt: de fr; juĝis claude-opus-5">barsch <klr>(veraltet)</klr></trd>,
+        <trd fnt="Vikt: es; juĝis claude-opus-5">flegelhaft</trd>
+      </trdgrp>
     </subsnc>
   </snc>
   <trdgrp lng="be">
@@ -1043,6 +1051,10 @@
     <refgrp tip="vid">
       <ref cel="sxtip.0o">&scirc;tipo</ref>.
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">Flaps <klr>[ugs.]</klr></trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">Raubein</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_u;&c_b;&c_ib;&c_ja;&c_n;</trd>
   <trdgrp lng="ca">

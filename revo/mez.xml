@@ -427,6 +427,7 @@
     <refgrp tip="vid">
       <ref cel="pont.0o">ponto</ref>.
     </refgrp>
+  <trd lng="de" fnt="Vikt: en ku; juĝis claude-opus-5">mittlere</trd>
   <trd lng="id">tengah</trd>
   </snc>
   <snc mrk="mez.0a.averagxa">
@@ -486,6 +487,7 @@
         <trd lng="hu">&aacute;tlagos min&odblac;s&eacute;g&udblac;</trd>
       </ekz>
     </dif>
+  <trd lng="de" fnt="Vikt: ku; juĝis claude-opus-5">durchschnittlich</trd>
   <trdgrp lng="id">
     <trd>rata-rata</trd>,
     <trd><baz>rata</baz>rerata</trd>,

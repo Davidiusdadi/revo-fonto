@@ -24,6 +24,10 @@
     <refgrp tip="vid">
       <ref cel="floem.0o.BOT">floemo</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en fr pt zh; juĝis claude-opus-5">Xylem</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">Holzteil</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_s;&c_y;&c_l;&c_je;&c_m;&c_a;</trd>
   <trd lng="cs">xyl&eacute;m</trd>

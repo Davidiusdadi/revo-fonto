@@ -414,6 +414,10 @@
 	 <fnt><bib>FK</bib> <lok>3, anekdotoj</lok></fnt>!
        </ekz>
      </dif>
+     <trdgrp lng="de">
+       <trd fnt="Vikt: en; juĝis claude-opus-5">bejahrt <klr>(gehoben)</klr></trd>,
+       <trd fnt="Vikt: en; juĝis claude-opus-5">betagt <klr>(gehoben)</klr></trd>
+     </trdgrp>
    </snc>
    <trd lng="be">&c_s;&c_t;&c_a;&c_r;&c_y;</trd>
    <trdgrp lng="br">
@@ -456,6 +460,7 @@
           Babel</lok></fnt>.
        </ekz>
      </dif>
+     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">Senior</trd>
    </snc>
    <trd lng="be">&c_s;&c_t;&c_a;&c_r;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
    <trdgrp lng="ca">
@@ -582,6 +587,7 @@
 	 <fnt><bib>Metrop</bib></fnt>.
        </ekz>
      </dif>
+     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">mittelalt</trd>
      <trd lng="th">&#3623;&#3633;&#3618;&#3585;&#3621;&#3634;&#3591;&#3588;&#3609;</trd>
    </snc>
    <trd lng="be">&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ja;&c_g;&c_a;
@@ -1104,6 +1110,11 @@ Betra&hcirc;</lok></fnt>.
       <ref cel="period.0o.dauxro">periodo<sncref/></ref>,
       <ref cel="temp.0o.KAL">tempo<sncref/></ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Epoche</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Zeitalter</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">&Auml;ra</trd>
+    </trdgrp>
   </snc>
    <trd lng="be">&c_e;&c_p;&c_o;&c_h;&c_a;</trd>
    <trd lng="br">oadvezh</trd>

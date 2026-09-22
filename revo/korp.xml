@@ -396,6 +396,11 @@
     <trd>zrakov&eacute;</trd>,
     <trd>&ccaron;ichov&eacute;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="Vikt: de en pl; juĝis claude-opus-5">k&ouml;rperlich</trd>,
+    <trd fnt="Vikt: en; juĝis claude-opus-5">K&ouml;rper-</trd>,
+    <trd fnt="Vikt: en; juĝis claude-opus-5">physisch</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>bodily</trd>,
     <trd>corporeal</trd>
@@ -666,6 +671,10 @@
       <ref cel="konkre.0igxi">konkreti&gcirc;i</ref>,
       <ref cel="person.0igi">personigi</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Inkarnation</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Verk&ouml;rperung</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_u;&c_c;&c_je;&c_l;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,

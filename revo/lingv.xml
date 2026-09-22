@@ -1271,6 +1271,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: en fr zh; juĝis claude-opus-5">tote Sprache</trd>
   </snc>
   <rim mrk="lingv.mortinta0o.RIM">
     PV kaj la PIV-oj ne mencias la bone atestitan zamenhofan
@@ -1363,6 +1364,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en it ja nl tr zh; juĝis claude-opus-5">konstruierte Sprache</trd>,
+      <trd fnt="Vikt: de en ja nl zh; juĝis claude-opus-5">Plansprache</trd>,
+      <trd fnt="Vikt: en ja zh; juĝis claude-opus-5">Kunstsprache</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_l;&c_ja;&c_n;&c_a;&c_v;&c_a;&c_ja; <ind>&c_m;&c_o;&c_v;&c_a;</ind></trd>
   <trd lng="ca">llengua planificada</trd>
@@ -1498,6 +1504,11 @@
     <refgrp tip="ant">
       <ref cel="lingv.unu0ismo.LIN">unu<tld/>ismo</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en nl; juĝis claude-opus-5">Mehrsprachigkeit</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Multilingualismus</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Vielsprachigkeit</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_sh;&c_m;&c_a;&c_t;&c_m;&c_o;&c_w;&c_je;</trd>
   <trdgrp lng="ca">
@@ -2188,6 +2199,7 @@
              >Formala lingvo</url></lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">formale Sprache</trd>
   </snc>
   <trd lng="be">&c_f;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
   <ind>&c_m;&c_o;&c_v;&c_a;</ind></trd>

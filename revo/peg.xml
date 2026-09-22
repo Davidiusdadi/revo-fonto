@@ -152,6 +152,7 @@
       <trd>picot negre</trd>,
       <trd>pigot negre</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: en fr; juĝis claude-opus-5">Schwarzspecht</trd>
     <trdgrp lng="en">
       <trd>black <ind>woodpecker</ind></trd>,
       <trd><ind>Dryocopus</ind> martius <klr>(species)</klr></trd>
@@ -196,6 +197,7 @@
       <trd>pigot</trd>,
       <trd>picacarrasques</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">Gr&uuml;nspecht</trd>
     <trd lng="en"><klr>european </klr>green <ind>woodpecker</ind></trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; zielony</trd>
     <trd lng="sv">gr&ouml;ng&ouml;ling</trd>
@@ -229,6 +231,7 @@
       <trd>picot cendr&oacute;s</trd>,
       <trd>pigot cendr&oacute;s</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Grauspecht</trd>
     <trd lng="en">grey-headed <ind>woodpecker</ind></trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; zielonosiwy</trd>
     <trd lng="sv">gr&aring;spett</trd>
@@ -315,6 +318,7 @@
       <trd>picot garser gros</trd>,
       <trd>pigot garser gros</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: en fr; juĝis claude-opus-5">Buntspecht</trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; du&zdot;y</trd>
     <trd lng="sv">st&ouml;rre <ind>hackspett</ind></trd>
   </snc>
@@ -347,6 +351,7 @@
       <trd>picot garser mitj&agrave;</trd>,
       <trd>pigot garser mitj&agrave;</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Mittelspecht</trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; &sacute;redni</trd>
     <trd lng="sv">mellanspett</trd>
   </snc>
@@ -378,6 +383,7 @@
       <trd>picot garser petit</trd>,
       <trd>pigot garser petit</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: en fr; juĝis claude-opus-5">Kleinspecht</trd>
     <trdgrp lng="pl">
       <trd>dzi&eogonek;cio&lstroke; ma&lstroke;y</trd>,
       <trd>dzi&eogonek;cio&lstroke;ek</trd>
@@ -414,6 +420,7 @@
       <trd>picot garser sir&iacute;ac</trd>,
       <trd>pigot garser sir&iacute;ac</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Blutspecht</trd>
     <trd lng="en">syrian <ind>woodpecker</ind></trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; bia&lstroke;oszyi</trd>
   </snc>
@@ -446,6 +453,7 @@
       <trd>picot garser dorsblanc</trd>,
       <trd>pigot garser dorsblanc</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Wei&szlig;r&uuml;ckenspecht</trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; bia&lstroke;ogrzbiety</trd>
     <trd lng="sv">vitryggig <ind>hackspett</ind></trd>
   </snc>
@@ -481,6 +489,7 @@
       <trd>picot trid&agrave;ctil</trd>,
       <trd>pigot trid&agrave;ctil</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Dreizehenspecht</trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; tr&oacute;jpalczasty</trd>
     <trd lng="sv">tret&aring;ig <ind>hackspett</ind></trd>
   </snc>

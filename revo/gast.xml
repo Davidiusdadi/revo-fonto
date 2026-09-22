@@ -473,6 +473,10 @@
       <trd>hostit</trd>,
       <trd>pohostit</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: de en zh; juĝis claude-opus-5">aufnehmen</trd>,
+      <trd fnt="Vikt: de el fr; juĝis claude-opus-5">beherbergen</trd>
+    </trdgrp>
     <trd lng="en">host <klr>(as guest)</klr></trd>
     <trdgrp lng="es">
       <trd>albergar</trd>,
@@ -537,6 +541,10 @@
       </ekz>
     </dif>
     <trd lng="ca">acollir<klr tip="amb"> (un esdeveniment)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en zh; juĝis claude-opus-5">Gastgeber sein</trd>,
+      <trd fnt="Vikt: en zh; juĝis claude-opus-5">ausrichten</trd>
+    </trdgrp>
     <trd lng="en">host <klr>(an event)</klr></trd>
     <trd lng="id"><baz>tuan</baz>menuanrumahi</trd>
   </snc>

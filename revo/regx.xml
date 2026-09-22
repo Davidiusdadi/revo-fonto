@@ -429,6 +429,10 @@
       <trd>&c_c;&c_a;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_w;&c_l;&c_a;&c_d;&c_a;</trd>,
       <trd>&c_k;&c_a;&c_r;&c_a;&c_l;&c_je;&c_w;&c_s;&c_k;&c_a;&c_ja; &c_w;&c_l;&c_a;&c_d;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">K&ouml;nigschaft</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">K&ouml;nigsw&uuml;rde</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_k;&c_o;&c_r;&c_o;&c_l;&c_je;&c_v;&c_s;&c_k;&c_a;&c_ja;
       &c_v;&c_l;&c_a;&c_s;&c_t;&c_mol;</trd>,
@@ -1130,6 +1134,7 @@
       </ekz> kaj resp. &leftquot;<esc>&Scirc;arlervao</esc>&rightquot; (por la urboj en
       regionoj franclingvaj).
     </rim>
+  <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Charleroi</trd>
   <trd lng="en">Charleroi</trd>
   </snc>
 <trd lng="id">Charleroi</trd>

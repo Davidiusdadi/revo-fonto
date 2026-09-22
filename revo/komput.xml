@@ -211,6 +211,10 @@
     Scienco pri komputado, precipe pri la a&ubreve;tomata komputado per
     komputiloj.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: de en fr zh; juĝis claude-opus-5">Informatik</trd>,
+      <trd fnt="Vikt: en zh; juĝis claude-opus-5">Computerwissenschaft</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
   <trd lng="fr">informatique</trd>
@@ -433,6 +437,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">Informatiker</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_u;&c_t;&c_a;&c_r;&c_sh;&c_ch;&c_y;&c_k;</trd>
   <trdgrp lng="es">
@@ -616,6 +621,7 @@
      </ekz>
     </dif>
     <trd lng="be">&c_p;&c_l;&c_ja;&c_n;&c_sh;&c_e;&c_t; <klr>(&c_k;&c_a;&c_m;&c_p;&c_u;&c_t;&c_a;&c_r;)</klr></trd>
+   <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">Tablet</trd>
    <trd lng="en">tablet computer</trd>
    <trdgrp lng="es">
      <trd>tableta</trd>,
@@ -836,6 +842,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_l;&c_ja;&c_n;&c_sh;&c_e;&c_t; <klr>(&c_k;&c_a;&c_m;&c_p;&c_u;&c_t;&c_a;&c_r;)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">Tablet</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Tablet-Computer</trd>
+    </trdgrp>
     <trd lng="fr">tablette</trd>
     <trd lng="pl">komputer przeno&sacute;ny</trd>
     <trd lng="ro">calculatoare portabile</trd>

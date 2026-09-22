@@ -415,6 +415,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: en es pl; juĝis claude-opus-5">einfach</trd>
     <trd lng="en">simply <klr>(in a simple way)</klr></trd>
   </snc>
   <snc mrk="simpl.0e.nure">
@@ -437,6 +438,11 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="Vikt: de; juĝis claude-opus-5">halt</trd>,
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">nur</trd>,
+    <trd fnt="Vikt: de; juĝis claude-opus-5">eben</trd>
+  </trdgrp>
   <trd lng="en">simply <klr>(merely)</klr></trd>
   </snc>
 </drv>

@@ -142,6 +142,7 @@
     <refgrp tip="sin">
       <ref cel="negati.0a.nega">negativa<sncref/></ref>
     </refgrp>
+    <trd lng="de" fnt="Vikt: fr pt; juĝis claude-opus-5">negativ</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_m;&c_o;&c_w;&c_n;&c_y;</trd>,
@@ -185,6 +186,11 @@
     <refgrp tip="sin">
       <ref cel="negaci.0o">negacio</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">Negierung</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">Verneinung</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">Negation</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_m;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,

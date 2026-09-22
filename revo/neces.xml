@@ -355,6 +355,7 @@
       <ref cel="nepr.0i">nepri</ref>,
 <ref cel="u1.0">-u</ref>
     </refgrp>
+  <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">notwendig sein</trd>
   <trd lng="en">be <ind>necessary</ind></trd>
   </snc>
   <trdgrp lng="be">
@@ -1191,6 +1192,10 @@
     <trd>superflu</trd>
   </trdgrp>
   <trd lng="cs">nepot&rcaron;ebn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="Vikt: de en ru; juĝis claude-opus-5">unn&ouml;tig</trd>,
+    <trd fnt="Vikt: el fr; juĝis claude-opus-5">&uuml;berfl&uuml;ssig</trd>
+  </trdgrp>
   <trd lng="en">unnecessary</trd>
   <trdgrp lng="es">
     <trd>innecesario</trd>,

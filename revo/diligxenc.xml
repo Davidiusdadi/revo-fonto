@@ -33,6 +33,10 @@
       <ref tip="vid" cel="kurier.0o.POSX">kuriero</ref>
       <ref tip="super" cel="vetur.0ilo.TRA">po&scirc;toveturilo</ref>
     </dif>
+    <trdgrp lng="de">
+      <trd kod="ARK" fnt="Vikt: fr ru; juĝis claude-opus-5">Diligence <klr>(veraltet)</klr></trd>,
+      <trd kod="HIS" fnt="Vikt: fr ru; juĝis claude-opus-5">Postkutsche <klr>(hist.)</klr></trd>
+    </trdgrp>
     <trd lng="fr">diligence<klr> (v&eacute;hicule)</klr></trd>
     <trd lng="pl">dyli&zdot;ans</trd>
   </snc>

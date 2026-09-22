@@ -18,6 +18,11 @@
       medioj. -->
     </dif>
     <trd lng="be">&c_d;&c_e;&c_m;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: de en ku nl ru zh; juĝis claude-opus-5">Demografie</trd>,
+      <trd fnt="Vikt: en ku ru zh; juĝis claude-opus-5">Bev&ouml;lkerungswissenschaft</trd>,
+      <trd fnt="Vikt: it ru; juĝis claude-opus-5">Demographie</trd>
+    </trdgrp>
     <trd lng="pl">demografia</trd>
   </snc>
   <snc mrk="demografi.0o.POL">
@@ -91,6 +96,7 @@
     <refgrp tip="sin">
       <ref cel="demograf.0o">demografo</ref>
     </refgrp>
+    <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Demograf</trd>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_m;&c_o;&c_g;&c_r;&c_a;&c_f;</trd>
   <trd lng="en">demographer</trd>

@@ -418,6 +418,7 @@
       <trd>&agrave;guila daurada</trd>,
       <trd>&agrave;guila reial</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: de en ko nl; juĝis claude-opus-5">Steinadler</trd>
     <trd lng="en">golden <ind>eagle</ind></trd>
     <trd lng="es">&aacute;guila real</trd>
     <trd lng="it"><ind>aquila</ind> reale</trd>
@@ -471,6 +472,7 @@
     </dif>
     <trd lng="be">&c_a;&c_r;&c_o;&c_l;-&c_m;&c_a;&c_g;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
     <trd lng="ca">&agrave;guila imperial</trd>
+    <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Kaiseradler</trd>
     <trd lng="en">imperial <ind>eagle</ind></trd>
     <trd lng="es">&aacute;guila imperial</trd>
     <trd lng="it"><ind>aquila</ind> imperiale</trd>
@@ -530,6 +532,7 @@
       Specio de <ref tip="super" cel="agl.0o">aglo</ref> (<trd lng="la">Aquila nipalensis</trd>).
     </dif>
     <trd lng="ca">&agrave;guila d'estepa</trd>
+    <trd lng="de" fnt="Vikt: fr pl; juĝis claude-opus-5">Steppenadler</trd>
     <trd lng="en">steppe <ind>eagle</ind></trd>
     <trd lng="it"><ind>aquila</ind> delle steppe</trd>
     <trd lng="pl">orze&lstroke; stepowy</trd>
@@ -561,6 +564,7 @@
       <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_r;&c_l;&c_ib;&c_k; &c_v;&c_ja;&c_l;&c_ib;&c_k;&c_ib;</trd>
     </trdgrp>
     <trd lng="ca">&agrave;guila cridanera</trd>
+    <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">Schelladler</trd>
     <trd lng="en">spotted <ind>eagle</ind></trd>
     <trdgrp lng="it">
       <trd><ind>aquila</ind> macchiata</trd>
@@ -642,6 +646,7 @@
        <trd lng="la">Hieraaetus fasciatus</trd>).
     </dif>
     <trd lng="ca">&agrave;guila cuabarrada</trd>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Habichtsadler</trd>
     <trd lng="en">Bonelli&#8217;s eagle</trd>
     <trd lng="it"><ind>aquila</ind> del Bonelli</trd>
     <trd lng="la">Hieraaetus fasciatus</trd>
@@ -707,6 +712,7 @@
     </dif>
     <ref tip="sin" cel="cirkaet.0o">cirkaeto</ref>
     <trd lng="ca">&agrave;guila marcenca</trd>
+    <trd lng="de" fnt="Vikt: fr pl; juĝis claude-opus-5">Schlangenadler</trd>
     <trd lng="en">short-toed <ind>eagle</ind></trd>
     <trdgrp lng="fr">
       <trd>circa&egrave;te</trd>,

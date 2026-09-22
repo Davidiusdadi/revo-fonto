@@ -1501,6 +1501,7 @@
     <refgrp tip="vid">
       sin <ref cel="demand.0i.KOMUNE">demandi</ref>
     </refgrp>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">sich fragen</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_c;&c_ib;&c_k;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>,
@@ -1571,6 +1572,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">neugierig</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">wissbegierig</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_a;&c_p;&c_y;&c_t;&c_l;&c_ib;&c_v;&c_y;</trd>,
@@ -1897,6 +1902,7 @@
         <fnt>Metrop</fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Neugierige</trd>
   </snc>
   <trd lng="be">&c_c;&c_ib;&c_k;&c_a;&c_w;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>
   <trd lng="fr">curieux<klr> (subst.)</klr></trd>

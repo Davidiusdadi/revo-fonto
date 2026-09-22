@@ -226,6 +226,11 @@
         <trd lng="hu">jobb sz&aacute;z irigy, mint egy <ind>sz&aacute;n&oacute;</ind></trd>
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">anteilnehmend</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">mitf&uuml;hlend</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">mitleidig</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_p;&c_a;&c_ch;&c_u;&c_t;&c_l;&c_ib;&c_v;&c_y;</trd>,
@@ -698,6 +703,11 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="felicx.mal0a">malfeli&ccirc;a</ref>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en fr ja ku; juĝis claude-opus-5">arm</trd>,
+      <trd fnt="Vikt: de fr ku; juĝis claude-opus-5">erb&auml;rmlich</trd>,
+      <trd fnt="Vikt: fr ku; juĝis claude-opus-5">armselig <klr>[pej.]</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_zh;&c_a;&c_l;&c_a;&c_s;&c_n;&c_y;</trd>,
@@ -1005,6 +1015,11 @@
         <fnt><bib>Revadoj</bib>, <lok>Tria promenado</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: de en ru; juĝis claude-opus-5">unbarmherzig</trd>,
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">gnadenlos</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">erbarmungslos</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_ja;&c_z;&c_mol;&c_l;&c_ib;&c_t;&c_a;&c_s;&c_n;&c_y;</trd>,
@@ -1091,6 +1106,10 @@
         <fnt><bib>Metrop</bib>, <lok>&ccirc;ap. 3</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">Gnadenlosigkeit</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">Unbarmherzigkeit</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_ja;&c_z;&c_mol;&c_l;&c_ib;&c_t;&c_a;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,

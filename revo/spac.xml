@@ -496,6 +496,10 @@
     </dif>
     <trd lng="be">&c_p;&c_r;&c_a;&c_b;&c_je;&c_l;</trd>
     <trd lng="ca">espai <klr>(tip.)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">Leerzeichen</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Spatium</trd>
+    </trdgrp>
     <trd lng="en">space <klr>(character)</klr></trd>
     <trdgrp lng="fr">
       <trd>blanc<klr> (typogr.)</klr></trd>,

@@ -110,6 +110,11 @@
       <ref cel="supoz.0eble">supozeble</ref>,
       <ref cel="sxajn.ver0e">ver&scirc;ajne</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: fr ku nl ru; juĝis claude-opus-5">wahrscheinlich</trd>,
+      <trd fnt="Vikt: fr ku nl; juĝis claude-opus-5">wohl</trd>,
+      <trd fnt="Vikt: ku ru; juĝis claude-opus-5">voraussichtlich</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_ib;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_a;</trd>,
@@ -233,6 +238,7 @@
         <fnt><bib>PIV1</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">Wahrscheinlichkeit</trd>
   </snc>
   <trd lng="be">&c_ib;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">

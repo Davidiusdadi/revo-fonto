@@ -239,6 +239,7 @@
       <trd>&c_p;&c_je;&c_r;&c_a;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>,
       <trd>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_l;&c_ib;&c_v;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">variabel</trd>
     <trd lng="en">variable<klr> (adj.)</klr></trd>
     <trdgrp lng="id">
       <trd><baz>ubah</baz>berubah-ubah</trd>,
@@ -260,6 +261,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_r;&c_a;&c_z;&c_n;&c_a;&c_s;&c_t;&c_a;&c_j;&c_n;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">abwechslungsreich</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">vielf&auml;ltig</trd>
+    </trdgrp>
     <trd lng="en">various</trd>
     <trdgrp lng="id">
       <trd><baz>variasi</baz>bervariasi</trd>,
@@ -475,6 +480,7 @@
     <trd>obm&ecaron;na</trd>,
     <trd>varianta</trd>
   </trdgrp>
+  <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">Variable</trd>
   <trd lng="en">variable</trd>
   <trd lng="hu">v&aacute;ltoz&oacute;</trd>
   <trdgrp lng="id">
@@ -503,6 +509,10 @@
         <tld/>ema vetero, vorto.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">variabel</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">ver&auml;nderlich</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_mol;&c_m;&c_je;&c_n;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>,

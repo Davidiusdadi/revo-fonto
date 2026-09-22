@@ -230,6 +230,10 @@
       <klr>(&c_t;&c_a;&c_v;&c_a;&c_r;&c_a;&c_w;,
       &c_k;&c_a;&c_p;&c_ib;&c_t;&c_a;&c_l;&c_a;&c_w;)</klr></trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: de ja pl pt ru; juĝis claude-opus-5">Export</trd>,
+      <trd fnt="Vikt: de ja; juĝis claude-opus-5">Ausfuhr</trd>
+    </trdgrp>
     <trd lng="en">exportation</trd>
     <trdgrp lng="fr">
       <trd>exportation<klr tip="ind"> (acte d'exporter)</klr></trd>,

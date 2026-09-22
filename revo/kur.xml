@@ -505,6 +505,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: de en; juĝis claude-opus-5">rasen</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">rennen</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_g;&c_m;&c_a; &c_b;&c_je;&c_g;&c_ch;&c_y;</trd>
   <trd lng="en">rush</trd>
@@ -835,6 +839,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">herbeieilen</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_b;&c_je;&c_g;&c_ch;&c_y; <klr>(&c_l;&c_a;
   &c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;/&c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
@@ -951,6 +956,7 @@
         <fnt><bib>Far2</bib><lok>&ccirc;ap. 18</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">weglaufen</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_b;&c_je;&c_g;&c_ch;&c_y;</trd>
   <trd lng="br">redek eus</trd>
@@ -1219,6 +1225,10 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="kur.cxas0i">&ccirc;as<tld/>i</ref>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en fr ko; juĝis claude-opus-5">verfolgen</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">hinterherrennen</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_g;&c_n;&c_a;&c_c;&c_c;&c_a;</trd>,
@@ -1763,6 +1773,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Rennen</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Wettrennen</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">Wettlauf</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_je;&c_g; &c_n;&c_a;&c_v;&c_y;&c_p;&c_je;&c_r;&c_a;&c_d;&c_k;&c_ib;</trd>,

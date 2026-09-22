@@ -377,6 +377,10 @@ et 4 : quart)</klr></trd>
          Vd adm sub frakciigi. <aut>MB</aut>
        </adm>
        <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol; &c_n;&c_a; &c_r;&c_o;&c_w;&c_n;&c_y;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_k;&c_ib;</trd>
+       <trdgrp lng="de">
+         <trd fnt="Vikt: en es fr; juĝis claude-opus-5">aufteilen</trd>,
+         <trd fnt="Vikt: en es fr; juĝis claude-opus-5">einteilen</trd>
+       </trdgrp>
        <trd lng="id"><baz>pecah</baz>memecah (pecahan)</trd>
        <trd lng="pl">podzieli&cacute; <klr tip="amb">
 (na r&oacute;wne cz&eogonek;&sacute;ci)</klr></trd>
@@ -390,6 +394,7 @@ et 4 : quart)</klr></trd>
          <ref cel="divid.0i.MAT">Dividi</ref> per entjero.
        </dif>
      <trd lng="be">&c_d;&c_z;&c_ja;&c_l;&c_ib;&c_c;&c_mol; &c_n;&c_a; &c_c;&c_e;&c_l;&c_y; &c_l;&c_ib;&c_k;</trd>
+     <trd lng="de" fnt="Vikt: en es fr; juĝis claude-opus-5">dividieren</trd>
      <trd lng="id"><baz>bagi</baz>membagi dgn bilangan bulat</trd>
      </snc>
   <trdgrp lng="cs">

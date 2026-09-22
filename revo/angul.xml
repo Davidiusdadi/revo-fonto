@@ -725,6 +725,10 @@
     <trd>polyedr</trd>,
     <trd>v&iacute;ce&uacute;heln&iacute;k</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="Vikt: en fr ko pl pt ru zh; juĝis claude-opus-5">Vieleck</trd>,
+    <trd fnt="Vikt: en fr ko pl pt zh; juĝis claude-opus-5">Polygon</trd>
+  </trdgrp>
   <trd lng="es">pol&iacute;gono</trd>
   <trd lng="hu">soksz&ouml;g</trd>
   <trdgrp lng="id">
@@ -1041,6 +1045,7 @@
       Nord-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Triangulum</trd>).
     </dif>
+    <trd lng="de" fnt="Vikt: el pt; juĝis claude-opus-5">Dreieck</trd>
   </snc>
   <trd lng="be">&c_T;&c_r;&c_y;&c_k;&c_u;&c_t;&c_n;&c_ib;&c_k; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#8217;&c_je;)</klr></trd>
   <trd lng="en">Triangulum</trd>

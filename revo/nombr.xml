@@ -1573,6 +1573,10 @@
       <trd>innombrable</trd>,
       <trd>incomptable</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">unz&auml;hlig</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">zahllos</trd>
+    </trdgrp>
     <trd lng="pl">nieprzeliczalny</trd>
     <trdgrp lng="ru">
       <trd>&c_n;&c_je;&c_s;&c_m;&c_je;&c_t;&c_n;&c_y;&c_j;</trd>,
@@ -1596,6 +1600,7 @@
     </dif>
     <ref tip="ant" cel="nombr.0ebla.GRA"><tld/>ebla<sncref/></ref>
     <trd lng="ca">no <ind>comptable</ind> (gram.)</trd>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">unz&auml;hlbar</trd>
     <trdgrp lng="en">
       <trd>uncountable<klr> (noun)</klr></trd>,
       <trd>mass<klr> (noun)</klr></trd>
@@ -1819,6 +1824,7 @@
     </dif>
     <trd lng="be">&c_u; <ind>&c_a;&c_d;&c_z;&c_ib;&c_n;&c_o;&c_ch;&c_n;&c_y;&c_m;</ind>
     &c_l;&c_ib;&c_k;&c_u;</trd>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">singularisch</trd>
     <trd lng="pl">pojedynczy</trd>
     <trd lng="ro">unic</trd>
     <trd lng="ru">&c_v;

@@ -3710,6 +3710,7 @@
     <trd>&c_a;&c_d;&c_s;&c_t;&c_u;&c_p;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_ib;&c_s;&c_mol;&c_c;&c_ib; &c_n;&c_a;&c_z;&c_a;&c_d;</trd>
   </trdgrp>
+  <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">zur&uuml;cksetzen</trd>
   <trdgrp lng="en">
     <trd><ind>go</ind> backwards</trd>,
     <trd>regress</trd>
@@ -3891,6 +3892,10 @@
         <fnt><bib>MT</bib> <lok>&Sa1; 23:14</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">unzug&auml;nglich</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">unerreichbar</trd>
+    </trdgrp>
   </snc>
   <snc mrk="ir.neal0ebla.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -3970,6 +3975,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="sekv.0i.postiri">sekvi<sncref/></ref>
+    <trd lng="de" fnt="Vikt: pt; juĝis claude-opus-5">folgen</trd>
   </snc>
   <trd lng="be">&c_ib;&c_s;&c_mol;&c_c;&c_ib; &c_s;&c_mol;&c_l;&c_je;&c_d;&c_a;&c_m;</trd>
   <trdgrp lng="ca">

@@ -388,6 +388,11 @@
     <refgrp tip="sub">
       <ref cel="skan.0ilo">skanilo</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Digitalisierer</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Digitalisierger&auml;t</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Digitizer</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>digitizer</trd>,
       <trd>analog-to-digital converter</trd>

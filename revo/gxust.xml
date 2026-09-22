@@ -820,6 +820,10 @@
         mal<tld/>a lingvistika metodo.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="Vikt: en ku pl; juĝis claude-opus-5">falsch</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">inkorrekt</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>falso<klr tip="ind"> (err&oacute;neo)</klr></trd>,
       <trd>err&oacute;neo</trd>
@@ -859,6 +863,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="tauxg.mal0a">malta&ubreve;ga</ref>
+    <trd lng="de" fnt="Vikt: de en ku; juĝis claude-opus-5">verkehrt</trd>
   </snc>
   <trd lng="af">verkeerd</trd>
   <trd lng="am">&#4661;&#4613;&#4720;&#4725;</trd>

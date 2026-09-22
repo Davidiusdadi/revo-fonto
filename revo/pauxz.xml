@@ -439,6 +439,11 @@
   <ref tip="vid" cel="armistic.0o">armistico</ref>
   <trd lng="be">&c_z;&c_a;&c_m;&c_ib;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_ch;&c_a;&c_s;&c_o;&c_v;&c_a;&c_je;, &c_u; &c_v;&c_a;&c_j;&c_n;&c_je;)</klr></trd>
   <trd lng="cs">p&rcaron;&iacute;m&ecaron;&rcaron;&iacute;<klr> (zastaven&iacute; v&aacute;le&ccaron;n&yacute;ch akc&iacute;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="Vikt: en fr ku; juĝis claude-opus-5">Waffenstillstand</trd>,
+    <trd fnt="Vikt: fr ku; juĝis claude-opus-5">Waffenruhe</trd>,
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">Kriegspause</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>truce</trd>,
     <trd>armistice</trd>

@@ -284,6 +284,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="Vikt: en pl; juĝis claude-opus-5">Pferde-</trd>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_n;&c_s;&c_k;&c_ib;</trd>
   <trdgrp lng="ca">
@@ -740,6 +741,10 @@
     <trd>&c_k;&c_a;&c_n;&c_ju;&c_h;</trd>
   </trdgrp>
   <trd lng="ca">palafrener</trd>
+  <trdgrp lng="de">
+    <trd kod="HIS" fnt="Vikt: en fr ru; juĝis claude-opus-5">Stallknecht <klr>(hist.)</klr></trd>,
+    <trd fnt="Vikt: en; juĝis claude-opus-5">Pferdeknecht</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>palefrenier</trd>,
     <trd>valet d'&eacute;curie</trd>

@@ -269,6 +269,7 @@
     <refgrp tip="vid">
       <ref cel="grafik.0a.BELA">grafika</ref>
     </refgrp>
+    <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">zweidimensional</trd>
   </snc>
   <trd lng="be">&c_d;&c_v;&c_u;&c_h;&c_v;&c_y;&c_m;&c_je;&c_r;&c_n;&c_y;</trd>
   <trd lng="cs">dvourozm&ecaron;rn&yacute;</trd>
@@ -383,6 +384,7 @@
       <ref cel="plasti.0a.BELA">plastika</ref>,
       <ref cel="stereo4.0.TEK">stereo-</ref>
     </refgrp>
+    <trd lng="de" fnt="Vikt: en fr pl; juĝis claude-opus-5">dreidimensional</trd>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_o;&c_h;&c_v;&c_y;&c_m;&c_je;&c_r;&c_n;&c_y;</trd>
   <trd lng="cs">trojrozm&ecaron;rn&yacute;</trd>
