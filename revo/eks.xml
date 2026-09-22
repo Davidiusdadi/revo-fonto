@@ -181,6 +181,7 @@
     <trd>Ex-</trd>,
     <trd>a.D.</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en es; juĝis claude-opus-5">ex-</trd>
   <trd lng="es">ex-</trd>
   <trd lng="fr">ex-</trd>
   <trdgrp lng="hu">
@@ -239,6 +240,11 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: de pl; juĝis claude-opus-5">former</trd>,
+        <trd fnt="Vikt: de; juĝis claude-opus-5">one-time</trd>,
+        <trd fnt="Vikt: de; juĝis claude-opus-5">quondam <klr>(formal)</klr></trd>
+      </trdgrp>
     </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_y;&c_l;&c_y;</trd>,
@@ -663,6 +669,7 @@
       </dif>
       <trdgrp lng="de"><trd>Ausscheiden</trd>,
       <trd>Entlassung</trd></trdgrp>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">resignation</trd>
     </snc>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_k;&c_a;</trd>,

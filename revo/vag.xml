@@ -309,6 +309,11 @@
       <ref cel="tramp.0o">trampo</ref>,
       <ref cel="vagabond.0o">vagabondo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">tramp <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">vagabond</trd>,
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">bum <klr>(colloquial)</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_a;&c_d;&c_z;&c_ja;&c_g;&c_a;</trd>,
@@ -351,6 +356,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">herumstreifen <klr>[ugs.]</klr></trd>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">prowl</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_r;&c_u;&c_zh;&c_y;&c_c;&c_mol;</trd>,
@@ -406,6 +412,7 @@
       <ref cel="flank.de0igxi">deflanki&gcirc;i</ref>,
       <ref cel="flank.0igxi">forflanki&gcirc;i</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">ramble</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_v;&c_a;&c_n;&c_d;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">odej&iacute;t na toulky</trd>

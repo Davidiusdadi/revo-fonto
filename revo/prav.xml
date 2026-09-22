@@ -159,6 +159,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">justly</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">right</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_a;</trd>,
@@ -285,6 +289,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de fr; juĝis claude-opus-5">be right</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>,
@@ -386,6 +391,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pt; juĝis claude-opus-5">vindicate</trd>
     <trdgrp lng="hu">
       <trd>igazol<klr tip="amb"> (vkit)</klr></trd>,
       <trd>igazat ad<klr tip="amb"> (vkinek)</klr></trd>
@@ -415,6 +421,10 @@
     <refgrp tip="vid">
       <ref cel="konfir.0i">konfirmi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pt; juĝis claude-opus-5">justify</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">validate</trd>
+    </trdgrp>
     <trd lng="hu">igazol</trd>
   </snc>
   <trdgrp lng="be">
@@ -565,6 +575,7 @@
   <trdgrp lng="de">
     <trd>im <ind>Unrecht</ind></trd>,
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">wrong</trd>
   <trd lng="fr">qui a <ind>tort</ind></trd>
   <trdgrp lng="hu">
     <trd>nem <ind>igaz</ind></trd>,
@@ -632,6 +643,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">be wrong</trd>
   </snc>
     <trdgrp lng="be">
       <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_ja;&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>,

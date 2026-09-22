@@ -1353,6 +1353,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">ohne R&uuml;cksicht auf</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">regardless of</trd>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a; &c_a;&c_d;</trd>
   <trd lng="bg">&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_o;
@@ -1388,6 +1389,10 @@
       <ref cel="suvere.0eco.JUR">suvereneco</ref>
     </refgrp>
     <trd lng="de">Unabh&auml;ngigkeit</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl pt ru; juĝis claude-opus-5">independence</trd>,
+      <trd kod="ARK" fnt="Vikt: pt ru; juĝis claude-opus-5">independency <klr>(dated)</klr></trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>onafhankelijkheid</trd>,
       <trd>zelfstandigheid</trd>,

@@ -25,6 +25,7 @@
       <ref cel="kadenc.0o.MUZ">kadenco<sncref/></ref>
     </refgrp>
     <trd lng="de">aleatorisch</trd>
+    <trd lng="en" fnt="Vikt: en ru; juĝis claude-opus-5">aleatory</trd>
     <trd lng="zh">&#20598;&#28982; <pr>&#466;ur&aacute;n</pr></trd>
 </snc>
   <snc mrk="aleator.0a.KOMUNE">
@@ -62,6 +63,7 @@
     <ref tip="sin" cel="lot.0eca">loteca</ref>
     <ref tip="vid" cel="arbitr.0a">arbitra</ref>
     <trd lng="de">zuf&auml;llig</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">random</trd>
     <trdgrp lng="zh">
     <trd>&#20598;&#28982;&#22320; <pr>&#466;ur&aacute;nde</pr></trd>,
     <trd>&#20598;&#28982; <pr>&#466;ur&aacute;n</pr></trd>,

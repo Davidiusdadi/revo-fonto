@@ -637,6 +637,11 @@
     </dif>
     <ref tip="vid" cel="distan.0o.SPA">distanco<sncref/></ref>
     <trd lng="de">Zwischenraum</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr ko ku; juĝis claude-opus-5">interval</trd>,
+      <trd fnt="Vikt: fr ku; juĝis claude-opus-5">gap</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">interstice</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_m;&c_je;&c_zh;&c_a;&c_k;</trd>,

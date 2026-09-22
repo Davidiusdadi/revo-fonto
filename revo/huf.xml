@@ -93,6 +93,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">ungulate</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_p;&c_y;&c_t;&c_n;&c_a;&c_ja; &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;</trd>
   <trd lng="cs">kopytn&iacute;k</trd>
@@ -132,6 +133,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en es fr ku pt ru; juĝis claude-opus-5">horseshoe</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_k;&c_o;&c_v;&c_a;</trd>
   <trd lng="br">houarn-marc'h</trd>
@@ -191,6 +193,7 @@
       Iu el <ref tip="malprt" cel="huf.nepar0uloj">nepar<tld/>uloj</ref>.
     </dif>
     <trd lng="de" fnt="Vikt: de fr; juĝis claude-opus-5">Unpaarhufer</trd>
+    <trd lng="en" fnt="Vikt: de fr; juĝis claude-opus-5">odd-toed ungulate</trd>
   </snc>
   <trd lng="be">&c_n;&c_ja;&c_p;&c_a;&c_r;&c_n;&c_a;&c_k;&c_a;&c_p;&c_y;&c_t;&c_n;&c_a;&c_ja;
   &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;</trd>
@@ -245,6 +248,10 @@
       Iu el <ref tip="malprt" cel="huf.par0uloj">par<tld/>uloj</ref>.
     </dif>
     <trd lng="de" fnt="Vikt: de fr; juĝis claude-opus-5">Paarhufer</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">even-toed ungulate</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">artiodactyl</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_n;&c_a;&c_k;&c_a;&c_p;&c_y;&c_t;&c_n;&c_a;&c_ja;
   &c_zh;&c_y;&c_v;&c_jo;&c_l;&c_a;</trd>

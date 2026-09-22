@@ -252,6 +252,11 @@
       <ref cel="kapt.0ajxo">kapta&jcirc;o</ref>,
       <ref cel="pred.0o">predo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pl; juĝis claude-opus-5">booty</trd>,
+      <trd fnt="Vikt: de fr pl; juĝis claude-opus-5">loot</trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">spoils</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_n;&c_a;&c_je;</trd>
   <trd lng="ca">furt</trd>
@@ -313,6 +318,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">den</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">lair</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_t;&c_o;&c_n;
   &c_g;&c_r;&c_a;&c_b;&c_je;&c_zh;&c_n;&c_ib;&c_k;&c_a;&c_w;</trd>
@@ -380,6 +389,11 @@
       <ref cel="bandit.0o">bandito</ref>,
       <ref cel="pirat.0o">pirato</ref>.
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en nl ru; juĝis claude-opus-5">robber</trd>,
+      <trd fnt="Vikt: fr ru; juĝis claude-opus-5">brigand</trd>,
+      <trd kod="HIS" fnt="Vikt: fr ru; juĝis claude-opus-5">highwayman <klr>(historical)</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_b;&c_a;&c_w;&c_n;&c_ib;&c_k;</trd>,
@@ -647,6 +661,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">rob</trd>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">robar</trd>

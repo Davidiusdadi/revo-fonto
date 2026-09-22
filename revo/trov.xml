@@ -448,6 +448,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en el ko; juĝis claude-opus-5">discovery</trd>,
+      <trd fnt="Vikt: en el; juĝis claude-opus-5">finding</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">descobriment</trd>
@@ -518,6 +522,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">find</trd>
   </snc>
   <trd lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_k;&c_a;</trd>
   <trd lng="ca">troballa</trd>
@@ -583,6 +588,11 @@
       <trd>sich <ind>befinden</ind></trd>,
       <trd>geben <klr>(sein)</klr></trd>,
       <trd>vorkommen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pl; juĝis claude-opus-5">be</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">exist</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">be located</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>tal&aacute;lhat&oacute;</trd>,
@@ -701,6 +711,7 @@
         <fnt><bib>Fab3</bib>, <lok>kolo de botelo</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">find</trd>
   </snc>
   <trd lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_k;&c_a;</trd>
   <trdgrp lng="de">
@@ -763,6 +774,7 @@
     <refgrp tip="vid">
       <ref cel="fantaz.0o">fantazio</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: pl ru; juĝis claude-opus-5">discretion</trd>
   </snc>
   <trd lng="be">&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="br">faltazi<klr> (c'hoant)</klr></trd>
@@ -876,6 +888,11 @@
       <ref cel="invent.0i">inventi</ref>,
       <ref cel="kovr.mal0i">malkovri</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pl ru; juĝis claude-opus-5">discover</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">figure out <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">find out</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
@@ -997,6 +1014,10 @@
     </refgrp>
   </snc>
   <trd lng="de">Entdeckung</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: el fr; juĝis claude-opus-5">discovery</trd>,
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">find</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;couverte</trd>
 </drv>
 
@@ -1090,6 +1111,10 @@
         la perditan tempon oni ne povas re<tld/>i.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pt; juĝis claude-opus-5">recover</trd>,
+      <trd fnt="Vikt: pt; juĝis claude-opus-5">regain</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;
   <klr>(&c_r;&c_a;&c_n;&c_je;&c_j;

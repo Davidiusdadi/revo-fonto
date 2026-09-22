@@ -22,6 +22,10 @@
       <ref tip="super" cel="nimf.0o.MIT">nimfo<sncref/></ref>,
       <ref cel="siren.0o.MIT">sireno<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd kod="ARK" fnt="Vikt: en; juĝis claude-opus-5">nix <klr>(dated)</klr></trd>,
+      <trd kod="HIS" fnt="Vikt: de; juĝis claude-opus-5">neck <klr>(historical)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_d;&c_z;&c_ja;&c_n;&c_ib;&c_k;</trd>
   <trdgrp lng="cs">
@@ -79,6 +83,7 @@
       <trd fnt="Vikt: ru; juĝis claude-opus-5">Nixe</trd>,
       <trd fnt="Vikt: ru; juĝis claude-opus-5">Wassernixe</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">mermaid</trd>
   </snc>
   <trd lng="be">&c_r;&c_u;&c_s;&c_a;&c_l;&c_k;&c_a;</trd>
   <trd lng="fr">nixe</trd>

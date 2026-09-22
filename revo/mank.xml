@@ -343,6 +343,11 @@
       <trd>&c_n;&c_je;&c_d;&c_o;&c_s;&c_t;&c_i;&c_g;</trd>
     </trdgrp>
     <trd lng="de">Fehlen</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ko ru; juĝis claude-opus-5">lack</trd>,
+      <trd fnt="Vikt: fr ko nl; juĝis claude-opus-5">absence</trd>,
+      <trd fnt="Vikt: fr ru; juĝis claude-opus-5">shortage</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>escasez</trd>,
       <trd>ausencia</trd>
@@ -411,6 +416,10 @@
       <trd>Makel</trd>,
       <trd>Manko</trd>,
       <trd>Fehler <klr>(Mangel)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">defect</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">flaw</trd>
     </trdgrp>
     <trd lng="es">deficiencia</trd>
     <trd lng="hu">hi&aacute;nyoss&aacute;g</trd>

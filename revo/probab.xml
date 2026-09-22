@@ -18,6 +18,10 @@
         <fnt><bib>UrdHadda</bib>, <lok>p. 13</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">probable</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">likely</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_ib;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_y;</trd>,
@@ -114,6 +118,11 @@
       <trd fnt="Vikt: fr ku nl ru; juĝis claude-opus-5">wahrscheinlich</trd>,
       <trd fnt="Vikt: fr ku nl; juĝis claude-opus-5">wohl</trd>,
       <trd fnt="Vikt: ku ru; juĝis claude-opus-5">voraussichtlich</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr ku; juĝis claude-opus-5">probably</trd>,
+      <trd fnt="Vikt: ku ru; juĝis claude-opus-5">presumably</trd>,
+      <trd fnt="Vikt: ku nl; juĝis claude-opus-5">likely</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -239,6 +248,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">Wahrscheinlichkeit</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">probability</trd>
   </snc>
   <trd lng="be">&c_ib;&c_m;&c_a;&c_v;&c_je;&c_r;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">

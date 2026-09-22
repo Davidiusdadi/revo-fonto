@@ -416,6 +416,7 @@
     <trd>Gr&uuml;nes</trd>,
     <trd>Gr&uuml;nzeug</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">verdure</trd>
   <trdgrp lng="ja">
     <trd>&#x7DD1;&#33394;&#x306E;&#29289;  <pr>&#x307F;&#12393;&#x308A;&#12356;&#x308D;&#x306E;&#12406;&#12388;</pr></trd>,
     <trd>&#x7DD1;&#x306E;&#33609;&#26408;  <pr>&#x307F;&#12393;&#x308A;&#x306E;&#x304F;&#12373;&#x304D;</pr></trd>,
@@ -504,6 +505,11 @@
     </dif>
     <trd lng="ca">verd<klr> (subst. pol.)</klr></trd>
     <trd lng="de">Gr&uuml;ner</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">green</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">environmentalist</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">greenie <klr>(derogatory)</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>&eacute;cologiste<klr> (subst. politique)</klr></trd>,
       <trd>vert<klr> (subst. politique)</klr></trd>
@@ -573,6 +579,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="glauxk1.0a">gla&ubreve;ka</ref>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">blue green</trd>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_l;&c_je;&c_r;&c_u; &c_m;&c_a;&c_r;&c_s;&c_k;&c_o;&c_j; &c_h;&c_v;&c_a;&c_l;&c_ib;</trd>
   <trdgrp lng="ca">

@@ -741,6 +741,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr pl; juĝis claude-opus-5">giant</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_o;&c_l;&c_a;&c_t;</trd>,
@@ -815,6 +816,10 @@
       <ref cel="eminen1.0ulo">eminentulo</ref>,
       <ref cel="super.0ulo">superulo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">bigwig <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">grandee</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_ib; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>,
@@ -1170,6 +1175,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">medium</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">medium-sized</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;</trd>,
@@ -1482,6 +1491,7 @@
         longo, maso, tempo estas bazaj fizikaj <tld/>oj.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en ru; juĝis claude-opus-5">physical quantity</trd>
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_z;&c_y;&c_ch;&c_n;&c_a;&c_ja;
   &c_v;&c_je;&c_l;&c_ib;&c_ch;&c_y;&c_n;&c_ja;</trd>

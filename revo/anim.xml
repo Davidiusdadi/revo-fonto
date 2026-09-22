@@ -491,6 +491,7 @@
     </dif>
     <ref tip="vid" cel="pantei.0o">panteismo</ref>
     <trd lng="de">Animismus</trd>
+    <trd lng="en" fnt="Vikt: pl ru; juĝis claude-opus-5">animism</trd>
     <trdgrp lng="zh">
     <trd>&#27867;&#28789;&#35770; <pr>f&agrave;nl&iacute;ngl&ugrave;n</pr></trd>,
     <trd>&#27867;&#38728;&#35542; <pr>f&agrave;nl&iacute;ngl&ugrave;n</pr></trd>,
@@ -1428,6 +1429,11 @@
       </ekz>
     </dif>
     <trd lng="de">schlicht <klr>(Seele)</klr></trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">ingenuous</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">artless</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">guileless</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_s;&c_t;&c_a;&c_d;&c_u;&c_sh;&c_n;&c_y;</trd>,

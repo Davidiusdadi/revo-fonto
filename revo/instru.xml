@@ -682,6 +682,11 @@
       </ekz>
     </dif>
     <trd lng="de">Unterricht</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de pl; juĝis claude-opus-5">teaching</trd>,
+      <trd fnt="Vikt: de pl; juĝis claude-opus-5">instruction</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">tuition</trd>
+    </trdgrp>
     <trd lng="es">ense&ntilde;anza</trd>
     <trd lng="hu">tan&iacute;t&aacute;s</trd>
     <trdgrp lng="id">
@@ -930,6 +935,10 @@
       <ref cel="lecion.0o">leciono</ref>,
       <ref cel="predik.0o">prediko</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl ru; juĝis claude-opus-5">instruction</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">lesson</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_u;&c_r;&c_o;&c_k;</trd>,
@@ -1125,6 +1134,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en ku; juĝis claude-opus-5">learn</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_v;&c_u;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>,
@@ -1537,6 +1547,7 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="instru.0a.0rilata"><tld/>a<sncref/></ref>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">didactic</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_u;&c_k;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,

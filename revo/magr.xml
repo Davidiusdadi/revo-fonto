@@ -58,6 +58,11 @@
       <trd>schmal</trd>,
       <trd>d&uuml;rr</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de nl pt; juĝis claude-opus-5">skinny <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: de nl pt; juĝis claude-opus-5">lean</trd>,
+      <trd fnt="Vikt: nl pt; juĝis claude-opus-5">thin</trd>
+    </trdgrp>
     <trdgrp lng="fa">
       <trd>&a_l;&a_A;&a_gh;&a_r;</trd>,
       <trd>&a_b;&a_A;&a_r;&f_y;&f_k;</trd>
@@ -131,6 +136,7 @@
       <trd>schlicht</trd>,
       <trd>karg</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en es nl; juĝis claude-opus-5">meager <klr>(US)</klr></trd>
     <trdgrp lng="fa">
       <trd>&a_n;&a_A;&f_k;&a_A;&a_f;&f_y;</trd>,
       <trd>&a_n;&a_A;&f_ch;&f_y;&a_z;</trd>,

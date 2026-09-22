@@ -37,6 +37,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" kod="HIS" fnt="Vikt: en pl; juĝis claude-opus-5">Yugoslavian <klr>(historical)</klr></trd>
   </snc>
   <trd lng="be">&c_ju;&c_g;&c_a;&c_s;&c_l;&c_a;&c_w;</trd>
   <trd lng="de">Jugoslawe</trd>
@@ -86,6 +87,10 @@
           </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd kod="HIS" fnt="Vikt: en fr ru; juĝis claude-opus-5">Yugoslavian <klr>(historical)</klr></trd>,
+      <trd kod="ARK" fnt="Vikt: de; juĝis claude-opus-5">Jugoslavian <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_ju;&c_g;&c_a;&c_s;&c_l;&c_a;&c_w;&c_s;&c_k;&c_ib;</trd>
   <trd lng="de">jugoslawisch</trd>

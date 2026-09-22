@@ -28,6 +28,7 @@
       <trd fnt="Vikt: en zh; juĝis claude-opus-5">Panda</trd>,
       <trd fnt="Vikt: en zh; juĝis claude-opus-5">Pandab&auml;r</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en fr nl zh; juĝis claude-opus-5">giant panda</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_n;&c_d;&c_a; &c_v;&c_ja;&c_l;&c_ib;&c_k;&c_a;&c_ja;</trd>
   <trd lng="ca">panda gegant</trd>
@@ -64,6 +65,10 @@
     <trdgrp lng="de">
       <trd fnt="Vikt: en zh; juĝis claude-opus-5">Kleiner Panda</trd>,
       <trd fnt="Vikt: en zh; juĝis claude-opus-5">Roter Panda</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en nl zh; juĝis claude-opus-5">red panda</trd>,
+      <trd fnt="Vikt: nl; juĝis claude-opus-5">lesser panda</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_n;&c_d;&c_a; &c_m;&c_a;&c_l;&c_a;&c_ja;</trd>

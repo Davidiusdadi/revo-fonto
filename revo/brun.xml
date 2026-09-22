@@ -221,6 +221,10 @@
       <trd>bruneta</trd>,
       <trd>brunetka</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">brown-haired woman</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">brunette</trd>
+    </trdgrp>
     <trd lng="nl">brunette</trd>
     <trd lng="pl">brunetka</trd>
   </snc>
@@ -331,6 +335,7 @@
         mi sun<tld/>i&gcirc;as sur la strando.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">tan</trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_g;&c_a;&c_r;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_a; &c_s;&c_o;&c_n;&c_c;&c_y;)</klr></trd>
   <trd lng="br">rouza&ntilde;<klr tip="ind"> (kroc'hen - v.g.)</klr></trd>

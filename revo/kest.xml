@@ -297,6 +297,10 @@
     </dif>
     <ref tip="sin" cel="kas.0o.monkesto">kaso <sncref/></ref>
     <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Kasse</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">cash-box</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">money-box</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_a;&c_s;&c_a; <klr tip="amb">(&c_s;&c_k;&c_r;&c_y;&c_n;&c_ja; &c_z;
@@ -447,6 +451,11 @@
     <refgrp tip="vid">
       <ref cel="kest.leter0o">leter<tld/>o</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pl ru; juĝis claude-opus-5">mailbox <klr>(US)</klr></trd>,
+      <trd fnt="Vikt: de fr pl ru; juĝis claude-opus-5">post box</trd>,
+      <trd fnt="Vikt: de fr ru; juĝis claude-opus-5">postbox</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_sh;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_s;&c_k;&c_r;&c_y;&c_n;&c_k;&c_a;</trd>
   <trd lng="bg">&c_p;&c_o;&c_shch;&c_je;&c_n;&c_s;&c_k;&c_a; &c_k;&c_u;&c_t;&c_i;&c_ja;</trd>

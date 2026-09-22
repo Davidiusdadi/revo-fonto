@@ -798,6 +798,10 @@
     <trd>bereitwillig</trd>,
     <trd>gef&uuml;gig</trd>
   </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">accommodating</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">compliant</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x4E50;&#x610F; <pr>l&egrave;y&igrave;</pr></trd>,
     <trd>&#29976;&#x613F; <pr>g&amacron;nyu&agrave;n</pr></trd>,
@@ -1288,6 +1292,11 @@
       <ref cel="kontra3.0o">kontrakto</ref>,
       <ref cel="konven1.0o.gxenerale">konvencio<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">deal <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">arrangement</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">understanding</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_g;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,

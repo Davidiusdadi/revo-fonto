@@ -52,6 +52,7 @@
           </dif>
           <trd lng="be">&c_v;&c_a;&c_k;&c_o;&c_l;</trd>
           <trd lng="de">herum</trd>
+          <trd lng="en" fnt="Vikt: en fr ko pl; juĝis claude-opus-5">around</trd>
           <trd lng="he">&samekh;&bet;&yod;&bet;</trd>
           <trd lng="hu">k&ouml;r&uuml;l</trd>
           <trdgrp lng="id">
@@ -273,6 +274,11 @@
         <trdgrp lng="de">
           <trd>etwa</trd>, <trd>circa</trd>
         </trdgrp>
+        <trdgrp lng="en">
+          <trd fnt="Vikt: en ko pl pt; juĝis claude-opus-5">about</trd>,
+          <trd fnt="Vikt: de pt; juĝis claude-opus-5">approximately</trd>,
+          <trd fnt="Vikt: en; juĝis claude-opus-5">circa</trd>
+        </trdgrp>
         <trdgrp lng="fr">
           <trd>approximativement</trd>,
           <trd>environ</trd>
@@ -432,6 +438,7 @@
     </snc>
     <trd lng="be">
     &c_n;&c_a;&c_v;&c_a;&c_k;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">surrounding</trd>
     <trdgrp lng="fr">
       <trd>environnant</trd>,
       <trd>voisin<klr tip="ind"> (adj.)</klr></trd>,
@@ -490,6 +497,7 @@
             <fnt><bib>Fab1</bib><lok>Vojkamarado</lok></fnt>.
           </ekz>
         </dif>
+      <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">all around</trd>
       <trd lng="id">di sekitarnya</trd>
       </subsnc>
       <trdgrp lng="be">
@@ -500,6 +508,10 @@
       <trdgrp lng="de">
         <trd>ringsum</trd>,
         <trd>ringsumher</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: de ru; juĝis claude-opus-5">around</trd>,
+        <trd fnt="Vikt: ru; juĝis claude-opus-5">round <klr>(British)</klr></trd>
       </trdgrp>
       <trdgrp lng="fr">
         <trd>autour</trd>,
@@ -660,6 +672,11 @@
         </ekz>
       </dif>
       <trd lng="de">umgeben</trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en de fr ru; juĝis claude-opus-5">surround</trd>,
+        <trd fnt="Vikt: en fr; juĝis claude-opus-5">encircle</trd>,
+        <trd fnt="Vikt: en; juĝis claude-opus-5">encompass</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>entourer<klr tip="ind"> (&ecirc;tre autour, se mettre
         autour)</klr></trd>,
@@ -755,6 +772,7 @@
         <trd fnt="Vikt: en ru; juĝis claude-opus-5">Umgebung</trd>,
         <trd fnt="Vikt: ru; juĝis claude-opus-5">Umfeld</trd>
       </trdgrp>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">surroundings</trd>
       <trd lng="id">lingkungan sekitar</trd>
       <trd lng="pl">otoczenie</trd>
     </snc>
@@ -939,6 +957,10 @@
         <ref cel="sxut.super0i">super&scirc;uti</ref>,
         <ref cel="zon.0i">zoni</ref>
       </refgrp>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: pl ru; juĝis claude-opus-5">surround</trd>,
+        <trd fnt="Vikt: pl; juĝis claude-opus-5">encircle</trd>
+      </trdgrp>
     </snc>
     <trd lng="be">&c_a;&c_k;&c_r;&c_u;&c_zh;&c_a;&c_c;&c_mol; <klr>(&c_ch;&c_y;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
     <trd lng="de">umgeben</trd>

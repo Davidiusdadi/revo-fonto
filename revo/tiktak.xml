@@ -26,6 +26,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">tick-tock</trd>
   </snc>
   <trd lng="cs">tikot</trd>
   <trd lng="de">Ticktack</trd>
@@ -80,6 +81,10 @@
       <ref cel="frap.0i.produktiSonon">frapi<sncref/></ref>,
       <ref cel="perkut.0i">perkuti</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">tick</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">tick-tock</trd>
+    </trdgrp>
   </snc>
   <trd lng="cs">tikat</trd>
   <trd lng="de">ticken</trd>

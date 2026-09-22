@@ -517,6 +517,11 @@
         <fnt><bib>Fab4</bib>, <lok>abocolibro</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">primer</trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">alphabet book</trd>,
+      <trd kod="ARK" fnt="Vikt: ru; juĝis claude-opus-5">ABC <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_l;&c_je;&c_m;&c_a;&c_n;&c_t;&c_a;&c_r;</trd>,
@@ -1188,6 +1193,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en cs fr it ja ko nl pl ru zh; juĝis claude-opus-5">textbook</trd>,
+      <trd fnt="Vikt: cs; juĝis claude-opus-5">coursebook</trd>,
+      <trd fnt="Vikt: cs; juĝis claude-opus-5">schoolbook</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_u;&c_ch;&c_n;&c_ib;&c_k;
   <klr>(&c_sh;&c_k;&c_o;&c_l;&c_mol;&c_n;&c_y;,
@@ -1712,6 +1722,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">audiobook</trd>,
+      <trd kod="RAR" fnt="Vikt: fr; juĝis claude-opus-5">audio-book <klr>(rare)</klr></trd>,
+      <trd kod="ARK" fnt="Vikt: fr; juĝis claude-opus-5">talking book <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_w;&c_d;&c_y;&c_ja;&c_k;&c_n;&c_ib;&c_g;&c_a;</trd>
   <trdgrp lng="ca">
@@ -1986,6 +2001,10 @@
       <ref cel="libr.kont0o">kont<tld/>o, &ccirc;ef<tld/>o</ref>,
       <ref cel="libr.spez0o">spez<tld/>o</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">bookkeeping</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">book-keeping</trd>
+    </trdgrp>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Anka&ubreve; eblas diri <ke><ref tip="sin"
@@ -2124,6 +2143,7 @@
             &ccirc;iovido</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">bookkeeper</trd>
   </snc>
   <trd lng="be">&c_b;&c_u;&c_g;&c_a;&c_l;&c_mol;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">comptable</trd>

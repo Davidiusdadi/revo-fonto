@@ -128,6 +128,7 @@
     <trd>al moment que</trd>
     </trdgrp>
     <trd lng="de">wenn</trd>
+    <trd lng="en" fnt="Vikt: ja pl; juĝis claude-opus-5">as</trd>
     <trdgrp lng="he">
        <trd>&kaf;&alef;&shin;&resh;</trd>,
        <trd>&kaf;&shin;-</trd>
@@ -158,6 +159,7 @@
   <trd lng="cv">&c_h;&#1233;&#1195;&c_a;&c_n;</trd>
   <trd lng="cy">pan</trd>
   <trd lng="da">n&aring;r</trd>
+  <trd lng="en" fnt="Vikt: en de fr ja ko ku pl ru; juĝis claude-opus-5">when</trd>
   <trd lng="et">kui</trd>
   <trd lng="eu">denean</trd>
   <trdgrp lng="fr">
@@ -311,6 +313,7 @@
           </fnt>.
        </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">since</trd>
   </snc>
   <refgrp tip="vid">
     <ref cel="post.0kiam">post kiam</ref>

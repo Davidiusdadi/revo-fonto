@@ -222,6 +222,10 @@
         <trd lng="nl">laadvermogen</trd>
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">capacity</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">aptitude</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -241,6 +245,10 @@
     <trd>Fertigkeit</trd>,
     <trd>Kompetenz</trd>,
     <trd>T&uuml;chtigkeit</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: en fr ko pl ru; juĝis claude-opus-5">ability</trd>,
+    <trd fnt="Vikt: en ru; juĝis claude-opus-5">capability</trd>
   </trdgrp>
   <trd lng="es">capacidad</trd>
   <trdgrp lng="fr">
@@ -323,6 +331,7 @@
         Rolan</lok></fnt>?
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">can <klr>(colloquial)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>,
@@ -345,6 +354,7 @@
     <trd>f&auml;hig sein (zu)</trd>,
     <trd>bereit sein</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">be able to</trd>
   <trd lng="es">ser capaz</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre <ind>capable</ind> de</trd>,
@@ -442,6 +452,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">aptitude</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">ability</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -721,6 +735,10 @@
         (&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k;)</klr></trd>
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ku; juĝis claude-opus-5">unable</trd>,
+      <trd fnt="Vikt: fr ku; juĝis claude-opus-5">incapable</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_ja;&c_z;&c_d;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>,

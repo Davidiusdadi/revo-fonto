@@ -372,6 +372,11 @@
     <refgrp tip="vid">
       <ref cel="servut.0o">servuto</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ku pl pt ru; juĝis claude-opus-5">slavery</trd>,
+      <trd fnt="Vikt: en pt; juĝis claude-opus-5">bondage</trd>,
+      <trd fnt="Vikt: fr pt; juĝis claude-opus-5">enslavement</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_b;&c_s;&c_t;&c_v;&c_a;</trd>
   <trdgrp lng="ca">
@@ -422,6 +427,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de el fr; juĝis claude-opus-5">enslave</trd>,
+      <trd kod="ARK" fnt="Vikt: en fr; juĝis claude-opus-5">enthrall <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_n;&c_ja;&c_v;&c_o;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>,

@@ -206,6 +206,11 @@
       <trd>herums&uuml;lzen</trd>,
       <trd>schwafeln</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de; juĝis claude-opus-5">blather</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">waffle <klr>(British)</klr></trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">yap <klr>(colloquial)</klr></trd>
+    </trdgrp>
     <trd lng="es">cotillear</trd>
     <trdgrp lng="fa">
       <trd>&a_w;&a_r;&a_A;&a_j;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>,
@@ -293,6 +298,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">chat</trd>,
+      <trd fnt="Vikt: cs fr ru; juĝis claude-opus-5">chatter</trd>,
+      <trd fnt="Vikt: cs fr; juĝis claude-opus-5">babble</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_l;&c_b;&c_a;&c_t;&c_a;&c_n;&c_n;&c_je;</trd>
   <trdgrp lng="de">
@@ -366,6 +376,11 @@
       <ref cel="klacx.0o">kla&ccirc;a&jcirc;o</ref>,
       <ref cel="senc.sen0ajxo">sensenca&jcirc;o</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd kod="VULG" fnt="Vikt: de; juĝis claude-opus-5">bullshit <klr>(vulgar)</klr></trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">drivel</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">rubbish <klr>(colloquial)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_l;&c_b;&c_a;&c_t;&c_n;&c_ja;</trd>
   <trdgrp lng="de">
@@ -403,6 +418,7 @@
     <trd lng="be">&c_ch;&c_a;&c_t;</trd>
     <trd lng="ca">xat</trd>
     <trd lng="de">Chat<klr>(room)</klr></trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">chat room</trd>
     <trd lng="es">foro<klr tip="amb"> (internet)</klr></trd>
     <trd lng="fa">&f_g;&f_p;&f_g;&a_A;&a_h;</trd>
     <trd lng="fr">salon<klr> (internet)</klr></trd>
@@ -457,6 +473,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">talkative</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">chatty</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">loquacious</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>wygadany</trd>
     </trdgrp>
@@ -524,6 +545,11 @@
       <trd>cotorra</trd>,
       <trd>xerraire<klr> (subst.)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr ru; juĝis claude-opus-5">blabbermouth <klr>(derogatory)</klr></trd>,
+      <trd fnt="Vikt: pl ru; juĝis claude-opus-5">windbag <klr>(derogatory)</klr></trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">chatterbox <klr>(colloquial)</klr></trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>gadu&lstroke;a</trd>,
       <trd>gaw&eogonek;dziarz</trd>,
@@ -589,6 +615,7 @@
     <trd lng="be">&c_ch;&c_a;&c_t;</trd>
     <trd lng="ca">xat</trd>
     <trd lng="de">Chat <klr>(online)</klr></trd>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">chat room</trd>
     <trd lng="fa">&f_g;&f_p;&f_g;&a_A;&a_h;</trd>
     <trd lng="fr">salon<klr> (internet)</klr></trd>
     <trdgrp lng="it">

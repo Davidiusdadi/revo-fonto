@@ -420,6 +420,7 @@
       <ref cel="feliet.0o">felietono</ref>
     </refgrp>
     <trd lng="de">Filmreihe</trd>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">serial <klr>(British)</klr></trd>
     <trdgrp lng="zh">
     <trd>&#29305;&#x8F2F; <pr>t&#xE8;j&#xED;</pr></trd>,
     <trd>&#29305;&#x8F91; <pr>t&#xE8;j&#xED;</pr></trd>
@@ -537,6 +538,7 @@
       </ekz>
     </dif>
     <trd lng="de">Fernsehserie</trd>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">serial <klr>(British)</klr></trd>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_l;&c_je;&c_s;&c_e;&c_r;&c_y;&c_ja;&c_l;</trd>
   <trd lng="cs">televizn&iacute; seri&aacute;l</trd>

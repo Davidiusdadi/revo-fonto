@@ -207,6 +207,11 @@
     <refgrp tip="super">
        <ref cel="dev.0igo">devigo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de es fr pl pt ru; juĝis claude-opus-5">blackmail</trd>,
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">extortion</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">blackmailing</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_n;&c_t;&c_a;&c_zh;</trd>
   <trdgrp lng="de">
@@ -249,6 +254,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr pl ru; juĝis claude-opus-5">blackmailer</trd>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_n;&c_t;&c_a;&c_zh;&c_y;&c_s;&c_t;</trd>
   <trd lng="de">Erpresser</trd>

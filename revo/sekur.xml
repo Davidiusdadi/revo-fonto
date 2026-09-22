@@ -244,6 +244,10 @@
       <trd fnt="Vikt: en fr ku pl; juĝis claude-opus-5">Sicherheit</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">Gefahrlosigkeit</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en el fr ku pl; juĝis claude-opus-5">safety</trd>,
+      <trd fnt="Vikt: en el fr ku pl; juĝis claude-opus-5">security</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_k;&c_a;</trd>
   <trd lng="bo">&t_nya;&t_drengbu;&t_na;&t_tsheg;&t_ga;&t_tsheg;&t_ma;&t_drengbu;&t_da;&t_tsheg;&t_ra;&t_gata;&t_yata;&t_shabchu;&t_tsheg;</trd>
@@ -337,6 +341,7 @@
       <ref cel="garant.0i.igi_certa">garantii<sncref/></ref>,
       <ref cel="protek.0i.sxirmi">protekti<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">secure</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;&c_m;</ind></trd>,

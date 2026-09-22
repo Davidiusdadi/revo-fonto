@@ -251,6 +251,11 @@
       </ekz>
     </dif>
     <trd lng="de">Anbeter</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">worshipper</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">worshiper <klr>(US)</klr></trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">votary</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>sembah</baz>penyembah</trd>,
       <trd><baz>puja</baz>pemuja</trd>
@@ -298,6 +303,7 @@
       </ekz>
     </dif>
     <trd lng="de">Verehrer</trd>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">admirer</trd>
     <trdgrp lng="id">
       <trd><baz>kagum</baz>pengagum</trd>,
       <trd><baz>idola</baz>pengidola</trd>
@@ -311,6 +317,7 @@
     <trd>&c_p;&c_r;&c_y;&c_h;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
     <trd>&c_p;&c_a;&c_k;&c_l;&c_o;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: fr ru; juĝis claude-opus-5">adorer</trd>
   <trd lng="fr">adorateur</trd>
   <trd lng="ja">&#x5D07;&#x62DD;&#32773;  <pr>&#12377;&#12358;&#x306F;&#12356;&#12375;&#12419;</pr></trd>
 </drv>

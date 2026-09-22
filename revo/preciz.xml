@@ -249,6 +249,11 @@
         </fnt>.
       </ekz>
    </dif>
+   <trdgrp lng="en">
+     <trd fnt="Vikt: en ja pl zh; juĝis claude-opus-5">precision</trd>,
+     <trd fnt="Vikt: en pl; juĝis claude-opus-5">exactitude</trd>,
+     <trd fnt="Vikt: pl; juĝis claude-opus-5">accurateness</trd>
+   </trdgrp>
  </snc>
   <trdgrp lng="be">
    <trd>&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -359,6 +364,10 @@
      <ref cel="fiks.0i.kutimon">fiksi<sncref/></ref>,
      <ref cel="specif.0i">specifi</ref>
    </refgrp>
+   <trdgrp lng="en">
+     <trd fnt="Vikt: en fr; juĝis claude-opus-5">specify</trd>,
+     <trd fnt="Vikt: fr; juĝis claude-opus-5">make precise</trd>
+   </trdgrp>
  </snc>
   <trdgrp lng="be">
    <trd>&c_u;&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_ib;&c_c;&c_mol;</trd>,
@@ -444,6 +453,7 @@
       <ref cel="nebul.0a.FIG">nebula<sncref/></ref>,
       <ref cel="svag.0a.KOMUNE">svaga</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">imprecise</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_je;&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_y;</trd>,

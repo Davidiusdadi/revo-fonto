@@ -280,6 +280,7 @@
       <trd>Eignung</trd>,
       <trd>Weiterbildung</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">qualification</trd>
     <trdgrp lng="zh">
       <trd>&#x8CC7;&#x683C; <pr>z&imacron;ge</pr></trd>,
       <trd>&#x8D44;&#x683C; <pr>z&imacron;ge</pr></trd>,
@@ -408,6 +409,7 @@
       </ekz>
     </dif>
     <trd lng="de">disqualifizieren</trd>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">disqualify</trd>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_s;&c_k;&c_v;&c_a;&c_l;&c_ib;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">diskvalifikovat</trd>

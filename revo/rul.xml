@@ -397,6 +397,10 @@
       <trd>B&uuml;ndel</trd>,
       <trd/>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr ru; juĝis claude-opus-5">scroll</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">roll</trd>
+    </trdgrp>
     <trd lng="fr">rouleau</trd>
     <trd lng="hu">tekercs</trd>
     <trd lng="id"><baz>gulung</baz>gulungan</trd>
@@ -849,6 +853,7 @@
         <trd>rollen</trd>,
         <trd><klr>sich </klr>w&auml;lzen</trd>
       </trdgrp>
+      <trd lng="en" fnt="Vikt: en de fr; juĝis claude-opus-5">roll</trd>
       <trdgrp lng="hu">
         <trd>gurul</trd>,
         <trd>g&ouml;rd&uuml;l</trd>

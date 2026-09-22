@@ -252,6 +252,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">accuser</trd>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_zh;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">acusador<klr tip="amb"> (qui acusa)</klr></trd>
@@ -312,6 +313,7 @@
       </ekz>
     </dif>
     <ref tip="sub" cel="prokur1.0o">prokuroro</ref>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">prosecutor</trd>
     <trdgrp lng="zh">
     <trd>&#20844;&#35380;&#20154; <pr>g&omacron;ngs&ugrave;r&eacute;n</pr></trd>,
     <trd>&#20844;&#35785;&#20154; <pr>g&omacron;ngs&ugrave;r&eacute;n</pr></trd>,
@@ -361,6 +363,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de pl; juĝis claude-opus-5">accused</trd>,
+      <trd fnt="Vikt: en de pl; juĝis claude-opus-5">defendant</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">indictee</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_k;&c_a;&c_z;&c_ch;&c_y;&c_k;</trd>,

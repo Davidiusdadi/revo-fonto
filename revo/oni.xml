@@ -93,6 +93,11 @@
       <ref cel="ni.0">ni</ref>,
       <ref cel="plur.0aj">pluraj</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">one</trd>,
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">you <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">they</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_z;&c_a;&c_s;&c_a;&c_b;&c_o;&c_v;&c_y; <ind>&c_z;&c_a;&c_j;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</ind> &c_u; &c_e;&c_s;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_a;</trd>
   <trd lng="cs">neur&ccaron;it&eacute; osobn&iacute; z&aacute;jmeno</trd>
@@ -185,6 +190,7 @@
       <ref cel="ies.0">ies</ref>,
       <ref cel="publik.0a">publika</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">one's</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_je;&c_ch;&c_y;</trd>,

@@ -967,6 +967,7 @@
       <trd>hinzurechnen</trd>,
       <trd>addieren</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">add on</trd>
     <trdgrp lng="es">
       <trd>a&ntilde;adir</trd>,
       <trd>incorporar</trd>
@@ -1178,6 +1179,7 @@
       <ref cel="rabat.0i">rabati</ref>,
       <ref cel="redukt.0i.malgrandigi">redukti<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de fr; juĝis claude-opus-5">deduct</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="ca">
@@ -1664,6 +1666,7 @@
       <trd>durchrechnen</trd>,
       <trd>berechnen</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">premeditate</trd>
     <trdgrp lng="es">
       <trd>prever</trd>,
       <trd>calcular</trd>

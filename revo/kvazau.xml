@@ -191,6 +191,10 @@
    </rim>
    <trd lng="be">&c_b;&c_y;&c_c;&c_c;&c_a;&c_m;</trd>
    <trd lng="de">als ob</trd>
+   <trdgrp lng="en">
+     <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">as if</trd>,
+     <trd fnt="Vikt: en fr; juĝis claude-opus-5">as though</trd>
+   </trdgrp>
    <trdgrp lng="es">
       <trd>como s&iacute;</trd>,
       <trd>igual que</trd>
@@ -329,6 +333,7 @@
      <trd>gleich einer</trd>,
      <trd>gleich einem</trd>
    </trdgrp>
+   <trd lng="en" fnt="Vikt: en ko ku tr; juĝis claude-opus-5">like</trd>
    <trdgrp lng="fi">
      <trd>kuin</trd>,
      <trd>kuin olisi</trd>
@@ -475,6 +480,11 @@
     <trdgrp lng="de">
       <trd>gleichsam</trd>,
       <trd>sozusagen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">so to speak</trd>,
+      <trd fnt="Vikt: en de; juĝis claude-opus-5">quasi</trd>,
+      <trd fnt="Vikt: de pl; juĝis claude-opus-5">sort of <klr>(colloquial)</klr></trd>
     </trdgrp>
     <trdgrp lng="fi">
       <trd>ik&auml;&auml;n kuin</trd>,
@@ -750,6 +760,7 @@
       <trd fnt="Vikt: de; juĝis claude-opus-5">als ob</trd>,
       <trd fnt="Vikt: de; juĝis claude-opus-5">als wenn</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">as if</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_y;&c_c;&c_c;&c_a;&c_m; &c_b;&c_y;</trd>,

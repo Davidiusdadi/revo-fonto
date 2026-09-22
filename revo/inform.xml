@@ -462,6 +462,10 @@
         <tld/>a enhavo de iu frazo.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: el; juĝis claude-opus-5">informational</trd>,
+      <trd fnt="Vikt: el; juĝis claude-opus-5">informatory</trd>
+    </trdgrp>
   </snc>
   <adm>
     "~a bulteno", se konsideri la nunan
@@ -621,6 +625,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">information office</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_ib;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_c;&c_y;&c_j;&c_n;&c_a;&c_je; <ind>&c_b;&c_ju;&c_r;&c_o;</ind></trd>,
@@ -771,6 +776,7 @@
       <ref cel="stud.0i">studi</ref>
     </refgrp>
     <trd lng="de">sich <ind>informieren</ind></trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">get information</trd>
     <trd lng="es"><ind>informar</ind>se</trd>
     <trdgrp lng="fr">
       <trd>s'<ind>informer</ind></trd>,

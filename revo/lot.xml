@@ -185,6 +185,10 @@
     </dif>
     <trd lng="ca">sort</trd>
     <trd lng="de">Los</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">fate</trd>,
+      <trd kod="ARK" fnt="Vikt: ru; juĝis claude-opus-5">fortune <klr>(dated)</klr></trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>sors</trd>,
       <trd>v&eacute;gzet</trd>,
@@ -244,6 +248,7 @@
     <trd>d&aacute;vka</trd>,
     <trd>partie zbo&zcaron;&iacute;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en ru; juĝis claude-opus-5">lot</trd>
   <trdgrp lng="ja">
     <trd>&#12367;&#12376;</trd>,
     <trd>&#36939;  <pr>&#12358;&#12435;</pr></trd>
@@ -374,6 +379,7 @@
       Bileto kun numero a&ubreve; nomo, <ref cel="kub.jxet0o">&jcirc;etkubo</ref>
       a&ubreve; iu ajn objekto, uzata por <tld/>i.
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">ticket</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_zh;&c_e;&c_r;&c_a;&c_b;&c_ja;</trd>,

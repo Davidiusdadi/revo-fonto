@@ -141,6 +141,10 @@
       <ref cel="rubrik.0o">rubriko</ref>
     </refgrp>
     <trd lng="de">&Uuml;berschrift</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">heading</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">headline</trd>
+    </trdgrp>
     <trd lng="hu">c&iacute;m<klr tip="amb"> (pl.
     k&ouml;nyv&eacute;)</klr></trd>
     <trd lng="id">judul</trd>
@@ -210,6 +214,7 @@
     <trd>z&aacute;hlav&iacute;</trd>
   </trdgrp>
   <trd lng="de">Titel</trd>
+  <trd lng="en" fnt="Vikt: en de fr nl pl; juĝis claude-opus-5">title</trd>
   <trd lng="es">t&iacute;tulo</trd>
   <trd lng="fr">titre</trd>
   <trd lng="id">titel</trd>
@@ -417,6 +422,10 @@
     </trdgrp>
     <trd lng="ca">titular</trd>
     <trd lng="de">betiteln</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en el; juĝis claude-opus-5">title</trd>,
+      <trd fnt="Vikt: el pl; juĝis claude-opus-5">entitle</trd>
+    </trdgrp>
     <trd lng="es">titular</trd>
     <trd lng="hu">c&iacute;met ad <klr tip="amb">(pl.
       k&ouml;nyvnek)</klr></trd>
@@ -478,6 +487,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">headline</trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_g;&c_a;&c_l;&c_o;&c_v;&c_a;&c_k; <klr>(&c_a;&c_s;&c_n;&c_o;&c_w;&c_n;&c_y;)</klr></trd>
   <trd lng="de">Haupt&uuml;berschrifft</trd>
@@ -540,6 +550,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">subtitle</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_z;&c_a;&c_g;&c_a;&c_l;&c_o;&c_v;&c_a;&c_k;</trd>
   <trd lng="cs">podtitul</trd>

@@ -40,6 +40,10 @@
     <refgrp tip="sin">
       <ref cel="paralo.0o">paralogismo</ref>.
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr nl; juĝis claude-opus-5">sophism</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">fallacy</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_f;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">sofisma</trd>

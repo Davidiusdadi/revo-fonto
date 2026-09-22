@@ -219,6 +219,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">deformity</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">impairment</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">infirmity</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_l;&c_je;&c_c;&c_t;&c_v;&c_a;</trd>
   <trdgrp lng="ca">
@@ -226,6 +231,10 @@
     <trd>discapacitat</trd>
   </trdgrp>
   <trd lng="de">Verkr&uuml;ppelung</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: ku; juĝis claude-opus-5">disability</trd>,
+    <trd fnt="Vikt: ku; juĝis claude-opus-5">handicap</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>minusval&iacute;a</trd>
     <trd>discapacidad</trd>
@@ -497,6 +506,10 @@
       <ref cel="handikap.0ito">handikapito</ref>,
       <ref cel="invali.0o">invalido</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd kod="ARK" fnt="Vikt: pl; juĝis claude-opus-5">cripple <klr>(dated)</klr></trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">gimp <klr>(derogatory)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_l;&c_je;&c_k;&c_a;</trd>
   <trd lng="cs">mrz&aacute;k</trd>

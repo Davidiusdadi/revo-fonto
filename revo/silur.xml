@@ -44,6 +44,11 @@
           <lok><url ref="&WCW;/File:Silurus_glanis_from_the_Dnieper_River.jpg">&WCW;/File:Silurus_glanis_from_the_Dnieper_River.jpg</url></lok>
         </fnt>
     </bld>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pl ru; juĝis claude-opus-5">catfish</trd>,
+      <trd fnt="Vikt: de fr ru; juĝis claude-opus-5">sheatfish</trd>,
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">wels catfish</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_o;&c_m;</trd>
   <trd lng="cs">sumec</trd>

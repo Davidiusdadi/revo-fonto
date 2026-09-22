@@ -337,6 +337,11 @@
       <trd>Arbeiten</trd>,
       <trd>Werken</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de el fr ku pl ru zh; juĝis claude-opus-5">work</trd>,
+      <trd fnt="Vikt: en el fr ku pt ru zh; juĝis claude-opus-5">job</trd>,
+      <trd fnt="Vikt: en fr ku pl zh; juĝis claude-opus-5">labour</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>kerja</trd>,
       <trd><baz>kerja</baz>pekerjaan</trd>,
@@ -557,6 +562,7 @@
         <trd>treballador</trd>,
         <trd>assalariat</trd>
       </trdgrp>
+      <trd lng="en" fnt="Vikt: en de ku ru; juĝis claude-opus-5">worker</trd>
       <trdgrp lng="fr">
         <trd>travailleur<klr tip="ind"> (subst.)</klr></trd>
         <trd>employ&eacute;<klr tip="ind"> (subst.)</klr></trd>
@@ -659,6 +665,10 @@
       <ref cel="person.0aro.EKON">personaro</ref>,
       <ref cel="prolet.0aro">proletaro</ref>
    </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">personnel</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">staff</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_e;&c_r;&c_s;&c_a;&c_n;&c_a;&c_l;</trd>
   <trdgrp lng="ca">
@@ -1025,6 +1035,7 @@
        <ref cel="produk.0ajxo">produkta&jcirc;o</ref>,
        <ref cel="verk.0o.propra">verko</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr ru; juĝis claude-opus-5">work</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_d;&c_u;&c_k;&c_t;</trd>,
@@ -1717,6 +1728,10 @@
       <ref cel="dilige.mal0a">maldiligenta</ref>,
       <ref cel="pigr.0a.KOMUNE">pigra<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ko ku pl pt; juĝis claude-opus-5">lazy</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">indolent</trd>
+    </trdgrp>
     <trd lng="th">&#xE02;&#xE35;&#xE49;&#xE40;&#xE01;&#xE35;&#xE22;&#xE08;</trd>
   </snc>
   <trdgrp lng="be">
@@ -1843,6 +1858,7 @@
        <ref cel="rikolt.0i">rikolti</ref>,
        <ref cel="salajr.0i">salajri</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en ko pl; juĝis claude-opus-5">earn</trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_r;&c_a;&c_b;&c_l;&c_ja;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_z;&c_a;&c_r;&c_a;&c_b;&c_o;&c_t;&c_v;&c_a;&c_m;</trd>
@@ -1997,6 +2013,7 @@
       <trd>zpracovat</trd>
     </trdgrp>
     <trd lng="de">ausarbeiten</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">process</trd>
     <trdgrp lng="fr">
       <trd>fa&ccedil;onner</trd>,
       <trd>travailler<klr tip="ind"> (tr.)</klr></trd>
@@ -2308,6 +2325,11 @@
     <trd lng="br">dilabour<klr tip="ind"> (ak.)</klr></trd>
     <trd lng="ca">desocupaci&oacute;</trd>
     <trd lng="de">Arbeitslosigkeit</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de es fr pl ru; juĝis claude-opus-5">unemployment</trd>,
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">joblessness</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">worklessness <klr>(British)</klr></trd>
+    </trdgrp>
     <trd lng="fr">ch&ocirc;mage</trd>
     <trd lng="hu">munkan&eacute;lk&uuml;lis&eacute;g</trd>
     <trd lng="id"><baz>anggur (2)</baz>pengangguran</trd>
@@ -2368,6 +2390,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">unemployed person</trd>
     <trd lng="th">&#xE04;&#xE19;&#xE27;&#xE48;&#xE32;&#xE07;&#xE07;&#xE32;&#xE19;</trd>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_s;&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_y;
@@ -2518,6 +2541,7 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="labor.krom0o">krom<tld/>o</ref>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">overtime</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_a;&c_d;&c_a;&c_t;&c_k;&c_o;&c_v;&c_a;&c_ja;
@@ -3029,6 +3053,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="meti.0isto">metiisto</ref>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">manual laborer</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_u;&c_k;&c_a;&c_d;&c_z;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
@@ -3248,6 +3273,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr ru; juĝis claude-opus-5">penal colony</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_a;&c_t;&c_a;&c_r;&c_g;&c_a; <klr>(&c_m;&c_je;&c_s;&c_c;&c_a;)</klr></trd>,
@@ -3381,6 +3407,10 @@
     <refgrp tip="vid">
       <ref cel="servut.0o.POL_servo">servuto<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ja; juĝis claude-opus-5">forced labor <klr>(US)</klr></trd>,
+      <trd fnt="Vikt: ja; juĝis claude-opus-5">forced labour <klr>(British)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_u;&c_s;&c_o;&c_v;&c_a;&c_ja;
   <ind>&c_p;&c_r;&c_a;&c_c;&c_a;</ind></trd>

@@ -650,6 +650,10 @@
       </fnt>.
     </ekz>
     <trd lng="ca">oportunitat<klr tip="amb"> (qualitat d'oport&uacute;)</klr></trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">expediency</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">appropriateness</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>alkalmass&aacute;g</trd>,
       <trd>megfelel&odblac;s&eacute;g</trd>
@@ -887,6 +891,7 @@
       <trd>unzweckm&auml;&szlig;ig</trd>,
       <trd>ungeeignet</trd>
     </trdgrp>
+  <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">unsuitable</trd>
   <trdgrp lng="id">
     <trd>tidak berguna</trd>,
     <trd>tidak bermanfaat</trd>,
@@ -949,6 +954,10 @@
       <trd>unangebracht</trd>,
       <trd>unp&auml;sslich</trd>
     </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: en ru; juĝis claude-opus-5">awkward</trd>,
+    <trd fnt="Vikt: ja ru; juĝis claude-opus-5">inconvenient</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>tidak cocok</trd>,
     <trd>tidak pantas</trd>,
@@ -1171,6 +1180,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">importune</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_ja;&c_z;&c_r;&c_u;&c_ch;&c_n;&c_y;&c_m;</ind></trd>,

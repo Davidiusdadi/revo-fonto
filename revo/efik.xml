@@ -435,6 +435,7 @@
     <refgrp tip="vid">
       <ref cel="efekt.0o">efekto</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en ko pl; juĝis claude-opus-5">effect</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_u;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -539,6 +540,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de es fr pl ru; juĝis claude-opus-5">effectiveness</trd>,
+      <trd fnt="Vikt: es pl ru; juĝis claude-opus-5">efficiency</trd>,
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">efficacy</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_z;&c_je;&c_j;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -672,6 +678,7 @@
       <ref cel="epifenomen.0o.FIL">epifenomeno</ref>,
       <ref cel="efik.post0o.SCI">post<tld/>o</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en pl; juĝis claude-opus-5">side effect</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_b;&c_o;&c_ch;&c_n;&c_a;&c_je; <ind>&c_w;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,

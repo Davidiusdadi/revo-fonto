@@ -313,6 +313,7 @@
       <trd>durchdringend</trd>,
       <trd>eindringend</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: pt; juĝis claude-opus-5">penetrating</trd>
     <trd lng="id"><baz>tembus</baz>menembus (adj.)</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_r;&c_o;&c_n;&c_i;&c_k;&c_a;&c_ju;&c_shch;&c_i;&c_j;</trd>,
@@ -421,6 +422,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pt; juĝis claude-opus-5">penetrating</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_n;&c_ib;&c_k;&c_l;&c_ib;&c_v;&c_y;</trd>,
@@ -745,6 +747,11 @@
     <refgrp tip="ant">
       <ref cel="las.tra0ema">tralasema</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">impenetrable</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">impermeable</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">impervious</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_r;&c_a;&c_n;&c_ib;&c_k;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="cs">neproniknuteln&yacute;</trd>
@@ -845,6 +852,7 @@
       <ref cel="ir.tra0i.KOMUNE">trairi<sncref/></ref>,
       <ref cel="kur.tra0i">trakuri</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">penetrate</trd>
   </snc>
   <snc mrk="penetr.tra0i.spione">
     <uzo tip="stl">FIG</uzo>

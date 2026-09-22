@@ -38,6 +38,7 @@
       <ref cel="varian1.0o">varianco</ref>
     </refgrp>
     <trd lng="ca">desviar-se</trd>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">deviate</trd>
     <trdgrp lng="hu">
       <trd>kit&eacute;r</trd>,
       <trd>let&eacute;r</trd>
@@ -290,6 +291,10 @@
         </fnt>!
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">deflect</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">divert</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_ib;&c_c;&c_mol;</trd>,

@@ -188,6 +188,7 @@
         <fnt><bib>ChV</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">storm</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_u;&c_sh;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -243,6 +244,7 @@
   </snc>
   <trd lng="be">&c_c;&c_y;&c_k;&c_l;&c_jo;&c_n;</trd>
   <trd lng="de">Wirbelsturm</trd>
+  <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">whirlwind</trd>
   <trd lng="fr">tornade</trd>
   <trdgrp lng="nl">
     <trd>wervelstorm</trd>,
@@ -283,6 +285,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pt tr zh; juĝis claude-opus-5">blizzard</trd>,
+      <trd fnt="Vikt: en tr zh; juĝis claude-opus-5">snowstorm</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_v;&c_ib;&c_r;&c_u;&c_h;&c_a;</trd>
   <trd lng="de">Schneesturm</trd>
@@ -378,6 +384,10 @@
       <ref cel="tromb.0o.sablo">trombo<sncref/></ref>,
       <ref cel="sirok.0o">siroko</ref>
    </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en el ja pl zh; juĝis claude-opus-5">sandstorm</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">sand storm</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_ja;&c_s;&c_ch;&c_a;&c_n;&c_a;&c_ja; <ind>&c_b;&c_u;&c_r;&c_a;</ind></trd>,

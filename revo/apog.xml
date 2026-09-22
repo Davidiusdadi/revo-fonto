@@ -229,6 +229,10 @@
       <trd>Unterst&uuml;tzung</trd>,
       <trd>Hilfe</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr ru; juĝis claude-opus-5">support</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">backing</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#20809;&#39015; <pr>gu&amacron;ngg&ugrave;</pr></trd>,
     <trd>&#20809;&#39038; <pr>gu&amacron;ngg&ugrave;</pr></trd>
@@ -560,6 +564,10 @@
       </ekz>
     </dif>
     <trd lng="de">Armlehne</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ja; juĝis claude-opus-5">armrest</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">arm-rest</trd>
+    </trdgrp>
     <trd lng="zh">&#33011;&#33218; <pr>g&emacron;b&igrave;</pr></trd>
 </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_l;&c_a;&c_k;&c_o;&c_t;&c_n;&c_ib;&c_k;</trd>
@@ -604,6 +612,7 @@
       </ekz>
     </dif>
     <trd lng="de">R&uuml;ckenlehne</trd>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">backrest</trd>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;&c_k;&c_a; <klr tip="amb">(&c_k;&c_r;&c_e;&c_s;&c_l;&c_a;)</klr></trd>
   <trdgrp lng="cs">

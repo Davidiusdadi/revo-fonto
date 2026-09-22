@@ -188,6 +188,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: ru; juĝis claude-opus-5">Gevatter</trd>
+    <trd lng="en" fnt="Vikt: fr ru; juĝis claude-opus-5">godfather</trd>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_m;</trd>
   <trd lng="ca">compare <klr tip="amb">(per bateig)</klr></trd>
@@ -337,6 +338,10 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: de pl ru; juĝis claude-opus-5">Baptismus</trd>
+    <trdgrp lng="en">
+      <trd kod="RAR" fnt="Vikt: de pl ru; juĝis claude-opus-5">Baptism <klr>(rare)</klr></trd>,
+      <trd kod="RAR" fnt="Vikt: de; juĝis claude-opus-5">Baptistdom <klr>(rare)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_p;&c_t;&c_y;&c_z;&c_m;</trd>
   <trd lng="ca">baptisme <klr tip="amb">(doctrina protestant)</klr></trd>
@@ -387,6 +392,7 @@
     </dif>
   <trd lng="be">&c_h;&c_r;&c_y;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_je;&c_l;&c_mol;</trd>
   <trd lng="de" fnt="Vikt: en ru; juĝis claude-opus-5">T&auml;ufer</trd>
+  <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">baptizer</trd>
   <trd lng="id"><baz>baptis</baz>pembaptis</trd>
   </snc>
   <snc mrk="bapt.0isto.KRI_sekte">
@@ -406,6 +412,7 @@
     </dif>
   <trd lng="be">&c_b;&c_a;&c_p;&c_t;&c_y;&c_s;&c_t;</trd>
   <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Baptist</trd>
+  <trd lng="en" fnt="Vikt: en de ru; juĝis claude-opus-5">Baptist</trd>
   <trdgrp lng="id">
     <trd>umat Baptisme</trd>,
     <trd><baz>anut</baz>penganut aliran Baptisme</trd>
@@ -458,6 +465,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">baptismal font</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">font</trd>
+    </trdgrp>
   </snc>
   <rim>
     En iu verko trovi&gcirc;as anka&ubreve; la vorto &leftquot;<tld/>ingo&rightquot;:

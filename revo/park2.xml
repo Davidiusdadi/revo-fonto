@@ -46,6 +46,7 @@
     </dif>
     <trd lng="be">&c_p;&c_a;&c_r;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trd lng="de">parken</trd>
+    <trd lng="en" fnt="Vikt: de fr nl pl; juĝis claude-opus-5">park</trd>
     <trd lng="id">parkir</trd>
     <trd lng="nl">parkeren</trd>
     <trd lng="pl">parkowa&cacute;</trd>
@@ -126,6 +127,11 @@
       </ekz>
     </dif>
     <trd lng="de">Parkplatz</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ja pl zh; juĝis claude-opus-5">parking lot <klr>(US)</klr></trd>,
+      <trd fnt="Vikt: de fr pl zh; juĝis claude-opus-5">car park</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">parking place</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_r;&c_k;&c_o;&c_w;&c_k;&c_a;</trd>,

@@ -30,6 +30,10 @@
     </dif>                    
     <trd lng="br">mania</trd>
     <trd lng="de">Wahn</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">mania</trd>,
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">obsession</trd>
+    </trdgrp>
     <trd lng="fr">manie</trd>
     <trd lng="hu">m&aacute;nia</trd>
     <trd lng="pl">mania</trd>     
@@ -60,6 +64,7 @@
       <trd>Tick</trd>,
       <trd>Angewohnheit</trd>
     </trdgrp>
+    <trd lng="en" kod="ARK" fnt="Vikt: ru; juĝis claude-opus-5">craze <klr>(dated)</klr></trd>
     <trdgrp lng="fr">
       <trd>id&eacute;e fixe</trd>,
       <trd>manie<klr> (id&eacute;e fixe)</klr></trd>,
@@ -145,6 +150,7 @@
     <refgrp tip="sin">
       <ref cel="megalomani.0o">megalomanio</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">megalomania</trd>
   </snc>                            
   <trd lng="be">&c_g;&c_ib;&c_g;&c_a;&c_n;&c_t;&c_a;&c_m;&c_a;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="br">kle&ntilde;ved ar brasterio&ugrave;</trd>

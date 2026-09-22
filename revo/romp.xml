@@ -526,6 +526,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">fracture</trd>
   </snc>
   <snc mrk="romp.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -565,6 +566,10 @@
       <ref cel="fend.0o.FIG">fendo<sncref/></ref>,
       <ref cel="skism.0o.KOMUNE">skismo<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">schism</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">split</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_l;&c_o;&c_m;</trd>,
@@ -713,6 +718,10 @@
       <trd>zerbrechlich</trd>,
       <trd>br&uuml;chig</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">brittle</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">fragile</trd>
+    </trdgrp>
   </snc>
     <trdgrp lng="be">
       <trd>&c_l;&c_o;&c_m;&c_k;&c_ib;</trd>,
@@ -787,6 +796,11 @@
       </ekz>
     </dif>
     <trd lng="de">zerbrechen</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de ku; juĝis claude-opus-5">break</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">fracture</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">shatter</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x9707;&#x88C2; <pr>zh&egrave;nli&egrave;</pr></trd>,
     <trd>&#x788E;&#x88C2; <pr>su&igrave;li&egrave;</pr></trd>
@@ -1106,6 +1120,7 @@
       </ekz>
     </dif>
     <trd lng="de">abbrechen</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">break off</trd>
     <trd lng="zh">&#x7A81;&#x7136;&#x505C;&#x6B62; <pr>t&uacute;r&aacute;nt&iacute;ngzh&#x1D0;</pr></trd>
 </snc>
   <trd lng="be">&c_a;&c_d;&c_l;&c_a;&c_m;&c_a;&c_c;&c_mol;</trd>
@@ -2106,6 +2121,7 @@
 	</fnt>.
       </ekz>
     </dif>
+    <trd lng="en" kod="HIS" fnt="Vikt: fr; juĝis claude-opus-5">battering ram <klr>(historical)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_mol;&c_c;&c_je;&c_n;&c_a;&c_b;&c_ib;&c_t;&c_n;&c_a;&c_ja;
@@ -2208,6 +2224,7 @@
     </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Schiffbr&uuml;chiger</trd>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">castaway</trd>
   </snc>
   <trd lng="be">&c_a;&c_h;&c_v;&c_ja;&c_r;&c_a;
   &c_k;&c_a;&c_r;&c_a;&c_b;&c_l;&c_je;&c_k;&c_r;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_ja;</trd>

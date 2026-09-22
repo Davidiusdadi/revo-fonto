@@ -94,6 +94,11 @@
       </ekz>
     </dif>
     <ref tip="ant" cel="akcel.0i">akceli</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr ru; juĝis claude-opus-5">brake</trd>,
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">slow down</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">apply brakes</trd>
+    </trdgrp>
     <trd lng="pl">hamowa&cacute;</trd>
     <trd lng="tr">fren yapmak</trd>
     <trdgrp lng="zh">
@@ -154,6 +159,7 @@
       <ref cel="buton.0umi">butonumi</ref> malvaste,
       <ref cel="katen.0i.FIG">kateni<sncref/></ref>
     </refgrp>
+  <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">retard</trd>
   <trdgrp lng="pl">
     <trd>hamowa&cacute;</trd>,
     <trd>spowalnia&cacute;</trd>

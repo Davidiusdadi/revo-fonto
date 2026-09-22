@@ -26,6 +26,10 @@
       <ref cel="serpen.0umo.forma">serpentumo</ref>,
       <ref cel="zigzag.0o.FORM">zigzago</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ko nl; juĝis claude-opus-5">curve</trd>,
+      <trd fnt="Vikt: nl; juĝis claude-opus-5">bend</trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>serpentumo</ke>, <ke>kurbo</ke>, <ke>serpentuma kurbo</ke>.
@@ -120,6 +124,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">winding</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_mol;&c_v;&c_ib;&c_l;&c_ib;&c_s;&c_t;&c_y;</trd>,
@@ -217,6 +222,10 @@
   <trdgrp lng="de">
     <trd><klr>sich </klr>winden</trd>,
     <trd><klr>sich </klr>schl&auml;ngeln</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">meander</trd>,
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">wind</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>serpenter</trd>,

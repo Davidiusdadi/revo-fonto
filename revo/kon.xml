@@ -341,6 +341,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en ku pl; juĝis claude-opus-5">acquaintance</trd>
   </snc>
   <trd lng="be">&c_z;&c_n;&c_a;&c_jo;&c_m;&c_y; <klr tip="amb">(&c_n;&c_a;&c_z;.)</klr></trd>
   <trd lng="bo">&t_nga;&t_naro;&t_tsheg;&t_sha;&t_drengbu;&t_sa;&t_tsheg;&t_pa;&t_tsheg;</trd>
@@ -449,6 +450,7 @@
       <ref cel="fam.0o">famo</ref>,
       <ref cel="renom.0o">renomo</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">notability</trd>
   </snc>
   <trd lng="be">&c_v;&c_ja;&c_d;&c_o;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="cs">zn&aacute;most</trd>
@@ -704,6 +706,11 @@
       <ref cel="prezen1.0i.iun">prezenti<sncref/></ref>,
       <ref cel="sci.0igi">sciigi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ko; juĝis claude-opus-5">announce</trd>,
+      <trd fnt="Vikt: ko; juĝis claude-opus-5">inform</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">present</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_z;&c_n;&c_a;&c_jo;&c_m;&c_ib;&c_c;&c_mol;</trd>,
@@ -1133,6 +1140,11 @@
       <trd>pozn&aacute;vat</trd>
     </trdgrp>
     <trd lng="de">kennenlernen</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">get to know</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">recognise <klr>(British)</klr></trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">recognize</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>reconocer</trd>,
       <trd>identificar</trd>
@@ -1814,6 +1826,7 @@
       <trd>rozpozn&aacute;n&iacute;</trd>,
       <trd>uzn&aacute;n&iacute;</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en ru; juĝis claude-opus-5">recognition</trd>
     <trd lng="es">reconocimiento</trd>
     <trd lng="fr">reconnaissance<klr> (fait de reconnaitre)</klr></trd>
     <trdgrp lng="hu">

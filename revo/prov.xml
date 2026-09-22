@@ -1367,6 +1367,7 @@
           <fnt><bib>NT</bib>, <lok>&Te1; 5:21</lok></fnt>.
         </ekz>
       </dif>
+      <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">try out</trd>
       <trd lng="es">probar</trd>
     </subsnc>
     <subsnc>
@@ -1406,8 +1407,13 @@
           <fnt><bib>MT</bib>, <lok>&Zeh; 13:9</lok></fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en de; juĝis claude-opus-5">put to the test</trd>,
+        <trd kod="ARK" fnt="Vikt: de; juĝis claude-opus-5">prove <klr>(dated)</klr></trd>
+      </trdgrp>
       <trd lng="es">poner a prueba</trd>
     </subsnc>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">test</trd>
   </snc>
   <trd lng="be">
   &c_v;&c_y;&c_p;&c_r;&c_a;&c_b;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;
@@ -1604,6 +1610,10 @@
         re&gcirc;o</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">proven</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">tried</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">
   &c_v;&c_y;&c_p;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>

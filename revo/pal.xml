@@ -284,6 +284,7 @@
       <trd><ind>erblassen</ind> lassen</trd>,
       <trd><ind>erbleichen</ind> lassen</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">blanch</trd>
     <trdgrp lng="zh">
     <trd>&#x60CA;&#21523; <pr>j&#x12B;ngxi&#xE0;</pr></trd>,
     <trd>&#x9A5A;&#22151; <pr>j&#x12B;ngxi&#xE0;</pr></trd>
@@ -406,6 +407,10 @@
     <trd>esblaimar-se</trd>,
   </trdgrp>
     <trd lng="de">erblassen</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">pale</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">blanch</trd>
+    </trdgrp>
   </snc>
   <snc mrk="pal.0igxi.FIG">
     <dif>
@@ -430,6 +435,7 @@
       <trd>decaure</trd>
     </trdgrp>
     <trd lng="de">verblassen</trd>
+    <trd lng="en" fnt="Vikt: de fr; juĝis claude-opus-5">fade</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_l;&c_ja;&c_d;&c_n;&c_je;&c_c;&c_mol;</trd>,

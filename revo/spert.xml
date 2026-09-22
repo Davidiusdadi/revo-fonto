@@ -299,6 +299,10 @@
       <trd>erleben</trd>,
       <trd>durchmachen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de pl pt; juĝis claude-opus-5">experience</trd>,
+      <trd fnt="Vikt: pt; juĝis claude-opus-5">undergo</trd>
+    </trdgrp>
     <trd lng="es">experimentar</trd>
     <trd lng="id"><baz>alam (2)</baz>mengalami</trd>
     <trd lng="nl">ervaren</trd>
@@ -427,6 +431,7 @@
          <trd lng="hu">tapasztalatt&oacute;l n&odblac; a b&ouml;lcsess&eacute;g</trd>
        </ekz>
      </dif>
+     <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">expertise</trd>
      <trdgrp lng="id">
        <trd><baz>ahli</baz>keahlian</trd>,
        <trd><baz>mahir</baz>kemahiran</trd>,
@@ -513,6 +518,7 @@
   <trd lng="cy">profiad</trd>
   <trd lng="da">erfaring</trd>
   <trd lng="de">Erfahrung</trd>
+  <trd lng="en" fnt="Vikt: en de fr it ku pl zh; juĝis claude-opus-5">experience</trd>
   <trd lng="es">experiencia</trd>
   <trd lng="et">kogemus</trd>
   <trd lng="eu">eskarmentu</trd>

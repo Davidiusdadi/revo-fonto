@@ -461,6 +461,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en pl; juĝis claude-opus-5">verbal</trd>
+    <trd lng="en" fnt="Vikt: en pl; juĝis claude-opus-5">verbal</trd>
     <trd lng="id"><baz>kata</baz>... kata</trd>
     <trdgrp lng="pl">
       <trd>wyrazowy</trd>,
@@ -780,6 +781,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pt; juĝis claude-opus-5">morpheme</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a; &c_s;&c_l;&c_o;&c_v;&c_a;</trd>,
@@ -2249,6 +2251,11 @@
       <trd>mit einem <ind>Wort</ind></trd>,
       <trd>kurz <klr>(gesagt)</klr></trd>,
     </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">in a word</trd>,
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">in short</trd>,
+    <trd fnt="Vikt: en; juĝis claude-opus-5">in a nutshell</trd>
+  </trdgrp>
   <trd lng="es">en una palabra</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_n;&c_y;&c_m; <ind>&c_s;&c_l;&c_o;&c_v;&c_a;&c_m;</ind>

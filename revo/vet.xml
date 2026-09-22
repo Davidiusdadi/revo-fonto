@@ -397,6 +397,10 @@
       <trd>Einsatz <klr>(Wette)</klr></trd>,
       <trd>Wetteinsatz</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">wager</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">stake</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>enjeu</trd>,
       <trd>mise<klr> (au jeu)</klr></trd>

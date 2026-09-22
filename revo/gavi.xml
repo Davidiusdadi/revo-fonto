@@ -37,6 +37,10 @@
         </fnt>
     </bld>
     <trd lng="de">Seetaucher</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">diver <klr>(British)</klr></trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">loon <klr>(US)</klr></trd>
+    </trdgrp>
     <trd lng="fr">Plongeon</trd>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_g;&c_a;&c_r;&c_a;</trd>

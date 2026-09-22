@@ -238,6 +238,7 @@
         </fnt>!
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">state</trd>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y;</trd>
   <trd lng="de">Reichs-</trd>
@@ -272,6 +273,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: ko; juĝis claude-opus-5">citizen</trd>
   </snc>
   <refgrp tip="vid">
     <ref cel="sxtat.0ano">&scirc;tatano</ref>
@@ -315,6 +317,10 @@
         <fnt><bib>F</bib> <lok>&FE; 37</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: nl tr; juĝis claude-opus-5">head of state</trd>,
+      <trd fnt="Vikt: en zh; juĝis claude-opus-5">ruler</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_r;&c_a;&c_w;&c_n;&c_ib;&c_k; &c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_y;</trd>
   <trdgrp lng="cs">
@@ -371,6 +377,7 @@
     <trd>Tierreich</trd>,
     <trd><ind>Reich</ind> der Tiere</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">animal kingdom</trd>
   <trd lng="fr">r&egrave;gne animal</trd>
   <trdgrp lng="id">
     <trd><baz>raja</baz>kerajaan hewan</trd>,

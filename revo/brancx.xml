@@ -54,6 +54,10 @@
       <trd>Ast</trd>,
       <trd>Zweig</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ja ko ku ru; juĝis claude-opus-5">bough</trd>,
+      <trd fnt="Vikt: pl ru; juĝis claude-opus-5">limb</trd>
+    </trdgrp>
     <trd lng="hu">&aacute;g</trd>
     <trdgrp lng="id">
       <trd>cabang</trd>,
@@ -169,6 +173,7 @@
   <trd lng="co">parus</trd>
   <trd lng="cy">gangen</trd>
   <trd lng="da">gren</trd>
+  <trd lng="en" fnt="Vikt: en de el es fr ja ko ku pl ru; juĝis claude-opus-5">branch</trd>
   <trd lng="es">rama</trd>
   <trd lng="et">filiaali</trd>
   <trd lng="eu">adarra</trd>

@@ -120,6 +120,7 @@
     <refgrp tip="vid">
       <ref cel="kaper.0i">kaperi</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">pirate</trd>
   </snc>
   <trd lng="be">&c_p;&c_ib;&c_r;&c_a;&c_c;&c_t;&c_v;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -165,6 +166,7 @@
         numero 6a, p. 12a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en el; juĝis claude-opus-5">hijacker</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_t;&c_r;&c_a;&c_n;&c_y; <ind>&c_p;&c_ib;&c_r;&c_a;&c_t;</ind></trd>
   <trdgrp lng="cs">
@@ -218,6 +220,10 @@
     <refgrp tip="vid">
       <ref cel="kod.0rompisto">kodrompisto</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">cracker</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">hacker</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_h;&c_a;&c_k;&c_je;&c_r;</trd>,

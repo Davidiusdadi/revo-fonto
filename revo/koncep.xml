@@ -152,6 +152,11 @@
     <ref tip="vid" cel="bild.0igi">bildigi (al si)</ref>
     <trd lng="ca">concebre</trd>
     <trd lng="de">konzipieren</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">conceive</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">comprehend</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">conceptualize</trd>
+    </trdgrp>
     <trd lng="es">concebir</trd>
     <trdgrp lng="fr">
       <trd>concevoir<klr tip="ind"> (par l'esprit)</klr></trd>,
@@ -201,6 +206,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">design</trd>
     <trd lng="nl">ontwerpen</trd>
   </snc>
   <trdgrp lng="be">
@@ -315,6 +321,7 @@
       <ref cel="intele.0o">intelekto</ref>,
       <ref cel="imag.0povo.PSI">imago</ref>.
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">conception</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_n;&c_c;&c_e;&c_p;&c_c;&c_y;&c_ja;</trd>
   <trd lng="ca">concepci&oacute;</trd>
@@ -510,6 +517,10 @@
     <trdgrp lng="de">
       <trd fnt="Vikt: en pl ru zh; juĝis claude-opus-5">Weltanschauung</trd>,
       <trd fnt="Vikt: en ru zh; juĝis claude-opus-5">Weltbild</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl ru zh; juĝis claude-opus-5">worldview</trd>,
+      <trd fnt="Vikt: pl ru; juĝis claude-opus-5">world view</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_t;&c_a;&c_p;&c_o;&c_g;&c_l;&c_ja;&c_d;</trd>

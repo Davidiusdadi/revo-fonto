@@ -374,6 +374,11 @@
       <ref cel="konfor.0a">konforma</ref>,
       <ref cel="oportu.0a">oportuna</ref>.
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ku pl; juĝis claude-opus-5">suitable</trd>,
+      <trd fnt="Vikt: en de fr ku pl; juĝis claude-opus-5">adequate</trd>,
+      <trd fnt="Vikt: en ku pl; juĝis claude-opus-5">opportune</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>adapt&eacute;</trd>,
       <trd>ad&eacute;quat</trd>,
@@ -411,6 +416,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de ku pl; juĝis claude-opus-5">fitting</trd>
     <trdgrp lng="fr">
       <trd>adapt&eacute;</trd>,
       <trd>ad&eacute;quat</trd>,
@@ -461,6 +467,7 @@
       <trd>geb&uuml;hrlich</trd>,
       <trd>geh&ouml;rig</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en de ku pl; juĝis claude-opus-5">appropriate</trd>
     <trdgrp lng="fr">
       <trd>adapt&eacute;</trd>
       <trd>convenable</trd>,
@@ -589,6 +596,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">adequately</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">appropriately</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">correctly</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_a;</trd>,
@@ -718,6 +730,7 @@
     <trdgrp lng="de">
       <trd>Angemessenheit</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">appropriateness</trd>
     <trdgrp lng="fr">
       <trd>ad&eacute;quation</trd>,
       <trd>conformit&eacute;</trd>,
@@ -892,6 +905,10 @@
       <ref cel="oportu.mal0a">maloportuna</ref>,
       <ref cel="skuril.0a">skurila</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">inappropriate</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">unseemly</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_je;&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_y;</trd>,

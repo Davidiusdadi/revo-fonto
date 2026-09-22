@@ -127,6 +127,10 @@
     <refgrp tip="vid">
       <ref cel="komputik.0o">komputiko</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">computing</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">data processing</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
         <trd>&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -214,6 +218,10 @@
     <trdgrp lng="de">
       <trd fnt="Vikt: de en fr zh; juĝis claude-opus-5">Informatik</trd>,
       <trd fnt="Vikt: en zh; juĝis claude-opus-5">Computerwissenschaft</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">computer science</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">informatics</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>
@@ -845,6 +853,10 @@
     <trdgrp lng="de">
       <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">Tablet</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">Tablet-Computer</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">tablet computer</trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">tablet</trd>
     </trdgrp>
     <trd lng="fr">tablette</trd>
     <trd lng="pl">komputer przeno&sacute;ny</trd>

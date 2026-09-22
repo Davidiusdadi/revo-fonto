@@ -749,6 +749,7 @@
         la ideo de evoluo estas <tld/>a anka&ubreve; en la astronomio.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">valuable</trd>
   </snc>
   <snc mrk="valor.0a.altvalora">
     <dif>
@@ -764,6 +765,7 @@
        </ekz>
     </dif>
     <trd lng="de">wertvoll</trd>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">precious</trd>
     <trdgrp lng="zh">
     <trd>&#20516;&#37666; <pr>zh&#xED;qi&#xE1;n</pr></trd>,
     <trd>&#x503C;&#x94B1; <pr>zh&#xED;qi&#xE1;n</pr></trd>,
@@ -854,6 +856,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">valuable</trd>
   </snc>
   <adm>
     PIV1 ne samopinias. <aut>MB</aut>
@@ -921,6 +924,7 @@
       <ref cel="perl.0o">perlo</ref>,
       <ref cel="trezor.0o.aprezindajxo">trezoro <sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en ru; juĝis claude-opus-5">precious</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_sh;&c_t;&c_o;&c_w;&c_n;&c_y;</trd>
   <trd lng="br">a dalvoudegezh vras</trd>
@@ -1028,6 +1032,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">of the same value</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">tantamount</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_w;&c_n;&c_a;&c_c;&c_e;&c_n;&c_n;&c_y;</trd>,
@@ -1361,6 +1369,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en cs pl; juĝis claude-opus-5">worthless</trd>,
+      <trd fnt="Vikt: cs; juĝis claude-opus-5">valueless</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_ja;&c_v;&c_a;&c_r;&c_t;&c_y;</trd>,
@@ -1703,6 +1715,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de es zh; juĝis claude-opus-5">surplus value</trd>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_d;&c_a;&c_n;&c_a;&c_ja; <ind>&c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
   <trd lng="cs">nadhodnota</trd>
@@ -1782,6 +1795,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">use value</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">value in use</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_zh;&c_y;&c_v;&c_je;&c_c;&c_k;&c_a;&c_ja; <ind>&c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
   <trd lng="cs">u&zcaron;itn&aacute; hodnota</trd>

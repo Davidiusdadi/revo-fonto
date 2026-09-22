@@ -371,6 +371,10 @@
        </ekz>
     </dif>
       <trd lng="de">Geburt</trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: de fr; juĝis claude-opus-5">birth</trd>,
+        <trd fnt="Vikt: pt; juĝis claude-opus-5">childbirth</trd>
+      </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -433,6 +437,7 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="akusx.0intino">aku&scirc;intino</ref>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">parturient</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_d;&c_z;&c_ib;&c_h;&c_a;</trd>
   <trd lng="ca">partera<klr tip="amb"> (dona que va de part)</klr></trd>
@@ -958,6 +963,7 @@
       <trd>Nachkommen</trd>,
       <trd>Kinder</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: pt; juĝis claude-opus-5">offspring</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_t;&c_o;&c_m;&c_s;&c_t;&c_v;&c_a;</trd>
   <trdgrp lng="ca">
@@ -1048,6 +1054,11 @@
       <trd>innat</trd>,
       <trd>de <ind>naixement</ind></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">congenital</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">inborn</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">innate</trd>
+    </trdgrp>
     <trd lng="hu">sz&uuml;letett</trd>
     <trdgrp lng="ru">
       <trd>&c_v;&c_r;&c_o;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>,
@@ -1081,6 +1092,7 @@
       <trd>nadiu</trd>,
       <trd>natiu</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en pl; juĝis claude-opus-5">native</trd>
     <trd lng="hu">sz&uuml;let&eacute;si</trd>
     <trdgrp lng="ru">
       <trd>&c_r;&c_o;&c_d;&c_n;&c_o;&c_j;</trd>,
@@ -1164,6 +1176,7 @@
       <trd lng="id"><baz>tutur</baz>penutur asli Esperanto</trd>
       <trd lng="pl">rodzimy u&zdot;ytkownik j&eogonek;zyka esperanto</trd>
     </subsnc>
+    <trd lng="en" fnt="Vikt: en de ja zh; juĝis claude-opus-5">native speaker</trd>
   </snc>
   <trd lng="be">&c_e;&c_s;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_y;&c_s;&c_t; &c_a;&c_d;
   &c_n;&c_a;&c_r;&c_a;&c_d;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_ja;</trd>
@@ -1321,6 +1334,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" kod="HIS" fnt="Vikt: fr; juĝis claude-opus-5">cadet <klr>(historical)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_r;&c_u;&c_g;&c_ib; &c_z; &c_n;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_y;&c_h;</trd>,
@@ -1472,6 +1486,10 @@
           <vrk>&Ccirc;u li?</vrk>, <lok>&ccirc;ap. 7a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">newborn</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">neonate</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_v;&c_a;&c_r;&c_o;&c_d;&c_n;&c_y;</trd>,
@@ -1532,6 +1550,7 @@
       </ekz>
     </dif>
     <ref tip="sub" cel="bastar.0o">bastardo</ref>
+    <trd lng="en" kod="ARK" fnt="Vikt: fr; juĝis claude-opus-5">bastard <klr>(dated)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_a;&c_j;&c_s;&c_t;&c_r;&c_u;&c_k;</trd>,
@@ -1650,6 +1669,7 @@
       </ekz>
     </dif>
     <trd lng="de">eingeborener <klr>(Sohn Jesus)</klr></trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">only child</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;&c_je; &c_d;&c_z;&c_ib;&c_c;&c_ja;</trd>
   <trd lng="ca">fill &uacute;nic</trd>
@@ -1711,6 +1731,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">firstborn</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_je;&c_r;&c_sh;&c_a;&c_je; &c_d;&c_z;&c_ib;&c_c;&c_ja;</trd>,

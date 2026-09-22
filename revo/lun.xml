@@ -380,6 +380,7 @@
     <refgrp tip="vid">
       <ref cel="ark.lun0o.AST">lunarko</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">half-moon</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_w;&c_m;&c_je;&c_s;&c_ja;&c_c;</trd>
   <trd lng="ca">mitja <ind>lluna</ind></trd>
@@ -575,6 +576,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: cs de pl; juĝis claude-opus-5">new moon</trd>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_l;&c_a;&c_d;&c_z;&c_ib;&c_k; <klr>(&c_n;&c_o;&c_v;&c_y;
   &c_m;&c_je;&c_s;&c_ja;&c_c;)</klr></trd>
@@ -651,6 +653,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en cs de es fr ko pl ru zh; juĝis claude-opus-5">full moon</trd>
   </snc>
   <trd lng="be">&c_p;&c_o;&c_w;&c_n;&c_ja;</trd>
   <trdgrp lng="ca">
@@ -722,6 +725,10 @@
     <refgrp tip="vid">
       <ref cel="monat.0o.AST">monato</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">lunar month</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">lunation</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_je;&c_s;&c_ja;&c_c;&c_a;&c_v;&c_y;
   <ind>&c_m;&c_je;&c_s;&c_ja;&c_c;</ind></trd>

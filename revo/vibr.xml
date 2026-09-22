@@ -208,6 +208,10 @@
       <ref cel="frekve.0o.TEK">frekvenco<sncref/></ref>,
       <ref cel="trem.0o.MOV">tremo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">vibration</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">oscillation</trd>
+    </trdgrp>
   </snc>
   <rim>
     &Z; en unu verko uzis la vorton &leftquot;<esc>vibracio</esc>&rightquot;:

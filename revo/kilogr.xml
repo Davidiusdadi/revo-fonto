@@ -182,6 +182,10 @@
     <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Kilogramm pro Kubikmeter</trd>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_l;&c_a;&c_g;&c_r;&c_a;&c_m; &c_n;&c_a; &c_k;&c_u;&c_b;&c_ib;&c_ch;&c_n;&c_y; &c_m;&c_e;&c_t;&c_a;&c_r;</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">kilogram per cubic meter</trd>,
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">kilogramme per cubic metre</trd>
+  </trdgrp>
   <trd lng="fr">kilogramme par m&egrave;tre cube</trd>
   <trd lng="hu">kilogramm per k&ouml;bm&eacute;ter</trd>
   <trd lng="id"><ind>kilogram</ind> per meter kubik</trd>

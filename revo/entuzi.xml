@@ -64,6 +64,7 @@
       <ref cel="verv.0o">vervo</ref>,
       <ref cel="vibr.0i.FIG">vibri<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en de el fr ku pl ru; juĝis claude-opus-5">enthusiasm</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_e;&c_n;&c_t;&c_u;&c_z;&c_ib;&c_ja;&c_z;&c_m;</trd>,
@@ -168,6 +169,7 @@
       <ref cel="rezerv.0i.pordiskute">rezervita</ref>,
       <ref cel="skepti.0a">skeptika</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en de ru; juĝis claude-opus-5">enthusiastic</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_e;&c_n;&c_t;&c_u;&c_z;&c_ib;&c_ja;&c_s;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>,
@@ -312,6 +314,10 @@
       <ref cel="emoci.0i">emocii</ref>,
       <ref cel="fervor.0igi">fervorigi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">enthuse <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">fill with enthusiasm</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_t;&c_h;&c_n;&c_ja;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -456,6 +462,10 @@
       <ref cel="fervor.0ulo">fervorulo</ref>,
       <ref cel="zelot.0o">zeloto</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ja ru; juĝis claude-opus-5">fan</trd>,
+      <trd fnt="Vikt: en pl ru; juĝis claude-opus-5">enthusiast</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_e;&c_n;&c_t;&c_u;&c_z;&c_ib;&c_ja;&c_s;&c_t;</trd>
   <trd lng="cs">nad&scaron;enec</trd>

@@ -448,6 +448,7 @@
       </ekz>
     </dif>
     <trd lng="de">Weiser</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">wise man</trd>
     <trdgrp lng="zh">
     <trd>&#x667A;&#32773; <pr>zh&igrave;zh&ecaron;</pr></trd>,
     <trd>&#x8CE2;&#x4EBA; <pr>xi&aacute;nr&eacute;n</pr></trd>,
@@ -455,6 +456,7 @@
   </trdgrp>
 </snc>
   <trd lng="be">&c_m;&c_u;&c_d;&c_r;&c_e;&c_c;</trd>
+  <trd lng="en" fnt="Vikt: en el fr pl; juĝis claude-opus-5">sage</trd>
   <trd lng="fr">sage<klr> (subst.)</klr></trd>
   <trd lng="hu">b&ouml;lcs</trd>
   <trdgrp lng="id">
@@ -520,6 +522,7 @@
       <trd>schlaumeiern</trd>,
       <trd>klugschei&szlig;en</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">wise off <klr>(colloquial)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_u;&c_d;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -628,6 +631,10 @@
       <trd>unklug</trd>
       <trd>unweise</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">foolish</trd>,
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">unwise</trd>
+    </trdgrp>
     <trd lng="hu">eszetlen</trd>
     <trd lng="id">ceroboh</trd>
     <trd lng="ru">&c_n;&c_je;&c_r;&c_a;&c_z;&c_u;&c_m;&c_n;&c_y;&c_j;</trd>
@@ -663,6 +670,10 @@
       <trd>dumm</trd>,
       <trd>d&auml;mlich</trd>,
       <trd>verbl&ouml;det</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pl ru; juĝis claude-opus-5">stupid</trd>,
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">silly</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>buta</trd>,
@@ -777,6 +788,10 @@
       <trd>Dummheit</trd>,
       <trd>Narrheit</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">foolishness</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">folly</trd>
+    </trdgrp>
     <trdgrp lng="zh">
       <trd>&#x611A;&#34850; <pr>y&uacute;ch&#x1D4;n</pr></trd>,
       <trd>&#x611A;&#34850;&#30340;&#x884C;&#x4E3A; <pr>y&uacute;ch&#x1D4;ndex&iacute;ngw&eacute;i</pr></trd>,
@@ -863,6 +878,11 @@
       <trd>Narr</trd>,
       <trd>Dummkopf</trd>,
       <trd>Irrer</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl ru zh; juĝis claude-opus-5">fool</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">bonehead <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">dolt <klr>(derogatory)</klr></trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_d;&c_u;&c_r;&c_a;&c_n;&c_mol;</trd>
@@ -978,6 +998,7 @@
     <trd>&c_z;&c_d;&c_a;&c_r;&c_o;&c_v;&c_y; <ind>&c_s;&c_e;&c_n;&c_s;</ind></trd>,
     <trd>&c_k;&c_l;&c_jo;&c_k;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">common sense</trd>
   <trdgrp lng="fr">
     <trd>bon sens</trd>,
     <trd>sens commun</trd>

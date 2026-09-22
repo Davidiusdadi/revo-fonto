@@ -162,6 +162,7 @@
       </ekz>
     </dif>
     <trd lng="de">seiden</trd>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">silken</trd>
   </snc>
   <snc mrk="silk.0a.rilata">
     <dif>
@@ -182,6 +183,10 @@
     </dif>
     <ref tip="vid" cel="voj.silka0o">Silka Vojo</ref>
     <trd lng="de">Seiden-</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">silky</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">silk</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_a;&c_w;&c_k;&c_o;&c_v;&c_y;</trd>,
@@ -235,6 +240,10 @@
       <ref cel="ond.0obrila">ondobrila</ref>,
       <ref cel="saten.0o">satena</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">silken</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">silky</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_a;&c_w;&c_k;&c_a;&c_v;&c_ib;&c_s;&c_t;&c_y;</trd>,

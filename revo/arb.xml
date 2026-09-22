@@ -723,6 +723,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ku; juĝis claude-opus-5">grove</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">copse</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">spinney <klr>(British)</klr></trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#28748;&#26408;&#26519; <pr>gu&agrave;nm&ugrave;l&iacute;ng</pr></trd>,
     <trd>&#19995; <pr>c&oacute;ng</pr></trd>,
@@ -1092,6 +1097,7 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
         1978</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr nl pt; juĝis claude-opus-5">breadfruit</trd>
     <trdgrp lng="zh">
     <trd>&#38754;&#21253;&#26641; <pr>mi&agrave;nb&amacron;osh&ugrave;</pr></trd>,
     <trd>&#40629;&#21253;&#27193; <pr>mi&agrave;nb&amacron;osh&ugrave;</pr></trd>
@@ -1310,6 +1316,7 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
       <trd fnt="Vikt: en; juĝis claude-opus-5">Lichtung</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">Waldlichtung</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">clearing</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_l;&c_ja;&c_n;&c_a;</trd>
   <trd lng="es">claro</trd>
@@ -1407,6 +1414,7 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
       <trd fnt="Vikt: en fr; juĝis claude-opus-5">Entwaldung</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">Abholzung</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">deforestation</trd>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_ja;&c_z;&c_mol;&c_l;&c_je;&c_s;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">desforestaci&oacute;</trd>

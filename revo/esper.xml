@@ -319,6 +319,7 @@
     <trd>nad&ecaron;je</trd>
   </trdgrp>
   <trd lng="de">Hoffnung</trd>
+  <trd lng="en" fnt="Vikt: en cs de el fr ko ku nl pl pt ru; juĝis claude-opus-5">hope</trd>
   <trd lng="es">esperanza</trd>
   <trd lng="fr">espoir</trd>
   <trd lng="he">&tav;&qof;&vav;&vav;&he;</trd>
@@ -393,6 +394,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">hopefully</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_o;&c_zh;&c_n;&c_a;
@@ -656,6 +658,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ko pl; juĝis claude-opus-5">despair</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">desperation</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_o;&c_s;&c_p;&c_a;&c_ch;</trd>,
@@ -716,6 +722,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">despairing</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_o;&c_s;&c_p;&c_a;&c_ch;&c_n;&c_y;</trd>,
@@ -859,6 +866,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">desperate</trd>
   </snc>
   <snc mrk="esper.sen0a.objektive">
     <dif>
@@ -891,6 +899,10 @@
         <lok>1946</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">hopeless</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">unpromising</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_z;&c_n;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;</trd>
   <trd lng="ca">desesperat</trd>

@@ -28,6 +28,10 @@
       <trd>Tonika</trd>,
       <trd>Grundton</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ko ru; juĝis claude-opus-5">tonic</trd>,
+      <trd fnt="Vikt: ko ru; juĝis claude-opus-5">keynote</trd>
+    </trdgrp>
     <trd lng="fr">tonique<klr> (ina subst.)</klr><klr tip="ind">
     (subst.)</klr></trd>
     <trd lng="it">tonica<klr> (sost.)</klr></trd>

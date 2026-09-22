@@ -86,6 +86,10 @@
       </ekz>
     </dif>
     <trd lng="de">nach</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr nl pl ru tr; juĝis claude-opus-5">after</trd>,
+      <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">in</trd>
+    </trdgrp>
     <trd lng="es">despu&eacute;s</trd>
     <trd lng="hu">ut&aacute;n</trd>
     <trd lng="ms">selepas</trd>
@@ -161,6 +165,10 @@
       vidu <ref cel="post.al0">al <tld/>, <tld/> ...-n</ref>.
     </rim>
     <trd lng="de">hinter</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr it nl ru; juĝis claude-opus-5">behind</trd>,
+      <trd kod="ARK" fnt="Vikt: fr; juĝis claude-opus-5">abaft <klr>(dated)</klr></trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>detr&aacute;s</trd>,
       <trd>tras</trd>

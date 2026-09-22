@@ -29,6 +29,11 @@
         &ccirc;iovido</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de el ku pl pt ru; juĝis claude-opus-5">magic</trd>,
+      <trd fnt="Vikt: el ku ru; juĝis claude-opus-5">sorcery</trd>,
+      <trd fnt="Vikt: el ru; juĝis claude-opus-5">witchcraft</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_a;&c_g;&c_ib;&c_ja;</trd>,
@@ -136,6 +141,10 @@
         sinofero</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de pl; juĝis claude-opus-5">magical</trd>,
+      <trd fnt="Vikt: de pl; juĝis claude-opus-5">magic</trd>
+    </trdgrp>
   </snc>
   <snc mrk="magi.0a.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -333,6 +342,12 @@
       <trd>Zauberer</trd>,
       <trd>Magier</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en es pl pt ru tr; juĝis claude-opus-5">magician</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en es fr ja ko pt ru tr; juĝis claude-opus-5">wizard</trd>,
+      <trd fnt="Vikt: pl pt ru tr; juĝis claude-opus-5">sorcerer</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">warlock</trd>
+    </trdgrp>
     <trdgrp lng="fa">
       <trd>&a_j;&a_A;&a_d;&a_w;&f_g;&a_r;</trd>,
       <trd>&a_A;&a_f;&a_s;&a_w;&a_n;&f_g;&a_r;</trd>,
@@ -426,6 +441,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">white magic</trd>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_l;&c_a;&c_ja; <ind>&c_m;&c_a;&c_g;&c_ib;&c_ja;</ind></trd>
   <trd lng="ca">m&agrave;gia blanca</trd>
@@ -463,6 +479,7 @@
         7a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">black magic</trd>
   </snc>
   <trd lng="be">&c_ch;&c_o;&c_r;&c_n;&c_a;&c_ja; <ind>&c_m;&c_a;&c_g;&c_ib;&c_ja;</ind></trd>
   <trd lng="ca">m&agrave;gia negra</trd>

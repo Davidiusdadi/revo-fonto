@@ -113,6 +113,10 @@
       <ref cel="tut.0a">tuta</ref>
     </refgrp>
     <ref tip="vid" cel="net.0a">malneta</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pl; juĝis claude-opus-5">total</trd>,
+      <trd fnt="Vikt: de pl; juĝis claude-opus-5">complete</trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>tuta</ke>, <ke>entuta</ke>, <ke>&#265;ioma</ke>, <ke>plena</ke>, <ke>kompleta</ke>.
@@ -417,6 +421,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr pt; juĝis claude-opus-5">totalitarianism</trd>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>tutismo</ke>, <ke>totalitarismo</ke>.

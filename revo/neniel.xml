@@ -20,6 +20,11 @@
       <lok>&FE; 28</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de; juĝis claude-opus-5">in no way</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">nohow</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">by no means</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd><ofc>*</ofc>&c_n;&c_i;&c_k;&c_a;&c_k;</trd>,
       <trd>&c_n;&c_i;&c_k;&c_o;&c_i;&c_m; &c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_m;</trd>
@@ -43,6 +48,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="ne.0.frazvorta">ne<sncref/></ref>
+    <trd lng="en" fnt="Vikt: de ru; juĝis claude-opus-5">no way</trd>
     <trdgrp lng="ru">
       <trd>&c_n;&c_i;&c_k;&c_a;&c_k; &c_n;&c_je;&c_t;</trd>,
       <trd>&c_o;&c_t;&c_n;&c_ju;&c_d;&c_mol; &c_n;&c_je;&c_t;</trd>

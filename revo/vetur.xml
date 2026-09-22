@@ -1306,6 +1306,10 @@
     <refgrp tip="vid">
       <ref cel="ir.de0i">deiri</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">depart</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">drive away</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_d;&#8217;&c_ja;&c_zh;&c_d;&c_zh;&c_a;&c_c;&c_mol; <klr>(&c_d;&c_a;&c_l;&c_jo;&c_k;&c_a;, &c_p;&c_r;&c_e;&c_ch;)</klr></trd>
   <trd lng="cs">odjet</trd>
@@ -1764,6 +1768,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ja; juĝis claude-opus-5">go back</trd>,
+      <trd fnt="Vikt: ja; juĝis claude-opus-5">return</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="es">
     <trd>volver<klr> (en veh&iacute;culo)</klr></trd>

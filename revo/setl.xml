@@ -79,6 +79,10 @@
       <trd>sich <ind>ansiedeln</ind></trd>,
       <trd>sich <ind>niederlassen</ind></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">settle down</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">settle</trd>
+    </trdgrp>
     <trd lng="pl">osiedla&cacute; si&eogonek;</trd>
     <trdgrp lng="zh">
       <trd>&#33853;&#25142; <pr>lu&ograve;h&ugrave;</pr></trd>,
@@ -163,6 +167,7 @@
        <ref cel="vilagx.0o">vila&gcirc;o</ref>,
        <ref cel="urb.0o">urbo</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">settlement</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_je;&c_l;&c_ib;&c_sh;&c_ch;&c_a;</trd>
   <trd lng="ca">assentament</trd>

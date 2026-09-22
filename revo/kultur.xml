@@ -294,6 +294,7 @@
       </ekz>
     </dif>
     <trd lng="ca">cultural</trd>
+    <trd lng="en" fnt="Vikt: en de el pl; juĝis claude-opus-5">cultural</trd>
     <trd lng="es">cultural</trd>
   <trdgrp lng="id">
     <trd><baz>budaya</baz>berbudaya</trd>,
@@ -512,6 +513,7 @@
       <trdgrp lng="de">
         <trd>Kultur</trd>
       </trdgrp>
+    <trd lng="en" fnt="Vikt: en de el fr ja ko ku pl ru; juĝis claude-opus-5">culture</trd>
     <trdgrp lng="id">
       <trd>adat istiadat</trd>,
       <trd>tradisi</trd>
@@ -634,6 +636,7 @@
       <ref cel="naci.inter0a">internacia</ref>,
       <ref cel="popol.inter0a">interpopola</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">intercultural</trd>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_zh;&c_k;&c_u;&c_l;&c_mol;&c_t;&c_u;&c_r;&c_n;&c_y;</trd>
   <trd lng="ca">intercultural</trd>
@@ -714,6 +717,10 @@
       </ekz>
     </dif>
     <trd lng="de">K&ouml;rperkultur</trd>
+    <trdgrp lng="en">
+      <trd kod="ARK" fnt="Vikt: ru; juĝis claude-opus-5">physical culture <klr>(dated)</klr></trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">physical education</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_f;&c_ib;&c_z;&c_y;&c_ch;&c_n;&c_a;&c_ja;
@@ -825,6 +832,7 @@
       <ref cel="konfor.0ismo.KOMUNE">konformismo</ref>
     </refgrp>
     <trd lng="de">Gegenkultur</trd>
+    <trd lng="en" fnt="Vikt: en de ru; juĝis claude-opus-5">counterculture</trd>
     <trdgrp lng="zh">
     <trd>&#21453;&#20256;&#32479;&#25991;&#21270; <pr>f&#462;nchu&aacute;nt&#466;ngw&eacute;nhu&agrave;</pr></trd>,
     <trd>&#21453;&#20659;&#32113;&#25991;&#21270; <pr>f&#462;nchu&aacute;nt&#466;ngw&eacute;nhu&agrave;</pr></trd>
@@ -970,6 +978,11 @@
       <trd>kulturlos</trd>,
       <trd>unkultiviert</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">uncivilized</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">uncultured</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">cultureless</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>m&udblac;veletlen</trd>,
       <trd>kultur&aacute;latlan</trd>
@@ -1029,6 +1042,7 @@
       </ekz>
     </dif>
     <trd lng="de">Brache</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">fallow</trd>
     <trd lng="fr">friche</trd>
   </snc>
   <trdgrp lng="be">
@@ -1099,6 +1113,7 @@
       </ekz>
     </dif>
     <trd lng="de">Subkultur</trd>
+    <trd lng="en" fnt="Vikt: de ru; juĝis claude-opus-5">subculture</trd>
     <trdgrp lng="zh">
     <trd>&#20122;&#25991;&#21270; <pr>y&agrave;w&eacute;nhu&agrave;</pr></trd>,
     <trd>&#20126;&#25991;&#21270; <pr>y&agrave;w&eacute;nhu&agrave;</pr></trd>,
@@ -1152,6 +1167,11 @@
       </ekz>
     </dif>
     <trd lng="de">Ackerbau</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de zh; juĝis claude-opus-5">agriculture</trd>,
+      <trd fnt="Vikt: de zh; juĝis claude-opus-5">farming</trd>,
+      <trd kod="ARK" fnt="Vikt: de; juĝis claude-opus-5">husbandry <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_je;&c_m;&c_l;&c_ja;&c_r;&c_o;&c_b;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="bo">&t_zha;&t_gigu;&t_nga;&t_tsheg;&t_la;&t_sa;&t_tsheg;</trd>
@@ -1226,6 +1246,10 @@
     <trdgrp lng="de">
       <trd>Bauer</trd>,
       <trd>Feldarbeiter</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">agriculturist</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">farmer</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_je;&c_m;&c_l;&c_ja;&c_r;&c_o;&c_b;</trd>

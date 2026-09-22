@@ -355,6 +355,11 @@
     <trd>abriegeln</trd>,
     <trd>absperren</trd>
   </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">block</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">bar</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">obstruct</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>bloquer</trd>
     </trdgrp>
@@ -528,6 +533,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Notizblock</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">note pad</trd>
   </snc>
   <trd lng="fr">bloc-note</trd>
 <trdgrp lng="id">

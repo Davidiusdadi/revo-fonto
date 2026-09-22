@@ -993,6 +993,7 @@
       <ref cel="ekvili.0igi">ekvilibrigi</ref>,
       <ref cel="kompen1.0i">kompensi</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">counterbalance</trd>
   </snc>
   <trd lng="be">&c_u;&c_r;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="br">kempoueza&ntilde;</trd>
@@ -1299,6 +1300,10 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Erleichterung</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">alleviation</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">relief</trd>
+    </trdgrp>
     <trd lng="fr">soulagement</trd>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_l;&c_ja;&c_g;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -1325,6 +1330,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">lose weight</trd>
   </snc>
   <snc mrk="pez.mal0igxi.FIG">
     <dif>
@@ -1372,6 +1378,7 @@
       </ekz>
     </dif>
     <trd lng="de">Erleichterung</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">weight loss</trd>
     <trd lng="fr">soulagement</trd>
   </snc>
   <snc mrk="pez.mal0igxo.FIG">

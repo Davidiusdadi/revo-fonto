@@ -150,10 +150,15 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pl ru; juĝis claude-opus-5">state</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">state-owned</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y;</trd>
   <trd lng="ca">estatal</trd>
   <trd lng="de">staatlich</trd>
+  <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">national</trd>
   <trd lng="es">estatal</trd>
   <trdgrp lng="fr">
     <trd>&eacute;tatique</trd>,
@@ -213,6 +218,11 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="reg.0ato">regato</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ko pl ru; juĝis claude-opus-5">citizen</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">national</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">subject</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_g;&c_r;&c_a;&c_m;&c_a;&c_d;&c_z;&c_ja;&c_n;&c_ib;&c_n;</trd>,
@@ -675,6 +685,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">state</trd>
   </snc>
   <trd lng="be">&c_sh;&c_t;&c_a;&c_t;</trd>
   <trd lng="ca">estat federat</trd>

@@ -35,6 +35,10 @@
     </dif>
     <ref tip="vid" cel="motor.0o.TEK">motoro<sncref/></ref>
     <trd lng="de">antreiben <klr>(Maschine)</klr></trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">propel</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">drive</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_u;&c_h;&c_a;&c_v;&c_ib;&c_c;&c_mol;</trd>,

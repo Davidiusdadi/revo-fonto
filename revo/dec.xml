@@ -72,6 +72,10 @@
       <trd>sich <ind>geziemen</ind></trd>,
       <trd>sich <ind>geh&ouml;ren</ind></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">befit</trd>,
+      <trd kod="ARK" fnt="Vikt: de; juĝis claude-opus-5">beseem <klr>(dated)</klr></trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>ser decente</trd>,
       <trd>tener decencia</trd>
@@ -568,6 +572,7 @@
       <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_o;&c_j;&c_n;&c_a;</trd>
     </trdgrp>
     <trd lng="de">anst&auml;ndig</trd>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">decently</trd>
     <trd lng="es">decentemente</trd>
       <trdgrp lng="hu">
         <trd>illend&odblac;en</trd>,
@@ -625,6 +630,7 @@
       <trd>&c_p;&c_r;&c_y;&c_d;&c_a;&c_t;&c_n;&c_a;</trd>,
       <trd>&c_z;&c_d;&c_a;&c_t;&c_n;&c_a;</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: fr pl; juĝis claude-opus-5">appropriately</trd>
     <trd lng="hu">megillet&odblac; m&oacute;don</trd>
       <trd lng="nl">zoals het <ind>behoort</ind><klr tip="ind">
   (ontr.)</klr></trd>
@@ -741,6 +747,7 @@
       <ref cel="mor.0o">moro</ref>,
       <ref cel="oportu.0eco">oportuneco</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">decency</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_t;&c_o;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="de">Anstand</trd>

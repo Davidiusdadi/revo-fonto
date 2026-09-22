@@ -116,6 +116,10 @@
           </fnt>;
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pt zh; juĝis claude-opus-5">integrated circuit</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">microchip</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_g;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_m;&c_ib;&c_k;&c_r;&c_a;&c_s;&c_h;&c_je;&c_m;&c_a;</trd>
   <trd lng="de">Integrierter Schaltkreis</trd>

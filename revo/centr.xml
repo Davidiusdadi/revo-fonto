@@ -329,6 +329,7 @@
   <trd>&kappa;&epsilon;&ny;&tau;&rho;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>,
   <trd>&kappa;&epsilon;&ny;&tau;&rho;&omega_ton;&omikron;&sigma_fina;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: de ku pl ru; juĝis claude-opus-5">central</trd>
   <trd lng="fr">central</trd>
   <trd lng="he">&mem;&#1462;&resh;&#1456;&kaf;&#1468;&#1464;&zayin;&yod;</trd>
   <trdgrp lng="hu">
@@ -895,6 +896,10 @@
       <trd>exc&egrave;ntric</trd>,
       <trd>perif&egrave;ric</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">off-center</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">off-centre <klr>(British)</klr></trd>
+    </trdgrp>
     <trd lng="fr">p&eacute;riph&eacute;rique</trd>
     <trdgrp lng="id">
       <trd>perifer</trd>,
@@ -1159,6 +1164,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: es; juĝis claude-opus-5">heliozentrisch</trd>
+    <trd lng="en" fnt="Vikt: es fr; juĝis claude-opus-5">heliocentric</trd>
   </snc>
   <trd lng="be">&c_g;&c_je;&c_l;&c_ib;&c_ja;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">helioc&egrave;ntric</trd>
@@ -1189,6 +1195,10 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: pl ru; juĝis claude-opus-5">Heliozentrismus</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl ru; juĝis claude-opus-5">heliocentricism</trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">heliocentrism</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_g;&c_je;&c_l;&c_ib;&c_ja;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
   <trd lng="ca">heliocentrisme</trd>
@@ -1219,6 +1229,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: fr ru; juĝis claude-opus-5">geozentrisch</trd>
+    <trd lng="en" fnt="Vikt: el fr ru; juĝis claude-opus-5">geocentric</trd>
   </snc>
   <trd lng="be">&c_g;&c_je;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">geoc&egrave;ntric</trd>
@@ -1247,6 +1258,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">geocentrism</trd>
   </snc>
   <trd lng="be">&c_g;&c_je;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
   <trd lng="ca">geocentrisme</trd>

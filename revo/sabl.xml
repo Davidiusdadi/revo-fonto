@@ -443,6 +443,7 @@
           </fnt>.
         </ekz>
       </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">sandbox</trd>
     <trd lng="id">bak pasir</trd>
     </subsnc>
     <trd lng="de">Sandkiste</trd>
@@ -513,6 +514,10 @@
     </trdgrp>
     <trd lng="cs">p&iacute;skovi&scaron;t&ecaron;</trd>
     <trd lng="de">Sandkasten</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">sandbox <klr>(US)</klr></trd>,
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">sandpit</trd>
+    </trdgrp>
     <trd lng="it">sabbionaia</trd>
     <trd lng="pl">piaskownica</trd>
     <trd lng="sk">pieskovisko</trd>

@@ -261,6 +261,10 @@
       <trd>wackeln</trd>,
       <trd>ersch&uuml;ttert werden</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">totter</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">wobble</trd>
+    </trdgrp>
     <trdgrp lng="it">
       <trd>barcolare</trd>,
       <trd>vacillare</trd>,
@@ -317,6 +321,10 @@
     </dif>
     <ref tip="vid" cel="dub.0i">dubi</ref>
     <trd lng="bg">&c_k;&c_o;&c_l;&c_je;&c_b;&c_a;&c_ja; &c_s;&c_je;</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pl; juĝis claude-opus-5">hesitate</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">falter</trd>
+    </trdgrp>
     <trdgrp lng="it">
       <trd>tentennare</trd>,
       <trd>vacillare</trd>,
@@ -482,6 +490,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">unshakable</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_je;&c_p;&c_a;&c_h;&c_ib;&c_s;&c_n;&c_y;</trd>,
@@ -557,6 +566,7 @@
       <ref cel="spit.0ema">spitema</ref>,
       <ref cel="suvere.0a">suverena</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">determined</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_c;&c_mol;&c_v;&c_jo;&c_r;&c_d;&c_y;</trd>,

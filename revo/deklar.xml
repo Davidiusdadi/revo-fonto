@@ -119,6 +119,11 @@
       <ref cel="kon.0igi">konigi</ref>,
       <ref cel="publik.0igi">publikigi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr nl ru; juĝis claude-opus-5">state</trd>,
+      <trd fnt="Vikt: en nl; juĝis claude-opus-5">pronounce</trd>,
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">announce</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_e;&c_k;&c_l;&c_ja;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -145,6 +150,7 @@
      <trd>bekannt machen</trd>,
      <trd>bekannt geben</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en de fr it nl ru; juĝis claude-opus-5">declare</trd>
   <trd lng="es">declarar</trd>
   <trd lng="fr">d&eacute;clarer</trd>
   <trd lng="he">&lamed;&#x5B0;&he;&#x5B7;&kaf;&resh;&#x5B4;&yod;&zayin;</trd>
@@ -450,6 +456,7 @@
       <trd>Liebeserkl&auml;rung</trd>,
       <trd>Liebesgest&auml;ndnis</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">declaration of love</trd>
     <trd lng="es">declaraci&oacute;n de amor</trd>
     <trd lng="fr">d&eacute;claration<klr tip="amb">
       (d'amour)</klr></trd>
@@ -493,6 +500,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr ru; juĝis claude-opus-5">declaration of war</trd>
   </snc>
   <trd lng="be">&c_a;&c_b;'&c_ja;&c_w;&c_l;&c_je;&c_n;&c_n;&c_je; <ind>&c_v;&c_a;&c_j;&c_n;&c_y;</ind></trd>
   <trd lng="cs">vyhl&aacute;&scaron;en&iacute; v&aacute;lky</trd>

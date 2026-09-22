@@ -1270,6 +1270,7 @@
       <trd>Geschehen</trd>,
       <trd>Ereignis</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">occurrence</trd>
     <trdgrp lng="id">
       <trd><baz>jadi</baz>kejadian</trd>,
       <trd>peristiwa</trd>
@@ -1479,6 +1480,11 @@
       </ekz>
     </dif>
     <trd lng="de">Geschehnis</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de it; juĝis claude-opus-5">incident</trd>,
+      <trd fnt="Vikt: de it; juĝis claude-opus-5">occurrence</trd>,
+      <trd fnt="Vikt: it; juĝis claude-opus-5">happening <klr>(colloquial)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_d;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_ja;&c_k;&c_o;&c_je;
   &c_a;&c_d;&c_b;&c_y;&c_l;&c_o;&c_s;&c_ja;)</klr></trd>

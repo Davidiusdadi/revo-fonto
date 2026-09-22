@@ -127,6 +127,11 @@
         <tld/>e modernigitaj fabeloj en <ctl>Trans la fabeloceano</ctl>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">jokingly</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">in jest</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">as a joke</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_r;&c_o;&c_k;&c_a;&c_m;</trd>,
@@ -231,6 +236,11 @@
         3a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr it ja ku pl ru; juĝis claude-opus-5">joke</trd>,
+      <trd kod="ARK" fnt="Vikt: en fr pl; juĝis claude-opus-5">jest <klr>(dated)</klr></trd>,
+      <trd kod="ARK" fnt="Vikt: fr; juĝis claude-opus-5">pleasantry <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_zh;&c_a;&c_r;&c_t;</trd>
   <trd lng="bg">&c_sh;&c_je;&c_g;&c_a;</trd>
@@ -324,6 +334,10 @@
       </ekz>
     </dif>
     <trd lng="de">lustig <klr>(gern schertzend)</klr></trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">jocular</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">playful</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_zh;&c_a;&c_r;&c_t;&c_a;&c_w;&c_l;&c_ib;&c_v;&c_y;</trd>
   <trdgrp lng="ca">
@@ -547,6 +561,7 @@
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">Aprilscherz</trd>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_sh;&c_a;&c_k;&c_r;&c_a;&c_s;&c_a;&c_v;&c_ib;&c_c;&c_k;&c_ib; <ind>&c_zh;&c_a;&c_r;&c_t;</ind></trd>
+  <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">April fool</trd>
   <trd lng="fr">poisson d'avril</trd>
   <trd lng="id">April Mop</trd>
   <trd lng="pl">prima aprilis</trd>

@@ -38,6 +38,11 @@
       <trd fnt="Vikt: en nl ru; juĝis claude-opus-5">Erdbeben</trd>,
       <trd fnt="Vikt: de en; juĝis claude-opus-5">Beben</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de nl ru; juĝis claude-opus-5">earthquake</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">quake</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">temblor <klr>(US)</klr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>tertremo</ke>.

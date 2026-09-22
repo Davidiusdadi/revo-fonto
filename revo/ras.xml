@@ -248,6 +248,10 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="fasxis.0o">fa&scirc;ismo</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de es fr pl pt ru zh; juĝis claude-opus-5">racism</trd>,
+      <trd kod="ARK" fnt="Vikt: de pl; juĝis claude-opus-5">racialism <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_s;&c_ib;&c_z;&c_m;</trd>
   <trd lng="cs">rasismus</trd>
@@ -305,6 +309,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">racist</trd>,
+      <trd kod="ARK" fnt="Vikt: ru; juĝis claude-opus-5">racialist <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_s;&c_ib;&c_s;&c_t;</trd>
   <trd lng="bo">&#xF58;&#xF72;&#xF0B;&#xF62;&#xF72;&#xF42;&#xF66;&#xF0B;&#xF55;&#xFB1;&#xF7C;&#xF42;&#xF66;&#xF0B;&#xF62;&#xF72;&#xF66;&#xF0B;&#xF56;&#xFB1;&#xF7A;&#xF51;&#xF0B;&#xF58;&#xF41;&#xF53;&#xF0B;</trd>
@@ -350,6 +358,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: ru; juĝis claude-opus-5">reinrassig</trd>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">purebred</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_v;&c_a;&c_d;&c_z;&c_k;&c_ib;</trd>,
@@ -405,6 +414,7 @@
         </fnt>?
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">halfbreed</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_e;&c_t;&c_y;&c_s;</trd>,

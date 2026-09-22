@@ -235,6 +235,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de fr ku pl pt; juĝis claude-opus-5">comparison</trd>
   </snc>
   <snc mrk="kompar.0o.frazo">
     <dif>
@@ -492,6 +493,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">incomparable</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">matchless</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">peerless</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="cs">neporovnateln&yacute;</trd>
@@ -595,6 +601,11 @@
       <ref cel="kern.0a">kerna</ref>,
       <ref cel="origin1.0a">originala</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">incomparable</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">matchless</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">peerless</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="cs">neporovnateln&yacute;</trd>

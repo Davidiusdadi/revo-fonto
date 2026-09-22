@@ -400,6 +400,11 @@
     <trd>Flussdiagramm</trd>,
     <trd>Ablaufplan</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: pt; juĝis claude-opus-5">flow diagram</trd>,
+    <trd fnt="Vikt: pt; juĝis claude-opus-5">flowchart</trd>,
+    <trd fnt="Vikt: en; juĝis claude-opus-5">flow chart</trd>
+  </trdgrp>
   <trd lng="fr">diagramme de flux</trd>
   <trdgrp lng="ja">
     <trd>&#x6D41;&#x308C;&#x56F3;  <pr>&#x306A;&#x304C;&#x308C;&#x305A;</pr></trd>,

@@ -358,6 +358,7 @@
     <trd lng="be">&c_p;&c_a;&c_t;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="ca">exig&egrave;ncia</trd>
     <trd lng="de">Forderung</trd>
+    <trd lng="en" fnt="Vikt: en de fr ko pl; juĝis claude-opus-5">demand</trd>
     <trd lng="es">exigencia</trd>
     <trd lng="hu">k&ouml;vetel&eacute;s</trd>
     <trd lng="nl">eis</trd>
@@ -404,6 +405,7 @@
       <trd>disposici&oacute;</trd>
     </trdgrp>
     <trd lng="de">Anforderung</trd>
+    <trd lng="en" fnt="Vikt: de fr pl; juĝis claude-opus-5">requirement</trd>
     <trdgrp lng="es">
       <trd>requisito</trd>,
       <trd>disposici&oacute;n</trd>
@@ -543,6 +545,7 @@
       </ekz>
     </dif>
     <trd lng="de">Nachfrage</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">demand</trd>
     <trd lng="id"><baz>minta</baz>permintaan<klr tip="amb"> (ekonomi)</klr></trd>
     <trd lng="zh">&#x9700;&#x6C42; <pr>x&umacron;qi&uacute;</pr></trd>
   </snc>
@@ -597,6 +600,11 @@
         </fnt>?
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">demanding</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">exacting</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">fussy</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_t;&c_r;&c_a;&c_b;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="bg">&c_v;&c_z;&c_i;&c_s;&c_k;&c_a;&c_t;&c_je;&c_l;&c_je;&c_n;</trd>
@@ -685,6 +693,7 @@
        <ref cel="reklamaci.0i">reklamacii</ref>
     </refgrp>
     <trd lng="de">einfordern</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">demand</trd>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_m;&c_a;&c_g;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="cs">po&zcaron;adovat</trd>

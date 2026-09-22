@@ -201,6 +201,7 @@
       <ref cel="organi2.0o">organizo</ref>,
       <ref cel="strukt.0o.konstruo">strukturo<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">makeup</trd>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;</trd>
   <trdgrp lng="cs">
@@ -425,6 +426,10 @@
       <trd>bilden</trd>,
       <trd>formen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">form</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">make up</trd>
+    </trdgrp>
     <trd lng="nl">uitmaken</trd>
   </snc>
   <snc mrk="konsis.0igi.esence">
@@ -451,6 +456,7 @@
       <trd>bilden</trd>,
       <trd>ausmachen <klr>(bilden)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">constitute</trd>
     <trd lng="nl">vormen</trd>
   </snc>
   <trdgrp lng="be">

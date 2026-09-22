@@ -437,6 +437,10 @@
         <ref cel="laux.0a">la&ubreve;a</ref>,
         <ref cel="tauxg.0a">ta&ubreve;ga</ref>
       </refgrp>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en; juĝis claude-opus-5">consistent</trd>,
+        <trd fnt="Vikt: en; juĝis claude-opus-5">congruous</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>en <ind>accord</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
         <trd>en <ind>ad&eacute;quation</ind><klr tip="ind"> (loc.
@@ -487,6 +491,7 @@
         </ekz>
       </dif>
       <trd lng="de">einvernehmlich</trd>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">harmonious</trd>
       <trdgrp lng="fr">
         <trd>en <ind>accord</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
         <trd>en <ind>paix</ind><klr tip="ind"> (loc. adj.)</klr></trd>,
@@ -919,6 +924,7 @@
         <lok>2003/07, p. 26</lok></fnt>?
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">reconcilable</trd>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -1259,6 +1265,11 @@
     </dif>
     <ref tip="ant" cel="akord.0o.samopinieco"><tld/>o<sncref/></ref>
     <ref tip="vid" cel="akord.mis0o">mis<tld/>o</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pl; juĝis claude-opus-5">disagreement</trd>,
+      <trd fnt="Vikt: en ku; juĝis claude-opus-5">conflict</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">discord</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>d&eacute;saccord</trd>,
       <trd>conflit</trd>,
@@ -1453,6 +1464,11 @@
       </ekz>
     </dif>
     <ref tip="ant" cel="akord.0a"><tld/>a</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">inconsistent</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">incongruous</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">conflicting</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#19981;&#30456;&#31216; <pr>b&ugrave;xi&amacron;ngch&egrave;ng</pr></trd>,
     <trd>&#19981;&#30456;&#31281; <pr>b&ugrave;xi&amacron;ngch&egrave;ng</pr></trd>,
@@ -1527,6 +1543,7 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 24a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">irreconcilable</trd>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_s;&c_u;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -1593,6 +1610,10 @@
       &Scirc;ajnas, ke tiu &ccirc;i vorto rolas &ccirc;efe kiel evitvorto por
       <ref cel="akord.mal0o">mal<tld/>o</ref>.
     </rim>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">disagreement</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">discord</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#19981;&#21327;&#35843; <pr>b&ugrave;xi&eacute;ti&aacute;o</pr></trd>,
     <trd>&#19981;&#21332;&#35519; <pr>b&ugrave;xi&eacute;ti&aacute;o</pr></trd>

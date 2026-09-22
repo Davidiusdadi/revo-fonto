@@ -301,6 +301,10 @@
       <trd>Musterung</trd>,
       <trd>Leistungskontrolle</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de ja pl pt ru; juĝis claude-opus-5">test</trd>,
+      <trd fnt="Vikt: de ja pl pt ru; juĝis claude-opus-5">exam <klr>(colloquial)</klr></trd>
+    </trdgrp>
     <trd lng="hu">vizsga</trd>
     <trdgrp lng="id">
       <trd>ujian</trd>,
@@ -328,6 +332,7 @@
     <trd>zkou&scaron;ka</trd>,
     <trd>&scaron;et&rcaron;en&iacute;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en ja ku pt ru; juĝis claude-opus-5">examination</trd>
   <trd lng="es">ex&aacute;men</trd>
   <trd lng="fr">examen</trd>
   <trd lng="he">&bet;&#x5BC;&#x5B0;&dalet;&#x5B4;&yod;&qof;&#x5B8;&he;</trd>

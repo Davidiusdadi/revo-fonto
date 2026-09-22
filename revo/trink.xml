@@ -261,6 +261,11 @@
         <fnt><bib>NT</bib>, <lok>&Joh; 6:55</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de es fr ja ku pl pt ru; juĝis claude-opus-5">drink</trd>,
+      <trd fnt="Vikt: en de fr ja pl ru; juĝis claude-opus-5">beverage</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">potation</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_ib;&c_t;&c_v;&c_o;</trd>,
@@ -328,6 +333,11 @@
       <trd>&c_sh;&c_y;&c_n;&c_o;&c_k;</trd>
     </trdgrp>
     <trd lng="de">Sch&auml;nke</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en es fr pl; juĝis claude-opus-5">bar</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">pub <klr>(British)</klr></trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">public bar</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x5C0F;&#37202;&#39208; <pr>xi&#x1CE;oji&#x1D4;gu&#x1CE;n</pr></trd>,
     <trd>&#x5C0F;&#37202;&#39302; <pr>xi&#x1CE;oji&#x1D4;gu&#x1CE;n</pr></trd>
@@ -404,6 +414,7 @@
         <trd>bevedor<klr tip="amb"> (per al bestiar)</klr></trd>
       </trdgrp>
       <trd lng="de">Tr&auml;nke</trd>
+      <trd lng="en" fnt="Vikt: fr tr; juĝis claude-opus-5">trough</trd>
       <trd lng="es">abrevadero</trd>
       <trdgrp lng="fr">
         <trd>abreuvoir</trd>

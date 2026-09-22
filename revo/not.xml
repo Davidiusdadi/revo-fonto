@@ -863,6 +863,11 @@
       <trd fnt="Vikt: cs en fr pl zh; juĝis claude-opus-5">Banknote</trd>,
       <trd fnt="Vikt: cs en fr pl zh; juĝis claude-opus-5">Geldschein</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en cs fr pl zh; juĝis claude-opus-5">banknote</trd>,
+      <trd fnt="Vikt: cs fr pl; juĝis claude-opus-5">bill <klr>(US)</klr></trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">bank note</trd>
+    </trdgrp>
   </snc>
 <!-- ne traduku EVI -->
 </drv>

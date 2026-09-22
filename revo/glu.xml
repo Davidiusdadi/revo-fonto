@@ -176,6 +176,11 @@
     </dif>
     <ref tip="vid" cel="adher.0i">adheri</ref>
   <trd lng="be">&c_k;&c_l;&c_je;&c_j;</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: en fr pl ru; juĝis claude-opus-5">glue</trd>,
+    <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">adhesive</trd>,
+    <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">paste</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>lem</trd>,
     <trd><baz>rekat</baz>perekat</trd>
@@ -502,6 +507,11 @@
       <ref cel="muk.0o">muko</ref>,
       <ref cel="rezin.0o">rezino</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">adhesive</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">glue</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">gum</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_l;&c_je;&c_j;</trd>
   <trdgrp lng="de">
@@ -589,6 +599,11 @@
     <trd>ankleben</trd>,
     <trd>anheften</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: en el fr zh; juĝis claude-opus-5">glue</trd>,
+    <trd fnt="Vikt: en el fr zh; juĝis claude-opus-5">stick</trd>,
+    <trd fnt="Vikt: en fr zh; juĝis claude-opus-5">paste</trd>
+  </trdgrp>
   <trd lng="fr">coller<klr tip="ind"> (tr. dir.)</klr></trd>
   <trd lng="hu">r&aacute;ragaszt</trd>
   <trdgrp lng="id">
@@ -661,6 +676,7 @@
       <ref cel="firm">alfirmi&gcirc;i</ref>,
       <ref cel="krocx.al0igxi">alkro&ccirc;i&gcirc;i</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">stick</trd>
   </snc>
   <snc mrk="glu.al0igxi.FIG">
     <uzo tip="stl">FIG</uzo>

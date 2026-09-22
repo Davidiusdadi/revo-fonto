@@ -308,6 +308,7 @@
     <trd>&c_n;&c_a;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_a;&c_b;&c_s;&c_e;&c_r;&c_v;&c_a;&c_c;&c_y;&c_ja;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en fr ku; juĝis claude-opus-5">observation</trd>
   <trdgrp lng="id">
     <trd><baz>amat (2)</baz>pengamatan</trd>,
     <trd><baz>hati</baz>pemerhatian</trd>,
@@ -394,6 +395,10 @@
       </trdgrp>
       <trd lng="ru">&c_n;&c_a;&c_b;&c_l;&c_ju;&c_d;&c_je;&c_n;&c_i;&c_je;</trd>
     </dif>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: fr ku pt; juĝis claude-opus-5">observation</trd>,
+    <trd fnt="Vikt: fr ku; juĝis claude-opus-5">surveillance</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd><baz>amat (2)</baz>pengamatan</trd>,
     <trd><baz>hati</baz>pemerhatian</trd>,
@@ -426,6 +431,7 @@
       <trd>&c_p;&c_r;&c_y;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     </trdgrp>
     <trd lng="de">Beachtung</trd>
+    <trd lng="en" fnt="Vikt: fr ku; juĝis claude-opus-5">observance</trd>
     <trd lng="es">observaci&oacute;n</trd>
     <trd lng="fr">observance</trd>
     <trd lng="hu">betart&aacute;s</trd>
@@ -632,6 +638,7 @@
         </ekz>
       </dif>
       <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Observatorium</trd>
+      <trd lng="en" fnt="Vikt: fr ja pl; juĝis claude-opus-5">observatory</trd>
       <trd lng="id">observatorium</trd>
       <trd lng="pl">obserwatorium</trd>
     </subsnc>
@@ -782,6 +789,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">perceptiveness</trd>
     <trd lng="fr">sens de l'observation</trd>
   </snc>
   <trdgrp lng="be">
@@ -842,6 +850,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="en" fnt="Vikt: fr pl ru; juĝis claude-opus-5">observer</trd>
   <trdgrp lng="id">
     <trd>observator</trd>,
     <trd>observer</trd>,
@@ -994,6 +1003,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">pry</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">snoop <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">spy</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_a;&c_ch;&c_y;&c_c;&c_mol;
@@ -1098,6 +1112,11 @@
       <ref cel="respek.mal0i">malrespekti</ref>,
       <ref cel="ofend.0i.ion">ofendi<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">violate</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">transgress</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">infringe</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_r;&c_u;&c_sh;&c_a;&c_c;&c_mol;</trd>,

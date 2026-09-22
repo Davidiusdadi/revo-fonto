@@ -1472,6 +1472,10 @@
       <trd>Vorderseite</trd>,
       <trd>Fassade</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ku pl; juĝis claude-opus-5">front</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">fore</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>lo <ind>frontal</ind></trd>,
       <trd>la <ind>parte</ind> delantera</trd>
@@ -2421,6 +2425,11 @@
     <refgrp tip="sin">
       <ref cel="post.0a.loke">posta<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">back</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">hind</trd>,
+      <trd kod="ARK" fnt="Vikt: en; juĝis claude-opus-5">hinder <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_d;&c_n;&c_ib;</trd>,
@@ -2488,6 +2497,7 @@
     <refgrp tip="sin">
       <ref cel="post.0e.loke">poste<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">behind</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_z;&c_a;&c_d;&c_u;</trd>,
@@ -2563,6 +2573,11 @@
     <refgrp tip="sin">
       <ref cel="post.0en">posten</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd kod="ARK" fnt="Vikt: en; juĝis claude-opus-5">aback <klr>(dated)</klr></trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">backward</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">back</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_z;&c_a;&c_d;</trd>,
@@ -2673,6 +2688,10 @@
       <ref cel="post.0o.loke">posto<sncref/></ref>,
       <ref cel="post.0ajxo.KOMUNE">posta&jcirc;o<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ku; juĝis claude-opus-5">back</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">rear</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_d;&c_n;&c_ja;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</trd>,
@@ -2792,6 +2811,7 @@
       <ref cel="precip.0e">precipe</ref>,
       <ref cel="prioritat.0e">prioritate</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en pl; juĝis claude-opus-5">above all</trd>
     <trdgrp lng="es">
       <trd>ante todo</trd>,
       <trd>lo m&aacute;s <ind>importante</ind></trd>,
@@ -2878,6 +2898,7 @@
       <ref cel="antaux.0ke.KOMUNE">anta&ubreve; ke</ref>
     </refgrp>
     <ref tip="ant" cel="post.0kiam">post ol</ref>
+    <trd lng="en" fnt="Vikt: en pl; juĝis claude-opus-5">before</trd>
     <trdgrp lng="es">
       <trd>antes de que</trd>,
       <trd>antes de</trd>,
@@ -3009,6 +3030,7 @@
           </refgrp>
         </ekz>
       </dif>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">pre-</trd>
     </subsnc>
     <subsnc>
       <dif>

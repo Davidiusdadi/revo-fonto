@@ -48,6 +48,7 @@
       <ref cel="bandag.0i">banda&gcirc;i</ref>,
       <ref cel="vind.0i.MED">vindi<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">dress</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_je;&c_r;&c_a;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -99,6 +100,11 @@
       <ref cel="plastr.0o">plastro</ref>
     </refgrp>
     <trd lng="de">Wundverband</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">band-aid <klr>(US)</klr></trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">bandage</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">sticking plaster <klr>(British)</klr></trd>
+    </trdgrp>
     <trd lng="fa">&f_p;&a_A;&a_n;&a_s;&a_m;&a_A;&a_n;</trd>
     <trd lng="fr">pansement</trd>
     <trd lng="pl">opatrunek</trd>

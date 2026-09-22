@@ -646,6 +646,10 @@
       <trd>Operationsraum</trd>,
       <trd>OP <klr>(Operationssaal)</klr></trd>
     </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: ru; juĝis claude-opus-5">operating room</trd>,
+    <trd fnt="Vikt: ru; juĝis claude-opus-5">operating theatre</trd>
+  </trdgrp>
   <trdgrp lng="it">
     <trd><ind>sala</ind> operatoria</trd>,
     <trd><ind>camera</ind> operatoria</trd>

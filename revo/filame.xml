@@ -98,6 +98,10 @@
         <trd>Faser</trd>,
         <trd/>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: de; juĝis claude-opus-5">fiber <klr>(US)</klr></trd>,
+        <trd fnt="Vikt: de; juĝis claude-opus-5">fibre</trd>
+      </trdgrp>
       <trd lng="hu">rost</trd>
       <trd lng="ru">&c_v;&c_o;&c_l;&c_o;&c_k;&c_n;&c_o;</trd>
     </subsnc>
@@ -167,6 +171,7 @@
   <trd lng="ca">filament</trd>
   <trd lng="cs">nitka <klr>(ty&ccaron;inky)</klr></trd>
   <trd lng="de">Filament</trd>
+  <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">filament</trd>
   <trd lng="es">filamento</trd>
   <trdgrp lng="fr">
     <trd>filament</trd>,

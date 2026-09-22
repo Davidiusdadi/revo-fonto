@@ -229,6 +229,7 @@
        <ref cel="babil.0ema">babilema</ref>,
        <ref cel="diskre.mal0a">maldiskreta</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">gossipy</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_ja;&c_z;&c_y;&c_ch;&c_l;&c_ib;&c_v;&c_y;</trd>,
@@ -335,6 +336,11 @@
       <ref cel="konver2.0o">konversacio</ref>,
       <ref cel="mangx.te0o">teman&gcirc;o</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">coffee klatch <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">coffee klatsch</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">kaffeeklatsch</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_m;&c_o;&c_v;&c_a; &c_z;&c_a; &c_k;&c_a;&c_v;&c_a;&c_ju;</trd>
   <trd lng="ca">tert&uacute;lia</trd>

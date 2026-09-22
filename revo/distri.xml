@@ -228,6 +228,11 @@
     <trd fnt="Vikt: fr; juĝis claude-opus-5">Austeilen</trd>,
     <trd fnt="Vikt: fr; juĝis claude-opus-5">Austeilung</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: de fr ru; juĝis claude-opus-5">distribution</trd>,
+    <trd fnt="Vikt: ru; juĝis claude-opus-5">allocation</trd>,
+    <trd fnt="Vikt: ru; juĝis claude-opus-5">apportionment</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>distribusi</trd>,
     <trd><baz>salur</baz>penyaluran</trd>,

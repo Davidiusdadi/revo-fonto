@@ -1150,6 +1150,11 @@
       <trd fnt="Vikt: pl ru; juĝis claude-opus-5">vorig</trd>,
       <trd fnt="Vikt: ru; juĝis claude-opus-5">verflossen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">last</trd>,
+      <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">past</trd>,
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">bygone</trd>
+    </trdgrp>
     <trd lng="fr">pass&eacute;<klr> (adj.)</klr></trd>
     <trd lng="zh">&#26132; <pr>x&imacron;</pr></trd>
 </snc>
@@ -1346,6 +1351,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en pl; juĝis claude-opus-5">Vergangenheit</trd>
+    <trd lng="en" fnt="Vikt: en pl; juĝis claude-opus-5">past</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_ib;&c_n;&c_u;&c_l;&c_a;&c_je; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,

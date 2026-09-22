@@ -33,6 +33,11 @@
           <lok><url ref="&WCW;/File:Sander_lucioperca_Hungary.jpg">&WCW;/File:Sander_lucioperca_Hungary.jpg</url></lok>
         </fnt>
     </bld>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr nl; juĝis claude-opus-5">zander</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">pike-perch</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">pikeperch</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_d;&c_a;&c_k;</trd>
   <trd lng="bg">&c_b;&c_ja;&c_l;&c_a; &c_r;&c_i;&c_b;&c_a;</trd>

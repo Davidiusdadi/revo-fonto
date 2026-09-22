@@ -332,6 +332,11 @@
       <ref cel="lukr.0a">lukra</ref>,
       <ref cel="rendiment.0a">rendimenta</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">advantageous</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">lucrative</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">profitable</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_b;&c_y;&c_t;&c_k;&c_o;&c_v;&c_y;</trd>,
@@ -512,6 +517,10 @@
       <trd>Gewinn</trd>,
       <trd>Profit</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ja ku pl pt ru; juĝis claude-opus-5">profit</trd>,
+      <trd fnt="Vikt: fr ku pl pt; juĝis claude-opus-5">gain</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>nyeres&eacute;g</trd>,
       <trd>profit</trd>
@@ -581,6 +590,7 @@
       <ref cel="oportu.0o">oportuno</ref>
     </refgrp>
     <trd lng="de">Nutzen</trd>
+    <trd lng="en" fnt="Vikt: en fr ja ku pl pt ru; juĝis claude-opus-5">benefit</trd>
     <trdgrp lng="hu">
       <trd>haszon</trd>,
       <trd>nyeres&eacute;g</trd>
@@ -920,6 +930,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: ko pt; juĝis claude-opus-5">harm</trd>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_t;&c_a;</trd>
   <trdgrp lng="cs">
@@ -929,6 +940,7 @@
     <trd>&uacute;jma</trd>
   </trdgrp>
   <trd lng="de">Verlust</trd>
+  <trd lng="en" fnt="Vikt: fr ko pl pt ru; juĝis claude-opus-5">loss</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;pens</trd>,
     <trd>perte</trd>
@@ -998,6 +1010,7 @@
       <ref cel="ego.0ista">malegoista</ref>,
       <ref cel="don.sin0a">sindona</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">selfless</trd>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_s;&c_k;&c_a;&c_r;&c_y;&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>
   <trd lng="cs">neziskov&yacute;</trd>

@@ -338,6 +338,7 @@
     <trd>zasl&iacute;ben&iacute;</trd>
   </trdgrp>
   <trd lng="de">Versprechen</trd>
+  <trd lng="en" fnt="Vikt: en cs de el fr ko ku pl ru zh; juĝis claude-opus-5">promise</trd>
   <trd lng="es">promesa</trd>
   <trdgrp lng="fa">
      <trd>&a_q;&a_w;&a_l;</trd>,
@@ -627,6 +628,10 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="roz.0kolora.FIG">rozkolora<sncref/></ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">auspicious</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">promising</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_m;&c_a;&c_t;&c_a;&c_b;&c_ja;&c_c;&c_a;&c_ju;&c_ch;&c_y;</trd>,

@@ -231,6 +231,10 @@
       <trd>ins Einzelne gehend</trd>,
       <trd>eingehend</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ja pl pt ru; juĝis claude-opus-5">detailed</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">in-depth</trd>
+    </trdgrp>
     <trd lng="es">detallado</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;taill&eacute;</trd>,
@@ -372,6 +376,10 @@
       <trd>ausf&uuml;hrlich</trd>,
       <trd>detailliert</trd>,
       <trd>eingehend</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">in detail</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">at length</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>en <ind>d&eacute;tail</ind></trd>,
@@ -847,6 +855,7 @@
       <trd fnt="Vikt: pl; juĝis claude-opus-5">Detail</trd>,
       <trd fnt="Vikt: pl; juĝis claude-opus-5">Einzelheit</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">detail</trd>
     <trdgrp lng="pl">
       <trd>detal</trd>,
       <trd>drobiazg</trd>,
@@ -946,6 +955,7 @@
       <trd>grob</trd>,
       <trd>in groben Z&uuml;gen</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">rough</trd>
     <trdgrp lng="hu">
       <trd>&aacute;ltal&aacute;nos</trd>,
       <trd>v&aacute;zlatos</trd>

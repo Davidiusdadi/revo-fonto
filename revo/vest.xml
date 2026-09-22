@@ -556,6 +556,7 @@
     <trd>Kleidung</trd>,
     <trd>Outfit</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: pt; juĝis claude-opus-5">clothing</trd>
   </snc>
 </drv>
 
@@ -740,6 +741,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">clothes</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">outfit</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="de">
     <trd>Kleidung <klr>(Anzug)</klr></trd>,
@@ -871,6 +876,7 @@
       </ekz>
     </dif>
     <trd lng="de">umziehen <klr>(Kleidung)</klr></trd>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">disguise</trd>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_a;&c_p;&c_r;&c_a;&c_n;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">transvestir</trd>

@@ -34,6 +34,7 @@
       <ref cel="sxraux.0o">&scirc;ra&ubreve;bo</ref>,
       <ref cel="veld.0o">veldo</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en fr pl; juĝis claude-opus-5">joint</trd>
   </snc>
   <snc mrk="junt.0o.kunigo">
     <uzo tip="fak">TEK</uzo>
@@ -61,6 +62,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">join</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">jointing</trd>
+    </trdgrp>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>kunig(a&jcirc;)o</ke>, <ke>interfiks(a&jcirc;)o</ke>.

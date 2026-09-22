@@ -163,6 +163,10 @@
     <refgrp tip="vid">
       <ref cel="pudor.0o">pudoro</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ja pl ru; juĝis claude-opus-5">chastity</trd>,
+      <trd fnt="Vikt: ja; juĝis claude-opus-5">chasteness</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_c;&c_n;&c_o;&c_t;&c_a;</trd>,
@@ -231,6 +235,7 @@
        <lok>&ccirc;apitro IV, 1930</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">unchaste</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_ja;&c_c;&c_n;&c_o;&c_t;&c_n;&c_y;</trd>,
@@ -386,6 +391,7 @@
         <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 9a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">debauchery</trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_s;&c_p;&c_u;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trdgrp lng="de">
@@ -463,6 +469,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en el fr ja ku zh; juĝis claude-opus-5">brothel</trd>,
+      <trd kod="VULG" fnt="Vikt: el fr zh; juĝis claude-opus-5">whorehouse <klr>(vulgar)</klr></trd>,
+      <trd kod="HIS" fnt="Vikt: el fr; juĝis claude-opus-5">bawdy-house <klr>(historical)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_r;&c_d;&c_e;&c_l;&c_mol;</trd>
   <trdgrp lng="de">
@@ -714,6 +725,7 @@
        <ref cel="cxies.0ulino">&ccirc;iesulino</ref>,
        <ref cel="strat.0ulino">stratulino</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">streetwalker <klr>(derogatory)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_l;&c_u;&c_d;&c_n;&c_ib;&c_c;&c_a;</trd>,

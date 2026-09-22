@@ -336,6 +336,7 @@
         </fnt>.
       </ekz>
    </dif>
+    <trd lng="en" fnt="Vikt: fr pl; juĝis claude-opus-5">press</trd>
   </snc>
   <trd lng="af">pers</trd>
   <trd lng="am">&#4845;&#4907;&#4753;</trd>
@@ -473,6 +474,11 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 5a</lok></fnt>.
      </ekz>
    </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr nl pt ru tr zh; juĝis claude-opus-5">journalist</trd>,
+      <trd fnt="Vikt: fr nl zh; juĝis claude-opus-5">reporter</trd>,
+      <trd fnt="Vikt: tr; juĝis claude-opus-5">newspaperman</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_zh;&c_u;&c_r;&c_n;&c_a;&c_l;&c_ib;&c_s;&c_t;</trd>
   <trd lng="ca">periodista</trd>

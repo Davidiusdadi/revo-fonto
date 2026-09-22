@@ -55,6 +55,11 @@
     <trd>zb&ecaron;sil&yacute;</trd>
   </trdgrp>
   <trd lng="de">gewaltt&auml;tig</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">violent</trd>,
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">brutal</trd>,
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">savage</trd>
+  </trdgrp>
   <trd lng="es">violento, -a</trd>
   <trd lng="fr">violent</trd>
   <trdgrp lng="pl">
@@ -155,6 +160,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: es fr nl pl pt ru; juĝis claude-opus-5">violence</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_a;&c_l;&c_je;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>,

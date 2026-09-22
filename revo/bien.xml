@@ -260,6 +260,10 @@
           <fnt><bib>Fab4</bib>, <lok>Anneto</lok></fnt>.
         </ekz>
       </dif>
+        <trdgrp lng="en">
+          <trd fnt="Vikt: de; juĝis claude-opus-5">landowner</trd>,
+          <trd kod="HIS" fnt="Vikt: de; juĝis claude-opus-5">squire <klr>(historical)</klr></trd>
+        </trdgrp>
       </snc>
   <trdgrp lng="be">
       <trd>&c_a;&c_b;&c_sh;&c_a;&c_r;&c_n;&c_ib;&c_k;</trd>,
@@ -303,6 +307,10 @@
         </ekz>
       </dif>
       <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Gutsherr</trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: de pl; juĝis claude-opus-5">landowner</trd>,
+        <trd kod="HIS" fnt="Vikt: de; juĝis claude-opus-5">squire <klr>(historical)</klr></trd>
+      </trdgrp>
     </snc>
     <rim>
       En iuj tekstoj diferenco inter &leftquot;<tld/>mastro&rightquot;

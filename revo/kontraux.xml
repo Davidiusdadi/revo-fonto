@@ -451,6 +451,10 @@
       </dif>
       <trd lng="ca">contra</trd>
       <trd lng="de">gegen</trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en de fr ku pl ru; juĝis claude-opus-5">against</trd>,
+        <trd fnt="Vikt: en de fr pl ru; juĝis claude-opus-5">versus</trd>
+      </trdgrp>
       <trd lng="fr">contre<klr> (d&eacute;favorablement &agrave;)</klr></trd>
       <trd lng="hu">ellen</trd>
       <trd lng="nl">tegen</trd>
@@ -862,6 +866,7 @@
       </trdgrp>
       <trd lng="ca">davant</trd>
       <trd lng="de">gegen&uuml;ber</trd>
+      <trd lng="en" fnt="Vikt: de pl ru; juĝis claude-opus-5">opposite</trd>
       <trdgrp lng="es">
         <trd>contrariamente</trd>,
         <trd>frente a frente</trd>
@@ -916,6 +921,10 @@
       </trdgrp>
       <trd lng="ca">al <ind>contrari</ind></trd>
       <trd lng="de">dagegen</trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en fr; juĝis claude-opus-5">on the contrary</trd>,
+        <trd fnt="Vikt: en; juĝis claude-opus-5">contrarily</trd>
+      </trdgrp>
       <trdgrp lng="es">
         <trd>en <ind>direcci&oacute;n</ind> contraria</trd>,
         <trd>al <ind>contrario</ind></trd>,
@@ -1250,6 +1259,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">hindrance</trd>
     </snc>
     <trdgrp lng="be">
       <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -1353,6 +1363,7 @@
         <ref cel="mal.0eco">maleco</ref>,
         <ref cel="opozic.0o">opozicio</ref>
       </refgrp>
+      <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">opposite</trd>
     </snc>
     <trdgrp lng="be">
       <trd>&c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -1469,6 +1480,11 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en de fr ku pl ru; juĝis claude-opus-5">opponent</trd>,
+        <trd fnt="Vikt: de fr ku pl ru; juĝis claude-opus-5">adversary</trd>,
+        <trd fnt="Vikt: en fr ku; juĝis claude-opus-5">antagonist</trd>
+      </trdgrp>
     </snc>
     <trdgrp lng="be">
       <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_w;&c_n;&c_ib;&c_k;</trd>,
@@ -1706,6 +1722,7 @@
   <trd>Gegen-</trd>,
   <trd>Anti-</trd>
 </trdgrp>
+<trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">anti-</trd>
 <trdgrp lng="id">
   <trd>kontra-</trd>,
   <trd>anti-</trd>

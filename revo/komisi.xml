@@ -222,6 +222,11 @@
           </fnt>.
         </ekz>
       </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">assignment</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">mission</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">task</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>percaya</baz>kepercayaan</trd>,
       <trd>amanat</trd>,
@@ -242,6 +247,10 @@
     <trdgrp lng="de">
       <trd>Auftrag</trd>,
       <trd>Bestellung</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr pl pt; juĝis claude-opus-5">commission</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">errand</trd>
     </trdgrp>
     <trdgrp lng="es">
       <trd>encargo</trd>
@@ -354,6 +363,10 @@
     <refgrp tip="vid">
       <ref cel="nom.0ede">nome de</ref>.
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">in the name of</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">on behalf of</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_a; <ind>&c_d;&c_a;&c_r;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="de">im <ind>Auftrag von</ind></trd>
@@ -507,6 +520,7 @@
       konto de alia persono, kaj por tio ricevas de li <tld/>pagon.
     </dif>
     <ref tip="sin" cel="makler.0isto">makleristo</ref>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">mandatary</trd>
     <trd lng="es">comisionista<klr tip="ind"> (comercial)</klr></trd>
     <trd lng="fr">commissionnaire<klr tip="ind"> (commerce)</klr></trd>
     <trdgrp lng="id">

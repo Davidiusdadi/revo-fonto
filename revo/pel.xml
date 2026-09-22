@@ -556,6 +556,7 @@
         <fnt><bib>NT</bib>, <lok>&Efe; 4:14</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">buffet</trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_g;&c_a;&c_n;&c_ja;&c_c;&c_mol; <klr>(&c_u; &c_r;&c_o;&c_z;&c_n;&c_y;&c_ja; &c_b;&c_a;&c_k;&c_ib;)</klr></trd>
   <trd lng="de">umher <ind>treiben</ind></trd>
@@ -610,6 +611,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de ku; juĝis claude-opus-5">disperse</trd>,
+      <trd fnt="Vikt: fr ku; juĝis claude-opus-5">dissipate</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">dispel</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_a;&c_g;&c_n;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">rozehnat</trd>
@@ -790,6 +796,11 @@
       <ref cel="ekzil.0i">ekzili</ref>,
       <ref cel="ostrac.0i">ostracismi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">dislodge</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">drive out</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">expel</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_g;&c_n;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -935,6 +946,11 @@
         la faktoj for<tld/>is la belan iluzion.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de pl; juĝis claude-opus-5">banish</trd>,
+      <trd fnt="Vikt: en de pl; juĝis claude-opus-5">expel</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">cast out</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_n;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -1020,6 +1036,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en el fr; juĝis claude-opus-5">so-so <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">after a fashion</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_b;&c_y; &c_ja;&c_k;</trd>,

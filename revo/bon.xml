@@ -753,6 +753,7 @@
     <trd>Erfolg</trd>,
     <trd>Nutzen</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: cs fr ja nl pl ru; juĝis claude-opus-5">good</trd>
   <trdgrp lng="es">
     <trd>buena acci&oacute;n</trd>,
     <trd>bien<klr tip="ind"> (opuesto a mal)</klr></trd>
@@ -1040,6 +1041,10 @@
     <trdgrp lng="de">
       <trd>Gutmensch</trd>,
       <trd>schlichtes <ind>Gem&uuml;t</ind></trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">good soul</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">good-natured person</trd>
     </trdgrp>
     <trd lng="es">hombre bueno</trd>
     <trd lng="fr">brave homme</trd>
@@ -1568,6 +1573,11 @@
       <trd fnt="Vikt: en; juĝis claude-opus-5">erb&auml;rmlich</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">furchtbar</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">abysmal</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">awful</trd>,
+      <trd kod="VULG" fnt="Vikt: de; juĝis claude-opus-5">crappy <klr>(vulgar)</klr></trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_p;&c_r;&c_je;&c_s;&c_k;&c_v;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>,
       <trd>&c_o;&c_ch;&c_je;&c_n;&c_mol; &c_p;&c_l;&c_o;&c_h;&c_o;&c_j;</trd>
@@ -1645,6 +1655,10 @@
       <ref cel="fusx.0i">fu&scirc;i</ref>,
       <ref cel="korupt.0i">korupti</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">spoil</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">worsen</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -2024,6 +2038,11 @@
     </dif>
     <ref tip="sin" cel="korekt.0i">korekti</ref>
     <ref tip="vid" cel="san.0igi">sanigi</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">fix <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">repair</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">mend</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x847A; <pr>q&igrave;</pr></trd>,
     <trd>&#34917;&#x6B63; <pr>b&#x1D4;zh&egrave;ng</pr></trd>
@@ -2120,6 +2139,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">common good</trd>
     <trd lng="zh">&#x516C;&#20849;&#x798F;&#21033; <pr>g&omacron;ngg&ograve;ngf&uacute;l&igrave;</pr></trd>
 </snc>
   <trd lng="be">&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_je; <ind>&c_d;&c_a;&c_b;&c_r;&c_o;</ind></trd>
@@ -2146,6 +2166,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">malevolent</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">malicious</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_l;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_v;&c_y;</trd>,

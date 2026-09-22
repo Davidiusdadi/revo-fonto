@@ -228,6 +228,7 @@
     </dif>
     <ref tip="sin" cel="cxerp.el0ita.FIZL">el&ccirc;erpita<sncref/></ref>
     <ref tip="vid" cel="asteni.0a">astenia</ref>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">exhausted</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_je;&c_l;&c_mol;&c_m;&c_ib; <ind>&c_s;&c_t;&c_o;&c_m;&c_l;&c_je;&c_n;&c_y;</ind></trd>,
@@ -292,6 +293,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pl; juĝis claude-opus-5">tiring</trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">tiresome</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">exhausting</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_t;&c_a;&c_m;&c_l;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>,
@@ -373,6 +379,11 @@
     <refgrp tip="vid">
       <ref cel="cxerp.el0i.cxion">el&ccirc;erpi<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">tire</trd>,
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">exhaust</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">weary</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_t;&c_a;&c_m;&c_l;&c_ja;&c_c;&c_mol;</trd>,
@@ -474,6 +485,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">tire</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">get tired</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_t;&c_a;&c_m;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>,

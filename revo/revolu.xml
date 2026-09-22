@@ -199,6 +199,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de el pl ru; juĝis claude-opus-5">revolutionary</trd>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_v;&c_a;&c_l;&c_ju;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
   <trd lng="de">revolutionion&auml;r</trd>
@@ -340,6 +341,10 @@
     <trd>revolucionovat</trd>
   </trdgrp>
   <trd lng="de">revolutionieren</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">revolutionise</trd>,
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">revolutionize</trd>
+  </trdgrp>
   <trd lng="fr">r&eacute;volutionner</trd>
   <trd lng="hu">forradalmas&iacute;t</trd>
   <trdgrp lng="nl">
@@ -423,6 +428,10 @@
       </ekz>
     </dif>
     <trd lng="de">Revolution&auml;r</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pl ru; juĝis claude-opus-5">revolutionary</trd>,
+      <trd fnt="Vikt: pl ru; juĝis claude-opus-5">revolutionist</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#38761;&#x547D;&#x5BB6; <pr>g&#xE9;m&#xEC;ngji&amacron;</pr></trd>,
     <trd>&#38761;&#x547D;&#32773; <pr>g&#xE9;m&#xEC;ngzh&#x11B;</pr></trd>
@@ -453,6 +462,7 @@
         <fnt><bib>Metrop</bib><lok>&ccirc;ap. 2</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl ru; juĝis claude-opus-5">prerevolutionary</trd>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_r;&c_e;&c_v;&c_a;&c_l;&c_ju;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -510,6 +520,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" kod="HIS" fnt="Vikt: en zh; juĝis claude-opus-5">Industrial Revolution <klr>(historical)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_m;&c_y;&c_s;&c_l;&c_o;&c_v;&c_a;&c_ja; <ind>&c_r;&c_e;&c_v;&c_a;&c_l;&c_ju;&c_c;&c_y;&c_ja;</ind></trd>,
@@ -569,6 +580,10 @@
     <trdgrp lng="de">
       <trd>Gegenrevolution</trd>,
       <trd>Konterrevolution</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: el ru; juĝis claude-opus-5">counter-revolution</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">counterrevolution</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_n;&c_t;&c_a;&c_r;&c_r;&c_e;&c_v;&c_a;&c_l;&c_ju;&c_c;&c_y;&c_ja;</trd>

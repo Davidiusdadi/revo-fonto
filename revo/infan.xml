@@ -255,6 +255,7 @@
       </ekz>
     </dif>
     <trd lng="de">Kinder-</trd>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">kiddish <klr>(colloquial)</klr></trd>
     <trdgrp lng="hu">
       <trd>gyerek-</trd>,
       <trd>gyermek-</trd>
@@ -293,6 +294,11 @@
     <trdgrp lng="de">
       <trd>kindlich</trd>,
       <trd>kindisch</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">childish</trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">infantile</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">childlike</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>gyerekes</trd>,
@@ -390,6 +396,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">childishness</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_z;&c_ja;&c_c;&c_ib;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -438,6 +445,7 @@
     <refgrp tip="vid">
       <ref cel="agx.infan0o">infana&gcirc;o</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en de; juĝis claude-opus-5">childhood</trd>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_c;&c_ib;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="ca">inf&agrave;ncia</trd>
@@ -493,6 +501,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ja ko pt ru; juĝis claude-opus-5">baby</trd>,
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">infant</trd>
+    </trdgrp>
     <trd lng="id">bayi</trd>
   </snc>
   <snc mrk="infan.0eto.feto">
@@ -579,6 +591,7 @@
     <refgrp tip="sin">
       <ref cel="guvern.0istino">guvernistino</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">nursemaid <klr>(colloquial)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_ja;&c_n;&c_mol;&c_k;&c_a;</trd>,
@@ -695,6 +708,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl zh; juĝis claude-opus-5">child prodigy</trd>,
+      <trd fnt="Vikt: fr zh; juĝis claude-opus-5">wunderkind</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_u;&c_n;&c_d;&c_e;&c_r;&c_k;&c_ib;&c_n;&c_d;</trd>
   <trd lng="ca">nen <ind>prodigi</ind></trd>
@@ -807,6 +824,7 @@
     <refgrp tip="vid">
       <ref cel="steril.0a.KOMUNE">sterila <sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en ku pl ru; juĝis claude-opus-5">childless</trd>
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_t;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -859,6 +877,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en pl; juĝis claude-opus-5">only child</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_a;&c_je;
     &c_d;&c_z;&c_ib;&c_c;&c_ja;</trd>

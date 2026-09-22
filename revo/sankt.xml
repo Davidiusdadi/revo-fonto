@@ -404,6 +404,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">sacrosanct</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_y;</trd>
   <trd lng="de">allerheiligst</trd>
@@ -458,6 +459,10 @@
       <ref cel="ben.0i">beni</ref>,
       <ref cel="bapt.0i">bapti</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">sanctify</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">hallow</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ja;&c_ch;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">posv&ecaron;tit <klr>(n&ecaron;co| n&ecaron;koho)</klr></trd>
@@ -703,6 +708,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr ko; juĝis claude-opus-5">saint</trd>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_y; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
   <trd lng="cs">sv&ecaron;tec</trd>

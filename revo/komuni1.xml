@@ -514,6 +514,7 @@
     <trd>Mitteilen</trd>,
     <trd>Bekanntmachung</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en de fr pl pt; juĝis claude-opus-5">communication</trd>
   <trdgrp lng="ja">
     <trd>&#x4F1D;&#36948;  <pr>&#12391;&#12435;&#x305F;&#12388;</pr></trd>,
     <trd>&#x901A;&#x4FE1;  <pr>&#12388;&#12358;&#12375;&#12435;</pr></trd>,
@@ -571,6 +572,11 @@
    <trd>Mitteilung</trd>,
    <trd>Mitgeteiltes</trd>,
    <trd>Botschaft</trd>
+ </trdgrp>
+ <trdgrp lng="en">
+   <trd fnt="Vikt: en zh; juĝis claude-opus-5">communiqu&eacute;</trd>,
+   <trd fnt="Vikt: pl; juĝis claude-opus-5">communication</trd>,
+   <trd fnt="Vikt: pl; juĝis claude-opus-5">message</trd>
  </trdgrp>
  <trdgrp lng="es">
    <trd>comunicaci&oacute;n</trd>,
@@ -787,6 +793,7 @@
        zeggend)</klr></trd>
      </ekz>
    </dif>
+   <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">communicative</trd>
  </snc>
  <trdgrp lng="be">
    <trd>&c_t;&c_a;&c_v;&c_a;&c_r;&c_y;&c_s;&c_k;&c_ib;</trd>,
@@ -1212,6 +1219,7 @@
      <ref cel="kontak.0o.FIG">kontakto</ref>,
      <ref cel="trafik.0o">trafiko</ref>
    </refgrp>
+   <trd lng="en" fnt="Vikt: en nl; juĝis claude-opus-5">connection</trd>
  </snc>
  <trdgrp lng="be">
    <trd>&c_s;&c_u;&c_v;&c_ja;&c_z;&c_mol;</trd>,
@@ -1308,6 +1316,10 @@
      <trd>Kommunikationsmittel</trd>,
      <trd>&Uuml;bertragungsmittel</trd>,
      <trd>Verkehrsmittel</trd>
+   </trdgrp>
+   <trdgrp lng="en">
+     <trd fnt="Vikt: de; juĝis claude-opus-5">means of communication</trd>,
+     <trd fnt="Vikt: fr; juĝis claude-opus-5">media</trd>
    </trdgrp>
    <trdgrp lng="es">
      <trd>medio de <ind>comunicaci&oacute;n</ind></trd>,
@@ -1735,6 +1747,10 @@
         </fnt>.
       </ekz>
    </dif>
+   <trdgrp lng="en">
+     <trd fnt="Vikt: en ku; juĝis claude-opus-5">media</trd>,
+     <trd fnt="Vikt: pl; juĝis claude-opus-5">mass media</trd>
+   </trdgrp>
  </snc>
  <trdgrp lng="be">
    <trd>&c_s;&c_r;&c_o;&c_d;&c_k;&c_ib; &c_m;&c_a;&c_s;&c_a;&c_v;&c_a;&c_j; &c_ib;&c_n;&c_f;&c_a;&c_r;&c_m;&c_a;&c_c;&c_y;&c_ib;</trd>,

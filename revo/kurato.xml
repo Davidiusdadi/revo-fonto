@@ -279,6 +279,10 @@
        <ref cel="regi.0o">regio</ref>,
        <ref cel="sekvestr.0o">sekvestro</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">guardianship</trd>,
+      <trd kod="HIS" fnt="Vikt: de; juĝis claude-opus-5">wardship <klr>(historical)</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_u;&c_r;&c_a;&c_t;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>,

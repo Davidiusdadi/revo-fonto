@@ -315,6 +315,7 @@
     <trd>uspokojit</trd>,
     <trd>vyhov&ecaron;t</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en de fr ku pt; juĝis claude-opus-5">satisfy</trd>
   <trdgrp lng="es">
     <trd>satisfacer</trd>,
     <trd>contentar</trd>
@@ -462,6 +463,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">discontented</trd>,
+      <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">dissatisfied</trd>,
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">displeased</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_je;&c_z;&c_a;&c_d;&c_a;&c_v;&c_o;&c_l;&c_je;&c_n;&c_y;</trd>,
@@ -592,6 +598,7 @@
         <fnt><bib>Metrop</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">complacent</trd>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_z;&c_a;&c_d;&c_a;&c_v;&c_o;&c_l;&c_je;&c_n;&c_y;</trd>
   <trdgrp lng="cs">

@@ -271,6 +271,11 @@
       <ref cel="for.0igi">forigi</ref>,
       <ref cel="hav.sen0igi">senhavigi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr pl ru; juĝis claude-opus-5">deprive</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">deprive &#x2026; of</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">despoil</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_z;&c_b;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -789,6 +794,10 @@
     <trd>&c_z;&c_mol;&c_n;&c_je;-</trd>
   </trdgrp>
   <trd lng="de">-los</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: en ku pl; juĝis claude-opus-5">-less</trd>,
+    <trd fnt="Vikt: en pl; juĝis claude-opus-5">-free</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>-<ind>mentes</ind></trd>,
     <trd>-<ind>tlen</ind></trd>,

@@ -377,6 +377,7 @@
       <ref cel="konsci.0a">konscia</ref>,
       <ref cel="pret.0a.por_decidi">preta<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: el fr; juĝis claude-opus-5">voluntary</trd>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_l;&c_ja;&c_v;&c_y;</trd>
   <trd lng="bg">&c_v;&c_o;&c_l;&c_je;&c_v;&c_o;</trd>
@@ -498,6 +499,11 @@
     </dif>
     <trd lng="be">&c_v;&c_o;&c_l;&c_ja;</trd>
     <trd lng="de">Wille</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ja ko pl pt ru; juĝis claude-opus-5">will</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">volition</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">willpower</trd>
+    </trdgrp>
     <trd lng="es">voluntad</trd>
     <trd lng="he">&kaf;&het; &resh;&tsadi;&vav;&fnun;</trd>
     <trd lng="ru">&c_v;&c_o;&c_l;&c_ja;</trd>
@@ -558,6 +564,10 @@
     </trdgrp>
     <trd lng="de">Wunsch</trd>
     <trd lng="el">&theta;&epsilon_ton;&lambda;&eta;&sigma;&eta;</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl ru; juĝis claude-opus-5">wish</trd>,
+      <trd fnt="Vikt: pl ru; juĝis claude-opus-5">desire</trd>
+    </trdgrp>
     <trd lng="he">&resh;&tsadi;&vav;&fnun;</trd>
     <trd lng="hu">akarat</trd>
     <trd lng="nl">wil</trd>
@@ -665,6 +675,7 @@
       <trd>&c_p;&c_a;&c_s;&c_l;&c_u;&c_h;&c_m;&c_ja;&c_n;&c_y;</trd>
     </trdgrp>
     <trd lng="de">willig</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">willing</trd>
     <trdgrp lng="zh">
     <trd>&#x70ED;&#x5FC3; <pr>r&egrave;x&imacron;n</pr></trd>,
     <trd>&#x71B1;&#x5FC3; <pr>r&egrave;x&imacron;n</pr></trd>,
@@ -751,6 +762,7 @@
       <trd>wohl oder &uuml;bel</trd>,
       <trd>ob man <ind>will</ind> oder nicht</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">willy-nilly</trd>
     <trdgrp lng="es">
       <trd>velis nolis</trd>,
       <trd>quieras o no quieras</trd>
@@ -956,6 +968,7 @@
       <trd>die <ind>G&uuml;te</ind> haben</trd>,
       <trd>so <ind>gut</ind> sein</trd>
     </trdgrp>
+    <trd lng="en" kod="ARK" fnt="Vikt: pl; juĝis claude-opus-5">deign <klr>(dated)</klr></trd>
     <trd lng="fr">bien vouloir</trd>
     <trdgrp lng="ru">
       <trd>&c_l;&c_ju;&c_b;&c_je;&c_z;&c_n;&c_o;
@@ -1667,6 +1680,7 @@
         <fnt><bib>Far2</bib> <lok>&Ccirc;apitro XIII</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pt; juĝis claude-opus-5">voluntary</trd>
     <trdgrp lng="id">
       <trd>atas ke<ind>hendak</ind> sendiri</trd>,
       <trd>atas ke<ind>ingin</ind>an sendiri</trd>,
@@ -1952,6 +1966,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">inadvertent</trd>
     <trd lng="id">tak (di)<ind>sengaja</ind></trd>
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_z;&c_v;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
@@ -2028,6 +2043,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">willpower</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">will</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_ib;&c_l;&c_a; &c_v;&c_o;&c_l;&c_ib;</trd>
   <trd lng="de">Willenskraft</trd>

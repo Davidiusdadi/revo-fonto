@@ -257,6 +257,10 @@
       <trd fnt="Vikt: fr; juĝis claude-opus-5">Entbindungsanstalt</trd>,
       <trd fnt="Vikt: pl; juĝis claude-opus-5">Entbindungsstation</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">maternity ward</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">maternity unit</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_d;&c_z;&c_ib;&c_l;&c_mol;&c_n;&c_ja;</trd>,
@@ -611,6 +615,7 @@
       <trd>&c_a;&c_k;&c_u;&c_sh;&c_e;&c_r;&c_s;&c_k;&c_a;&c_ja; &c_s;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
     </trdgrp>
     <trd lng="ca">obstetr&iacute;cia</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">midwifery</trd>
     <trdgrp lng="fa">
       <trd>&a_m;&a_A;&a_m;&a_A;&f_y;&f_y;</trd>,
       <trd>&a_q;&a_A;&a_b;&a_l;&f_g;&f_y;</trd>

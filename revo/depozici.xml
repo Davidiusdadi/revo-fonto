@@ -12,6 +12,7 @@
       <ref tip="super" cel="atest.0i.JUR">Atesti</ref> en akto,
       responde al oficiala enketo.
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">testify</trd>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_y;&c_c;&c_mol; <klr>(&c_a;&c_f;&c_ib;&c_c;&c_y;&c_j;&c_n;&c_a;)</klr></trd>
   <trdgrp lng="cs">
@@ -62,6 +63,10 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 2a, p. 18a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">deposition</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">testimony</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_a;&c_f;&c_ib;&c_c;&c_y;&c_j;&c_n;&c_a;&c_je;)</klr></trd>
   <trd lng="cs">sv&#x11B;deck&#xE1; v&#xFD;pov&#x11B;&#x10F;</trd>

@@ -1135,6 +1135,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">continuation</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">sequel</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_ja;&c_g;</trd>
   <trdgrp lng="ca">
@@ -1439,6 +1443,11 @@
       <ref cel="atend.ne0ite">neatendite</ref>,
       <ref cel="subit.0e">subite</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">in the blink of an eye</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">in a split second</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">in a twinkling</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_u; <ind>&c_ib;&c_m;&c_g;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</ind>
   &c_v;&c_o;&c_k;&c_a; <klr>(&c_m;&c_o;&c_m;&c_a;&c_n;&c_t;)</klr></trd>
@@ -1479,6 +1488,10 @@
           </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: it pl; juĝis claude-opus-5">long-lasting</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">long-standing</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_c;&c_ja;&c_g;&c_l;&c_y;</trd>,
@@ -1549,6 +1562,11 @@
        <ref cel="agx.0o">a&gcirc;o</ref>,
        <ref cel="dat.viv0oj">vivdatoj</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en zh; juĝis claude-opus-5">lifetime</trd>,
+      <trd fnt="Vikt: fr zh; juĝis claude-opus-5">lifespan</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">life span</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_c;&c_ja;&c_g;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;
@@ -1617,6 +1635,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: de en; juĝis claude-opus-5">nachhaltig</trd>
+    <trd lng="en" fnt="Vikt: en de; juĝis claude-opus-5">sustainable</trd>
   </snc>
   <refgrp tip="vid">
     <ref cel="ten.el0ema.KOMUNE">eltenema</ref>

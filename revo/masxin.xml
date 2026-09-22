@@ -259,6 +259,7 @@
       </ekz>
     </dif>
     <trd lng="de">maschinell</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">mechanical</trd>
     <trdgrp lng="pl">
       <trd>maszynowy</trd>,
       <trd>bezwiedny</trd>,
@@ -556,6 +557,10 @@
       </ekz>
     </dif>
     <trd lng="de">Maschinist</trd>
+    <trdgrp lng="en">
+      <trd kod="ARK" fnt="Vikt: pl; juĝis claude-opus-5">engine driver <klr>(dated)</klr></trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">machinist</trd>
+    </trdgrp>
     <trd lng="fr">m&eacute;canicien</trd>
     <trd lng="hu">g&eacute;p&eacute;sz</trd>
     <trdgrp lng="id">
@@ -644,6 +649,10 @@
           </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd kod="ARK" fnt="Vikt: fr ko ku nl pl zh; juĝis claude-opus-5">aeroplane <klr>(dated)</klr></trd>,
+      <trd fnt="Vikt: fr ko nl pl pt; juĝis claude-opus-5">aircraft</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y; <ind>&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;</ind></trd>
   <trd lng="de">Flugmaschine</trd>
@@ -868,6 +877,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de fr ko nl pl ru zh; juĝis claude-opus-5">sewing machine</trd>
   </snc>
   <trd lng="be">&c_sh;&c_v;&c_je;&c_j;&c_n;&c_a;&c_ja;  <ind>&c_m;&c_a;&c_sh;&c_y;&c_n;&c_k;&c_a;</ind></trd>
   <trdgrp lng="br">
@@ -1125,6 +1135,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en cs el nl ru; juĝis claude-opus-5">steam engine</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_v;&c_a;&c_ja;
   <ind>&c_m;&c_a;&c_sh;&c_y;&c_n;&c_a;</ind></trd>

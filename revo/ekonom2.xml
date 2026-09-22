@@ -24,6 +24,7 @@
     <refgrp tip="sin">
       <ref cel="ekonom1.0o.SCI">ekonomio<sncref/></ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en ko pl pt zh; juĝis claude-opus-5">economics</trd>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>ekonomiscienco</ke>.
@@ -101,6 +102,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr ko ku ru tr; juĝis claude-opus-5">economist</trd>
   </snc>
   <trd lng="be">&c_e;&c_k;&c_a;&c_n;&c_a;&c_m;&c_ib;&c_s;&c_t;</trd>
   <trd lng="ca">economista</trd>

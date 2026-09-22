@@ -168,6 +168,11 @@
       <trd fnt="Vikt: it; juĝis claude-opus-5">gaunerhaft</trd>,
       <trd fnt="Vikt: it; juĝis claude-opus-5">schurkenhaft</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">villainous</trd>,
+      <trd fnt="Vikt: it; juĝis claude-opus-5">knavish</trd>,
+      <trd fnt="Vikt: it; juĝis claude-opus-5">scoundrelly</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_ja;&c_g;&c_o;&c_d;&c_n;&c_y;</trd>,
@@ -269,6 +274,7 @@
         <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 9</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">mob</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_v;&c_a;&c_l;&c_a;&c_ch;</trd>,

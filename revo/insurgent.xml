@@ -42,6 +42,11 @@
       <trd kod="ARK" fnt="Vikt: de; juĝis claude-opus-5">Insurgent <klr>(veraltet)</klr></trd>,
       <trd fnt="Vikt: ru; juĝis claude-opus-5">Rebell</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">insurgent</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">insurrectionist</trd>,
+      <trd kod="HIS" fnt="Vikt: ru; juĝis claude-opus-5">rebel <klr>(historical)</klr></trd>
+    </trdgrp>
   </snc>
 <!-- ne traduku evitindajn...
   <trd lng="nl">opstandeling<klr tip="ind"> (ontr.)</klr></trd>

@@ -46,6 +46,10 @@
     <refgrp tip="vid">
       <ref cel="ostagx.0igi.POL">osta&gcirc;igi</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">kidnap</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">abduct</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_k;&c_r;&c_a;&c_d;&c_a;&c_c;&c_mol; <klr>(&c_z; &c_m;&c_e;&c_t;&c_a;&c_j; &c_v;&c_y;&c_k;&c_u;&c_p;&c_u;)</klr></trd>
   <trdgrp lng="ca">
@@ -110,6 +114,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">abduction</trd>,
+      <trd fnt="Vikt: pt; juĝis claude-opus-5">kidnapping</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_ib;&c_d;&c_n;&c_e;&c_p;&c_ib;&c_n;&c_g;</trd>,

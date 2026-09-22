@@ -23,6 +23,7 @@
     <refgrp tip="sin">
        <ref cel="tuj.0a">tuja</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de fr; juĝis claude-opus-5">prompt</trd>
   </snc>
   <trdgrp lng="be">
      <trd>&c_h;&c_u;&c_t;&c_k;&c_ib;</trd>,
@@ -91,6 +92,11 @@
          <lok>&ccirc;apitro 64a, p.&#x202F;390a</lok></fnt>.
        </ekz>
      </dif>
+     <trdgrp lng="en">
+       <trd fnt="Vikt: el es; juĝis claude-opus-5">quickly</trd>,
+       <trd fnt="Vikt: es; juĝis claude-opus-5">expeditiously</trd>,
+       <trd fnt="Vikt: es; juĝis claude-opus-5">promptly</trd>
+     </trdgrp>
    </snc>
   <trdgrp lng="be">
      <trd>&c_h;&c_u;&c_t;&c_k;&c_a;</trd>,

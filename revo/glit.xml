@@ -903,6 +903,7 @@
     <trd lng="be">&c_k;&c_a;&c_n;&c_jo;&c_k;</trd>
     <trd lng="ca">pat&iacute;</trd>
     <trd lng="de">Schlittschuh</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">ice skate</trd>
     <trd lng="es">pat&iacute;n</trd>
     <trd lng="fr">patin</trd>
     <trd lng="hu">korcsolya</trd>
@@ -938,6 +939,10 @@
   <trdgrp lng="be">
     <trd>&c_s;&c_a;&c_n;&c_k;&c_ib;</trd>,
     <trd>&c_s;&c_a;&c_n;&c_a;&c_ch;&c_k;&c_ib;</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">sled <klr>(US)</klr></trd>,
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">sledge <klr>(British)</klr></trd>
   </trdgrp>
   <trdgrp lng="id">
     <trd>mobil salju</trd>,

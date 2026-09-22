@@ -28,6 +28,7 @@
     <refgrp tip="vid">
       <ref cel="rimes.0o">rimeso</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">draft</trd>
   </snc>
   <trd lng="cs">trata</trd>
   <trdgrp lng="de">
@@ -148,6 +149,7 @@
     <trd>Trassat</trd>,
     <trd>Bezogener</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">drawee</trd>
   <trdgrp lng="hu">
     <trd>int&eacute;zv&eacute;nyezett</trd>,
     <trd>c&iacute;mzett<klr tip="ind"> (v&aacute;lt&oacute;&eacute;)</klr></trd>

@@ -320,6 +320,10 @@
       <aut>Wolfram Diestel</aut>
     </rim>
     <trd lng="de">Grund</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr ja ko ku pl ru; juĝis claude-opus-5">reason</trd>,
+      <trd fnt="Vikt: ja; juĝis claude-opus-5">ground</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>motif</trd>,
       <trd><baz>alas</baz>alasan</trd>
@@ -372,6 +376,7 @@
   <trd lng="co">a causa</trd>
   <trd lng="cy">achos</trd>
   <trd lng="da">&aring;rsag</trd>
+  <trd lng="en" fnt="Vikt: en es ja ko ku pl ru; juĝis claude-opus-5">cause</trd>
   <trd lng="et">p&otilde;hjus</trd>
   <trd lng="eu">kausa</trd>
   <trdgrp lng="fa">
@@ -623,6 +628,11 @@
       samsenca &leftquot;<ref cel="sekv.0ede">sekve de</ref>&rightquot;.
       <aut>&jcirc;v</aut>
     </rim>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">because of</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">by reason of</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">due to</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z; &c_p;&c_r;&c_y;&c_ch;&c_y;&c_n;&c_y;</trd>,
@@ -692,6 +702,7 @@
     <trd>Kausalit&auml;t</trd>,
     <trd>Ursache-Wirkungsbeziehung</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: de fr; juĝis claude-opus-5">causality</trd>
   <trd lng="fa">&a_ayn;&a_l;&f_y;&a_shadda;&a_t;</trd>
   <trd lng="fr">causalit&eacute;</trd>
   <trd lng="hu">oks&aacute;g</trd>

@@ -63,6 +63,7 @@
       <trd>vertraut</trd>,
       <trd>innig</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de fr; juĝis claude-opus-5">close</trd>
     <trdgrp lng="hu">
       <trd>intim</trd>,
       <trd>bens&odblac;s&eacute;ges</trd>,
@@ -138,6 +139,10 @@
       <trd>intim</trd>,
       <trd>privat</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr ru; juĝis claude-opus-5">innermost</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">inmost</trd>
+    </trdgrp>
     <trd lng="hu">bens&odblac;</trd>
     <trdgrp lng="id">
       <trd>pribadi</trd>,
@@ -161,6 +166,7 @@
     <trd>intimn&iacute;</trd>,
     <trd>&uacute;tuln&yacute;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en de el es fr pl ru; juĝis claude-opus-5">intimate</trd>
   <trd lng="es">&iacute;ntimo</trd>
   <trdgrp lng="fr">
     <trd>intime<klr tip="ind"> (adj.)</klr></trd>,
@@ -232,6 +238,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de fr ru; juĝis claude-opus-5">intimacy</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>intimita</trd>,

@@ -508,6 +508,7 @@
       </ekz>
     </dif>
     <trd lng="de">rechtsh&auml;ndig</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">right-handed</trd>
     <trd lng="fr">droitier<klr tip="ind"> (adj.)</klr></trd>
     <trd lng="id">kinan</trd>
     <trdgrp lng="it">
@@ -636,6 +637,7 @@
     <trd>lev&aacute;k <klr>(adj.)</klr></trd>,
     <trd>&scaron;ikovn&yacute; na levou ruku</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">left-handed</trd>
   <trdgrp lng="es">
     <trd>zurdo</trd>,
     <trd>cucho</trd>
@@ -784,6 +786,10 @@
         8a</lok></fnt>;
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">hand over</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">hand</trd>
+    </trdgrp>
     <trd lng="pl">wr&eogonek;cza&cacute;</trd>
   </snc>
   <snc mrk="man.en0igi.FIG">
@@ -941,6 +947,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">handful</trd>,
+      <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">fistful</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_zh;&c_m;&c_je;&c_n;&c_ja;</trd>
   <trd lng="cs">hrst <klr>(n&ecaron;&ccaron;eho)</klr></trd>

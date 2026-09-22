@@ -1573,6 +1573,10 @@
       <trd>&c_n;&c_je; &c_n;&c_a; &c_n;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_y;&c_m; <ind>&c_m;&c_je;&c_s;&c_c;&c_y;</ind></trd>,
       <trd>&c_n;&c_ja; <ind>&c_t;&c_a;&c_m;</ind>, &c_d;&c_z;&c_je; &c_t;&c_r;&c_e;&c_b;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">misplaced</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">out of place</trd>
+    </trdgrp>
     <trd lng="fr">au mauvais endroit</trd>
   </snc>
   <snc mrk="lok.malgxusta0a.FIG">
@@ -1599,6 +1603,7 @@
       <trd fnt="Vikt: ru; juĝis claude-opus-5">unangebracht</trd>,
       <trd fnt="Vikt: ru; juĝis claude-opus-5">unpassend</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">inappropriate</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;plac&eacute;<klr> (inconvenant)</klr></trd>,
       <trd>inappropri&eacute;</trd>

@@ -151,6 +151,7 @@
         <trd lng="de">nach Recht und Gesetz</trd>
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">by right</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a; <ind>&c_p;&c_r;&c_a;&c_v;&c_u;</ind></trd>,
@@ -262,6 +263,10 @@
     <trdgrp lng="de">
       <trd>d&uuml;rfen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr zh; juĝis claude-opus-5">may</trd>,
+      <trd fnt="Vikt: en fr ja; juĝis claude-opus-5">can <klr>(colloquial)</klr></trd>
+    </trdgrp>
     <trd lng="id">boleh</trd>
   </snc>
   <trd lng="be">&c_m;&c_je;&c_c;&c_mol;
@@ -367,6 +372,11 @@
       <trd>das <ind>Recht</ind> verleihen</trd>,
       <trd>erm&auml;chtigen</trd>,
       <trd>bevollm&auml;chtigen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">authorize <klr>(British)</klr></trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">empower</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">entitle</trd>
     </trdgrp>
     <trd lng="he">&lamed;&he;<ind>&resh;&shin;&vav;&tav;</ind></trd>
     <trdgrp lng="hu">

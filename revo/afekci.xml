@@ -85,6 +85,7 @@
       <trd>beeintr&auml;chtigen <klr>(Gesundheit)</klr></trd>,
       <trd>angreifen <klr>(Gesundheit)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">affect</trd>
     <trd lng="fr">affecter<klr tip="ind"> (en p. d'une
     maladie)</klr></trd>
     <trdgrp lng="it">
@@ -160,6 +161,10 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="afektiv.0a">afektiva</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">emotional</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">affective</trd>
+    </trdgrp>
     <trd lng="zh">&#19981;&#33258;&#28982; <pr>b&#249;z&#236;r&#225;n</pr></trd>
 </snc>
   <trdgrp lng="be">

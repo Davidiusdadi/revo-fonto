@@ -188,6 +188,7 @@
         </fnt>.
     </ekz>
     </dif>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">out of the box</trd>
     </snc>
     <trdgrp lng="be">
       <trd>&#xAB;&c_s;&c_a; &c_s;&c_k;&c_r;&c_y;&c_n;&c_ib;&#xBB;</trd>,
@@ -588,6 +589,10 @@
         Jaroj da Soleco</vrk>, <lok>Fonto, 1992</lok></fnt>...
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">music box</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">musical box</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_u;&c_z;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_s;&c_k;&c_r;&c_y;&c_n;&c_ja;</ind></trd>
   <trd lng="ca">capsa de m&uacute;sica</trd>
@@ -739,6 +744,7 @@
     <trdgrp lng="de">
       <trd>Blackbox</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">black box</trd>
   </snc>
   <snc mrk="skatol.nigra0o.AVI">
     <uzo tip="fak">AVI</uzo>
@@ -759,6 +765,7 @@
       <trd>Flugschreiber</trd>,
       <trd>Blackbox</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">flight data recorder</trd>
     <trdgrp lng="zh">
     <trd>&#x9ED1;&#21283;&#x5B50; <pr>h&emacron;ixi&#xE1;z&#x1D0;</pr></trd>,
     <trd>&#x9ED1;&#x76D2;&#x5B50; <pr>h&emacron;ih&#xE9;zi</pr></trd>,

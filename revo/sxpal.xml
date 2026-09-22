@@ -40,6 +40,11 @@
       </rim>      
       <trd lng="ca">travessa</trd>
       <trd lng="de">Schwelle <klr>(Bahngleis)</klr></trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en de; juĝis claude-opus-5">railroad tie <klr>(US)</klr></trd>,
+        <trd fnt="Vikt: de fr; juĝis claude-opus-5">sleeper <klr>(British)</klr></trd>,
+        <trd fnt="Vikt: fr; juĝis claude-opus-5">tie <klr>(US)</klr></trd>
+      </trdgrp>
       <trd lng="hu">talpfa</trd>
       <trd lng="it">traversina</trd>
       <trd lng="nl">biel</trd>

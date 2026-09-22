@@ -35,6 +35,7 @@
       <ref cel="fold.0i">foldi</ref>,
       <ref cel="kanel.0i">kaneli</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">notch</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_n;&c_a;&c_s;&c_je;&c_ch;&c_k;&c_ib;</ind></trd>,
@@ -100,6 +101,10 @@
       <ref cel="kanel.0o.TEK">kanelo<sncref/></ref>,
       <ref cel="sulk.0o.KOMUNE">sulko<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">notch</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">score</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_s;&c_je;&c_ch;&c_k;&c_a;</trd>,

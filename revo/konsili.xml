@@ -58,6 +58,10 @@
       <ref cel="komita.0o">komitato</ref>,
       <ref cel="panel.0o.grupo">panelo<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl ru; juĝis claude-opus-5">council</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">board</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_d;&c_a; <klr>(&c_v;&c_o;&c_r;&c_g;&c_a;&c_n;)</klr></trd>
   <trd lng="ca">consell <klr tip="amb">(organ)</klr></trd>
@@ -119,6 +123,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">councillor</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_d;&c_n;&c_y;</trd>,

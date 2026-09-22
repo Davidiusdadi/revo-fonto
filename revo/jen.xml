@@ -84,6 +84,11 @@
       <ref cel="vid.0i">vidu</ref>,
       <ref cel="tie.cxi0">tie &ccirc;i</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">here is</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">lo</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">behold</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
      <trd>&c_v;&c_o;&c_s;&c_mol;</trd>,
@@ -266,6 +271,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="apud.cxi0a">&ccirc;i-apuda</ref>
+    <trd lng="en" fnt="Vikt: en el pt; juĝis claude-opus-5">following</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_o;&c_s;&c_mol; &c_g;&c_e;&c_t;&c_y;</trd>,
@@ -368,6 +374,7 @@
     <trd>folgenderma&szlig;en</trd>,
     <trd>wie folgt</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">as follows</trd>
   <trd lng="es">como <ind>sigue</ind></trd>
   <trdgrp lng="fi">
     <trd>n&auml;in</trd>,

@@ -302,6 +302,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en pl ru; juĝis claude-opus-5">agitation</trd>
     <trdgrp lng="zh">
     <trd>&#x5BA3;&#x4F20;&#x9F13;&#x52A8; <pr>xu&amacron;nchu&#xE1;ng&#x1D4;d&#xF2;ng</pr></trd>,
     <trd>&#x5BA3;&#x50B3;&#x9F13;&#x52D5; <pr>xu&amacron;nchu&#xE1;ng&#x1D4;d&#xF2;ng</pr></trd>
@@ -435,6 +436,10 @@
       <ref cel="ekscit.0igxo">eksciti&gcirc;o</ref>,
       <ref cel="tumult.0o">tumulto</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ru; juĝis claude-opus-5">agitation</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">excitement</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#20839;&#x722D; <pr>n&#xE8;izh&emacron;ng</pr></trd>,
     <trd>&#20869;&#x4E89; <pr>n&#xE8;izh&emacron;ng</pr></trd>,
@@ -505,6 +510,7 @@
     </dif>
     <ref tip="vid" cel="propag.0isto">propagandisto</ref>
     <trd lng="be">&c_a;&c_g;&c_ib;&c_t;&c_a;&c_t;&c_a;&c_r;</trd>
+    <trd lng="en" fnt="Vikt: en el fr pl ru; juĝis claude-opus-5">agitator</trd>
     <trd lng="fr">agitateur</trd>
     <trdgrp lng="it">
       <trd>agitatore</trd>,

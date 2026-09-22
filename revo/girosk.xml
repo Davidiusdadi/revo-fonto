@@ -38,6 +38,7 @@
       <ref cel="akcelometr.0o">akcelometro</ref>,
       <ref cel="kompas.0o">kompaso</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: de es pl pt ru; juĝis claude-opus-5">gyroscope</trd>
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_r;&c_a;&c_s;&c_k;&c_o;&c_p;</trd>
   <trd lng="ca">giroscopi</trd>

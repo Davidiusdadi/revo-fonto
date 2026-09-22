@@ -187,6 +187,7 @@
       <ref cel="eksklud.0o">ekskludo</ref>,
       <ref cel="kutim.ne0ajxo">nekutima&jcirc;o</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en ja pl; juĝis claude-opus-5">exception</trd>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">v&yacute;jimka</trd>
@@ -255,6 +256,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">exceptional</trd>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
@@ -288,6 +290,7 @@
       En <tld/>a maniero; per, pro <tld/>o.
     </dif>
      <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_n;&c_a;</trd>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">exceptionally</trd>
     <trd lng="fr">exceptionnellement</trd>
     <trd lng="hu">kiv&eacute;telesen</trd>
     <trdgrp lng="id">
@@ -329,6 +332,10 @@
      </trdgrp>
     </dif>
   <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">au&szlig;er</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">except</trd>,
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">except for</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>kecuali</trd>,
     <trd><baz>lain</baz>selain</trd>
@@ -382,6 +389,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">bar none</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">without exception</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_z;
   <ind>&c_v;&c_y;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
@@ -437,6 +448,10 @@
     <refgrp tip="sin">
       <ref cel="escept.0e.tr"><tld/>e <sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">but</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">except</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;
@@ -503,6 +518,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">unless</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_l;&c_ib; &c_t;&c_o;&c_l;&c_mol;&c_k;&c_ib;  &c_n;&c_je;</trd>
   <trd lng="de">au&szlig;er, wenn...</trd>

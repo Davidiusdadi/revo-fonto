@@ -315,6 +315,10 @@
     <refgrp tip="vid">
       <ref cel="per.0anto">peranto</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pt; juĝis claude-opus-5">provider</trd>,
+      <trd fnt="Vikt: de pt; juĝis claude-opus-5">supplier</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_a;&c_w;&c_ch;&c_sh;&c_y;&c_k;</trd>
   <trd lng="ca">prove&iuml;dor</trd>

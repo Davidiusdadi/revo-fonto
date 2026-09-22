@@ -379,6 +379,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de ko pl ru; juĝis claude-opus-5">depth</trd>
     <trd lng="fr">profondeur<klr tip="ind"> (dimension)</klr></trd>
   <trd lng="id"><baz>dalam</baz>kedalaman</trd>
   </snc>
@@ -418,6 +419,7 @@
       <ref cel="fon.0o">fono</ref>,
       <ref cel="fund.0o">fundo</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">deep</trd>
     <trdgrp lng="fr">
       <trd>fond</trd>,
       <trd>profondeur<klr tip="ind"> (abime)</klr></trd>
@@ -501,6 +503,10 @@
       </ekz>
     </dif>
     <trd lng="de">Tiefe</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: es ku; juĝis claude-opus-5">profundity</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">profoundness</trd>
+    </trdgrp>
     <trd lng="fr">profondeur<klr tip="ind"> (fait d'&ecirc;tre
     profond)</klr></trd>
     <trd lng="sv">djup</trd>
@@ -537,6 +543,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: es fr ko ku pl ru; juĝis claude-opus-5">depth</trd>
   </snc>
   <trd lng="be">&c_g;&c_l;&c_y;&c_b;&c_ib;&c_n;&c_ja;</trd>
   <trd lng="cs">hloubka</trd>
@@ -623,6 +630,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">abyss</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">chasm</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_je;&c_z;&c_d;&c_a;&c_n;&c_mol;</trd>,
@@ -692,6 +703,7 @@
     <refgrp tip="vid">
       <ref cel="fos.0i">fosi</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">deepen</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_g;&c_l;&c_y;&c_b;&c_l;&c_ja;&c_c;&c_mol;</trd>
   <trd lng="cs">prohloubit</trd>
@@ -968,6 +980,10 @@
       <ref cel="plat.0a">plata</ref>,
       <ref cel="supr.0ajxa">supra&jcirc;a</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ja ko pl; juĝis claude-opus-5">shallow</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">superficial</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_je;&c_l;&c_k;&c_ib;</trd>,
@@ -1047,6 +1063,10 @@
     </dif>
     <trd lng="be">&c_m;&c_je;&c_l;&c_mol;</trd>
     <trd lng="de">Untiefe</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">shallow</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">shoal</trd>
+    </trdgrp>
     <trd lng="fr">haut-fond</trd>
     <trd lng="pl">mielizna</trd>
     <trd lng="ru">&c_m;&c_je;&c_l;&c_mol;</trd>

@@ -326,6 +326,11 @@
   <trd lng="cs">o</trd>
   <trd lng="cy">tua</trd>
   <trd lng="da">om</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: en de fr pl ru; juĝis claude-opus-5">about</trd>,
+    <trd fnt="Vikt: en de fr ru; juĝis claude-opus-5">on</trd>,
+    <trd fnt="Vikt: en fr; juĝis claude-opus-5">concerning</trd>
+  </trdgrp>
   <trdgrp lng="es">
      <trd>sobre<klr tip="amb"> (respecto de)</klr></trd>,
      <trd>relativo a</trd>

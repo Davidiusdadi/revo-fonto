@@ -267,6 +267,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: el ru; juĝis claude-opus-5">folk</trd>,
+      <trd fnt="Vikt: el; juĝis claude-opus-5">vernacular</trd>
+    </trdgrp>
   </snc>
   <snc mrk="popol.0a.apartena">
     <dif>
@@ -554,6 +558,7 @@
     <refgrp tip="vid">
       <ref cel="oportu.0isto">oportunisto</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">populist</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_p;&c_u;&c_l;&c_ib;&c_s;&c_t;</trd>
   <trd lng="de">Populist</trd>

@@ -123,6 +123,11 @@
      <trd><ind>um</ind> ... willen</trd>,
      <trd>vor <klr>(wegen)</klr></trd>,
    </trdgrp>
+   <trdgrp lng="en">
+     <trd fnt="Vikt: en de fr pl; juĝis claude-opus-5">because of</trd>,
+     <trd fnt="Vikt: en de pl; juĝis claude-opus-5">due to</trd>,
+     <trd fnt="Vikt: en de pl; juĝis claude-opus-5">on account of <klr>(colloquial)</klr></trd>
+   </trdgrp>
    <trdgrp lng="es">
      <trd>por</trd>,
      <trd>a causa de</trd>
@@ -240,6 +245,7 @@
      <ref cel="por.0.acxetajxo">por<sncref/></ref>,
      <ref cel="por.0.prezo">por<sncref/></ref>
    </refgrp>
+    <trd lng="en" fnt="Vikt: en de fr pl ru; juĝis claude-opus-5">for</trd>
   </snc>
   <trdgrp lng="be">
      <trd>&c_z;&c_a;</trd>,

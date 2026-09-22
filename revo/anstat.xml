@@ -721,6 +721,7 @@ remplacer)</klr></trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">auswechselbar</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">ersetzbar</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">replaceable</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>,
@@ -784,6 +785,7 @@ remplacer)</klr></trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">unersetzbar</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">unersetzlich</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">irreplaceable</trd>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_z;&c_a;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -891,6 +893,11 @@ remplacer)</klr></trd>,
         </ekz>
       </dif>
       <ref tip="sin" cel="garant.0anto">garantianto</ref>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">substitute</trd>,
+        <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">replacement</trd>,
+        <trd fnt="Vikt: en; juĝis claude-opus-5">stand in <klr>(colloquial)</klr></trd>
+      </trdgrp>
     </snc>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_k;&c_a;&c_n;&c_a;&c_w;&c_c;&c_a;

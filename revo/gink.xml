@@ -49,6 +49,10 @@
       <trd>Ginko</trd>,
       <trd>Ginkgo</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de ja zh; juĝis claude-opus-5">ginkgo</trd>,
+      <trd kod="ARK" fnt="Vikt: zh; juĝis claude-opus-5">gingko <klr>(dated)</klr></trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x767D;&#x679C;&#x6A39; <pr>b&#xE1;igu&#x1D2;sh&#xF9;</pr></trd>,
     <trd>&#x767D;&#x679C; <pr>b&#xE1;igu&#x1D2;</pr></trd>,

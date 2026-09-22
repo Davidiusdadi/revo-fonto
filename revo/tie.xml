@@ -763,6 +763,10 @@
       <trd>umher</trd>,
       <trd>hin und her</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd kod="ARK" fnt="Vikt: en; juĝis claude-opus-5">to and fro <klr>(dated)</klr></trd>,
+      <trd kod="ARK" fnt="Vikt: en; juĝis claude-opus-5">hither and thither <klr>(dated)</klr></trd>
+    </trdgrp>
     <trd lng="id">ke mana-mana</trd>
     <trd lng="zh">&#x5F80;&#x8FD4; <pr>w&#x1CE;ngf&#x1CE;n</pr></trd>
 </snc>

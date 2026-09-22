@@ -333,6 +333,11 @@
        <trd>allein</trd>
        <trd>nur</trd>
      </trdgrp>
+     <trdgrp lng="en">
+       <trd fnt="Vikt: en ku; juĝis claude-opus-5">alone</trd>,
+       <trd fnt="Vikt: en; juĝis claude-opus-5">by oneself</trd>,
+       <trd fnt="Vikt: en; juĝis claude-opus-5">on one's own</trd>
+     </trdgrp>
      <trdgrp lng="fr">
        <trd>isol&eacute;ment</trd>
        <trd>tout seul</trd>
@@ -420,6 +425,10 @@
     <trdgrp lng="ca">
       <trd>&uacute;nic <klr>(adj)</klr></trd>,
       <trd>nom&eacute;s</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en; juĝis claude-opus-5">solely</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">exclusively</trd>
     </trdgrp>
     <trdgrp lng="ru">
        <trd>&c_t;&c_o;&c_l;&c_mol;&c_k;&c_o;</trd>,

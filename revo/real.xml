@@ -519,6 +519,10 @@
       </ekz>
     </dif>
     <trd lng="de">Realisierung</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr ru; juĝis claude-opus-5">implementation</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">realization <klr>(British)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ja;</trd>
 </drv>
@@ -541,6 +545,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">come true</trd>
   </snc>
   <rim>
     Konfuzebla kun <ref tip="hom" cel="al.re0igxi.KOMUNE">re&middot;al&middot;i&gcirc;&middot;i</ref>, ali&gcirc;i denove.
@@ -695,6 +700,7 @@
   </rim>
   <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="de">Realismus</trd>
+  <trd lng="en" fnt="Vikt: en de el fr ku pt; juĝis claude-opus-5">realism</trd>
   <trd lng="es">realismo</trd>
   <trdgrp lng="fr">
     <trd>r&eacute;alisme</trd>
@@ -811,6 +817,7 @@
       <ref cel="utopi.0a">utopia</ref>,
       <ref cel="vent.0a">venta</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en de; juĝis claude-opus-5">unreal</trd>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="cs">
@@ -878,6 +885,7 @@
         numero 76a, p. 6a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de es; juĝis claude-opus-5">surrealism</trd>
   </snc>
   <trd lng="be">&c_s;&c_ju;&c_r;&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="cs">surrealizmus</trd>
@@ -940,6 +948,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: el en fr pt ru; juĝis claude-opus-5">Surrealismus</trd>
+    <trd lng="en" fnt="Vikt: en el fr pt ru; juĝis claude-opus-5">surrealism</trd>
   </snc>
   <trd lng="be">&c_s;&c_ju;&c_r;&c_r;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="cs">surrealismus</trd>

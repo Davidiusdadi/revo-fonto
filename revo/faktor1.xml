@@ -44,6 +44,10 @@
       <ref cel="vend.cxio0ejo">&ccirc;iovendejo</ref>,
       <ref cel="proviz.0ejo">provizejo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd kod="HIS" fnt="Vikt: de; juĝis claude-opus-5">factory <klr>(historical)</klr></trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">trading post</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_f;&c_a;&c_k;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
   <trd lng="ca">factoria</trd>

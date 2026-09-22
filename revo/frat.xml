@@ -455,6 +455,10 @@
     <trd lng="be">&c_b;&c_r;&c_a;&c_c;&c_t;&c_v;&c_a; <klr
     tip="amb">(&c_r;&c_e;&c_l;&c_ib;&c_g;&c_ib;&c_j;&c_n;&c_a;&c_je;)</klr></trd>
     <trd lng="de">Bruderschaft</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">brotherhood</trd>,
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">fraternity</trd>
+    </trdgrp>
     <trd lng="fr">congr&eacute;gation</trd>
     <trd lng="id">kongregasi</trd>
     <trdgrp lng="pl">
@@ -1136,6 +1140,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en ku; juĝis claude-opus-5">Stiefbruder</trd>
+    <trd lng="en" fnt="Vikt: en ku; juĝis claude-opus-5">stepbrother</trd>
   </snc>
   <trd lng="pl">brat przyrodni</trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_d;&c_n;&c_y;&c_j; &c_b;&c_r;&c_a;&c_t;</trd>
@@ -1162,6 +1167,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">Stiefschwester</trd>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">stepsister</trd>
   </snc>
   <trd lng="pl">siostra przyrodnia</trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_s;&c_je;&c_s;&c_t;&c_r;&c_a;</trd>

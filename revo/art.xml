@@ -347,6 +347,7 @@
       <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_ib;</trd>
       <trd lng="ca">art&iacute;stic</trd>
       <trd lng="de">kunstvoll</trd>
+      <trd lng="en" fnt="Vikt: en de el fr pl; juĝis claude-opus-5">artistic</trd>
       <trd lng="es">art&iacute;stico</trd>
       <trd lng="fr">artistique</trd>
       <trd lng="hu">m&udblac;v&eacute;szi</trd>
@@ -420,6 +421,7 @@
       </dif>
       <trd lng="be">&c_sh;&c_t;&c_u;&c_ch;&c_n;&c_y;</trd>
       <trd lng="de">k&uuml;nstlich</trd>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">artificial</trd>
       <trd lng="fr">artificiel</trd>
       <trd lng="hu">m&udblac;-</trd>
       <trd lng="id">artifisial</trd>
@@ -581,6 +583,7 @@
       <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_ib; <ind>&c_t;&c_v;&c_o;&c_r;</ind></trd>
       <trd lng="ca">obra d'<ind>art</ind></trd>
       <trd lng="de">Kunstwerk</trd>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">work of art</trd>
       <trd lng="fr">&oelig;uvre d'art</trd>
       <trd lng="hu">m&udblac;v&eacute;szi dolog</trd>
       <trd lng="id">karya seni</trd>
@@ -794,6 +797,7 @@
     </trdgrp>
     <trd lng="cv">&c_a;&c_r;&c_t;&c_i;&c_s;&c_t;</trd>
     <trd lng="de">K&uuml;nstler</trd>
+    <trd lng="en" fnt="Vikt: en fr ja ku pl ru; juĝis claude-opus-5">artist</trd>
     <trd lng="fr">artiste</trd>
     <trd lng="he">&alef;&vav;&mem;&fnun;</trd>
     <trd lng="hu">m&udblac;v&eacute;sz</trd>
@@ -948,6 +952,7 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">Kampfkunst</trd>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">martial art</trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_ja;&c_v;&c_o;&c_je;
   <ind>&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</ind></trd>
@@ -975,6 +980,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">artistic</trd>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_ib;</trd>
   <trd lng="ca">art&iacute;stic</trd>
@@ -1023,6 +1029,7 @@
         Jasnaja Poljana</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">fine arts</trd>
     <trdgrp lng="zh">
     <trd>&#25991;&#x5B66;&#x827A;&#x672F; <pr>w&eacute;nxu&eacute;y&igrave;sh&ugrave;</pr></trd>,
     <trd>&#25991;&#x5B78;&#x85DD;&#34899; <pr>w&eacute;nxu&eacute;y&igrave;sh&ugrave;</pr></trd>
@@ -1258,6 +1265,7 @@
         <fnt><bib>InfanTorent2</bib>, <lok>dua parto, 3</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en zh; juĝis claude-opus-5">photography</trd>
   </snc>
   <trd lng="be">&c_f;&c_o;&c_t;&c_a;&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</trd>
   <trdgrp lng="de">
@@ -1446,6 +1454,10 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: en ku; juĝis claude-opus-5">Kinematographie</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ku; juĝis claude-opus-5">cinematography</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">cinema</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_ib;&c_n;&c_a;&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</trd>,
@@ -1614,6 +1626,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr pl ru; juĝis claude-opus-5">cuisine</trd>,
+      <trd fnt="Vikt: ko pl; juĝis claude-opus-5">cooking</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x70F9;&#x8ABF;&#34899; <pr>p&emacron;ngti&aacute;osh&ugrave;</pr></trd>,
     <trd>&#x70F9;&#x8C03;&#x672F; <pr>p&emacron;ngti&aacute;osh&ugrave;</pr></trd>,
@@ -1721,6 +1737,10 @@
       helpi kaj
       plibonigi la memorkapablon.
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en pl; juĝis claude-opus-5">mnemonics</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">mnemotechnics</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x8A18;&#x61B6;&#x672E; <pr>j&igrave;y&igrave;sh&ugrave;</pr></trd>,
     <trd>&#x8BB0;&#x5FC6;&#x672F; <pr>j&igrave;y&igrave;sh&ugrave;</pr></trd>,
@@ -1961,6 +1981,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">painting</trd>
   </snc>
   <trd lng="be">&c_zh;&c_y;&c_v;&c_a;&c_p;&c_ib;&c_s;</trd>
   <trd lng="ca">pintura</trd>
@@ -2073,6 +2094,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr pl pt ru zh; juĝis claude-opus-5">sculpture</trd>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_u;&c_l;&c_mol;&c_p;&c_t;&c_u;&c_r;&c_a;
   <klr>(&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;)</klr></trd>
@@ -2116,6 +2138,10 @@
         <fnt><bib>ElektFab</bib>, <lok>Ne&gcirc;ulino</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">sorcery</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">witchcraft</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x5DEB;&#x86CA; <pr>w&umacron;g&#x1D4;</pr></trd>,
     <trd>&#x5DEB;&#34865; <pr>w&umacron;g&#x1D4;</pr></trd>

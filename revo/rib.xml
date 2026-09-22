@@ -113,6 +113,10 @@
   <trd lng="be">&c_ch;&c_o;&c_r;&c_n;&c_y;&c_ja; <ind>&c_p;&c_a;&c_r;&c_e;&c_ch;&c_k;&c_ib;</ind></trd>
   <trd lng="de">Schwarze Johannisbeere</trd>
   <trd lng="cs">&ccaron;ern&yacute; ryb&iacute;z</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">black currant</trd>,
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">blackcurrant</trd>
+  </trdgrp>
   <trd lng="fr">cassis</trd>
   <trdgrp lng="ja">
     <trd>&#x30AF;&#x30ED;&#x30B9;&#x30B0;&#x30EA;</trd>,
@@ -152,6 +156,10 @@
   </bld>
   <trd lng="be">&c_ch;&c_y;&c_r;&c_v;&c_o;&c_n;&c_y;&c_ja; <ind>&c_p;&c_a;&c_r;&c_e;&c_ch;&c_k;&c_ib;</ind></trd>
   <trd lng="ca"><ind>riber</ind> vermell</trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: fr pl pt; juĝis claude-opus-5">red currant</trd>,
+    <trd fnt="Vikt: pl; juĝis claude-opus-5">redcurrant</trd>
+  </trdgrp>
   <trd lng="fr">groseille<klr> (rouge)</klr></trd>
   <trd lng="hu">piros <ind>ribiszke</ind></trd>
   <trd lng="ja">&#x30A2;&#x30AB;&#x30B9;&#x30B0;&#x30EA;</trd>
@@ -184,6 +192,7 @@
       <ref cel="gros.0ujo.BOT">grosujo</ref>
     </refgrp>
     <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Johannisbeerstrauch</trd>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">currant bush</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_e;&c_ch;&c_k;&c_ib; <klr>(&c_k;&c_u;&c_s;&c_t;)</klr></trd>
   <trdgrp lng="fr">

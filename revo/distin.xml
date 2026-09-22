@@ -330,6 +330,7 @@
     <trd>rozezn&aacute;n&iacute;</trd>,
     <trd>uzn&aacute;n&iacute;</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en de fr; juĝis claude-opus-5">distinction</trd>
   <trd lng="es">distinci&oacute;nr</trd>
   <trdgrp lng="he">
     <trd>&he;&bet;&het;&nun;&he;</trd>,
@@ -438,6 +439,7 @@
     <ref tip="vid" cel="nobl.0a">nobla</ref>
     <trd lng="be">&c_v;&c_y;&c_b;&c_ib;&c_t;&c_n;&c_y;</trd>
     <trd lng="de">vornehm</trd>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">distinguished</trd>
     <trd lng="fr">distingu&eacute;<klr tip="ind"> (noble)</klr></trd>
     <trdgrp lng="id">
       <trd>istimewa</trd>,
@@ -509,6 +511,10 @@
     <trdgrp lng="de">
       <trd>unterscheidbar</trd>,
       <trd>erkennbar</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en it; juĝis claude-opus-5">distinguishable</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">discernible</trd>
     </trdgrp>
     <trd lng="zh">&#x53EF;&#x533A;&#x522B; <pr>k&ecaron;q&umacron;bi&eacute;</pr></trd>
 </snc>
@@ -845,6 +851,7 @@
         fra&ubreve;lo</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">distinguished</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_d;&c_a;&c_t;&c_n;&c_y;</trd>,

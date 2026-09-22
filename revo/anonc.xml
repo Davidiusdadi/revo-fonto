@@ -286,6 +286,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: cs de el pl ru; juĝis claude-opus-5">announcement</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">notice</trd>,
+      <trd fnt="Vikt: nl; juĝis claude-opus-5">advertisement</trd>
+    </trdgrp>
     <trdgrp lng="zh">
       <trd>&#x516C;&#x4F48; <pr>g&omacron;ngb&ugrave;</pr></trd>,
       <trd>&#x516C;&#x5E03; <pr>g&omacron;ngb&ugrave;</pr></trd>,
@@ -455,6 +460,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en de el fr; juĝis claude-opus-5">messenger</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
@@ -519,6 +525,10 @@
         </ekz>
       </dif>
       <trd lng="bg">&c_g;&c_l;&c_a;&c_sh;&c_a;&c_t;&c_a;&c_j;</trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: ru; juĝis claude-opus-5">bellman</trd>,
+        <trd fnt="Vikt: ru; juĝis claude-opus-5">herald</trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="anonc.0isto.TEL">
       <uzo tip="fak">TEL</uzo>
@@ -549,6 +559,7 @@
       </dif>
       <trd lng="bg">&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_je;&c_l;</trd>
     </subsnc>
+    <trd lng="en" fnt="Vikt: en ja; juĝis claude-opus-5">announcer</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,

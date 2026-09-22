@@ -192,6 +192,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">gaseous</trd>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_z;&c_a;&c_v;&c_y;</trd>
   <trdgrp lng="ca">
@@ -261,6 +262,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">aeriform</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">gaseous</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_z;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>
   <trd lng="ca">gas&oacute;s</trd>
@@ -415,6 +420,7 @@
       </adm>
       <trd lng="ca">dip&ograve;sit de gas</trd>
       <trd lng="de">Gasometer</trd>
+      <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">gasholder</trd>
       <trd lng="hu">g&aacute;ztart&aacute;ly</trd>
       <trd lng="id">gasometer</trd>
       <trd lng="nl">gashouder</trd>

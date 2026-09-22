@@ -32,6 +32,7 @@
        <trd>Zentner</trd>,
        <trd>Quintal</trd>
       </trdgrp>
+      <trd lng="en" kod="HIS" fnt="Vikt: pt; juĝis claude-opus-5">hundredweight <klr>(historical)</klr></trd>
       <trd lng="pl">kwintal</trd>
     </subsnc>
     <subsnc mrk="kvintal.0o.MEZ.kilograma">
@@ -61,6 +62,7 @@
         <trd>centnar</trd>
       </trdgrp>
     </subsnc>
+    <trd lng="en" fnt="Vikt: de pt; juĝis claude-opus-5">quintal</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_v;&c_ib;&c_n;&c_t;&c_a;&c_l;</trd>,

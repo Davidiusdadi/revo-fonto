@@ -427,6 +427,11 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de el fr ko pl pt ru zh; juĝis claude-opus-5">puppy</trd>,
+      <trd fnt="Vikt: en de pl ru; juĝis claude-opus-5">whelp</trd>,
+      <trd fnt="Vikt: fr pl ru; juĝis claude-opus-5">pup <klr>(colloquial)</klr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_sh;&c_ch;&c_a;&c_n;&c_ja;</trd>,
@@ -481,6 +486,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr ku nl pl ru zh; juĝis claude-opus-5">bitch</trd>,
+      <trd fnt="Vikt: en zh; juĝis claude-opus-5">she-dog</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">female dog</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_k;&c_a; <klr
   tip="amb">(&c_s;&c_a;&c_b;&c_a;&c_ch;&c_a;&c_ja;)</klr></trd>
@@ -791,6 +801,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en zh; juĝis claude-opus-5">guard dog</trd>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_r;&c_t;&c_a;&c_v;&c_y; <ind>&c_s;&c_a;&c_b;&c_a;&c_k;&c_a;</ind></trd>
   <trd lng="cs">hl&iacute;dac&iacute; pes</trd>

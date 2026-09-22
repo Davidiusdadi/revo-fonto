@@ -265,6 +265,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de ru zh; juĝis claude-opus-5">idealize</trd>,
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">idealise <klr>(British)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">idealitzar</trd>
@@ -353,6 +357,7 @@
   <trd lng="be">&c_ib;&c_d;&c_e;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">idealisme</trd>
   <trd lng="de">Idealismus</trd>
+  <trd lng="en" fnt="Vikt: de pt; juĝis claude-opus-5">idealism</trd>
   <trd lng="es">idealismo</trd>
   <trd lng="fr">id&eacute;alisme</trd>
   <trd lng="hu">idealizmus</trd>
@@ -407,6 +412,7 @@
       <ref cel="materi1.0isto">materialisto</ref>,
       <ref cel="real.0isto">realisto</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en de ru; juĝis claude-opus-5">idealist</trd>
   </snc>
   <snc mrk="ideal.0isto.ideisto">
     <uzo tip="stl">EVI</uzo>

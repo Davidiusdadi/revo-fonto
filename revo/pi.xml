@@ -193,6 +193,7 @@
     <refgrp tip="vid">
       <ref cel="fervor.0o">fervoro</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">piety</trd>
   </snc>
   <refgrp tip="hom">
     <ref cel="pio.0o">pio (litero)</ref>,
@@ -333,6 +334,11 @@
         <fnt><bib>Far1</bib>, <lok>&ccirc;apitro 5a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">impious</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">ungodly</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">blasphemous</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_ja;&c_z;&c_b;&c_o;&c_zh;&c_n;&c_y;</trd>,

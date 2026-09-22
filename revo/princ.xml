@@ -63,6 +63,7 @@
     <trd>&c_p;&c_r;&c_y;&c_n;&c_c;</trd>
   </trdgrp>
   <trd lng="ca">pr&iacute;ncep</trd>
+  <trd lng="en" fnt="Vikt: en de el fr ja ku pl pt ru; juĝis claude-opus-5">prince</trd>
   <trd lng="es">pr&iacute;ncipe</trd>
   <trd lng="fr">prince</trd>
   <trdgrp lng="hu">
@@ -115,6 +116,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr; juĝis claude-opus-5">crown prince</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">dauphin</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_o;&c_n;&c_p;&c_r;&c_y;&c_n;&c_c;</trd>
   <trdgrp lng="ca">
@@ -213,6 +218,7 @@
   </snc>
   <trd lng="ca">princesa</trd>
   <trd lng="de">Prinzessin</trd>
+  <trd lng="en" fnt="Vikt: en de el pl; juĝis claude-opus-5">princess</trd>
   <trd lng="es">princesa</trd>
   <trd lng="id">putri</trd>
   <trdgrp lng="ja">
@@ -289,6 +295,7 @@
 	<klr>(romano de <nom>M. Lermontov</nom>)</klr>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de pl; juĝis claude-opus-5">princess</trd>
   </snc>
   <trd lng="be">&c_k;&c_n;&c_ja;&c_z;&c_jo;&c_w;&c_n;&c_a;</trd>
   <trd lng="de">Prinzessin</trd>
@@ -394,6 +401,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en fr ko; juĝis claude-opus-5">principality</trd>
   </snc>
   <trd lng="be">&c_k;&c_n;&c_ja;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="de">F&uuml;rstentum</trd>

@@ -375,6 +375,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en ku pl; juĝis claude-opus-5">whitish</trd>
     <trd lng="zh">&#x6709;&#x4E9B;&#x82CD;&#x767D; <pr>y&#x1D2;uxi&emacron;c&amacron;ngb&aacute;i</pr></trd>
   </snc>
   <trdgrp lng="be">
@@ -559,6 +560,10 @@
     <trd lng="ca">blanc<klr tip="amb"> (persona)</klr></trd>
     <trd lng="cs">b&ecaron;logvard&ecaron;jec</trd>
     <trd lng="de">Wei&szlig;er</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">white</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">Caucasian</trd>
+    </trdgrp>
     <trd lng="es">blanco<klr tip="amb"> (persona)</klr></trd>
     <trd lng="fa">&a_s;&a_f;&f_y;&a_d;&f_p;&a_w;&a_s;&a_t;</trd>
     <trd lng="fr">blanc <klr>(homme)</klr></trd>
@@ -611,6 +616,7 @@
       </ekz>
     </dif>
   <trd lng="de">Wei&szlig;gardist</trd>
+  <trd lng="en" kod="HIS" fnt="Vikt: ru; juĝis claude-opus-5">White Russian <klr>(historical)</klr></trd>
   </snc>
 </drv>
 
@@ -657,6 +663,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">egg white</trd>
     <trdgrp lng="zh">
     <trd>&#x86CB;&#x6DF8; <pr>d&agrave;nq&imacron;ng</pr></trd>,
     <trd>&#x86CB;&#x9751; <pr>d&agrave;nq&imacron;ng</pr></trd>

@@ -190,6 +190,10 @@
     </dif>
     <ref tip="vid" cel="dung.0i">dungi</ref>
     <trd lng="de">chartern</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de; juĝis claude-opus-5">charter</trd>,
+      <trd kod="ARK" fnt="Vikt: de; juĝis claude-opus-5">affreight <klr>(dated)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_e;&c_n;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_a; &c_w;&c_m;&c_o;&c_v;&c_a;&c_h; &c_ch;&c_a;&c_r;&c_t;&c_e;&c_r;&c_u;)</klr></trd>
   <trd lng="fr">affr&eacute;ter</trd>

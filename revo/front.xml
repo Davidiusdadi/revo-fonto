@@ -453,6 +453,7 @@
       <trd>Stirnseite</trd>,
       <trd>Vorderseite</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">frontal</trd>
     <trdgrp lng="pl">
       <trd>frontalny</trd>,
       <trd>przedni</trd>
@@ -931,6 +932,7 @@
       <ref cel="flank.0al0e.KOMUNE">flankalflanke</ref>
     </refgrp>
     <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">von Angesicht zu Angesicht</trd>
+    <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">face to face</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_mol;</trd>,

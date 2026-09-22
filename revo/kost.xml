@@ -342,6 +342,7 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="prez.0o">prezo</ref>
+    <trd lng="en" fnt="Vikt: en el ja pl ru; juĝis claude-opus-5">cost</trd>
   </snc>
   <trd lng="af">koste</trd>
   <trd lng="am">&#4811;&#4875;</trd>
@@ -476,6 +477,10 @@
   <trd lng="be">&c_l;&c_ju;&c_b;&c_y;&c_m; &c_k;&c_o;&c_sh;&c_t;&c_a;&c_m;</trd>
   <trd lng="ca">a tot preu</trd>
   <trd lng="de">um jeden <ind>Preis</ind></trd>
+  <trdgrp lng="en">
+    <trd fnt="Vikt: en fr; juĝis claude-opus-5">at all costs</trd>,
+    <trd fnt="Vikt: fr; juĝis claude-opus-5">at any cost</trd>
+  </trdgrp>
   <trd lng="fr">&agrave; tout prix</trd>
   <trdgrp lng="hu">
     <trd>minden <ind>&aacute;ron</ind></trd>,

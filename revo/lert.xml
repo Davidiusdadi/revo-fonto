@@ -438,6 +438,10 @@
       <ref cel="graci.0o">gracio</ref>,
       <ref cel="takt.0o.gxentileco">takto<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">skillfulness</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">skill</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_p;&c_r;&c_y;&c_t;</trd>,
@@ -698,6 +702,11 @@
       <ref cel="plump.0a">plumpa</ref>,
       <ref cel="stumbl.0i">stumbli</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de el ko ku pt ru; juĝis claude-opus-5">clumsy</trd>,
+      <trd fnt="Vikt: en ku pt; juĝis claude-opus-5">awkward</trd>,
+      <trd fnt="Vikt: en pt; juĝis claude-opus-5">maladroit</trd>
+    </trdgrp>
     <trd lng="id">kaku</trd>
   </snc>
   <snc mrk="lert.mal0a.menso">
@@ -790,6 +799,7 @@
     <trd>ungeschickt</trd>,
     <trd>unbeholfen</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en ko; juĝis claude-opus-5">unskilled</trd>
   <trdgrp lng="es">
     <trd>lerdo</trd>,
     <trd>inh&aacute;bil</trd>,
@@ -874,6 +884,7 @@
       <ref cel="manipu.0i">manipuli</ref>,
       <ref cel="man.0umi">manumi</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">dexterous</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_u;&c_m;&c_je;&c_l;&c_y;</trd>,

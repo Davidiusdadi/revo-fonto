@@ -308,6 +308,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">adjudication</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">trial</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>adil</baz>pengadilan</trd>,
       <trd><baz>hakim</baz>penghakiman</trd>
@@ -363,6 +367,10 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="verdik.0o">verdikto</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr pl; juĝis claude-opus-5">judgment</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">judgement</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>dakwaan</trd>,
       <trd>hukuman</trd>,
@@ -494,6 +502,10 @@
       <trd fnt="Vikt: pl pt ru; juĝis claude-opus-5">gerichtlich</trd>,
       <trd fnt="Vikt: pt; juĝis claude-opus-5">richterlich</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: pl pt ru; juĝis claude-opus-5">judicial</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">judiciary</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_d;&c_o;&c_v;&c_y;</trd>
   <trd lng="es">judicial</trd>
@@ -560,6 +572,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de ko ku pl ru zh; juĝis claude-opus-5">court</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">court of justice</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">court of law</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_u;&c_d;</trd>,
@@ -762,6 +779,7 @@
       <ref cel="atribu.0i">atribui</ref>,
       <ref cel="imput.0i">imputi</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">award</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_s;&c_u;&c_d;&c_zh;&c_a;&c_t;&c_mol;</trd>
   <trdgrp lng="de">
@@ -1100,6 +1118,11 @@
       <ref cel="objekt1.0a.KOMUNE">objektiva</ref>,
       <ref cel="parti.sen0a.iu">senpartia<sncref/></ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de; juĝis claude-opus-5">impartial</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">unprejudiced</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">broad-minded</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_r;&c_a;&c_d;&c_u;&c_z;&c_ja;&c_t;&c_y;</trd>
   <trdgrp lng="de">

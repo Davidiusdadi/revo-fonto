@@ -343,6 +343,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">alms pouch</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">alms purse</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_t;&c_o;&c_r;&c_b;&c_a; &c_zh;&c_a;&c_b;&c_r;&c_a;&c_c;&c_k;&c_a;&c_ja;</trd>
   <trd lng="de">Kollektebeutel</trd>
@@ -399,6 +403,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en cs fr ru zh; juĝis claude-opus-5">sleeping bag</trd>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_s;&c_p;&c_a;&c_l;&c_je;&c_n; &c_ch;&c_u;&c_v;&c_a;&c_l;</trd>
@@ -612,6 +617,7 @@
         <fnt><bib>MT</bib>, <lok>&Gen; 21:15</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">waterskin</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_u;&c_r;&c_d;&c_z;&c_ju;&c_k;</trd>,
@@ -743,6 +749,10 @@
       </ekz>
     </dif>
     <ref tip="sub" cel="retikul.0o.TEKS">retikulo<sncref/></ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en el es; juĝis claude-opus-5">handbag</trd>,
+      <trd fnt="Vikt: en es; juĝis claude-opus-5">purse <klr>(US)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_t;&c_o;&c_r;&c_b;&c_a;&c_ch;&c_k;&c_a; &c_zh;&c_a;&c_n;&c_o;&c_ch;&c_a;&c_ja;</trd>
   <trd lng="bg">&c_d;&c_a;&c_m;&c_s;&c_k;&c_a; &c_ch;&c_a;&c_n;&c_t;&c_a;</trd>
@@ -870,6 +880,10 @@
     <trd lng="be">&c_a;&c_v;&c_o;&c_s;&c_mol;&c_k;&c_a;</trd>
     <trd lng="cs">s&iacute;&tcaron;ovka <klr>(ta&scaron;ka)</klr></trd>
     <trd lng="de">Netztasche</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">string bag</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">string-bag</trd>
+    </trdgrp>
     <trd lng="es">bolsa de redecilla</trd>
     <trd lng="fr">filet &agrave; provisions</trd>
     <trdgrp lng="it">

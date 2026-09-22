@@ -58,6 +58,7 @@
       <ref cel="odor.malbon0i">odora&ccirc;i</ref>,
       <ref cel="fetor.0i">fetori</ref>
     </refgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">stink</trd>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>fiodori</ke>, <ke>odora&#265;i</ke>, <ke>malbonodori</ke>.
@@ -106,6 +107,11 @@
       <ref cel="odor.malbon0o">odora&ccirc;o</ref>,
       <ref cel="fetor.0o">fetoro</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de pl; juĝis claude-opus-5">stench</trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">pong <klr>(colloquial)</klr></trd>,
+      <trd fnt="Vikt: pl; juĝis claude-opus-5">reek</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_m;&c_u;&c_r;&c_o;&c_d;</trd>
   <trd lng="de">Gestank</trd>

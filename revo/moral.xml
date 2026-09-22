@@ -110,6 +110,7 @@
       <trd>Sittlichkeit</trd>,
       <trd>Ethos</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: de ku pt ru; juĝis claude-opus-5">morality</trd>
     <trd lng="nl">moraal</trd>
   </snc>
   <snc mrk="moral.0o.socia">
@@ -159,6 +160,7 @@
       <trd>Verhaltenskodex</trd>,
       <trd>Leitlinie</trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: ku pt; juĝis claude-opus-5">morals</trd>
     <trd lng="nl">moraal</trd>
   </snc>
   <trdgrp lng="be">
@@ -296,6 +298,7 @@
     <trd>moralisch</trd>,
     <trd>sittenstreng</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en de pl pt; juĝis claude-opus-5">moral</trd>
   <trdgrp lng="fr">
     <trd>&eacute;thique<klr> (adj.)</klr></trd>,
     <trd>moral<klr> (adj.)</klr></trd>
@@ -375,6 +378,7 @@
       <trd>Moral <klr>(einer Fabel)</klr></trd>,
       <trd>Lehre <klr>(einer Fabel)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">moral</trd>
     <trd lng="fr">morale<klr> (de l'histoire etc.)</klr></trd>
     <trdgrp lng="nl">
       <trd>moraal</trd>,
@@ -415,6 +419,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">morality</trd>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -534,6 +539,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de ru; juĝis claude-opus-5">immoral</trd>,
+      <trd fnt="Vikt: de; juĝis claude-opus-5">unethical</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_m;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="cs">

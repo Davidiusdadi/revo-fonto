@@ -531,6 +531,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">camp</trd>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_ja;&c_c;&c_mol;
   <ind>&c_l;&c_ja;&c_g;&c_je;&c_r;&c_a;&c_m;</ind></trd>
@@ -604,6 +605,10 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="tend.0aro">tendaro</ref>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en ku; juĝis claude-opus-5">camp</trd>,
+      <trd fnt="Vikt: en; juĝis claude-opus-5">campsite</trd>
+    </trdgrp>
   </snc>
   <trd lng="af">kamp</trd>
   <trd lng="am">&#4779;&#4637;&#4949;</trd>
@@ -1176,6 +1181,11 @@
         </ekz>
       </dif>
       <trd lng="de" fnt="Vikt: en zh; juĝis claude-opus-5">Gesichtsfeld</trd>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: en zh; juĝis claude-opus-5">field of view</trd>,
+        <trd fnt="Vikt: en zh; juĝis claude-opus-5">field of vision</trd>,
+        <trd fnt="Vikt: zh; juĝis claude-opus-5">visual field</trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="kamp.vid0o.FOT">
       <uzo tip="fak">FOT</uzo>

@@ -298,6 +298,7 @@
     </trdgrp>
     <trd lng="ca">atac</trd>
     <trd lng="de">Angriff</trd>
+    <trd lng="en" fnt="Vikt: fr ku pl ru; juĝis claude-opus-5">assault</trd>
     <trdgrp lng="id">
       <trd>agresi</trd>,
       <trd><baz>gerebek</baz>penggerebekan</trd>,
@@ -380,6 +381,7 @@
     <trd>p&rcaron;epaden&iacute;</trd>,
     <trd>&uacute;tok</trd>
   </trdgrp>
+  <trd lng="en" fnt="Vikt: en de el es fr ko ku pl ru; juĝis claude-opus-5">attack</trd>
   <trd lng="fr">attaque</trd>
   <trd lng="he">&he;&tav;&qof;&pe;&he;</trd>
   <trdgrp lng="it">
@@ -432,6 +434,11 @@
       </ekz>
     </dif>
     <trd lng="ca">atacant</trd>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr ku; juĝis claude-opus-5">aggressor</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">assailant</trd>,
+      <trd fnt="Vikt: ku; juĝis claude-opus-5">assaulter</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#25915;&#20987;&#32773; <pr>g&omacron;ngj&imacron;zh&ecaron;</pr></trd>,
     <trd>&#25915;&#25802;&#32773; <pr>g&omacron;ngj&imacron;zh&ecaron;</pr></trd>,
@@ -464,6 +471,7 @@
     <trd>&c_n;&c_a;&c_p;&c_a;&c_d;&c_a;&c_ju;&c_ch;&c_y;</trd>
   </trdgrp>
   <trd lng="de">Angreifer</trd>
+  <trd lng="en" fnt="Vikt: ku; juĝis claude-opus-5">attacker</trd>
   <trd lng="fr">attaquant</trd>
   <trd lng="he">&tav;&vav;&#1465;&qof;&#1461;&fpe;</trd>
   <trdgrp lng="id">
@@ -650,6 +658,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de ru; juĝis claude-opus-5">counter-attack</trd>
     <trdgrp lng="zh">
     <trd>&#22238;&#20987; <pr>hu&iacute;j&imacron;</pr></trd>,
     <trd>&#22238;&#25802; <pr>hu&iacute;j&imacron;</pr></trd>,

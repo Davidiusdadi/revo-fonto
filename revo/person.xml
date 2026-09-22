@@ -752,6 +752,10 @@
           <trd lng="pl">wolontariat</trd>
         </ekz>
       </dif>
+      <trdgrp lng="en">
+        <trd fnt="Vikt: pl ru; juĝis claude-opus-5">personnel</trd>,
+        <trd fnt="Vikt: pl ru; juĝis claude-opus-5">staff</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>personnel<klr tip="ind"> (ensemble des employ&eacute;s)</klr></trd>,
         <trd>effectif<klr tip="ind"> (ensemble des employ&eacute;s)</klr></trd>
@@ -770,6 +774,7 @@
           <fnt><bib>Fab4</bib>, <lok>Pupludisto</lok></fnt>.
         </ekz>
       </dif>
+      <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">cast</trd>
       <trdgrp lng="fr">
         <trd>casting</trd>,
         <trd>distribution<klr tip="ind"> (ensembles des interpr&egrave;tes)</klr></trd>
@@ -955,6 +960,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: fr pt; juĝis claude-opus-5">personify</trd>
   </snc>
   <trd lng="de">personifizieren</trd>
 <trd lng="id"><baz>personalisasi</baz>memersonalisasi</trd>
@@ -1161,6 +1167,7 @@
   <trd lng="be">&c_f;&c_ib;&c_z;&c_y;&c_ch;&c_n;&c_a;&c_ja; &c_a;&c_s;&c_o;&c_b;&c_a;</trd>
   <trd lng="cs">fyzick&aacute; osoba</trd>
   <trd lng="de" fnt="Vikt: fr ru; juĝis claude-opus-5">nat&uuml;rliche Person</trd>
+  <trd lng="en" fnt="Vikt: fr ru; juĝis claude-opus-5">natural person</trd>
   <trd lng="id">natuurlijk persoon</trd>
   <trd lng="ja">&#x500B;&#x4EBA;  <pr>&#x3053;&#x3058;&#x3093;</pr></trd>
   <trd lng="pl">osoba fizyczna</trd>

@@ -37,6 +37,11 @@
       <trd kod="ARK" fnt="Vikt: fr ru; juĝis claude-opus-5">Diligence <klr>(veraltet)</klr></trd>,
       <trd kod="HIS" fnt="Vikt: fr ru; juĝis claude-opus-5">Postkutsche <klr>(hist.)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd kod="HIS" fnt="Vikt: fr ru; juĝis claude-opus-5">stage-coach <klr>(historical)</klr></trd>,
+      <trd kod="HIS" fnt="Vikt: ru; juĝis claude-opus-5">mailcoach <klr>(historical)</klr></trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">stagecoach</trd>
+    </trdgrp>
     <trd lng="fr">diligence<klr> (v&eacute;hicule)</klr></trd>
     <trd lng="pl">dyli&zdot;ans</trd>
   </snc>

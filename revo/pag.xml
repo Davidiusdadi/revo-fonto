@@ -506,6 +506,10 @@
       <trd>Kasse</trd>,
       <trd>Schalter <klr>(Kasse)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">cash desk</trd>,
+      <trd fnt="Vikt: fr; juĝis claude-opus-5">checkout</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_k;&c_a;&c_s;&c_a; <klr>(&c_g;&c_r;&c_a;&c_sh;&c_o;&c_v;&c_a;&c_ja;)</klr></trd>,
@@ -571,6 +575,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">payable</trd>
   </snc>
   <trd lng="be">&c_d;&c_a; <ind>&c_a;&c_p;&c_l;&c_a;&c_t;&c_y;</ind></trd>
   <trd lng="de">zu <ind>bezahlen</ind></trd>
@@ -673,6 +678,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">surcharge</trd>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_p;&c_l;&c_a;&c_t;&c_a;</trd>
   <trdgrp lng="de">
@@ -821,6 +827,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">tax</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -1139,6 +1146,11 @@
       <trd>zur&uuml;ckzahlen</trd>,
       <trd>tilgen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: en de fr; juĝis claude-opus-5">reimburse</trd>,
+      <trd fnt="Vikt: en fr; juĝis claude-opus-5">refund</trd>,
+      <trd fnt="Vikt: fr ko; juĝis claude-opus-5">repay</trd>
+    </trdgrp>
     <trd lng="es">pagar&eacute;</trd>
     <trd lng="fr">rembourser</trd>
     <trdgrp lng="hu">
@@ -1182,6 +1194,7 @@
         </ekz>
       </dif>
       <trd lng="de">heimzahlen</trd>
+      <trd lng="en" fnt="Vikt: en de; juĝis claude-opus-5">pay back</trd>
       <trd lng="hu">megfizet <klr>vmi&eacute;rt</klr></trd>
       <trd lng="nl">betaald zetten</trd>
       <trd lng="ru">&c_o;&c_t;&c_p;&c_l;&c_a;&c_t;&c_i;&c_t;&c_mol;</trd>
@@ -1289,6 +1302,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="Vikt: de fr ku ru; juĝis claude-opus-5">free</trd>,
+      <trd fnt="Vikt: en ku pl; juĝis claude-opus-5">free of charge</trd>,
+      <trd fnt="Vikt: ru; juĝis claude-opus-5">complimentary</trd>
+    </trdgrp>
   </snc>
   <trd lng="af">gratis</trd>
   <trd lng="am">&#x134D;&#x122D;&#x12ED;</trd>
@@ -1427,6 +1445,7 @@
     <refgrp tip="sin">
       <ref cel="pag.re0i.ricevi_kompensan_malbonon">re<tld/>i<sncref/></ref>
     </refgrp>
+    <trd lng="en" kod="ARK" fnt="Vikt: fr; juĝis claude-opus-5">expiate <klr>(dated)</klr></trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_s;&c_p;&c_l;&c_a;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   <trd lng="cs">platit pokutu</trd>
