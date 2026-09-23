@@ -557,6 +557,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_d;&c_n;&c_je;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tagen <klr>(gehoben)</klr></trd>
   </snc>
   <trdgrp lng="de">
     <trd><ind>heller</ind> werden</trd>,
@@ -676,6 +677,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dumpf</trd>
     <trd lng="en">muted</trd>
   </snc>
   <snc mrk="hel.mal0a.FIG">
@@ -705,6 +707,10 @@
         <fnt><lok>Le Monde diplomatique en Esperanto 2017-2019</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">d&uuml;ster</trd>,
+      <trd fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">finster</trd>
+    </trdgrp>
     <trd lng="en">gloomy</trd>
     <trd lng="id">suram</trd>
     <trd lng="ru">&c_m;&c_r;&c_a;&c_ch;&c_n;&c_y;&c_j;</trd>

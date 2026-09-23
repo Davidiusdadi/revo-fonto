@@ -156,6 +156,11 @@
       <trd>tresor</trd>,
       <trd>joia</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ca pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Juwel</trd>,
+      <trd fnt="AI: nl hu ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Perle</trd>,
+      <trd fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kleinod</trd>
+    </trdgrp>
     <trd lng="nl">parel<klr tip="ind"> (fig.)</klr></trd>
     <trd lng="pt">j&oacute;ia<klr tip="amb"> (f)</klr></trd>
     <trd lng="hu">gy&ouml;ngy<klr tip="ind"> (&aacute;tv.)</klr></trd>

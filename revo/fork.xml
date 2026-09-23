@@ -198,6 +198,10 @@
       <trd>&c_r;&c_a;&c_z;&c_g;&c_a;&c_l;&c_ib;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_r;&c_o;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: es hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gabelung</trd>,
+      <trd fnt="AI: ru be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verzweigung</trd>
+    </trdgrp>
     <trd lng="es">bifurcaci&oacute;n</trd>
     <trd lng="fa">&a_A;&a_n;&a_sh;&a_ayn;&a_A;&a_b;</trd>
     <trd lng="hu">el&aacute;gaz&aacute;s</trd>

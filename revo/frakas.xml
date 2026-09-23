@@ -152,6 +152,10 @@
         <trd>arrasar</trd>,
         <trd>devastar</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: es ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zunichtemachen</trd>,
+        <trd fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zerschlagen</trd>
+      </trdgrp>
       <trdgrp lng="es">
         <trd>destruir</trd>,
         <trd>arruinar</trd>
@@ -192,6 +196,10 @@
       <trdgrp lng="ca">
         <trd>v&eacute;ncer</trd>,
         <trd>derrotar</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: ru bg be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zerschlagen</trd>,
+        <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufreiben</trd>
       </trdgrp>
       <trdgrp lng="es">
         <trd>destruir</trd>,
@@ -246,6 +254,7 @@
         <trd>adolorir</trd>,
         <trd>apesarar</trd>
       </trdgrp>
+      <trd lng="de" fnt="AI: bg ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">niederschmettern</trd>
       <trd lng="es">afligir</trd>
       <trd lng="id"><baz>timpa</baz>menimpa (ttg musibah)</trd>
       <trd lng="ru">&c_s;&c_o;&c_k;&c_r;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>
@@ -288,6 +297,10 @@
         <trd>trepitjar</trd>,
         <trd>esclafar</trd>,
         <trd>conculcar</trd>
+      </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: ru es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zerpfl&uuml;cken</trd>,
+        <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entkr&auml;ften</trd>
       </trdgrp>
       <trd lng="es">aplastar</trd>
       <trd lng="id"><baz>patah</baz>mematahkan (pendapat)</trd>
