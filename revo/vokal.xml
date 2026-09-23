@@ -189,6 +189,7 @@
   <trd lng="be">&c_p;&c_a;&c_w;&c_g;&c_a;&c_l;&c_o;&c_s;&c_n;&c_y;<klr> &c_g;&c_u;&c_k;</klr>
   </trd>
   <trd lng="br">hantervogalenn</trd>
+  <trd lng="de" fnt="AI: en fr es nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Halbvokal</trd>
   <trd lng="el">&eta;&my;&jota;&phi;&omega;&ny;&jota_ton;&epsilon;&ny;</trd>
   <trd lng="en">semivowel</trd>
   <trd lng="es">semivocal</trd>
@@ -222,6 +223,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_s;&c_t;&c_a;&c_w;&c_n;&c_y; <ind>&c_g;&c_u;&c_k;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bindevokal</trd>,
+    <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sprossvokal</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>voyelle &eacute;penth&eacute;tique</trd>,
     <trd>voyelle euphonique</trd>

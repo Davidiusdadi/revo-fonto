@@ -1040,6 +1040,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wahr machen</trd>
     <trdgrp lng="en">
       <trd>make true<klr> (tr)</klr></trd>
     </trdgrp>
@@ -1188,6 +1189,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_a;&c_m;&c_r;&c_e;&c_ch;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en id zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Wahrheit</trd>,
+    <trd fnt="AI: en fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">eigentlich</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>in fact</trd>,
     <trd>in truth</trd>

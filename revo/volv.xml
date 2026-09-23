@@ -557,6 +557,10 @@
       <trd>&c_r;&c_a;&c_z;&c_g;&c_o;&c_r;&c_t;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_r;&c_a;&c_s;&c_k;&c_r;&c_u;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich entfalten</trd>,
+    <trd fnt="AI: en be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich entrollen</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>mekar</trd>,
     <trd><baz>mekar</baz>memekar</trd>,
@@ -1184,6 +1188,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu ru pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">H&uuml;lle</trd>,
+      <trd fnt="AI: hu ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Umh&uuml;llung</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>g&ouml;ngy&ouml;leg</trd>,
       <trd>burkolat</trd>
@@ -1296,6 +1304,10 @@
     <trd>zabalit</trd>,
     <trd>zavinout</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk hu ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenrollen</trd>,
+    <trd fnt="AI: nl cs en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenwickeln</trd>
+  </trdgrp>
   <trd lng="en"><ind>wrap</ind> with</trd>
   <trd lng="hu">&ouml;sszeg&ouml;ngy&ouml;l</trd>
   <trdgrp lng="ja">
@@ -1384,6 +1396,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entfalten</trd>,
+    <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entwickeln</trd>
+  </trdgrp>
   <trd lng="id"><baz>urai</baz>menguraikan</trd>
   </snc>
   <trdgrp lng="cs">
@@ -1460,6 +1476,7 @@
     <trd>&c_s;&c_k;&c_r;&c_u;&c_ch;&c_v;&c_a;&c_c;&c_mol; &c_z;&c_n;&c_o;&c_w;</trd>,
     <trd>&c_z;&c_g;&c_o;&c_r;&c_t;&c_v;&c_a;&c_c;&c_mol; &c_z;&c_n;&c_o;&c_w;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en be id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wieder aufwickeln</trd>
   <trd lng="en">rewind</trd>
 <trd lng="id"><baz>gulung</baz>menggulung kembali</trd>
 </drv>

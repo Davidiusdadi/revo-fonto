@@ -41,6 +41,7 @@
     <trd>zhodnocovat</trd>,
     <trd>zvy&scaron;ovat hodnotu</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zuweisen</trd>
   <trd lng="en">assign<klr> (a value to a variable)</klr></trd>
   <trdgrp lng="fr">
     <trd>affecter</trd>,

@@ -99,6 +99,7 @@
   </snc>
   <trd lng="be">&c_u;&c_r;&c_a;&c_l;&c_mol;&c_s;&c_k;&c_ib;</trd>
   <trd lng="ca">urali&agrave;<klr> (adj.)</klr></trd>
+  <trd lng="de" fnt="AI: fr fi ca ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">uralisch</trd>
   <trdgrp lng="fi">
      <trd>Uralin</trd>,
      <trd>uralilainen <klr tip="amb"> (adj.)</klr></trd>
@@ -149,6 +150,7 @@
   </snc>
   <trd lng="be">&c_u;&c_r;&c_a;&c_l;&c_mol;&c_s;&c_k;&c_a;&c_ja; &c_m;&c_o;&c_v;&c_a;</trd>
   <trd lng="ca">llengua <ind>ural</ind>iana</trd>
+  <trd lng="de" fnt="AI: fr fi hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">uralische Sprache</trd>
   <trd lng="fi">uralilainen kieli</trd>
   <trd lng="fr">langue ouralienne</trd>
   <trd lng="hu">ur&aacute;li nyelv</trd>
@@ -173,6 +175,10 @@
   </snc>
   <trd lng="be">&c_u;&c_r;&c_a;&c_l;&c_a;-&c_a;&c_l;&c_t;&c_a;&c_j;&c_s;&c_k;&c_a;&c_ja; &c_m;&c_a;&c_k;&c_r;&c_a;&c_s;&c_ja;&c_m;&#x2019;&c_ja;</trd>
   <trd lng="ca">lleng&uuml;es uraloaltaiques</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">ural-altaische Sprachfamilie</trd>,
+    <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">ural-altaische Sprachen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd><ind>Ural-Altaic</ind> group</trd>,
     <trd><ind>Turanian</ind> language group</trd>

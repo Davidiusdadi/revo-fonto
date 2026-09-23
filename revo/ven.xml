@@ -335,6 +335,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="kon.ek0i.BIB">ekkoni<sncref/></ref>
+    <trd lng="de" kod="ARK" fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beiwohnen <klr>(veraltet)</klr></trd>
     <trd lng="hu">egy&uuml;tt van <klr tip="ind">(szexu&aacute;lisan)</klr></trd>
     <trdgrp lng="id">
       <trd><baz>datang</baz>mendatangi (utk berhubungan)</trd>,
@@ -582,6 +583,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_a;&c_d;&c_p;&c_r;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bringen</trd>
     <trd lng="id"><baz>kirim</baz>mengirim</trd>
   </snc>
   <trd lng="ca">fer <ind>venir</ind></trd>
@@ -1297,6 +1299,7 @@
   <trd>&c_p;&c_r;&c_y;&c_jo;&c_m; <klr>(&c_c;&c_jo;&c_p;&c_l;&c_y;)</klr></trd>
 </trdgrp>
 <trd lng="ca">benvinguda</trd>
+  <trd lng="de" fnt="AI: ca pt dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Willkommen</trd>
   <trd lng="id">sambutan baik</trd>
   <trd lng="ja">&#x6B53;&#x8FCE;  <pr>&#x304B;&#12435;&#12370;&#12356;</pr></trd>
   <trd lng="pt">boas vindas</trd>
@@ -1523,6 +1526,10 @@
       &leftquot;<ref cel="el.0igi.s_tan_spiriton" tip="vid">eligi</ref>&rightquot;.
       <aut>Sergio Pokrovskij</aut>
     </rim>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausgehen</trd>,
+      <trd fnt="AI: hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hervorgehen</trd>
+    </trdgrp>
     <trd lng="grc">&epsilon_psili;&kappa;&pi;&omikron;&rho;&epsilon;&ypsilon_acute;&omikron;&my;&alfa;&jota;</trd>
     <trd lng="hu">sz&aacute;rmazik</trd>
     <trd lng="ru">&c_i;&c_s;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol; <klr>(&c_o; &c_S;&c_v;.
@@ -1866,6 +1873,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" kod="ARK" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beiwohnen <klr>(veraltet)</klr></trd>
     <trdgrp lng="id">
       <trd><baz>datang</baz>mendatangi (utk berhubungan)</trd>,
       <trd><baz>hampir</baz>menghampiri (utk berhubungan)</trd>
@@ -2516,6 +2524,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: es fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unfreundlich empfangen</trd>
     <trdgrp lng="th">
       <trd>&#xE44;&#xE21;&#xE48;&#xE15;&#xE49;&#xE2D;&#xE19;&#xE23;&#xE31;&#xE1A;</trd>,
       <trd>&#xE44;&#xE21;&#xE48;&#xE22;&#xE34;&#xE19;&#xE14;&#xE35;&#xE15;&#xE49;&#xE2D;&#xE19;&#xE23;&#xE31;&#xE1A;</trd>

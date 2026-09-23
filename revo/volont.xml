@@ -285,6 +285,10 @@
     <trd>b&yacute;t ochotn&yacute;</trd>,
     <trd>r&aacute;&ccaron;it</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ca cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bereit sein</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gewillt sein</trd>
+  </trdgrp>
   <trd lng="en">be willing</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre tout <ind>dispos&eacute;</ind> &agrave;</trd>
@@ -321,6 +325,7 @@
     </ind><klr>(quelcom)</klr></trd>,
     <trd>fer decidir-se<klr> (alg&uacute;)</klr></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: sk fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">geneigt machen</trd>
   <trdgrp lng="fr">
     <trd>disposer<klr> (quelqu'un &agrave; quelque chose)</klr></trd>
   </trdgrp>
@@ -387,6 +392,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_o;&c_b;&c_r;&c_a;&c_a;&c_h;&c_v;&c_o;&c_t;&c_n;&c_a; &c_p;&c_r;&c_a;&c_c;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de" fnt="AI: fr pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ehrenamtlich arbeiten</trd>
   <trd lng="fr">travailler comme <ind>b&eacute;n&eacute;vole</ind></trd>
   <trdgrp lng="id">
     <trd><baz>jadi</baz>menjadi sukarelawan</trd>,

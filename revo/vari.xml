@@ -597,6 +597,10 @@
     <trd>zm&ecaron;nit</trd>,
     <trd>zpest&rcaron;it</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">variieren</trd>,
+    <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abwandeln</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>cause to <ind>vary</ind></trd>,
     <trd>vary</trd>

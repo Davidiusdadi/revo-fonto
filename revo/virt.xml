@@ -318,6 +318,7 @@
   <trd>&c_sh;&c_l;&c_ja;&c_h;&c_je;&c_t;&c_n;&c_y; &c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_k;</trd>,
   <trd>&c_p;&c_r;&c_a;&c_w;&c_d;&c_n;&c_ib;&c_k;</trd>
 </trdgrp>
+<trd lng="de" fnt="AI: dif ja be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tugendhafter</trd>
 <trd lng="fr">homme de bien</trd>
   <trdgrp lng="id">
     <trd>gunawan</trd>,
@@ -582,6 +583,10 @@
     <ref cel="fi.0ulo">fiulo</ref>
   </refgrp>
   <trd lng="be">&c_n;&c_ja;&c_g;&c_o;&c_d;&c_n;&c_ib;&c_k;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr zh id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&ouml;sewicht</trd>,
+    <trd fnt="AI: fr be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schurke</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>pervers<klr> (subst.)</klr></trd>,
     <trd>sc&eacute;l&eacute;rat</trd>

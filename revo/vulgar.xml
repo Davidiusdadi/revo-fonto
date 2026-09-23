@@ -297,6 +297,7 @@
     <trd>spros&tcaron;&aacute;ctv&iacute;</trd>,
     <trd>vulgarita</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl ru cs fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vulgarit&auml;t</trd>
   <trdgrp lng="fr">
     <trd>trivialit&eacute;</trd>,
     <trd>vulgarit&eacute;</trd>
@@ -349,6 +350,7 @@
       <trd>&c_v;&c_u;&c_l;&c_mol;&c_g;&c_a;&c_r;&c_y;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_a;&c_p;&c_a;&c_sh;&c_l;&c_ja;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: be ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vulgarisieren</trd>
     <trdgrp lng="en">
       <trd fnt="Vikt: fr it; juĝis claude-opus-5">vulgarize</trd>,
       <trd fnt="Vikt: it; juĝis claude-opus-5">coarsen</trd>
@@ -413,6 +415,7 @@
       <trd>&c_p;&c_l;&c_ju;&c_g;&c_a;&c_v;&c_je;&c_c;</trd>,
       <trd>&c_p;&c_a;&c_sh;&c_l;&c_ja;&c_k;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Prolet <klr>[pej.]</klr></trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_sh;&c_l;&c_ja;&c_k;</trd>,
       <trd>&c_m;&c_je;&c_shch;&c_a;&c_n;&c_i;&c_n;</trd>
@@ -431,6 +434,7 @@
       <trd>&c_p;&c_r;&c_a;&c_s;&c_t;&c_a;&c_k;</trd>,
       <trd>&c_p;&c_r;&c_a;&c_s;&c_t;&c_a;&c_l;&c_ju;&c_d;&c_z;&c_ib;&c_n;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Plebejer</trd>
     <trdgrp lng="ru">
       <trd>&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k; &c_i;&c_z; &c_n;&c_a;&c_r;&c_o;&c_d;&c_a;</trd>,
       <trd>&c_p;&c_r;&c_o;&c_s;&c_t;&c_o;&c_l;&c_ju;&c_d;&c_i;&c_n;</trd>
@@ -456,6 +460,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">distinguiert <klr>(gehoben)</klr></trd>,
+    <trd fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vornehm</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>distingu&eacute;<klr> (recherch&eacute;)</klr></trd>,
     <trd>recherch&eacute;<klr> (distingu&eacute;)</klr></trd>
@@ -496,6 +504,7 @@
     <trd>&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_d;&c_a;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_t;&c_v;&c_a;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vornehmheit</trd>
   <trd lng="fr">distinction<klr> (&eacute;l&eacute;gance)</klr></trd>
   <trdgrp lng="pl">
     <trd>wyr&oacute;&zdot;nienie</trd>,

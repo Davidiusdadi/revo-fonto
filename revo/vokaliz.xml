@@ -19,6 +19,7 @@
           &leftquot;Vokal/izi&rightquot; estas regula deriva&jcirc;o per la neoficiala te&hcirc;nika
           sufikso <ref cel="iz.0">-iz-</ref>.
         </rim>
+        <trd lng="de" fnt="AI: en nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vokalisieren</trd>
         <trd lng="en">vocalize<klr> (a vowelless text)</klr></trd>
         <trd lng="nl">vocaliseren</trd>
         <trd lng="pl">wokalizowa&cacute;</trd>
@@ -41,6 +42,10 @@
             la Tiberiada <tld/>o.
           </ekz>
         </dif>
+        <trdgrp lng="de">
+          <trd fnt="AI: en nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vokalisation</trd>,
+          <trd fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vokalisierung</trd>
+        </trdgrp>
         <trdgrp lng="en">
           <trd>niqqud</trd>,
           <trd>pointing</trd>,

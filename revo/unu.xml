@@ -96,6 +96,7 @@
      </ekz>
    </dif>
    <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n;&c_y;</trd>
+   <trd lng="de" fnt="AI: es ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einzig</trd>
    <trdgrp lng="es">
       <trd>solo</trd>,
       <trd>&uacute;nico</trd>
@@ -189,6 +190,7 @@
       estante kutime difekta ununombre.
       <aut>Sergio Pokrovskij</aut>
     </rim>
+    <trd lng="de" fnt="AI: ref es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einer</trd>
     <trd lng="es">unos</trd>
     <trdgrp lng="fi">
       <trd>yksi</trd>,
@@ -256,6 +258,7 @@
       <trd>un</trd>,
       <trd>ur</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: fr es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein gewisser</trd>
     <trd lng="es">un determinado</trd>
     <trd lng="fi">er&auml;s</trd>
     <trd lng="fr">un certain</trd>
@@ -756,6 +759,7 @@
       <ref cel="gut.0o">guto</ref>,
       <ref cel="prezen1.numa0o">n-uma prezento</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einer</trd>
     <trdgrp lng="fi">
       <trd>ykk&ouml;nen</trd>,
       <trd>yksikk&ouml;</trd>
@@ -1722,6 +1726,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_ch;&c_a;&c_t;&c_k;&c_ib;</trd>
   <trd lng="ca">prim&iacute;cies</trd>
+  <trd lng="de" fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erstling</trd>
   <trd lng="en">first fruits</trd>
   <trd lng="es">primicias</trd>
   <trd lng="fr">pr&eacute;mices</trd>
@@ -2184,6 +2189,10 @@ lng="th">&#xE2B;&#xE19;&#xE48;&#xE27;&#xE22;&#xE40;&#xE07;&#xE34;&#xE19;&#xE15;&
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein oder zwei</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein paar</trd>
+  </trdgrp>
   <trd lng="en">one or two</trd>
 </drv>
 

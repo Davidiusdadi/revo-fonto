@@ -338,6 +338,10 @@
     <trd>&c_d;&c_r;&c_a;&c_b;&c_ja;&c_z;&c_a;</trd>,
     <trd>&c_n;&c_je;&c_sh;&c_t;&c_a; &c_n;&c_ib;&c_k;&c_ch;&c_e;&c_m;&c_n;&c_a;&c_je;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr uk es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nichtigkeit</trd>,
+    <trd fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Belanglosigkeit</trd>
+  </trdgrp>
   <trd lng="es">vanidad (algo vano)</trd>
   <trdgrp lng="fr">
     <trd>broutille</trd>,

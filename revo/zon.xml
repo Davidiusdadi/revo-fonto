@@ -416,6 +416,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">umg&uuml;rten <klr>(gehoben)</klr></trd>,
+      <trd fnt="AI: hu id fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umgeben</trd>
+    </trdgrp>
     <trd lng="hu">&ouml;vez</trd>
   <trdgrp lng="id">
     <trd><baz>lingkup</baz>melingkupi</trd>,
@@ -658,6 +662,10 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_v;&c_ja;&c_z;&c_k;&c_a; &c_n;&c_a; &c_g;&c_a;&c_l;&c_a;&c_v;&c_je;</trd>,
     <trd>&c_s;&c_t;&c_u;&c_zh;&c_k;&c_a; &c_n;&c_a; &c_g;&c_a;&c_l;&c_a;&c_v;&c_je;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Stirnband</trd>,
+    <trd fnt="AI: pl zh dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Haarband</trd>
   </trdgrp>
   <trd lng="en">headband</trd>
   <trd lng="fr">serre-t&ecirc;te</trd>

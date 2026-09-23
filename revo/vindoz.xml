@@ -85,6 +85,10 @@
       </snc>
       <trd lng="be">&c_k;&c_a;&c_r;&c_y;&c_s;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k; Windows</trd>
       <trd lng="ca">usuari de <ind>Windows</ind></trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: en nl hu es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Windows-Benutzer</trd>,
+        <trd fnt="AI: en nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Windows-Nutzer</trd>
+      </trdgrp>
       <trd lng="en">Windows user</trd>
       <trdgrp lng="fr">
       <trd>Windowsien</trd>,

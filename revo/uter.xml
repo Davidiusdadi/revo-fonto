@@ -120,6 +120,7 @@
     <trd>&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_ib;&c_ch;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">uter&iacute;</trd>
+  <trd lng="de" kod="FAK" fnt="AI: en fr es it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">uterin <klr>(fachspr.)</klr></trd>
   <trd lng="el">&my;&eta;&tau;&rho;&jota;&kappa;&omikron_ton;&sigma_fina;</trd>
   <trd lng="en">uterine</trd>
   <trd lng="es">uterino</trd>
@@ -186,6 +187,10 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">extrakorporal</trd>,
+        <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in vitro</trd>
+      </trdgrp>
       <trd lng="fr">in vitro</trd>
     </subsnc>
   </snc>

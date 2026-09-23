@@ -234,6 +234,10 @@
   <trd lng="be">&c_b;&c_je;&c_s;&c_p;&c_a;&c_z;&c_v;&c_a;&c_n;&c_o;&c_ch;&c_n;&c_y;&c_ja;</trd>
   <trd lng="ca">invertebrats</trd>
   <trd lng="cs">bezobratl&iacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wirbellose</trd>,
+    <trd fnt="AI: nl ja ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wirbellose Tiere</trd>
+  </trdgrp>
   <trd lng="en">invertebrates</trd>
   <trd lng="fr">invert&eacute;br&eacute;s</trd>
   <trd lng="hu">gerinctelenek</trd>

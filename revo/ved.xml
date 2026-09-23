@@ -27,6 +27,7 @@
   <trd lng="be">&c_V;&c_je;&c_d;&c_a; <klr>(&c_u;
   &c_ib;&c_n;&c_d;&c_u;&c_ib;&c_z;&c_m;&c_je;)</klr></trd>
   <trd lng="ca">Veda</trd>
+  <trd lng="de" fnt="AI: en it nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Veda</trd>
   <trd lng="en">Veda</trd>
   <trd lng="fr">v&eacute;da</trd>
   <trd lng="hu">v&eacute;da</trd>
@@ -62,6 +63,10 @@
     &c_r;&c_e;&c_l;&c_ib;&c_g;&c_ib;&c_ja;</trd>
   </trdgrp>
   <trd lng="ca">vedisme</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr it nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vedismus</trd>,
+    <trd fnt="AI: pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vedische Religion</trd>
+  </trdgrp>
   <trd lng="en">Vedism</trd>
   <trd lng="fr">v&eacute;disme</trd>
   <trd lng="hu">v&eacute;dantizmus</trd>

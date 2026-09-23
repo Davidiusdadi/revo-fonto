@@ -414,6 +414,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtwerk</trd>,
+      <trd fnt="AI: dif fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&OElig;uvre <klr>(gehoben)</klr></trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd fnt="Vikt: en; juĝis claude-opus-5">oeuvre</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">body of work</trd>
@@ -499,6 +503,10 @@
   <trdgrp lng="be">
     <trd>&c_m;&c_a;&c_j;&c_s;&c_t;&c_e;&c_r;&c_n;&c_ja; <klr>(&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_ja;)</klr></trd>,
     <trd>&c_k;&c_a;&c_b;&c_ib;&c_n;&c_e;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Arbeitszimmer</trd>,
+    <trd fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Atelier</trd>
   </trdgrp>
   <trd lng="fr">atelier</trd>
   <trd lng="id">bengkel</trd>

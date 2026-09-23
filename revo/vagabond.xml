@@ -105,6 +105,10 @@
     <trd>vagabundovat</trd>,
     <trd>&zcaron;&iacute;t vandr&aacute;ck&yacute;m &zcaron;ivotem</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vagabundieren</trd>,
+    <trd fnt="AI: ref pl sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umherziehen</trd>
+  </trdgrp>
   <trd lng="fr">vagabonder</trd>
   <trd lng="pl">w&lstroke;&oacute;czy&cacute; si&eogonek;</trd>
   <trd lng="sk">potulova&tcaron; sa</trd>
