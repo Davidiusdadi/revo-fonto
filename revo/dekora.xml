@@ -157,6 +157,10 @@
     <ref tip="dif" cel="orden.0o.insigno">ordeno</ref>
     <trd lng="be">&c_o;&c_r;&c_d;&c_e;&c_n;</trd>
     <trd lng="ca">condecoraci&oacute;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr hu ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Auszeichnung</trd>,
+      <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Orden</trd>
+    </trdgrp>
     <trd lng="en">decoration</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;coration<klr tip="ind"> (insigne)</klr></trd>,

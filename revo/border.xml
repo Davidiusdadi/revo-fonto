@@ -27,6 +27,10 @@
         <ref cel="pasame.0i">pasamenti</ref>
       </refgrp>
       <ref tip="super" cel="ornam.0i.iu">ornami</ref>
+      <trdgrp lng="de">
+        <trd fnt="AI: es pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bordieren</trd>,
+        <trd fnt="AI: pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einfassen</trd>
+      </trdgrp>
       <trd lng="es">ribetear</trd>
       <trdgrp lng="pl">
         <trd>obr&eogonek;bia&cacute;</trd>,
@@ -49,6 +53,7 @@
           <fnt><bib>PIV1</bib></fnt>.
         </ekz>
       </dif>
+      <trd lng="de" fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einfassen</trd>
       <trdgrp lng="pl">
         <trd>obramowywa&cacute;</trd>,
         <trd>bramowa&cacute;</trd>,

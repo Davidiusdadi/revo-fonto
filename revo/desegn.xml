@@ -98,6 +98,7 @@
         <ref cel="projek1.0i">projekti</ref>
       </refgrp>
       <trd lng="ca">dissenyar</trd>
+      <trd lng="de" fnt="AI: en ca hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entwerfen</trd>
       <trdgrp lng="en">
         <trd>draft <klr>(draw)</klr></trd>,
         <trd>design <klr>(draw)</klr></trd>
@@ -175,6 +176,10 @@
       <trd>&c_a;&c_b;&c_m;&c_a;&c_l;&c_jo;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
     <trd lng="ca">descriure</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ca hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schildern</trd>,
+      <trd fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">skizzieren</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>sketch</trd>,
       <trd>delineate</trd>

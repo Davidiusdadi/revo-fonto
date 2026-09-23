@@ -100,6 +100,10 @@
       <trd>&c_z;&c_a;&c_r;&c_o;&c_d;&c_a;&c_k;</trd>,
       <trd>&c_p;&c_a;&c_ch;&c_a;&c_t;&c_a;&c_k;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl hu be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Keim</trd>,
+      <trd fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ansatz</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>cs&iacute;ra</trd>,
       <trd>mag<klr tip="ind"> (kezdem&eacute;ny)</klr></trd>

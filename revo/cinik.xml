@@ -157,6 +157,7 @@
   <snc mrk="cinik.0o.eco">
     <ref tip="dif" cel="cinik.0eco"><tld/>eco</ref>
   <trd lng="be">&c_c;&c_y;&c_n;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zynismus</trd>
   </snc>
   <snc mrk="cinik.0o.ulo">
     <uzo tip="stl">EVI</uzo>
@@ -224,6 +225,7 @@
     </dif>
     <trd lng="be">&c_c;&c_y;&c_n;&c_ib;&c_z;&c_m; <klr>(&c_f;&c_ib;&c_l;&c_ja;&c_z;.)</klr></trd>
     <trd lng="bg">&c_k;&c_i;&c_n;&c_i;&c_z;&c_m;</trd>
+    <trd lng="de" fnt="AI: ru bg dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Kynismus</trd>
     <trd lng="hu">cinizmus</trd>
     <trd lng="ru">&c_k;&c_i;&c_n;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_a;&c_ja;
     &c_sh;&c_k;&c_o;&c_l;&c_a;</trd>

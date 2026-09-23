@@ -710,6 +710,7 @@
         <fnt><bib>Plumamikoj</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sicher sein</trd>
     <trd lng="en">be <ind>certain</ind> <klr>(sure in one's mind)</klr></trd>
     <trd lng="ru">&c_b;&c_y;&c_t;&c_mol; <ind>&c_u;&c_v;&c_je;&c_r;&c_je;&c_n;&c_n;&c_y;&c_m;</ind></trd>
   </snc>
@@ -893,6 +894,10 @@
      </dif>
      <trd lng="be">&c_z;&c_a;&c_m;&c_a;&c_c;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_a;&c_z;&c_y;&c_c;&c_y;&c_ju;)</klr></trd>
      <trd lng="ca">afermar</trd>
+     <trdgrp lng="de">
+       <trd fnt="AI: it es ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">konsolidieren</trd>,
+       <trd fnt="AI: dif ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">festigen</trd>
+     </trdgrp>
      <trd lng="en">support</trd>
      <trd lng="es">consolidar</trd>
      <trd lng="it">consolidare<klr> (scacchi)</klr></trd>

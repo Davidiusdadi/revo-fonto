@@ -258,6 +258,11 @@
       <ref cel="masakr.0o">masakro</ref>
     </refgrp>
   <trd lng="be">&c_z;&c_a;&c_b;&c_o;&c_j;&c_s;&c_t;&c_v;&c_a; <klr>(&c_m;&c_a;&c_s;&c_a;&c_v;&c_a;&c_je;, &c_zh;&c_o;&c_r;&c_s;&c_t;&c_k;&c_a;&c_je;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gemetzel</trd>,
+    <trd fnt="AI: dif id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Abschlachten</trd>,
+    <trd fnt="AI: dif be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Blutbad</trd>
+  </trdgrp>
   <trd lng="id"><baz>bantai</baz>pembantaian</trd>
   </snc>
   <trd lng="de">Schlachten</trd>

@@ -66,6 +66,10 @@
       <ref cel="rimen.konduk0o">gvidrimeno</ref>,
       <ref cel="konduk.0ilo.rimeno">kondukilo<sncref/></ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zaum</trd>,
+      <trd fnt="AI: en ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zaumzeug</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x7E6E;&#x7E69; <pr>ji&amacron;ngsh&eacute;ng</pr></trd>,
     <trd>&#x99AC;&#x929C; <pr>m&#x1CE;xi&aacute;n</pr></trd>,
@@ -580,6 +584,7 @@
       </ekz>
     </dif>
   <trd lng="be">&c_p;&c_a;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_mol; <ind>&c_l;&c_je;&c_j;&c_c;&c_y;</ind></trd>
+  <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">die Z&uuml;gel schie&szlig;en lassen</trd>
   </snc>
   <snc mrk="brid.sen0igi.FIG">
     <uzo tip="stl">FIG</uzo>
