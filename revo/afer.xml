@@ -337,6 +337,10 @@
          </ekz>
        </dif>
        <trd lng="br">afer</trd>
+       <trdgrp lng="de">
+         <trd fnt="AI: en fr es pt sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fall</trd>,
+         <trd fnt="AI: en fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rechtsfall</trd>
+       </trdgrp>
        <trdgrp lng="en">
          <trd>case</trd>
        </trdgrp>
@@ -426,6 +430,7 @@
          </ekz>
        </dif>
        <trd lng="br">afer</trd>
+       <trd lng="de" fnt="AI: es pt fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gesch&auml;ft</trd>
        <trd lng="en">concern</trd>
        <trd lng="es">negocio</trd>
        <trd lng="fi">liikeasia</trd>

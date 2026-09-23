@@ -108,6 +108,10 @@
      <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_a;&c_d;&c_k;&c_r;&c_y;&c_t;&c_y;&c_m;</ind></trd>,
      <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_a;&c_d;&c_ch;&c_y;&c_n;&c_je;&c_n;&c_y;&c_m;</ind></trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr pt ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">offenstehen</trd>,
+      <trd fnt="AI: fr pt ru cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">offen sein</trd>
+    </trdgrp>
     <trd lng="en" fnt="Vikt: es pl; juĝis claude-opus-5">open <klr>(regional)</klr></trd>
     <trd lng="fr">&ecirc;tre ouvert</trd>
     <trd lng="pt">estar aberto</trd>

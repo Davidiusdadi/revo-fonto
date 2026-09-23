@@ -529,6 +529,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erscheinung</trd>,
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ph&auml;nomen</trd>
+    </trdgrp>
     <trd lng="fr">ph&eacute;nom&egrave;ne</trd>
     <trd lng="hu">jelens&eacute;g</trd>
     <trd lng="pl">zjawisko</trd>
@@ -554,6 +558,7 @@
     <ref tip="super" cel="ekzemp1.0o">ekzemplero</ref>
     <ref tip="vid" cel="okaz.0o.kazo">okazo<sncref/></ref>
     <ref tip="malprt" cel="tekst.kun0o.LIN">kunteksto</ref>
+    <trd lng="de" fnt="AI: en fr sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vorkommen</trd>
     <trdgrp lng="en">
       <trd>occurrence</trd>, <trd>appearance</trd>,
       <trd>instance</trd>

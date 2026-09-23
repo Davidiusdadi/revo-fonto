@@ -178,6 +178,10 @@
       <trd>adherent</trd>,
       <trd>adhesiu</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd kod="FAK" fnt="AI: en fr es it pt ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">adh&auml;siv <klr>(fachspr.)</klr></trd>,
+      <trd fnt="AI: en hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">haftf&auml;hig</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>adh&eacute;rent<klr tip="ind"> (adj.)</klr></trd>,
       <trd>adh&eacute;sif<klr tip="ind"> (adj.)</klr></trd>
@@ -315,6 +319,7 @@
         <ref cel="infim.limes0o.funkcio">limesinfimo</ref>,
         <ref cel="suprem.limeso0o.funkcio">limesosupremo</ref>.
       </refgrp>
+      <trd lng="de" fnt="AI: ref fr it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">adh&auml;rent</trd>
       <trd lng="fr">
       <klr tip="amb">(valeur) </klr>d'<ind>adh&eacute;rence</ind>
       <klr tip="ind"> (d'une application)</klr></trd>
@@ -369,6 +374,10 @@
     <trdgrp lng="be">
       <trd>&c_s;&c_p;&c_a;&c_j;&c_k;&c_a; <klr>(&c_m;&c_e;&c_d;.)</klr></trd>,
       <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_a;&c_k; <klr>(&c_m;&c_e;&c_d;.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Adh&auml;sion</trd>,
+      <trd fnt="AI: ru uk be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verwachsung</trd>
     </trdgrp>
     <trd lng="en">adherent</trd>
     <trd lng="fr">adh&eacute;rence<klr tip="ind"> (m&eacute;d.)</klr>

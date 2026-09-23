@@ -314,6 +314,7 @@
       <trd>concordan&ccedil;a</trd>,
       <trd>acord<klr tip="amb"> (gramatical)</klr></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ca fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kongruenz</trd>
     <trd lng="fr">accord<klr tip="ind"> (gramm.)</klr></trd>
   <trd lng="id"><baz>suai</baz>kesesuaian (tata bahasa)</trd>
   </snc>
@@ -437,6 +438,7 @@
         <ref cel="laux.0a">la&ubreve;a</ref>,
         <ref cel="tauxg.0a">ta&ubreve;ga</ref>
       </refgrp>
+      <trd lng="de" fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bereinstimmend</trd>
       <trdgrp lng="en">
         <trd fnt="Vikt: en; juĝis claude-opus-5">consistent</trd>,
         <trd fnt="Vikt: en; juĝis claude-opus-5">congruous</trd>
@@ -622,6 +624,10 @@
         <trd>combinar</trd>,
         <trd>fer <ind>joc</ind></trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: ca fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenpassen</trd>,
+        <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">harmonieren</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>s'<ind>accorder</ind><klr tip="ind"> (&ecirc;tre en
         harmonie)</klr></trd>
@@ -675,6 +681,10 @@
         <trd>adir-se</trd>,
         <trd>concordar</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vertragen</trd>,
+        <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auskommen</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>s'<ind>accorder</ind><klr tip="ind"> (&ecirc;tre en
         accord)</klr></trd>,
@@ -705,6 +715,7 @@
         <trd>concordar</trd>,
         <trd>acordar</trd>
       </trdgrp>
+      <trd lng="de" fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kongruieren</trd>
       <trd lng="fr">s'<ind>accorder</ind><klr tip="ind">
       (gramm.)</klr></trd>
     <trd lng="id"><baz>suai</baz>sesuai</trd>
@@ -989,6 +1000,10 @@
           <lok>2000/03, p. 22</lok>
         </fnt>.
       </ekz>
+    <trdgrp lng="de">
+      <trd fnt="AI: id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenpassen</trd>,
+      <trd fnt="AI: id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">harmonieren</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>laras</baz>berselaras</trd>,
       <trd><baz>serasi</baz>berserasi</trd>,
@@ -1026,6 +1041,10 @@
         <ref cel="fleks.0igxi.cedi">fleksi&gcirc;i</ref>,
         <ref cel="konfor.0igxi">konformi&gcirc;i</ref>
       </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bereinstimmen</trd>,
+      <trd fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vertragen</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>sepakat</baz>bersepakat</trd>,
       <trd><baz>mufakat</baz>bermufakat</trd>,
@@ -1051,6 +1070,7 @@
         ta&ubreve;gus subfosi la tutan laboron de duonjarcento
         <fnt><bib>VivZam</bib>, <lok>9</lok></fnt>?
       </ekz>
+    <trd lng="de" fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kongruieren</trd>
     <trd lng="id"><baz>suai</baz>sesuai</trd>
     </subsnc>
   </snc>
@@ -1164,6 +1184,10 @@
 </snc>
   <snc mrk="akord.inter0o.konveneco">
     <ref tip="dif" cel="akord.0o.konveneco"><tld/>o<sncref/></ref>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bereinstimmung</trd>,
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einklang</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
       <trd>ad&eacute;quation</trd>,
@@ -1191,6 +1215,10 @@
         la proceso fini&gcirc;is per ekstertribunala inter<tld/>o.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bereinkunft</trd>,
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vereinbarung</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (juridique)</klr></trd>,
       <trd>convention<klr tip="ind"> (juridique)</klr></trd>

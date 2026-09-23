@@ -69,6 +69,10 @@
     </dif>
     <ref tip="lst" cel="instru2.kord0o.MUZ" lst="voko:kordinstrumentoj">kordinstrumento</ref>
     <trd lng="ca">viola</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bratsche</trd>,
+      <trd fnt="AI: ref en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Viola</trd>
+    </trdgrp>
     <trd lng="en">viola</trd>
     <trd lng="nl">altviool</trd>
   </snc>

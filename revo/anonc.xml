@@ -525,6 +525,7 @@
         </ekz>
       </dif>
       <trd lng="bg">&c_g;&c_l;&c_a;&c_sh;&c_a;&c_t;&c_a;&c_j;</trd>
+      <trd lng="de" fnt="AI: fr bg dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ausrufer</trd>
       <trdgrp lng="en">
         <trd fnt="Vikt: ru; juĝis claude-opus-5">bellman</trd>,
         <trd fnt="Vikt: ru; juĝis claude-opus-5">herald</trd>
@@ -558,7 +559,12 @@
         </ekz>
       </dif>
       <trd lng="bg">&c_g;&c_o;&c_v;&c_o;&c_r;&c_i;&c_t;&c_je;&c_l;</trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: bg pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sprecher</trd>,
+        <trd fnt="AI: pl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ansager</trd>
+      </trdgrp>
     </subsnc>
+    <trd lng="de" fnt="AI: pl ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ansager</trd>
     <trd lng="en" fnt="Vikt: en ja; juĝis claude-opus-5">announcer</trd>
   </snc>
   <trdgrp lng="be">

@@ -737,6 +737,10 @@
         <trd>al&ccedil;&agrave;ria</trd>,
         <trd>al&ccedil;ada</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gr&ouml;&szlig;e</trd>,
+        <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">K&ouml;rpergr&ouml;&szlig;e</trd>
+      </trdgrp>
       <trd lng="ru">&c_r;&c_o;&c_s;&c_t;</trd>
     </subsnc>
     <subsnc mrk="alt.0eco.FIG">
@@ -750,6 +754,7 @@
         </ekz>
       </dif>
       <trd lng="ca">altura</trd>
+      <trd lng="de" fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erhabenheit</trd>
       <trd lng="ru">&c_v;&c_o;&c_z;&c_v;&c_y;&c_sh;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr>
       (&c_ch;&c_u;&c_v;&c_s;&c_t;&c_v; &c_i; &c_t;.&c_p;.)</klr></trd>
     </subsnc>

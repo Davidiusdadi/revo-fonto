@@ -217,6 +217,11 @@
     <trd>&c_a;&c_k;&c_u;&c_r;&c_a;&c_t;&c_n;&c_y;</trd>
   </trdgrp>
     <trd lng="ca">exacte</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref es ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">genau</trd>,
+      <trd fnt="AI: ref es ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">exakt</trd>,
+      <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">akkurat</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd fnt="Vikt: fr ku; juĝis claude-opus-5">accurate</trd>,
       <trd fnt="Vikt: fr ku; juĝis claude-opus-5">exact</trd>
