@@ -68,6 +68,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Raum, den man durchquert, um sich von einem Ort zu einem anderen zu bewegen.</dif>
     <subsnc mrk="voj.0o.TRA">
       <uzo tip="fak">TRA</uzo>
       <dif>
@@ -144,6 +145,7 @@
   	  <trd lng="hu">utat nyit</trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil des Raumes, der eigens f&uuml;r Fahrzeuge oder Fu&szlig;g&auml;nger hergerichtet ist.</dif>
       <refgrp tip="vid">
         <ref cel="ir.0ejo">irejo</ref>,
         <ref tip="vid" cel="lini.0o.TRA">linio<sncref/></ref>
@@ -181,6 +183,7 @@
   	  pi&scirc;to, hormontrilo, movi&gcirc;anta nubo.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Raum, den ein sich bewegender K&ouml;rper durchl&auml;uft; Bahnkurve.</dif>
       <trd lng="de" fnt="AI: pl it en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bahn</trd>
       <trd lng="en">path <klr>(trajectory)</klr></trd>
       <trdgrp lng="it">
@@ -269,6 +272,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlungsweise, Verhaltensregel, mit der man ein Ziel erreichen kann.</dif>
     <refgrp tip="vid">
       <ref cel="destin.0o">destino</ref>,
       <ref cel="kondut.0o">konduto</ref>,
@@ -362,6 +366,7 @@
 	  &gcirc;ia fina punkto.
 	</ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem topologischen Raum E) Stetige Abbildung &phi; des reellen Intervalls [0,1] nach E.</dif>
       <refgrp tip="sub">
 	<ref cel="voj.fermita0o">fermita <tld/>o</ref>;
       </refgrp>
@@ -389,6 +394,7 @@
 	fina rando de &ccirc;iu termo koincidas kun la komenca de la
 	sekvanta termo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem gerichteten Graphen) Kette, bei der der Endknoten jeder Kante mit dem Anfangsknoten der folgenden Kante zusammenf&auml;llt.</dif>
       <refgrp tip="sub">
 	<ref cel="cirkvi.0o.grafeo">cirkvito</ref>.
       </refgrp>
@@ -552,6 +558,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Weg entlanggehen.</dif>
     <refgrp tip="vid">
       <ref cel="ir.voj0i">vojiri</ref>
     </refgrp>
@@ -625,6 +632,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit der Wege in einer Stadt, einer Region, einem Land usw.; Wegenetz.</dif>
   <trd lng="en"><ind>road</ind> network</trd>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_a;&c_ja;
@@ -996,6 +1004,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ort, an dem sich ein Weg in zwei andere teilt.</dif>
   <trd lng="en">fork <klr>(in the road)</klr></trd>
   </snc>
   <trd lng="be">&c_r;&c_o;&c_s;&c_t;&c_a;&c_n;&c_mol;</trd>
@@ -1111,6 +1120,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf dem richtigen Weg in Bewegung setzen.</dif>
     <trd lng="en"><ind>send</ind> on one's way</trd>
     <trdgrp lng="id">
       <trd><baz>arah</baz>mengarahkan</trd>,
@@ -1124,6 +1134,7 @@
     <dif>
       Ekirigi sur la <tld/>o al sukceso.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf den Weg zum Erfolg bringen.</dif>
     <refgrp tip="vid">
       <ref cel="inicia.0i">iniciati</ref>,
       <ref cel="komenc.0i">komenci</ref>,
@@ -1283,6 +1294,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich auf einen Weg begeben, eine Reise antreten.</dif>
   <trd lng="en">begin a <ind>voyage</ind></trd>
   </snc>
   <trdgrp lng="be">
@@ -1445,6 +1457,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stra&szlig;e mit mehreren Fahrstreifen in beiden Richtungen, eigens f&uuml;r den ausschlie&szlig;lichen und schnellen Verkehr von Kraftfahrzeugen gebaut.</dif>
     <ref tip="sin" cel="sxose.auxto0o">a&ubreve;to&scirc;oseo</ref>
   <trd lng="en">highway</trd>
   </snc>
@@ -1517,6 +1530,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Weg f&uuml;r Fahrr&auml;der.</dif>
   <trd lng="en"><ind>bicycle</ind> path</trd>
   </snc>
   <trd lng="be">&c_r;&c_o;&c_v;&c_a;&c_r;&c_n;&c_a;&c_ja; &c_d;&c_a;&c_r;&c_o;&c_zh;&c_k;&c_a;</trd>
@@ -1694,6 +1708,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Staatliches oder privates Unternehmen, das eine Eisenbahn betreibt.</dif>
   <trdgrp lng="en">
     <trd>railroad <klr>(company)</klr></trd>,
     <trd>line <klr>(railroad)</klr></trd>
@@ -1937,6 +1952,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Geneigte glatte Bahn, auf der etwas gleitend nach unten gelangen kann; Rutsche.</dif>
     <ref tip="sub" cel="tobogan.0o">tobogano</ref>
     <refgrp tip="vid">
       <ref cel="dekliv.0o">deklivo</ref>,
@@ -2057,6 +2073,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Geneigter Weg oder geneigte Br&uuml;cke, die zwei unterschiedlich hohe Stellen verbindet.</dif>
     <ref tip="sin" cel="rampl.0o">ramplo</ref>
   <trd lng="en">ramp <klr>(for road)</klr></trd>
   </snc>
@@ -2383,6 +2400,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Altes, Asien durchquerendes Wegenetz, das im &auml;u&szlig;ersten Osten China und im &auml;u&szlig;ersten Westen den Mittelmeerraum verband und auf dem verschiedene Handelswaren bef&ouml;rdert wurden, unter anderem chinesische Seide.</dif>
   <trd lng="en">Silk Road</trd>
   </snc>
   <trd lng="be">&c_Sh;&c_o;&c_w;&c_k;&c_a;&c_v;&c_y; &c_sh;&c_l;&c_ja;&c_h;</trd>

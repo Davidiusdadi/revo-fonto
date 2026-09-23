@@ -55,6 +55,7 @@
         <trd lng="ru">&c_p;&c_o;&c_z;&c_v;&c_o;&c_n;&c_o;&c_ch;&c_n;&c_y;&c_j; &c_s;&c_t;&c_o;&c_l;&c_b;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Wirbel (der Wirbels&auml;ule) betreffend.</dif>
     <trd lng="be">&c_p;&c_a;&c_z;&c_v;&c_a;&c_n;&c_k;&c_o;&c_v;&c_y;</trd>
     <trd lng="ca">vertebral</trd>
     <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Wirbel-</trd>
@@ -77,6 +78,7 @@
         <tld/>a besto.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wirbel besitzend.</dif>
     <trd lng="be">&c_p;&c_a;&c_z;&c_v;&c_a;&c_n;&c_o;&c_ch;&c_n;&c_y;</trd>
     <trd lng="ca">vertebrat</trd>
     <trd lng="en">vertebrate</trd>
@@ -200,6 +202,7 @@
         <ref cel="mam.0uloj">mamuloj</ref>.
       </refgrp>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unterstamm der Chordatiere, die eine Wirbels&auml;ule besitzen, zu dem unter anderem die Gruppen Rundm&auml;uler, Knorpelfische, Knochenfische, Amphibien, Reptilien, V&ouml;gel und S&auml;ugetiere geh&ouml;ren.</dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_z;&c_v;&c_a;&c_n;&c_o;&c_ch;&c_n;&c_y;&c_ja;</trd>
   <trd lng="ca">vertebrats</trd>
@@ -230,6 +233,7 @@
       <ref tip="ant" cel="verteb.0uloj">vertebruloj</ref>
       (<trd lng="la">Evertebrata</trd>).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Tiere, die keine Wirbels&auml;ule besitzen, im Gegensatz zu den Wirbeltieren.</dif>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_s;&c_p;&c_a;&c_z;&c_v;&c_a;&c_n;&c_o;&c_ch;&c_n;&c_y;&c_ja;</trd>
   <trd lng="ca">invertebrats</trd>

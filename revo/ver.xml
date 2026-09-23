@@ -1040,6 +1040,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wahr machen.</dif>
     <trd lng="de" fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wahr machen</trd>
     <trdgrp lng="en">
       <trd>make true<klr> (tr)</klr></trd>
@@ -1071,6 +1072,7 @@
         2</frm></ctl>)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem mathematischen Objekt a, in Bezug auf ein Pr&auml;dikat P) So beschaffen sein, dass P(a) wahr ist.</dif>
     <trdgrp lng="de">
       <trd>erf&uuml;llen</trd>,
       <trd>gen&uuml;gen</trd>
@@ -1183,6 +1185,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der gr&uuml;ndlich bedachten Wahrheit nach.</dif>
     <refgrp tip="vid">
       <ref cel="efekti.0e">efektive</ref>,
       <ref cel="fakt.0e">fakte</ref>
