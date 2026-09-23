@@ -780,6 +780,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wegen einer Sperre nicht zug&auml;nglich, nicht passierbar oder nicht zu verlassen.</dif>
     <refgrp tip="vid">
       <ref cel="ferm.0ita.KOMUNE">fermita</ref>,
       <ref cel="lim.0igi">limigi</ref>ta
@@ -844,6 +845,7 @@
           estas <tld/>ita.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Teilmenge A einer geordneten Menge) So beschaffen, dass sie eine Schranke besitzt.</dif>
       <rim>
         Se la konsiderata ordo-rilato estas
         <ref cel="tut.0eca.rilato">tuteca</ref> kaj signata per
@@ -858,6 +860,7 @@
         Tia, ke &gcirc;ia bildaro estas <tld/>ita
         <sncref ref="bar.0ita.subaro"/>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Abbildung in eine geordnete Menge) So beschaffen, dass ihre Bildmenge beschr&auml;nkt ist.</dif>
     </subsnc>
     <subsnc mrk="bar.0ita.metrikaspaco">
       <dif>
@@ -866,6 +869,7 @@
         Tia, ke &gcirc;in inkluzivas
         <ref cel="glob.0o.metrikaspaco">globo</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Teilmenge eines metrischen Raums) So beschaffen, dass sie in einer Kugel enthalten ist.</dif>
     </subsnc>
     <trd lng="br">bonnet<klr tip="ind"> (mat.)</klr></trd>
     <trd lng="ca">fitat<klr tip="amb"> (mat.)</klr></trd>
@@ -1024,6 +1028,7 @@
         fra&ubreve;lo</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch einen Zaun abtrennen.</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_a;&c_d;&c_g;&c_a;&c_r;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
@@ -1074,6 +1079,7 @@
     <dif>
       Apartigi per <tld/>o.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch eine Sperre trennen.</dif>
     <trdgrp lng="be">
       <trd>&c_r;&c_a;&c_z;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_r;&c_a;&c_z;&c_g;&c_a;&c_r;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>
@@ -1277,6 +1283,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Sperre beseitigen und so den Durchgang oder das Handeln erleichtern.</dif>
   </snc>
   <trd lng="fr">lib&eacute;rer<klr> (le passage etc.)</klr></trd>
   <trd lng="pl">usuwa&cacute; <klr>(przeszkod&eogonek;)</klr></trd>

@@ -85,6 +85,7 @@
         <lok>Na&ubreve;a promenado</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas Ungewisses genau festlegen</dif>
     <ref tip="super" cel="trov.el0i">eltrovi</ref>
     <refgrp tip="vid">
       <ref cel="decid.0i">decidi</ref>,
@@ -144,6 +145,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Bedeutung einer benachbarten Wortgruppe n&auml;her bestimmen</dif>
     <trd lng="fr">d&eacute;terminer<klr tip="ind"> (gramm.)</klr></trd>
     <trd lng="hu">meghat&aacute;roz<klr tip="ind">
     (nyelvtanilag)</klr></trd>
@@ -276,6 +278,7 @@
     <dif>
       Ago <tld/>i.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Bestimmen</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_a;&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -314,6 +317,7 @@
         sed precipe per la kunteksto.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kategorie der Satzsemantik; Art und Weise, einen Namen (meist ein Substantiv) zu aktualisieren, indem angegeben wird, ob er sich auf einen in der Situation einmaligen Gegenstand (bestimmte Determination) oder auf eine ganze Klasse (unbestimmte Determination) bezieht usw.</dif>
     <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_g;&c_o;&c_r;&c_y;&c_ja;
     &c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;-&c_n;&c_ja;&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
     <trd lng="ca">determinaci&oacute;</trd>
@@ -380,6 +384,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verursachender Umstand</dif>
     <trd lng="de">Ma&szlig;gebender <ind>Umstand</ind></trd>
     <trd lng="pl">okoliczno&sacute;&cacute;  <ind>przyczyny</ind></trd>
   </snc>
@@ -396,6 +401,7 @@
         <ref cel="form.0o.bildigo">formo</ref>, kiu &jcirc;etas la
         opon de bazvektoroj al <frm>1</frm>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von n Vektoren eines n-dimensionalen Vektorraums, bez&uuml;glich einer Basis) Ihr Bild unter der eindeutig bestimmten alternierenden n-Linearform, die das Tupel der Basisvektoren auf 1 abbildet</dif>
     </subsnc>
     <subsnc mrk="determ.0anto.matrico">
       <fnt><bib>MatTerm</bib><lok>p. 14</lok></fnt>
@@ -431,6 +437,7 @@
           estas nula.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer (n,n)-Matrix A &uuml;ber einem K&ouml;rper K) Determinante ihrer n Spalten, aufgefasst als Vektoren des K&#x207F;, bez&uuml;glich dessen kanonischer Basis; Symbol: det A</dif>
     </subsnc>
     <subsnc mrk="determ.0anto.endomorfio">
       <dif>
@@ -452,6 +459,7 @@
           al kiu ajn bazo.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Endomorphismus eines endlichdimensionalen Vektorraums) Determinante der Bilder der Vektoren einer beliebigen Basis unter dem Endomorphismus, bez&uuml;glich derselben Basis</dif>
     </subsnc>
 
     <trd lng="zh">&#34892;&#21015;&#24335; <pr>h&aacute;ngli&egrave;sh&igrave;</pr></trd>
@@ -521,6 +529,7 @@
       Teorio, kiu konsideras &ccirc;ion en sia kampo kiel determinitan,
       anta&ubreve;kalkuleblan.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Theorie, die alles in ihrem Bereich als determiniert und vorausberechenbar betrachtet</dif>
     <trd lng="en">determinism <klr>(computing)</klr></trd>
     <trd lng="zh">&#20915;&#23450;&#35770; <pr>ju&eacute;d&igrave;ngl&ugrave;n</pr></trd>
 </snc>
@@ -542,6 +551,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Lehre, die alles im Universum als determiniert ansieht und Zufall, freien Willen oder &auml;hnliche Begriffe f&uuml;r Illusionen h&auml;lt</dif>
     <ref tip="vid" cel="fatal.0ismo">fatalismo</ref>
   <trd lng="en">determinism <klr>(philosophy)</klr></trd>
   </snc>
@@ -574,6 +584,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Theorie, die nicht alles in ihrem Bereich durch Determinationen erkl&auml;rt, sondern Raum f&uuml;r mehrere M&ouml;glichkeiten, f&uuml;r Unberechenbarkeit l&auml;sst</dif>
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_d;&c_e;&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n;&c_ib;&c_z;&c_m;</trd>
   <trd lng="bg">&c_i;&c_n;&c_d;&c_je;&c_t;&c_je;&c_r;&c_m;&c_i;&c_n;&c_i;&c_z;&c_malmol;&c_m;</trd>
@@ -605,6 +616,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nur teilweise, unvollst&auml;ndig bestimmen</dif>
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_s;&c_t;&c_k;&c_o;&c_v;&c_a; <ind>&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_c;&c_mol;</ind></trd>
   <trd lng="de" fnt="AI: en be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">teilweise bestimmen</trd>

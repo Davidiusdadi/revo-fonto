@@ -53,6 +53,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mittlerer Teil eines Gegenstands oder eines Ortes.</dif>
     <refgrp tip="vid">
       <ref cel="aks.0o">akso</ref>,
       <ref cel="mez.0o">mezo</ref>,
@@ -113,6 +114,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hauptpunkt, Brennpunkt, aktivster Teil.</dif>
     <refgrp tip="vid">
       <ref cel="anim.0o">animo</ref>,
       <ref cel="esenc.0o">esenco</ref>,
@@ -134,6 +136,7 @@
       Rimarkinda <ref tip="super" cel="punkt.0o.spaco">punkto</ref>,
       interalie:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bemerkenswerter Punkt, unter anderem.</dif>
     <subsnc mrk="centr.0o.cirklo">
       <fnt><bib>MatTerm</bib><lok>p. 28</lok></fnt>
       <dif>
@@ -141,6 +144,7 @@
       <ref cel="sfer.0o.surfaco">sfero</ref>)</klr>
       Tiu punkto egaldistanca de &ccirc;iuj punktoj de la koncerna figuro.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kreises oder einer Kugel) Derjenige Punkt, der von allen Punkten der betreffenden Figur gleich weit entfernt ist.</dif>
       <adm>
       Mi korektis "egaldistanca al" al "egaldistanca de" por koherigi
       kun la difino de "mezo"... sed mi preferas al unuan dirmanieron.
@@ -157,6 +161,7 @@
       La <tld/>o <sncref ref="centr.0o.cirklo"/> de &gcirc;ia
       <ref cel="skrib.en0ita">enskribita</ref> cirklo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Dreiecks oder regelm&auml;&szlig;igen Vielecks) Der Mittelpunkt seines einbeschriebenen Kreises.</dif>
       <trd lng="de">Inkreismittelpunkt</trd>
       <trdgrp lng="en">
       <trd>center</trd>,
@@ -168,6 +173,7 @@
       <klr>(de <ref cel="elips.0o.linio">elipso</ref>)</klr>
       Intersekco de &gcirc;iaj du <ref cel="aks.simetri0o">simetriaksoj</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Ellipse) Schnittpunkt ihrer beiden Symmetrieachsen.</dif>
       <trd lng="de">Mittelpunkt</trd>
       <trd lng="en">center</trd>
     </subsnc>
@@ -177,6 +183,7 @@
       en ebeno)</klr>
       La nura punkto sen&scirc;an&gcirc;a per &gcirc;i.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer affinen Drehung in der Ebene) Der einzige Punkt, der durch sie unver&auml;ndert bleibt.</dif>
       <trd lng="de">Drehpunkt</trd>
       <trd lng="en">center</trd>
     <trd lng="id">titik tumpu</trd>
@@ -213,6 +220,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gem&auml;&szlig;igte Partei, die in der Mitte zwischen den Extremen sitzt.</dif>
     <trd lng="de" fnt="AI: pl no id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitte</trd>
     <trd lng="id">tengah<klr> (politik)</klr></trd>
     <trd lng="no">sentrum</trd>
@@ -401,6 +409,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In der Mitte, am wichtigsten Punkt von ...</dif>
   </snc>
   <trd lng="be">&c_u; <ind>&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;</ind> &#8230;</trd>
   <trd lng="de" fnt="AI: fr ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Zentrum von</trd>
@@ -530,6 +539,7 @@
          </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Politik des Mittelwegs zwischen Extremismen, besonders zwischen der sogenannten rechten und der linken Doktrin; M&auml;&szlig;igung.</dif>
     <trd lng="be">&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
     <trd lng="de" fnt="AI: fr be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zentrismus</trd>
     <trd lng="fr">centrisme</trd>
@@ -629,6 +639,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Weitl&auml;ufiges Geb&auml;ude, das viele verschiedene Gesch&auml;fte enth&auml;lt.</dif>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_n;&c_d;&c_l;&c_jo;&c_v;&c_y;
   <ind>&c_c;&c_e;&c_n;&c_t;&c_a;&c_r;</ind></trd>
@@ -672,6 +683,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dessen Mittelpunkt nicht mit dem Mittelpunkt anderer Teile zusammenf&auml;llt.</dif>
   </snc>
   <trd lng="be">&c_e;&c_k;&c_s;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y; <klr
   tip="amb">(&c_t;&c_e;&c_h;&c_n;.)</klr></trd>
@@ -729,6 +741,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigenschaft von etwas Exzentrischem.</dif>
     <trd lng="fr">excentricit&eacute;<klr tip="ind"> (tech.)</klr></trd>
     <trdgrp lng="pl">
       <trd>niecentryczno&sacute;&cacute;</trd>,
@@ -744,6 +757,7 @@
       koniko al &gcirc;ia fokuso kaj la distanco de tiu punkto al
       la direktanto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kegelschnitts) Das konstante Verh&auml;ltnis zwischen dem Abstand jedes Punktes des Kegelschnitts von seinem Brennpunkt und dem Abstand dieses Punktes von der Leitlinie.</dif>
     <rim>
       En <fnt><bib>MatVort</bib></fnt> troveblas du sinonimoj:
       <ctl>disfokuseco</ctl> (uzata en <fnt><bib>PIV1</bib></fnt>)
@@ -849,6 +863,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Neigung, den Menschen als Mittelpunkt des Universums, als Ziel und Krone der Sch&ouml;pfung usw. zu betrachten.</dif>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
   <trd lng="ca">antropocentrisme</trd>
@@ -906,6 +921,7 @@
       Ne proksima al <tld/>o, flanka,
       <ref tip="sin" cel="perife.0a.KOMUNE">periferia</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht nahe am Zentrum, seitlich, am Rand gelegen.</dif>
     <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_f;&c_e;&c_r;&c_y;&c_j;&c_n;&c_y;</trd>
     <trdgrp lng="ca">
       <trd>exc&egrave;ntric</trd>,
@@ -936,6 +952,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ohne Zentrum, verstreut, netzartig.</dif>
     <trd
 lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
     <trdgrp lng="ca">
@@ -970,6 +987,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Neigung, das eigene Selbst f&uuml;r das Wichtigste zu halten und zuerst f&uuml;r sich selbst zu sorgen.</dif>
   </snc>
   <refgrp tip="vid">
     <ref cel="ego.0centrismo.PSI">egocentrismo</ref>,
@@ -992,6 +1010,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
     La punkto, en kiu oni povas imagi koncentrita la tutan pezon
     a&ubreve; mason de korpo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Punkt, in dem man sich das gesamte Gewicht oder die gesamte Masse eines K&ouml;rpers vereinigt denken kann.</dif>
     <adm>
     Mi simple reprenis la difinon de PIV1, sed necesas &gcirc;in
     fake plibonigi, konsiderante anka&ubreve; la proksimajn terminojn:
@@ -1048,6 +1067,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
       oni nomas afina subspaco naskita de tiuj punktoj.
     </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von n Punkten (Mi) in einem affinen Raum mit jeweiligen skalaren Koeffizienten (&alfa;i), deren Summe nicht 0 ist) Der einzige Punkt G, der &Sigma;i &alfa;i&#x2219;(Mi-G) = 0 erf&uuml;llt.</dif>
     <rim>
     Kvankam la terminologio devenas de fiziko, la matematika nocio tute
     ne rilatas al pezo a&ubreve; maso. &Gcirc;i estas pure afina nocio,
@@ -1283,6 +1303,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Astronomische Beschreibung des Sonnensystems, die die Erde als dessen Mittelpunkt bestimmt.</dif>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">geocentrism</trd>
   </snc>
   <trd lng="be">&c_g;&c_je;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>

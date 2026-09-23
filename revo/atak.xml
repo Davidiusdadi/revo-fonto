@@ -289,6 +289,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung, die einen Kampf beginnt.</dif>
     <refgrp tip="vid">
       <ref cel="ofensi.0o">ofensivo</ref>
     </refgrp>
@@ -350,6 +351,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pl&ouml;tzliches Auftreten einer Emotion, eines Affekts, eines Gef&uuml;hls, einer Krankheit.</dif>
     <refgrp tip="vid">
       <ref cel="frap.0o">frapo</ref>,
       <ref cel="kriz.0o">krizo</ref>
@@ -370,6 +372,7 @@
     <dif>
       Ekdifektado de substanco.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beginnende Sch&auml;digung eines Stoffes.</dif>
   <trd lng="be">&c_k;&c_a;&c_r;&c_a;&c_z;&c_ib;&c_j;&c_n;&c_a;&c_je;
   &c_p;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_zh;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </snc>
@@ -433,6 +436,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Person, die angreift, einen Kampf, ein sportliches Spiel usw. beginnt.</dif>
     <trd lng="ca">atacant</trd>
     <trdgrp lng="en">
       <trd fnt="Vikt: fr ku; juĝis claude-opus-5">aggressor</trd>,
@@ -459,6 +463,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Heftiger Kritiker.</dif>
     <trdgrp lng="ca">
       <trd>qui ataca</trd>,
       <trd>detractor</trd>,
@@ -501,6 +506,7 @@
     <dif>
       Virina <tld/>anto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Weiblicher Angreifer.</dif>
     <trdgrp lng="zh">
     <trd>&#34989;&#20987;&#32773; <pr>x&iacute;j&imacron;zh&ecaron;</pr></trd>,
     <trd>&#35186;&#25802;&#32773; <pr>x&iacute;j&imacron;zh&ecaron;</pr></trd>
@@ -563,6 +569,7 @@
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 19a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kampflustig, trotzig.</dif>
     <trdgrp lng="zh">
     <trd>&#27668;&#21183;&#27769;&#27769; <pr>q&igrave;sh&igrave;xi&omacron;ngxi&omacron;ng</pr></trd>,
     <trd>&#27683;&#21218;&#27958;&#27958; <pr>q&igrave;sh&igrave;xi&omacron;ngxi&omacron;ng</pr></trd>,
@@ -658,6 +665,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erwidernder Angriff auf einen Feind, der zuvor angegriffen hat.</dif>
     <trd lng="en" fnt="Vikt: de ru; juĝis claude-opus-5">counter-attack</trd>
     <trdgrp lng="zh">
     <trd>&#22238;&#20987; <pr>hu&iacute;j&imacron;</pr></trd>,
@@ -761,6 +769,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pl&ouml;tzlicher, unerwarteter Angriff.</dif>
     <trdgrp lng="zh">
     <trd>&#31361;&#34989; <pr>t&uacute;x&iacute;</pr></trd>,
     <trd>&#31361;&#35186; <pr>t&uacute;x&iacute;</pr></trd>,
@@ -819,6 +828,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vorget&auml;uschter, schwacher Angriff, um einen Feind anzulocken oder seine Bereitschaft zum Gegenschlag zu erproben &#x2026;.</dif>
     <trd lng="zh">&#20335;&#25915; <pr>y&aacute;ngg&omacron;ng</pr></trd>
 </snc>
   <trd lng="be">&c_f;&c_a;&c_l;&c_mol;&c_sh;&c_y;&c_v;&c_a;&c_ja;
@@ -863,6 +873,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit abf&auml;lligen &Auml;u&szlig;erungen angreifen, stark tadeln, scharf kritisieren.</dif>
     <refgrp tip="vid">
       <ref cel="kritik.0i">kritiki</ref>,
       <ref cel="batal.vorto0i">vortobatali</ref>

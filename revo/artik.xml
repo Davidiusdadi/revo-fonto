@@ -52,6 +52,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stelle, an der zwei Knochen oder Glieder so miteinander verbunden sind, dass sie sich gegeneinander bewegen k&ouml;nnen.</dif>
     <trd lng="ca">articulaci&ograve;</trd>
     <trdgrp lng="en">
       <trd>joint <klr>(anatomy)</klr></trd>,
@@ -93,6 +94,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mechanische Verbindung zweier Teile, die sich um den Verbindungspunkt bewegen k&ouml;nnen.</dif>
     <trdgrp lng="en">
       <trd>hinge <klr>(mechanical)</klr></trd>,
       <trd>joint <klr>(mechanical)</klr></trd>
@@ -173,6 +175,7 @@
     <dif>
       Kunligi per <tld/>o.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch ein Gelenk verbinden.</dif>
     <trd lng="be">&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_r;&c_a;&c_z; &c_sh;&c_a;&c_r;&c_n;&c_ib;&c_r; &c_ib; &c_d;&c_a; &c_g;. &c_p;.)</klr></trd>
     <trdgrp lng="br">
       <trd>koubla&ntilde;<klr tip="ind"> (mella&ntilde;)</klr></trd>,
@@ -271,6 +274,7 @@
         <fnt><bib>OriginoDeSpecioj</bib>, <lok>&ccirc;apitro 7a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wirbellose Tiere, deren K&ouml;rper aus ringf&ouml;rmigen Segmenten besteht und deren Gliedma&szlig;en mehrere Gelenke haben, zum Beispiel Krebstiere, Spinnentiere, Tausendf&uuml;&szlig;er und Insekten; Stamm des Tierreichs; Arthropoden.</dif>
     <trdgrp lng="zh">
     <trd>&#x7BC0;&#x80A2;&#x52D5;&#29289; <pr>ji&eacute;zh&imacron;d&ograve;ngw&ugrave;</pr></trd>,
     <trd>&#33410;&#x80A2;&#x52A8;&#29289; <pr>ji&eacute;zh&imacron;d&ograve;ngw&ugrave;</pr></trd>,
@@ -317,6 +321,7 @@
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zwei Gelenkknochen eines Gliedes so verschieben, dass sie sich nicht mehr normal bewegen.</dif>
   <trd lng="en">dislocate <klr tip="amb">(a joint)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -366,6 +371,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus der normalen Gelenkstellung gleiten.</dif>
   <trd lng="en">become <ind>dislocated</ind> <klr>(a joint)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -404,6 +410,7 @@
       brustaj kaj lumbaj vertebroj, ampleksanta la ordojn
       <trd lng="la">Pilosa</trd> kaj <trd lng="la">Cingulata</trd>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von S&auml;ugetieren (Xenarthra) mit zus&auml;tzlichen Gelenken an den Brust- und Lendenwirbeln, die die Ordnungen Pilosa und Cingulata umfasst.</dif>
     <refgrp tip="prt">
       <ref cel="dazip.0o">dazipo</ref>,
       <ref cel="bradip.0o">bradipo</ref>,
@@ -457,6 +464,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gelenk zwischen Unterschenkel und Fu&szlig;.</dif>
     <trdgrp lng="zh">
     <trd>&#x811A;&#33046;&#x5B50; <pr>ji&#x1CE;ob&oacute;zi</pr></trd>,
     <trd>&#33139;&#33046;&#x5B50; <pr>ji&#x1CE;ob&oacute;zi</pr></trd>
@@ -494,6 +502,7 @@
       <ref cel="artikulaci.0i">Artikulacia</ref> punkto,
       pozicio.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stelle oder Position, an der ein Laut artikuliert wird.</dif>
   </snc>
   <trd lng="be">&c_m;&c_je;&c_s;&c_c;&c_a; <ind>&c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_y;&c_ib;</ind></trd>
   <trd lng="ca">punt d'articulaci&oacute;</trd>

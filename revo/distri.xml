@@ -223,6 +223,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Austeilen.</dif>
   <trdgrp lng="de">
     <trd fnt="Vikt: fr; juĝis claude-opus-5">Ausgeben</trd>,
     <trd fnt="Vikt: fr; juĝis claude-opus-5">Austeilen</trd>,
@@ -279,6 +280,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Anordnung im Raum oder in einer Population.</dif>
     <refgrp tip="vid">
       <ref cel="dispozici.0o.arangxo">dispozicio<sncref/></ref>
     </refgrp>
@@ -353,6 +355,7 @@
     <dif>
       Tia, ke eblas &gcirc;in distribui.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es verteilen kann.</dif>
     <trd lng="de" fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verteilbar</trd>
     <trd lng="fr">distribuable</trd>
     <trdgrp lng="id">
@@ -422,6 +425,7 @@
         lng="ru">&c_d;&c_i;&c_s;&c_t;&c_r;&c_i;&c_b;&c_u;&c_t;&c_i;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in Bezug auf eine Operation &#x2666; bez&uuml;glich einer Operation &#x2020;) So beschaffen, dass f&uuml;r alle x, y, z die Gleichungen x&#x2666;(y&#x2020;z) = (x&#x2666;y)&#x2020;(x&#x2666;z) und (y&#x2020;z)&#x2666;x = (y&#x2666;x)&#x2020;(z&#x2666;x) gelten.</dif>
   <trd lng="id">distributif</trd>
   </snc>
   <snc mrk="distri.0eca.latiso">
@@ -434,6 +438,7 @@
         <tld/>eca latiso.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in Bezug auf einen Verband) So beschaffen, dass jede seiner Operationen bez&uuml;glich der anderen distributiv ist.</dif>
   </snc>
   <rim>
     La fontoj ne konsentas pri tiu termino, kvankam la solvo de
@@ -478,6 +483,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verteilt werden; sich in gr&ouml;&szlig;erer Zahl irgendwie im Raum befinden, je nach Ort mehr oder weniger dicht.</dif>
     <refgrp tip="vid">
       <ref cel="sem.dis0i.FIG">dissemi</ref>
     </refgrp>
