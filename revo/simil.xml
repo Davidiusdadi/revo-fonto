@@ -632,6 +632,7 @@ lng="th">&#xE04;&#xE25;&#xE49;&#xE32;&#xE22;&#xE04;&#xE25;&#xE36;&#xE07;&#xE01;&
       <trd>&c_p;&c_r;&c_y;&c_p;&c_a;&c_d;&c_a;&c_b;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_a;&c_s;&c_y;&c_m;&c_ib;&c_l;&c_ja;&c_c;&c_y;&c_ja;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Assimilation</trd>
     <trdgrp lng="ru">
       <trd>&c_u;&c_p;&c_o;&c_d;&c_o;&c_b;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>,
       <trd>&c_a;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
@@ -777,6 +778,7 @@ lng="th">&#xE04;&#xE25;&#xE49;&#xE32;&#xE22;&#xE04;&#xE25;&#xE36;&#xE07;&#xE01;&
       <trd>&c_r;&c_a;&c_s;&c_p;&c_a;&c_d;&c_a;&c_b;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_d;&c_y;&c_s;&c_y;&c_m;&c_ib;&c_l;&c_ja;&c_c;&c_y;&c_ja;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dissimilation</trd>
     <trd lng="ru">&c_d;&c_i;&c_s;&c_s;&c_i;&c_m;&c_i;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
   </snc>
   <trd lng="de">Differenzierung</trd>

@@ -47,6 +47,10 @@
       <trd>encarregar-se</trd>,
       <trd>fer-se <ind>c&agrave;rrec</ind></trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref ca he; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantwortlich sein</trd>,
+      <trd fnt="AI: dif ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zust&auml;ndig sein</trd>
+    </trdgrp>
     <trd lng="he">&he;&#1464;&yod;&#1464;&he; [&lamed;&#1460;&he;&yod;&vav;&#1465;&tav;, -, &yod;&#1460;&he;&yod;&#1462;&he;]
     &alef;&#1463;&het;&resh;&#1463;&alef;&yod; &lamed;-</trd>
   </snc>
@@ -67,6 +71,7 @@
       </ekz>
     </dif>
     <trd lng="ca">ser <ind>responsable</ind></trd>
+    <trd lng="de" fnt="AI: ref ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantwortlich sein</trd>
     <trd lng="he">&nun;&#1464;&tav;&#1463;&fnun; [&lamed;&#1464;&tav;&#1461;&tav;, &nun;&vav;&#1465;&tav;&#1461;&fnun;,
     &yod;&#1460;&yod;&tav;&#1461;&fnun;] &alef;&#1462;&tav; &he;&#1463;&dalet;&#1460;&yod;&fnun;</trd>
   </snc>
@@ -167,6 +172,10 @@
           <lok>libro 2a, &ccirc;ap. 2a.</lok></fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantwortungsbewusst</trd>,
+        <trd fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantwortungsvoll</trd>
+      </trdgrp>
       <trd lng="nl">verantwoord</trd>
     </subsnc>
     <subsnc mrk="respons.0a.kompetenta">
@@ -201,6 +210,7 @@
       </ekz>
     </dif>
     <trd lng="ca">de <ind>responsabilitat</ind></trd>
+    <trd lng="de" fnt="AI: ca es hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantwortungsvoll</trd>
     <trd lng="es">(un cargo) de <ind>responsabilidad</ind></trd>
   </snc>
   <trd lng="en">responsible</trd>

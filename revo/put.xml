@@ -109,6 +109,10 @@
       <trd>&c_s;&c_mol;&c_v;&c_ib;&c_d;&c_r;&c_a;&c_v;&c_ib;&c_n;&c_a;</trd>,
       <trd>&c_sh;&c_a;&c_h;&c_t;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schacht</trd>,
+      <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Grube</trd>
+    </trdgrp>
     <trd lng="ru">&c_s;&c_k;&c_v;&c_a;&c_zh;&c_i;&c_n;&c_a;</trd>
   </snc>
   <trd lng="ja">&#x4E95;&#25144;  <pr>&#12356;&#12393;</pr></trd>

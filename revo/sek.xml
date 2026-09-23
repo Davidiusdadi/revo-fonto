@@ -411,6 +411,10 @@
     <trd lng="be">&c_s;&c_u;&c_sh;&c_a;</trd>
     <trd lng="bg">&c_s;&c_u;&c_sh;&c_a;</trd>
     <trd lng="ca">terra seca</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru bg; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Festland</trd>,
+      <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Land</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>land</trd>,
       <trd>mainland</trd>,

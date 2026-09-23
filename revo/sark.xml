@@ -284,6 +284,10 @@
       <trd>arrencar</trd>,
       <trd>arrancar<klr tip="amb"> (males herbes)</klr></trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">j&auml;ten</trd>,
+      <trd fnt="AI: en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausj&auml;ten</trd>
+    </trdgrp>
     <trd lng="en">weed</trd>
     <trd lng="fr">&eacute;radiquer</trd>
     <trd lng="nl">wieden</trd>

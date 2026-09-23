@@ -83,6 +83,7 @@
     <ref tip="super" cel="tip.datum0o">datumtipo</ref>
     <trd lng="be">&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_y; &c_l;&c_ib;&c_k;</trd>
     <trd lng="ca">real <klr tip="amb">(inform&agrave;tica)</klr></trd>
+    <trd lng="de" fnt="AI: en fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gleitkommazahl</trd>
     <trd lng="en">real data type</trd>
     <trd lng="es">real <klr tip="amb">(inform&aacute;tica)</klr></trd>
     <trd lng="fr">r&eacute;el<klr tip="ind"> (subst., informatique)</klr></trd>

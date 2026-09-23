@@ -249,6 +249,10 @@
     <dif>
       <ref tip="dif" cel="radika1.0o.GRA">Radikalo</ref>.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref nl pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wortstamm</trd>,
+      <trd fnt="AI: ref nl pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Stamm</trd>
+    </trdgrp>
     <trd lng="id">radikal</trd>
     <trd lng="nl">stam<klr tip="ind"> (v.woord)</klr></trd>
   </snc>
@@ -1209,6 +1213,10 @@
       <ref cel="pov.viv0a">vivpova</ref>,
       <ref cel="dauxr.0a">da&ubreve;ra</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einwurzeln</trd>,
+      <trd fnt="AI: nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wurzeln schlagen</trd>
+    </trdgrp>
     <trd lng="fr">s'<ind>enraciner</ind></trd>
     <trdgrp lng="id">
       <trd><baz>akar</baz>berakar</trd>,
