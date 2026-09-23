@@ -219,6 +219,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zweckm&auml;&szlig;ig zugeschnittenes Metallst&uuml;ck, das dazu dient, ein Schloss zu schlie&szlig;en und zu &ouml;ffnen.</dif>
     <trd lng="pl">klucz</trd>
   </snc>
   <snc mrk="sxlos.0ilo.FIG">
@@ -272,6 +273,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das, was das Verst&auml;ndnis eines Problems erm&ouml;glicht; Einf&uuml;hrung in ein Studium.</dif>
     <trd lng="pl">klucz</trd>
   </snc>
   <snc mrk="sxlos.0ilo.KOMP">
@@ -300,6 +302,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einfaches oder strukturiertes Datum (Index oder Feld eines Datensatzes), das einen Datensatz identifiziert oder dessen Lage angibt.</dif>
     <ref tip="sin" cel="kon.0igilo.KOMP">konigilo</ref>
     <ref tip="vid" cel="etiked.0o.KOMP">etikedo</ref>
     <trd lng="de">Schl&uuml;sselfeld</trd>
@@ -333,6 +336,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Parameter eines Verschl&uuml;sselungsalgorithmus, der zum Verschl&uuml;sseln und/oder Entschl&uuml;sseln eines Textes n&ouml;tig ist.</dif>
   </snc>
   <trd lng="af">sleutel</trd>
   <trd lng="am">&#4673;&#4621;&#4941;</trd>

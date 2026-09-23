@@ -638,6 +638,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Tisch zum Arbeiten, besonders an einer Arbeitsst&auml;tte.</dif>
     <trd lng="ca">taula de treball</trd>
     <trdgrp lng="de">
       <trd>Arbeitstisch</trd>,
@@ -695,6 +696,7 @@
       <ref cel="piktogram.0o.KOMP">piktogramoj</ref> kaj aliaj objektoj
       bildigantaj la laborspacon de la uzanto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer grafischen Benutzeroberfl&auml;che der Teil des Bildschirms, auf dem Fenster, Piktogramme und andere Objekte erscheinen, die den Arbeitsbereich des Benutzers darstellen.</dif>
     <subsnc mrk="tabl.labor0o.uniksa">
       <dif>
         En Uniksaj fenestrosistemoj, &ccirc;iu el pluraj ekranplenoj
@@ -706,6 +708,7 @@
           elektu la kolorojn por via Esperanta labor<tld/>o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In Unix-Fenstersystemen jede von mehreren Bildschirmansichten (typischerweise 2 oder 4), in denen der Benutzer seine Fenster nach den verschiedenen Themen seiner T&auml;tigkeiten anordnen kann.</dif>
       <trd lng="de" fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Arbeitsfl&auml;che</trd>
       <trd lng="pl">obszar roboczy</trd>
     </subsnc>
@@ -721,6 +724,7 @@
           trenu &gcirc;ian piktogramon sur la labor<tld/>on.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Bildschirmhintergrund, also die Stelle des Bildschirms, die nicht von einem Fenster, Piktogramm oder anderen Bildschirmobjekt verdeckt ist.</dif>
       <trd lng="pl">pulpit</trd>
     </subsnc>
     <trd lng="ca">escriptori</trd>

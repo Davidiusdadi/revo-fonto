@@ -50,6 +50,7 @@
         mis<tld/>o.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Musikalischer Klang von bestimmter H&ouml;he.</dif>
     <subsnc mrk="ton.0o.MUZ_baza">
       <uzo tip="fak">MUZ</uzo>
       <dif>
@@ -65,6 +66,7 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hauptton, Grundklang einer Tonleiter, auf dem ein Musikst&uuml;ck aufgebaut ist.</dif>
       <trd lng="de" fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Grundton</trd>
       <trd lng="hu">alaphang</trd>
       <trd lng="pt">tom</trd>
@@ -128,6 +130,7 @@
           la &ccirc;efa <tld/>o de la libro estas iom melankolia.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Heben, Senken oder Halten der Stimmh&ouml;he beim Sprechen.</dif>
       <refgrp tip="vid">
         <ref cel="melodi.fraz0o.LIN">frazmelodio</ref>,
         <ref cel="prozod.0o.POE">prozodio</ref>
@@ -151,6 +154,7 @@
         feli&ccirc;o</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nuance einer Farbe.</dif>
     <trd lng="en">tone <klr>(of color)</klr></trd>
     <trdgrp lng="hu">
       <trd>sz&iacute;n&aacute;rnyalat</trd>,
