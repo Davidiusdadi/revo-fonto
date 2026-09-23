@@ -1991,6 +1991,10 @@ M&uuml;nchhausen</tit>
      </eld>
   </vrk>
 
+  <vrk mll="AI" tip="leksikono">
+     <tit>Proponoj de lingvomodelo (Claude) laŭ la tradukoj de ReVo mem, kontrolitaj de dua modelo</tit>
+  </vrk>
+
   <vrk mll="Vikt" tip="leksikono">
      <url>https://kaikki.org/</url>
      <tit>Vikivortaro (Wiktionary), tradukoj eltiritaj per wiktextract</tit>

@@ -216,6 +216,7 @@
     <trd>podv&aacute;d&ecaron;t</trd>,
     <trd>p&rcaron;elst&iacute;t</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl it be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tricksen <klr>[ugs.]</klr></trd>
   <trdgrp lng="fr">
     <trd>confectionner astucieusement</trd>,
     <trd>manigancer</trd>
@@ -293,6 +294,10 @@
     <trd>nez&aacute;ludn&yacute;</trd>,
     <trd>prost&yacute;</trd>,
     <trd>up&rcaron;&iacute;mn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: hu cs fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ungek&uuml;nstelt</trd>,
+    <trd fnt="AI: cs sk uk ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufrichtig</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>naturel</trd>,

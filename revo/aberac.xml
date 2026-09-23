@@ -40,6 +40,10 @@
     <trd>aberovat</trd>,
     <trd>odchylovat se <klr>(&ccaron;o&ccaron;ka, dalekohled, sv&ecaron;tlo)</klr></trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd kod="FAK" fnt="AI: es it cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aberrieren <klr>(fachspr.)</klr></trd>,
+    <trd fnt="AI: ref pl cs ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abweichen</trd>
+  </trdgrp>
   <trd lng="es">aberrar</trd>
   <trd lng="it">aberrare</trd>
   <trdgrp lng="pl">

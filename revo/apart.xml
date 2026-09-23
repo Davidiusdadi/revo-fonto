@@ -507,6 +507,7 @@
         la <tld/>iga efiko de elektrostatikaj fortoj.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trennend</trd>
     <trdgrp lng="en">
       <trd>separative</trd>
     </trdgrp>
@@ -800,6 +801,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trennbar</trd>
     <trd lng="es">desmontable</trd>
     <trdgrp lng="pl">
       <trd>rozdzielny</trd>,
@@ -880,6 +882,10 @@
     <trd>&c_s;&c_a;&c_m;&c_o;&c_t;&c_n;&c_ib;&c_k;</trd>,
     <trd>&c_a;&c_d;&c_z;&c_ib;&c_n;&c_o;&c_t;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Au&szlig;enseiter</trd>,
+    <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einzelg&auml;nger</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>marginal<klr> (persona)</klr></trd>,
     <trd>original<klr> (persona)</klr></trd>
@@ -939,6 +945,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_o;&c_b;&c_n;&c_a; &c_a;&c_d;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: es fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">getrennt von</trd>,
+    <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abseits von</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>aparte de</trd>,
     <trd>separado de</trd>

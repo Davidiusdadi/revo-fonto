@@ -610,6 +610,7 @@
       <trd>&c_sh;&c_t;&c_u;&c_ch;&c_n;&c_y; <ind>&c_v;&c_y;&c_r;&c_a;&c_b;</ind></trd>,
       <trd>&c_a;&c_r;&c_t;&c_e;&c_f;&c_a;&c_k;&c_t;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Artefakt</trd>
     <trdgrp lng="id">
       <trd>produk buatan</trd>,
       <trd>produk artifisial</trd>
@@ -908,6 +909,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">angewandte Kunst</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kunstgewerbe</trd>
+  </trdgrp>
   <trd lng="fr">art appliqu&eacute;</trd>
 <trd lng="id">seni terapan</trd>
 </drv>
@@ -1222,6 +1227,10 @@
   <trd lng="be">&c_t;&c_e;&c_a;&c_t;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_je;
   <ind>&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</ind></trd>
   <trd lng="cs">dramatick&eacute; um&ecaron;n&iacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr it cs ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dramatische Kunst</trd>,
+    <trd fnt="AI: ru fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;hnenkunst</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>art dramatique</trd>,
     <trd>th&eacute;&acirc;tre<klr tip="amb"> (art dramatique)</klr>
@@ -2206,6 +2215,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_d;&c_e;&c_a;&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</trd>
+  <trd lng="de" fnt="AI: fr it id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Videokunst</trd>
   <trd lng="fr">art vid&eacute;o</trd>
   <trd lng="id">seni video</trd>
   <trd lng="it">video arte</trd>

@@ -505,6 +505,10 @@
     <ind>&c_g;&c_r;&c_u;&c_p;&c_a;</ind></trd>
   </trdgrp>
   <trd lng="ca">grupet</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gr&uuml;ppchen</trd>,
+    <trd fnt="AI: en fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kleine Gruppe</trd>
+  </trdgrp>
   <trd lng="en">small <ind>group</ind></trd>
   <trd lng="fr">petit <ind>groupe</ind></trd>
 <trd lng="id">grup kecil</trd>

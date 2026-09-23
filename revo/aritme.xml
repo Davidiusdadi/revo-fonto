@@ -130,6 +130,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_k;&c_o;&c_n;&c_v;&c_a;&c_c;&c_mol; <ind>&c_a;&c_r;&c_y;&c_t;&c_m;&c_e;&c_t;&c_y;&c_ch;&c_n;&c_y;&c_ja;</ind> &c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ib;</trd>
+  <trd lng="de" fnt="AI: fr sk ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">rechnen</trd>
   <trd lng="fr">calculer</trd>
   <trd lng="hu">aritmetikai m&udblac;veletet v&eacute;gez</trd>
   <trd lng="pl">wykonywa&cacute; operacje  <ind>arytmetyczne</ind></trd>
@@ -146,6 +147,10 @@
     <dif>
       Rimedo por plenumi <tld/>ajn operaciojn; kalkulilo.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rechenmaschine</trd>,
+      <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rechenger&auml;t</trd>
+    </trdgrp>
     <trd lng="hu">sz&aacute;mol&oacute;g&eacute;p</trd>
   </snc>
   <snc>
@@ -154,6 +159,10 @@
       Tiu organo de komputilo kiu plenumas <tld/>ajn (kaj ofte
       anka&ubreve; la logikajn) operaciojn.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rechenwerk</trd>,
+      <trd fnt="AI: fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">arithmetisch-logische Einheit</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>unit&eacute; arithm&eacute;tique et logique</trd>,
       <trd>UAL</trd>

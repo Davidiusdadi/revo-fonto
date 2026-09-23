@@ -218,6 +218,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">t&auml;tig sein</trd>,
+      <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich engagieren</trd>
+    </trdgrp>
     <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">get involved</trd>
     <trd lng="zh">&#21253;&#x5E72; <pr>b&amacron;og&amacron;n</pr></trd>
 </snc>
@@ -668,6 +672,7 @@
     <trd>&c_a;&c_k;&c_t;&c_y;&c_v;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_u;&c_z;&c_r;&c_u;&c_sh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aktiv werden</trd>
   <trd lng="fr">s'<ind>activer</ind></trd>
   <trd lng="id"><baz>giat</baz>bergiat</trd>
   <trdgrp lng="pl">
@@ -878,6 +883,10 @@
     <ind>&c_n;&c_je;&c_a;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;&c_m;</ind></trd>,
     <trd>&c_b;&c_ja;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_j;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unt&auml;tig sein</trd>,
+    <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">inaktiv sein</trd>
+  </trdgrp>
   <trd lng="fr">&ecirc;tre <ind>inactif</ind></trd>
   <trdgrp lng="id">
     <trd>pasif</trd>,
@@ -1006,6 +1015,7 @@
     <trd>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_c;&c_a;
     <ind>&c_b;&c_ja;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;&c_m;</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">inaktiv werden</trd>
   <trdgrp lng="id">
     <trd><baz>henti</baz>berhenti</trd>,
     <trd><baz>jadi</baz>menjadi nonaktif</trd>

@@ -87,6 +87,7 @@
           <ref cel="poz.0i.afekti">pozi</ref>,
           <ref cel="dand.0o">dando</ref>.
         </refgrp>
+        <trd lng="de" fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich aufspielen</trd>
         <trdgrp lng="fr">
           <trd>agir avec <ind>affectation</ind></trd>,
           <trd>prendre des <ind>air</ind>s</trd>,
@@ -435,6 +436,10 @@
           </ekz>
         </dif>
       </snc>
+      <trdgrp lng="de">
+        <trd fnt="AI: fr it ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ziererei</trd>,
+        <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Affektiertheit</trd>
+      </trdgrp>
       <trdgrp lng="en"><trd>affectation</trd>,
       <trd>mannerism</trd></trdgrp>
       <trdgrp lng="fr">
@@ -481,6 +486,10 @@
   <trdgrp lng="cs">
     <trd>afektovan&yacute; &ccaron;lov&ecaron;k</trd>,
     <trd>&ccaron;lov&ecaron;k strojen&eacute;ho chov&aacute;n&iacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">affektiert</trd>,
+    <trd fnt="AI: fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">geziert</trd>
   </trdgrp>
   <trdgrp lng="en"><trd>affected</trd>, <trd>artificial</trd>,
         <trd>assumed</trd></trdgrp>

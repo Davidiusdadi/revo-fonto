@@ -624,6 +624,7 @@
    <trd lng="be">&c_a;&c_s;&c_o;&c_b;&c_a; &c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ja;&c_g;&c_a;
    <ind>&c_w;&c_z;&c_r;&c_o;&c_s;&c_t;&c_u;</ind></trd>
    <trd lng="ca">persona de mitjana <ind>edat</ind></trd>
+   <trd lng="de" fnt="AI: en nl ca pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Person mittleren Alters</trd>
    <trd lng="en">middle-aged person</trd>
    <trd lng="fr">homme d'&acirc;ge moyen</trd>
    <trdgrp lng="id">
@@ -749,6 +750,10 @@ Betra&hcirc;</lok></fnt>.
    <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_w;&c_n;&c_a;&c_l;&c_je;&c_t;&c_n;&c_ib;</trd>
    <trd lng="br">dindan an <ind>oad</ind></trd>
    <trd lng="ca">menor d'edat</trd>
+   <trdgrp lng="de">
+     <trd fnt="AI: nl en fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">minderj&auml;hrig</trd>,
+     <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unm&uuml;ndig</trd>
+   </trdgrp>
    <trdgrp lng="en">
      <trd>minor <klr tip="amb">(legally)</klr></trd>,
      <trd>underage</trd>
@@ -901,6 +906,10 @@ Betra&hcirc;</lok></fnt>.
     <trd>fer-se <ind>gran</ind></trd>,
     <trd>posar <ind>any</ind>s</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">altern</trd>,
+    <trd fnt="AI: nl en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&auml;lter werden</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>age</trd>
     <trd>grow older</trd>
@@ -974,6 +983,7 @@ Betra&hcirc;</lok></fnt>.
    <trd lng="be">&c_s;&c_t;&c_a;&c_r;&c_y; <klr>(&c_g;&c_l;&c_y;&c_b;&c_o;&c_k;&c_a;)</klr></trd>
    <trd lng="br">er maez a <ind>oad</ind></trd>
    <trd lng="ca">de molta <ind>edat</ind></trd>
+   <trd lng="de" fnt="AI: en fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hochbetagt</trd>
    <trdgrp lng="en">
      <trd>aged</trd>,
      <trd>of great <ind>age</ind></trd>
@@ -1010,6 +1020,7 @@ Betra&hcirc;</lok></fnt>.
      <trd>persona de molta <ind>edat</ind></trd>,
      <trd><ind>anci&agrave;</ind></trd>
    </trdgrp>
+   <trd lng="de" fnt="AI: ru en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Greis</trd>
    <trdgrp lng="en">
      <trd>elder</trd>,
      <trd>person of great age</trd>,

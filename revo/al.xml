@@ -676,6 +676,7 @@
       <ref cel="por.0">por</ref>,
       <ref cel="pri.0">pri</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gegen&uuml;ber</trd>
     <trd lng="hu">ir&aacute;nt</trd>
     <trd lng="vo">-e</trd>
   </snc>
@@ -1610,6 +1611,10 @@
       la neesprimita subjekto estas facile <tld/>pensebla.
     </ekz>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">an-</trd>,
+    <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zu-</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>hozz&aacute;-</trd>,
     <trd>oda-</trd>

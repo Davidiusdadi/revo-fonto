@@ -344,6 +344,10 @@ prepozicio
         <trd>reempla&ccedil;ament</trd>,
         <trd>substituci&oacute;</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: en fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ersetzung</trd>,
+        <trd fnt="AI: en fr ca pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Substitution</trd>
+      </trdgrp>
       <trdgrp lng="en">
         <trd>replacement</trd>,
         <trd>substitution</trd>
@@ -841,6 +845,10 @@ remplacer)</klr></trd>,
       <trd>substitut</trd>,
       <trd>recanvi</trd>,
       <trd>succedani</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ersatz</trd>,
+      <trd fnt="AI: en pl ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Surrogat</trd>
     </trdgrp>
     <trdgrp lng="en">
       <trd>replacement</trd>,

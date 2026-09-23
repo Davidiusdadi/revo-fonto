@@ -124,6 +124,10 @@
      <trd>&c_t;&c_r;&c_y;&c_v;&c_o;&c_zh;&c_n;&c_a;</trd>,
      <trd>&c_n;&c_je;&c_s;&c_p;&c_a;&c_k;&c_o;&c_j;&c_n;&c_a;</trd>
    </trdgrp>
+   <trdgrp lng="de">
+     <trd fnt="AI: en fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&auml;ngstlich</trd>,
+     <trd fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bang</trd>
+   </trdgrp>
    <trd lng="en">anxiously</trd>
    <trd lng="fr">anxieusement</trd>
    <trd lng="hu">szorongva</trd>

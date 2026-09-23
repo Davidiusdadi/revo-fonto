@@ -236,6 +236,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geist</trd>
   <trdgrp lng="id">
     <trd>animo</trd>,
     <trd>antusiasme</trd>,
@@ -786,6 +787,10 @@
     <trd>mesquineria</trd>
   </trdgrp>
   <trd lng="cs">malost</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Engstirnigkeit</trd>,
+    <trd fnt="AI: en ru it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kleinlichkeit</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>small-<ind>mind</ind>edness</trd>,
     <trd>pettiness</trd>

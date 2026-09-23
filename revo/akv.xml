@@ -353,6 +353,7 @@
       <trd>aqu&oacute;s</trd>,
       <trd>d'aigua</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">w&auml;ssrig</trd>
     <trd lng="en">watery</trd>
     <trdgrp lng="fr">
       <trd>d'<ind>eau</ind></trd>,
@@ -433,6 +434,7 @@
     </dif>
     <trd lng="br">-<ind>dour</ind></trd>
     <trd lng="ca">aqu&agrave;tic</trd>
+    <trd lng="de" kod="FAK" fnt="AI: en fr es ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aquatisch <klr>(fachspr.)</klr></trd>
     <trd lng="en">aquatic</trd>
     <trd lng="es">acu&aacute;tico</trd>
     <trd lng="fr">aquatique</trd>
@@ -1192,6 +1194,7 @@
     <trd>&c_p;&c_a;&c_k;&c_a;&c_z;&c_a;&c_c;&c_c;&c_a; &c_z; &c_v;&c_a;&c_d;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">emergir</trd>
+  <trd lng="de" fnt="AI: en fr ru pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auftauchen</trd>
   <trdgrp lng="en">
     <trd>leave the water</trd>,
     <trd>emerge<klr> (out of water)</klr></trd>
@@ -1616,6 +1619,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: nl id th; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tauchen</trd>
     <trd lng="th">&#3585;&#3634;&#3619;&#3604;&#3635;&#3609;&#3657;&#3635;</trd>
   </snc>
   <trd lng="be">&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_u;

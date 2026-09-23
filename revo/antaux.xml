@@ -425,6 +425,7 @@
     <trd>endavant</trd>,
     <trd>cap <ind>endavant</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vor</trd>
   <trdgrp lng="es">
     <trd>adelante<klr tip="amb"> (de)</klr></trd>,
     <trd>al <ind>frente</ind><klr tip="amb"> (de)</klr></trd>,
@@ -511,6 +512,7 @@
         <fnt><bib>Revadoj</bib>, <lok>Dua promenado</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: hu id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">seit</trd>
     <trd lng="hu">&oacute;ta</trd>
     <trd lng="id">sejak</trd>
     <trd lng="pl">z przed</trd>
@@ -784,6 +786,7 @@
     <trd>darrere</trd>,
     <trd>rere</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl ru hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter</trd>
   <trdgrp lng="es">
     <trd>hacia <ind>detr&aacute;s</ind></trd>,
     <trd>atr&aacute;s<klr tip="amb"> (de)</klr></trd>,
@@ -829,6 +832,7 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_z;-&c_z;&c_a;</trd>
+  <trd lng="de" fnt="AI: ru pl hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter ... hervor</trd>
   <trdgrp lng="es">
     <trd>de <ind>detr&aacute;s</ind></trd>,
     <trd>desde <ind>detr&aacute;s</ind></trd>,
@@ -867,6 +871,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;-&c_z;&c_a;</trd>
+  <trd lng="de" fnt="AI: ru pl hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter ... hervor</trd>
   <trdgrp lng="es">
     <trd>desde <ind>detr&aacute;s</ind> de</trd>,
     <trd>saliendo <ind>detr&aacute;s</ind> de</trd>,

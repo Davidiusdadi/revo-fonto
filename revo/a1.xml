@@ -53,6 +53,7 @@
        (maj.) simbolo de argono &gcirc;is 1957:<ekz> <tld lit="A"/>;</ekz>
        </dif>
        <trd lng="ca">arg&oacute;</trd>
+       <trd lng="de" fnt="AI: fr nl no es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Argon</trd>
        <trd lng="es">arg&oacute;n<klr> (desde 1959 Ar)</klr></trd>
        <trd lng="fr">argon</trd>
        <trd lng="nl">argon</trd>
@@ -66,6 +67,7 @@
        </dif>
        <trd lng="ca">A<klr> (ampere)</klr></trd>
        <trd lng="da">A<klr> (Ampere)</klr></trd>
+       <trd lng="de" fnt="AI: fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ampere</trd>
        <trd lng="es">Amperio</trd>
        <trd lng="fr">Amp&egrave;re</trd>
        <trd lng="pl">A amper</trd>
@@ -93,6 +95,7 @@
        </dif>
        <trd lng="ca">&agrave;rea<klr> (unitat de superf&iacute;cie)</klr></trd>
        <trd lng="da">ar<klr> (fladem&aring;l)</klr></trd>
+       <trd lng="de" fnt="AI: da pl ro fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ar</trd>
        <trd lng="es">&aacute;rea<klr> (unidad de surperficie de
        100m&quadrat;)</klr></trd>
        <trd lng="fr">are<klr> (unit&eacute; de surface)</klr></trd>
@@ -374,6 +377,10 @@
    <trd>@</trd>
  </trdgrp>
  <trd lng="da">snabel-a</trd>
+ <trdgrp lng="de">
+   <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">At-Zeichen</trd>,
+   <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Klammeraffe <klr>[ugs.]</klr></trd>
+ </trdgrp>
  <trd lng="en">at sign</trd>
  <trdgrp lng="es">
    <trd>arroba</trd>,

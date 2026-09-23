@@ -308,6 +308,10 @@
     <trd>&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_mol; <klr>(&c_m;&c_je;&c_s;&c_c;&c_a; &c_c;&c_a;&c_l;&c_k;&c_a;&c_m;)</klr></trd>,
     <trd>&c_a;&c_h;&c_o;&c_p;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_e;&c_w;&c_n;&c_u;&c_ju; &c_p;&c_l;&c_o;&c_sh;&c_ch;&c_u;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umfassen</trd>,
+    <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einnehmen</trd>
+  </trdgrp>
   <trd lng="fr">couvrir<klr> (une surface donn&eacute;e)</klr></trd>
 </drv>
 

@@ -141,6 +141,10 @@
        <ref cel="predik.0i">prediki</ref>,
        <ref cel="propag.0i">propagandi</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verk&uuml;nden</trd>,
+      <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">propagieren</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="fr">r&eacute;pandre<klr> (faire connaitre)</klr></trd>

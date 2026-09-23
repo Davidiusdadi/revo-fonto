@@ -333,6 +333,7 @@
         </fnt>
     </bld>
     <trd lng="ca">pigarg americ&agrave;</trd>
+    <trd lng="de" fnt="AI: en la; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Bindenseeadler</trd>
     <trd lng="en">Pallas's fish <ind>eagle</ind></trd>
     <trd lng="it"><ind>aquila</ind> di mare testabianca</trd>
     <trd lng="pl"><ind>orze&lstroke;</ind>  bielik wschodni</trd>
@@ -382,6 +383,7 @@
         </fnt>
     </bld>
     <trd lng="ca">&agrave;guila marina de Pallas</trd>
+    <trd lng="de" fnt="AI: en sv pl la; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Seeadler</trd>
     <trd lng="en">white-tailed <ind>eagle</ind></trd>
     <trd lng="it"><ind>aquila</ind> di mare a coda bianca</trd>
     <trdgrp lng="pl">
@@ -443,6 +445,7 @@
     </fnt>
     <ref tip="dif" cel="agl.regxa0o">re&gcirc;a aglo</ref>
     <trd lng="be">&c_b;&c_e;&c_r;&c_k;&c_u;&c_t;</trd>
+    <trd lng="de" fnt="AI: en sv it la; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steinadler</trd>
     <trd lng="en">golden <ind>eagle</ind></trd>
     <trd lng="it"><ind>aquila</ind> reale</trd>
     <trdgrp lng="la">
@@ -501,6 +504,7 @@
       Specio de <ref tip="super" cel="agl.0o">aglo</ref> (<trd lng="la">Aquila rapax</trd>).
     </dif>
     <trd lng="ca">&agrave;guila rapa&ccedil;</trd>
+    <trd lng="de" fnt="AI: en la cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Raubadler</trd>
     <trd lng="it"><ind>aquila</ind> rapace</trd>
     <trd lng="pl">orze&lstroke; sawannowy</trd>
     <trd lng="ro">vultur de savan&abreve; </trd>
@@ -598,6 +602,7 @@
       <trd>&c_a;&c_r;&c_l;&c_je;&c_c; &c_m;&c_a;&c_l;&c_y;</trd>
     </trdgrp>
     <trd lng="ca">&agrave;guila pomer&agrave;nia</trd>
+    <trd lng="de" fnt="AI: en sv pl la; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schreiadler</trd>
     <trd lng="en">lesser spotted <ind>eagle</ind></trd>
     <trd lng="it"><ind>aquila</ind> anatraia minore</trd>
     <trd lng="pl">orlik krzykliwy</trd>
@@ -619,6 +624,7 @@
       <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_r;&c_l;&c_ib;&c_k; &c_m;&c_a;&c_l;&c_y;</trd>,
       <trd>&c_a;&c_r;&c_l;&c_je;&c_c; &c_m;&c_a;&c_l;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en sv pl la ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schreiadler</trd>
     <trd lng="en">lesser spotted <ind>eagle</ind></trd>
     <trd lng="it"><ind>aquila</ind> anatraia minore</trd>
     <trd lng="la">Aquila pomarina</trd>
@@ -678,6 +684,7 @@
     </dif>
     <trd lng="be">&c_a;&c_r;&c_o;&c_l;-&c_k;&c_a;&c_r;&c_l;&c_ib;&c_k;</trd>
     <trd lng="ca">&agrave;guila cal&ccedil;ada</trd>
+    <trd lng="de" fnt="AI: en sv be la; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zwergadler</trd>
     <trd lng="en">booted eagle</trd>
     <trd lng="it"><ind>aquila</ind> pennata</trd>
     <trdgrp lng="la">
