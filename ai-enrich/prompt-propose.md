@@ -1,4 +1,4 @@
-<!-- prompt-propose v1. Raise the version with any change; results record it. -->
+<!-- prompt-propose v2. Raise the version with any change; results record it. -->
 # Proposer: definitions and words for a ReVo article
 
 You fill gaps in ReVo, the Esperanto dictionary, for one **target language** (German `de` or
@@ -30,6 +30,11 @@ definition in the target language. Translate faithfully what the Esperanto says;
 explain. Plain text only: no markup, no Esperanto words except proper names, Latin taxon names
 kept as written. A definition that is only a reference ("= Subŝtato", or empty) gets none.
 Writing it first also settles how you read the sense for step 2.
+
+House style, so that separately written definitions agree: ReVo's "(maj.)" and "(min.)" become
+"(capital)" and "(lower case)" in English, "(Großbuchstabe)" and "(Kleinbuchstabe)" in German.
+English is spelt the British way (standardise, colour, centre). End a definition with a full stop,
+also where the Esperanto one ends in ":" because examples follow.
 
 ## Step 2: words
 - **Entry with gap A**: propose words. Put each where it belongs: under the sense it translates

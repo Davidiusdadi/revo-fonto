@@ -33,6 +33,7 @@ names) counts as evidence.
 | `ask.py` | the agents' only tool: `used`, `exists`, `entry` (read-only), `save` (the only write) |
 | `slice.py` | the next slice of articles not done yet, as the workflow's args |
 | `workflow.js` | the Claude workflow: propose, then check, per bundle of about 5 articles |
+| `codex.py <lng> <run> <slice.json>` | the same on the Codex CLI, one `codex exec` per bundle and stage |
 | `score.py --lng de` | a holdout run against the hidden words |
 | `apply.py --lng de [--write]` | what the checker accepted into the XML |
 | `flags.py` | things found wrong in passing, outside the repo |
@@ -74,6 +75,18 @@ Words and definitions are committed apart, so either can be reverted on its own:
 
 A slice of 40 bundles is 80 agents. Workflows count against the session's plan usage; the
 workflow logs output tokens as bundles finish.
+
+## On Codex
+
+German was proposed and checked by claude-opus-5-5, English by gpt-5.6-sol through `codex.py`
+(proposer at medium effort without web search, checker at high effort with it). The two were compared
+on the same 20 English articles first (`AI_OUT` keeps a second run apart): about even, Codex a little
+more cautious with words. The fnt names whichever model made each result.
+
+```sh
+python3 ai-enrich/slice.py --lng en --bundles 64 --run x2 > /tmp/x2.json
+python3 ai-enrich/codex.py en x2 /tmp/x2.json --parallel 8
+```
 
 ## How it is marked
 

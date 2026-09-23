@@ -1,4 +1,4 @@
-<!-- prompt-check v1. Raise the version with any change; results record it. -->
+<!-- prompt-check v2. Raise the version with any change; results record it. -->
 # Checker: try to refute every proposal for a ReVo article
 
 Another agent has proposed words and definitions in a **target language** (German `de` or
@@ -47,7 +47,9 @@ A word ReVo marks as figurative (FIG) is filed under its FIG sense; do not mark 
 ## Definitions: a verdict on each
 Accept a definition that says what the Esperanto says, in natural, plain target-language prose.
 Correct small faults yourself and give the corrected `text` with `accept: true`. Reject one that
-misreads the sense or adds what the Esperanto does not say. Always give `text`.
+misreads the sense or adds what the Esperanto does not say. Always give `text`. Bring it in line
+with the house style in the proposer's prompt (`ai-enrich/prompt-propose.md`, step 1) as a small
+correction: "(capital)"/"(lower case)", British spelling for English, a closing full stop.
 
 ## Flags, in passing
 As the proposer's instructions say ("Step 3"). Also flag a wrong supplied word (`ours`). Only
