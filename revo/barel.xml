@@ -134,6 +134,7 @@
       <ref cel="trog.0o">trogo</ref>
     </refgrp>
     <trd lng="be">&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>
+    <trd lng="de" fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tonne</trd>
   </snc>
   <snc mrk="barel.0o.MEZ">
     <dif>
@@ -156,6 +157,7 @@
       <ref cel="galjon.0o">galjono</ref>
     </refgrp>
     <trd lng="be">&c_b;&c_a;&c_r;&c_e;&c_l;&c_mol;</trd>
+    <trd lng="de" fnt="AI: fr it pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Barrel</trd>
     <trd lng="fr">baril</trd>
     <trd lng="id">barel</trd>
     <trd lng="it">barile</trd>
@@ -284,6 +286,7 @@
       <dif>
         Ujo, en kiu trovi&gcirc;as la risorto de <ref tip="malprt" cel="horlog.0o.KAL">horlo&gcirc;o</ref>.
       </dif>
+      <trd lng="de" fnt="AI: it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Federhaus</trd>
       <trdgrp lng="it">
         <trd>bariletto<klr> (dell'orologio)</klr></trd>,
         <trd>tamburo<klr> (dell'orologio)</klr></trd>

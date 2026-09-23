@@ -238,6 +238,10 @@
     </rim>
     <trd lng="be">&c_k;&c_n;&c_ib;&c_zh;&c_n;&c_a;&c_ja;
     &c_sh;&c_a;&c_f;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref ru be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;cherschrank</trd>,
+      <trd fnt="AI: ref id ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;cherregal</trd>
+    </trdgrp>
     <trd lng="en">book case</trd>
     <trd lng="id">rak buku</trd>
     <trd lng="pl">biblioteczka</trd>
