@@ -79,6 +79,7 @@
             kaj unu derivregulon: la el<tld/>igon.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf eine Implikation bezogen, eine Implikation enthaltend.</dif>
       </snc>
       <trd lng="be">&c_ib;&c_m;&c_p;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>
       <trd lng="cs">implika&ccaron;n&iacute;</trd>
@@ -102,6 +103,7 @@
             difini ekvivalentecon per amba&ubreve;direkta <tld/>o.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;r zwei Aussagen A und B die Konjunktion ihrer wechselseitigen Implikationen: A&#x21D4;B = (A&#x21D2;B)&#x2227;(B&#x21D2;A).</dif>
       </snc>
       <trd lng="de" fnt="AI: fr es pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;quivalenz</trd>
       <trd lng="es">equivalencia</trd>
@@ -135,6 +137,7 @@
           validas
           <frm am="B">B</frm>.
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine der wichtigsten Ableitungsregeln der Aussagenlogik: Sind die Aussagen A und A&#x21D2;B festgestellt, so darf man schlie&szlig;en, dass B gilt.</dif>
       </snc>
       <trd lng="de" fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Modus ponens</trd>
       <trd lng="en">modus ponens</trd>

@@ -161,6 +161,7 @@
     <dif>
       Ago <tld/>i.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Kommutieren, Umschalten.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_ju;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -251,6 +252,7 @@
     <dif>
       Kiun eblas <tld/>i.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Was sich kommutieren, umschalten l&auml;sst.</dif>
     <trd lng="de" fnt="AI: ru cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umschaltbar</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_je;&c_m; &c_y;&c_j;</trd>,
@@ -267,6 +269,7 @@
       <frm am="bb E"><g>E</g></frm>) </klr>
       <ref cel="komut.0igxi.MAT"><tld lit="K"/>i&gcirc;antaj</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von zwei Elementen x, y&#x2208;E bez&uuml;glich einer Operation in E) Miteinander kommutierend.</dif>
     <trd lng="de">vertauschbar</trd>
     <trd lng="en">commuting</trd>
     <trd lng="fr">commutable</trd>

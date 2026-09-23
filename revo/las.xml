@@ -13,6 +13,7 @@
     <dif>
       Libervole aparti&gcirc;i de io a&ubreve; iu.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich freiwillig von etwas oder jemandem trennen.</dif>
     <subsnc mrk="las.0i.restigi">
       <dif>
         Ne preni kun si; <ref tip="sin" cel="rest.0igi">restigi</ref>
@@ -88,6 +89,7 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht mit sich nehmen; an einem Ort oder in einem Zustand zur&uuml;cklassen.</dif>
       <refgrp tip="sin">
         <ref cel="las.post0i">postlasi</ref>
       </refgrp>
@@ -131,6 +133,7 @@
           <fnt><bib>GDn</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht mehr halten, nicht mehr bewahren, von etwas weggehen.</dif>
       <refgrp tip="sin">
         <ref cel="ced.0i.fordoni">cedi<sncref/></ref>,
         <ref cel="las.for0i">forlasi</ref>,
@@ -204,6 +207,7 @@
           <fnt><bib>ChL</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandem zur Verf&uuml;gung &uuml;bergeben, vererben, zuweisen.</dif>
       <ref tip="sin" cel="las.trans0i">trans<tld/>i</ref>
       <trd lng="be">&c_p;&c_a;&c_k;&c_ib;&c_d;&c_a;&c_c;&c_mol;</trd>
       <trdgrp lng="de">
@@ -223,6 +227,7 @@
     <dif>
       Ne <ref tip="ant" cel="help.mal0i">malhelpi</ref> ion a&ubreve; iun.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas oder jemanden nicht hindern.</dif>
     <subsnc mrk="las.0i.ne_gxeni">
       <dif>
         Ne malhelpi ies agadon, ne &gcirc;eni iun:
@@ -268,6 +273,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandes Handeln nicht behindern, jemanden nicht st&ouml;ren.</dif>
       <refgrp tip="ant">
         <ref cel="embara.0i.MOV">embarasi<sncref/></ref>,
         <ref cel="gxen.0i.maloportuni">&gcirc;eni<sncref/></ref>
@@ -302,6 +308,7 @@
         <fnt><bib>Ifigenio</bib></fnt>!
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht am Gehen hindern.</dif>
       <refgrp tip="ant">
         <ref cel="bar.0i">bari</ref>
       </refgrp>
@@ -349,6 +356,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht verhindern, dass etwas geschieht.</dif>
       <refgrp tip="vid">
         <ref cel="las.al0i">allasi</ref>
       </refgrp>
@@ -393,6 +401,7 @@
           <fnt><bib>Voja&gcirc;Imp</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandes freies Handeln beg&uuml;nstigen, ohne sich selbst darum zu k&uuml;mmern, dabei aber gegebenenfalls davon profitieren.</dif>
       <trdgrp lng="de">
         <trd>&uuml;berlassen</trd>,
         <trd>anregen</trd>
@@ -601,6 +610,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Lassens.</dif>
   </snc>
   <rim>
     Similsona estas la vorto <ref tip="hom" cel="laz.0o">lazo</ref> (kapto&scirc;nuro).

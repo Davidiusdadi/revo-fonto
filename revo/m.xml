@@ -23,11 +23,13 @@
         </fnt>,
       </ekz> uzata i.a. kiel:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Name des siebzehnten Buchstabens des Esperanto-Alphabets, unter anderem verwendet als.</dif>
     <subsnc>
       <uzo tip="fak">MAT</uzo>
       <dif>
         (maj.) romana cifero: <ekz>M (1000);</ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) r&ouml;mische Ziffer.</dif>
       <trd lng="fr">1000<klr> (chiffre romain)</klr></trd>
       <trd lng="pl">1000<klr> (cyfra rzymska)</klr></trd>
     </subsnc>
@@ -36,6 +38,7 @@
       <dif>
         (maj.) simbolo de mega: <ekz>M;</ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Symbol f&uuml;r Mega.</dif>
       <trd lng="fr">m&eacute;ga</trd>
       <trd lng="pl">mega</trd>
     </subsnc>
@@ -44,6 +47,7 @@
       <dif>
         (min.) simbolo de metro: <ekz>m;</ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(klein) Symbol f&uuml;r Meter.</dif>
       <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Meter</trd>
       <trd lng="fr">m&egrave;tre</trd>
       <trd lng="pl">metr</trd>
@@ -53,6 +57,7 @@
       <dif>
         (min.) simbolo de mili: <ekz>mm (milimetro).</ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(klein) Symbol f&uuml;r Milli.</dif>
       <trd lng="fr">mili</trd>
       <trd lng="pl">mili</trd>
     </subsnc>

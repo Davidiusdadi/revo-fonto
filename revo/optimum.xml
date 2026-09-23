@@ -171,6 +171,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Optimieren.</dif>
     <trd lng="de" fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Optimierung</trd>
     <trd lng="ru">&c_o;&c_p;&c_t;&c_i;&c_m;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>
   </snc>
@@ -193,6 +194,7 @@
         ... + a<sub>in</sub>x<sub>n</sub> &#8805; b<sub>i</sub></frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Problem, ein Extremum einer gegebenen Zielfunktion (auch Kostenfunktion genannt) in einem Bereich eines endlichdimensionalen Vektorraums zu finden, der durch eine Menge von Gleichungen und/oder Ungleichungen begrenzt ist.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Optimierung</trd>,
       <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mathematische Optimierung</trd>

@@ -223,6 +223,7 @@
         <fnt><bib>PMEG</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mehrteilige Konjunktion, die die Zusammengeh&ouml;rigkeit aller beigeordneten Glieder betont, denen jeweils ein eigenes &leftquot;kaj&rightquot; vorangeht.</dif>
     <rim>
       En &ccirc;i tia konstruo &ccirc;iu elemento retenas &ccirc;e si (post sia
       &leftquot;<tld/>&rightquot;) siajn determinilojn kaj prepoziciojn:
@@ -519,6 +520,7 @@
       (t.e. se veras kajo de du propozicioj, tiam veras ajna el tiuj
       propozicioj).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede der beiden Schlussregeln des Aussagenkalk&uuml;ls, die aus einer wahren Konjunktion ein wahres Argument herausl&ouml;st: A&amp;B &#x22A3; A; A&amp;B &#x22A3; B (d. h. wenn die Konjunktion zweier Aussagen wahr ist, dann ist jede dieser Aussagen wahr).</dif>
   </snc>
   <trdgrp lng="de">
     <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Konjunktionsbeseitigung</trd>,
@@ -539,6 +541,7 @@
       (t.e. se veras du propozicioj aparte, tiam anka&ubreve; veras la
       <tld/>o de tiuj propozicioj).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schlussregel des Aussagenkalk&uuml;ls, die zwei getrennt beweisbare Aussagen zu einer beweisbaren Konjunktion verbindet: (G&#x22A3;A; G&#x22A3;B) &#x22A3; (G&#x22A3;A&amp;B) (d. h. wenn zwei Aussagen einzeln wahr sind, dann ist auch die Konjunktion dieser Aussagen wahr).</dif>
   </snc>
   <trd lng="de" fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Konjunktionseinf&uuml;hrung</trd>
   <trd lng="en">conjunction introduction</trd>

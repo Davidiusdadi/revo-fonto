@@ -106,6 +106,7 @@
         forigi, lasante nur la signifajn ciferojn <frm>1,205</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Ziffer 0, mit der die Zahl null dargestellt wird oder die den Wert der links von ihr stehenden Ziffern vervielfacht.</dif>
     <trd lng="ca">zero</trd>
     <trd lng="es">cero</trd>
     <trd lng="fr">z&eacute;ro</trd>
@@ -141,6 +142,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas v&ouml;llig Wertloses oder jemand v&ouml;llig Unf&auml;higes.</dif>
     <trd lng="ca">zero a l'esquerra</trd>
     <trdgrp lng="es">
       <trd>nulo<klr tip="ind"> (persona incapaz)</klr></trd>,
@@ -165,6 +167,7 @@
 elemento</ref>
       rilate al adicie signata <ref cel="operac.0o.MAT">operacio</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Neutrales Element bez&uuml;glich einer additiv geschriebenen Verkn&uuml;pfung.</dif>
     <trd lng="de">Nullelement</trd>
     <trdgrp lng="en">
       <trd>null element</trd>,
@@ -239,6 +242,7 @@ elemento</ref>
         estas lineare sendependaj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit der Nummer 0.</dif>
     <trd lng="ca">zero</trd>
     <trd lng="de" fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nullte</trd>
   </snc>
@@ -267,6 +271,7 @@ elemento</ref>
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dessen Ma&szlig;, Inhalt oder Wert 0 betr&auml;gt.</dif>
     <trd lng="ca">zero</trd>
     <trd lng="de" fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">null</trd>
   </snc>
@@ -304,6 +309,7 @@ elemento</ref>
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ohne Wirkung geblieben; v&ouml;llig wertlos.</dif>
     <refgrp tip="sin">
       <ref cel="van.0a">vana</ref>,
       <ref cel="frukt.sen0a">senfrukta</ref>
@@ -329,6 +335,7 @@ elemento</ref>
         <klr>(p.p. <ref cel="funkci.0o.MAT">funkcio</ref>)</klr>
         alprenanta la valoron <tld/>o.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleich null; (etwa von einer Funktion) den Wert null annehmend.</dif>
     </subsnc>
     <subsnc mrk="nul0.0a.angulo">
       <dif>
@@ -336,6 +343,7 @@ elemento</ref>
         Situanta inter du egalaj lateroj, do malplena; kies mezuro
         egalas al 0&#730;.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Winkel) zwischen zwei gleichen Schenkeln liegend, also leer; mit einem Ma&szlig; von 0&deg;.</dif>
     </subsnc>
     <trd lng="ca">nul</trd>
     <trd lng="de">Null-</trd>
@@ -502,6 +510,7 @@ elemento</ref>
         </fnt>!
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Entwerten, unwirksam machen, amtlich f&uuml;r ung&uuml;ltig erkl&auml;ren, zunichtemachen.</dif>
     <refgrp tip="vid">
       <ref cel="elimin.0i.forigi">elimini<sncref/></ref>,
       <ref cel="esting.0i">estingi</ref>,
@@ -537,6 +546,7 @@ elemento</ref>
         &gcirc;ian variablon.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Eine Funktion, ein Polynom, einen Ausdruck) eine Nullstelle davon sein; ihm den Wert null geben.</dif>
     <trd lng="en">nullify</trd>
     <trd lng="hu">elt&uuml;ntet</trd>
     <trd lng="id"><baz>nol</baz>mengenolkan</trd>
@@ -815,6 +825,7 @@ elemento</ref>
         </fnt>?
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Aufgabe ganz &uuml;bernehmend, ohne unterst&uuml;tzende Grundlage, ohne bereits Vorhandenes.</dif>
   </snc>
   <trd lng="be">&c_z; <ind>&c_n;&c_u;&c_l;&c_ja;</ind></trd>
   <trd lng="ca">de zero</trd>

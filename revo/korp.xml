@@ -48,6 +48,7 @@
         <klr>(e&ubreve;karistio)</klr>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bei Menschen und Tieren die Gesamtheit der materiellen Teile, die den Organismus bilden.</dif>
     <refgrp tip="vid">
       <ref cel="karn.0o">karno</ref>,
       <ref cel="kadavr.0o">kadavro</ref>,
@@ -108,6 +109,7 @@
         li &ccirc;eestis per propra <tld/>o <klr>(persone)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die ganze Person.</dif>
     <trd lng="cs">t&ecaron;lo</trd>
     <trd lng="de">Leib</trd>
     <trd lng="en">body</trd>
@@ -143,6 +145,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede Ansammlung materieller Teilchen; materieller Gegenstand.</dif>
     <refgrp tip="vid">
       <ref cel="materi.0o">materio</ref>,
       <ref cel="sxtof.0o">&scirc;tofo</ref>,
@@ -179,6 +182,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Ring mit Einselement (E,&#x2020;,&#x00D7;), in dem au&szlig;er dem neutralen Element bez&uuml;glich &#x2020; alle anderen Elemente bez&uuml;glich &#x00D7; invertierbar sind.</dif>
     <ref tip="super" cel="strukt.algebra0o">algebra strukturo;</ref>
     <refgrp tip="sub">
       <ref cel="korp.frakci0o">frakci<tld/>o</ref>,
@@ -787,6 +791,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den ganzen K&ouml;rper betreffend.</dif>
   </snc>
   <trd lng="be">&c_u;&c_s;&c_ja;&c_g;&c_o; <ind>&c_c;&c_je;&c_l;&c_a;</ind></trd>
   <trd lng="cs">systemick&yacute;</trd>

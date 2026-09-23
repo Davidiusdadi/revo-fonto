@@ -66,12 +66,14 @@
         <tld/>i per la fingroj <klr>(pri blinduloj)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einem geschriebenen Text mit den Augen folgen und ihn laut oder in Gedanken sprechen.</dif>
   </snc>
   <snc mrk="leg.0i.FIG">
     <uzo tip="stl">FIG</uzo>
     <dif>
       Trovi sencon de io la&ubreve; &gcirc;ia ekstera aspekto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Sinn von etwas aus seinem &auml;u&szlig;eren Anschein erkennen.</dif>
     <subsnc mrk="leg.0i.FIG_intencon">
       <dif>
         Diveni ies penson la&ubreve; la &scirc;ajno:
@@ -86,6 +88,7 @@
           <tld/>i la kura&gcirc;on sur ies viza&gcirc;o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandes Gedanken aus dem &auml;u&szlig;eren Anschein erraten.</dif>
       <refgrp tip="vid">
         <ref cel="decxif.0i">de&ccirc;ifri</ref>,
         <ref cel="konjek.0i">konjekti</ref>,
@@ -101,6 +104,7 @@
           <lok>2011</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In irgendwelchen Erscheinungen Vorzeichen erkennen.</dif>
     </subsnc>
   </snc>
   <snc mrk="leg.0i.KOMP_el_memoro">
@@ -117,6 +121,7 @@
         <tld/>i la valoron de nombrilo en la aritmetikilon.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Daten von einer niedrigeren (peripheren) Ebene der Speicherhierarchie auf eine h&ouml;here (n&auml;her am Hauptprozessor) kopieren.</dif>
     <ref tip="sin" cel="sxarg.0i.KOMP">&scirc;argi</ref>
     <ref tip="ant" cel="skrib.0i.KOMP">skribi</ref>
   </snc>
@@ -153,6 +158,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Computer interne Daten in einer f&uuml;r den Menschen leicht wahrnehmbaren (f&uuml;r Menschen lesbaren) Form darstellen lassen.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_r;&c_a;&c_j;&c_g;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_u;&c_z;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
@@ -513,6 +519,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t zur Eingabe von Daten in einen Computer.</dif>
     <trd lng="be">&c_p;&c_r;&c_y;&c_l;&c_a;&c_d;&c_a; &c_d;&c_l;&c_ja;
     <ind>&c_ch;&c_y;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
     <trd lng="de">Leseger&auml;t</trd>
@@ -615,6 +622,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mittel, um einem Menschen Computer- oder elektronische Informationen darzustellen.</dif>
     <ref tip="super" cel="el.0igilo">eligilo</ref>
     <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_a; &c_d;&c_l;&c_ja;
     <ind>&c_ch;&c_y;&c_t;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
@@ -900,6 +908,7 @@
         <fnt><bib>MT</bib>, <lok>&Eli; 24:7</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Laut vorlesen.</dif>
     <rim>
       &Ccirc;i tiu uzo estas unika en Biblio, dum
       &leftquot;vo&ccirc;<tld/>i&rightquot; estas
@@ -1332,6 +1341,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung, jemandem das Lesen (und meist auch das Schreiben) beizubringen.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_k;&c_a;&c_r;&c_a;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;
@@ -1384,6 +1394,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unf&auml;hig zu lesen, ohne Kenntnis der Buchstaben; analphabetisch.</dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>
   <trd lng="ca">analfabet</trd>

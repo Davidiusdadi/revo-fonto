@@ -101,6 +101,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Punkt, der von den &auml;u&szlig;eren Grenzen von etwas mehr oder weniger gleich weit entfernt ist, im Raum oder in der Zeit.</dif>
     <refgrp tip="vid">
       <ref cel="centr.0o">centro</ref>,
       <ref cel="inter.0">inter</ref>,
@@ -147,6 +148,7 @@
         </fnt>!
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das, was von zwei entgegengesetzten Extremen gleich weit entfernt ist.</dif>
     <refgrp tip="vid">
       <ref cel="ekvili.0o">ekvilibro</ref>,
       &gcirc;usta <ref cel="mezur.0o.FIG">mezuro<sncref/></ref>
@@ -168,6 +170,7 @@
           <ref cel="egal.0a.izometria">egalaj</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Strecke) Der Punkt auf ihr, der von ihren beiden Endpunkten gleich weit entfernt ist.</dif>
       <trd lng="hu">k&ouml;z&eacute;ppont</trd>
     </subsnc>
     <subsnc mrk="mez.0o.punkto.afina">
@@ -178,6 +181,7 @@
         La <ref tip="super" cel="centr.pezo0o.MAT">pezocentro</ref> kun
         egalaj koeficientoj de la du punktoj.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Punktepaars in einem affinen Raum) Der Schwerpunkt der beiden Punkte mit gleichen Koeffizienten.</dif>
     </subsnc>
     <trd lng="de" fnt="AI: hu id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mittelpunkt</trd>
     <trd lng="hu">k&ouml;z&eacute;ppont</trd>
@@ -587,6 +591,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Mittelwert berechnen.</dif>
     <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mitteln</trd>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_a;&c_c;&c_mol;
@@ -779,6 +784,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Genau in der Mitte befindlich.</dif>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_a; &c_w;
   <ind>&c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_je;</ind></trd>
@@ -802,6 +808,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Mitte der Nacht sein.</dif>
     <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitternacht sein</trd>
   </snc>
   <refgrp tip="vid">
@@ -899,6 +906,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil des Tages zwischen Mitternacht und Morgend&auml;mmerung; fr&uuml;her Morgen.</dif>
   </snc>
   <trd lng="pt">madrugada</trd>
 </drv>
@@ -1005,6 +1013,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Mitte des Tages sein.</dif>
     <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mittag sein</trd>
   </snc>
   <refgrp tip="vid">

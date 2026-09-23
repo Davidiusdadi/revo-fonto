@@ -522,6 +522,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Gesamtzahl bestimmter Personen oder Dinge durch Rechnen ermitteln, feststellen.</dif>
     <trdgrp lng="be">
       <trd>&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
       <trd>&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>,
@@ -581,6 +582,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine bestimmte Anzahl von Einheiten enthalten, erreichen.</dif>
     <refgrp tip="vid">
       <ref cel="amplek.0i">ampleksi</ref>,
       <ref cel="ating.0i">atingi</ref>
@@ -733,6 +735,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es z&auml;hlen kann.</dif>
     <trd lng="be">&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
     <trd lng="de">z&auml;hlbar</trd>
     <trd lng="fr">d&eacute;nombrable</trd>
@@ -761,6 +764,7 @@
         kaj multegaj aliaj <fnt><bib>PMEG</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Substantiv) eine Pluralform besitzend und Dinge bezeichnend, die man gedanklich voneinander trennen und z&auml;hlen kann.</dif>
     <ref tip="ant" cel="nombr.ne0ebla.GRA">ne<tld/>ebla<sncref/></ref>
     <trd lng="be">&c_z;&c_mol;&c_l;&c_ib;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;
     <klr>(&c_n;&c_a;&c_z;&c_o;&c_w;&c_n;&c_ib;&c_k;)</klr></trd>
@@ -869,6 +873,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Variable, Speicherzelle oder Ger&auml;t, womit man jederzeit die Anzahl der Vorkommen oder des Auftretens eines Ereignisses, Signals, Symbols usw. feststellen kann. Bei jedem Auftreten des Ph&auml;nomens erh&ouml;ht sich der Wert des Z&auml;hlers.</dif>
     <trd lng="en">counter</trd>
     <trd lng="hu">sz&aacute;ml&aacute;l&oacute;</trd>
     <trdgrp lng="id">
@@ -884,6 +889,7 @@
       Aparato mezuranta kaj esprimanta per <tld/>o la suman kvanton
       de kontinua trafluo (de akvo, elektro ktp).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t, das die Gesamtmenge eines kontinuierlichen Durchflusses (von Wasser, Strom usw.) misst und als Zahl ausdr&uuml;ckt.</dif>
     <trd lng="en">meter</trd>
     <trdgrp lng="hu">
       <trd>sz&aacute;ml&aacute;l&oacute;</trd>,
@@ -1432,6 +1438,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zahlreich sein.</dif>
   </snc>
   <trd lng="be">&c_b;&c_y;&c_c;&c_mol;
   <ind>&c_sh;&c_m;&c_a;&c_t;&c_l;&c_ib;&c_k;&c_ib;&c_m;</ind></trd>

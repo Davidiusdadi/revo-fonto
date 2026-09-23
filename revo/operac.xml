@@ -41,6 +41,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aufgabe, die planm&auml;&szlig;ig und regelgerecht als Teil eines technischen, administrativen, medizinischen, rechnerischen usw. Verfahrens ausgef&uuml;hrt wird; gew&ouml;hnlich handelt es sich um eine nicht einfache Aufgabe, die den richtigen Einsatz von Instrumenten und anderen Mitteln erfordert.</dif>
     <subsnc mrk="operac.0o.KIR">
       <uzo tip="fak">KIR</uzo>
       <dif>
@@ -78,6 +79,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Chirurgisches Verfahren, das zu Heilzwecken mit den H&auml;nden und mit Instrumenten durchgef&uuml;hrt wird, um den Zustand eines Organs zu ver&auml;ndern oder einen kranken, unheilbaren K&ouml;rperteil zu entfernen.</dif>
       <trdgrp lng="de">
         <trd>Operation</trd>,
         <trd>Eingriff</trd>
@@ -136,6 +138,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit von Mitteln, die man kombiniert, um Gewinne zu erzielen; Transaktion.</dif>
       <trdgrp lng="de">
         <trd>Vorgehen</trd>,
         <trd>Vorgehensweise</trd>
@@ -170,6 +173,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Truppenbewegungen, die dazu bestimmt sind, einen Angriff oder eine Verteidigung zum Erfolg zu f&uuml;hren.</dif>
       <trdgrp lng="de">
         <trd>Operation</trd>,
         <trd>Truppenbewegung</trd>
@@ -208,6 +212,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rechnung, die mit bekannten Gr&ouml;&szlig;en ausgef&uuml;hrt wird, um eine oder mehrere unbekannte Gr&ouml;&szlig;en zu ermitteln.</dif>
       <trdgrp lng="de">
         <trd>Rechenart</trd>,
         <trd>Rechenoperation</trd>
@@ -234,6 +239,7 @@
           <tld/>o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einer Menge E) Abbildung von E&#x00D7;E nach E.</dif>
       <refgrp tip="vid">
         Apartaj ecoj de operacio:
         <ref cel="asoci.0eca.operacio">asocieca</ref>,
@@ -331,6 +337,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vorgang, der durch einen einzelnen Computerbefehl ausgef&uuml;hrt wird.</dif>
     <ref tip="malprt" cel="procez.0o.KOMP">procezo<sncref/></ref>
     <trd lng="nl">bewerking</trd>
     <trdgrp lng="zh">
@@ -379,6 +386,7 @@
     <dif>
       Plenumi <tld/>on.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Operation ausf&uuml;hren.</dif>
     <subsnc mrk="operac.0i.KIR">
       <uzo tip="fak">KIR</uzo>
       <gra><vspec>tr</vspec></gra>
@@ -421,6 +429,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine chirurgische Operation durchf&uuml;hren.</dif>
       <trd lng="de">operieren</trd>
       <trdgrp lng="id">
         <trd><baz>bedah</baz>membedah (tubuh)</trd>,
@@ -450,6 +459,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wirtschaftlich, mit Gewinnabsicht t&auml;tig sein.</dif>
     <trd lng="id"><baz>operasi</baz>mengoperasikan</trd>
     </subsnc>
     <subsnc mrk="operac.0i.MIL">
@@ -458,6 +468,7 @@
         Fari militan <tld/>on;
         <ref tip="sin" cel="operac1.0i.MIL">operaci</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine milit&auml;rische Operation durchf&uuml;hren.</dif>
     <trd lng="id"><baz>operasi</baz>beroperasi (militer)</trd>
     </subsnc>
   </snc>
@@ -490,6 +501,7 @@
         <ref cel="spac.afina0o">afina spaco</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Aussage, dass eine Menge R auf einer Menge E operiert, bedeutet, dass es eine &auml;u&szlig;ere Verkn&uuml;pfung von R auf E gibt, die man betrachtet. Dieselbe Redeweise gilt auch f&uuml;r die Elemente von R, wenn man von ihrer &auml;u&szlig;eren Verkn&uuml;pfung auf E spricht.</dif>
     <trd lng="de">operieren</trd>
     <trdgrp lng="en">
       <trd>act</trd>,
@@ -509,6 +521,7 @@
         <tld/>i per algebraj kvantoj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Funktionieren oder mit etwas umgehen, indem man Operationen ausf&uuml;hrt.</dif>
     <trd lng="de">arbeiten</trd>
     <trd lng="id"><baz>operasi</baz>beroperasi</trd>
     <trd lng="nl">werken</trd>
@@ -859,6 +872,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mathematisches Fachgebiet, das Methoden zur Vorbereitung von Entscheidungen durch mathematische Beschreibung der wesentlichen Faktoren untersucht, die in komplexen Systemen aus verschiedenen Bereichen menschlichen Handelns (milit&auml;rischen, wirtschaftlichen, industriellen) eine Rolle spielen.</dif>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je; <ind>&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_j;</ind></trd>
   <trd lng="cs">opera&ccaron;n&iacute; pr&uring;zkum</trd>

@@ -521,6 +521,7 @@
     <dif>
       Mallaborema lernanto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fauler Sch&uuml;ler.</dif>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">dunce</trd>
   </snc>
   <trd lng="be">&c_n;&c_ja;&c_w;&c_p;&c_r;&c_a;&c_w;&c_n;&c_y;
@@ -674,6 +675,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ort, der zum Lernen bestimmt ist.</dif>
   <trdgrp lng="be">
     <trd>&c_sh;&c_k;&c_o;&c_l;&c_a;</trd>,
     <trd>&c_v;&c_u;&c_ch;&c_e;&c_l;&c_mol;&c_n;&c_ja;</trd>,
@@ -703,6 +705,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Alles, was Wissen und Erfahrung vermittelt.</dif>
     <trd lng="be">&c_sh;&c_k;&c_o;&c_l;&c_a; <klr>(&c_p;&c_je;&c_r;&c_a;&c_n;.)</klr></trd>
     <trd lng="de">Schule <klr>(des Lebens usw.)</klr></trd>
 
@@ -1002,6 +1005,7 @@
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bewirken, dass etwas gelernt wird; jemandem etwas beibringen.</dif>
     <trd lng="be">&c_v;&c_y;&c_k;&c_l;&c_a;&c_d;&c_a;&c_c;&c_mol;<klr>
     (&c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;
     &c_k;&c_a;&c_m;&c_u;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
@@ -1029,6 +1033,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bewirken, dass jemand lernt; jemanden in etwas unterrichten.</dif>
     <refgrp tip="vid">
       <ref cel="eduk.0i.infanon">eduki</ref>,
       <ref cel="ekzerc.0i">ekzerci</ref>
@@ -1508,6 +1513,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schule, die Sch&uuml;ler auf die Aufnahmepr&uuml;fungen von Universit&auml;ten oder Hochschulen vorbereitet.</dif>
   </snc>
   <trdgrp lng="fr">
     <trd>classe pr&eacute;paratoire</trd>,
@@ -1845,6 +1851,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Lernmittel f&uuml;r Selbstlernende.</dif>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_v;&c_u;&c_ch;&c_y;&c_c;&c_je;&c_l;&c_mol;</trd>
   <trd lng="ca">llibre d'autoaprenentatge</trd>

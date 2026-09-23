@@ -55,6 +55,7 @@
         ne&ubreve;trala tut<tld/>a formo<fnt><bib>AdE</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Zeichen) Zu einem Zeichensatz geh&ouml;rend, dessen Glyphen sich alle zwischen zwei parallelen waagerechten Linien unterbringen lassen, die sie ber&uuml;hren.</dif>
     <ref tip="ant" cel="minuskl.0a">minuskla</ref>
     <rim>
       La eksterliniaj <ref cel="diakrit.0ilo">diakritiloj</ref>
@@ -255,12 +256,14 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein gew&ouml;hnlich klein geschriebenes Wort mit einem gro&szlig;en Anfangsbuchstaben schreiben (zum Beispiel in Eigennamen, Titeln usw.).</dif>
     <trd lng="de">gro&szlig; schreiben</trd>
   </snc>
   <snc mrk="majuskl.0igi.tute">
     <dif>
       Transformi tute en <tld/>an skribon.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vollst&auml;ndig in Gro&szlig;buchstaben umwandeln.</dif>
     <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Gro&szlig;buchstaben umwandeln</trd>
     <trd lng="en">in <ind>Gro&szlig;buchstaben</ind> umwandeln</trd>
   </snc>

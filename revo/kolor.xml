@@ -84,6 +84,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Besonderer Eindruck, den ein Lichtstrahl durch das Spektrum seiner Wellenl&auml;ngen (zwischen 380 und 760 nm) im Auge hervorruft.</dif>
     <lstref lst="voko:koloroj"><tld/>oj</lstref>
     <trd lng="ca">color</trd>
     <trdgrp lng="pl">
@@ -96,6 +97,7 @@
     <dif>
       Difinita <tld/>o rolanta kiel konvencia signo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bestimmte Farbe, die als vereinbartes Zeichen dient.</dif>
     <subsnc mrk="kolor.0o.POL">
       <dif>
         <tld lit="K"/>a simbolo de iu homgrupo, teamo:
@@ -120,6 +122,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Farbiges Symbol einer Menschengruppe oder einer Mannschaft.</dif>
     </subsnc>
     <subsnc mrk="kolor.0o.ludkarta">
       <uzo tip="fak">SPO</uzo>
@@ -128,6 +131,7 @@
         <ref tip="sub" cel="emblem.0o.karta">emblemoj</ref>,
         la ru&gcirc;a (karoo kaj kero) kaj la nigra (piko kaj trefo).
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede der beiden Gruppen der Spielkartenfarben: die rote (Karo und Herz) und die schwarze (Pik und Kreuz).</dif>
       <trd lng="ca">color <klr>(ex: escala de color, al
       p&ograve;quer)</klr></trd>
       <trd lng="pl">kolor</trd>
@@ -153,6 +157,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wahrnehmbare Gesamtheit von Eigenschaften, durch die sich etwas unterscheidet und erkennbar ist.</dif>
     <subsnc mrk="kolor.0o.stilo">
       <uzo tip="fak">BELE</uzo>
       <dif>
@@ -739,6 +744,7 @@
     <dif>
       Homo, kies metio estas <tld/>igi:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, dessen Handwerk das F&auml;rben ist.</dif>
     <subsnc mrk="kolor.0igisto.BELA">
       <uzo tip="fak">BELA</uzo>
       <dif>
@@ -748,6 +754,7 @@
           <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 1a</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Zeichnungen, Handschriften usw. mit Farbmitteln ausmalt.</dif>
       <trd lng="ca">colorista</trd>
       <trd lng="de" fnt="AI: fr ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Kolorist</trd>
       <trd lng="fr">coloriste</trd>
@@ -762,6 +769,7 @@
       <dif>
         <tld lit="K"/>igante &scirc;tofon, drapon.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Stoffe und Tuche f&auml;rbt.</dif>
       <trd lng="ca">tintorer</trd>
       <trd lng="de">F&auml;rber</trd>
       <trd lng="pl">barwiarz</trd>
@@ -780,6 +788,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der N&auml;gel oder Haare f&auml;rbt.</dif>
       <trd lng="pl">fryzjer</trd>
     </subsnc>
     <subsnc mrk="kolor.0igisto.KON">
@@ -1302,6 +1311,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dessen Farbe sich je nach Lichtreflexen oder aus einem anderen Grund leicht &auml;ndert.</dif>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_l;&c_ib;&c_v;&c_ib;&c_s;&c_t;&c_y; <klr>(&c_p;&c_r;&c_a; &c_k;&c_o;&c_l;&c_je;&c_r;)</klr></trd>
   <trd lng="ca">tornassolat</trd>

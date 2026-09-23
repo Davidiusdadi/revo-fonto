@@ -99,6 +99,7 @@
         de l' oratoro <klr>(avide a&ubreve;skultis)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einem Ende so befestigt sein, dass der Rest frei ist und weder den Erdboden noch den Fu&szlig;boden ber&uuml;hrt.</dif>
     <trd lng="br">beza&ntilde; <ind>a-istribilh</ind></trd>
     <trdgrp lng="hu">
       <trd>f&uuml;gg</trd>,
@@ -121,6 +122,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gehenkt sein.</dif>
     <trd lng="hu">l&oacute;g</trd>
   </snc>
   <snc mrk="pend.0i.FIG">
@@ -205,6 +207,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reglos &uuml;ber jemandem oder etwas verharren; schweben.</dif>
     <trd lng="hu">lebeg</trd>
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_s;&c_je;&c_c;&c_mol;</trd>
@@ -279,6 +282,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas an einem Ende so befestigen, dass das andere Ende weder den Erdboden noch den Fu&szlig;boden ber&uuml;hrt.</dif>
     <trd lng="br">istribilha&ntilde;</trd>
   </snc>
   <snc mrk="pend.0igi.pendumi">
@@ -532,6 +536,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Aufh&auml;ngen an einem um den Hals gelegten Strick t&ouml;ten; aufh&auml;ngen.</dif>
     <ref tip="super" cel="ekzeku.0i">ekzekuti</ref>
   <trd lng="id"><baz>hukum</baz>menghukum gantung</trd>
   </snc>
@@ -760,6 +765,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht eigenst&auml;ndig, sondern beeinflusst von; gem&auml;&szlig;.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a; &c_a;&c_d;</trd>,
@@ -841,6 +847,7 @@
         a&ubreve; ne.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dem Willen oder der Macht von jemandem unterworfen sein.</dif>
     <refgrp tip="vid">
       <ref cel="obe.0i">obei</ref>,
       <ref cel="met.sub0i">submetita</ref>.
@@ -894,6 +901,7 @@
         li al mi respondos.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit etwas durch eine enge Folgebeziehung verbunden sein.</dif>
     <trd lng="be">&c_z;&c_a;&c_l;&c_je;&c_zh;&c_a;&c_c;&c_mol;</trd>
     <trd lng="br">beza&ntilde; <ind>diouzh</ind></trd>
     <trd lng="en">depend</trd>
@@ -916,6 +924,7 @@
         tiu vila&gcirc;o ne de<tld/>as de nia distrikto.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bestandteil eines Ganzen sein.</dif>
     <refgrp tip="vid">
       <ref cel="aparte.0i">aparteni</ref>.
     </refgrp>
@@ -1124,6 +1133,7 @@
         <fnt><bib>Revadoj</bib>, <lok>Sesa promenado</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht abh&auml;ngig.</dif>
     <refgrp tip="sin">
       Kvaza&ubreve;a sinonimo:
       <ref cel="pend.sende0a">sende<tld/>a</ref>.
@@ -1158,6 +1168,7 @@
           P(<g>a</g>)</frm>)</klr>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Ereignissen) So beschaffen, dass die Wahrscheinlichkeit ihrer Schnittmenge gleich dem Produkt ihrer Wahrscheinlichkeiten ist.</dif>
       <trd lng="de">unabh&auml;ngig<klr tip="ind"> (-es
       Ereignis)</klr></trd>
       <trd lng="en">independent<klr tip="ind"> (event)</klr></trd>
@@ -1188,6 +1199,7 @@
           <klr>(simb. <frm am="E(X*Y)=E(X)*E(Y)">E(X&middot;Y) = E(X)&middot;E(Y)</frm>)</klr>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von zwei Zufallsvariablen X und Y &uuml;ber demselben Wahrscheinlichkeitsraum) So beschaffen, dass f&uuml;r beliebige reelle Zahlen x und y die Ereignisse (X &lt; x) und (Y &lt; y) unabh&auml;ngig sind.</dif>
       <rim>
         Troveblas <ctl>stokaste nede<tld/>a</ctl> en
         <fnt><bib>MatVort</bib></fnt>, probable kun la sencoj
@@ -1334,6 +1346,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichg&uuml;ltig, ob dies zutrifft oder nicht; wie auch immer die betreffende Lage ist.</dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a; &c_a;&c_d; &c_t;&c_a;&c_g;&c_o;, &c_c;&c_ib;</trd>
   <trd lng="bg">&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_o; &c_d;&c_a;&c_l;&c_i;</trd>
@@ -1453,6 +1466,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Politische Bewegung f&uuml;r die Verselbst&auml;ndigung einer Provinz oder eines Teils eines Staates.</dif>
   </snc>
   <trd lng="be">&c_s;&c_e;&c_p;&c_a;&c_r;&c_a;&c_t;&c_y;&c_z;&c_m;</trd>
   <trd lng="bg">&c_s;&c_je;&c_p;&c_a;&c_r;&c_a;&c_t;&c_i;&c_z;&c_malmol;&c_m;</trd>

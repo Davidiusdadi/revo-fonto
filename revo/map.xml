@@ -29,6 +29,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeichnung, die eine Gegend durch Symbole ihrer Gegenst&auml;nde (Wege, Relief, B&ouml;den, Wetter &#x2026;) darstellt (geografische Karte, Landkarte), oder den Himmel mit seinen Gestirnen (astronomische Karte).</dif>
     <ref tip="sin" cel="kart.0o.GEOG_AST">karto<sncref/></ref>
     <refgrp tip="vid">
       <ref cel="projek.0o.GEOG">projekcio <sncref/></ref>
@@ -159,6 +160,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Buchf&ouml;rmige Sammlung von Karten, gew&ouml;hnlich mit Registern und Zusatzinformationen.</dif>
   <trd lng="en">atlas</trd>
   </snc>
   <trd lng="be">&c_a;&c_t;&c_l;&c_a;&c_s;  <klr tip="amb">(&c_g;&c_je;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_y;)</klr></trd>
@@ -222,6 +224,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Gebiet darstellen, indem man eine Karte davon anfertigt.</dif>
   <trd lng="en">map</trd>
   </snc>
   <trdgrp lng="be">
@@ -283,6 +286,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeichnung, die miteinander verbundene Ideen darstellt, gew&ouml;hnlich indem sie W&ouml;rter nach einem sich verzweigenden Schema anordnet.</dif>
   <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mindmap</trd>
   <trd lng="en">mind <ind>map</ind></trd>
   </snc>
@@ -326,6 +330,7 @@
         <fnt><bib>SatirRak</bib>, <lok>supersti&ccirc;o</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Karte, die die ganze bekannte Welt, die ganze Erde darstellt.</dif>
     <refgrp tip="sin">
       <ref cel="glob.plat0o">platglobo</ref>
     </refgrp>

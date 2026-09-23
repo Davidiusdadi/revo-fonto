@@ -150,6 +150,7 @@
       <ref tip="super" cel="projek.0i.FOT">Projekcii</ref> <tld/>ajn
       bildojn.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kinematografische Bilder projizieren.</dif>
     <trd lng="be">&c_p;&c_a;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_k;&c_ib;&c_n;&c_a;&c_f;&c_ib;&c_l;&c_mol;&c_m;)</klr></trd>
     <trd lng="de" fnt="AI: ref fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vorf&uuml;hren</trd>
     <trd lng="fr">projeter<klr tip="ind"> (un film)</klr></trd>
@@ -164,6 +165,7 @@
     <dif>
       Registri <tld/>ajn bildojn.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kinematografische Bilder aufnehmen.</dif>
     <refgrp tip="sin">
       <ref cel="film.0i">filmi</ref>,
       <ref cel="kamera.0i">kamerai</ref>.

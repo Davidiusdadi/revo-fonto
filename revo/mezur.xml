@@ -686,6 +686,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es messen kann.</dif>
     <trd lng="fr">mesurable</trd>
     <trd lng="nl">meetbaar</trd>
     <trdgrp lng="pl">
@@ -714,6 +715,7 @@
         <tld/>ebla.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einer Abbildung f einer Menge E in eine Menge F, die mit &sigma;-Algebren A bzw. B versehen sind) So beschaffen, dass das Urbild unter f jedes Elements von B zu A geh&ouml;rt.</dif>
     <trd lng="en">measurable<klr tip="ind"> (mapping)</klr></trd>
     <trd lng="de">messbar<klr tip="ind"> (-e Abbildung)</klr></trd>
     <trd lng="fr"><klr tip="ind">(application) </klr>mesurable</trd>
@@ -1506,6 +1508,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Messvorrichtung, gew&ouml;hnlich ein Gef&auml;&szlig;, mit der man Getreidemengen abmisst.</dif>
     <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Scheffel</trd>
   </snc>
   <trd lng="fr">boisseau<klr> (r&eacute;cipient)</klr></trd>
@@ -1531,6 +1534,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Messger&auml;t f&uuml;r die verschiedenen Eigenschaften (Farbton, Intensit&auml;t, Helligkeit oder andere Skalen) von Farben; Kolorimeter.</dif>
     <trd lng="de" fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kolorimeter</trd>
   </snc>
   <trdgrp lng="be">
@@ -1568,6 +1572,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Messger&auml;t f&uuml;r die Geschwindigkeit eines Gehenden oder Fahrenden; Tachometer.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tachometer</trd>,
       <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geschwindigkeitsmesser</trd>

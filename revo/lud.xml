@@ -94,6 +94,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich vergn&uuml;gen, sich zerstreuen, indem man etwas tut, nicht um eines Nutzens willen, sondern aus blo&szlig;er Freude am Tun.</dif>
     <trd lng="bg">&c_i;&c_g;&c_r;&c_a;&c_ja;</trd>
     <trd lng="ca">jugar</trd>
     <trd lng="es">jugar</trd>
@@ -113,6 +114,7 @@
       <ref tip="vid" cel="prezen1.0i">Prezenti</ref> spekta&jcirc;on,
       vivan arta&jcirc;on.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Darbietung, ein lebendiges Kunstwerk auff&uuml;hren.</dif>
     <subsnc mrk="lud.0i.MUZ">
       <uzo tip="fak">MUZ</uzo>
       <gra><vspec>x</vspec></gra>
@@ -172,6 +174,7 @@
           <fnt><bib>MT</bib> <lok>&Psa; 33:2</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf einem Instrument musizieren, um sich oder andere zu unterhalten.</dif>
       <trd lng="bg">&c_s;&c_v;&c_i;&c_r;&c_i;</trd>
       <trd lng="br">seni&ntilde;</trd>
       <trd lng="ca">tocar <klr tip="amb">(un instrument)</klr></trd>
@@ -224,6 +227,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Andere unterhalten, indem man ein Theaterst&uuml;ck auff&uuml;hrt; schauspielern, eine Rolle verk&ouml;rpern.</dif>
       <trd lng="ca">fer <klr tip="amb">(teatre, un paper)</klr></trd>
       <trd lng="de">auff&uuml;hren</trd>
       <trd lng="es">actuar</trd>
@@ -254,6 +258,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vort&auml;uschen, heucheln.</dif>
     <trdgrp lng="de">
       <trd>vorspielen</trd>,
       <trd>vormachen</trd>
@@ -303,6 +308,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Um einen Einsatz spielen; es auf Gewinn oder Verlust ankommen lassen.</dif>
     <trd lng="bg">&c_i;&c_g;&c_r;&c_a;&c_ja;</trd>
     <trdgrp lng="ca">
       <trd>jugar</trd>,
@@ -1689,6 +1695,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sexuell spielen, erotisch necken.</dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_j;&c_m;&c_a;&c_c;&c_c;&c_a;
   <ind>&c_s;&c_e;&c_k;&c_s;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_m;&c_ib;</ind>
@@ -1761,6 +1768,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Spiel, das au&szlig;er der Unterhaltung noch einen anderen Zweck verfolgt: einen belehrenden, informierenden, datensammelnden &#x2026;</dif>
   </snc>
   <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Serious Game</trd>
   <trd lng="fr">jeu s&eacute;rieux</trd>
@@ -2173,6 +2181,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Spiel, bei dem die Spieler W&ouml;rter aus Buchstaben oder als Antwort auf Fragen erraten, kombinieren oder bilden m&uuml;ssen, zum Beispiel Scrabble, Kreuzwortr&auml;tsel &#x2026;</dif>
     <ref tip="sub" cel="sxarad.0o">&scirc;arado</ref>
     <trd lng="es">juego ling&uuml;&iacute;stico</trd>
     <trd lng="fr">jeu linguistique</trd>
@@ -2222,6 +2231,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Scherz, der durch die Ausnutzung von Gleichklang, Doppeldeutigkeit oder anderen Besonderheiten der W&ouml;rter belustigt.</dif>
     <trd lng="es">juego de palabras</trd>
     <trd lng="fr">jeu de mot</trd>
     <trd lng="id"><baz>main</baz>permainan kata</trd>

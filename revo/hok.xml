@@ -451,6 +451,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleiner Haken.</dif>
   <trdgrp lng="id">
     <trd>kait kecil</trd>,
     <trd><baz>kait</baz>pengait kecil</trd>,
@@ -475,6 +476,7 @@
         <trd lng="de">abhaken</trd>
       </ekz>
     </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hakenf&ouml;rmiges Zeichen (&#x2713;).</dif>
     <subsnc mrk="hok.0eto.kromsigno.ubreve">
       <dif>
         Ronda <tld/>forma <ref tip="super" cel="sign.krom0o.diakrita">kromsigno</ref> kiel tiu super
@@ -519,6 +521,7 @@
     	  </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rundes hakenf&ouml;rmiges diakritisches Zeichen wie das &uuml;ber dem u im Esperanto-Buchstaben &ubreve;, Unicode-Kurzname: &amp;ubreve;.</dif>
       <ref tip="vid" cel="ux.0">&ubreve;</ref>
       <trd lng="ca">breu <klr>(signe)</klr></trd>
       <trdgrp lng="de">
@@ -581,6 +584,7 @@
         </ekz>
         -->
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Spitzes hakenf&ouml;rmiges diakritisches Zeichen wie das &uuml;ber dem c im tschechischen Buchstaben &ccaron;, Unicode-Kurzname: &amp;ccaron;.</dif>
       <trdgrp lng="ca">
         <trd>anticircumflex</trd>,
         <trd>h&agrave;txec</trd>
@@ -814,6 +818,7 @@
         <fnt><bib>MkM</bib></fnt>
       </ekz>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Haken, an den man eine Jacke, einen Mantel und &Auml;hnliches h&auml;ngt.</dif>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">coat-peg</trd>
   </snc>
   <trd lng="be">&c_v;&c_je;&c_sh;&c_a;&c_l;&c_k;&c_a; <klr>(&c_d;&c_l;&c_ja; &c_a;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>

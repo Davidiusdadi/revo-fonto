@@ -363,6 +363,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht &uuml;berall vorhanden, die Grenzen eines Ortes nicht &uuml;berschreitend, nur einen Teil eines Ganzen betreffend.</dif>
     <refgrp tip="ant">
       <ref cel="lok.mal0a">mal<tld/>a</ref>
     </refgrp>
@@ -404,6 +405,7 @@
         <klr>(tiuj de la koncernaj horzonoj)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zu einer untergeordneten territorialen Ebene geh&ouml;rend, im Gegensatz zu etwas Zentralem, Landesweitem oder die ganze Gesellschaft Betreffendem usw.; nicht zentral, peripher.</dif>
     <trdgrp lng="ru">
       <trd>&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>,
       <trd>&c_r;&c_je;&c_g;&c_i;&c_o;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
@@ -454,6 +456,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einem bestimmten Ort eigen.</dif>
     <trdgrp lng="ru">
       <trd>&c_m;&c_je;&c_s;&c_t;&c_n;&c_y;&c_j;</trd>,
       <trd>&c_t;&c_u;&c_z;&c_je;&c_m;&c_n;&c_y;&c_j;</trd>
@@ -485,6 +488,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich auf Lage, Raum, Ort beziehend.</dif>
     <rim>
       Ofte &ccirc;i tiun sencon pli klare esprimas kunmeta&jcirc;o, ekz-e
       <ref tip="vid" cel="adverb.lok0o"><tld/>adverbo</ref> ktp.
@@ -638,6 +642,7 @@
         oni <tld/>os tiun eltrova&jcirc;on inter la plej utilajn.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden oder etwas in eine bestimmte Lage bringen.</dif>
     <trdgrp lng="de">
       <trd>stellen</trd>
     </trdgrp>
@@ -664,6 +669,7 @@
         <tld/>i iun en superan oficon, rangon.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Platz f&uuml;r jemanden oder etwas finden und dessen Versorgung regeln.</dif>
     <trd lng="de" fnt="AI: ru en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unterbringen</trd>
     <trdgrp lng="en">
       <trd>instal</trd>,
@@ -753,6 +759,7 @@
         literoj en la alfabeto, monunua signo ktp.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede der Konventionen zur Darstellung von Daten, die f&uuml;r die betreffende Kultur (Land, Volksgruppe) gelten und n&ouml;tig sind, um Software richtig anzupassen.</dif>
     <trd lng="en">locale category</trd>
     <trd lng="es">par&aacute;metro de configuraci&oacute;n regional<klr>
     (inf.)</klr></trd>
@@ -785,6 +792,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von Lokalisierungskonventionen, gesammelt in einer Datei oder einem Verzeichnis, deren Beschreibungen man gemeinsam gem&auml;&szlig; den &ouml;rtlichen Gepflogenheiten aktivieren kann.</dif>
     <trd lng="en">locale</trd>
     <trd lng="es">conjunto de par&aacute;metros de configuraci&oacute;n regional<klr>
     (inf.)</klr></trd>
@@ -811,6 +819,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge von Orten.</dif>
     <trdgrp lng="be">
       <trd>&c_m;&c_je;&c_s;&c_c;&c_y;</trd>,
       <trd>&c_m;&c_ja;&c_s;&c_c;&c_o;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -843,6 +852,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge von Punkten, die eine bestimmte Eigenschaft erf&uuml;llen.</dif>
     <rim>
       Kvankam tiu &ccirc;i termino estas a&ubreve;toritata, bone formita kaj
       ar&hcirc;aika, &ccirc;ar &ccirc;iam anstata&ubreve;igebla
@@ -1040,6 +1050,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einen anderen Ort setzen.</dif>
     <trd lng="ru">&c_s;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>
   </snc>
   <trd lng="be">&c_z;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_mol;</trd>
@@ -1098,6 +1109,7 @@
     <dif>
       Ago de<tld/>igi.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Verschiebens.</dif>
     <trdgrp lng="be">
       <trd>&c_z;&c_r;&c_u;&c_h;</trd>,
       <trd>&c_z;&c_r;&c_u;&c_sh;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -1140,6 +1152,7 @@
         <ref cel="rotaci.0o.afina">rotacio</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigentliche (positive) affine Isometrie.</dif>
     <ref tip="vid" cel="koinci.0i.figuroj_ka">koincidigebla.</ref>
     <rim>
       Pluraj naciaj lingvoj sugestas, ke <ctl>movo</ctl> povus esti
@@ -1417,6 +1430,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An der richtigen, geeigneten, passenden Stelle.</dif>
     <trd lng="be">&c_u; &c_n;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_y;&c_m; <ind>&c_m;&c_je;&c_s;&c_c;&c_y;</ind></trd>
     <trdgrp lng="fr">
       <trd>&agrave; sa place</trd>,
@@ -1432,6 +1446,7 @@
         <fnt><bib>Revizoro</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Umst&auml;nden angemessen, passend.</dif>
     <trdgrp lng="be">
       <trd>&c_d;&c_a;&c_r;&c_e;&c_ch;&c_n;&c_y;</trd>,
       <trd>&c_s;&c_l;&c_u;&c_sh;&c_n;&c_y;</trd>
@@ -1508,6 +1523,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ort, Dorf, kleine Gegend, die jemand als sein Zuhause betrachtet, weil er dort geboren wurde oder lange und gern dort gelebt hat.</dif>
     <trd lng="th">&#xE1A;&#xE49;&#xE32;&#xE19;&#xE40;&#xE01;&#xE34;&#xE14;</trd>
   </snc>
   <trdgrp lng="be">
@@ -1575,6 +1591,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einer falschen, nicht guten Stelle.</dif>
     <trdgrp lng="be">
       <trd>&c_n;&c_je; &c_n;&c_a; &c_n;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_y;&c_m; <ind>&c_m;&c_je;&c_s;&c_c;&c_y;</ind></trd>,
       <trd>&c_n;&c_ja; <ind>&c_t;&c_a;&c_m;</ind>, &c_d;&c_z;&c_je; &c_t;&c_r;&c_e;&c_b;&c_a;</trd>
@@ -1895,6 +1912,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hin&uuml;ber an einen anderen Ort setzen.</dif>
     <trd lng="th">&#xE22;&#xE49;&#xE32;&#xE22;</trd>
   </snc>
   <trdgrp lng="be">
@@ -1991,6 +2009,7 @@
         multaj kapitaloj trans<tld/>i&gcirc;is el E&ubreve;ropo al Ameriko.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich an einen anderen Ort begeben.</dif>
     <trdgrp lng="es">
       <trd><ind>mover</ind>se</trd>,
       <trd><ind>trasladar</ind>se</trd>

@@ -13,6 +13,7 @@
     <ref tip="dif" cel="fin.0ajxo">Fina&jcirc;o</ref> markanta la <ref tip="dif"
     cel="akuzat.0o">akuzativon</ref> indikanta:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Endung, die den Akkusativ markiert und Folgendes anzeigt.</dif>
   <snc mrk="n.0.komplemento">
     <dif>
       Objekton (rektan komplementon de verbo) &ccirc;e substantivo,
@@ -39,6 +40,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">das Objekt (direkte Erg&auml;nzung eines Verbs) bei einem Substantiv, Adjektiv, Pronomen.</dif>
     <ref tip="vid" cel="transi1.0a">transitiva</ref>
     <rim>
       Apud izolita akuzativigita vorto, kiel &leftquot;saluto<tld/>!&rightquot;, &leftquot;gratulo<tld/>!&rightquot;,
@@ -51,6 +53,7 @@
     <dif>
       Direkton
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">die Richtung</dif>
     <subsnc>
       <dif>
         kaj celon post la prepozicioj allasantaj &ccirc;i tiun
@@ -94,6 +97,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">und zwar das Ziel nach den Pr&auml;positionen, die diese Bedeutung zulassen.</dif>
       <rim>
         Oni ne uzas akuzativon post prepozicio signifanta per si mem
         almovon kiel <em>al</em>, <em>tra</em>, <em>&gcirc;is</em>.
@@ -137,6 +141,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">bei einem Adverb und einigen Tabellenw&ouml;rtern.</dif>
     </subsnc>
   </snc>
   <snc mrk="n.0.tempo">
@@ -177,6 +182,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">einen Zeitpunkt, wobei sie eine Pr&auml;position ersetzt.</dif>
     <rim>
       En hor-esprimoj oni uzu &leftquot;je&rightquot;, precipe se la vorto &leftquot;horo&rightquot; estas
       forlasita, por ne konfuzi horon kun dato: <ekz>tio okazis la
@@ -189,6 +195,7 @@
     <dif>
       Mezuron
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">ein Ma&szlig;</dif>
     <subsnc>
       <dif>
         tempan:
@@ -218,6 +225,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">ein zeitliches.</dif>
     </subsnc>
     <subsnc>
       <dif>
@@ -246,6 +254,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">ein Ma&szlig; anderer Art.</dif>
     </subsnc>
   </snc>
   <snc mrk="n.0.je">
@@ -257,6 +266,7 @@
          <fnt><bib>LR</bib>, <lok> La Esperantisto, 1892, p.62</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">den Ersatz der Pr&auml;position &leftquot;je&rightquot;, wenn keine Doppeldeutigkeit zu bef&uuml;rchten ist.</dif>
   </snc>
   <snc mrk="n.0.kun">
     <uzo tip="stl">EVI</uzo>
@@ -271,6 +281,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">den Ersatz der Pr&auml;position &leftquot;kun&rightquot;.</dif>
   </snc>
  <rim num="1">
    &Z; atentigas, ke &leftquot;la akuzativo en nia lingvo neniam dependas de la

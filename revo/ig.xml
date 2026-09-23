@@ -25,6 +25,7 @@
     subkompreni anta&ubreve; la sufikso la fina&jcirc;ojn <em>-a</em> a&ubreve;
     <em>-e</em>:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einer nichtverbalen Wurzel bedeutet ig: &leftquot;so handeln, dass jemand anderes in dem Zustand ist, den die Wurzel ausdr&uuml;ckt; bewirken, dass jemand irgendwie beschaffen ist oder sich irgendwie verh&auml;lt&rightquot;; anders gesagt, man muss vor dem Suffix stets die Endungen -a oder -e mitverstehen.</dif>
   <!-- ig I, A) -->
   <snc mrk="ig.0.kun_adjektivo">
     <dif>
@@ -111,6 +112,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit adjektivischer Wurzel.</dif>
   </snc>
   <!-- ig I, B) -->
   <snc mrk="ig.0.kun_adv_prep">
@@ -184,6 +186,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit adverbialer, pr&auml;positionaler oder Affix-Wurzel.</dif>
   </snc>
   <snc mrk="ig.0.kun_nombro">
     <dif>
@@ -203,6 +206,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit Zahlwurzel.</dif>
   </snc>
   <!-- ig I, C) -->
   <snc mrk="ig.0.kun_substantivo">
@@ -280,6 +284,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einfacher substantivischer Wurzel tritt ig an die von der Wurzel abgeleitete adjektivische Form.</dif>
     <rim num="1">
       Kun kelkaj substantivoj, kiuj montras mem kvaliton pli &gcirc;uste ol
       objekton, <em>ig</em> subkomprenigas anta&ubreve; si la fina&jcirc;on
@@ -451,6 +456,7 @@
       la&ubreve; la speco de la prefikso, sed la substantivo
       estas &ccirc;iam la komplemento de tiu prepozicio.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit substantivischer Wurzel, der eine Pr&auml;position als Pr&auml;fix vorangeht, hat ig je nach Art des Pr&auml;fixes verschiedene Bedeutungen, doch ist das Substantiv stets die Erg&auml;nzung dieser Pr&auml;position.</dif>
     <subsnc mrk="ig.0.kunderivado.loka">
       <dif>
         Kun loka prepozicio, <em>ig</em> signifas:
@@ -511,6 +517,7 @@
           surter<tld/>i, ktp.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einer Ortspr&auml;position bedeutet ig: &leftquot;an den Ort bringen, den die Wurzel ausdr&uuml;ckt&rightquot;.</dif>
     </subsnc>
     <subsnc mrk="ig.0.kunderivado.sena">
       <dif>
@@ -534,6 +541,7 @@
           detron<tld/>i, senvual<tld/>i, dezon<tld/>i, ktp.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einer Pr&auml;position, die Fehlen oder Entfernung ausdr&uuml;ckt, bedeutet ig: &leftquot;von dem Gegenstand befreien, den die Wurzel ausdr&uuml;ckt&rightquot;.</dif>
     </subsnc>
     <subsnc mrk="ig.0.kunderivado.maniera">
       <dif>
@@ -553,6 +561,7 @@
         (Kp. -<tld/><sncref ref="ig.0.kun_substantivo"/>
          <sncref ref="ig.0.rim_I_C_3"/>).
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einer Pr&auml;position, die die Art und Weise ausdr&uuml;ckt (la&ubreve;, en usw.), bedeutet ig: &leftquot;in den Zustand versetzen, den die Wurzel ausdr&uuml;ckt&rightquot;.</dif>
       <rim num="1" mrk="ig.0.kunderivado.maniera_1">
         &Ccirc;ar kelkaj verbaj radikoj ne ebligas, ke oni devenigu de ili
         verbojn kun maniera a&ubreve; seniga signifo, oni devas tiri tiajn
@@ -1256,6 +1265,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Adverb, das die Verursachung bezeichnet und den Handelnden angibt.</dif>
     <refgrp tip="sin">
       <ref cel="de.0.aganto">de<sncref/></ref>,
       <ref cel="ag.0e_de">age de</ref>,

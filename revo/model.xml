@@ -14,6 +14,7 @@
        Objekto a&ubreve; karaktero havanta elstarajn ecojn
        imitindajn pro perfekteco, simpleco, virteco, normeco ktp:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenstand oder Charakter mit hervorragenden, wegen Vollkommenheit, Einfachheit, Tugend, Normgerechtheit usw. nachahmenswerten Eigenschaften.</dif>
     <subsnc mrk="model.0o.KOMUNE">
       <dif>
         Objekto farita por esti imitata:
@@ -67,6 +68,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenstand, der dazu gemacht ist, nachgeahmt zu werden.</dif>
       <refgrp tip="sub">
         <ref cel="tip.0o">tipo</ref>,
         <ref cel="sxablo.0o">&scirc;ablono</ref>
@@ -102,6 +104,7 @@
           <fnt><bib>Marta</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand oder etwas, das wegen seiner Vollkommenheit nachahmenswert ist.</dif>
       <refgrp tip="sub">
         <ref cel="ekzemp.0o">ekzemplo</ref>,
         <ref cel="ideal.0o">idealo</ref>
@@ -194,6 +197,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art eines Industrieprodukts mit genormten Eigenschaften.</dif>
       <rim>
         Per vendo de produkto sub nomo de certa <tld/>o, la produktanto
         certigas, ke la produkto havas la specifitajn ecojn,
@@ -209,6 +213,7 @@
       spegulanta tipajn ecojn de realaj aferoj kaj uzata por detale
       pristudi kaj eventuale reprodukti tiuj ecojn:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beispielhafte, verkleinerte oder vereinfachte Anordnung, die typische Eigenschaften realer Dinge widerspiegelt und dazu dient, diese Eigenschaften eingehend zu untersuchen und gegebenenfalls nachzubilden.</dif>
 
     <subsnc mrk="model.0o.imitajxo">
       <dif>
@@ -249,6 +254,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nachbildung, die wie ein realer Gegenstand aussieht, aber kleiner ist, angefertigt als Kunstwerk, Andenken, Spielzeug usw..</dif>
       <rim>
         Tiu senco povas fakte iom konfuzi kompare kun la senco <ref
         cel="model.0o.KOMUNE">modelo<sncref/></ref>,
@@ -288,6 +294,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vereinfachende Darstellung von Gegenst&auml;nden oder Vorg&auml;ngen, die das Nachdenken &uuml;ber sie erleichtert und die man gegebenenfalls mit einem Simulator erprobt.</dif>
       <refgrp tip="vid">
         <ref cel="skem.0o">skemo</ref>
       </refgrp>
@@ -919,6 +926,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht nachahmenswert, fehlerhaft.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_ja; &c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_p;&c_je;&c_r;&c_a;&c_j;&c_m;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>,

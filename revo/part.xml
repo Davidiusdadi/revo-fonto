@@ -380,6 +380,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nur einen Teil eines Ganzen bildend.</dif>
     <trd lng="de">teilweise</trd>
     <trd lng="es">parcial</trd>
     <trdgrp lng="hu">
@@ -413,6 +414,7 @@
           parta ordo-rilato ene de la aro de entjeroj.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Ordnungsrelation &#x2264;) So beschaffen, dass es zwei Elemente x und y gibt, f&uuml;r die weder x &#x2264; y noch y &#x2264; x gilt.</dif>
       <ref tip="ant" cel="tut.0eca.rilato">tuteca</ref>
       <trd lng="de">Partial-<klr tip="amb">(ordnung)</klr></trd>
       <trd lng="en">partial<klr tip="ind"> (ordering)</klr></trd>
@@ -637,6 +639,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In Teile teilen.</dif>
     <refgrp tip="sin">
       <ref cel="part.dis0igi">dis<tld/>igi</ref>,
       <ref cel="divid.0i.partigi">dividi<sncref/></ref>
@@ -708,6 +711,7 @@
          </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dieselben Gef&uuml;hle, Ideen, Erfahrungen oder anderen Dinge mit anderen Menschen gemeinsam haben.</dif>
     <ref tip="sin" cel="divid.0i.kunhavi">dividi<sncref/></ref>
     <trd lng="be">&c_p;&c_a;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_mol; <klr>(&c_p;&c_o;&c_g;&c_l;&c_ja;&c_d;&c_y;, &c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_ib;)</klr></trd>
     <trd lng="de" fnt="AI: en pl ro ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">teilen</trd>
@@ -1192,6 +1196,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Zerteilens; Ergebnis oder Art und Weise dieser Handlung.</dif>
     <trdgrp lng="be">
       <trd>&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_p;&c_a;&c_d;&c_z;&c_je;&c_l;</trd>
@@ -1238,6 +1243,7 @@
         kies ekvivalento-klasoj estas &gcirc;iaj termoj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Menge E) Eine disjunkte Familie von Teilmengen von E, deren Vereinigung gleich E ist.</dif>
     <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ib;&c_w;&c_k;&c_a;</trd>
     <trd lng="de">Zerlegung<klr tip="ind"> (einer Menge)</klr></trd>
     <trd lng="en">partition<klr tip="ind"> (of a set)</klr></trd>
@@ -1534,6 +1540,7 @@
         <fnt><bib>QuV</bib><aut>Lidia Zamenhof</aut></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gr&ouml;&szlig;erer Teil im Vergleich zu einem anderen Teil.</dif>
     <ref tip="sin" cel="mult.pli0o">plimulto</ref>
   </snc>
   <rim>

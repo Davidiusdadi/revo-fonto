@@ -44,6 +44,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zahl, die die Stelle eines Gegenstandes unter anderen angibt.</dif>
     <refgrp tip="vid">
       <ref cel="kod.0o.itajxo">kodo<sncref/></ref>,
       <ref cel="mark.0o.signo">marko<sncref/></ref>
@@ -82,6 +83,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der durch eine Nummer bezeichnete Gegenstand selbst.</dif>
     <refgrp tip="vid">
       <ref cel="plat.numer0o">numerplato</ref>
     </refgrp>
@@ -266,6 +268,7 @@
     <dif>
       Tia, ke eblas &gcirc;in <tld/>i.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es nummerieren kann.</dif>
     <trd lng="fr">num&eacute;rotable</trd>
     <trd lng="hu">megsz&aacute;mozhat&oacute;</trd>
     <trd lng="pl">przeliczalny</trd>
@@ -288,6 +291,7 @@
         <tld/>eblan dimension, nur se finidimensia.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einer Menge) gleichm&auml;chtig mit einer Teilmenge der Menge der ganzen Zahlen.</dif>
     <refgrp tip="sin">
       <ref cel="diskre.0a.nombrebla">diskreta</ref>,
       <ref cel="nombr.0ebla.MAT">nombrebla</ref>.
@@ -364,6 +368,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Probeexemplar einer Zeitung oder Zeitschrift.</dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_o;&c_b;&c_n;&c_y; <ind>&c_n;&c_u;&c_m;&c_a;&c_r;</ind> <klr>(&c_p;&c_e;&c_r;&c_y;&c_ja;&c_d;&c_y;&c_ch;&c_n;&c_a;&c_g;&c_a; &c_v;&c_y;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
   <trd lng="br">niverenn skouer<klr tip="ind">

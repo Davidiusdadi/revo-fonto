@@ -15,6 +15,7 @@
     <dif>
       Agadi por forigi a&ubreve; mildigi malsanon, por redoni sanon.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas tun, um eine Krankheit zu beseitigen oder zu lindern und die Gesundheit wiederherzustellen.</dif>
     <subsnc mrk="kurac.0i.MED_iun">
       <dif>
         Prizorgi malsanulon kaj fari &ccirc;ion necesan por lin <ref tip="sin"
@@ -57,6 +58,7 @@
           </fnt>!
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Kranken versorgen und alles N&ouml;tige tun, um ihn wieder gesund zu machen.</dif>
       <trdgrp lng="pt">
         <trd>atender <klr>(paciente)</klr></trd>,
         <trd>tratar <klr>(paciente)</klr></trd>
@@ -88,6 +90,7 @@
           &scirc;uldon tempo ne <tld/>as<fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Organ oder eine K&ouml;rperfunktion versorgen, um sie wieder gesund zu machen.</dif>
       <trdgrp lng="pt">
         <trd>tratar <klr>(&oacute;rg&atilde;o, fun&ccedil;&atilde;o vital)</klr></trd>
       </trdgrp>
@@ -592,6 +595,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ort, an dem Heilmittel hergestellt oder ausgegeben werden.</dif>
     <refgrp tip="sub">
       <ref cel="apotek.0o">apoteko</ref>
     </refgrp>
@@ -624,6 +628,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hersteller oder Verk&auml;ufer von Heilmitteln.</dif>
     <trd lng="de" fnt="AI: pt id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Apotheker</trd>
   </snc>
   <trdgrp lng="be">
@@ -996,6 +1001,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Verbrennen von Gewebe behandeln; kauterisieren.</dif>
     <trdgrp lng="de">
       <trd kod="FAK" fnt="AI: fr pt ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kauterisieren <klr>(fachspr.)</klr></trd>,
       <trd fnt="AI: dif be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausbrennen</trd>
@@ -1035,6 +1041,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Arzt, der nur bestimmte Kranke versorgt (zum Beispiel nur Kinder), mit einer besonderen Methode behandelt (zum Beispiel mit Akupunktur) oder nur bestimmte Organe oder Krankheiten versorgt (zum Beispiel ein Ohrenarzt).</dif>
     <trd lng="de" fnt="AI: fr pt ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Facharzt</trd>
   </snc>
   <trd lng="be">&c_l;&c_je;&c_k;&c_a;&c_r;-&c_s;&c_p;&c_e;&c_c;&c_y;&c_ja;&c_l;&c_ib;&c_s;&c_t;</trd>
@@ -1068,6 +1075,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Arzt, der Kranke aller Art annimmt und Krankheiten aller Art versorgt.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: fr pt ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Allgemeinarzt</trd>,
       <trd fnt="AI: fr pt ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Allgemeinmediziner</trd>

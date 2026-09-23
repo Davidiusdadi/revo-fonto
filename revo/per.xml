@@ -13,6 +13,7 @@
   <dif>
     <ref tip="super" cel="prepoz.0o">Prepozicio</ref> montranta:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;position, die anzeigt.</dif>
   <snc mrk="per.0.ilo">
     <dif>
       Instrumenton, materion a&ubreve; objekton, kiun oni uzas por plenumi
@@ -76,6 +77,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">das Werkzeug, das Material oder den Gegenstand, den man benutzt, um eine Handlung auszuf&uuml;hren oder ein Ziel zu erreichen.</dif>
   </snc>
   <snc mrk="per.0.organo">
     <dif>
@@ -120,6 +122,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">das Organ oder Glied, das man benutzt, um etwas zu tun.</dif>
     <rim>
       Oni anka&ubreve; uzas <em>per</em> por montri, kiun parton de ies
       korpo oni tenas:
@@ -199,6 +202,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">die Person, durch deren Vermittlung man eine Handlung ausf&uuml;hren kann.</dif>
     <rim>
       &Z; atentigas, ke &leftquot;la prepozicion <em><tld/></em> post pasivo ni
       uzas nur en tia okazo, se &gcirc;i trovi&gcirc;as anta&ubreve; vorto, kiu esprimas
@@ -321,6 +325,7 @@
         <fnt><bib>MT</bib>, <lok>&Rea; 9:19</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">das Mittel, durch das ein Ergebnis erreicht wird.</dif>
     <refgrp tip="vid">
       <ref cel="pro.0.kial">pro <sncref/></ref>
     </refgrp>
@@ -435,6 +440,7 @@
         la substantivoj fini&gcirc;as <tld/> &leftquot;o&rightquot;.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">die Art und Weise, wie sich die Handlung vollzieht.</dif>
   </snc>
   <snc mrk="per.0.atesto">
     <dif>
@@ -452,6 +458,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">die Macht oder den Einfluss, den man anruft, um jemanden zu &uuml;berreden.</dif>
     <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bei</trd>
     <trd lng="zh">&#x85C9;&#30001; <pr>ji&egrave;y&oacute;u</pr></trd>
 </snc>
@@ -614,6 +621,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">nicht nur durch sich selbst wirkend; nicht direkt treffend; ein Zwischenmittel ben&ouml;tigend, um ein Ziel zu erreichen.</dif>
     <trdgrp lng="hu">
       <trd>k&ouml;zvetett</trd>,
       <trd>indirekt</trd>
@@ -675,6 +683,7 @@
     <dif>
       <ref tip="super" cel="help.0i">Helpi</ref> al iu atingo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">jemandem helfen, etwas zu erreichen.</dif>
     <subsnc>
       <gra><vspec>ntr</vspec></gra>
       <dif>
@@ -694,6 +703,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">als Mittler dazu beitragen, etwas zu verwirklichen.</dif>
       <trdgrp lng="en">
         <trd>to mediate</trd>,
         <trd>act as agent</trd>
@@ -747,6 +757,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">jemandem etwas durch seine Hilfe, Bem&uuml;hung oder Wirkung verschaffen.</dif>
       <trdgrp lng="en">
         <trd>to procure</trd>,
         <trd>provide</trd>, <trd>supply</trd>
@@ -1003,6 +1014,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">absichtlich falsch ausgesprochenes &leftquot;Esperanto&rightquot;, das auf die paarstiftende Wirkung der Sprache anspielt.</dif>
   </snc>
   <trd lng="be">&#xAB;&c_e;&c_d;&c_z;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_a;&#xBB;
   <klr>(&c_zh;&c_a;&c_r;&c_t;&c_a;&c_w;&c_l;&c_ib;&c_v;&c_a;&c_ja; &c_n;&c_a;&c_z;&c_v;&c_a;

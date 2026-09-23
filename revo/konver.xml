@@ -19,6 +19,7 @@
         <tld/>as al &gcirc;ia fokuso <fnt><bib>VdE</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf denselben Punkt zulaufen, zusammenkommen (von Linien, Richtungen, Strahlen).</dif>
     <trdgrp lng="de">
       <trd>zulaufen (auf)</trd>,
       <trd>zusammenlaufen</trd>
@@ -42,6 +43,7 @@
         <ref cel="vertic.0o.konuso">vertico</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Linien) Einen gemeinsamen Punkt haben.</dif>
     <rim>
       Ekzistas anka&ubreve; <ctl>kunkuri</ctl>, samsenca, kiel atestas
       <fnt><bib>MatVort</bib><lok>&leftquot;kunkura&rightquot;</lok></fnt>.
@@ -81,6 +83,7 @@
         <frm am="|p-xi| lt c">|<k>p</k>-<k>x</k><sub><k>i</k></sub>| &lt; <k>c</k></frm>
         por &ccirc;iu <frm am="i gt n"><k>i</k> &gt; <k>n</k></frm>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine unendliche Folge x1, x2, ... konvergiert gegen p, wenn es zu jeder positiven reellen Zahl c eine Zahl n gibt, sodass |p-xi| &lt; c f&uuml;r alle i &gt; n.</dif>
       <rim>
         La nocion oni &gcirc;eneraligas por funkcioj kaj serioj.
         Tia <frm am="p"><k>p</k></frm> estas nomata <ref cel="limes.0o">limeso</ref>.
@@ -100,6 +103,7 @@
           en <ref cel="komple2.0a.spaco">kompleta</ref> spaco.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Folge oder einem Filter &uuml;ber einem topologischen Raum) Konvergent sein.</dif>
       <rim>
         Kvankam la verbo enhavas ideon pri ago, &gcirc;ia matematika
         uzo simple parolas pri eco de la koncerna vico. Oni diras
@@ -129,6 +133,7 @@
       <frm am="x in bb{dom} f">x&#8712;<g>dom</g>&nbsp;f</frm>
       <klr> (vd <ref cel="domajn.0o.algoritmo">domajno<sncref/></ref>)</klr>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Algorithmus konvergiert f&uuml;r einen gegebenen Wert x, wenn der ihn ausf&uuml;hrende Automat, nachdem er dieses x als Eingabe erhalten hat, seine Arbeit beendet und ein Ergebnis liefert; man sagt dann auch, dass die Funktion f, die der Algorithmus berechnet, f&uuml;r x definiert ist; symbolisch f(x)&#x2193; oder x&#x2208;dom f.</dif>
           <trd lng="de">konvergieren</trd>
   </snc>
   <rim>
@@ -167,6 +172,7 @@
     <dif>
       <tld lit="K"/>anta.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Konvergierend.</dif>
     <trd lng="de" fnt="AI: pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenlaufend</trd>
     <trdgrp lng="pl">
       <trd>zbie&zdot;ny</trd>,
@@ -204,6 +210,7 @@
           ekzistas <tld/>a subvico de &gcirc;i.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Folge (xn) in einem topologischen Raum) So beschaffen, dass alle ihre Glieder (bis auf endlich viele) in einer Umgebung eines Punktes (ihres Grenzwerts) liegen, wie auch immer man die Umgebung w&auml;hlt.</dif>
     </subsnc>
     <subsnc mrk="konver.0a.filtrilo">
       <dif>
@@ -213,6 +220,7 @@
         <ref cel="fajn.pli0a.aro_de_subaroj">Pli fajna</ref> ol
         la filtrilo de &ccirc;irka&ubreve;a&jcirc;oj de tiu punkto.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Filter &uuml;ber einem topologischen Raum, gegen einen Punkt) Feiner als der Umgebungsfilter dieses Punktes.</dif>
     </subsnc>
     <trd lng="de">konvergent</trd>
     <trd lng="en">convergent</trd>
@@ -300,6 +308,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zum Konvergieren bringen.</dif>
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_a;&c_d;&c_z;&c_ib;&c_n; &c_p;&c_u;&c_n;&c_k;&c_t;, &c_n;&c_a;&c_p;&c_r;. &c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_ib;)</klr></trd>
   <trd lng="de" fnt="AI: ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">b&uuml;ndeln</trd>

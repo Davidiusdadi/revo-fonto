@@ -25,6 +25,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wichtige kirchliche Vorschrift, die Glauben, Kult und Disziplin betrifft.</dif>
     <ref tip="vid" cel="kodeks.0o">kodekso</ref>
     <trd lng="it"><ind>regola</ind> canonica</trd>
   </snc>
@@ -39,6 +40,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ma&szlig;gebliche Liste.</dif>
     <subsnc mrk="kanon.0o.BIB">
       <uzo tip="fak">BIB</uzo>
       <dif>
@@ -74,12 +76,14 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ma&szlig;gebliche Liste der B&uuml;cher, die die betreffende Konfession als heilig ansieht.</dif>
     </subsnc>
     <subsnc mrk="kanon.0o.sanktularo">
       <uzo tip="fak">KRI</uzo>
       <dif>
         Eklezia katalogo de la sanktuloj.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kirchliches Verzeichnis der Heiligen.</dif>
       <trd lng="ru">&c_l;&c_i;&c_k; &c_s;&c_v;&c_ja;&c_t;&c_y;&c_h;</trd>
     </subsnc>
   </snc>
@@ -152,6 +156,7 @@
         <trd lng="ru">&c_u;&c_s;&c_t;&c_a;&c_v;&c_n;&c_y;&c_je; &c_ch;&c_a;&c_s;&c_y; &c_m;&c_o;&c_l;&c_i;&c_t;&c_v;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf einen Kanon bezogen, ihm gem&auml;&szlig;.</dif>
     <trd lng="nl">canoniek</trd>
   </snc>
   <snc mrk="kanon.0a.BIB">
@@ -184,6 +189,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf den Kanon bezogen.</dif>
     <trdgrp lng="hu">
       <trd>k&aacute;noni</trd>,
       <trd>kanonikus</trd>
@@ -202,6 +208,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Norm entsprechend, konventionell.</dif>
     <trd lng="de">g&auml;ngig</trd>
   </snc>
   <snc mrk="kanon.0a.MAT">
@@ -211,6 +218,7 @@
     <dif>
       Plej natura.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Am nat&uuml;rlichsten.</dif>
     <refgrp tip="vid">
       <ref cel="baz.kanona0o"><tld/>a bazo</ref>,
       <ref cel="projek.0o.kanona"><tld/>a projekcio</ref>.
@@ -298,6 +306,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zu einem der biblischen B&uuml;cher (oder deren Teilen) geh&ouml;rend, deren Echtheit umstritten ist und die die Kirche als weniger ma&szlig;geblich ansieht.</dif>
     <rim num="1">
       La termino estas romkatolika. &Gcirc;i &scirc;ajnas implici
       ekziston de iu &leftquot;dua <tld/>o&rightquot;, pri kio fakte ne

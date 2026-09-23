@@ -54,6 +54,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gr&ouml;&szlig;te erreichbare Menge oder gr&ouml;&szlig;ter erreichbarer Grad.</dif>
     <ref tip="ant" cel="minimu.0o.KOMUNE">minimumo.</ref>
     <trdgrp lng="hu">
       <trd>maximum</trd>,
@@ -87,6 +88,7 @@
         <klr>(t.e. de la bildo de iu &ccirc;irka&ubreve;a&jcirc;o)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer geordneten Menge (E,&#x2264;)) Element M von E, das gr&ouml;&szlig;er ist als alle anderen (x &#x2264; M f&uuml;r jedes x aus E); Symbol M = max E.</dif>
     <ref tip="ant" cel="minimu.0o.MAT">minimumo;</ref>
     <ref tip="super" cel="ekstre.0umo">ekstremumo.</ref>
     <rim>

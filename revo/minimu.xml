@@ -18,6 +18,7 @@
         <tld/>a prezo, postulo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">M&ouml;glichst kleine Menge oder niedrigster Grad.</dif>
     <ref tip="ant" cel="maksim1.0o.KOMUNE">maksimumo.</ref>
     <trdgrp lng="ca">
       <trd>m&iacute;nim</trd>,
@@ -55,6 +56,7 @@
         &ccirc;irka&ubreve;a&jcirc;o)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer geordneten Menge (E,&#x2264;)) Ein Element m in E, so dass alle anderen gr&ouml;&szlig;er sind als es (m &#x2264; x f&uuml;r jedes beliebige x in E); Symbol m = min E.</dif>
     <rim>
       La difino de Bricard estas pli lar&gcirc;a ol nia. Li distingas
       inter <ctl>tu&scirc;ata <tld/>o</ctl> (nia <ctl><tld/>o</ctl>) kaj
@@ -123,6 +125,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den niedrigsten erreichbaren Grad erreichend.</dif>
     <ref tip="ant" cel="maksim1.0a.KOMUNE">maksimuma.</ref>
     <trd lng="ca">m&iacute;nim</trd>
     <trdgrp lng="en"><trd>minimal</trd>, <trd>minimum</trd></trdgrp>
@@ -150,6 +153,7 @@
         elemento ne nepre estas <tld/>o.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Element einer geordneten Menge (E,&#x2264;)) So beschaffen, dass es kein Element von E gibt, das echt kleiner ist als es.</dif>
     <ref tip="ant" cel="maksim1.0a.elemento">maksimuma.</ref>
     <adm>Kontroli trd en/ru. <aut>MB</aut></adm>
     <trd lng="ca">m&iacute;nim</trd>
