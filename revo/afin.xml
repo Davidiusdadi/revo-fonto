@@ -18,6 +18,7 @@
         <tld/>a <ref cel="geomet1.0o.MAT">geometrio</ref>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In some way relating to algebraic structures of the affine space type.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In irgendeiner Weise auf algebraische Strukturen vom Typ des affinen Raums bezogen.</dif>
     <refgrp tip="vid">
       <ref cel="rekt.afina0o"><tld/>a rekto</ref>,
@@ -60,6 +61,7 @@
         <tld/>a bildigo <frm am="f">f</frm>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(of a mapping f between two affine spaces) Such that f(&tau;+x) = &phi;(&tau;)+f(x), where &phi; is a homomorphism between the corresponding vector spaces that act on the affine spaces.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Abbildung f zwischen zwei affinen R&auml;umen) So beschaffen, dass f(&tau;+x) = &phi;(&tau;)+f(x), wobei &phi; ein Homomorphismus zwischen den zugeh&ouml;rigen Vektorr&auml;umen ist, die auf den affinen R&auml;umen operieren.</dif>
     <trd lng="be">&c_a;&c_f;&c_ib;&c_n;&c_n;&c_y;</trd>
     <trd lng="ca">af&iacute;</trd>
@@ -85,6 +87,7 @@
       <frm am="f">f</frm>)</klr>
       Tia, ke <frm am="f(x) = alpha x + beta">f(x) = &alfa;x+&beta;</frm>.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(of a real function f) Such that f(x) = &alfa;x+&beta;.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer reellen Funktion f) So beschaffen, dass f(x) = &alfa;x+&beta;.</dif>
     <trd lng="be">&c_a;&c_f;&c_ib;&c_n;&c_n;&c_y;</trd>
     <trd lng="ca">af&iacute;</trd>
@@ -119,6 +122,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In some way related, similar, kindred, analogous.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In gewisser Weise verbunden, &auml;hnlich, verwandt, analog.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;</trd>,

@@ -32,6 +32,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rod around which a part of a machine turns.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stange, um die sich ein Maschinenteil dreht.</dif>
     <ref tip="vid" cel="sxaft.0o">&scirc;afto</ref>
     <trdgrp lng="de">
@@ -70,6 +71,7 @@
         <fnt><bib>ChB</bib> <lok>18</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Imaginary straight line around which a body turns.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gedachte Gerade, um die sich ein K&ouml;rper dreht.</dif>
     <trd lng="de">Achse</trd>
     <trd lng="en">axis</trd>
@@ -83,6 +85,7 @@
       Rimarkinda <ref tip="super" cel="rekt.0o.MAT">rekto</ref>,
       interalie:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Notable straight line, among them the following.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bemerkenswerte Gerade, unter anderem.</dif>
     <subsnc mrk="aks.0o.simetrio">
       <fnt><bib>MatVort</bib></fnt>
@@ -116,6 +119,7 @@
         en tridimensia spaco)</klr>
         La rekto sen&scirc;an&gcirc;a per &gcirc;i.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(of an affine rotation in three-dimensional space) The straight line left unchanged by it.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer affinen Drehung im dreidimensionalen Raum) Die Gerade, die bei ihr unver&auml;ndert bleibt.</dif>
     </subsnc>
     <subsnc mrk="aks.0o.koordinato">
@@ -314,6 +318,7 @@
           <klr>(direktataj respektive de la unua, dua kaj tria bazvektoro)</klr>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(of a Cartesian coordinate system) Straight line containing the origin and directed along one of the basis vectors.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines kartesischen Koordinatensystems) Gerade, die den Ursprung enth&auml;lt und in Richtung eines der Basisvektoren verl&auml;uft.</dif>
       <ref tip="sin" cel="aks.koordinata0o">koordinata <tld/>o.</ref>
     </subsnc>
@@ -323,6 +328,7 @@
         Duonrekto, servanta por difini la
         <ref cel="angul.polusa0o">polusan angulon</ref>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(of a polar coordinate system) Half-line serving to define the polar angle.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Polarkoordinatensystems) Halbgerade, die zur Bestimmung des Polarwinkels dient.</dif>
       <ref tip="sin" cel="aks.polusa0o">polusa <tld/>o.</ref>
     </subsnc>
@@ -356,6 +362,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Middle line of something, even if not straight, considered lengthwise.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mittlere Linie von etwas, der L&auml;nge nach betrachtet, auch wenn sie nicht gerade ist.</dif>
     <rim>
       Senco neinternacia, malklara kaj evitinda.
@@ -382,6 +389,7 @@
         tiu komitato estas la &ccirc;efa <tld/>o de la societo.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Central, most important body in an organisation.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zentrales, wichtigstes Organ einer Organisation.</dif>
     <rim>
       Senco neinternacia, malklara kaj evitinda. Neniam mi vidis
@@ -432,6 +440,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Political alliance, or simple agreement on a certain point.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Politisches B&uuml;ndnis oder einfache &Uuml;bereinkunft &uuml;ber einen bestimmten Punkt.</dif>
     <trdgrp lng="en">
       <trd>Axis</trd>,
