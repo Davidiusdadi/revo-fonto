@@ -63,6 +63,7 @@
         <tld/> homo mortis!
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">solch</trd>
   <trd lng="en">such <klr>(exclamative, what)</klr></trd>
   </snc>
   <snc mrk="tia.0.korelativa">
@@ -103,6 +104,10 @@
         <fnt><bib>Hamlet</bib><lok>akto 3, sceno 4</lok></fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">solch</trd>,
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">derartig</trd>
+  </trdgrp>
   <trd lng="en">such <klr>(correlative, comparison in quality)</klr></trd>
   </snc>
   <snc mrk="tia.0.refAdj">
@@ -161,6 +166,7 @@
         profesoro).</klr>
       </ekz>
     </rim>
+    <trd lng="de" fnt="AI: en ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">solch</trd>
     <trd lng="en">such <klr>(pronomial for substantive)</klr></trd>
     <trd lng="ru">&c_t;&c_a;&c_k;&c_o;&c_v;&c_o;&c_j;</trd>
   </snc>
@@ -400,6 +406,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_a;&c_k;&c_ib; &c_s;&c_a;&c_m;&c_y;</trd>
+  <trd lng="de" fnt="AI: ru pl be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ebensolch</trd>
   <trdgrp lng="en">
     <trd>even</trd>,
     <trd><ind>such</ind> in every way</trd>

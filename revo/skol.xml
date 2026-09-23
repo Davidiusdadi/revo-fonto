@@ -105,6 +105,10 @@
     <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">disciple</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_s;&c_t;&c_a;&c_w;&c_n;&c_ib;&c_k; <ind>&c_sh;&c_k;&c_o;&c_l;&c_y;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sch&uuml;ler</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anh&auml;nger</trd>
+  </trdgrp>
   <trdgrp lng="ja">
     <trd>&#x5B66;&#x6D3E;&#x306E;&#x4EBA;  <pr>&#x3055;&#x3068;&#x308B;&#x306F;&#x306E;&#x3058;&#x3093;</pr></trd>,
     <trd>&#x9580;&#x4E0B;&#x751F;  <pr>&#x3082;&#x3093;&#x304B;&#x305B;&#x3044;</pr></trd>
@@ -137,6 +141,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_sh;&c_k;&c_o;&c_l;&c_a;</ind></trd>
+  <trd lng="de" fnt="AI: fr pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">analytische Schule</trd>
   <trd lng="fr">&eacute;cole analytique</trd>
   <trd lng="pl">szko&lstroke;a analityczna</trd>
 </drv>

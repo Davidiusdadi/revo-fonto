@@ -147,6 +147,10 @@
     <trd>paleoeslau</trd>,
     <trd>eslau eclesi&agrave;stic</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kirchenslawisch</trd>,
+    <trd fnt="AI: be ru ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">altkirchenslawisch</trd>
+  </trdgrp>
   <trd lng="pl">cerkiewnos&lstroke;owia&nacute;ski</trd>
   <trdgrp lng="ru">
     <trd>&c_s;&c_t;&c_a;&c_r;&c_o;&c_s;&c_l;&c_a;&c_v;&c_ja;&c_n;&c_s;&c_k;&c_i;&c_j;</trd>,
@@ -191,6 +195,7 @@
     <trd>&c_s;&c_t;&c_a;&c_r;&c_a;&c_s;&c_l;&c_a;&c_v;&c_ja;&c_n;&c_ib;&c_z;&c_m;</trd>,
     <trd>&c_s;&c_l;&c_a;&c_v;&c_ja;&c_n;&c_ib;&c_z;&c_m;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Kirchenslawismus</trd>
   <trdgrp lng="pl">
     <trd>cerkiewizm</trd>,
     <trd>s&lstroke;owianizm</trd>

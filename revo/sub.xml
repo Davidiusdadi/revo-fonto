@@ -542,6 +542,7 @@
   </snc>
   <trd lng="be">&c_z;-&c_p;&c_a;&c_d;</trd>
   <trd lng="cs">zespod</trd>
+  <trd lng="de" fnt="AI: en ru pl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unter &#x2026; hervor</trd>
   <trdgrp lng="en">
     <trd>from <ind>under</ind></trd>,
     <trd>from <ind>below</ind></trd>,
@@ -716,6 +717,7 @@
     <refgrp tip="sin">
       <ref cel="supr.mal0e">malsupre</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: ref ru cs hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unten</trd>
     <trd lng="th">&#xE02;&#xE49;&#xE32;&#xE07;&#xE43;&#xE15;&#xE49;</trd>
   </snc>
   <trdgrp lng="be">
@@ -1283,6 +1285,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_k;&c_o;&c_r;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unbezwingbar</trd>,
+    <trd fnt="AI: en fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unbeugsam</trd>
+  </trdgrp>
   <trd lng="en">indomitable</trd>
   <trd lng="fr">irr&eacute;ductible</trd>
   <trdgrp lng="pl">

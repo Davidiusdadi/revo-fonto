@@ -79,6 +79,10 @@
     <trd>&c_t;&c_a;&c_t;&c_u;&c_ib;&c_r;&c_o;&c_w;&c_k;&c_a;</trd>,
     <trd>&c_t;&c_a;&c_t;&c_u;&c_a;&c_zh;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">T&auml;towierung</trd>,
+    <trd fnt="AI: en nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tattoo</trd>
+  </trdgrp>
   <trd lng="en">tattoo<klr tip="ind"> (noun)</klr></trd>
   <trd lng="fr">tatouage</trd>
   <trdgrp lng="ja">

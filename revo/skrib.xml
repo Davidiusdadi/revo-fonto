@@ -545,6 +545,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schreibweise</trd>,
+      <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Handschrift</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>tulisan tangan</trd>,
       <trd>cara penulisan</trd>,
@@ -1515,6 +1519,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: dif pl it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verbuchen</trd>
     <trd lng="it">iscrivere</trd>
     <trd lng="pl">zapisywa&cacute;</trd>
   </snc>
@@ -1594,6 +1599,11 @@
   <trdgrp lng="be">
     <trd>&c_u;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_z;&c_a;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pt pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich einschreiben</trd>,
+    <trd fnt="AI: pl be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich eintragen</trd>,
+    <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich anmelden</trd>
   </trdgrp>
   <trd lng="en">sign up for<klr> (ntr, with 'en' + acc)</klr></trd>
   <trd lng="fr">s'<ind>inscrire</ind></trd>
@@ -2191,6 +2201,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unterzeichnung</trd>
     <trdgrp lng="id">
       <trd><baz>tanda tangan</baz>penandatanganan</trd>,
       <trd><baz>teken</baz>penekenan</trd>

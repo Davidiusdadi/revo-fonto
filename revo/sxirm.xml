@@ -174,6 +174,7 @@
     </dif>
     <trd lng="be">&c_e;&c_k;&c_r;&c_a;&c_n;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trd lng="ca">a&iuml;llar</trd>
+    <trd lng="de" fnt="AI: en ru be hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abschirmen</trd>
     <trdgrp lng="en">
       <trd>shield</trd>,
       <trd>screen</trd>,
@@ -575,6 +576,11 @@
         <fnt><bib>MkM</bib> <lok>&ccirc;apitro 5a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr es pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wandschirm</trd>,
+      <trd fnt="AI: fr pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Paravent</trd>,
+      <trd fnt="AI: en es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spanische Wand</trd>
+    </trdgrp>
     <trd lng="en">folding screen</trd>
     <trd lng="es">biombo</trd>
     <trd lng="fr">paravent</trd>
@@ -655,6 +661,10 @@
   <trdgrp lng="be">
     <trd>&c_b;&c_je;&c_z;&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_n;&c_y;</trd>,
     <trd>&c_a;&c_d;&c_k;&c_r;&c_y;&c_t;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en es fr nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ungesch&uuml;tzt</trd>,
+    <trd fnt="AI: be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schutzlos</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>unprotected</trd>,
@@ -770,6 +780,11 @@
     <ref tip="sin" cel="ekran.0ego.MEBL">ekranego<sncref/></ref>
   </snc>
   <trd lng="be">&c_sh;&c_y;&c_r;&c_m;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es pl hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wandschirm</trd>,
+    <trd fnt="AI: fr pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Paravent</trd>,
+    <trd fnt="AI: en es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spanische Wand</trd>
+  </trdgrp>
   <trd lng="en">folding screen</trd>
   <trd lng="es">biombo</trd>
   <trd lng="fr">paravent</trd>
@@ -1003,6 +1018,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_a;&c_b;&c_a;&c_zh;&c_u;&c_r;</trd>
+    <trd lng="de" fnt="AI: en fr nl pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lampenschirm</trd>
     <trd lng="en">lampshade</trd>
     <trd lng="es">pantalla<klr> (de l&aacute;mpara)</klr></trd>
     <trd lng="fr">abat-jour</trd>
@@ -1044,6 +1060,7 @@
         </ekz>
       </dif>
     <trd lng="be">&c_a;&c_h;&c_o;&c_w;&c_n;&c_y;&c_ja; <ind>&c_a;&c_k;&c_u;&c_l;&c_ja;&c_r;&c_y;</ind></trd>
+    <trd lng="de" fnt="AI: es pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schutzbrille</trd>
     </subsnc>
     <subsnc mrk="sxirm.okul0ilo.BRED">
       <dif>
@@ -1062,7 +1079,9 @@
         </ekz>
       </dif>
     <trd lng="be">&c_sh;&c_o;&c_r;&c_y;</trd>
+    <trd lng="de" fnt="AI: fr it be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Scheuklappe</trd>
     </subsnc>
+    <trd lng="de" fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Augenschutz</trd>
   </snc>
   <snc mrk="sxirm.okul0ilo.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -1079,6 +1098,7 @@
       </ekz>
     </dif>
   <trd lng="be">&c_sh;&c_o;&c_r;&c_y; <klr>(&c_p;&c_je;&c_r;&c_a;&c_n;.)</klr></trd>
+  <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Scheuklappe</trd>
   </snc>
   <trd lng="de">M&uuml;tzenschild</trd>
   <trd lng="es">gafas protectoras</trd>
@@ -1107,6 +1127,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_s;&c_o;&c_n;</trd>
+  <trd lng="de" fnt="AI: es fr pl be zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Regenschirm</trd>
   <trd lng="es">paraguas</trd>
   <trd lng="fr">parapluie</trd>
   <trd lng="pl">parasol</trd>

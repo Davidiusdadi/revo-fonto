@@ -441,6 +441,11 @@
     <trd>cop de tel&egrave;fon</trd>,
     <trd>colp de tel&egrave;fon</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anruf</trd>,
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Telefonanruf</trd>,
+    <trd fnt="AI: nl en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Telefonat</trd>
+  </trdgrp>
   <trd lng="en">phone call</trd>
   <trd lng="fr">appel t&eacute;l&eacute;phonique</trd>
   <trd lng="id"><baz>panggil</baz>panggilan telepon</trd>

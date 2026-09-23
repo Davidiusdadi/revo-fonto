@@ -559,6 +559,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Augenblick</trd>,
+      <trd fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Moment</trd>,
+      <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Weile</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd fnt="Vikt: fr; juĝis claude-opus-5">instant</trd>,
       <trd fnt="Vikt: fr; juĝis claude-opus-5">moment</trd>
@@ -716,6 +721,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fr&uuml;her</trd>
   <trd lng="id"><baz>belum</baz>sebelum waktunya</trd>
   </snc>
 </drv>
@@ -1175,6 +1181,7 @@
     <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_v;&c_o;&c_je;&c_ch;&c_a;&c_s;&c_o;&c_v;&c_y;&c_m;</ind></trd>,
     <trd>&c_p;&c_r;&c_y;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_u; &c_s;&c_a;&c_m;&c_y; <ind>&c_ch;&c_a;&c_s;</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">p&uuml;nktlich sein</trd>
   <trd lng="fr">&ecirc;tre <ind>&agrave; l'heure</ind></trd>
   <trd lng="id">tepat waktu</trd>
   <trd lng="pl">by&cacute; na  <ind>czas</ind></trd>
@@ -1436,6 +1443,7 @@
     <trd>&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol; <ind>&c_ch;&c_a;&c_s;</ind></trd>,
     <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_a;&c_d;&c_p;&c_a;&c_ch;&c_y;&c_n;&c_k;&c_u;</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Urlaub machen</trd>
   <trd lng="fr">&ecirc;tre en cong&eacute;</trd>
   <trdgrp lng="id">
     <trd><baz>habis</baz>menghabiskan waktu luang</trd>,
@@ -2143,6 +2151,7 @@
   <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_g;&c_a;
 &c_ch;&c_a;&c_s;&c_u;</trd>
   <trd lng="cs">v re&aacute;ln&eacute;m &ccaron;ase <klr>(adj.)</klr></trd>
+  <trd lng="de" fnt="AI: it pl cs en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Echtzeit</trd>
   <trd lng="en">real <ind>time</ind></trd>
   <trd lng="es">tiempo real <klr>(sincr&oacute;nico)</klr></trd>
   <trd lng="fr">temps r&eacute;el</trd>

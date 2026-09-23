@@ -150,6 +150,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_ch;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">therapieren</trd>,
+    <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">behandeln</trd>
+  </trdgrp>
   <trd lng="id"><baz>terapi</baz>menerapi</trd>
   <trd lng="pl">terapi&eogonek; stosowa&cacute;</trd>
 </drv>

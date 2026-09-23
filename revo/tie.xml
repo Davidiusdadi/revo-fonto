@@ -482,6 +482,7 @@
     <trd>&c_t;&c_u;&c_t;&c_e;&c_j;&c_sh;&c_y;</trd>,
     <trd>&c_m;&c_ja;&c_s;&c_c;&c_o;&c_v;&c_y; <klr>(&c_t;&c_u;&c_t;)</klr></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl be en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hiesig</trd>
   <trd lng="en">local<klr> (from here)</klr></trd>
   <trd lng="fr">local<klr> (d'ici)</klr></trd>
   <trdgrp lng="id">
@@ -633,6 +634,7 @@
     <trd>&c_t;&c_a;&c_m;&c_t;&c_e;&c_j;&c_sh;&c_y; <klr>(&c_n;&c_a;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_k;)</klr></trd>,
     <trd>&c_m;&c_ja;&c_s;&c_c;&c_o;&c_v;&c_y; <klr>(&c_t;&c_a;&c_m;, &c_d;&c_z;&c_je;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einheimischer</trd>
   <trd lng="en">local guy <klr> (over there)</klr></trd>
   <trd lng="fr">"r&eacute;gional de l'&eacute;tape" <klr> (l&agrave;-bas)</klr></trd>
 <trdgrp lng="id">
@@ -685,6 +687,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_u;&c_t; &c_ib; &c_t;&c_a;&c_m;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hier und da</trd>,
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hie und da</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>here and there</trd>,
     <trd>hither and thither</trd>

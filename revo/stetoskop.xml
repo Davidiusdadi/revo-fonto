@@ -82,6 +82,10 @@
     <trd>naslouchat</trd>,
     <trd>vy&scaron;et&rcaron;ovat poslechem</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs pl fr en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abh&ouml;ren</trd>,
+    <trd kod="FAK" fnt="AI: nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auskultieren <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   <trd lng="en">listen with stethoscope</trd>
   <trd lng="fr">ausculter au st&eacute;thoscope</trd>
   <trd lng="ja">&#32884;&#x8A3A;&#12377;&#x308B; <pr>&#12385;&#12423;&#12358;&#12375;&#12435;&#12377;&#x308B;</pr></trd>

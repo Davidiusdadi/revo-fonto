@@ -288,6 +288,10 @@
   <ind>&c_z;&c_a;&c_j;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</ind>
   </trd>
   <trd lng="ca">correlatiu</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tabellwort</trd>,
+    <trd fnt="AI: ca sk cs ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Korrelativ</trd>
+  </trdgrp>
   <trd lng="es">tabla de correlativos</trd>
   <trdgrp lng="hu">
     <trd>tabellasz&oacute;</trd>,

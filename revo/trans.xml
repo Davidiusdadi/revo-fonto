@@ -134,6 +134,7 @@
       tiom zorge distingas per uzo de deviga akuzativo la sencon
       &leftquot;celo&rightquot; disde la senco &leftquot;loko&rightquot;.
     </rim>
+    <trd lng="de" fnt="AI: hu ru es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;ber</trd>
     <trd lng="es">a trav&eacute;s de</trd>
     <trdgrp lng="hu">
       <trd>&aacute;t</trd>,
@@ -162,6 +163,7 @@
         </fnt>.
       </ekz>
    </dif>
+    <trd lng="de" fnt="AI: dif es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">durch</trd>
     <trd lng="es">a trav&eacute;s de</trd>
   </snc>
   <trdgrp lng="be">
@@ -336,6 +338,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;-&c_z;&c_a; <klr tip="amb">(&c_a;&c_d;&c_k;&c_u;&c_l;&c_mol;)</klr></trd>
+  <trd lng="de" fnt="AI: ref en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von jenseits</trd>
   <trd lng="en">from <ind>across</ind></trd>
   <trd lng="es">de m&aacute;s all&aacute; de</trd>
   <trd lng="fr">d'au-del&agrave; de</trd>
@@ -431,6 +434,11 @@
       </ekz>
     </dif>
     <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_g;&c_je;&c_n;&c_d;&c_e;&c_r;&c_n;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trans</trd>,
+      <trd fnt="AI: en nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">transgender</trd>,
+      <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">transident</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>trans</trd>,
       <trd>transgender</trd>
@@ -969,6 +977,7 @@
       Tiu, kiu lo&gcirc;as <tld/>e.
     </dif>
     <trd lng="be">&c_a;&c_s;&c_o;&c_b;&c_a;, &c_ja;&c_k;&c_a;&c_ja; &c_zh;&c_y;&c_v;&c_je; &c_n;&c_a; &c_t;&c_y;&c_m; &c_b;&c_a;&c_k;&c_u;</trd>
+    <trd lng="de" fnt="AI: nl es hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gegen&uuml;ber</trd>
     <trd lng="es">vecino</trd>
     <trdgrp lng="hu">
       <trd>t&uacute;loldalt lak&oacute;</trd>,
@@ -1265,6 +1274,10 @@
         <ref cel="skrib.trans0i.kopii">transskribi<sncref/></ref>,
         <ref cel="plant.trans0i">transplanti</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">um-</trd>,
+      <trd fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;ber-</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>&aacute;t-</trd>,
       <trd>transz-</trd>

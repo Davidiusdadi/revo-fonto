@@ -243,6 +243,10 @@
       <ref cel="ban.sxvit0ejo">&scirc;vitbanejo</ref>
     </refgrp>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schwitzkammer</trd>,
+    <trd kod="FAK" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sudatorium <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="ru">
     <trd>&c_p;&c_a;&c_r;&c_i;&c_l;&c_k;&c_a;</trd>,
     <trd>&c_p;&c_a;&c_r;&c_i;&#x301;&c_l;&c_mol;&c_n;&c_ja;<klr> (&c_v; &c_b;&c_a;&c_n;&c_je;)</klr></trd>
@@ -357,6 +361,7 @@
         <fnt><bib>Metrop</bib></fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ins Schwitzen kommen</trd>
   <trd lng="en">become sweaty</trd>
   </snc>
   <snc mrk="sxvit.0igxi.likigxi">

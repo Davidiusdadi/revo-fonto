@@ -21,6 +21,7 @@
       </ekz>
     </dif>
     <trd lng="be">Te Deum <klr>(&c_m;&c_a;&c_l;&c_ib;&c_t;&c_v;&c_a;, &c_g;&c_ib;&c_m;&c_n;)</klr></trd>
+    <trd lng="de" fnt="AI: en be pl lat; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Te Deum</trd>
     <trd lng="en">Te Deum <klr>(hymn)</klr></trd>
     <trd lng="ru">&c_T;&c_je;&c_b;&c_je; &c_B;&c_o;&c_g;&c_a; &c_h;&c_v;&c_a;&c_l;&c_i;&c_m;</trd>
   </snc>
@@ -37,6 +38,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_ib;&c_m;&c_sh;&c_a; &c_w;&c_d;&c_z;&c_ja;&c_ch;&c_n;&c_a;&c_s;&c_c;&c_ib;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dankgottesdienst</trd>,
+      <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Te Deum</trd>
+    </trdgrp>
     <trd lng="en">Te Deum <klr>(service)</klr></trd>
     <trd lng="ru">&c_b;&c_l;&c_a;&c_g;&c_o;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; &c_m;&c_o;&c_l;&c_je;&c_b;&c_je;&c_n;</trd>
   </snc>

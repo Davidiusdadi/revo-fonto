@@ -439,6 +439,10 @@
     <trd>&c_n;&c_a;&c_z;&c_l;&c_o;</trd>,
     <trd>&c_n;&c_a;&c_z;&c_n;&c_a;&c_r;&c_o;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trotz</trd>,
+    <trd fnt="AI: en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ungeachtet <klr>(gehoben)</klr></trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>in <ind>spite</ind> of</trd>,
     <trd>despite</trd>
@@ -496,6 +500,10 @@
     <trd>encara que</trd>,
     <trd>tot i que</trd>,
     <trd>a <ind>pesar</ind> que</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en hu ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">obwohl</trd>,
+    <trd fnt="AI: en hu ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">obgleich</trd>
   </trdgrp>
   <trd lng="en"><ind>despite</ind> the fact that</trd>
   <trd lng="fr">quand bien m&ecirc;me</trd>

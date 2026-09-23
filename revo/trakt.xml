@@ -415,6 +415,7 @@
         <lok>Fundamenta Krestomatio de la lingvo Esperanto</lok>
       </fnt>.
     </ekz>
+  <trd lng="de" fnt="AI: id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verhandlung</trd>
   <trdgrp lng="id">
     <trd><baz>runding</baz>perundingan</trd>,
     <trd><baz>bicara</baz>pembicaraan</trd>,
@@ -587,6 +588,7 @@
     <uzo tip="fak">KOMP</uzo>
     <ref tip="dif" cel="trakt.datum0ilo">datumtraktilo</ref>
     <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_e;&c_s;&c_a;&c_r;</trd>
+    <trd lng="de" fnt="AI: en es ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Prozessor</trd>
     <trd lng="en">processor</trd>
     <trd lng="es">procesador</trd>
     <trd lng="hu">processzor</trd>
@@ -1125,6 +1127,7 @@
       makrootraktilo ktp).
     </dif>
     <ref tip="malprt" cel="trakt.datum0ado">datumtraktado</ref>
+    <trd lng="de" fnt="AI: en pl es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Prozessor</trd>
     <trd lng="en">processor</trd>
     <trd lng="es">procesador</trd>
     <trd lng="hu">processzor</trd>

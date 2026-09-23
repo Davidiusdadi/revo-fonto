@@ -396,6 +396,11 @@
   <trd lng="id"><baz>ubah</baz>berubah (adj.)</trd>
   <trd lng="nl">veranderend<klr tip="ind"> (ontr.)</klr></trd>
 -->
+    <trdgrp lng="de">
+      <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ver&auml;nderlich</trd>,
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wechselhaft</trd>,
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wandelbar</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="en">
     <trd>altering</trd>,
@@ -875,6 +880,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ver&auml;nderung</trd>,
+    <trd fnt="AI: en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wandel</trd>,
+    <trd fnt="AI: en ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;nderung</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>change<klr tip="ind"> (transition)</klr></trd>,
     <trd>shift<klr tip="ind"> (transition)</klr></trd>,

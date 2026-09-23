@@ -226,6 +226,10 @@
           </fnt>.
         </ekz>
       </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Weltraum</trd>,
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">All</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>antariksa</trd>,
       <trd>ruang angkasa</trd>
@@ -725,6 +729,7 @@
       <ref cel="tabl.labor0o.uniksa">labortablo<sncref/></ref>
     </refgrp>
     <trd lng="be">&c_p;&c_r;&c_a;&c_c;&c_o;&c_w;&c_n;&c_y; &c_s;&c_t;&c_o;&c_l; <klr>(&c_v;&c_ib;&c_r;&c_t;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_y;)</klr></trd>
+    <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">virtueller Desktop</trd>
     <trdgrp lng="fr">
       <trd>bureau virtuel</trd>,
       <trd>&eacute;cran virtuel</trd>,

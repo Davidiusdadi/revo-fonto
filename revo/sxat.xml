@@ -316,6 +316,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en fr it id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wertsch&auml;tzung</trd>
     <trd lng="hu">kedvel&eacute;s</trd>
   <trdgrp lng="id">
     <trd>apresiasi</trd>,
@@ -336,6 +337,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beliebtheit</trd>
     <trd lng="hu">kedvelts&eacute;g</trd>
   <trdgrp lng="id">
     <trd><baz>suka</baz>kesukaan</trd>,
@@ -705,6 +707,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de" fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ver&auml;chter</trd>
   <trd lng="fr">contempteur</trd>
 </drv>
 
@@ -768,6 +771,10 @@
     <trdgrp lng="be">
       <trd>&c_s;&c_a;&c_m;&c_a;&c_p;&c_a;&c_v;&c_a;&c_g;&c_a;</trd>,
       <trd>&c_s;&c_a;&c_m;&c_a;&c_a;&c_c;&c_e;&c_n;&c_k;&c_a; <klr>(&c_v;&c_y;&c_s;&c_o;&c_k;&c_a;&c_ja;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Selbstachtung</trd>,
+      <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Selbstwertgef&uuml;hl</trd>
     </trdgrp>
     <trd lng="pl">samouwielbienie</trd>
   </snc>

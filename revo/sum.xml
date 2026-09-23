@@ -597,6 +597,10 @@
     <trd>&c_r;&c_e;&c_z;&c_ju;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_b;&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_ja;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenfassen</trd>,
+    <trd fnt="AI: ref pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">res&uuml;mieren</trd>
+  </trdgrp>
   <trd lng="en">summarize</trd>
   <trd lng="ja">&#21512;&#35336;&#12375;&#30452;&#12377;  <pr>&#12372;&#12358;&#12369;&#12356;&#12375;&#12394;&#12362;&#12377;</pr></trd>
   <trdgrp lng="pl">

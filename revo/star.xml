@@ -450,6 +450,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_u;&c_s;&c_t;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinstellen</trd>,
+      <trd fnt="AI: dif en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stellen</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd fnt="Vikt: de pl; juĝis claude-opus-5">place</trd>,
       <trd fnt="Vikt: de pl; juĝis claude-opus-5">put</trd>
@@ -492,6 +496,10 @@
     <trdgrp lng="be">
       <trd>&c_u;&c_s;&c_t;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_z;&c_a;&c_s;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einrichten</trd>,
+      <trd fnt="AI: ref es en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gr&uuml;nden</trd>
     </trdgrp>
     <trdgrp lng="es">
       <trd>establecer</trd>,
@@ -536,6 +544,10 @@
       </ekz>
     </dif>
   <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; <klr>(&c_n;&c_a;&c_p;&c_r;. &c_n;&c_a; &c_p;&c_a;&c_s;&c_a;&c_d;&c_u;)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einsetzen</trd>,
+      <trd fnt="AI: dif ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bestellen</trd>
+    </trdgrp>
     <trd lng="hu">megb&iacute;z</trd>
   </snc>
   <trdgrp lng="cs">
@@ -663,6 +675,10 @@
       <trd>&c_p;&c_a;&c_w;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_p;&c_a;&c_w;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_u;&c_s;&c_t;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entstehen</trd>,
+      <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufkommen</trd>
     </trdgrp>
     <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">crop up</trd>
     <trd lng="hu">felmer&uuml;l</trd>
@@ -1628,6 +1644,7 @@
     <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_s;&c_a;&c_m;&c_a;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;&c_m;</ind></trd>,
     <trd>&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verselbst&auml;ndigen</trd>
   <trd lng="fr">rendre <ind>autonome</ind></trd>
   <trd lng="pl">usamodzielni&cacute;</trd>
 </drv>

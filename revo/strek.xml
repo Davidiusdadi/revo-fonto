@@ -481,6 +481,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_ja;&c_k;&c_k;&c_ib; <ind>&c_p;&c_je;&c_r;&c_a;&c_n;&c_o;&c_s;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">weiches Trennzeichen</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">bedingter Trennstrich</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>soft hyphen</trd>, <trd>SHY</trd>,
     <trd>discretionary hyphen</trd>

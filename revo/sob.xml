@@ -26,6 +26,11 @@
       <ref cel="sub.0">sub</ref>,
       <ref cel="sor.0">sor</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: be uk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinab</trd>,
+      <trd fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nieder</trd>,
+      <trd fnt="AI: uk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abw&auml;rts</trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>malsupren</ke>, <ke>suben</ke>.

@@ -402,6 +402,7 @@
     <uzo tip="stl">ARK</uzo>
     <ref tip="dif" cel="sonor.0anto.FON"><tld/>anto</ref>
     <trd lng="be">&c_s;&c_a;&c_n;&c_o;&c_r;&c_n;&c_y; &c_g;&c_u;&c_k;</trd>
+  <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sonorant</trd>
   <trdgrp lng="id">
     <trd>konsonan bersuara</trd>,
     <trd>sonoran</trd>,
@@ -489,6 +490,7 @@
     </rim>
   </snc>
   <trd lng="be">&c_ch;&c_o;&c_k;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="de" fnt="AI: ref nl hu ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ansto&szlig;en</trd>
   <trd lng="en">tap <klr>(a glass)</klr></trd>
   <trd lng="hu">koccint</trd>
   <trd lng="id"><baz>sulang</baz>bersulang</trd>

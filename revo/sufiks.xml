@@ -247,6 +247,10 @@
     <trd>sufigace</trd>,
     <trd>sufixace</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ru cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Suffigierung</trd>,
+    <trd fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Suffixbildung</trd>
+  </trdgrp>
   <trd lng="fr">suffixation</trd>
   <trd lng="it">suffissazione</trd>
   <trdgrp lng="nl">
@@ -295,6 +299,7 @@
   <trd lng="th">&#xE1E;&#xE22;&#xE32;&#xE07;&#xE04;&#xE4C;&#xE17;&#xE35;&#xE48;&#xE14;&#xE39;&#xE40;&#xE2B;&#xE21;&#xE37;&#xE2D;&#xE19;&#xE27;&#xE48;&#xE32;&#xE40;&#xE1B;&#xE47;&#xE19;&#xE2B;&#xE19;&#xE48;&#xE27;&#xE22;&#xE04;&#xE33;&#xE40;&#xE15;&#xE34;&#xE21;&#xE2B;&#xE25;&#xE31;&#xE07;</trd>
   </snc>
   <trd lng="be">&c_p;&c_s;&c_e;&c_w;&c_d;&c_a;&c_s;&c_u;&c_f;&c_ib;&c_k;&c_s;</trd>
+  <trd lng="de" fnt="AI: fr pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pseudosuffix</trd>
   <trd lng="fr">pseudosuffixe</trd>
   <trd lng="pl">pseudosufiks</trd>
   <trd lng="uk">&c_p;&c_s;&c_je;&c_v;&c_d;&c_o;&c_s;&c_u;&c_f;&c_ib;&c_k;&c_s;</trd>

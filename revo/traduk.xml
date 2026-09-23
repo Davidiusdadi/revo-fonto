@@ -590,6 +590,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_u;&c_s;&c_n;&c_y; <ind>&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_a;&c_d;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">m&uuml;ndliche &Uuml;bersetzung</trd>,
+    <trd fnt="AI: en fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dolmetschen</trd>
+  </trdgrp>
   <trd lng="en">interpretation<klr> (translation of speech)</klr></trd>
   <trd lng="fr">interpr&eacute;tation<klr> traduction</klr></trd>
   <trd lng="id"><baz>terjemah</baz>penerjemahan scr lisan</trd>

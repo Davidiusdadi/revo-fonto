@@ -138,6 +138,10 @@
       <ref cel="maket.0o">maketo</ref>,
       <ref cel="net.mal0o">malneto</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Type</trd>,
+      <trd fnt="AI: ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Letter</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>type</trd>,
       <trd>model</trd>

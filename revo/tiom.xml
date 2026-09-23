@@ -124,6 +124,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">so sehr</trd>
     <trd lng="en">that much</trd>
     <trdgrp lng="pl">
       <trd>tyle</trd>,
@@ -269,6 +270,7 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 13a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">soundsovielte <klr>[ugs.]</klr></trd>
     <trdgrp lng="fr">
       <trd>tanti&egrave;me<klr> (adj. ordinal)</klr></trd>,
       <trd>tant</trd>
@@ -289,6 +291,10 @@
         <fnt><bib>Lanti</bib></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">derartig</trd>,
+      <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">solch</trd>
+    </trdgrp>
     <trd lng="fr">tel</trd>
     <trdgrp lng="hu">
       <trd>olyan <ind>sok</ind></trd>,
@@ -353,6 +359,10 @@
     <trd>&c_t;&c_a;&c_k;, &c_sh;&c_t;&c_o;</trd>,
     <trd>&c_s;&c_t;&c_o;&c_l;&c_mol;&c_k;&c_ib;, &c_sh;&c_t;&c_o;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">so sehr, dass</trd>,
+    <trd fnt="AI: en be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">so viel, dass</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>so much, that ...</trd>,
     <trd>so much ..., that ...</trd>
@@ -394,6 +404,10 @@
   <trdgrp lng="be">
     <trd>&c_d;&c_a; <ind>&c_t;&c_a;&c_g;&c_o;</ind>, &c_sh;&c_t;&c_o;</trd>,
     <trd>&c_d;&c_a; &c_t;&c_o;&c_j; <ind>&c_s;&c_t;&c_u;&c_p;&c_je;&c_n;&c_ib;</ind>, &c_sh;&c_t;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">derart, dass</trd>,
+    <trd fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">so weit, dass</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>to such a degree, that ...</trd>,

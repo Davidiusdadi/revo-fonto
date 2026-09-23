@@ -600,6 +600,7 @@
       <trd>&c_v;&c_y;&c_l;&c_u;&c_ch;&c_y;&c_c;&c_mol;</trd>,
       <trd>&c_ja;&c_s;&c_n;&c_a; &c_p;&c_a;&c_k;&c_a;&c_z;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: hu ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heraussch&auml;len</trd>
     <trd lng="hu">kih&aacute;moz</trd>
     <trd lng="id"><baz>kuak</baz>menguak</trd>
     <trd lng="it">estrapolare<klr> (fig.)</klr></trd>
@@ -844,6 +845,10 @@
   <trdgrp lng="be">
     <trd>&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_l;&c_a;</trd>,
     <trd>&c_l;&c_ja;&c_k;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kurz gesagt</trd>,
+    <trd fnt="AI: en fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in aller K&uuml;rze</trd>
   </trdgrp>
   <trd lng="en">in a <ind>nutshell</ind></trd>
   <trdgrp lng="fr">

@@ -730,6 +730,11 @@
         <trd lng="de">aus der Haut fahren</trd>
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl ja be uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich spannen</trd>,
+      <trd fnt="AI: en fr es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich strecken</trd>,
+      <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich dehnen</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_p;&c_r;&c_u;&c_zh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,

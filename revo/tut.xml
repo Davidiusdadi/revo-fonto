@@ -915,6 +915,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_h;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trd lng="de" fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Holismus</trd>
   <trd lng="fr">holisme</trd>
   <trd lng="pl">totalitaryzm</trd>
 </drv>
@@ -985,6 +986,10 @@
       </ekz>
     </dif>
     <trd lng="ca">en conjunt</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;berhaupt</trd>,
+      <trd fnt="AI: ru hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Allgemeinen</trd>
+    </trdgrp>
     <trd lng="es">en conjunto</trd>
     <trdgrp lng="hu">
       <trd>&aacute;ltal&aacute;ban</trd>,
@@ -1024,6 +1029,10 @@
       </ekz>
     </dif>
     <trd lng="ca">en resum</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">alles in allem</trd>,
+      <trd fnt="AI: ru nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Gro&szlig;en und Ganzen</trd>
+    </trdgrp>
     <trd lng="es">en resumen</trd>
     <trdgrp lng="hu">
       <trd>egy&uuml;ttv&eacute;ve</trd>,

@@ -21,6 +21,7 @@
           <lok>Budapest, 1982</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl ru uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Timur</trd>
     <trd lng="pl">Timur</trd>
   </snc>
   <snc mrk="timur.0o.PERS">
@@ -37,6 +38,10 @@
         kontenti&gcirc;i je la titolo <ref cel="emir.0o">emiro</ref>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en pl uz; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Timur</trd>,
+      <trd fnt="AI: en uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tamerlan</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>Timur</trd>,
       <trd>Tamerlan</trd>
@@ -86,6 +91,7 @@
     <trd>&c_T;&c_y;&c_m;&c_u;&c_r;&c_y;&c_d;</trd>,
     <trd>&c_C;&c_ib;&c_m;&c_u;&c_r;&c_y;&c_d;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Timuride</trd>
   <trd lng="en">Timurid</trd>
   <trd lng="pl">potomek  <ind>Timura</ind></trd>
   <trd lng="ru">&c_T;&c_i;&c_m;&c_u;&c_r;&c_i;&c_d;</trd>

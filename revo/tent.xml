@@ -107,6 +107,10 @@
       unu de la alia.
       <aut>MB</aut>
     </adm>
+    <trdgrp lng="de">
+      <trd kod="ARK" fnt="AI: pl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versuchen <klr>(veraltet)</klr></trd>,
+      <trd fnt="AI: pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auf die Probe stellen</trd>
+    </trdgrp>
     <trd lng="hu">pr&oacute;b&aacute;ra tesz</trd>
     <trdgrp lng="pl">
       <trd>wypr&oacute;bowywa&cacute;</trd>,
@@ -162,6 +166,10 @@
         d&eacute;sir)</klr></trd>
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reizen</trd>,
+      <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">locken</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>cs&aacute;b&iacute;t</trd>,
       <trd>elcs&aacute;b&iacute;t</trd>
@@ -465,6 +473,10 @@
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">sv&aacute;d&ecaron;n&iacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Versuchung</trd>,
+    <trd fnt="AI: cs nl sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verf&uuml;hrung</trd>
+  </trdgrp>
   <trd lng="en">temptation</trd>
   <trd lng="fr">tentation</trd>
   <trdgrp lng="hu">
@@ -511,6 +523,10 @@
   <trd lng="be">
   &c_s;&c_p;&c_a;&c_k;&c_u;&c_sh;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
   <trd lng="cs">poku&scaron;itel</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Versucher</trd>,
+    <trd fnt="AI: ru hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verf&uuml;hrer</trd>
+  </trdgrp>
   <trd lng="en">tempter</trd>
   <trd lng="fr">tentateur<klr tip="ind"> (subst.)</klr></trd>
   <trdgrp lng="hu">
@@ -567,6 +583,10 @@
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_k;&c_u;&c_s;&c_ib;&c_c;&c_c;&c_a;
   </trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versucht sein</trd>,
+    <trd fnt="AI: ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Versuchung geraten</trd>
+  </trdgrp>
   <trd lng="en">be <ind>tempt</ind>ed</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre <ind>tent&eacute;</ind></trd>,

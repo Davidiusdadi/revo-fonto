@@ -219,6 +219,10 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">antreiben</trd>,
+      <trd fnt="AI: hu ru it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bewegen</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>mozgat</trd>,
       <trd>&ouml;szt&ouml;n&ouml;z</trd>
@@ -455,6 +459,7 @@
     <trd>&c_b;&c_o;&c_w;&c_t;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_v;&c_a;&c_g;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: nl pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich schwingen</trd>
   <trdgrp lng="en">
     <trd>to wave</trd>,
     <trd>swing</trd>, <trd>flutter</trd>, <trd>oscillate</trd>,

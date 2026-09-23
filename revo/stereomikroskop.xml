@@ -33,6 +33,10 @@
   </snc>
   <trd lng="be">&c_s;&c_t;&c_e;&c_r;&c_e;&c_a;&c_m;&c_ib;&c_k;&c_r;&c_a;&c_s;&c_k;&c_o;&c_p;</trd>
   <trd lng="ca">microscopi estereosc&ograve;pic</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Stereomikroskop</trd>,
+    <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Stereolupe</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>stereomicroscope</trd>,
     <trd>stereoscopic microscope</trd>,
