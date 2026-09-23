@@ -174,6 +174,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Relating to analysis.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf die Analyse bezogen.</dif>
     <refgrp tip="vid">
       <ref cel="analit.0a">analitika</ref>,
@@ -221,6 +222,7 @@
         <tld/>a verbotempo, superlativo, komparativo.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Using a separate word for a grammatical function; expressing inflections in multiple words.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;r eine grammatische Funktion ein eigenes Wort verwendend; Flexionen durch mehrere W&ouml;rter ausdr&uuml;ckend.</dif>
     <trd lng="fr">analytique</trd>
     <trd lng="pl">analityczny</trd>
@@ -334,6 +336,7 @@
         <ind>sintaksa analizilo</ind>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A software or hardware tool for finding attributes or components of data.</dif>
   <trd lng="de">Parser</trd>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_t;&c_a;&c_r;</trd>
@@ -368,6 +371,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A person who professionally observes and analyses.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der beruflich beobachtet und analysiert.</dif>
     <subsnc mrk="analiz.0isto.EKON">
       <uzo tip="fak">EKON</uzo>
@@ -394,6 +398,7 @@
         </fnt>.
       </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A specialist who analyses an economic situation and its causes to facilitate forecasts; an economic analyst.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fachmann, der die wirtschaftliche Lage und ihre Ursachen analysiert, um Prognosen zu erleichtern; Wirtschaftsanalytiker.</dif>
     </subsnc>
     <subsnc mrk="analiz.0isto.KOMP">
@@ -414,6 +419,7 @@
           </fnt>
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A computer specialist who analyses users' needs and proposes solutions to meet them.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Informatiker, der die Bed&uuml;rfnisse der Benutzer analysiert und L&ouml;sungen vorschl&auml;gt, um sie zu erf&uuml;llen.</dif>
     </subsnc>
     <trdgrp lng="zh">

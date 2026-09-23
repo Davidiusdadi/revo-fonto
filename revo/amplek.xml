@@ -69,6 +69,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Degree of size, considered in relation to what something contains; the space that something occupies in all relevant dimensions.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Grad der Gr&ouml;&szlig;e, betrachtet im Hinblick auf das, was etwas enth&auml;lt; der Raum, den etwas in allen betreffenden Dimensionen einnimmt.</dif>
     <subsnc>
       <dif>
@@ -81,6 +82,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Circumference of occupied space.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Umfang eines eingenommenen Raumes.</dif>
     </subsnc>
     <subsnc>
@@ -239,6 +241,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Related in some way to extent.</dif>
     <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_m;&c_je;&c_r;&c_n;&c_y;</trd>
     <trdgrp lng="de">
       <trd>im <ind>Ausma&szlig;</ind> von</trd>,
@@ -310,6 +313,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Large in all its dimensions.</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_ja;&c_l;&c_ib;&c_z;&c_n;&c_y;</trd>,
       <trd>&c_u;&c_s;&c_jo;&c_a;&c_h;&c_o;&c_p;&c_n;&c_y;</trd>,
@@ -434,6 +438,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Have an extent of; contain or comprise.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Ausma&szlig; von &#x2026; haben; enthalten, in sich fassen.</dif>
     <refgrp tip="vid">
       <ref cel="pren.cxirkaux0i">&ccirc;irka&ubreve;preni</ref>,
@@ -523,6 +528,7 @@
         <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 11a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Having a large extent; vast.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen gro&szlig;en Umfang habend; weit.</dif>
     <trdgrp lng="zh">
       <trd>&#x5927;&#x7BC4;&#x570D; <pr>d&agrave;f&agrave;nw&eacute;i</pr></trd>,
@@ -588,6 +594,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Large-bodied; corpulent.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von gro&szlig;em K&ouml;rperumfang, beleibt.</dif>
     <trd lng="zh">&#x4FBF;&#x4FBF; <pr>pi&aacute;npi&aacute;n</pr></trd>
 </snc>
