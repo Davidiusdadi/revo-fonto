@@ -269,6 +269,10 @@
       <trd>&c_v;&c_ib;&c_d;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_y;</trd>,
       <trd>&c_z;&c_a;&c_w;&c_v;&c_a;&c_zh;&c_n;&c_y;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">handgreiflich</trd>,
+      <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">greifbar</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>namacalny</trd>,
       <trd>uchwytny</trd>

@@ -190,6 +190,10 @@
     <trd>&c_p;&c_l;&c_ja;&c_s;&c_t;&c_y;&c_k;&c_a;&c_v;&c_y;</trd>,
     <trd>&c_p;&c_l;&c_ja;&c_s;&c_t;&c_m;&c_a;&c_s;&c_a;&c_v;&c_y;</trd>
   </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: cs ro ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aus Kunststoff</trd>,
+        <trd fnt="AI: cs ro ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aus Plastik</trd>
+      </trdgrp>
       <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">plastic</trd>
   </snc>
   <snc mrk="plast.0a.FIG">

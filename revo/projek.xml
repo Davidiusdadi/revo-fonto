@@ -356,6 +356,10 @@
       <aut>MB</aut>
     </adm>
   <trd lng="be">&c_d;&c_y;&c_ja;&c_p;&c_a;&c_z;&c_y;&c_t;&c_y;&c_w;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: hu pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dia</trd>,
+    <trd fnt="AI: hu be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Diapositiv</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>slajd</trd>,
     <trd>przezrocze</trd>

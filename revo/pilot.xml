@@ -65,6 +65,7 @@
     </dif>
     <!-- ne traduku EVI -->
     <trd lng="ca">pilot</trd>
+    <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steuermann</trd>
   </snc>
   <snc mrk="pilot.0o.AVI">
     <uzo tip="fak">AVI</uzo>
@@ -224,6 +225,11 @@
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_ib;&c_l;&c_a;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru pl be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fliegen</trd>,
+      <trd fnt="AI: ru pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pilotieren</trd>,
+      <trd fnt="AI: nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">steuern</trd>
+    </trdgrp>
     <trd lng="nl">besturen<klr tip="ind"> (v.vliegtuig)</klr></trd>
     <trd lng="pl">pilotowa&cacute;</trd>
     <trd lng="ru">&c_p;&c_i;&c_l;&c_o;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>

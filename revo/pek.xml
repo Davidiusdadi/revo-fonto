@@ -548,6 +548,11 @@
       <trd>impecable</trd>,
       <trd>immaculat</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ca es id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tadellos</trd>,
+      <trd fnt="AI: en ca es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einwandfrei</trd>,
+      <trd fnt="AI: ca es id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">makellos</trd>
+    </trdgrp>
     <trd lng="en">impeccable</trd>
     <trdgrp lng="es">
       <trd>impecable</trd>,
@@ -807,6 +812,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_s;&c_mol;&c_m;&c_ja;&c_r;&c_o;&c_t;&c_n;&c_a;&c_je; &c_z;&c_l;&c_a;&c_ch;&c_y;&c_n;&c_s;&c_t;&c_v;&c_a;</trd>
+    <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kapitalverbrechen</trd>
     <trdgrp lng="en">
       <trd>capital offense</trd>,
       <trd>capital sin</trd>

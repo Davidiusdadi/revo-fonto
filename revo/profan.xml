@@ -373,6 +373,10 @@
        <trd>&c_p;&c_r;&c_a;&c_f;&c_a;&c_n;&c_a;&c_c;&c_y;&c_ja;</trd>
     </trdgrp>
     <trd lng="ca">profanaci&oacute;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entweihung</trd>,
+      <trd fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Profanierung <klr>(gehoben)</klr></trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>profanation</trd>,
       <trd>desecration</trd>
@@ -499,6 +503,10 @@
        <ref cel="dileta.0o">diletanto</ref>
     </refgrp>
     <ref tip="ant" cel="fak.0ulo">fakulo</ref>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Laie</trd>,
+      <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nichtfachmann</trd>
+    </trdgrp>
     <trd lng="fr">profane<klr> (subst., fig.)</klr></trd>
     <trdgrp lng="hu">
       <trd>hozz&aacute; nem &eacute;rt&odblac;</trd>,

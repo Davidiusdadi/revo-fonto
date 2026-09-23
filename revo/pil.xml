@@ -150,6 +150,10 @@
       <bib>Viki</bib></fnt>.
       <aut>Sergio Pokrovskij</aut>
     </rim>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref cs sk uk ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Atommeiler</trd>,
+    <trd fnt="AI: ref cs sk uk ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Atomreaktor</trd>
+  </trdgrp>
   <trd lng="id">reaktor nuklir</trd>
   </snc>
   <trd lng="cs">atomov&yacute; reaktor</trd>

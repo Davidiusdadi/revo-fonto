@@ -742,6 +742,10 @@
           <ref cel="prikl.0i.HOR">prikli</ref>
         </refgrp>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: pl cs fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umpflanzen</trd>,
+        <trd fnt="AI: nl pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verpflanzen</trd>
+      </trdgrp>
       <trd lng="fr">repiquer<klr> (des plantes)</klr></trd>
       <trdgrp lng="id">
         <trd><baz>cangkok</baz>mencangkok<klr tip="amb"> (tanaman)</klr></trd>,

@@ -34,6 +34,10 @@
       </ekz>
     </dif>
       <trd lng="be">&c_p;&c_a;&c_m;&c_e;&c_l;&c_a; <klr>(&c_p;&c_l;&c_o;&c_d;)</klr></trd>
+     <trdgrp lng="de">
+       <trd fnt="AI: en nl sv fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pampelmuse</trd>,
+       <trd fnt="AI: en nl pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pomelo</trd>
+     </trdgrp>
      <trdgrp lng="nl">
        <trd>pomelo</trd>,
        <trd>pompelmoes<klr tip="amb"> (vrucht)</klr></trd>
@@ -43,6 +47,7 @@
     <uzo tip="fak">BOT</uzo>
     <ref tip="dif" cel="pampelmus.0arbo.BOT"><tld/>arbo</ref>
     <trd lng="be">&c_p;&c_a;&c_m;&c_e;&c_l;&c_a; <klr>(&c_d;&c_r;&c_e;&c_v;&c_a;)</klr></trd>
+    <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pampelmusenbaum</trd>
     <trdgrp lng="nl">
       <trd>pomeloboom</trd>,
       <trd>pompelmoes<klr tip="amb"> (boom)</klr></trd>

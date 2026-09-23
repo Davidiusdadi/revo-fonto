@@ -1445,6 +1445,10 @@
       <trd>&c_p;&c_r;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol;</trd>,
       <trd>&c_k;&c_a;&c_n;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl pl cs fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vergehen</trd>,
+      <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dahinschwinden</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_p;&c_r;&c_o;&c_j;&c_t;&c_i;</trd>,
       <trd>&c_p;&c_r;&c_o;&c_h;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
@@ -1964,6 +1968,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bersteigen</trd>,
+      <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bertreffen</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>to pass</trd>,
       <trd>surpass</trd>
@@ -1999,6 +2007,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: hu nl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hin&uuml;bergehen</trd>
     <trdgrp lng="en">
       <trd>to pass</trd>,
       <trd>go through</trd>
@@ -2014,6 +2023,7 @@
         trans<tld/>i de la solida al la flueca stato.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: nl hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bergehen</trd>
     <trdgrp lng="en">
       <trd>to pass</trd>,
       <trd>transform</trd>

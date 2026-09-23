@@ -193,6 +193,10 @@
       <trd>complet</trd>,
       <trd>enter</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en nl sv; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vollst&auml;ndig</trd>,
+      <trd fnt="AI: en pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">komplett</trd>
+    </trdgrp>
     <trd lng="en">complete</trd>
     <trdgrp lng="es">
       <trd>completo</trd>,
