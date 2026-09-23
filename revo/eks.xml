@@ -14,6 +14,7 @@
     <dif>
       Iama, estinta kaj ne plu estanta.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ehemalig, gewesen und nicht mehr bestehend.</dif>
     <subsnc mrk="eks.0.ofico">
       <dif>
         Forlasinta profesion, okupon:
@@ -57,6 +58,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der einen Beruf oder eine Besch&auml;ftigung aufgegeben hat.</dif>
       <trdgrp lng="ca">
         <trd>ex-</trd>,
         <trd>antic</trd>
@@ -105,6 +107,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der einen Stand aufgegeben hat.</dif>
     </subsnc>
     <subsnc mrk="eks.0.kastro">
       <dif>
@@ -135,6 +138,7 @@
           <trd lng="vo">jojevod</trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kastriertes Tier.</dif>
       <rim>
         Tiu &ccirc;i atribuo de la senco &leftquot;kastrita&rightquot; al la prefikso
         &leftquot;eks-&rightquot;
@@ -329,6 +333,7 @@
           (hivatal&aacute;b&oacute;l)</klr></trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(jemanden) eines Amtes, einer Funktion, eines Postens, eines Ranges oder einer Mitgliedschaft entheben.</dif>
       <refgrp tip="sub">
         <ref cel="dung.mal0i">maldungi</ref>,
         <ref cel="ofic.sen0igi">senoficigi</ref>
@@ -365,6 +370,7 @@
             <bib>Monato</bib> <lok>2022/04, p. 3</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(ein Kollektivorgan) Alle Mitglieder eines Parlaments oder eines anderen Kollektivorgans ihres Amtes entheben, um die Wahl oder Ernennung neuer Mitglieder zu erm&ouml;glichen.</dif>
       <ref tip="vid" cel="fond.mal0i.POL">malfondi</ref>
       <trd lng="ca">dissoldre<klr tip="amb"> (un parlament, etc.)</klr></trd>
       <trd lng="de" fnt="AI: en ru ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufl&ouml;sen</trd>
@@ -384,6 +390,7 @@
           <fnt><bib>EE</bib>, <lok>&ccirc;apitro 7a</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(etwas) zu etwas Ehemaligem, nicht mehr Gebrauchtem machen.</dif>
       <refgrp tip="sin">
         <ref cel="for.0igi">forigi</ref>,
         <ref cel="nul0.0igi.KOMUNE">nuligi<sncref/></ref>
@@ -482,6 +489,7 @@
           <fnt><bib>ElektFab</bib> <lok>Kamarado Gaja</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Enthebung aus der bisherigen Funktion.</dif>
       <trdgrp lng="be">
         <trd>&c_z;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
         <trd>&c_p;&c_a;&c_z;&c_b;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;
@@ -527,6 +535,7 @@
             <bib>LOdE</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Aufl&ouml;sen eines Kollektivorgans.</dif>
       <trd lng="be">&c_r;&c_o;&c_s;&c_p;&c_u;&c_s;&c_k; <klr
       tip="amb">(&c_a;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ib;,
       &c_g;&c_r;&c_u;&c_p;&c_y; &c_ib; &c_d;&c_a; &c_g;. &c_p;.)</klr></trd>

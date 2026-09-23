@@ -12,10 +12,12 @@
     <dif>
       Vellar&gcirc;o.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Segelbreite.</dif>
     <subsnc mrk="enverg.0o.MAR_verga">
       <dif>
         Lar&gcirc;o de la vela parto fiksita al la vergo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Breite des an der Rah befestigten Teils des Segels.</dif>
       <trd lng="be">&c_sh;&c_y;&c_r;&c_y;&c_n;&c_ja; <ind>&c_v;&c_je;&c_t;&c_r;&c_a;&c_z;&c_ja;</ind></trd>
       <trd lng="de">Weite des Segels auf der Rah</trd>
     </subsnc>
@@ -23,6 +25,7 @@
       <dif>
         Lar&gcirc;o de la velaro sur &scirc;ipo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Breite der Besegelung eines Schiffes.</dif>
       <trd lng="be">&c_sh;&c_y;&c_r;&c_y;&c_n;&c_ja; <ind>&c_v;&c_je;&c_t;&c_r;&c_a;&c_z;&c_ja;&c_w;</ind></trd>
       <trd lng="de">Segelspannweite</trd>
       <trdgrp lng="it">
@@ -38,6 +41,7 @@
     <dif>
       Flugilamplekso.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fl&uuml;gelausdehnung.</dif>
     <subsnc mrk="enverg.0o.AVI">
       <uzo tip="fak">AVI</uzo>
       <dif>
@@ -57,6 +61,7 @@
            </fnt>.
          </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">L&auml;nge von der Spitze eines Fl&uuml;gels bis zur Spitze des anderen.</dif>
       <trdgrp lng="nl">
         <trd>spanwijdte</trd>,
         <trd>vleugelbreedte</trd>
@@ -75,6 +80,7 @@
           2006-12-22</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">L&auml;nge der ausgebreiteten Fl&uuml;gel eines Vogels.</dif>
       <trdgrp lng="nl">
         <trd>spanwijdte</trd>,
         <trd>vleugelbreedte</trd>
@@ -101,6 +107,7 @@
           <lok>libera folio, 2006-11-18</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gro&szlig;e F&auml;higkeit auf vielen Gebieten, herausragende Bedeutung.</dif>
     <trdgrp lng="be">
       <trd>&c_r;&c_a;&c_z;&c_m;&c_a;&c_h;</trd>,
       <trd>&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</trd>

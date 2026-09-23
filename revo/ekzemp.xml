@@ -20,6 +20,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einzelner Fall einer allgemeineren Sache.</dif>
   <subsnc mrk="ekzemp.0o.imitinda">
     <dif>
       Aparta ago a&ubreve; sinteno konsiderata kiel imitebla&jcirc;o:
@@ -64,6 +65,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einzelne Handlung oder Haltung, die als nachahmenswert betrachtet wird.</dif>
   <trdgrp lng="id">
     <trd>teladan</trd>,
     <trd>suri teladan</trd>
@@ -98,6 +100,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sache, die als Best&auml;tigung f&uuml;r eine Behauptung oder einen Fall angef&uuml;hrt wird.</dif>
     <refgrp tip="vid">
       <ref cel="kaz.0o.okazo">kazo <sncref/></ref>,
       <ref cel="okaz.0o.kazo">okazo <sncref/></ref>
@@ -124,6 +127,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Textstelle, die man zitiert, um eine grammatische oder philologische Erkl&auml;rung zu belegen.</dif>
   </subsnc>
   </snc>
   <trd lng="af">byvoorbeeld</trd>
@@ -421,6 +425,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beispiel f&uuml;r das Gegenteil dessen, was jemand behauptet oder glauben k&ouml;nnte.</dif>
     <trd lng="fr">contre-exemple</trd>
   </snc>
   <snc mrk="ekzemp.kontraux0o.MAT">
@@ -436,6 +441,7 @@
         <ctl>por &ccirc;iu <frm am="x"><k>x</k></frm> veras <frm am="P(x)">P(<k>x</k>)</frm></ctl>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Pr&auml;dikats P) Ein Objekt x, f&uuml;r das die Aussage P(x) falsch ist.</dif>
     <trd lng="fr">contre-exemple</trd>
     <trdgrp lng="id">
       <trd><ind>contoh</ind> tandingan</trd>,

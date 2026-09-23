@@ -13,6 +13,7 @@
     <dif>
       Estigi, <ref tip="vid" cel="kre.0i.KOMUNE">krei</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Entstehen lassen, erschaffen.</dif>
     <subsnc mrk="far.0i.elMaterio">
       <dif>
         Estigi objekton, eligante &gcirc;in el materio:
@@ -49,6 +50,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Gegenstand entstehen lassen, indem man ihn aus Material hervorbringt.</dif>
       <refgrp tip="vid">
         <ref cel="fabrik.0i">fabriki</ref>,
         <ref cel="pret.0igi">pretigi</ref>,
@@ -75,6 +77,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Werk entstehen lassen, indem man es aus dem Geist hervorbringt; Form geben.</dif>
       <refgrp tip="vid">
         <ref cel="kompil.0i">kompili</ref>,
         <ref cel="kompon.0i">komponi</ref>,
@@ -96,6 +99,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas entstehen lassen, indem man es aus dem Nichts hervorbringt.</dif>
       <ref tip="vid" cel="kre.0i.REL">krei<sncref/></ref>
     </subsnc>
     <trdgrp lng="id">
@@ -137,6 +141,7 @@
         <fnt><bib>PrV</bib></fnt>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bewirken, dass jemand oder etwas eine bestimmte Eigenschaft erh&auml;lt; jemanden oder etwas von einem Zustand in einen anderen &uuml;bergehen lassen.</dif>
     <trd lng="id"><baz>jadi</baz>menjadikan</trd>
     <trd lng="th">&#xE41;&#xE15;&#xE48;&#xE07;&#xE15;&#xE31;&#xE49;&#xE07;</trd>
   </snc>
@@ -144,6 +149,7 @@
     <dif>
       <ref tip="vid" cel="ag.0i">Agi</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handeln.</dif>
     <subsnc mrk="far.0i.plenumi">
       <dif>
         Plenumi agon; estigi efikon; okazigi rezulton:
@@ -334,6 +340,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Handlung ausf&uuml;hren; eine Wirkung hervorrufen; ein Ergebnis herbeif&uuml;hren.</dif>
       <refgrp tip="vid">
         <ref cel="efekti.0igi">efektivigi</ref>,
         <ref cel="efik.0i">efiki</ref>,
@@ -368,6 +375,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf irgendeine Weise handeln.</dif>
     </subsnc>
     <subsnc mrk="far.0i.agi">
       <gra>senkomplemente</gra>
@@ -393,6 +401,7 @@
           neni<tld/>anto.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handeln, nicht unt&auml;tig bleiben.</dif>
     <trd lng="id"><baz>aksi</baz>beraksi</trd>
     </subsnc>
     <trd lng="id"><baz>buat</baz>memperbuat</trd>
@@ -1487,6 +1496,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Getan werden.</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_b;&c_y;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_z;&c_d;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>,
@@ -1544,6 +1554,7 @@
         kio <tld/>i&gcirc;is el <klr>(a&ubreve; pri)</klr> mi?
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von einem Zustand in einen anderen gelangen; geschehen, entstehen.</dif>
     <trdgrp lng="be">
       <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_z;&c_r;&c_a;&c_b;&c_ib;&c_c;&c_c;&c_a;</trd>,

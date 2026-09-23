@@ -84,6 +84,7 @@
         <trd lng="pl">dzieli&cacute; si&eogonek; dalej</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus einem Ganzen Teile machen, Teile von einem Ganzen abtrennen, zerteilen</dif>
     <refgrp tip="vid">
       <ref cel="on">-on-</ref>,
       <ref cel="dis">dis-</ref>,
@@ -129,6 +130,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jedem seinen Teil austeilen</dif>
     <refgrp tip="vid">
       <ref cel="distri.0i">distribui</ref>,
       <ref cel="part.0igi">dispartigi</ref>
@@ -160,6 +162,7 @@
         <fnt><bib>MT</bib>, <lok>&Sen; 29:24</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seinen jeweiligen Teil aus einem gemeinsamen Ganzen erhalten, nehmen</dif>
     <trd lng="hu">megoszt</trd>
     <trd lng="pl">dzieli&cacute;</trd>
   </snc>
@@ -209,6 +212,7 @@
           <tld/>i kun iu &ccirc;iujn dan&gcirc;erojn de la vojo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Anteil haben, gemeinsam haben, gemeinsam erleben</dif>
     <refgrp tip="vid">
       <ref cel="kompat.0i">kompati</ref>,
       <ref cel="sent.kun0i">kunsenti</ref>,
@@ -233,6 +237,7 @@
         <frm>5</frm> dividite per <frm>2</frm> estas <frm am="2 1/2">2&#xBD;</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Rechenoperation Division ausf&uuml;hren</dif>
     <refgrp tip="vid">
       <ref cel="divizo.0i">divizori</ref>,
       <ref cel="on.0igi.MAT">onigi</ref>
@@ -391,6 +396,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Teilen oder dessen Ergebnis</dif>
     <trdgrp lng="de">
       <trd fnt="AI: pl fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Teilung</trd>,
       <trd fnt="AI: fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Aufteilung</trd>
@@ -435,6 +441,7 @@
         dudek sep sur tri estas na&ubreve;)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die zur Multiplikation inverse Rechenoperation, die es erm&ouml;glicht, aus einem Produkt (dem Dividenden) und einem der Faktoren (dem Divisor) den anderen Faktor (den Quotienten) zu bestimmen</dif>
     <rim>
       Por distingi &ccirc;i tiun operacion de la
       <ref cel="divid.euxklida0o">e&ubreve;klida <tld/>o</ref>, oni foje
@@ -594,6 +601,7 @@
         </fnt>?
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der teilt</dif>
     <trd lng="pl">dziel&aogonek;cy</trd>
   </snc>
   <snc mrk="divid.0anto.MAT">
@@ -602,6 +610,7 @@
     <dif>
       La nombro, per kiu oni <ref cel="divid.0i.MAT"><tld/>as</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Zahl, durch die man teilt</dif>
   <trdgrp lng="id">
     <trd>faktor<klr tip="amb"> (matematika)</klr></trd>,
     <trd>divisor</trd>
@@ -775,6 +784,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teilen, austeilen, verteilen</dif>
     <trd lng="de">verteilen</trd>
     <trd lng="en">divide between</trd>
   <trdgrp lng="id">
@@ -796,6 +806,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Trennen, absondern</dif>
   <trd lng="de" fnt="AI: id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spalten</trd>
   <trdgrp lng="id">
     <trd><baz>pecah belah</baz>memecah belah</trd>,

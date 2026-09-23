@@ -29,6 +29,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mehr oder weniger deutliche Wiederholung eines an einer Fl&auml;che zur&uuml;ckgeworfenen Schalls.</dif>
     <refgrp tip="vid">
      <ref cel="son.re0i">resoni</ref>.
     </refgrp>
@@ -89,6 +90,7 @@
       </ekz>
       -->
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wiederholung einer Aussage, einer Meinung, eines Ger&uuml;chts.</dif>
     <trd lng="fa">&a_b;&a_A;&a_z;&a_t;&a_A;&a_b;</trd>
     <trd lng="it">eco</trd>
   </snc>
@@ -102,6 +104,7 @@
        kiam la eniga&jcirc;o estas <ref cel="vort.pas0o">pasvorto</ref>,
        &gcirc;i kutime ne <tld/>i&gcirc;as, por ke &gcirc;i restu sekreta.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Anzeige der Schriftzeichen, die den vom Benutzer gedr&uuml;ckten Tasten entsprechen, auf dem Bildschirm eines Terminals. Das ist der Normalfall; manchmal jedoch, z. B. bei der Eingabe eines Passworts, wird die Eingabe &uuml;blicherweise nicht angezeigt, damit sie geheim bleibt.</dif>
     <trd lng="it">echo</trd>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_h;&c_a;</trd>

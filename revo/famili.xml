@@ -12,6 +12,7 @@
     <dif>
       Malvasta parencaro.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Engere Verwandtschaft.</dif>
     <subsnc mrk="famili.0o.GEN.strikta">
     <uzo tip="fak">GEN</uzo>
       <dif>
@@ -34,6 +35,7 @@
           <fnt><bib>MT</bib> <lok>&Jos; 2:18</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe, die aus Vater, Mutter und Kindern besteht.</dif>
       <trd lng="nl">gezin</trd>
     </subsnc>
     <subsnc mrk="famili.0o.GEN.largxa">
@@ -73,6 +75,7 @@
           <fnt><bib>EE</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die gesamte Verwandtschaft im Allgemeinen.</dif>
       <refgrp tip="vid">
         <ref cel="gent.0o.familio">gento</ref>
       </refgrp>
@@ -83,6 +86,7 @@
     <dif>
       Aro de a&jcirc;oj kun komuna deveno.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von Dingen mit gemeinsamer Herkunft.</dif>
     <subsnc mrk="famili.0o.BIO">
       <uzo tip="fak">ZOO</uzo>
       <uzo tip="fak">BOT</uzo>
@@ -116,6 +120,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stufe der botanischen und zoologischen Klassifikation.</dif>
       <rim>
         La nomo de <tld/>o estas derivata de la nomo
         de unu el &gcirc;iaj genroj per la sufikso
@@ -149,6 +154,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Klasse von Musikinstrumenten mit gleicher allgemeiner Bauweise, die sich nach Gr&ouml;&szlig;e, Tonumfang oder anderen Einzelheiten unterscheiden.</dif>
     </subsnc>
     <subsnc mrk="famili.0o.GRA">
       <uzo tip="fak">LIN</uzo>
@@ -169,6 +175,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Klasse von Sprachen, Sprachfamilie.</dif>
       <trd lng="id">rumpun</trd>
     </subsnc>
     <subsnc mrk="famili.0o.bildigo">
@@ -194,6 +201,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Elementen einer Menge E mit Indizes aus einer Menge I) Abbildung von I nach E; alternativ: die Bildmenge dieser Abbildung.</dif>
       <ref tip="sub" cel="vic.0o.MAT">vico;</ref>
       <refgrp tip="vid">
         <ref cel="indic.0o.familio">indico</ref>,

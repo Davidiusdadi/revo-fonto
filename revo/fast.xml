@@ -39,6 +39,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus religi&ouml;sem Beweggrund w&auml;hrend eines festgelegten Zeitraums auf Vergn&uuml;gungen und besonders auf bestimmte Speisen verzichten.</dif>
     <trd lng="hu">b&odblac;jt&ouml;l</trd>
   </snc>
   <snc mrk="fast.0i.FIG">
@@ -54,6 +55,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht essen, sich des Essens enthalten.</dif>
     <trd lng="hu">koplal</trd>
   </snc>
   <ref tip="super" cel="abstin.0i">abstini</ref>
@@ -182,6 +184,7 @@
         <fnt><bib>Fab1</bib>, <lok>Kupra porko</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mehrw&ouml;chige christliche Fastenzeit im Fr&uuml;hling.</dif>
     <subsnc mrk="fast.granda0o.orto">
       <dif>
         En la orienta kristanismo la Granda <tld lit="F"/>o
@@ -189,6 +192,7 @@
         <ctl>Pura Lundo</ctl>, kaj fini&gcirc;as je la Palma
         Diman&ccirc;o.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im &ouml;stlichen Christentum beginnt die Gro&szlig;e Fastenzeit sieben Wochen vor Ostern, am Reinen Montag, und endet am Palmsonntag.</dif>
       <rim>
         Simbole, &gcirc;i estas rememoro pri la kvardeka <tld/>o de
         Jesuo anta&ubreve; la komenco de lia misio, kaj anta&ubreve;as
@@ -206,6 +210,7 @@
         fini&gcirc;as je la
         <ref cel="sankt.0a.semajna">Sankta Sabato</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im westlichen Christentum beginnt die Gro&szlig;e Fastenzeit 46 Tage vor Ostern, am Aschermittwoch, und endet am Karsamstag.</dif>
       <ref tip="sin" cel="karesm.0o">Karesmo</ref>
       <rim>
         Do, &gcirc;i da&ubreve;ras kvardek nediman&ccirc;ajn tagojn, kaj
@@ -238,6 +243,7 @@
       En <ref cel="islam.0o">Islamo</ref>, la fasto kiu da&ubreve;ras la
       tutan sanktan monaton <ref tip="malprt" cel="ramadan.0o">ramadano</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im Islam das Fasten, das den ganzen heiligen Monat Ramadan hindurch dauert.</dif>
     <trd lng="be">&c_r;&c_a;&c_m;&c_a;&c_d;&c_a;&c_n;
     <klr tip="amb">(&c_p;&c_o;&c_s;&c_t;)</klr></trd>
     <trd lng="en"><klr>the fast of</klr> <ind>Ramadan</ind></trd>

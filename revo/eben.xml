@@ -58,6 +58,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Oberfl&auml;che) So beschaffen, dass alle ihre Punkte ungef&auml;hr auf gleicher H&ouml;he liegen, ohne Vertiefungen oder Erhebungen.</dif>
     <refgrp tip="vid">
       <ref cel="glat.0a">glata</ref>,
       <ref cel="plat.0a">plata</ref>
@@ -136,6 +137,7 @@
         <tld/>a a&ubreve; ne<tld/>a <ref cel="kurb.0o.MAT">kurbo</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf eine Ebene bezogen; in einer Ebene enthalten.</dif>
     <trd lng="be">&c_p;&c_l;&c_o;&c_s;&c_k;&c_ib;</trd>
     <trd lng="ca">pla</trd>
     <trd lng="de">eben</trd>
@@ -171,6 +173,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichf&ouml;rmig, leicht; ohne jede Unebenheit.</dif>
     <refgrp tip="vid">
       <ref cel="glat.0a">glata</ref>
     </refgrp>
@@ -261,6 +264,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ebene Landfl&auml;che.</dif>
     <refgrp tip="vid">
       <ref cel="etagx.0o.nivelo">eta&gcirc;o<sncref/></ref>,
       <ref cel="teras.0o.ebeno">teraso<sncref/></ref>
@@ -287,6 +291,7 @@
         tra tri punktoj povas trairi nur unu <tld/>o.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fl&auml;che, die jede Gerade enth&auml;lt, die durch zwei ihrer Punkte verl&auml;uft.</dif>
   <trd lng="id">bangun datar</trd>
   </snc>
   <snc mrk="eben.0o.MAT">
@@ -296,6 +301,7 @@
       <ref cel="eben.vektora0o">vektora <tld/>o</ref>,
       la&ubreve; la kunteksto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Affine Ebene oder Vektorebene, je nach Zusammenhang.</dif>
     <trd lng="zh">&#x5E73;&#38754; <pr>p&iacute;ngmi&agrave;n</pr></trd>
 </snc>
   <trd lng="be">&c_p;&c_l;&c_o;&c_s;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -684,6 +690,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ebene, die sehr hoch &uuml;ber dem Meeresspiegel liegt.</dif>
   <trdgrp lng="en">
     <trd>height <klr>(geographical)</klr></trd>,
     <trd>plateau <klr>(geographical)</klr></trd>
