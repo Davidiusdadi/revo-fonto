@@ -76,6 +76,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ideales Muster, das die kennzeichnenden Eigenschaften einer Art von Personen oder Gegenst&auml;nden in hohem Ma&szlig; in sich verk&ouml;rpert.</dif>
     <refgrp tip="sub">
        <ref cel="arketip.0o">ar&hcirc;etipo</ref>,
        <ref cel="protot.0o">prototipo</ref>,
@@ -127,6 +128,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Musterst&uuml;ck, mit dem man gleichartige St&uuml;cke herstellt; insbesondere die Drucktypen.</dif>
     <refgrp tip="sub">
        <ref cel="elektr18.0o">elektrotipo</ref>,
        <ref cel="genotip.0o">genotipo</ref>,
@@ -646,6 +648,7 @@
         en s.c.e.</url></vrk>, <lok>2003-05-08</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Recht umfangreiche Schrift, deren Glyphen ein Programm verwendet, um Schriftzeichen darzustellen, die in der vom Benutzer gew&auml;hlten Schrift fehlen.</dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_z;&c_e;&c_r;&c_v;&c_o;&c_v;&c_y; <ind>&c_sh;&c_r;&c_y;&c_f;&c_t;</ind></trd>
   <trd lng="en">fallback font</trd>

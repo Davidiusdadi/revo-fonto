@@ -16,6 +16,7 @@
       <klr>(<ref cel="matric.n_p0o">matricon</ref>)</klr>
       Apliki la operacion <ref cel="transp.0o"><tld/>o</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eine Matrix) Die Operation der Transposition anwenden.</dif>
     <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trd lng="bg">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_o;&c_n;&c_i;&c_r;&c_a;&c_m;</trd>
     <trd lng="ca">transposar<klr tip="ind"> (una matriu)</klr></trd>
@@ -42,6 +43,7 @@
         </fnt>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An eine andere Tonart anpassen, indem man die Tonh&ouml;hen aller Noten um dasselbe Intervall ver&auml;ndert.</dif>
   <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_s;&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="ca">
     <trd>transportar<klr tip="ind"> (m&uacute;s.)</klr></trd>,
@@ -62,6 +64,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In andere Umst&auml;nde &uuml;bertragen und daran anpassen.</dif>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_n;&c_o;&c_s;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bertragen</trd>
   </snc>

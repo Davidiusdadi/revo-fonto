@@ -20,6 +20,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ganze oder halbganze Zahl, die das Transformationsverhalten eines Wellenfeldes angibt.</dif>
      <trd lng="en">spin</trd>
      <trd lng="es">esp&iacute;n</trd>
     <trd lng="hu">spin</trd>
@@ -71,6 +72,7 @@ en la universo?</url></vrk>
     <dif>
       Momanto de movokvanto interna de elementa korpusklo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Innerer Drehimpuls eines Elementarteilchens.</dif>
     <trd lng="de" fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Eigendrehimpuls</trd>
   </snc>
   <snc>
@@ -79,6 +81,7 @@ en la universo?</url></vrk>
       Magneta momanto de elementa korpusklo, proporcia al la <tld/>a
       momanto de movokvanto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Magnetisches Moment eines Elementarteilchens, proportional zu seinem Spindrehimpuls.</dif>
   </snc>
   <ref tip="vid" cel="momant.0o">momanto</ref>
   <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;</trd>

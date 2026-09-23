@@ -13,6 +13,7 @@
   <dif>
     Prepozicio montranta:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;position, die angibt.</dif>
   <snc mrk="tra.0.gxisfine">
     <dif>
       ke iu movo komenci&gcirc;as &ccirc;e unu ekstremo kaj atingas la alian:
@@ -47,6 +48,7 @@
       </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">dass eine Bewegung an einem Ende beginnt und das andere erreicht.</dif>
     <ref tip="vid" cel="laux.0.space">la&ubreve;<sncref/></ref>
     <trd lng="hu">&aacute;t</trd>
     <trdgrp lng="nl">
@@ -105,6 +107,7 @@
       kontra&ubreve;regula<fnt><bib>LR</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">dass eine Bewegung, die vor etwas begonnen hat, in dieses eindringt und sich weiter fortsetzt.</dif>
     <rim>
       Kiam la kunteksto ne montras sufi&ccirc;e klare, ke la movo da&ubreve;ras pli
       malproksimen ol la koncernata objekto, oni povas uzi la
@@ -175,6 +178,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">die Zeit, w&auml;hrend der eine Handlung von ihrem Beginn an andauert.</dif>
     <ref tip="sin" cel="dum.0.prep">dum</ref>
     <trd lng="de" fnt="AI: es nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">w&auml;hrend</trd>
     <trd lng="es">durante</trd>
@@ -624,6 +628,7 @@
   <dif>
     Prefikso signifanta:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;fix mit der Bedeutung.</dif>
   <snc mrk="tra.0_.pref_lok">
     <dif>
       De komenca &gcirc;is fina loko:
@@ -689,6 +694,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vom Anfangs- bis zum Endort.</dif>
   </snc>
   <snc mrk="tra.0_.pref_temp">
     <dif>
@@ -745,6 +751,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vom Anfangs- bis zum Endzeitpunkt.</dif>
     <trdgrp lng="hu">
       <trd>&aacute;t-</trd>,
       <trd>kereszt&uuml;l-</trd>
@@ -825,6 +832,7 @@
         <klr>(forman&gcirc;os)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vom anf&auml;nglichen bis zum endg&uuml;ltigen Grad der Ausf&uuml;hrung; vollst&auml;ndig, ganz und gar.</dif>
     <refgrp tip="sin">
       <ref cel="el.0_.prefikso_tuta">el<sncref/></ref>
     </refgrp>

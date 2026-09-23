@@ -51,6 +51,7 @@
         </fnt>.
       </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Universale Beziehung, nach der sich die aufeinanderfolgenden Ereignisse ordnen und nach der die Entwicklung verl&auml;uft.</dif>
    <subsnc mrk="temp.0o.KAL">
      <tezrad fak="KAL"/>
      <uzo tip="fak">KAL</uzo>
@@ -105,6 +106,7 @@
         </fnt>.
        </ekz>
      </dif>
+     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein bestimmter, mehr oder weniger langer Teil im Verlauf der Ereignisse.</dif>
      <refgrp tip="sub">
        <ref cel="dauxr.0o">da&ubreve;ro</ref>,
        <ref cel="epok.0o">epoko</ref>,
@@ -173,6 +175,7 @@
         </fnt>.
        </ekz>
      </dif>
+     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bestimmte, passende, freie Zeit f&uuml;r etwas.</dif>
      <trd lng="pl">pora</trd>
      <trdgrp lng="ru">
        <trd>&c_v;&c_r;&c_je;&c_m;&c_ja;</trd>,
@@ -214,6 +217,7 @@
         </fnt>.
       </ekz>
      </dif>
+     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Physikalische Grundgr&ouml;&szlig;e, gemessen mit Uhren anhand periodischer Ereignisse (traditionell: die Erdumdrehung, heute: die Strahlungsperiode des C&auml;siumisotops 133Cs).</dif>
      <refgrp tip="sub">
        <ref cel="sekund.0o.tempo">sekundo</ref>
      </refgrp>
@@ -271,6 +275,7 @@
         </fnt>.
       </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beugungsform des Verbs, die anzeigt, dass die besprochene Handlung gegenw&auml;rtig (Pr&auml;sens, Endung -as), vergangen (Pr&auml;teritum, Endung -is) oder zuk&uuml;nftig (Futur, Endung -os) ist.</dif>
    <rim>
     En Esperanto la konkordo de <tld/>oj ne ekzistas, ilia uzo dependas nur de la postuloj de la
     penso. &Ccirc;iu propozicio konservas en subordigo la saman <tld/>on kiel &gcirc;i havus, se &gcirc;i estus &ccirc;efa:
@@ -559,6 +564,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil einer l&auml;ngeren Zeit, zum Beispiel ein Moment.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Augenblick</trd>,
       <trd fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Moment</trd>,
@@ -677,6 +683,7 @@
         </fnt>.
       </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vor der passenden Zeit geschehend; zu fr&uuml;h.</dif>
    <refgrp tip="vid">
       <ref cel="avanga.0a.FIG">avangarda<sncref/></ref>,
     </refgrp>
@@ -721,6 +728,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer Zeit geschehen, die vor der jetzigen liegt.</dif>
   <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fr&uuml;her</trd>
   <trd lng="id"><baz>belum</baz>sebelum waktunya</trd>
   </snc>
@@ -1176,6 +1184,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zur passenden, bestimmten Zeit geschehen oder handeln.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_v;&c_o;&c_je;&c_ch;&c_a;&c_s;&c_o;&c_v;&c_y;&c_m;</ind></trd>,
@@ -1438,6 +1447,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Freie, arbeitsfreie Zeit verbringen.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol; <ind>&c_ch;&c_a;&c_s;</ind></trd>,
@@ -1771,6 +1781,7 @@
         </fnt>.
       </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die jetzige Epoche, die gegenw&auml;rtige Zeit, das Gegenw&auml;rtigsein, das Jetzt.</dif>
    <trdgrp lng="en">
      <trd>current <ind>time</ind>s</trd>,
      <trd>modern <ind>time</ind>s</trd>,
@@ -2147,6 +2158,7 @@
         </fnt>.
       </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bezogen auf eine Arbeitsweise eines Rechnersystems, bei der seine Wechselwirkung mit &auml;u&szlig;eren Prozessen schnell genug erfolgt, um diese Prozesse zielgerichtet zu beeinflussen.</dif>
  </snc>
   <trd lng="be">&c_r;&c_e;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_g;&c_a;
 &c_ch;&c_a;&c_s;&c_u;</trd>
@@ -2510,6 +2522,7 @@
        <fnt><bib>Fab4</bib> <lok>ne&gcirc;ulo</lok></fnt>.
       </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeitraum im Sommer.</dif>
    <trd lng="de">Sommer</trd>
    <trd lng="es">verano</trd>
    <trd lng="hu">ny&aacute;rid&odblac;</trd>
@@ -2545,6 +2558,7 @@
        Ji&rcaron;i Patera el &Ccirc;e&hcirc;io</url></vrk></fnt>.
      </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeit, w&auml;hrend der die Uhren im Vergleich zur normalen Zeitrechnung um eine Stunde oder mehr vorgestellt sind, um das Tageslicht am Ende der Arbeitstage l&auml;nger zu nutzen; die w&auml;hrend dieses Zeitraums verwendete Stundenz&auml;hlung.</dif>
    <trd lng="en">daylight saving <ind>time</ind></trd>
    <trd lng="es">horario de verano</trd>
    <trd lng="fr">heure d'&eacute;t&eacute;</trd>
@@ -2700,6 +2714,7 @@
         </fnt>.
       </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeitraum im Winter.</dif>
    <trd lng="de">Winter</trd>
    <trd lng="es">invierno</trd>
    <trd lng="hu">t&eacute;lid&odblac;</trd>
@@ -2724,6 +2739,7 @@
        Eventoj, 239</url></lok></fnt>.
      </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die normale Stundenz&auml;hlung und der Zeitraum, w&auml;hrend dessen sie gilt.</dif>
    <trd lng="en">standard <ind>time</ind></trd>
    <trd lng="es">horario de invierno</trd>
    <trd lng="fr">heure d'hiver</trd>

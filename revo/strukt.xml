@@ -32,6 +32,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art und Weise, in der die verschiedenen Teile eines Ganzen zusammengef&uuml;gt sind.</dif>
     <refgrp tip="sin">
       <ref cel="konstr.0o">konstruo</ref>,
       <ref cel="arangx.0o.KOMUNE">aran&gcirc;o<sncref/></ref>
@@ -63,6 +64,7 @@
         super la polinomringo?
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit der Relationen, Operationen, Topologien usw., mit denen man eine Menge versieht, um ihr interessante mathematische Eigenschaften zu geben; man nennt auch die so ausgestattete Menge samt der Gesamtheit ihrer Eigenschaften Struktur.</dif>
     <refgrp tip="sub">
       <ref cel="strukt.algebra0o">algebra <tld/>o</ref>,
       <ref cel="strukt.topologia0o">topologia <tld/>o</ref>.
@@ -206,6 +208,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im 20. Jahrhundert popul&auml;re philosophische und humanwissenschaftliche Schule, die ihre Gegenst&auml;nde als Strukturen aus miteinander in Beziehung stehenden Elementen analysiert.</dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_u;&c_k;&c_t;&c_u;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="de" fnt="AI: fr pl id uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Strukturalismus</trd>

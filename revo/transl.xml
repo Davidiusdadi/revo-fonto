@@ -16,6 +16,7 @@
       Tia movo, ke &ccirc;iu <ref cel="par.punkto0o">punktoparo</ref>
       de &gcirc;i restas <ref cel="ekvipo.0a.strekoj">ekvipolenta</ref> al si mem.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem starren K&ouml;rper) Bewegung derart, dass jedes seiner Punktepaare zu sich selbst &auml;quipollent bleibt.</dif>
     <trd lng="de">Translation</trd>
     <trd lng="nl">verplaatsing<klr tip="ind"> (fys.)</klr></trd>
     <trd lng="hu">transzl&aacute;ci&oacute;<klr tip="ind"> (fizika)</klr></trd>
@@ -39,6 +40,7 @@
         per <tld/>o la longoj, areoj kaj anguloj restas egalaj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem affinen Raum, entlang eines Vektors &tau;) Affine Abbildung, die einen Punkt M auf &tau;+M abbildet; anders gesagt: Operation des Vektors &tau; auf dem betreffenden affinen Raum.</dif>
     <trdgrp lng="de">
       <trd>Translation</trd>,
       <trd>Parallelverschiebung</trd>
@@ -60,6 +62,7 @@
     <dif>
       Transigo de rajto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bertragung eines Rechts.</dif>
     <trd lng="de" fnt="AI: hu nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bertragung</trd>
     <trd lng="hu">&aacute;truh&aacute;z&aacute;s<klr tip="ind"> (jog&eacute;)</klr></trd>
     <trd lng="nl">overdracht<klr tip="ind"> (recht)</klr></trd>
@@ -78,6 +81,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Umlauf eines Planeten; die scheinbare Bewegung eines anderen Planeten vor dem Sternhintergrund.</dif>
     <trd lng="de">siderische Umlaufzeit</trd>
   </snc>
   <snc mrk="transl.0o.transsendo">
@@ -103,6 +107,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bertragung, Sendung.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_t;&c_r;&c_a;&c_n;&c_s;&c_mol;&c_l;&c_ja;&c_c;&c_y;&c_ja;</trd>,
@@ -141,6 +146,7 @@
     <dif>
       Fari <tld/>on.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Translation ausf&uuml;hren.</dif>
   </snc>
   <snc mrk="transl.0i.ARK">
     <uzo tip="stl">ARK</uzo>
@@ -161,6 +167,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bertragen, weitersenden.</dif>
     <trd lng="de" fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bertragen</trd>
   </snc>
 <trdgrp lng="be">

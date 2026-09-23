@@ -556,6 +556,7 @@
         <trd lng="ru">&c_ch;&c_je;&c_t;&c_y;&c_r;&c_jo;&c_h;&c_ch;&c_l;&c_je;&c_n;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Polynom mit n Gliedern; Ausdruck, der aus n zu addierenden Gliedern besteht.</dif>
     <rim num="1">
       &Ccirc;i tiu termino aspektas oportuna, radik&scirc;para, kaj tre
       simila
@@ -602,6 +603,7 @@
         trigonometria plur<tld/>o.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Algebraischer Ausdruck, der aus mehreren durch Plus- oder Minuszeichen verbundenen Gliedern besteht.</dif>
   <trd lng="de" fnt="AI: en cs es it pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Polynom</trd>
   <trd lng="en">polynomial</trd>
   </snc>

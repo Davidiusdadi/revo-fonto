@@ -31,6 +31,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das, was alle Erscheinungen und Gegenst&auml;nde enth&auml;lt, gew&ouml;hnlich in bis zu drei Dimensionen gegliedert.</dif>
     <subsnc mrk="spac.0o.homskala">
       <dif>
         Difinita mezurebla parto de tiu &ccirc;i:
@@ -127,6 +128,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bestimmter, messbarer Teil davon.</dif>
       <refgrp tip="vid">
         <ref cel="are.0o">areo</ref>,
         <ref cel="teren.0o">tereno</ref>
@@ -200,6 +202,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zwischenraum; Teil des Raumes, der zwei Orte oder Punkte voneinander trennt.</dif>
       <trd lng="de">Abstand</trd>
       <trdgrp lng="hu">
         <trd>t&aacute;vols&aacute;g</trd>,
@@ -264,6 +267,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine der beiden notwendigen allgemeinen Bedingungen des Seins (siehe Zeit), die die Koexistenz durch das dreidimensionale gegenseitige Au&szlig;ereinander der Teile ordnet und als unendlich gro&szlig; und unendlich teilbar aufgefasst wird.</dif>
     <trd lng="de">Raum</trd>
     <trd lng="hu">t&eacute;r</trd>
   </snc>
@@ -305,6 +309,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die verf&uuml;gbare Kapazit&auml;t oder ein Teil davon.</dif>
     <trd lng="de">Platz</trd>
   </snc>
   <snc mrk="spac.0o.MAT">
@@ -316,6 +321,7 @@
       matematika strukturo, kiu donas al &gcirc;i ian similecon kun la
       fizika <tld/>o.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Andere Bezeichnung f&uuml;r eine Menge, die mit einer mathematischen Struktur versehen ist, die ihr eine gewisse &Auml;hnlichkeit mit dem physikalischen Raum verleiht.</dif>
     <ref tip="prt" cel="punkt.0o.spaco">punkto;</ref>
     <refgrp tip="sub">
       <ref cel="spac.afina0o">afina <tld/>o</ref>,
@@ -725,6 +731,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Umschaltbare Ansicht eines Computerbildschirms, die eine ausgew&auml;hlte Teilgruppe der aktiven Programme anzeigt (und andere verbirgt).</dif>
     <refgrp tip="vid">
       <ref cel="tabl.labor0o.uniksa">labortablo<sncref/></ref>
     </refgrp>

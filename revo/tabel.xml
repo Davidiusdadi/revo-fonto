@@ -41,6 +41,7 @@
         &c_t;&c_a;&c_b;&c_l;&c_i;&c_c;</ind></trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In alter Zeit: kleine Tafel zum Daraufschreiben.</dif>
     <trd lng="be">&c_t;&c_a;&c_b;&c_l;&c_ib;&c_ch;&c_k;&c_a;</trd>
     <trdgrp lng="ca">
       <trd>taula</trd>,
@@ -102,6 +103,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Methodische Anordnung von Namen, Zahlen oder Zeichen, hierarchisch oder nach Spalten und Zeilen, die die &Uuml;bersicht und das Wiederfinden jedes Elements erleichtert.</dif>
     <refgrp tip="vid">
       <ref cel="regist.0o.dokumento">registro <sncref/></ref>
     </refgrp>
@@ -139,6 +141,7 @@
         <ref tip="sub" cel="matric.0o.KOMP">matricon</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zusammengesetzter Datenwert, dessen (gew&ouml;hnlich gleichartige) Komponenten &uuml;ber einen oder mehrere Indizes (meist ganze Zahlen) erreichbar sind.</dif>
     <ref tip="vid" cel="list.0o.KOMP">listo</ref>
     <ref tip="super" cel="tip.datum0o">datumtipo</ref>
     <trd lng="be">&c_m;&c_a;&c_s;&c_ib;&c_w;</trd>
@@ -243,6 +246,7 @@
         <em>ial, kial, tial, nenial, &ccirc;ial</em>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im Esperanto jedes der 45 regelm&auml;&szlig;ig gebildeten W&ouml;rter, die man in einer diese Regelm&auml;&szlig;igkeit zeigenden Tabelle anordnen kann und die Reihen von Pronomen und Adverbien ausdr&uuml;cken.</dif>
     <ref tip="super" cel="pronom.0o.gxenerala">pronomoj<sncref/></ref>
     <bld lok="../bld/tabelvortoj.png">
        <tld/>vortoj

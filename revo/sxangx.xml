@@ -365,6 +365,7 @@
         <trd lng="pl">klawisz zmiany trybu</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas &auml;ndernd; eine &Auml;nderung betreffend.</dif>
   <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_n;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="id">adaptif</trd>
   </snc>
@@ -379,6 +380,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich &auml;ndernd.</dif>
 <!-- ne traduku EVI:
   <trd lng="de"><klr>sich </klr>&auml;ndernd</trd>
   <trd lng="es">cambiante</trd>
@@ -763,6 +765,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von einem Zustand in einen anderen &uuml;bergehen; variieren.</dif>
     <trdgrp lng="th">
       <trd>&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;</trd>,
       <trd>&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;&#xE44;&#xE1B;</trd>
@@ -879,6 +882,7 @@
         <trd lng="nl">klimaatverandering</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bergang von einem Zustand in einen anderen oder von einer Eigenschaft zu einer anderen.</dif>
   </snc>
   <trdgrp lng="de">
     <trd fnt="AI: en nl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ver&auml;nderung</trd>,
@@ -976,6 +980,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas geben, um etwas anderes zu erhalten.</dif>
     <trdgrp lng="th">
       <trd>&#xE41;&#xE25;&#xE01;&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;</trd>,
       <trd>&#xE41;&#xE25;&#xE01;</trd>
@@ -1095,6 +1100,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von niemandem und durch nichts zu &auml;ndern; festgelegt.</dif>
     <trdgrp lng="th">
       <trd>&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;&#xE41;&#xE1B;&#xE25;&#xE07;&#xE44;&#xE21;&#xE48;&#xE44;&#xE14;&#xE49;</trd>,
       <trd>&#xE44;&#xE21;&#xE48;&#xE2A;&#xE32;&#xE21;&#xE32;&#xE23;&#xE16;&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;&#xE41;&#xE1B;&#xE25;&#xE07;&#xE44;&#xE14;&#xE49;</trd>
@@ -1202,6 +1208,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich nicht &auml;ndernd, fest, unbeweglich.</dif>
     <trdgrp lng="th">
       <trd>&#xE44;&#xE21;&#xE48;&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;&#xE41;&#xE1B;&#xE25;&#xE07;</trd>,
       <trd>&#xE44;&#xE21;&#xE48;&#xE21;&#xE35;&#xE01;&#xE32;&#xE23;&#xE40;&#xE1B;&#xE25;&#xE35;&#xE48;&#xE22;&#xE19;&#xE41;&#xE1B;&#xE25;&#xE07;</trd>
@@ -1287,6 +1294,7 @@
         <frm am="-2">-2</frm> kaj alian &ccirc;e <frm am="+2">+2</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einer Abbildung) Wechsel des Vorzeichens ihrer Werte in Abh&auml;ngigkeit vom Wert des Arguments.</dif>
     <trdgrp lng="en">
       <trd>change in sign</trd>,
       <trd>sign inversal</trd>
@@ -1305,6 +1313,7 @@
         <fnt><bib>KompLeks</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einstellige Operation, die eine ganze, reelle oder komplexe Zahl auf ihre Gegenzahl abbildet.</dif>
     <trd lng="en">sign inversion</trd>
     <trd lng="ru">&c_i;&c_z;&c_m;&c_je;&c_n;&c_je;&c_n;&c_i;&c_je; &c_z;&c_n;&c_a;&c_k;&c_a;</trd>
   </snc>

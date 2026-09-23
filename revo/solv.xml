@@ -65,6 +65,7 @@
         <fnt><bib>LGA</bib> <lok>III.</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Unbekannte eines Problems, die Antwort auf eine Frage oder einen Ausweg aus einer Schwierigkeit finden.</dif>
     <refgrp tip="vid">
       <ref cel="akord.0igi">akordigi</ref>,
       <ref cel="decid.0i">decidi</ref>,
@@ -127,6 +128,7 @@
           <trd lng="id"><baz>larut</baz>dilarutkan</trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Feststoff, ein Gas oder eine andere Fl&uuml;ssigkeit so mit einer Fl&uuml;ssigkeit mischen, dass eine stabile und homogene Fl&uuml;ssigkeit entsteht.</dif>
       <trd lng="hu">felold</trd>
     </subsnc>
     <subsnc mrk="solv.0i.KEM.likvo">
@@ -138,6 +140,7 @@
           akvo <tld/>as salon.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Fl&uuml;ssigkeit) So beschaffen sein, dass sich andere Stoffe darin l&ouml;sen lassen.</dif>
       <rim>
         Ni ne trovis a&ubreve;toritatajn ekzemplojn por &ccirc;i tiu senco, sed &gcirc;i
         aspektas pravigita pro &gcirc;ia internacieco kaj, nerekte, pro la
@@ -293,6 +296,7 @@
         <fnt><bib>LSB</bib> <lok>Al Mizantropoj</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Richtige Antwort auf ein Problem oder eine Frage; Mittel, um aus einer Schwierigkeit herauszukommen.</dif>
     <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trdgrp lng="fr">
       <trd>solution<klr tip="ind"> (d'un probl&egrave;me)</klr></trd>,
@@ -315,6 +319,7 @@
         <fnt><bib>Lanti</bib><lok>Je la lumo de la sperto</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des L&ouml;sens.</dif>
     <ref tip="sin" cel="solv.0ado"><tld/>ado</ref>
     <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trdgrp lng="fr">
@@ -460,6 +465,7 @@
           <vrk>Aplikata Geofiziko</vrk><lok>leciono 18a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des L&ouml;sens.</dif>
     <trd lng="be">&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="cs">&rcaron;e&scaron;en&iacute;</trd>
     <trd lng="de" fnt="AI: en cs sk ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">L&ouml;sung</trd>
@@ -481,6 +487,7 @@
           <lok>&#8470;011779</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Aufl&ouml;sens.</dif>
     <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="de" fnt="AI: ru id pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Aufl&ouml;sung</trd>
     <trd lng="id"><baz>larut</baz>pelarutan</trd>
@@ -757,6 +764,7 @@
         <fnt><bib>Mortul&Scirc;ip</bib> <lok>&Ccirc;apitro 43</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich durch Aufl&ouml;sen in einer Fl&uuml;ssigkeit abl&ouml;sen.</dif>
     <trd lng="hu">lev&aacute;lik <klr tip="amb">(old&oacute;d&aacute;ssal)</klr></trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>
@@ -794,6 +802,7 @@
         <ref tip="vid" cel="dilu.0i">dilui</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Aufl&ouml;sen trennen, verschwinden lassen, entfernen.</dif>
     <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">aufl&ouml;sen</trd>
     <trd lng="id"><baz>larut</baz>melarutkan</trd>

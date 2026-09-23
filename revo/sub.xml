@@ -17,6 +17,7 @@
   <dif>
     Prepozicio montranta:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;position, die Folgendes anzeigt.</dif>
   <snc mrk="sub.0.loke">
     <subsnc mrk="sub.0.malsur">
       <dif>
@@ -58,6 +59,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Lage eines Gegenstands in Bezug auf einen anderen, der h&ouml;her oder innerhalb einer Oberfl&auml;che liegt und ihn ber&uuml;hrt.</dif>
       <ref tip="ant" cel="sur.0.supre">sur</ref>
     </subsnc>
     <subsnc mrk="sub.0.malsuper">
@@ -114,6 +116,7 @@
         </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Lage eines Gegenstands in Bezug auf einen anderen, der h&ouml;her liegt, ihn aber nicht ber&uuml;hrt.</dif>
       <ref tip="ant" cel="super.0">super</ref>
     </subsnc>
     <rim>
@@ -153,6 +156,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen &auml;u&szlig;eren Anschein.</dif>
     <trd lng="th">&#xE20;&#xE32;&#xE22;&#xE43;&#xE15;&#xE49;</trd>
   </snc>
   <snc mrk="sub.0.dependo">
@@ -220,6 +224,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abh&auml;ngigkeit.</dif>
     <trd lng="th">&#xE20;&#xE32;&#xE22;&#xE43;&#xE15;&#xE49;</trd>
   </snc>
   <trd lng="af">onder</trd>
@@ -539,6 +544,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus einem Ort heraus, der sich unter etwas befindet.</dif>
   </snc>
   <trd lng="be">&c_z;-&c_p;&c_a;&c_d;</trd>
   <trd lng="cs">zespod</trd>
@@ -714,6 +720,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einer unteren Stelle.</dif>
     <refgrp tip="sin">
       <ref cel="supr.mal0e">malsupre</ref>
     </refgrp>
@@ -1254,6 +1261,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Politik, die versucht, die Gesellschaft von unten her zu beeinflussen, das hei&szlig;t &uuml;ber die Masse der gew&ouml;hnlichen Menschen, im Gegensatz zur Einflussnahme von oben.</dif>
     <refgrp tip="vid">
       <ref cel="grup.prem0o.POL">premgrupo</ref>
     </refgrp>
@@ -1283,6 +1291,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den man nicht unterwerfen kann, der nicht nachgibt und immer Widerstand leistet.</dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_k;&c_o;&c_r;&c_n;&c_y;</trd>
   <trdgrp lng="de">
@@ -1350,6 +1359,7 @@
   <dif>
     Prefikso kun la signifo:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;fix mit der Bedeutung.</dif>
   <snc mrk="sub.0_.space">
     <dif>
       En <tld/>a loko rilate al alia objekto:
@@ -1446,6 +1456,7 @@
         <tld/>akvigi.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einer unteren Stelle in Bezug auf einen anderen Gegenstand.</dif>
     <trd lng="es">sub-</trd>
     <trd lng="hu">al&aacute;-</trd>
     <trd lng="pl">pod-</trd>
@@ -1464,6 +1475,7 @@
         <ref cel="met.sub0i">submeti</ref> ribelantojn.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer unteren Stellung gegen&uuml;ber anderen in einer Hierarchie.</dif>
     <refgrp tip="vid">
       <ref cel="leuxte.sub0o">suble&ubreve;tenanto</ref>,
       <ref cel="noci.sub0o">subnocio</ref>,
@@ -1483,6 +1495,7 @@
         <ref tip="vid" cel="nutr.sub0ado.DIET"><tld/>nutrado</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In unzureichender Menge, unter dem erwarteten Niveau.</dif>
   </snc>
   <snc mrk="sub.0_.vualo">
     <dif>
@@ -1551,6 +1564,7 @@
         <trd lng="ru">&c_v;&c_p;&c_o;&c_l;&c_g;&c_o;&c_l;&c_o;&c_s;&c_a;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch eine verborgene, heimliche oder heuchlerische Handlung.</dif>
   </snc>
   <snc mrk="sub.0_.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -1558,6 +1572,7 @@
       Inkluzivita en alia samstruktura objekto, a&ubreve;
       iel malpli vasta.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einem anderen Objekt gleicher Struktur enthalten oder in irgendeiner Weise weniger umfassend.</dif>
     <refgrp tip="vid">
       <ref cel="ar.sub0o">subaro</ref>,
       <ref cel="arb.sub0o">subarbo</ref>,

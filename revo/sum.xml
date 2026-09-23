@@ -42,6 +42,7 @@
           <tld/>o de vektoroj, matricoj, polinomoj.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ergebnis einer Addition.</dif>
       <trdgrp lng="de">
         <trd>Summe<klr tip="ind"> (von Zahlen)</klr></trd>,
         <trd>Ergebnis</trd>
@@ -64,6 +65,7 @@
           <frm am="(1-q)^-1">(1-<k>q</k>)<sup>-1</sup></frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer konvergenten Reihe) Grenzwert der Folge ihrer Teilsummen.</dif>
       <rim>
         <tld lit="S"/>o de serio estas konceptebla kiel sumo de senfina
         nombro da termoj. Oni &gcirc;in ofte signas per
@@ -98,6 +100,7 @@
           estas <ref cel="eben.vektora0o">vektora ebeno</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Untervektorr&auml;umen) Der Untervektorraum, der von ihrer Vereinigung erzeugt wird.</dif>
       <refgrp tip="vid">
         <ref cel="rekt.0a.sumo">rekta</ref>.
       </refgrp>

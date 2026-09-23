@@ -340,6 +340,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Geschrieben, in schriftlicher Form.</dif>
     <trd lng="cs">spisovn&yacute;</trd>
     <trd lng="de">schriftlich</trd>
     <trd lng="en">written<klr> (adj.)</klr></trd>
@@ -369,6 +370,7 @@
         <trd lng="de">Schreibplatte</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Schreiben betreffend; zum Schreiben bestimmt.</dif>
     <trd lng="en">writing<klr> (adj.)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -1471,6 +1473,7 @@
         <trd lng="id"><baz>daftar</baz>pendaftaran kuliah</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schriftlich in etwas eintragen.</dif>
     <refgrp tip="vid">
       <ref cel="gravur.0i">gravuri</ref>,
       <ref cel="regist.0i">registri</ref>,
@@ -1519,6 +1522,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Als Schuld oder Guthaben verbuchen.</dif>
     <trd lng="de" fnt="AI: dif pl it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verbuchen</trd>
     <trd lng="it">iscrivere</trd>
     <trd lng="pl">zapisywa&cacute;</trd>
@@ -1535,6 +1539,7 @@
         en<tld/>i plurlateron en cirklo(n), sferon en piramido(n).
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die gr&ouml;&szlig;te geometrische Figur einer Art finden, die sich innerhalb einer Figur einer zweiten Art zeichnen l&auml;sst.</dif>
     <refgrp tip="vid">
       <ref cel="skrib.cxirkaux0i">&ccirc;irka&ubreve;<tld/>i</ref>.
     </refgrp>
@@ -1595,6 +1600,7 @@
         </fnt>?
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seinen Namen eintragen oder eintragen lassen, um sich zu registrieren oder beizutreten.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_u;&c_p;&c_ib;&c_s;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
@@ -2182,6 +2188,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schriftliche Beif&uuml;gung des eigenen Namens, gew&ouml;hnlich unten auf einem Dokument oder Gegenstand, um Besitz, Echtheit oder Zustimmung zu kennzeichnen.</dif>
     <refgrp tip="vid">
       <ref cel="sigel.0o">sigelo</ref>
     </refgrp>
@@ -2201,6 +2208,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Vorgang des Unterschreibens selbst.</dif>
     <trd lng="de" fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unterzeichnung</trd>
     <trdgrp lng="id">
       <trd><baz>tanda tangan</baz>penandatanganan</trd>,
@@ -2227,6 +2235,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Titel oder Vermerk, der unter den betreffenden Gegenstand geschrieben ist.</dif>
   </snc>
   <trd lng="be">&c_p;&c_o;&c_d;&c_p;&c_ib;&c_s;</trd>
   <trd lng="bo">&t_sa;&t_tsheg;&t_ya;&t_gigu;&t_ga;&t_tsheg;</trd>
