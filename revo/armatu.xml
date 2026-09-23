@@ -57,6 +57,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Metallst&auml;be, -teile oder -dr&auml;hte, die Mauerwerk, Zimmerwerk, Gussteile usw. verst&auml;rken.</dif>
     <ref tip="sin" cel="arm.0ajxo.TEK">arma&jcirc;o<sncref/></ref>
     <trdgrp lng="de">
       <trd>Armierung</trd>,
@@ -78,6 +79,7 @@
       &Ccirc;arpenta&jcirc;o, kiu subtenas konstrua&jcirc;on dum
       konstruado.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zimmerwerk, das ein Bauwerk w&auml;hrend des Baus st&uuml;tzt.</dif>
     <refgrp tip="vid">
        <ref cel="fram.0o.TEK">framo<sncref/></ref>,
        <ref cel="skafald.0o">skafaldo</ref>
@@ -106,6 +108,7 @@
       trovi&gcirc;as izolanta korpo, kaj kiuj kune formas la
       kondensatoron.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kondensators) Jede der beiden Platten oder Metallfolien, zwischen denen sich ein isolierender K&ouml;rper befindet und die zusammen den Kondensator bilden.</dif>
     <trdgrp lng="de">
       <trd>Elektrode <klr>(Kondensator)</klr></trd>,
       <trd>Kondensatorplatte</trd>
@@ -120,6 +123,7 @@
       <klr>(de magneto)</klr>
       Fera peco, kiu fermas la magnetan cirkviton.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Magneten) Eisenst&uuml;ck, das den magnetischen Kreis schlie&szlig;t.</dif>
     <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anker</trd>
     <trdgrp lng="es">
       <trd>est&aacute;tor</trd>,

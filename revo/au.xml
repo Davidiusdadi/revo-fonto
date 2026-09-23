@@ -14,6 +14,7 @@
      <ref tip="super" cel="konjun.disiga0o">Disiga konjunkcio
      </ref>:
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Disjunktive Konjunktion.</dif>
    <subsnc mrk="au.0.elekta">
      <dif>
        elekta, uzata por prezenti plurajn frazelementojn,
@@ -44,6 +45,7 @@
          </fnt>.
        </ekz>
      </dif>
+     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ausw&auml;hlend: verwendet, um mehrere Satzglieder anzuf&uuml;hren, die einander dem Sinn nach ausschlie&szlig;en, und um anzuzeigen, dass zwischen ihnen gew&auml;hlt werden muss.</dif>
    </subsnc>
    <subsnc mrk="au.0.listiga">
      <dif>
@@ -63,6 +65,7 @@
          <fnt><bib>F</bib>, <lok>&FE;40.</lok></fnt>.
        </ekz>
      </dif>
+     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aufz&auml;hlend: verwendet, um eine Reihe von Dingen anzuf&uuml;hren.</dif>
    </subsnc>
    <rim>
      Por neprigi a&ubreve; emfazi la disigajn sencojn oni povas
@@ -119,6 +122,7 @@
        <fnt><bib>EE</bib>, <lok>&ccirc;ap. 1a</lok></fnt>;
      </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verbindende Konjunktion, gleichbedeutend mit &leftquot;und auch&rightquot;.</dif>
  </snc>
  <snc mrk="au.0.kontrauxmeta">
    <dif>
@@ -134,6 +138,7 @@
        </lok></fnt>.
      </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Adversative Konjunktion, die anzeigt, dass die Nichtverwirklichung des ersten Teils die Verwirklichung des zweiten zur Folge hat; sinnverwandt mit &leftquot;sonst&rightquot;.</dif>
  </snc>
  <snc mrk="au.0.klariga">
    <dif>
@@ -146,6 +151,7 @@
        Usono <tld/> <klr>(alinome)</klr> Unuigitaj &Scirc;tatoj.
      </ekz>
    </dif>
+   <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Konjunktion, die eine Erkl&auml;rung oder ein Synonym einleitet; gleichbedeutend mit &leftquot;das hei&szlig;t&rightquot;, &leftquot;mit anderen Worten&rightquot;.</dif>
    <trd lng="pl">czyli</trd>
  </snc>
  <ref tip="hom" cel="aj.0">a&ubreve;! (aj!, interj.)</ref>

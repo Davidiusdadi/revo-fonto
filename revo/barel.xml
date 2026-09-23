@@ -53,6 +53,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Runder, bauchiger Beh&auml;lter aus gebogenen Holzbrettchen (Dauben), die von Eisen- oder Holzreifen zusammengehalten werden, mit zwei flachen B&ouml;den, zur Aufbewahrung von Wasser, Wein oder einer anderen Fl&uuml;ssigkeit.</dif>
     <trdgrp lng="be">
       <trd>&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>,
       <trd>&c_b;&c_o;&c_n;&c_d;&c_a;</trd>
@@ -126,6 +127,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;hnlich geformter oder zylindrischer gro&szlig;er Beh&auml;lter.</dif>
     <refgrp tip="vid">
       <ref cel="kuv.0o">kuvo</ref>,
       <ref cel="pelv.0o.vazo">pelvo<sncref/></ref>,
@@ -152,6 +154,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ma&szlig;einheit, die dem Inhalt eines Fasses entspricht, mit verschiedenen historischen Werten, unter anderem f&uuml;r Erd&ouml;l, wo sie 159 Liter betr&auml;gt.</dif>
     <refgrp tip="vid">
       <ref cel="busxel.0o">bu&scirc;elo</ref>,
       <ref cel="galjon.0o">galjono</ref>
@@ -253,6 +256,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleines Fass.</dif>
     <trdgrp lng="be">
       <trd>&c_b;&c_a;&c_ch;&c_o;&c_n;&c_a;&c_k;</trd>,
       <trd>&c_b;&c_o;&c_ch;&c_a;&c_ch;&c_k;&c_a;</trd>
@@ -281,11 +285,13 @@
     <dif>
       <tld lit="B"/>forma ujeto de ma&scirc;ino.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fassf&ouml;rmiger kleiner Beh&auml;lter einer Maschine.</dif>
     <subsnc mrk="barel.0eto.KAL">
       <uzo tip="fak">KAL</uzo>
       <dif>
         Ujo, en kiu trovi&gcirc;as la risorto de <ref tip="malprt" cel="horlog.0o.KAL">horlo&gcirc;o</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beh&auml;lter, in dem sich die Feder einer Uhr befindet.</dif>
       <trd lng="de" fnt="AI: it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Federhaus</trd>
       <trdgrp lng="it">
         <trd>bariletto<klr> (dell'orologio)</klr></trd>,
@@ -296,6 +302,7 @@
       <dif>
         Turni&gcirc;a peco de revolvero, entenanta la karto&ccirc;ojn.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Drehbarer Teil eines Revolvers, der die Patronen enth&auml;lt.</dif>
       <trd lng="it">tamburo<klr> (pistola)</klr></trd>
       <trd lng="pl">b&eogonek;benek</trd>
     </subsnc>
@@ -349,6 +356,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fassmacher.</dif>
     <trdgrp lng="zh">
     <trd>&#21046;&#26408;&#26742;&#24037;&#20154; <pr>zh&igrave;m&ugrave;t&#466;ngg&omacron;ngr&eacute;n</pr></trd>,
     <trd>&#21046;&#26742;&#24037; <pr>zh&igrave;t&#466;ngg&omacron;ng</pr></trd>

@@ -66,6 +66,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Maschine, die alle oder zumindest einige ihrer Funktionen selbst steuern kann.</dif>
     <ref tip="sub" cel="robot.0o">roboto</ref>
     <trd lng="en">automat</trd>
     <trd lng="id">otomat</trd>
@@ -136,6 +137,7 @@
         <trd lng="sk">Turingov stroj</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(In der theoretischen Informatik:) Abstrakter Mechanismus mit einer endlichen Anzahl von &leftquot;Zust&auml;nden&rightquot;, einem &leftquot;externen Speicher&rightquot; und einer Arbeitsweise, die von einer endlichen Menge von &leftquot;Regeln&rightquot; gesteuert wird.</dif>
     <trd lng="en">automaton</trd>
     <trdgrp lng="it">
      <trd>macchina<klr> (inf.)</klr></trd>,
@@ -246,6 +248,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch einen Mechanismus oder ein Programm ohne menschliche Steuerung funktionierend.</dif>
     <ref tip="vid" cel="mehxan.0a">me&hcirc;anika</ref>
     <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y;</trd>
     <trd lng="id">otomatis</trd>
@@ -286,6 +289,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichsam mechanisch getan, ohne Einfluss des bewussten Willens.</dif>
     <refgrp tip="vid">
       <ref cel="mehxan.0a.FIG">me&hcirc;anika<sncref/></ref>,
       <ref cel="refleks.0o">refleksa</ref>,
@@ -564,6 +568,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Automat, der einem identifizierten Kunden Bankdienstleistungen bereitstellt: Banknoten, Kontoausz&uuml;ge usw.</dif>
     <trdgrp lng="zh">
     <trd>&#x53D6;&#x6B3E;&#x673A; <pr>q&#x1D4;ku&#x1CE;nj&imacron;</pr></trd>,
     <trd>&#x53D6;&#x6B3E;&#x6A5F; <pr>q&#x1D4;ku&#x1CE;nj&imacron;</pr></trd>,
