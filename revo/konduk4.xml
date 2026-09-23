@@ -52,6 +52,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigenschaft eines leitf&auml;higen Materials.</dif>
     <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
      <trd lng="de">Leitf&auml;higkeit</trd>
     <trd lng="en">conductivity</trd>
@@ -70,6 +71,7 @@
       <ref tip="super" cel="grand.fizika0o">Fizika grando</ref>
       inversa al la <ref cel="rezist2.0o">rezistivo</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Physikalische Gr&ouml;&szlig;e, die der Kehrwert des spezifischen Widerstands ist.</dif>
     <rim>
       La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>specifa kondukeco</ke>, <ke>specifa
       malrezisteco</ke>, <ke>specifa kondukteco</ke>.

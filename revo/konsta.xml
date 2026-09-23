@@ -451,6 +451,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas, das sich nicht ver&auml;ndert.</dif>
   </snc>
   <snc mrk="konsta.0o.FIZ">
     <uzo tip="fak">FIZ</uzo>
@@ -469,6 +470,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Physikalische Gr&ouml;&szlig;e, die sich mit der Zeit nicht &auml;ndert.</dif>
   </snc>
   <snc mrk="konsta.0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -501,6 +503,7 @@
         &c_p;&c_o;&c_s;&c_t;&c_o;&c_ja;&c_n;&c_n;&c_y;&c_h;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas Konstantes.</dif>
     <ref tip="ant" cel="variab.0o">variablo.</ref>
 
     <trd lng="en">constant</trd>

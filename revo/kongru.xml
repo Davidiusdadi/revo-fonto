@@ -248,6 +248,7 @@
         <tld/>aj komputiloj, programoj, interfacoj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bereinstimmend.</dif>
     <refgrp tip="vid">
       <ref cel="adekva.0a.KOMUNE">adekvata</ref>,
       <ref cel="akord.0a.konveneco">akorda</ref>,
@@ -327,6 +328,7 @@
           <trd lng="ru">&c_s;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_je;<klr tip="ind"> (&c_ch;&c_i;&c_s;&c_e;&c_l;)</klr></trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von zwei reellen Zahlen x und y, bez&uuml;glich des reellen Moduls &my;) So beschaffen, dass ihre Differenz ein ganzzahliges Vielfaches von &my; ist; Symbol x &#x2261; y [&my;].</dif>
       <trdgrp lng="ca">
         <trd>c&ograve;ngrua<klr tip="ind"> (modulo N)</klr></trd>,
         <trd>congruent<klr tip="ind"> (modulo N)</klr></trd>
@@ -351,6 +353,7 @@
           <tld/>aj trianguloj.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von zwei geometrischen Figuren) Gleich.</dif>
       <trd lng="de" fnt="AI: en ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kongruent</trd>
       <trd lng="en">congruent <klr>(geometry)</klr></trd>
       <trd lng="pl"><klr tip="amb">(figura) </klr>przystaj&aogonek;ca</trd>
@@ -491,6 +494,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In &Uuml;bereinstimmung, Harmonie, Entsprechung mit, im Einklang mit, gem&auml;&szlig;.</dif>
   <trd lng="fr">en ad&eacute;quation avec</trd>
   <trd lng="pl">zgodnie z</trd>
   </snc>
@@ -596,6 +600,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht &uuml;bereinstimmend mit, unharmonisch, im Widerspruch zu.</dif>
   <trd lng="fr">en inad&eacute;quation avec</trd>
   <trd lng="pl">niezgodnie z</trd>
   </snc>

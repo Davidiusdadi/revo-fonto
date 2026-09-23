@@ -457,6 +457,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Sammelns.</dif>
     <trd lng="de">Sammeln</trd>
     <trdgrp lng="es">
       <trd>colecta</trd>,
@@ -524,6 +525,7 @@
       </ekz>
       kaj aparte:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge gesammelter Personen oder Gegenst&auml;nde, insbesondere.</dif>
     <subsnc mrk="kolekt.0o.art">
       <dif>
         Aro da objektoj, dokumentoj a&ubreve; natura&jcirc;oj, kiujn oni
@@ -619,6 +621,7 @@
           </fnt>;
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge von Gegenst&auml;nden, Dokumenten oder Naturalien, die wegen ihres k&uuml;nstlerischen, wissenschaftlichen oder historischen Wertes oder ihrer Seltenheit zusammen aufbewahrt werden.</dif>
       <refgrp tip="vid">
         <ref cel="muze.0o.kolekto">muzeo</ref>,
         <ref cel="kabine.0o.ekspozicio">kabineto</ref>
@@ -683,6 +686,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Buch oder Ver&ouml;ffentlichung, bestehend aus gesammelten gleichartigen Texten oder Dokumenten.</dif>
       <ref tip="sub" cel="tekst.0aro">tekstaro</ref>
       <ref tip="vid" cel="ar.0">-ar</ref>
       <trd lng="de">Sammelband</trd>
@@ -734,6 +738,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesammelte Nummern einer Zeitschrift.</dif>
       <trd lng="es">serie</trd>
       <trd lng="ru">&c_p;&c_o;&c_d;&c_sh;&c_i;&c_v;&c_k;&c_a;</trd>
     </subsnc>
@@ -819,6 +824,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der beruflich sammelt.</dif>
   </snc>
   <snc mrk="kolekt.0isto.HIS">
     <uzo tip="fak">HIS</uzo>
@@ -836,6 +842,7 @@
         <trd lng="de">J&auml;ger und Sammler</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nomadisch lebende Menschen, die sich von Jagen und Sammeln ern&auml;hren.</dif>
   <trd lng="id"><baz>buru</baz>pemburu dan pemungut</trd>
   </snc>
   <snc mrk="kolekt.0isto.EKON">
@@ -856,6 +863,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beamter, der Steuern und &Auml;hnliches einzieht.</dif>
     <trd lng="de">Eintreiber <klr>(von Steuern)</klr></trd>
   <trd lng="id"><baz>pungut</baz>pemungut pajak</trd>
   </snc>

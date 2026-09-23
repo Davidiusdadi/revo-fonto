@@ -457,6 +457,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erscheinung und Ausma&szlig; eines Lebewesens, wie sie sich aus seinem Wachsen ergeben.</dif>
     <ref tip="sin" cel="statur.0o">staturo</ref>
   <trd lng="en">growth</trd>
   </snc>
@@ -756,6 +757,7 @@
     <dif>
       &Ccirc;io ajn <tld/>anta.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Alles, was w&auml;chst.</dif>
     <trd lng="be">&c_n;&c_a;&c_r;&c_o;&c_s;&c_t;</trd>
     <trd lng="en"><ind>grow</ind>ing thing</trd>
     <trd lng="hu">kin&ouml;v&eacute;s</trd>
@@ -826,6 +828,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Was w&auml;chst.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: en fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wachsend</trd>,
       <trd fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zunehmend</trd>
@@ -864,6 +867,7 @@
         logaritmo estas <tld/>anta funkcio, sinuso ne estas.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einer Abbildung f zwischen zwei geordneten Mengen) So beschaffen, dass die Ordnung durch sie erhalten bleibt.</dif>
     <trd lng="de">wachsend<klr tip="ind"> (-e Abbildung)</klr></trd>
     <trd lng="en">increasing<klr tip="ind"> (mapping)</klr></trd>
     <trd lng="es"><klr tip="amb">(funci&oacute;n) </klr>creciente</trd>
@@ -923,6 +927,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vergr&ouml;&szlig;ern, das Wachstum von etwas beg&uuml;nstigen.</dif>
     <trdgrp lng="hu">
       <trd>n&ouml;vel</trd>,
       <trd>n&ouml;veszt</trd>
@@ -968,6 +973,7 @@
         <fnt><bib>Metrop</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden oder etwas versorgen, pflegen, h&uuml;ten, damit er oder es w&auml;chst; jemandes Wachstum lenken.</dif>
     <refgrp tip="vid">
       <ref cel="bred.0i">bredi</ref>,
       <ref cel="eduk.0i.socie">eduki</ref>
@@ -1026,6 +1032,7 @@
     </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Insbesondere Pflanzen anpflanzen und pflegen.</dif>
     <ref tip="sin" cel="kultiv.0i">kultivi</ref>
     <trd lng="hu">termeszt</trd>
     <trdgrp lng="ru">
@@ -1047,6 +1054,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas bis zu einer bestimmten Gr&ouml;&szlig;e oder L&auml;nge hervorbringen oder wachsen lassen.</dif>
     <trd lng="de" fnt="AI: hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wachsen lassen</trd>
     <trd lng="hu">n&ouml;veszt</trd>
     <trdgrp lng="ru">
@@ -1581,6 +1589,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Was abnimmt.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: en fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abnehmend</trd>,
       <trd fnt="AI: en hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sinkend</trd>
@@ -1625,6 +1634,7 @@
         sinuso estas nek <tld/>anta, nek mal<tld/>anta.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einer Abbildung f zwischen zwei geordneten Mengen) So beschaffen, dass die Ordnung durch sie umgekehrt wird.</dif>
     <trd lng="cs">klesaj&iacute;c&iacute;</trd>
     <trd lng="de">fallend<klr tip="ind"> (-e Abbildung)</klr></trd>
     <trd lng="en">decreasing<klr tip="ind"> (mapping)</klr></trd>

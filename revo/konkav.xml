@@ -41,6 +41,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine hohle Oberfl&auml;che oder Kontur aufweisend, wie das Innere eines Kreises oder einer Kugel; nach innen gew&ouml;lbt.</dif>
     <ref tip="ant" cel="konvek.0a">konveksa</ref>
     <trd lng="de" fnt="AI: en fr es nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">konkav</trd>
     <trd lng="en">concave</trd>
@@ -68,6 +69,7 @@
           <ref cel="edr.plur0o">pluredro</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer geometrischen Figur, einer Teilmenge eines affinen Raumes oder eines Vektorraumes) Nicht konvex.</dif>
       <refgrp tip="ant">
         <ref cel="konvek.0a.subaro">konveksa<sncref/></ref>
       </refgrp>
@@ -94,6 +96,7 @@
         Tia, ke &gcirc;ia <ref cel="egal.kontraux0o">kontra&ubreve;egalo</ref>
         estas <ref cel="konvek.0a.bildigo">konveksa<sncref/></ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Abbildung f der Menge der reellen Zahlen in sich selbst) So beschaffen, dass ihr Negatives &#x2212;f konvex ist.</dif>
       <refgrp tip="ant">
         <ref cel="konvek.0a.bildigo">konveksa</ref>
       </refgrp>

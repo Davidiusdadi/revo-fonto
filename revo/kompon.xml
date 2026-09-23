@@ -13,6 +13,7 @@
       <ref tip="super" cel="verk.0i">Verki</ref>, kun aparta
       atento al la harmonio de la tuto:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verfassen, unter besonderer Beachtung der Harmonie des Ganzen.</dif>
     <subsnc mrk="kompon.0i.muzikajxon">
       <uzo tip="fak">MUZ</uzo>
       <dif>
@@ -32,6 +33,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(ein Musikst&uuml;ck)</dif>
       <trdgrp lng="de">
         <trd>komponieren</trd>
       </trdgrp>
@@ -66,6 +68,7 @@
           tiu genio ne sciis <tld/>i.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(ein literarisches, bildk&uuml;nstlerisches oder anderes Kunstwerk)</dif>
       <refgrp tip="vid">
         <ref cel="kombin.0i.ideojn">kombini <sncref/></ref>,
         <ref cel="konstr.0i.arangxi">konstrui <sncref/></ref>
@@ -89,6 +92,7 @@
     <dif>
       Kunmeti la konsistigajn elementojn de io.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Bestandteile von etwas zusammensetzen.</dif>
     <subsnc mrk="kompon.0i.KEM">
       <uzo tip="fak">KEM</uzo>
       <fnt><bib>PV</bib></fnt>
@@ -396,6 +400,7 @@
         2000:1</url></lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der ein Musikst&uuml;ck komponiert.</dif>
     <trd lng="ca">compositor</trd>
     <trd lng="de" fnt="AI: fr pl ca io; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Komponist</trd>
     <trd lng="fr">compositeur</trd>
@@ -440,6 +445,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas, das einen wesentlichen Teil eines Stoffes, einer Ausr&uuml;stung usw. bildet.</dif>
       <ref tip="vid" cel="konsis.0ajxo">konsista&jcirc;o</ref>
       <trd lng="ca">component <klr>(masc.)</klr></trd>
       <trdgrp lng="en">
@@ -477,6 +483,7 @@
           <k>x</k><sub><k>i</k></sub>&#x2219;<g>e</g><sub><k>i</k></sub></frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Vektors x bez&uuml;glich einer Basis (ei)) Jeder der Koeffizienten der eindeutigen Linearkombination von Basisvektoren, die gleich x ist; alternativ: das Produkt dieses Koeffizienten mit dem zugeh&ouml;rigen Basisvektor.</dif>
       <ref tip="vid" cel="koordi.0o.MAT">koordinato</ref>
       <rim mrk="kompon.0anto.MAT.rim">
         Eblas diskuti, &ccirc;u la koncerna koeficiento ne estus pli bone
@@ -514,6 +521,7 @@
           sed de ilia sumo.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede der Kr&auml;fte einer Gesamtheit von Kr&auml;ften, im Vergleich zu ihrer Summe betrachtet.</dif>
       <trd lng="ca">component <klr>(masc.)</klr></trd>
       <trd lng="en">component</trd>
       <trd lng="fr">composante<klr tip="ind"> (d'une force)</klr></trd>

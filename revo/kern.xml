@@ -67,6 +67,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der harte innere Teil einer au&szlig;en weichen Frucht oder der weiche Teil einer au&szlig;en harten Frucht oder eines Fruchtteils.</dif>
     <refgrp tip="vid">
       <ref cel="nuks.0o">nukso</ref>,
       <ref cel="grajn.0o.globeto">grajno<sncref/></ref>
@@ -118,6 +119,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der harte innere Teil der Fruchtwand einer Steinfrucht, der den Samen enth&auml;lt, z. B. der Kern der Pflaume; Walnuss, Mandel.</dif>
     <trd lng="de" fnt="AI: en hu nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Steinkern</trd>
     <trdgrp lng="en">
       <trd>fruitstone</trd>,
@@ -263,6 +265,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zentraler, wesentlicher Teil von etwas.</dif>
     <refgrp tip="sin">
       <ref cel="baz.0o.principo">bazo</ref>,
       <ref cel="esenc.0o">esenco</ref>,
@@ -301,6 +304,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Teil eines Prozessors, der die Berechnungen ausf&uuml;hrt.</dif>
     <trd lng="de">Rechenkern</trd>
     <trd lng="en">core <klr>(CPU)</klr></trd>
   </snc>
@@ -343,6 +347,7 @@
           egalas al la <ref cel="nul0.0o.neuxtra">nulo</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Homomorphismus f) Urbild des neutralen Elements der Zielmenge; Symbol: kern f.</dif>
       <trd lng="de">Nullraum</trd>
       <trdgrp lng="en">
         <trd>kernel<klr tip="ind"> (of a homomorphism)</klr></trd>,

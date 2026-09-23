@@ -640,6 +640,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich gegen&uuml;ber jemandem oder etwas befindend oder gegen jemanden oder etwas gerichtet.</dif>
       <refgrp tip="vid">
         <ref cel="mal.0a">mala</ref>,
         <ref cel="favor.mal0a">malfavora</ref>,
@@ -707,6 +708,7 @@
             <ref cel="strecx.0ita.angulo">stre&ccirc;itan</ref> angulon.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von zwei Halbgeraden) So beschaffen, dass ihr Anfangspunkt ihr einziger gemeinsamer Punkt ist und sie auf einer gemeinsamen Geraden liegen; anders gesagt: ihre Vereinigung ist eine Gerade.</dif>
         <trd lng="de">zueinander <ind>entgegengesetzt</ind><klr tip="ind">
         (-er Strahl)</klr></trd>
         <trd lng="en">opposite<klr tip="ind"> (half-line)</klr></trd>
@@ -740,6 +742,7 @@
             la konsiderata latero)</klr>.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Seite und Ecke in einem Dreieck) So beschaffen, dass die Ecke nicht zu der Seite geh&ouml;rt.</dif>
         <trd lng="de">gegen&uuml;berliegend<klr tip="ind"> (-e Seite,
         Ecke)</klr></trd>
         <trd lng="en">opposite<klr tip="ind"> (side, vertex)</klr></trd>
@@ -770,6 +773,7 @@
             la <tld/>aj lateroj de paralelogramo estas paralelaj.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Seiten in einem Viereck) Ohne gemeinsame Ecke.</dif>
         <trd lng="de">gegen&uuml;berliegend<klr tip="ind"> (-e
         Seite)</klr></trd>
         <trd lng="en">opposite<klr tip="ind"> (side wrt
@@ -796,6 +800,7 @@
             streki tra vertico ortanton al la <tld/>a faco.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Fl&auml;che und Ecke in einem Tetraeder) So beschaffen, dass die Ecke nicht zu der Fl&auml;che geh&ouml;rt.</dif>
         <trd lng="de">gegen&uuml;berliegend<klr tip="ind"> (-e Seite,
         Ecke)</klr></trd>
         <trd lng="en">opposite<klr tip="ind"> (face, vertex)</klr></trd>

@@ -33,12 +33,14 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">L&auml;ngs verlaufender, mittelgro&szlig;er, im Allgemeinen hoch gelegener Vorsprung eines Geb&auml;udes</dif>
     <subsnc mrk="kornic.0o.ARKI_kolona">
       <dif>
         Elstara, supra, kvaza&ubreve;krona parto de surkolona&jcirc;o
         (entablemento)
         a&ubreve; de piedestalo de kolono a&ubreve; meblo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vorspringender, oberer, gleichsam kr&ouml;nender Teil des Geb&auml;lks (Entablement) oder des Sockels einer S&auml;ule oder eines M&ouml;belst&uuml;cks</dif>
       <trd lng="de" fnt="AI: pt nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Kranzgesims</trd>
       <trd lng="pt">cornija</trd>
     </subsnc>
@@ -46,6 +48,7 @@
       <dif>
         Ornama elstara&jcirc;o inter muro kaj plafono.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schm&uuml;ckender Vorsprung zwischen Wand und Decke</dif>
     </subsnc>
     <subsnc mrk="kornic.0o.ARKI_fenestra">
       <dif>
@@ -64,6 +67,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vorspringender Rand eines Fensters</dif>
     </subsnc>
     <refgrp tip="vid">
       <ref cel="korbel.0o.ARKI">korbelo</ref>,
@@ -84,6 +88,7 @@
         <fnt><bib>PV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schmaler Pfad an der Seite eines Berges, der einen Abgrund s&auml;umt</dif>
   <trd lng="en">cornice <klr>(geography, overhanging edge)</klr></trd>
   </snc>
   <trd lng="be">&c_g;&c_z;&c_y;&c_m;&c_s;</trd>

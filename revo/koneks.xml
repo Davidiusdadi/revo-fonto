@@ -32,6 +32,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abstrakt, begrifflich, gedanklich miteinander verbunden; in enger Beziehung zu einer &auml;hnlichen Sache stehend.</dif>
     <ref tip="sin" cel="dis.ne0igebla">nedisigebla</ref>
     <refgrp tip="vid">
       <ref cel="koalic.0a">koalicia</ref>,
@@ -59,6 +60,7 @@
         <ref cel="ferm.mal0ita.topologio">malfermitaj</ref>
         kaj <ref cel="ferm.0ita.topologio">fermitaj</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem topologischen Raum) So beschaffen, dass nur der ganze Raum und die leere Menge zugleich offen und abgeschlossen sind.</dif>
       <trd lng="de">zusammenh&auml;ngend<klr tip="ind"> (-er topologischer
       Raum)</klr></trd>
       <trd lng="en">connected<klr tip="ind"> (topological
@@ -79,6 +81,7 @@
         Tia, ke por ajnaj du verticoj de &gcirc;i &ccirc;iam ekzistas
         <ref cel="cxen.0o.grafeo">&ccirc;eno</ref>, kiu ilin ligas.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Graphen) So beschaffen, dass es f&uuml;r je zwei seiner Knoten stets einen Kantenzug gibt, der sie verbindet.</dif>
       <trd lng="de">zusammenh&auml;ngend<klr tip="ind"> (-er
       Graph)</klr></trd>
       <trd lng="en">connected<klr tip="ind"> (graph)</klr></trd>

@@ -20,6 +20,7 @@
         <frm am="n"><k>n</k></frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Logarithmus) Sein ganzzahliger Teil.</dif>
     <ref tip="vid" cel="mantis.0o.MAT">mantiso.</ref>
     <trd lng="pl">cecha<klr tip="ind"> (logarytmu)</klr></trd>
   </snc>
@@ -40,6 +41,7 @@
         restoklasoj</ref> havas <tld/>on <frm am="n"><k>n</k></frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Rings) Die kleinste von null verschiedene ganze Zahl n, falls sie existiert, f&uuml;r die n&middot;1 = 0 gilt.</dif>
     <trd lng="pl">charakterystyka<klr tip="ind">
     (pier&sacute;cienia)</klr></trd>
   </snc>

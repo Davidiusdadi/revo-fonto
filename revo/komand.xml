@@ -183,6 +183,7 @@
         </fnt>?
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Befehligen einer Gruppe von Soldaten.</dif>
     <trd lng="ca">comandament</trd>
     <trd lng="en">command</trd>
     <trd lng="fr">commandement<klr tip="ind">
@@ -214,6 +215,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kurzer milit&auml;rischer Befehl.</dif>
     <trdgrp lng="ca">
       <trd>ordre</trd>,
       <trd>instrucci&oacute;</trd>
@@ -244,6 +246,7 @@
       precipe per
       <ref tip="malprt" cel="interp2.0ilo">interpretilo</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Anweisung zur sofortigen Ausf&uuml;hrung, vor allem durch einen Interpreter.</dif>
     <subsnc mrk="komand.0o.masxina">
       <dif>
         <tld lit="K"/>o enkonstruita en
@@ -265,6 +268,7 @@
           &c_k;&c_o;&c_m;&c_a;&c_n;&c_d;</trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einen Rechner oder ein Peripherieger&auml;t eingebauter Befehl.</dif>
       <trd lng="de">Maschinenbefehl</trd>
       <trd lng="en">instruction</trd>
       <trd lng="fr">instruction<klr tip="ind"> (info.)</klr></trd>
@@ -287,6 +291,7 @@
           &c_s;&c_t;&c_r;&c_o;&c_k;&c_a;</trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Befehl, der von der Shell eines Betriebssystems interpretiert wird.</dif>
       <trd lng="de">Kommando <klr>(Befehlszeile)</klr></trd>
       <trd lng="en">command</trd>
       <trd lng="fr">commande<klr tip="ind">
@@ -297,6 +302,7 @@
         <tld lit="K"/>o interpretata per dialoga
         interpretilo, ekz-e elekto per menuo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Befehl, der von einem dialogorientierten Interpreter interpretiert wird, zum Beispiel eine Auswahl &uuml;ber ein Men&uuml;.</dif>
       <trd lng="de">Men&uuml;befehl</trd>
       <trd lng="en">command</trd>
       <trd lng="fr">commande<klr tip="ind">
