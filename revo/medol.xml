@@ -150,6 +150,10 @@
     </dif>
     <trd lng="be">&c_s;&c_t;&c_r;&c_y;&c_zh;&c_a;&c_n;&c_mol;</trd>
     <trd lng="ca">moll</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: dif be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kern</trd>,
+    <trd fnt="AI: dif id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Essenz</trd>
+  </trdgrp>
   <trd lng="id">intisari</trd>
   </snc>
   <trd lng="bg">&c_k;&c_o;&c_s;&c_t;&c_je;&c_n; <ind>&c_m;&c_o;&c_z;&c_malmol;&c_k;</ind></trd>

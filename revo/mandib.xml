@@ -41,6 +41,10 @@
       <trd>&c_zh;&c_a;&c_v;&c_a;&c_l;&c_a;</trd>,
       <trd>&c_m;&c_a;&c_n;&c_d;&c_y;&c_b;&c_u;&c_l;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr it be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mandibel</trd>,
+      <trd fnt="AI: uk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Oberkiefer</trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>malsupra makzelo</ke>.

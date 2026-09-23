@@ -22,6 +22,10 @@
       <trd>&c_k;&c_r;&c_a;&c_t;&c_a;</trd>,
       <trd>&c_k;&c_r;&c_a;&c_t;&c_y;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en hu be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gitter</trd>,
+      <trd fnt="AI: fr pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gitterwerk</trd>
+    </trdgrp>
     <trd lng="en">lattice</trd>
     <trdgrp lng="fr">
       <trd>claie</trd>,
