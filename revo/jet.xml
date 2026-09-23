@@ -20,6 +20,10 @@
     </rim>
     <trd lng="be">&c_r;&c_e;&c_a;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y; &c_r;&c_u;&c_h;</trd>
     <trd lng="ca">propulsi&oacute; a reacci&oacute;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ca ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Strahlantrieb</trd>,
+      <trd fnt="AI: ca ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">R&uuml;cksto&szlig;antrieb</trd>
+    </trdgrp>
     <trd lng="en">jet propulsion</trd>
     <trdgrp lng="id">
       <trd>jet</trd>,

@@ -172,6 +172,7 @@
         </ekz>
       </dif>
       <trd lng="cs">identick&eacute; zobrazen&iacute;</trd>
+      <trd lng="de" fnt="AI: ref cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">identische Abbildung</trd>
       <trd lng="en">identity<klr> (geometric similarity)</klr></trd>
       <trd lng="sk">identick&eacute; zobrazenie</trd>
     </subsnc>
@@ -510,6 +511,7 @@
       <trd>&c_a;&c_t;&c_o;&c_je;&c_s;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>,
       <trd>&c_a;&c_t;&c_a;&c_ja;&c_s;&c_a;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ru be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gleichsetzen</trd>
     <trd lng="id">identik</trd>
     <trd lng="nl">identificeren</trd>
     <trd lng="ru">&c_o;&c_t;&c_o;&c_zh;&c_d;&c_je;&c_s;&c_t;&c_v;&c_l;&c_ja;&c_t;&c_mol;</trd>

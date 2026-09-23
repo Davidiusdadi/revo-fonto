@@ -568,6 +568,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">W&uuml;rdigkeit</trd>,
+      <trd fnt="AI: dif es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verdienst</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>&eacute;rdemess&eacute;g</trd>,
       <trd>ki&eacute;rdemelts&eacute;g</trd>
@@ -633,6 +637,7 @@
         <fnt><bib>F</bib>, <lok>Ekzercaro, &para; 23</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: nl hu fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wert</trd>
     <trdgrp lng="hu">
       <trd>&eacute;rdem</trd>,
       <trd>&eacute;rt&eacute;k</trd>

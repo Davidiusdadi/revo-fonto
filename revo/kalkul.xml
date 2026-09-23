@@ -878,6 +878,10 @@
       <trd>po&ccaron;&iacute;tac&iacute; stroj</trd>,
       <trd>po&ccaron;&iacute;ta&ccaron;ka</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl hu cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rechenmaschine</trd>,
+      <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rechner</trd>
+    </trdgrp>
     <trd lng="en">calculator</trd>
     <trd lng="es">calculadora</trd>
     <trd lng="fr">calculateur</trd>
@@ -1279,6 +1283,7 @@
       <trd>ressenyar</trd>,
       <trd>detallar<klr> (per complet)</klr></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: pl be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">durchz&auml;hlen</trd>
     <trdgrp lng="es">
       <trd>enumerar</trd>,
       <trd>contar<klr> (por completo)</klr></trd>
@@ -1702,6 +1707,7 @@
       <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol;</trd>
     </trdgrp>
     <trd lng="ca">censar</trd>
+    <trd lng="de" fnt="AI: pl ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">z&auml;hlen</trd>
     <trd lng="es">censar</trd>
     <trd lng="fr">recenser<klr tip="ind"> (une population)</klr></trd>
     <trdgrp lng="id">

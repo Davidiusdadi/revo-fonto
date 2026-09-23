@@ -231,6 +231,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en it pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zeile</trd>,
+      <trd fnt="AI: en es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe</trd>
+    </trdgrp>
     <trd lng="en">row</trd>
     <trd lng="es">fila</trd>
     <trd lng="fr">rang&eacute;e horizontale<klr tip="ind"> (dans un

@@ -517,6 +517,10 @@
     <dif>
       Ago <tld/>igi <sncref ref="invers.0igi.KOMUNE"/>.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl hu fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Umkehrung</trd>,
+      <trd fnt="AI: fr pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Inversion</trd>
+    </trdgrp>
     <trd lng="fr">inversion</trd>
     <trdgrp lng="hu">
       <trd>megford&iacute;t&aacute;s</trd>,
@@ -640,6 +644,7 @@
       bildigoj.
       Ni ne opinias tiun limigon utila.
     </rim>
+    <trd lng="de" fnt="AI: en hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">invertierbar</trd>
     <trd lng="en">invertible</trd>
     <trd lng="hu">invert&aacute;lhat&oacute;</trd>
     <trd lng="pl">odwracalny</trd>
