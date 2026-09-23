@@ -39,6 +39,10 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: pl hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Terminal</trd>,
+        <trd fnt="AI: hu pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Flughafenterminal</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>utasforgalmi &eacute;p&uuml;let</trd>,
         <trd>termin&aacute;l</trd>
@@ -71,6 +75,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="de" fnt="AI: pl fr en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Terminal</trd>
       <trd lng="hu">fejkik&ouml;t&odblac;</trd>
       <trd lng="pl">terminal<klr> morski</klr></trd>
     </subsnc>

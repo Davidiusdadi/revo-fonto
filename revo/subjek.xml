@@ -29,6 +29,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_s;&c_u;&c_b;'&c_je;&c_k;&c_t;</trd>
+    <trd lng="de" fnt="AI: ru hu fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Subjekt</trd>
     <trdgrp lng="fr">
       <trd>sujet<klr> (philosophique)</klr></trd>
     </trdgrp>
@@ -159,6 +160,10 @@
       <aut>Sergio Pokrovskij</aut>
     </rim>
     <trd lng="be">&c_t;&c_e;&c_m;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr nl be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Thema</trd>,
+      <trd fnt="AI: fr nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenstand</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>objet<klr> (th&egrave;me)</klr></trd>,
       <trd>sujet<klr> (th&egrave;me)</klr></trd>,

@@ -104,6 +104,7 @@
           </fnt>.
          </ekz>
        </dif>
+       <trd lng="de" fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">grell</trd>
        <trdgrp lng="pl">
          <trd>krzykliwy</trd>,
          <trd>ostry</trd>
@@ -436,6 +437,7 @@
       <ref cel="sovagx.0a.BOT"><tld/>a<sncref/></ref>,
       <ref cel="sovagx.0a.ZOO"><tld/>a<sncref/></ref>
     </refgrp>
+    <trd lng="de" fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">domestiziert</trd>
     <trd lng="en">domesticated</trd>
     <trdgrp lng="fr">
       <trd>cultiv&eacute;<klr> (plante)</klr></trd>,
@@ -530,6 +532,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: ru fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">domestizieren</trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_k;&c_u;&c_l;&c_mol;&c_t;&c_u;&c_r;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_d;&c_o;&c_m;&c_a;&c_sh;&c_n;&c_i;&c_t;&c_mol;</trd>

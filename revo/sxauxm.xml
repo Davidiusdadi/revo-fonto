@@ -288,6 +288,10 @@ sed aldonas kiel sencon FIG "efemera&jcirc;o, malsolida&jcirc;o"...
       <ref cel="energi.0a">energia</ref>,
       <ref cel="suk.0a.FIG">suka<sncref/></ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sprudeln</trd>,
+      <trd fnt="AI: dif ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bersch&auml;umen</trd>
+    </trdgrp>
     <trd lng="ja">&#27832;&#12365;&#31435;&#12388; <pr>&#12431;&#12365;&#12384;&#12388;</pr></trd>
     <trd lng="nl">bruisen</trd>
   </snc>

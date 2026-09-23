@@ -383,6 +383,7 @@
     <uzo tip="klr">(io)</uzo>
     <uzo tip="stl">FIG</uzo>
     <ref tip="dif" cel="tir.post0i.sekvigi">post<tld/>i<sncref/></ref>
+    <trd lng="de" fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nach sich ziehen</trd>
     <trd lng="hu">maga ut&aacute;n <ind>von</ind></trd>
     <trd lng="pl">poci&aogonek;ga&cacute;</trd>
     <trdgrp lng="ru">
@@ -920,6 +921,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_r;&c_y;&c_c;&c_ja;&c_g;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: pl be hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heranziehen</trd>
     <trd lng="hu">mag&aacute;hoz <ind>h&uacute;z</ind></trd>
     <trd lng="pl">przyci&aogonek;ga&cacute;</trd>
   </snc>
@@ -1274,6 +1276,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ableiten</trd>,
+    <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herleiten</trd>
+  </trdgrp>
   <trd lng="en">extract</trd>
   </snc>
   <trdgrp lng="be">
@@ -1548,6 +1554,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: es pl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zusammenziehung</trd>
     <trdgrp lng="es">
       <trd>contracci&oacute;n</trd>,
       <trd>retracci&oacute;n</trd>
@@ -1717,6 +1724,7 @@
       &c_s;&c_a;&c_b;&c_o;&c_j;)</klr></trd>,
       <trd>&c_v;&c_a;&c_l;&c_a;&c_ch;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: hu ru fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinterherziehen</trd>
     <trd lng="es">arrastrar</trd>
     <trd lng="fr">trainer</trd>
     <trdgrp lng="hu">
@@ -2056,6 +2064,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: hu ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich hingezogen f&uuml;hlen</trd>
     <trd lng="hu">vonz&oacute;dik</trd>
     <trd lng="pl">ci&aogonek;gn&aogonek;&cacute; si&eogonek;</trd>
     <trd lng="ru">&c_t;&c_ja;&c_n;&c_u;&c_t;&c_mol;&c_s;&c_ja;</trd>

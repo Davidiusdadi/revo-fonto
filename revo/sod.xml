@@ -93,6 +93,10 @@
       <trd>hidr&ograve;xid de sodi</trd>,
       <trd>sosa c&agrave;ustica</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;tznatron</trd>,
+      <trd fnt="AI: ref ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Natriumhydroxid</trd>
+    </trdgrp>
     <trd lng="fr">soude</trd>
     <trd lng="nl">bijtende <ind>soda</ind><klr tip="ind">
     (ontr.)</klr></trd>

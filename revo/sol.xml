@@ -426,6 +426,10 @@
       <trd>&uacute;nic <klr>(adj)</klr></trd>,
       <trd>nom&eacute;s</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausschlie&szlig;lich</trd>,
+      <trd fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">lediglich</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd fnt="Vikt: en; juĝis claude-opus-5">solely</trd>,
       <trd fnt="Vikt: pl; juĝis claude-opus-5">exclusively</trd>

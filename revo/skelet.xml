@@ -326,6 +326,10 @@
       <trd>succint</trd>,
       <trd>sumari</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: be ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schematisch</trd>,
+      <trd fnt="AI: hu ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">skizzenhaft</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>v&aacute;zszer&udblac;</trd>,
       <trd>v&aacute;zlatos</trd>

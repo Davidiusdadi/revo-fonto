@@ -247,6 +247,10 @@
     <refgrp tip="vid">
       <ref cel="kup.0o.ZOO">kupo<sncref/></ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Saugr&uuml;ssel</trd>,
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Saugorgan</trd>
+    </trdgrp>
     <trd lng="en">suction cup</trd>
   </snc>
   <snc mrk="sucx.0ilo.HEJM">

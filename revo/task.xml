@@ -139,6 +139,7 @@
   <snc mrk="task.0o.KOMP">
     <uzo tip="fak">KOMP</uzo>
     <ref tip="dif" cel="procez.0o.KOMP">procezo</ref>
+    <trd lng="de" fnt="AI: ref nl sv; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Prozess</trd>
     <trd lng="pl">zadanie</trd>
     <trd lng="ru">&c_z;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>
   </snc>
