@@ -32,7 +32,7 @@ kept as written. A definition that is only a reference ("= Subŝtato", or empty)
 Writing it first also settles how you read the sense for step 2.
 
 House style, so that separately written definitions agree: ReVo's "(maj.)" and "(min.)" become
-"(capital)" and "(lower case)" in English, "(Großbuchstabe)" and "(Kleinbuchstabe)" in German.
+"(capital)" and "(lower case)" in English, "(groß)" and "(klein)" in German.
 English is spelt the British way (standardise, colour, centre). End a definition with a full stop,
 also where the Esperanto one ends in ":" because examples follow.
 
