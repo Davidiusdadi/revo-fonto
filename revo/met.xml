@@ -248,6 +248,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: dif ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versetzen</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_p;&c_r;&c_je;&c_d;&c_a;&c_t;&c_mol;<klr>
@@ -1450,6 +1451,10 @@
       &c_s;&c_ja;&c_b;&c_je;
       <klr>(&c_n;&c_a;&c_p;&c_r;.
       &c_p;&c_a;&c_w;&c_n;&c_a;&c_m;&c_o;&c_c;&c_t;&c_v;&c_y;)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">niederlegen</trd>,
+      <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ablegen</trd>
     </trdgrp>
     <trd lng="nl">neerleggen</trd>
     <trdgrp lng="ru">

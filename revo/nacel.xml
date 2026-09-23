@@ -57,6 +57,7 @@
         </ekz>
       </dif>
       <trd lng="ca">cabina<klr tip="amb"> (d&#8217;una roda de fira)</klr></trd>
+      <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gondel</trd>
     </subsnc>
     <subsnc mrk="nacel.0o.SPO">
       <uzo tip="fak">SPO</uzo>
@@ -72,6 +73,7 @@
         </ekz>
       </dif> 
       <trd lng="ca">barqueta<klr tip="amb"> (d&#8217;un globus)</klr></trd>
+      <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gondel</trd>
     </subsnc>
     <subsnc mrk="nacel.0o.MAS">
       <uzo tip="fak">MAS</uzo>
@@ -101,6 +103,10 @@
       </dif>
       <ref tip="vid" cel="masxin.0ejo">ma&scirc;inejo</ref>
       <trd lng="ca">naveta<klr tip="amb"> (d'un aerogenerador)</klr></trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: dif ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Maschinenhaus</trd>,
+        <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gondel</trd>
+      </trdgrp>
     </subsnc>
     <refgrp tip="vid">
       <ref cel="gondol.0o.kajuto">gondolo<sncref/></ref>

@@ -107,6 +107,10 @@
        <ref cel="mir.0o">miro</ref>,
        <ref cel="sekret.0o">sekreto</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geheimnis</trd>,
+      <trd fnt="AI: pl hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">R&auml;tsel</trd>
+    </trdgrp>
     <trd lng="en">mystery</trd>
     <trd lng="hu">rejt&eacute;ly</trd>
     <trdgrp lng="pl">

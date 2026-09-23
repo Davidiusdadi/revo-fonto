@@ -349,6 +349,10 @@
       <trd>&c_m;&c_ib;&c_n;&c_u;&c_s;</trd>,
       <trd>&c_n;&c_je;&c_d;&c_a;&c_h;&c_o;&c_p;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru be hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Minus</trd>,
+      <trd fnt="AI: fr hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Defizit</trd>
+    </trdgrp>
     <trd lng="en">minus <klr>(a negative thing)</klr></trd>
     <trd lng="es">carencia</trd>
     <trdgrp lng="fr">

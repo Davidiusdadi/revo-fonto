@@ -435,6 +435,7 @@
         <klr>(de polinoma <ref cel="radik.0o.polinomo">radiko</ref>)</klr>
         <ref tip="dif" cel="obl.0eco">Obleco</ref>.
       </dif>
+    <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vielfachheit</trd>
     <trd lng="en">order <klr>(of a polynomial)</klr></trd>
     </subsnc>
     <subsnc mrk="ord.0o.infinitezimo">
@@ -868,6 +869,7 @@
       <trd>&c_b;&c_y;&c_c;&c_mol;
       <ind>&c_u;&c_p;&c_a;&c_r;&c_a;&c_d;&c_k;&c_a;&c_v;&c_a;&c_n;&c_y;&c_m;</ind></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ru pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Ordnung sein</trd>
     <trdgrp lng="pl">
       <trd>by&cacute; <ind>pouk&lstroke;adanym</ind></trd>,
       <trd>by&cacute; <ind>uporz&aogonek;dkowanym</ind></trd>,
@@ -1105,6 +1107,7 @@
           kunfandi <tld/>igitajn listojn.
         </ekz>
       </dif>
+      <trd lng="de" fnt="AI: pl ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sortieren</trd>
       <trdgrp lng="pl">
         <trd>sortowa&cacute;</trd>,
         <trd>uporz&aogonek;dkowa&cacute;</trd>
@@ -1353,6 +1356,10 @@
       <trd>&c_d;&c_o;&c_b;&c_r;&c_a;&c_p;&c_r;&c_y;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;</trd>,
       <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anst&auml;ndig</trd>,
+      <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ordentlich</trd>
+    </trdgrp>
     <trd lng="en">well-<ind>order</ind>ed</trd>
     <trd
     lng="ru">&c_d;&c_o;&c_b;&c_r;&c_o;&c_p;&c_o;&c_r;&c_ja;&c_d;&c_o;&c_ch;&c_n;&c_y;&c_j;</trd>
@@ -1480,6 +1487,10 @@
     <trd lng="be">&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol;
     <klr>(&c_s;&c_y;&c_n;&c_t;&c_a;&c_k;&c_s;&c_y;&c_ch;&c_n;&c_a;,
     &c_g;&c_r;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beiordnen</trd>,
+      <trd fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nebenordnen</trd>
+    </trdgrp>
     <trd lng="ru">&c_s;&c_o;&c_ch;&c_i;&c_n;&c_ja;&c_t;&c_mol;<klr>
         (&c_s;&c_i;&c_n;&c_t;&c_a;&c_k;&c_s;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;)</klr></trd>
   </snc>

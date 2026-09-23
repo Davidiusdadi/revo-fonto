@@ -134,6 +134,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bersiedeln</trd>,
+      <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">migrieren</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>pindah (rumah)</trd>,
       <trd><baz>pindah</baz>berpindah</trd>
@@ -204,6 +208,7 @@
     <refgrp tip="vid">
       <ref cel="vag.0i">vagi</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: pl id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umherziehen</trd>
     <trd lng="id"><baz>kembara</baz>mengembara</trd>
     <trd lng="pl">wa&lstroke;&eogonek;sa&cacute; si&eogonek;</trd>
     <trd lng="ru">&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>

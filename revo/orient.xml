@@ -954,6 +954,7 @@
       <ref cel="kompas.0o">kompaso</ref>,
       <ref cel="seksta.0o">sekstanto</ref>
     </refgrp>
+  <trd lng="de" fnt="AI: en cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Orientierungshilfe</trd>
   <trdgrp lng="en">
     <trd>landmark</trd>,
     <trd><ind>orientation</ind> instrument</trd>
@@ -1029,6 +1030,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich verirren</trd>,
+    <trd fnt="AI: en id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">die Orientierung verlieren</trd>
+  </trdgrp>
   <trd lng="en">become dis<ind>orient</ind>ed <klr>(lose the way)</klr></trd>
   <trdgrp lng="id">
     <trd><baz>sasar</baz>menyasar</trd>,
@@ -1057,6 +1062,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">die Orientierung verlieren</trd>
   <trd lng="en">become dis<ind>orient</ind>ed <klr>(confused)</klr></trd>
   <trdgrp lng="id">
     <trd><baz>hilang</baz>kehilangan kontrol</trd>,
