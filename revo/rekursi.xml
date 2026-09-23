@@ -21,6 +21,7 @@
             <trd lng="ru">&c_b;&c_je;&c_s;&c_k;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_a;&c_ja; &c_r;&c_je;&c_k;&c_u;&c_r;&c_s;&c_i;&c_ja;</trd>
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art, eine Funktion oder ein Rechenverfahren so zu definieren, dass das Definierte gegebenenfalls auf sich selbst verweisen kann.</dif>
       </snc>
       <ref tip="sub" cel="rikur.0o.MAT">rikuro<sncref/></ref>
       <rim>
@@ -66,6 +67,7 @@
             <trd lng="ru">&c_r;&c_je;&c_k;&c_u;&c_r;&c_s;&c_i;&c_v;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_o;&c_c;&c_je;&c_d;&c_u;&c_r;&c_a;</trd>
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rekursion verwendend, durch Rekursion gekennzeichnet.</dif>
         <ref tip="sub" cel="rikur.0o.MAT">rikura<sncref/></ref>
       </snc>
       <trd lng="be">&c_r;&c_e;&c_k;&c_u;&c_r;&c_s;&c_ib;&c_w;&c_n;&c_y;</trd>
@@ -117,6 +119,7 @@
             &lambda;-kalkulo, per la Markovaj &ccirc;enoj estas &ccirc;iuj egalaj.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine der mathematischen Pr&auml;zisierungen des intuitiven Begriffs der Berechenbarkeit. Man f&uuml;hrt alle Berechnungsprobleme auf Funktionen &uuml;ber den nat&uuml;rlichen Zahlen N&#x207F;&#x2192;N zur&uuml;ck und bildet eine Hierarchie aus 3 Unterklassen: primitiv-rekursive Funktionen, total rekursive Funktionen, &my;-rekursive Funktionen. Die letzte Klasse ist die allgemeinste, sie enth&auml;lt die beiden anderen und stellt alle berechenbaren Funktionen dar. Sagt man einfach rekursive Funktion, so ist genau diese Klasse gemeint.</dif>
       </snc>
       <trd lng="be">&c_r;&c_e;&c_k;&c_u;&c_r;&c_s;&c_ib;&c_w;&c_n;&c_a;&c_ja; &c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ja;</trd>
       <trd lng="de" fnt="AI: en pl ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">rekursive Funktion</trd>
@@ -160,6 +163,7 @@
             funkcioj.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Definition ist rekursiv: Man definiert die Grundklasse und zwei Operatoren. Die Grundfunktionen sind: die konstante Funktion O(x)=0; die Nachfolgerfunktion S(x)=x+1; die Projektionen Pr[m,n](x1,&#x2026;xn)=xm, 1&#x2264;m&#x2264;n. Die Operatoren sind die Komposition und die primitive Rekursion. Eine primitiv-rekursive Funktion ist eine primitiv-rekursive Grundfunktion oder das Ergebnis endlich vieler Anwendungen des Operators bzw. der Operatoren.</dif>
       </snc>
       <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_ib;&c_t;&c_y;&c_w;&c_n;&c_a;-&c_r;&c_e;&c_k;&c_u;&c_r;&c_s;&c_ib;&c_w;&c_n;&c_a;&c_ja; &c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ja;</trd>
       <trd lng="de" fnt="AI: en ru pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">primitiv-rekursive Funktion</trd>
@@ -207,6 +211,7 @@
             <tld/>a funkcio, nome <ctl>adicio</ctl>.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Operator, der in der Definition der primitiv-rekursiven Funktionen verwendet wird, &auml;hnlich einer Z&auml;hlschleife; die formale Definition ist rekursiv. Es sei f eine n-stellige und g eine (n+2)-stellige Funktion; dann ist die Anwendung der primitiven Rekursion auf das Funktionenpaar (f,g) diejenige (n+1)-stellige Funktion h mit dem Rekursionsanfang h(x1,&#x2026;,xn,0)=f(x1,&#x2026;,xn) und dem Rekursionsschritt h(x1,&#x2026;,xn,y+1) = g(x1,&#x2026;,xn,y,h(x1,&#x2026;,xn,y)).</dif>
       </snc>
       <trd lng="be">&c_a;&c_p;&c_e;&c_r;&c_a;&c_t;&c_a;&c_r; &c_p;&c_r;&c_y;&c_m;&c_ib;&c_t;&c_y;&c_w;&c_n;&c_a;&c_j; &c_r;&c_e;&c_k;&c_u;&c_r;&c_s;&c_ib;&c_ib;</trd>
       <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">primitive Rekursion</trd>
@@ -236,6 +241,7 @@
             partaj <tld/>aj funkcioj.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Funktion, die mit denselben Mitteln wie die primitiv-rekursiven Funktionen definiert ist, zuz&uuml;glich des &my;-Operators der unbeschr&auml;nkten Suche.</dif>
       </snc>
       <trd lng="be">&c_ch;&c_a;&c_s;&c_t;&c_k;&c_o;&c_v;&c_a; &c_r;&c_e;&c_k;&c_u;&c_r;&c_s;&c_ib;&c_w;&c_n;&c_a;&c_ja; &c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ja;</trd>
       <trdgrp lng="de">
@@ -269,6 +275,7 @@
             <tld/>aj</ref>.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&my;-rekursive Funktion, die eine totale Funktion ist.</dif>
       </snc>
       <trd lng="be">&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;&c_r;&c_e;&c_k;&c_u;&c_r;&c_s;&c_ib;&c_w;&c_n;&c_a;&c_ja; &c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ja;</trd>
       <trd lng="de" fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">allgemein rekursive Funktion</trd>

@@ -157,6 +157,7 @@
         &c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_ja;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Rotieren; Bewegung von etwas, das rotiert.</dif>
     <trdgrp lng="be">
       <trd>&c_k;&c_r;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
       <trd>&c_v;&c_ja;&c_r;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -195,6 +196,7 @@
         <trd lng="hu">vet&eacute;sforg&oacute;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Regelm&auml;&szlig;iger Wechsel, Abfolge.</dif>
     <trd lng="be">&c_r;&c_a;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
     <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wechsel</trd>
     <trd lng="hu">rot&aacute;ci&oacute;</trd>
@@ -222,6 +224,7 @@
         estas cirklo a&ubreve; parto de cirklo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem starren K&ouml;rper) Bewegung, bei der mindestens zwei Punkte des K&ouml;rpers unbewegt bleiben.</dif>
     <trd lng="be">&c_v;&c_ja;&c_r;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="hu">k&ouml;rforg&aacute;s</trd>
     <trd lng="ru">&c_v;&c_r;&c_a;&c_shch;&c_je;&c_n;&c_i;&c_je;</trd>
@@ -239,6 +242,7 @@
         <ref cel="determ.0anto.endomorfio">determinanto</ref>
         egala al <frm>1</frm>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem endlichdimensionalen euklidischen Vektorraum) Isometrischer Automorphismus mit der Determinante 1.</dif>
       <ref tip="sin" cel="rotaci.vektora0o">vektora <tld/>o.</ref>
     </subsnc>
     <subsnc mrk="rotaci.0o.afina">
@@ -274,6 +278,7 @@
           la <ref cel="aks.0o.rotacio">akso</ref> de la <tld/>o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem endlichdimensionalen euklidischen affinen Raum) Einer Rotation zugeordnete affine Abbildung.</dif>
       <ref tip="sin" cel="rotaci.afina0o">afina <tld/>o.</ref>
     </subsnc>
     <trd lng="be">&c_v;&c_ja;&c_r;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -354,6 +359,7 @@
         <tld/>a akso de rado.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rotierend; auf die Rotation bezogen.</dif>
     <trdgrp lng="fr">
       <trd>giratoire<klr tip="ind"> (adj.)</klr></trd>,
       <trd>rotatif</trd>,
@@ -371,6 +377,7 @@
         <tld/>a ma&scirc;ino.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dessen Drehbewegung unmittelbar erzeugt wird.</dif>
     <adm>
       Indus precizigi la difinon kaj trovi malpli ta&ubreve;tologian
       ekzemplon. Eble ~a motoro ta&ubreve;gus? <aut>MB</aut>

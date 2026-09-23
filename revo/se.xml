@@ -264,6 +264,7 @@
         <fnt><bib>ElektFab</bib>, <lok>Kamarado Gaja</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auch in dem unwahrscheinlichen, &auml;u&szlig;ersten Fall, dass &#x2026;</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_v;&c_a;&c_t; &c_k;&c_a;&c_l;&c_ib;</trd>,
@@ -456,6 +457,7 @@
       <em>bran&ccirc;o, alternativo</em>) estkiel agon, per kiu da&ubreve;ri&gcirc;u la
       programplenumo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verzweigungsanweisung, die es erm&ouml;glicht, zur Laufzeit abh&auml;ngig vom aktuellen Wert einer Bedingung eine von zwei Anweisungen (Zweig oder Alternative genannt) als die Aktion auszuw&auml;hlen, mit der die Programmausf&uuml;hrung fortgesetzt wird.</dif>
     <trd lng="be">&c_u;&c_m;&c_o;&c_w;&c_n;&c_y; <ind>&c_a;&c_p;&c_e;&c_r;&c_a;&c_t;&c_a;&c_r;</ind></trd>
     <trdgrp lng="de">
       <trd fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bedingte Anweisung</trd>,

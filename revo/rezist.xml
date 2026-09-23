@@ -58,6 +58,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht nachgeben, sich entgegenstellen.</dif>
     <refgrp tip="vid">
       <ref cel="ten.el0i">elteni</ref>,
       <ref cel="persis.0i">persisti</ref>
@@ -99,11 +100,13 @@
       </ekz>
       kaj pli speciale:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Material) Die Eigenschaft haben, der Wirkung bestimmter &auml;u&szlig;erer Einfl&uuml;sse entgegenzuwirken, und insbesondere.</dif>
     <subsnc mrk="rezist.0i.FIZ">
       <uzo tip="fak">FIZ</uzo>
       <dif>
         ne &scirc;an&gcirc;i sian formon sub iuj fortoj;
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unter bestimmten Kr&auml;ften seine Form nicht &auml;ndern.</dif>
     </subsnc>
     <subsnc mrk="rezist.0i.ELE">
       <uzo tip="fak">ELE</uzo>
@@ -111,6 +114,7 @@
         prezenti nenulan <ref cel="rezist1.0o">rezistancon</ref>
         al kurento.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dem Strom einen von null verschiedenen Widerstand entgegensetzen.</dif>
     </subsnc>
     <trd lng="pl">stawia&cacute; <ind>op&oacute;r</ind></trd>
   </snc>
@@ -214,6 +218,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Widerstehens.</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_w;</trd>,
       <trd>&c_a;&c_d;&c_p;&c_o;&c_r;</trd>,
@@ -232,6 +237,7 @@
       Kapablo <tld/>i<sncref ref="rezist.0i.FIZ_ELE"/>,
       grando &gcirc;in karakterizanta.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Material) F&auml;higkeit zu widerstehen; die Gr&ouml;&szlig;e, die sie kennzeichnet.</dif>
     <subsnc mrk="rezist.0o.FIZ">
       <uzo tip="fak">FIZ</uzo>
       <fnt><bib>PIV2</bib></fnt>
@@ -240,6 +246,7 @@
         Konstanto, karakterizanta &gcirc;ian kapablon
         <tld/>i<sncref ref="rezist.0i.FIZ"/>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Material) Konstante, die seine F&auml;higkeit zu widerstehen kennzeichnet.</dif>
       <trd lng="de">Festigkeit</trd>
       <trd lng="en">structural <ind>robustness</ind></trd>
       <trd lng="id"><baz>kaku</baz>kekakuan (material)</trd>

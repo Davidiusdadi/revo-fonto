@@ -1246,6 +1246,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine gegenseitige Beziehung herstellen zwischen ....</dif>
   <trdgrp lng="de">
     <trd fnt="AI: en fr ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Beziehung setzen</trd>,
     <trd fnt="AI: pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verkn&uuml;pfen</trd>
@@ -1309,6 +1310,7 @@
       </ekz>
 -->
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenseitig in Beziehung treten mit ....</dif>
   <trdgrp lng="de">
     <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Verbindung treten</trd>,
     <trd fnt="AI: fr ca en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Beziehung treten</trd>
@@ -1368,6 +1370,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich nicht auf eine Sache beziehend, nicht mit ihr zusammenh&auml;ngend, nicht von ihr abh&auml;ngig und sie nicht von sich abh&auml;ngig machend.</dif>
   <trd lng="de" fnt="AI: en pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beziehungslos</trd>
   <trd lng="en">un<ind>relate</ind>d</trd>
   </snc>
@@ -1410,6 +1413,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ohne Beziehung zu ..., unabh&auml;ngig von ....</dif>
   <trdgrp lng="de">
     <trd fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unabh&auml;ngig von</trd>,
     <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ohne Bezug auf</trd>
@@ -1502,6 +1506,7 @@
         la idento-<tld/>o estas bildigo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einer Menge E) Relation in einer Menge, die aus allen Paaren (a,a) mit a&#x2208;E besteht.</dif>
     <ref tip="sin" cel="bild.idento0igo">idento-bildigo</ref>
   <trdgrp lng="de">
     <trd fnt="AI: en fr hu id; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">identische Relation</trd>,

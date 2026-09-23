@@ -82,6 +82,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Harmonisches Ganzes aus voneinander abh&auml;ngigen Dingen, die nach wenigen festen Prinzipien aufeinander abgestimmt sind</dif>
     <subsnc mrk="sistem.0o.SCI">
       <uzo tip="fak">SCI</uzo>
       <dif>
@@ -113,6 +114,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ordnung von Gegenst&auml;nden oder Erscheinungen nach Prinzipien; Klassifikation</dif>
     </subsnc>
     <subsnc mrk="sistem.0o.TEK">
       <uzo tip="fak">TEK</uzo>
@@ -138,6 +140,7 @@
         </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t, Maschine oder andere Anordnung technischer Elemente, die eine geplante Funktion erf&uuml;llt</dif>
     </subsnc>
     <subsnc mrk="sistem.0o.POL">
       <uzo tip="fak">POL</uzo>
@@ -171,6 +174,7 @@
         </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Regelwerk, nach dem eine Organisation oder staatliche Institutionen funktionieren</dif>
     </subsnc>
     <subsnc mrk="sistem.0o.FIL">
       <dif><ref tip="dif" cel="doktri.0o">Doktrino</ref>:
@@ -185,6 +189,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Lehre, Doktrin</dif>
     <trd lng="id">doktrin</trd>
     </subsnc>
     <subsnc mrk="sistem.0o.FIZL">
@@ -231,6 +236,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Organsystem oder Gesamtheit von K&ouml;rperelementen mit gemeinsamen Funktionen</dif>
     <trdgrp lng="ca">
         <trd>sistema</trd>,
         <trd>aparell</trd>
@@ -282,6 +288,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im Voraus &uuml;berlegter Plan oder leitende Idee, nach der man best&auml;ndig handelt, um ein bestimmtes Ziel zu erreichen</dif>
   </snc>
   <snc mrk="sistem.0o.ekvacioj">
     <uzo tip="fak">MAT</uzo>
@@ -1689,6 +1696,7 @@
         <lok>1978</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">System der Verteilung von Lebensmitteln und gegebenenfalls anderen notwendigen G&uuml;tern, bei dem jeder seine Portion gew&ouml;hnlich gegen einen Bezugsschein erh&auml;lt</dif>
   </snc>
   <trd lng="be">&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;
   &c_r;&c_a;&c_c;&c_y;&c_ja;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>

@@ -230,6 +230,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jeder Text, der Reime enth&auml;lt.</dif>
   </snc>
   <trd lng="be">&c_z;&c_r;&c_y;&c_f;&c_m;&c_a;&c_v;&c_a;&c_n;&c_a;&c_je; &c_s;&c_l;&c_o;&c_v;&c_a;</trd>
   <trd lng="bo">&t_sa;&t_nyata;&t_na;&t_tsheg;&t_nga;&t_ga;&t_tsheg;</trd>
@@ -329,6 +330,7 @@
         &leftquot;vundo-profunda&rightquot; konsistigas abortan <tld/>on.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unreiner Reim, bei dem die Vokale nach der betonten Silbe nicht &uuml;bereinstimmen.</dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_b;&c_l;&c_ib;&c_z;&c_n;&c_a;&c_ja; <ind>&c_r;&c_y;&c_f;&c_m;&c_a;</ind></trd>
   <trdgrp lng="hu">
@@ -359,6 +361,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gereimtes Gedicht oder Liedchen, das f&uuml;r Kinder bestimmt ist oder von ihnen gebraucht wird.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: pl fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kinderreim</trd>,
       <trd fnt="AI: be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kindervers</trd>
@@ -412,6 +415,7 @@
         <fnt><bib>LSF</bib>, <lok>p. 93a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reim, der in den aufeinander abgestimmten Versen oder W&ouml;rtern mit gewissen Abweichungen wiederkehrt; die durch solche Reime erzielte Wirkung.</dif>
     <refgrp tip="sub">
       <ref cel="rim.aborta0o">aborta rimo</ref>,
       <ref cel="agord.0o.POE">agordo</ref>,
@@ -459,6 +463,7 @@
         <fnt><bib>LSF</bib>, <lok>p. 92a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reim, der in den aufeinander abgestimmten Versen oder W&ouml;rtern genau wiederkehrt; die durch solche Reime erzielte Wirkung.</dif>
     <refgrp tip="sub">
       <ref cel="rim.sufiks0o">sufiksrimo</ref>.
     </refgrp>
@@ -498,6 +503,7 @@
         tre malmultajn sonojn a&ubreve; sufikson.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reim, der mehr Laute umfasst als die Reimbasis.</dif>
     <trd lng="de" fnt="AI: en nl pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reicher Reim</trd>
   </snc>
   <trd lng="en">rich rhyme</trd>
@@ -593,6 +599,7 @@
         estas &leftquot;une&rightquot;.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Verses oder Wortes) Dessen Schlussteil vom letzten betonten Vokal an.</dif>
   </snc>
   <adm>
     Tiu &ccirc;i termino estas propra al mi. Mi &gcirc;is nun trovis

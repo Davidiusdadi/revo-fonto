@@ -409,6 +409,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Form habend, die der eines Kreises oder einer Kugel &auml;hnelt</dif>
     <trd lng="cs">kulat&yacute;</trd>
     <trd lng="en" fnt="Vikt: en de pl ru; juĝis claude-opus-5">round</trd>
     <trdgrp lng="hu">
@@ -437,6 +438,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Menge darstellend, die als einfach und glatt, ohne Bruchst&uuml;cke betrachtet wird</dif>
   </snc>
   <trd lng="af">ronde</trd>
   <trd lng="am">&#x12AD;&#x1265;</trd>
@@ -580,6 +582,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rund machen</dif>
     <trd lng="hu">lekerek&iacute;t</trd>    
   </snc>
   <snc mrk="rond.0igi.MAT">
@@ -617,6 +620,7 @@
         <trd lng="ru">&c_o;&c_k;&c_r;&c_u;&c_g;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
       </ekz>
     </dif>                                
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eine Zahl) durch eine andere Zahl mit weniger Dezimalstellen oder, bei einer ganzen Zahl, mit weniger von null verschiedenen Ziffern im rechten Teil ann&auml;hern</dif>
     <trd lng="hu">kerek&iacute;t</trd>    
   </snc>
   <trd lng="be">&c_a;&c_k;&c_r;&c_u;&c_g;&c_l;&c_ja;&c_c;&c_mol;</trd>
@@ -661,6 +665,7 @@
       kaj veturiloj ronde &ccirc;irka&ubreve;iras centran pecon
       por transiri al alia vojo:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ort, an dem Stra&szlig;en zusammentreffen und Fahrzeuge im Kreis um ein Mittelst&uuml;ck herumfahren, um in eine andere Stra&szlig;e zu wechseln</dif>
     <refgrp tip="sin">
       <ref cel="cirkl.trafik0o.TRA">trafikcirklo</ref>;
     </refgrp>
@@ -722,6 +727,7 @@
       <ref tip="super" cel="rond.trafik0o">Trafik<tld/>o</ref> simpla,
       kun malgranda, malalta centra&jcirc;o.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einfacher Kreisverkehr mit kleiner, niedriger Mittelinsel</dif>
     <refgrp tip="sin">
       <ref cel="cirkl.trafik0eto.TRA">trafikcirkleto</ref>
     </refgrp>

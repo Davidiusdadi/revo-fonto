@@ -26,6 +26,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Harmonie, die aus Ebenma&szlig; und regelm&auml;&szlig;iger Anordnung der Teile entsteht.</dif>
   </snc>
   <snc mrk="simetr.0o.eco">
     <dif>
@@ -69,6 +70,7 @@
           rilate al <frm am="bb U"><g>U</g></frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem Vektorraum) Homomorphe Involution.</dif>
       <ref tip="sin" cel="simetr.vektora0o">vektora simetrio.</ref>
     </subsnc>
     <subsnc mrk="simetr.0o.oblikva">
@@ -81,6 +83,7 @@
           <tld/>o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem affinen Raum) Affine Involution.</dif>
       <ref tip="sin" cel="simetr.oblikva0o">oblikva simetrio.</ref>
     </subsnc>
     <subsnc mrk="simetr.0o.orta">
@@ -99,6 +102,7 @@
         <tld/>o)</klr>
         a&ubreve; konstanta ebeno <klr>(ebena <tld/>o)</klr>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem euklidischen affinen Raum) Eine Abbildung des Raumes auf sich selbst, bei der alle Strecken, die einen Punkt mit seinem Bild verbinden, folgende Eigenschaft haben: ihr Mittelpunkt ist ein fester Punkt (Punktsymmetrie), oder sie stehen in ihrem Mittelpunkt senkrecht auf einer festen Geraden (Achsensymmetrie) oder einer festen Ebene (Ebenensymmetrie).</dif>
       <ref tip="sin" cel="simetr.orta0o">orta simetrio;</ref>
       <refgrp tip="vid">
         <ref cel="aks.simetri0o">simetriakso</ref>,
@@ -185,6 +189,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Symmetrie besitzend, symmetrisch angeordnet.</dif>
   </snc>
   <snc mrk="simetr.0a.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -204,6 +209,7 @@
           elipso estas <tld/>a rilate al siaj fokusa kaj nefokusa aksoj.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer geometrischen Figur) So beschaffen, dass eine Symmetrie sie unver&auml;ndert l&auml;sst; anders gesagt: bei einer bestimmten Symmetrie geh&ouml;rt das Bild jedes ihrer Punkte zu ihr.</dif>
       <trd lng="en">symmetric</trd>
       <trd lng="pl"><klr tip="amb">(figura) </klr>symetryczna</trd>
     </subsnc>
@@ -218,6 +224,7 @@
           <tld/>a matrico egalas al sia transpona&jcirc;o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer (n,p)-Matrix) So beschaffen, dass jedes ihrer Elemente mit dem Index (i,j) gleich dem mit dem Index (j,i) ist.</dif>
       <trd lng="en">symmetrical</trd>
       <trd lng="pl"><klr tip="amb">(macierz) </klr>symetryczna</trd>
     </subsnc>
@@ -244,6 +251,7 @@
           <ref cel="rilat.ekvivalento0o">ekvivalento-rilato</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Relation R in einer Menge) So beschaffen, dass sie gleich ihrer Inversen R&#x207B;&#x00B9; ist.</dif>
       <trd lng="en">symmetric</trd>
       <trd lng="pl"><klr tip="amb">(relacja) </klr>symetryczna</trd>
     </subsnc>
@@ -264,6 +272,7 @@
           por &ccirc;iu ajn <frm am="x,y"><k>x</k>, <k>y</k></frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Abbildung von E&#x207F; nach F, mit n &#x2265; 2) So beschaffen, dass sie alle Tupel mit vertauschten Gliedern auf dasselbe Bild abbildet.</dif>
       <trd lng="en">symmetric</trd>
       <trd lng="pl"><klr tip="amb">(funkcja) </klr>symetryczna</trd>
     </subsnc>

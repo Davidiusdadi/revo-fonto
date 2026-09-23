@@ -49,6 +49,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleiner Fleck auf einer Oberfl&auml;che.</dif>
     <ref tip="lst" lst="voko:formoj" cel="form.0o.aspekto">formo<sncref/></ref>
     <trdgrp lng="be">
       <trd>&c_k;&c_r;&c_o;&c_p;&c_k;&c_a;</trd>,
@@ -99,6 +100,7 @@
         meti la finan <tld/>on al polemiko.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Satzzeichen (.), das vor allem zur Kennzeichnung des Satzendes und von Abk&uuml;rzungen verwendet wird.</dif>
     <subsnc mrk="punkt.0o.de_nombro">
       <dif>
         Apartigilo en la skribo de nombroj:
@@ -109,6 +111,7 @@
           mil<tld/>o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Trennzeichen beim Schreiben von Zahlen.</dif>
       <ref tip="vid" cel="on.0komo">onkomo</ref>
       <rim>
         En internaciaj dokumentoj oni uzu komon por apartigi decimalojn
@@ -146,6 +149,7 @@
           </fnt>?
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bekr&auml;ftigt den vorangehenden Satz, besonders um zu zeigen, dass dar&uuml;ber nicht zu diskutieren ist.</dif>
     <trdgrp lng="en">
       <trd>period <klr>(emphasis)</klr></trd>,
       <trd>full <ind>stop</ind> <klr>(emphasis)</klr></trd>
@@ -289,6 +293,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Genauer Ort oder Zeitpunkt, an dem etwas geschieht.</dif>
     <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t;</trd>
     <trd lng="en">point <klr>(in time or of location)</klr></trd>
     <trd lng="pl">punkt</trd>
@@ -358,6 +363,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bestimmtes Thema, auf das man achtet.</dif>
     <refgrp tip="vid">
       <ref cel="objekt.0o.temo">objekto<sncref/></ref>
     </refgrp>
@@ -388,6 +394,7 @@
           renkonto de du rektaj linioj naskas unu <tld/>on.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unendlich enger Raumbereich, der als ohne Breite und L&auml;nge betrachtet wird.</dif>
     <trd lng="en">point <klr>(geometric)</klr></trd>
     </subsnc>
     <subsnc mrk="punkt.0o.spaco">
@@ -397,6 +404,7 @@
         <ref cel="spac.0o.MAT">spaco</ref>, speciale topologia,
         afina a&ubreve; metrika.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Element in einem Raum, insbesondere einem topologischen, affinen oder metrischen.</dif>
     <trd lng="en">point <klr>(in mathematical space)</klr></trd>
     </subsnc>
     <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t;</trd>
@@ -419,6 +427,7 @@
         na&ubreve;<tld/>a tiparo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleine typografische L&auml;ngeneinheit, deren Wert von Land zu Land verschieden ist.</dif>
     <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t;</trd>
     <trd lng="en">point <klr>(typographical unit of measure)</klr></trd>
     <trd lng="pl">punkt typograficzny</trd>
@@ -583,6 +592,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Viele Punkte auf etwas setzen oder zeichnen.</dif>
     <trd lng="nl">stippelen</trd>
     <trdgrp lng="ru">
       <trd>&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;
@@ -1514,6 +1524,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Punkt, von dem aus man beobachtet.</dif>
     <trd lng="hu">n&eacute;z&odblac;pont</trd>
   </snc>
   <snc mrk="punkt.vid0o.FIG">
@@ -1555,6 +1566,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Geistige Position, von der aus man eine Sache betrachtet.</dif>
     <trdgrp lng="hu">
       <trd>szempont</trd>,
       <trd>szemsz&ouml;g</trd>

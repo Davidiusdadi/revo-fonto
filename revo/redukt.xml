@@ -88,6 +88,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nach Ausma&szlig; oder Anzahl verkleinern.</dif>
     <refgrp tip="vid">
       <ref cel="lim.0igi">limigi</ref>
     </refgrp>
@@ -125,6 +126,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(durch eine chemische Reaktion) Ionen oder Atome Elektronen aufnehmen lassen, z. B. indem man ein Metall aus seiner Verbindung oder Sauerstoff aus einem Oxid herausl&ouml;st.</dif>
     <refgrp tip="vid">
       <ref cel="elektr10.0i">elektrolizi</ref>,
       <ref cel="redoks.0a">redoksa</ref>
@@ -172,6 +174,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einen schlechteren oder weniger freien Zustand bringen.</dif>
     <refgrp tip="vid">
        <ref cel="degrad.0i">degradi</ref>,
        <ref cel="dekade.0igi">dekadencigi</ref>,
@@ -394,6 +397,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es reduzieren kann.</dif>
     <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
     <trd lng="de" fnt="AI: hu en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">reduzierbar</trd>
     <trdgrp lng="hu">
@@ -431,6 +435,7 @@
           <frm>(10 = 5&#215;2)</frm>, sed <frm>7</frm> ne estas.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Element in einem Ring) So beschaffen, dass es sich als Produkt zweier nicht invertierbarer Elemente darstellen l&auml;sst.</dif>
       <rim>
         Tiu deriva&jcirc;o pravigus la uzon de <ctl><tld/>i</ctl> por
         nomi ser&ccirc;adon de la koncernaj neinversigeblaj faktoroj, sed
@@ -478,6 +483,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Bestreben, etwas vollst&auml;ndig allein durch das Funktionieren seiner Bestandteile zu erkl&auml;ren.</dif>
     <refgrp tip="vid">
       <ref cel="analiz.0o">analizo</ref>
     </refgrp>
@@ -497,6 +503,7 @@
     <dif>
       Tia, ke ne eblas &gcirc;in <tld/>i.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es nicht reduzieren kann.</dif>
     <trd lng="be">&c_n;&c_je;&c_s;&c_k;&c_a;&c_r;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
     <trd lng="de" fnt="AI: hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nicht reduzierbar</trd>
     <trdgrp lng="hu">
@@ -524,6 +531,7 @@
         sinonimas kun primeco.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht reduzierbar.</dif>
     <trd lng="be">&c_n;&c_je;&c_p;&c_r;&c_y;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>
     <trd lng="en">irreducible</trd>
     <trd lng="de">irreduzibel</trd>

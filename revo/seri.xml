@@ -85,6 +85,7 @@
         <fnt><bib>RokPop</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abgeschlossene Menge gleichartiger und irgendwie geordneter Gegenst&auml;nde oder Dinge.</dif>
     <subsnc mrk="seri.0o.aroTIP">
       <uzo tip="fak">TIP</uzo>
       <dif>
@@ -114,6 +115,7 @@
           <trd lng="hu">sorozatc&iacute;m</trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge irgendwie &auml;hnlicher Ver&ouml;ffentlichungen, in einheitlicher Aufmachung herausgegeben, manchmal nummeriert, deren Gesamtzahl nicht im Voraus festgelegt ist.</dif>
       <refgrp tip="sin">
         <ref cel="biblio1.0o">biblioteko</ref>,
         <ref cel="kolekt.0o">kolekto</ref>
@@ -137,6 +139,7 @@
           nova <tld/>o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Thematisch oder zeitlich bestimmte Teilsammlung einer Zeitschrift.</dif>
       <trd lng="de" fnt="AI: fr hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Folge</trd>
       <trd lng="fr">s&eacute;rie</trd>
       <trd lng="hu">sorozat</trd>
@@ -206,6 +209,7 @@
         <klr>(<ref tip="vid" cel="kaskad.0o">kaskado</ref>)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe gleichartiger Dinge.</dif>
     <refgrp tip="vid">
       <ref cel="cxen.0o">&ccirc;eno</ref>,
       <ref cel="sekv.sin0o">sinsekvo</ref>
@@ -258,6 +262,7 @@
         <ind>&c_r;&c_ja;&c_d;</ind></trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Folge u, betrachtet zusammen mit ihrer Folge v der Teilsummen (vn = u0+u1+...+un).</dif>
     <refgrp tip="vid">
       <ref cel="term.0o.serio">termo</ref>,
       <ref cel="sum.parta0o">parta sumo</ref>,

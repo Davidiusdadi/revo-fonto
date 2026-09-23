@@ -44,6 +44,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jeder der beiden Punkte, in denen die Achse einer Kugel deren Oberfl&auml;che schneidet.</dif>
     <trd lng="bg">&c_p;&c_o;&c_l;&c_ju;&c_s;</trd>
     <trd lng="en">pole</trd>
     <trd lng="fr">p&ocirc;le<klr tip="ind"> (g&eacute;og.)</klr></trd>
@@ -61,6 +62,7 @@
       &Ccirc;iu el la du punktoj de pilo, baterio, magneto, &ccirc;e kiuj
       aperas kontra&ubreve;aj fortoj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jeder der beiden Punkte eines galvanischen Elements, einer Batterie oder eines Magneten, an denen entgegengesetzte Kr&auml;fte auftreten.</dif>
     <refgrp tip="vid">
       <ref cel="born.0o">borno</ref>,
       <ref cel="elektr3.0o">elektrodo</ref>
@@ -104,6 +106,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jedes der beiden Extreme, zwischen denen sich das Spektrum der m&ouml;glichen Abstufungen von etwas erstreckt.</dif>
   </snc>
   <snc mrk="polus.0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -113,6 +116,7 @@
         <klr>(de <tld/>a <ref cel="koordi.0sistemo">koordinatsistemo</ref>)</klr>
         &Gcirc;ia <ref cel="origin.0o.de_polusa_koordinatsistemo">origino</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Polarkoordinatensystems) Dessen Ursprung.</dif>
       <trdgrp lng="hu">
         <trd>p&oacute;luspont</trd>,
         <trd>orig&oacute;</trd>
@@ -130,6 +134,7 @@
         estas <ref cel="holomo.0a.cxepunkto">holomorfa</ref>
         &ccirc;e punkto <frm am="a"><k>a</k></frm>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer komplexen Funktion f) Ein singul&auml;rer Punkt a von f derart, dass f&uuml;r eine ganze Zahl n die Funktion (z-a)^n f(z) im Punkt a holomorph ist.</dif>
       <ref tip="vid" cel="meromo.0a">meromorfa</ref>
       <trd lng="hu">p&oacute;lus<klr tip="ind"> (f&uuml;ggv&eacute;ny&eacute;)</klr></trd>
     </subsnc>
@@ -194,6 +199,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit zwei Polen, zwei entgegengesetzten oder entgegengesetzt wirkenden Extremen.</dif>
   </snc>
   <trd lng="be">&c_d;&c_v;&c_u;&c_h;&c_p;&c_o;&c_l;&c_ju;&c_s;&c_n;&c_y;</trd>
   <trdgrp lng="de">
@@ -258,6 +264,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Entwicklung hin zu einem Zustand, in dem entgegengesetzte Pole wirken.</dif>
   </snc>
   <refgrp tip="vid">
     <ref cel="ekstre.0ismo">ekstremismo</ref>

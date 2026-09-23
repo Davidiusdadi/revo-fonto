@@ -74,6 +74,7 @@
         <trd lng="fr">autant que je sache</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Information genau im Kopf haben.</dif>
     <trd lng="es">saber</trd>
     <trd lng="hu">tud</trd>
     <trd lng="nl">weten</trd>
@@ -628,6 +629,7 @@
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 14a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bewirken, dass jemand von etwas wei&szlig;.</dif>
     <refgrp tip="sin">
        <ref cel="komuni1.0i.sciigi">komuniki<sncref/></ref>,
        <ref cel="inform.0i">informi</ref>
@@ -1094,6 +1096,7 @@
         <fnt><bib>MT</bib> <lok>&Sa1; 23:9</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Information erhalten oder erwerben, etwas zu wissen beginnen.</dif>
     <trd lng="es">enterarse</trd>
     <trdgrp lng="hu">
       <trd>megtud</trd>,
@@ -1119,6 +1122,7 @@
         <fnt><bib>MT</bib>, <lok>&Pre; 1:17</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Erfahrung oder Erlebnis gut und gr&uuml;ndlich verstehen.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: en pt es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erkennen</trd>,
       <trd fnt="AI: hu pt dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">begreifen</trd>
@@ -1313,6 +1317,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Besitz vieler Kenntnisse; Gelehrsamkeit.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_e;&c_r;&c_u;&c_d;&c_y;&c_c;&c_y;&c_ja;</trd>,
@@ -1340,6 +1345,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der viele Kenntnisse &uuml;ber ein oder mehrere Themen, ein oder mehrere Fachgebiete hat.</dif>
   </snc>
   <trd lng="be">&c_e;&c_r;&c_u;&c_d;&c_y;&c_t;</trd>
   <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gelehrter</trd>
@@ -1362,6 +1368,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der etwas nicht wei&szlig; oder nicht viele Kenntnisse hat.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_je;&c_d;&c_a;&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_y;
@@ -1664,6 +1671,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wunsch, etwas zu wissen.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_c;&c_ib;&c_k;&c_a;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,

@@ -439,6 +439,7 @@
         tia obstino kaj senkritiko <tld/>as ian nescienceman spiritostaton.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Zeichen f&uuml;r etwas sein, zeigen.</dif>
     <trdgrp lng="de">
       <trd>zeigen</trd>,
       <trd>bezeichnen</trd>
@@ -487,6 +488,7 @@
         <fnt><bib>FK</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandem ein Zeichen geben, jemanden durch ein Zeichen aufmerksam machen.</dif>
     <refgrp tip="sub">
        <ref cel="signal.0i">signali</ref>,
        <ref cel="mark.0i">marki</ref>,
@@ -517,6 +519,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden oder etwas durch ein Zeichen hervorheben, bedeuten.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">markieren</trd>,
       <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kennzeichnen</trd>
@@ -750,6 +753,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Eigenschaft einer reellen Zahl, positiv oder negativ zu sein.</dif>
     <trd lng="be">&c_z;&c_n;&c_a;&c_k; <klr>(&c_l;&c_ib;&c_k;&c_u;)</klr></trd>
     <trd lng="ca">signe <klr tip="amb">(d'un nombre)</klr></trd>
     <trd lng="de">Vorzeichen</trd>
@@ -781,6 +785,7 @@
           &gcirc;ia absoluta valoro.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Signumfunktion oder ein Funktionswert dieser Funktion.</dif>
       <rim num="1">
         En <fnt><bib>MatVort</bib></fnt> trovi&gcirc;as por tiu termino
         tradukoj, kiuj suspektigas, ke oni komprenas &gcirc;in kun la
@@ -865,6 +870,7 @@
           <ref cel="cikl.0o.permuto">ciklojn</ref> al <frm am="-1">-1</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Funktion, die eine Permutation auf 1 abbildet, wenn sie gerade ist, und sonst auf -1.</dif>
       <trdgrp lng="de">
         <trd>Signatur<klr tip="ind"> (einer Vertauschung)</klr></trd>
       </trdgrp>
@@ -1053,6 +1059,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigenst&auml;ndiges Schriftzeichen, das keinen eigenen Wert hat, aber den gemeinten Sinn, den Laut, den Aufbau des Satzes usw. pr&auml;zisiert und so Missverst&auml;ndnisse verhindert.</dif>
     <refgrp tip="vid">
       <ref cel="interp3.0o.TIP">interpunkcio</ref>
     </refgrp>
@@ -1172,6 +1179,7 @@
       <ref tip="super" cel="sign.skrib0o.TIP">Skribo<tld/>o</ref> kiu ne funkcias sole,
       sed aldoni&gcirc;as al alia signo, modifante &gcirc;ian valoron; interalie:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schriftzeichen, das nicht f&uuml;r sich allein steht, sondern zu einem anderen Zeichen hinzutritt und dessen Wert ver&auml;ndert; unter anderem.</dif>
     <subsnc mrk="sign.krom0o.diakrita">
       <dif>
         <ref tip="dif" cel="diakrit.0o">Diakrito</ref>:
@@ -1208,6 +1216,7 @@
           diakritoj, sed speco de vokalliteroj.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vokalisierendes Zusatzzeichen, das in einer Konsonantenschrift einen Vokal angibt.</dif>
       <trdgrp lng="en">
         <trd>vocalization mark</trd>,
         <trd>harakat</trd>,
@@ -1237,6 +1246,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zusatzzeichen, das den Wert einer Musiknote ver&auml;ndert.</dif>
       <trd lng="de" fnt="AI: fr ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Versetzungszeichen</trd>
       <trd lng="fr">alt&eacute;ration<klr> (signe musical)</klr></trd>
       <trdgrp lng="id">
@@ -1295,6 +1305,7 @@
       Mane <tld/>i kristanan krucon per gesto
       vertikale malsupran, poste horizontalan.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit der Hand durch eine Geste ein christliches Kreuz zeichnen, zuerst senkrecht nach unten, dann waagerecht.</dif>
     <subsnc mrk="sign.kruco0i.KRI_iun">
     <gra><vspec>tr</vspec></gra>
     <dif>
@@ -1317,6 +1328,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden oder etwas durch ein solches, auf ihn gerichtetes Kreuzzeichen segnen.</dif>
     <trd lng="be">&c_zh;&c_a;&c_g;&c_n;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="ca">
     <trd>signar</trd>,
@@ -1342,6 +1354,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch ein solches Kreuzzeichen, von der Stirn zur Brust und &uuml;ber die Schultern, den Segen auf sich selbst herabrufen; sich bekreuzigen.</dif>
       <trd lng="be">&c_zh;&c_a;&c_g;&c_n;&c_a;&c_c;&c_c;&c_a;</trd>
       <trdgrp lng="ca">
         <trd>fer el senyal de la <ind>creu</ind></trd>,
@@ -1418,6 +1431,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas (Band, Zettel), das man zwischen die Seiten legt, um eine Stelle in einem Buch wiederzufinden.</dif>
     <trd lng="ca">punt de llibre</trd>
   <trdgrp lng="id">
     <trd><baz>batas</baz>pembatas buku</trd>,
@@ -1456,6 +1470,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Lokal gespeicherter Verweis auf eine Webseite.</dif>
   <trd lng="id">markah</trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;</trd>
@@ -1935,6 +1950,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schriftzeichen, das als Laut einer Silbe gelesen wird.</dif>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_o;&c_v;&c_y; <ind>&c_z;&c_n;&c_a;&c_k;</ind></trd>
   <trd lng="de" fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Silbenzeichen</trd>
@@ -2028,6 +2044,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zusatzzeichen, das unter einen Buchstaben oder ein mathematisches Symbol gesetzt wird, um einen besonderen Wert anzugeben.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d;&c_r;&c_a;&c_d;&c_k;&c_o;&c_v;&c_y; <ind>&c_z;&c_n;&c_a;&c_k;</ind></trd>,
@@ -2164,6 +2181,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zusatzzeichen, das durch oder in einen Buchstaben oder ein anderes Symbol gesetzt wird, um einen besonderen Wert anzugeben.</dif>
   </snc>
   <trd lng="be">&c_u;&c_n;&c_u;&c_t;&c_r;&c_y;&c_l;&c_ib;&c_t;&c_a;&c_r;&c_n;&c_y;
   <ind>&c_z;&c_n;&c_a;&c_k;</ind></trd>

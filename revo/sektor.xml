@@ -35,6 +35,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit der Unternehmen und Einrichtungen, die im Bereich gleichartiger Produkte oder Dienstleistungen t&auml;tig sind.</dif>
     <trd lng="en">sector</trd>
     <trd lng="hu">szektor</trd>
     <trd lng="pl">sektor</trd>
@@ -48,6 +49,7 @@
         a&ubreve; angula <tld/>o)</klr>
         <ref tip="dif" cel="angul.0o.figuro">Angulo</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Sektor einer Ebene oder Winkelsektor) Winkel.</dif>
       <trd lng="de">Winkelraum</trd>
       <trdgrp lng="en">
         <trd>angle</trd>,
@@ -69,6 +71,7 @@
         Intersekco de la cirklo kun
         <ref cel="angul.centra0o">centra angulo</ref> de &gcirc;i.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Sektor eines Kreises oder Kreissektor) Schnittmenge des Kreises mit einem seiner Mittelpunktswinkel.</dif>
       <trdgrp lng="de">
         <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kreissektor</trd>,
         <trd fnt="AI: hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kreisausschnitt</trd>
@@ -89,6 +92,7 @@
         de <tld/>o de cirklo rotacianta &ccirc;irka&ubreve; diametro
         de la koncerna cirklo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Sektor einer Kugel oder Kugelsektor) K&ouml;rper, der entsteht, wenn ein Kreissektor um einen Durchmesser des betreffenden Kreises rotiert.</dif>
       <trd lng="de">Kugelsektor</trd>
       <trd lng="en">spherical <ind>sector</ind></trd>
       <trd lng="fr">secteur sph&eacute;rique</trd>
@@ -145,6 +149,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sektor der Verwaltungen des Staates und seiner Untergliederungen.</dif>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y; <ind>&c_s;&c_e;&c_k;&c_t;&c_a;&c_r;</ind></trd>
   <trd lng="de" fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&ouml;ffentlicher Sektor</trd>
