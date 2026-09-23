@@ -49,6 +49,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich befinden (an einem Ort oder in einer Lage).</dif>
   </snc>
   <snc mrk="est.0i.io">
     <dif>
@@ -85,6 +86,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Eigenschaft oder Identit&auml;t haben oder von der Art sein, die das Pr&auml;dikativ ausdr&uuml;ckt.</dif>
     <rim>
       Specialan sencon havas la esprimo
       &leftquot;<ref cel="est.tio0as">tio <tld/>as</ref>&rightquot;.
@@ -119,6 +121,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich in dem Zustand befinden (eine Handlung ausf&uuml;hren oder erleiden), den das pr&auml;dikative Partizip ausdr&uuml;ckt.</dif>
   </snc>
   <snc mrk="est.0i.kunAdverbo">
     <dif>
@@ -151,6 +154,7 @@
         &ccirc;arme<fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich in dem Zustand befinden, den das adverbiale Pr&auml;dikativ ausdr&uuml;ckt (in subjektlosen S&auml;tzen gebraucht, um jemandes Eindruck auszudr&uuml;cken).</dif>
   </snc>
   <trd lng="af">wees</trd>
   <trd lng="am">&#4609;&#4757;</trd>
@@ -912,6 +916,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seiend, wirklich bestehend, anwesend; jetzig.</dif>
     <trdgrp lng="de">
       <trd>gegenw&auml;rtig</trd>,
       <trd>pr&auml;sent</trd>
@@ -985,6 +990,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jetzige Zeit.</dif>
   <trd lng="en">present <ind>tense</ind></trd>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_ch;&c_a;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -1040,6 +1046,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus fr&uuml;herer Zeit, vergangen.</dif>
     <trd lng="de">vergangen</trd>
     <trd lng="en">past <klr>(time)</klr></trd>
     <trdgrp lng="zh">
@@ -1166,6 +1173,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vergangene Zeit.</dif>
   <trd lng="en">past <klr>(time)</klr></trd>
   </snc>
   <snc mrk="est.0inteco.GRA">
@@ -1250,6 +1258,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus sp&auml;terer Zeit, kommend.</dif>
     <trd lng="de">k&uuml;nftig</trd>
     <trd lng="en">future <klr>(time)</klr></trd>
     <trdgrp lng="zh">
@@ -1312,6 +1321,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kommende Zeit.</dif>
   <trd lng="en">future <klr>(time)</klr></trd>
   </snc>
   <snc mrk="est.0onteco.GRA">
@@ -1750,6 +1760,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In etwas sein; drinnen sein.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a; &c_w;&c_n;&c_u;&c_t;&c_r;&c_y;</trd>,
@@ -1880,6 +1891,7 @@
         Kruso</vrk> <lok>1908</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zusammen am selben Ort sein.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_y;&c_c;&c_mol; &c_r;&c_a;&c_z;&c_a;&c_m;</trd>,
@@ -2036,6 +2048,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abwesend sein; nicht an einem Ort anwesend sein, wo man erwartet wird.</dif>
   </snc>
   <trdgrp lng="de">
     <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fernbleiben</trd>,
@@ -2061,6 +2074,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abwesenheit; das Nichtanwesendsein an einem Ort.</dif>
   </snc>
   <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Abwesenheit</trd>
   <trdgrp lng="fr">

@@ -88,6 +88,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verfahren und Mittel, Kopien von Dokumenten an entfernten Orten auszudrucken, indem man digitale Bilder davon &uuml;ber Telekommunikationsnetze sendet.</dif>
     <trd lng="be">&c_f;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="de" fnt="AI: cs sk fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Telefax</trd>
     <trd lng="en"><ind>fax</ind>ing <klr>(method)</klr></trd>
@@ -181,6 +182,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Versenden eines Dokuments mit einem Faxger&auml;t.</dif>
     <refgrp tip="sin">
       <ref cel="faks.0o.faksado"><tld/>o <sncref/></ref>
     </refgrp>
@@ -226,6 +228,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einem Faxger&auml;t gesendeter Brief.</dif>
     <refgrp tip="sin">
       <ref cel="faks.0o.letero"><tld/>o <sncref/></ref>,
       <ref cel="telekopi.0o.TEL">telekopio</ref>

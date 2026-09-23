@@ -438,6 +438,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Biegung betreffend.</dif>
     <trd lng="be">&c_z;&c_g;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
     <trd lng="de" fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Biege-</trd>
     <trd lng="en"><ind>bend</ind>ing</trd>
@@ -469,6 +470,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Leicht biegsam.</dif>
     <trd lng="be">&c_g;&c_n;&c_u;&c_t;&c_k;&c_ib;</trd>
     <trd lng="de">biegsam</trd>
     <trd lng="en"><ind>bend</ind>y</trd>
@@ -490,6 +492,7 @@
     <dif>
       <tld lit="F"/>ita.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gebogen.</dif>
     <adm>
       Tute mankas ekzemploj de tiu senco. Nur PV gxin mencias.
       <aut>MB</aut>
@@ -538,6 +541,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Biegen.</dif>
   </snc>
   <trd lng="be">&c_z;&c_g;&c_ib;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">oh&yacute;b&aacute;n&iacute;</trd>
@@ -607,6 +611,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Biegung.</dif>
     <trdgrp lng="es">
       <trd>flexi&oacute;n</trd>,
       <trd>curva</trd>,
@@ -1305,6 +1310,7 @@
         de funkcio <frm am="f"><k>f</k></frm>)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Punkt einer ebenen Kurve) So beschaffen, dass das Vorzeichen der Kr&uuml;mmung wechselt, wenn die Kurve ihn durchl&auml;uft; anschaulich: Die Kurve durchquert an diesem Punkt ihre Tangente.</dif>
     <ref tip="sin" cel="inflek.0a">infleksa.</ref>
     <rim>
       Tiu termino ne estas tre kontentiga: &gcirc;i malprecize
@@ -1348,6 +1354,7 @@
     <dif>
       <ref cel="fleks.trans0igxa">Trans<tld/>i&gcirc;a</ref> punkto.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wendepunkt einer Kurve.</dif>
     <rim>
       Pri tia uzo de sufikso <ctl>-ejo</ctl>,
       vd rimarkon sub <ref cel="maksim1.0iganto">maksimumiganto</ref>.

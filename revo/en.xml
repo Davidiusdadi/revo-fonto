@@ -15,6 +15,7 @@
       Prepozicio; uzate kun nominativo, indikas fizikan a&ubreve;
       abstraktan lokon, staton a&ubreve; cirkonstancon, kie io estas:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;position; mit dem Nominativ gebraucht, bezeichnet sie den physischen oder abstrakten Ort, den Zustand oder den Umstand, in dem sich etwas befindet.</dif>
     <subsnc mrk="en.0.kie">
       <dif>
         (kun nominativo:) Indikas la lokon, interne de kiu io
@@ -89,6 +90,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit dem Nominativ:) Bezeichnet den Ort, in dessen Innerem sich etwas oder jemand befindet oder wo etwas geschieht.</dif>
       <ref tip="vid" cel="intern.0ede">interne de</ref>
       <trd lng="he">&bet;&tav;&vav;&fkaf;</trd>
     </subsnc>
@@ -118,6 +120,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit dem Nominativ:) Bezeichnet die Zeit, zu der die Handlung stattfindet (oder stattfand oder stattfinden wird).</dif>
       <refgrp tip="vid">
         <ref cel="cxe.0">&ccirc;e</ref>,
         <ref cel="je.0">je</ref>,
@@ -144,6 +147,7 @@
           <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 13</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit dem Nominativ:) Bezeichnet, wie viel Zeit die Handlung bis zu ihrem vollst&auml;ndigen Abschluss gedauert hat oder dauern wird.</dif>
       <trdgrp lng="de">
         <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">innerhalb</trd>,
         <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">binnen</trd>
@@ -234,6 +238,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit dem Nominativ:) Bezeichnet den Zustand eines Gegenstandes.</dif>
     </subsnc>
     <subsnc mrk="en.0.cirkonstanca">
       <dif>
@@ -314,6 +319,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit dem Nominativ:) Bezeichnet einen Umstand, der die Handlung kennzeichnet.</dif>
       <refgrp tip="vid">
         <ref cel="cxe.0">&ccirc;e</ref>,
         <ref cel="je.0">je</ref>,
@@ -346,6 +352,7 @@
       staton, internen de kiu io a&ubreve; iu movi&gcirc;as, celas, strebas,
       evoluas:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;position; mit dem Akkusativ gebraucht, bezeichnet sie eine Richtung durch ihren Endpunkt, d. h. den physischen oder abstrakten Ort, die Lage oder den Zustand, in dessen Inneres etwas oder jemand sich bewegt, zielt, strebt oder sich entwickelt.</dif>
     <subsnc mrk="en.0.loka">
       <dif>
         (kun akuzativo:) Indikas lokon,
@@ -426,6 +433,7 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit dem Akkusativ:) Bezeichnet den Ort, an dem sich das Ziel oder der Endpunkt befindet.</dif>
       <refgrp tip="vid">
         <ref cel="al.0">al</ref>
       </refgrp>
@@ -492,6 +500,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit dem Akkusativ:) Bezeichnet den Endzustand, die Endlage usw. einer Entwicklung, Ver&auml;nderung oder Wandlung.</dif>
       <refgrp tip="vid">
         <ref cel="al.0">al</ref>,
         <ref cel="el.0.stata">el<sncref/></ref>
@@ -597,6 +606,7 @@
     <dif>
       Direkte al la interno de io.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In Richtung auf das Innere von etwas.</dif>
     <rim>
       Pri la prepoziciaj kuna&jcirc;oj kun <em>al</em>,
       vidu rimarkon sub
@@ -1246,6 +1256,7 @@
   <dif>
     Prefikso kun iu el la sencoj de <ref cel="en.0">en</ref>:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;fix mit einer der Bedeutungen der Pr&auml;position en.</dif>
   <snc ref="en.0.kie">
     <ekz>
       la libro <ref cel="hav.en0i"><tld/>havas</ref> 30 &ccirc;apitrojn;

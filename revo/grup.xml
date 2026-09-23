@@ -14,6 +14,7 @@
     <dif>
       <ref tip="super" cel="ar.0o.KOMUNE">Aro</ref> da samspeca&jcirc;oj:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge gleichartiger Dinge</dif>
     <subsnc mrk="grup.0o.personoj">
       <dif>
         Kunestantoj, uloj, kiujn io komuna kunigas:
@@ -115,6 +116,7 @@
           </fnt>!
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beieinander befindliche Personen oder Wesen, die etwas Gemeinsames verbindet</dif>
       <ref tip="sin" cel="kun.0ularo">kunularo</ref>
       <refgrp tip="sub">
         <ref cel="band.0o">bando</ref>,
@@ -181,6 +183,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenst&auml;nde, die beieinander stehen oder demselben Zweck dienen</dif>
       <refgrp tip="sub">
         <ref cel="arkipe.0o.insularo">ar&hcirc;ipelago</ref>,
         <ref cel="katego.0o">kategorio</ref>,
@@ -210,6 +213,7 @@
           la <tld/>oj &leftquot;br&rightquot;, &leftquot;kv&rightquot;.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">H&auml;ufige Abfolge von Lauten</dif>
       <trd lng="pl">grupa</trd>
     </subsnc>
     <trd lng="ils" kod="M519x568S2ff00482x483S17240502x548S17248482x548S20500495x554"></trd>
@@ -229,6 +233,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit von Arten; Gattung, Tribus</dif>
     <trd lng="hu">nem</trd>
     <trd lng="pl">grupa</trd>
   </snc>
@@ -277,6 +282,7 @@
         <ref cel="neuxtr.0igebla.MAT">ne&ubreve;trigeblaj</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppoid (E,&#x2020;), dessen Verkn&uuml;pfung &#x2020; assoziativ ist, das ein neutrales Element in E besitzt und in dem es zu jedem Element in E ein inverses Element gibt</dif>
     <ref tip="super" cel="strukt.algebra0o">algebra strukturo;</ref>
     <refgrp tip="sub">
       Specifaj grupoj:
@@ -756,6 +762,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe innerhalb einer anderen Gruppe</dif>
   </snc>
   <snc mrk="grup.sub0o.MAT">
     <uzo tip="fak">MAT</uzo>
@@ -782,6 +789,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Gruppe (E,&#x2020;)) Gruppe (A,&#x2020;A) mit A&#x2282;E und x&#x2020;Ay = x&#x2020;y f&uuml;r alle x, y&#x2208;A</dif>
   <trd lng="id">subgrup</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_g;&c_r;&c_u;&c_p;&c_a;</trd>
@@ -838,6 +846,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Personengruppe, die sich dem Nachdenken, Besprechen und Meinungsaustausch &uuml;ber ein Thema widmet</dif>
     <refgrp tip="vid">
       <ref cel="forum.0o.komp">forumo<sncref/></ref>
     </refgrp>
@@ -1249,6 +1258,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Personengruppe, die sich dem Studium eines Themas und meist dem Berichten dar&uuml;ber widmet</dif>
     <refgrp tip="vid">
       <ref cel="komisi1.0o">komisiono</ref>,
       <ref cel="grup.labor0o.POL">laborgrupo</ref>

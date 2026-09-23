@@ -109,6 +109,7 @@
         <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zahl, dargestellt als Quotient aus einer ganzen Zahl a (dem Z&auml;hler) und einer von null verschiedenen ganzen Zahl b (dem Nenner); Zeichen a/b (gelesen: a durch b).</dif>
     <ref tip="sub" cel="on.0o.frakcio">ono</ref>
     <refgrp tip="sin">
       <ref cel="frakci.kvocienta0o">kvocienta frakcio</ref>
@@ -162,6 +163,7 @@
       <ref tip="super" cel="part.0o">Parto</ref> de materia&jcirc;o, kiun analiza operacio apartigas
       pro iu &gcirc;ia propreco.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil eines Materials, den ein analytisches Verfahren aufgrund einer seiner Eigenschaften abtrennt.</dif>
     <subsnc mrk="frakci.0o.KEM">
       <uzo tip="fak">KEM</uzo>
       <dif>
@@ -179,6 +181,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch ein chemisches Verfahren abgetrennter Stoff.</dif>
     </subsnc>
     <subsnc mrk="frakci.0o.GRU">
       <uzo tip="fak">MIN</uzo>
@@ -196,6 +199,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit der Bodenteilchen, die eine Korngr&ouml;&szlig;enanalyse derselben Durchmesserklasse zugeordnet hat.</dif>
     </subsnc>
     <trd lng="be">&c_f;&c_r;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>
   </snc>
@@ -247,6 +251,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Organisierte Gruppe Gleichgesinnter innerhalb einer politischen Partei oder eines Parlaments.</dif>
     <trdgrp lng="be">
       <trd>&c_f;&c_r;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>,
       <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</trd>
@@ -374,6 +379,7 @@
   <dif>
     Rilata al <tld/>o:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Fraktion betreffend.</dif>
   <snc ref="frakci.0o.SCI">
       <ekz>
         &gcirc;i facile produkteblas per <tld/>a distilado de esencoleoj trovataj en multaj
@@ -749,6 +755,7 @@
         <trd lng="ru">&c_d;&c_v;&c_o;&c_i;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_d;&c_r;&c_o;&c_b;&c_mol;</ind></trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Systematischer Bruch zur Basis n.</dif>
   </snc>
 <trdgrp lng="en">
   <trd>n-ary fraction</trd>,

@@ -33,6 +33,7 @@
         </fnt>. respondis la kronprinco
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mauerwerk, das einem Bauwerk als Grundlage dient</dif>
     <refgrp tip="vid">
        <ref cel="grund.0o">grundo</ref>,
        <ref cel="piedes.0o">piedestalo</ref>,
@@ -83,6 +84,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nat&uuml;rliche Grundlage, auf der etwas Massives steht</dif>
   <trd lng="be">&c_p;&c_a;&c_d;&c_n;&c_o;&c_zh;&c_zh;&c_a; <klr>(&c_n;&c_a;&c_p;&c_r;. &c_g;&c_a;&c_r;&c_y;)</klr></trd>
   </snc>
   <snc mrk="fundam.0o.FIG">
@@ -135,6 +137,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wesentliche Grundlage, Hauptprinzip</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_d;&c_m;&c_u;&c_r;&c_a;&c_k;</trd>,
       <trd>&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;</trd>,
@@ -227,6 +230,7 @@
         <fnt><bib>F</bib> <lok>Anta&ubreve;parolo</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Buch von 1905, bestehend aus der Fundamenta Gramatiko, dem Ekzercaro und dem Universala Vortaro, von den Teilnehmern des ersten Esperanto-Weltkongresses als Grundgesetz der Internationalen Sprache anerkannt</dif>
   </snc>
   <trd lng="be">&c_A;&c_s;&c_n;&c_o;&c_v;&c_y; &c_e;&c_s;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_a;</trd>
   <trd lng="bo">&t_ra;&t_mata;&t_nga;&t_tsheg;&t_ga;&t_zha;&t_gigu;&t_tsheg;</trd>
@@ -266,6 +270,7 @@
         <trd lng="it">pietra angolare</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zum Fundament geh&ouml;rend</dif>
     <trd lng="be">&c_p;&c_a;&c_d;&c_m;&c_u;&c_r;&c_k;&c_o;&c_v;&c_y;</trd>
     <trd lng="ca">fonamental</trd>
     <trd lng="fr">de <ind>fondation</ind></trd>
@@ -308,6 +313,7 @@
         <fnt><bib>Fab2</bib>, <lok>Sonorilo</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wesentlich, grundlegend</dif>
   <refgrp tip="sin">
     <ref cel="baz.0o.principo">bazo</ref>,
     <ref cel="esenc.0o">esenco</ref>,
@@ -353,6 +359,7 @@
         <tld/>a vorto, radiko, parolmaniero.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zum Fundamento de Esperanto geh&ouml;rend oder ihm entsprechend</dif>
     <trd lng="be">&c_f;&c_u;&c_n;&c_d;&c_a;&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
     <trd lng="fr">fondamental<klr tip="ind"> (conforme au
     Fundamento)</klr></trd>
@@ -526,6 +533,7 @@
       Rigora, kaj foje la&ubreve;litera, obeado al originaj
       principoj, reguloj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Strenges, manchmal w&ouml;rtliches Befolgen urspr&uuml;nglicher Prinzipien und Regeln</dif>
     <subsnc mrk="fundam.0ismo.REL">
       <uzo tip="fak">REL</uzo>
       <dif>
@@ -559,6 +567,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Strenges Befolgen der Dogmen, Riten und Traditionen einer Religion</dif>
       <trd lng="es">fundamentalismo</trd>
       <trdgrp lng="it">
         <trd>fondamentalismo</trd>,
@@ -571,6 +580,7 @@
         Rigora obeado al la tradicio de la <ctl><tld lit="F"/>o de
         Esperanto</ctl>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Strenges Befolgen der Tradition des Fundamento de Esperanto</dif>
       <trd lng="it">fondamentismo</trd>
     </subsnc>
   </snc>
@@ -695,6 +705,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht den Prinzipien und sprachlichen Beschreibungen im Fundamento de Esperanto entsprechend</dif>
     <ref tip="vid" cel="konsti1.kontraux0a">kontra&ubreve;konstitucia</ref>
   </snc>
   <trd lng="en">antifundamentalist</trd>

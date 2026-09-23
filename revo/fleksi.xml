@@ -54,6 +54,7 @@
 	    </fnt>.
 	  </ekz>
 	</dif>
+	<dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">System der verschiedenen grammatischen Formen, die ein Wort annehmen kann; Beugung.</dif>
 	<refgrp tip="sub">
 	  <ref cel="deklin.0o">deklinacio</ref>,
 	  <ref cel="konjug1.0o">konjugacio</ref>.
@@ -127,6 +128,7 @@
 	  <ref tip="dif" cel="fleksi.0ebla">Fleksiebla</ref>
 	  <klr>(vorto, vortospeco)</klr>.
 	</dif>
+	<dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beugungsf&auml;hig (Wort, Wortart).</dif>
 <trd lng="be">&c_z;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y; <klr tip="amb">(&c_a;&c_b; &c_s;&c_l;&c_o;&c_v;&c_je;)</klr></trd>
 	<trd lng="es">flexivo</trd>
 	<trd lng="fr">variable<klr tip="ind"> (poss&egrave;dant une
@@ -141,6 +143,7 @@
 	  <ref tip="dif" cel="fand.kun0o">kunfanda</ref>
 	  <klr>(vorto)</klr>.
 	</dif>
+	<dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fusionierend (Sprache) oder fusioniert (Wort).</dif>
 <trd lng="be">&c_f;&c_l;&c_je;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
 	<trd lng="de" fnt="AI: fr ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">flektierend</trd>
 	<trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">inflectional</trd>
@@ -170,6 +173,7 @@
 	  <ref tip="sin" cel="vort.0formo">Vortformo</ref> aperanta
 	  en fleksiado.
 	</dif>
+	<dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wortform, die bei der Beugung auftritt.</dif>
         <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_f;&c_o;&c_r;&c_m;&c_a;</trd>
 	<trdgrp lng="de">
 	  <trd fnt="AI: fr hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Flexionsform</trd>,
@@ -191,6 +195,7 @@
 	  Karakterizas vorton a&ubreve; vortospecon, kiu povas varii la&ubreve;
 	  deklinacio a&ubreve; konjugacio.
 	</dif>
+	<dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kennzeichnet W&ouml;rter oder Wortarten, die sich durch Deklination oder Konjugation ver&auml;ndern k&ouml;nnen.</dif>
 	<trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">inflectable</trd>
 	<trd lng="fr">variable<klr tip="ind"> (poss&egrave;dant une
 	    flexion)</klr></trd>
@@ -219,6 +224,7 @@
 	    <tld/>ilo), kp <ctl>goose</ctl> kaj <ctl>geese</ctl>.
 	  </ekz>
 	</dif>
+	<dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sprachliches Mittel zur Bildung gebeugter Wortformen.</dif>
 <trd lng="be">&c_f;&c_l;&c_je;&c_k;&c_s;&c_ib;&c_ja;</trd>
 	<trd lng="de" fnt="AI: ru fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Flexiv</trd>
 	<trd lng="en">inflexion</trd>

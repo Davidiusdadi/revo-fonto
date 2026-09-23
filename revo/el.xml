@@ -12,6 +12,7 @@
   <dif>
     Prepozicio montranta:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;position, die angibt.</dif>
   <snc mrk="el.0.spaca">
     <dif>
       La limigitan spacon a&ubreve; la objekton, de kies interno io
@@ -172,6 +173,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den begrenzten Raum oder den Gegenstand, aus dessen Innerem sich etwas nach au&szlig;en bewegt.</dif>
     <trdgrp lng="pl">
       <trd>z</trd>,
       <trd>ze</trd>,
@@ -250,6 +252,7 @@
         <trd lng="fr"><klr>il faut</klr> faire de <ind>n&eacute;cessit&eacute;</ind> vertu</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den fr&uuml;heren Zustand von etwas, das sich ver&auml;ndert und verwandelt hat.</dif>
     <refgrp tip="vid">
       <ref cel="de">de</ref>,
       <ref cel="en.0.celstata">al en, en ...-n</ref>
@@ -384,6 +387,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den abstrakten Ursprung, die Ursache eines Gef&uuml;hls oder einer Idee, die Grundlage einer &Uuml;berlegung.</dif>
     <refgrp tip="vid">
       <ref cel="de">de</ref>,
       <ref cel="pro.0">pro</ref>
@@ -477,6 +481,7 @@
         <fnt><bib>MT</bib>, <lok>&Ezr; 10:1</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Menge, aus der man ein Element herausnimmt oder abstrahiert; die Herkunft eines vom Ganzen abgetrennten Teils.</dif>
     <refgrp tip="vid">
       <ref cel="inter">inter</ref>
     </refgrp>
@@ -588,6 +593,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Material, aus dem etwas besteht; die Bestandteile eines Ganzen.</dif>
     <trdgrp lng="pl">
       <trd>z</trd>,
       <trd>ze</trd>
@@ -841,6 +847,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Herausgehen lassen, herauswerfen, herauslassen.</dif>
     <refgrp tip="vid">
       <ref cel="vast.dis0igi">disvastigi</ref>,
       <ref cel="radi.0i">elradii</ref>,
@@ -896,6 +903,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Daten aus dem Computer ausgeben.</dif>
     <trd lng="de">ausgeben</trd>
     <trd lng="en">output <klr>(emit)</klr></trd>
     <trd lng="es">generar<klr tip="ind"> (datos,
@@ -925,6 +933,7 @@
         <lok>La Laguna: Stafeto, 1972. P. 189.</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In der Dreieinigkeit die Beziehung des Vaters (und, bei den r&ouml;mischen Katholiken, des Sohnes) zum Heiligen Geist.</dif>
     <rim>
       Tiu vorto respondas al la tradicio de la kristanismo
       okcidenta. La tradicio orienta uzas alian terminon,
@@ -984,6 +993,7 @@
         konjunktivito</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas, das herausgekommen, herausgedr&auml;ngt oder hervorgebracht worden ist.</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_h;&c_a;&c_d;</trd>,
       <trd>&c_v;&c_y;&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -1015,6 +1025,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ausgegebene Daten.</dif>
     <ref tip="super" cel="rezult.0o">rezulto</ref>
     <trd lng="be">&c_v;&c_y;&c_h;&c_o;&c_d;&c_n;&c_y;&c_ja; <ind>&c_z;&c_mol;&c_v;&c_je;&c_s;&c_t;&c_k;&c_ib;</ind></trd>
     <trd lng="de">Ausgabe</trd>
@@ -1109,6 +1120,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Irgendein Ger&auml;t, das etwas von sich gibt.</dif>
     <trd lng="de">Quelle <klr>(z.B. Licht-)</klr></trd>
     <trd lng="en">source <klr>(of light, etc.)</klr></trd>
     <trd lng="es">fuente <klr>(de luz etc.)</klr></trd>
@@ -1130,6 +1142,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t zum Ausgeben von Daten.</dif>
     <ref tip="malprt" cel="aparat.0aro.KOMP">aparataro</ref>
   <trd lng="en"><ind>output</ind> device</trd>
   <trdgrp lng="es">
@@ -1218,6 +1231,7 @@
   <dif>
     Prefikso montranta:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;fix, das angibt.</dif>
   <snc mrk="el.0_.prefikso_spaca">
     <dif>
       Direkton de la interno eksteren:
@@ -1385,6 +1399,7 @@
         <ref cel="ter.el0igi"><tld/>terigi</ref> trezoron.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Richtung von innen nach au&szlig;en.</dif>
   <trdgrp lng="en">
     <trd>from</trd>,
     <trd><ind>out</ind> of</trd>
@@ -1503,6 +1518,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den vollst&auml;ndigen Abschluss einer Handlung.</dif>
     <rim>
       Por esprimi tiun sencon oni pli ta&ubreve;ge uzas la prefiksojn
       <em>fin-</em> a&ubreve; <em>tut-</em>, a&ubreve; <em>for-</em>,
@@ -1597,6 +1613,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Erhalt, den Erwerb von etwas durch die von der Wurzel bezeichnete Handlung.</dif>
     <rim>
       En tiu senco la prefikso <em>per</em> estas anka&ubreve; ofte
       uzebla, kaj preferinda (perflati, <ref cel="labor.per0i">perlabori</ref>,

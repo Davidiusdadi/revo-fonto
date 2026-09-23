@@ -98,6 +98,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;u&szlig;ere Erscheinung eines Gegenstands im Raum.</dif>
     <lstref lst="voko:formoj"><tld/>oj</lstref>
     <refgrp tip="vid">
       <ref cel="arangx.0o.KOMUNE">aran&gcirc;o</ref>,
@@ -237,6 +238,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;u&szlig;ere Art und Weise, wie sich etwas zeigt oder wirkt.</dif>
     <refgrp tip="vid">
       <ref cel="spec.0o">speco</ref>
     </refgrp>
@@ -273,6 +275,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;u&szlig;ere Erscheinung im Gegensatz zum Inhalt, zum Wesen.</dif>
     <refgrp tip="vid">
       <ref cel="redakt.0o">redakto</ref>,
       <ref cel="stil.0o">stilo</ref>
@@ -312,6 +315,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;u&szlig;ere Art und Weise, wie man handelt, in &Uuml;bereinstimmung mit allgemein geltenden Regeln.</dif>
     <refgrp tip="vid">
       <ref cel="etiket.0o">etiketo</ref>
     </refgrp>
@@ -353,6 +357,7 @@
       korpo <frm><g>K</g></frm> (a&ubreve; kartezia produto de
       <frm><g>E</g></frm> kun si mem) al <frm><g>K</g></frm>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abbildung eines Vektorraums E &uuml;ber einem K&ouml;rper K (oder des kartesischen Produkts von E mit sich selbst) nach K.</dif>
     <refgrp tip="vid">
       Atributoj de formo:
       <ref cel="linear.0a.homomorfio">lineara</ref>,
@@ -503,6 +508,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf die &auml;u&szlig;ere Erscheinung von etwas bezogen.</dif>
     <refgrp tip="vid">
       <ref cel="formal.0a">formala</ref>
     </refgrp>
@@ -851,6 +857,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas erschaffen, machen, hervorbringen, indem man ihm eine bestimmte Form gibt; nach einer bestimmten Form anordnen.</dif>
     <refgrp tip="vid">
       <ref cel="eduk.0i">eduki</ref>,
       <ref cel="kultur.0i">kulturi</ref>,
@@ -941,6 +948,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas bilden, hervorbringen, indem man selbst eine bestimmte Form annimmt; sich in einer bestimmten Form darstellen.</dif>
     <refgrp tip="vid">
       <ref cel="rezult.0igi">rezultigi</ref>
     </refgrp>
@@ -2106,6 +2114,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die gleiche Form, das gleiche Aussehen haben.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_je;&c_c;&c_mol; &c_a;&c_d;&c_n;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_v;&c_u;&c_ju;
@@ -2191,6 +2200,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erscheinend, sich darstellend mit dem Aussehen, dem Anschein, der Form von ...</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d; <ind>&c_f;&c_o;&c_r;&c_m;&c_a;&c_j;</ind></trd>,
@@ -2262,6 +2272,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Umformung.</dif>
     <trd lng="fr">transformation</trd>
     <trdgrp lng="pl">
       <trd>przekszta&lstroke;cenie</trd>,
@@ -2282,6 +2293,7 @@
       <ref tip="super" cel="bild.0igo.MAT">Bildigo</ref>, plejofte
       de <ref cel="spac.afina0o">afina spaco</ref> al &gcirc;i mem.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abbildung, meist eines affinen Raums auf sich selbst.</dif>
     <refgrp tip="sub">
       <ref cel="lok.de0igo.MAT">delokigo</ref>,
       <ref cel="homote.0o">homotetio</ref>,
