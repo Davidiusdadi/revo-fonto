@@ -14,6 +14,7 @@
   <dif>
     Prepozicio, kies sencoj kaj funkcioj estas:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;position mit folgenden Bedeutungen und Funktionen.</dif>
   <snc mrk="al.0.loke_cele">
     <subsnc mrk="al.0.prep_proksimigxo">
       <dif>
@@ -91,6 +92,7 @@
           <fnt><bib>MT</bib>, <lok>&Jer; 29:11</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Richtung anhand eines Orientierungspunktes ausdr&uuml;cken, n&auml;mlich die Richtung, in der sich der betreffende Gegenstand befindet.</dif>
       <trd lng="bg">&c_n;&c_a;</trd>
       <trd lng="ca">cap a</trd>
       <trdgrp lng="en">
@@ -193,6 +195,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Ziel einer Bewegung, einer Handlung, eines Gef&uuml;hls, eines Gedankens, eines Willens.</dif>
       <refgrp tip="vid">
         <ref cel="gxis.0.prep">&gcirc;is</ref>,
         <ref cel="n.0.direkto">-n<sncref/></ref>
@@ -428,6 +431,7 @@
         <trd lng="pl">jajko dla biednego jest jak w&oacute;&lstroke; dla bogacza</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen analytischen Dativ bilden.</dif>
     <rim num="1">
       La parolantoj de la lingvoj perdintaj dativon, &ccirc;e la
       verboj netransitivaj ofte anstata&ubreve;igas &gcirc;in per
@@ -534,6 +538,7 @@
         <fnt><bib>MT</bib> <lok>&Rea; 21:11</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Attribut, eine Bestimmung, eine Zugeh&ouml;rigkeit angeben.</dif>
     <trdgrp lng="hu">
       <trd>-<ind>nak</ind></trd>,
       <trd>-<ind>nek</ind></trd>
@@ -670,6 +675,7 @@
         &c_t;&c_o;&c_v;&c_a;&c_r;&c_i;&c_shch;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bezug.</dif>
     <refgrp tip="sin">
       <ref cel="kun">kun</ref>,
       <ref cel="kontraux">kontra&ubreve;</ref>,
@@ -710,6 +716,7 @@
         <fnt><bib>MT</bib> <lok>&Sen; 9:11</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Addition, Erg&auml;nzung.</dif>
     <refgrp tip="sin">
       <ref cel="plus.0">plus</ref>
     </refgrp>
@@ -802,6 +809,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Grammatische Beziehung zwischen einem Substantiv verbaler Herkunft oder mit verbaler Bedeutung und seiner Objekterg&auml;nzung.</dif>
     <rim>
       La&ubreve; PV, &leftquot;tiu uzo de <em>al</em> por anstata&ubreve;i post
       substantivo la akuzativon, kiu estus normala post la
@@ -892,6 +900,7 @@
         <trd lng="pl">dzi&eogonek;ki komu&sacute;/czemu&sacute;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nach einem Adjektiv oder Adverb eine mehr oder weniger genaue Beziehung &uuml;bertragener N&auml;he oder Ferne.</dif>
     <trdgrp lng="hu">
       <trd>-<ind>nak</ind></trd>,
       <trd>-<ind>nek</ind></trd>
@@ -1108,6 +1117,7 @@
         <fnt><bib>I&scirc;tar</bib> <lok>&ccirc;apitro 5a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas zu einem Teil oder Begleiter von etwas anderem machen.</dif>
     <refgrp tip="vid">
       <ref cel="don.al0i">aldoni</ref>,
        <ref cel="far.al0i">alfari</ref>,
@@ -1244,6 +1254,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil, Mitglied, Begleiter oder Teilnehmer von etwas werden.</dif>
     <refgrp tip="vid">
        <ref cel="adher.0i">adheri</ref>,
        <ref cel="akompa.0i">akompani</ref>,
@@ -1561,6 +1572,7 @@
     <tld/><sncref ref="al.0.prep_koncerno"/>,
     <tld/><sncref ref="al.0.prep_de"/>:
   </dif>
+  <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;fix mit den Bedeutungen der Pr&auml;position.</dif>
   <snc ref="al.0.prep_proksimigxo">
     <ekz>
       <ref cel="ven.al0i"><tld/>veni</ref>,

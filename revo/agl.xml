@@ -44,6 +44,7 @@
         </fnt>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gattung aus der Familie der Habichtartigen sowie &auml;hnliche Greifv&ouml;gel mit gebogenem Schnabel</dif>
     <trdgrp lng="zh">
     <trd>&#x963F;&#x5FB7;&#x52D2; <pr>&amacron;d&eacute;l&emacron;i</pr></trd>,
     <trd>&#20803;&#x91D1;&#x5E01; <pr>yu&aacute;nj&imacron;nb&igrave;</pr></trd>,
@@ -99,6 +100,7 @@
       Ekvatora <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref> (<trd
       lng="la">Aquila</trd>).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sternbild am Himmels&auml;quator</dif>
     <trdgrp lng="zh">
     <trd>&#22825;&#x9DF9;&#x5EA7; <pr>ti&amacron;ny&imacron;ngzu&ograve;</pr></trd>,
     <trd>&#22825;&#x9E70;&#x5EA7; <pr>ti&amacron;ny&imacron;ngzu&ograve;</pr></trd>
@@ -221,6 +223,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gro&szlig;er Greifvogel, der Fische f&auml;ngt; Gattung aus der Familie der Adler</dif>
     <trd lng="zh">&#x96CE; <pr>j&umacron;</pr></trd>
 </snc>
   <ref tip="sin" cel="pandio.0o">pandiono</ref>
@@ -323,6 +326,7 @@
       (<trd lng="la">Haliae&euml;tus leucoryphus</trd> a&ubreve;
        <trd lng="la">Haliaeetus leucoryphus</trd>).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art der Seeadler</dif>
     <bld
     lok="&WCU;/thumb/f/f1/Haliaeetus_leucoryphus_-Corbett_National_Park%2C_Uttarakhand,_India-8.jpg/500px-Haliaeetus_leucoryphus_-Corbett_National_Park%2C_Uttarakhand%2C_India-8.jpg"
     prm="CC BY 2.0">Blankkola mar<tld/>o en Nacia Parko Corbett, Uttarakhand, Barato
@@ -373,6 +377,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art der Seeadler</dif>
     <bld
     lok="&WCU;/thumb/a/a5/Haliaeetus_albicilla_(Svolv%C3%A6r%2C_2012).jpg/500px-Haliaeetus_albicilla_(Svolv%C3%A6r%2C_2012).jpg"
     prm="CC BY-SA 3.0">Blankvosta mar<tld/>o, en Svolvaer, Norvegujo
@@ -503,6 +508,7 @@
     <dif>
       Specio de <ref tip="super" cel="agl.0o">aglo</ref> (<trd lng="la">Aquila rapax</trd>).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art der Adler</dif>
     <trd lng="ca">&agrave;guila rapa&ccedil;</trd>
     <trd lng="de" fnt="AI: en la cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Raubadler</trd>
     <trd lng="it"><ind>aquila</ind> rapace</trd>
@@ -596,6 +602,7 @@
     <dif>
       Specio de <ref tip="super" cel="agl.0o">aglo</ref> (<trd lng="la">Aquila pomarina</trd>).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art der Adler</dif>
     <ref tip="sin" cel="agl.eta_kri0o">eta kriaglo</ref>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_d;&c_v;&c_o;&c_r;&c_l;&c_ib;&c_k; &c_m;&c_a;&c_l;&c_y;</trd>,
@@ -682,6 +689,7 @@
       (<trd lng="la">Hieraa&euml;tus pennatus</trd> a&ubreve;
        <trd lng="la">Hieraaetus pennatus</trd>).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art der Adler</dif>
     <trd lng="be">&c_a;&c_r;&c_o;&c_l;-&c_k;&c_a;&c_r;&c_l;&c_ib;&c_k;</trd>
     <trd lng="ca">&agrave;guila cal&ccedil;ada</trd>
     <trd lng="de" fnt="AI: en sv be la; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zwergadler</trd>

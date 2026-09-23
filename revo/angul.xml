@@ -71,6 +71,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ort, an dem zwei oder mehr Fl&auml;chen zusammentreffen.</dif>
     <refgrp tip="vid">
       <ref cel="kav.0o">kavo</ref>,
       <ref cel="nicx.0o.ARKI">ni&ccirc;o<sncref/></ref>,
@@ -98,6 +99,7 @@
         kiun limas du <ref cel="rekt.duon0o">duonrektoj</ref> kun
         komuna origino.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ebene Fl&auml;che, die von zwei Halbgeraden mit gemeinsamem Ursprung begrenzt wird.</dif>
       <refgrp tip="sin">
         <ref cel="sektor.0o.de_ebeno">sektoro</ref>;
       </refgrp>
@@ -135,6 +137,7 @@
         (&gcirc;ia <ref tip="prt" cel="vertic.0o.angulo">vertico</ref>).
         </klr>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Paar von Halbgeraden (seine Schenkel) mit gemeinsamem Ursprung (sein Scheitel).</dif>
     </subsnc>
     <subsnc mrk="angul.0o.solida">
       <ref tip="vid" cel="angul.solida0o">solida <tld/>o</ref>
@@ -160,6 +163,7 @@
           vertico al la kavadrato de la radiuso de tiu sfero.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ma&szlig; eines Winkels.</dif>
       <refgrp tip="vid">
         Mezurunuoj de angulo:
         <ref cel="grad.0o.unuo">grado</ref>,
@@ -248,6 +252,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Enger oder abgelegener, selten besuchter oder beachteter Ort.</dif>
     <refgrp tip="vid">
       <ref cel="nicx.0o.ARKI">ni&ccirc;o<sncref/></ref>
     </refgrp>
@@ -834,6 +839,7 @@
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 24a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von der Form eines Dreiecks; auf ein Dreieck bezogen.</dif>
     <trdgrp lng="be">
       <trd>&c_t;&c_r;&c_o;&c_h;&c_k;&c_u;&c_t;&c_n;&c_y;</trd>,
       <trd>&c_t;&c_r;&c_o;&c_h;&c_v;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_y;</trd>
@@ -863,6 +869,7 @@
         <ref cel="diagon.0a.elemento">diagonalaj</ref> elementoj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer (n,n)-Matrix) So beschaffen, dass alle Elemente unterhalb der Diagonale null sind; alternativ: dass alle Elemente oberhalb der Diagonale null sind.</dif>
     <trd lng="be">&c_t;&c_r;&c_o;&c_h;&c_v;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_ja; <klr>(&c_m;&c_a;&c_t;&c_r;&c_y;&c_c;&c_a;)</klr></trd>
     <trd lng="de">Dreiecks-<klr tip="amb">(matrix)</klr></trd>
     <trd lng="en">triangular<klr tip="ind"> (matrix)</klr></trd>
@@ -1075,6 +1082,7 @@
       Sud-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Triangulum Australe</trd>).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sternbild des S&uuml;dhimmels.</dif>
   </snc>
   <trd lng="be">&c_P;&c_a;&c_w;&c_d;&c_n;&c_jo;&c_v;&c_y; <ind>&c_T;&c_r;&c_y;&c_k;&c_u;&c_t;&c_n;&c_ib;&c_k;</ind> <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#8217;&c_je;)</klr></trd>
   <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">S&uuml;dliches Dreieck</trd>

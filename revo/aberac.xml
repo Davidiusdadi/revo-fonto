@@ -27,6 +27,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abweichen, vom normalen, zu erwartenden Zustand abkommen.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_h;&c_ib;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>,
@@ -79,11 +80,13 @@
         2008-07-10</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abweichung vom normalen Zustand.</dif>
     <subsnc mrk="aberac.0o.AST">
       <uzo tip="fak">AST</uzo>
       <dif>
         Diferenco inter la &scirc;ajna kaj vera situo de astro.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unterschied zwischen der scheinbaren und der wahren Position eines Gestirns.</dif>
       <trd lng="da">afvigelse</trd>
       <trd lng="de">Abweichung</trd>
       <trdgrp lng="pl">
@@ -102,12 +105,14 @@
         Disperso de la lumradioj, kiu kontra&ubreve;staras la
         formi&gcirc;on de preciza bildo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Streuung der Lichtstrahlen, die der Entstehung eines scharfen Bildes entgegensteht.</dif>
     </subsnc>
     <subsnc mrk="aberac.0o.FOT">
       <uzo tip="fak">FOT</uzo>
       <dif>
         Malperfekto de bildo misformita de optika sistemo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unvollkommenheit eines durch ein optisches System verzerrten Bildes.</dif>
       <trd lng="de">Abbildungsunsch&auml;rfe</trd>
       <trdgrp lng="pl">
         <trd>aberracja<klr> &sacute;wiat&lstroke;a</klr></trd>,
@@ -120,6 +125,7 @@
       <dif>
         Devio disde la normala tipo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abweichung vom normalen Typ.</dif>
       <trd lng="pl">ob&lstroke;&eogonek;d</trd>
     </subsnc>
     <trd lng="zh">&#x50CF;&#x5DEE; <pr>xi&agrave;ngch&amacron;</pr></trd>

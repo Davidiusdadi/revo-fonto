@@ -109,6 +109,7 @@
           &lambda;*f<sub>&lambda;</sub></frm> )</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Skalar &lambda;, bezogen auf einen Endomorphismus f eines Vektorraums) So beschaffen, dass f einen vom Nullvektor verschiedenen Vektor x auf &lambda;&middot;x abbildet; anders gesagt: so, dass der Kern von f-&lambda;&middot;idE nicht gleich {0} ist</dif>
   </snc>
   <snc mrk="ajgen.0a.subspaco">
     <dif>
@@ -128,6 +129,7 @@
         <ref cel="komple1.0a.vektorasubspaco">komplementaj</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Unterraum eines Vektorraums E, bezogen auf einen Endomorphismus f darin) Gleich dem Kern von f-&lambda;&middot;idE f&uuml;r einen Eigenwert &lambda;</dif>
   </snc>
   <snc mrk="ajgen.0a.vektoro">
     <dif>
@@ -145,6 +147,7 @@
         estas sen&scirc;an&gcirc;a per <frm am="f">f</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Vektor x, bezogen auf einen Endomorphismus f eines Vektorraums) Vom Nullvektor verschieden und einem Eigenraum von f angeh&ouml;rend</dif>
   </snc>
   <rim>
     La naciaj lingvoj nomas tiujn nociojn per adjektivoj de la tipo
