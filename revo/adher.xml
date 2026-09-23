@@ -170,6 +170,7 @@
         </trdgrp>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Such that it adheres.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass es haftet</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_g;&c_je;&c_z;&c_ib;&c_w;&c_n;&c_y;</trd>,
@@ -230,6 +231,7 @@
           a&ubreve; izolita punkto de &gcirc;i.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a point x in a topological space, relative to a subset A of that space) Such that every neighbourhood of x contains points in A.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt x in einem topologischen Raum, bezogen auf eine Teilmenge A davon) So beschaffen, dass jede Umgebung von x Punkte aus A enth&auml;lt</dif>
       <rim>
         Anstata&ubreve; <ctl><tld/>a punkto</ctl> troveblas
@@ -274,6 +276,7 @@
           <frm am="a">a</frm> kaj <frm am="-a">-a</frm>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a point b in a metric space, relative to a sequence) Such that a subsequence of the sequence under consideration converges to b.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt b in einem metrischen Raum, bezogen auf eine Folge) So beschaffen, dass eine Teilfolge der betrachteten Folge gegen b konvergiert</dif>
       <trdgrp lng="de">
         <trd>Adh&auml;renz-<klr tip="amb">(punkt)</klr></trd>,
@@ -318,6 +321,7 @@
         </ref>
         de <frm am="a">a</frm>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a point b in a topological space F, relative to a mapping f from a topological space E to F at a point a of E) Such that it is adherent to the image under f of every neighbourhood of a.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt b in einem topologischen Raum F, bezogen auf eine Abbildung f des topologischen Raums E in F, an einem Punkt a von E) So beschaffen, dass er adh&auml;rent zum Bild jeder Umgebung von a unter f ist</dif>
       <refgrp tip="vid">
         <ref cel="infim.limes0o.funkcio">limesinfimo</ref>,

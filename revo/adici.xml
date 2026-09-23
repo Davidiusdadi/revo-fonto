@@ -66,6 +66,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To add numbers or quantities to one another and combine them into a single result.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zahlen oder Mengen zueinander hinzuf&uuml;gen und zu einer einzigen zusammenfassen.</dif>
     <rim num="1" mrk="adici.0i.MB">
       En nefaka kunteksto oni povas diri
@@ -191,6 +192,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The operation of adding.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Operation des Addierens.</dif>
     <trdgrp lng="zh">
       <trd>&#x52A0;&#x4E0A; <pr>ji&amacron;sh&agrave;ng</pr></trd>,
@@ -206,6 +208,7 @@
       <klr>(en <ref cel="ring.0o.MAT">ringo</ref>)</klr> &Gcirc;ia unua
       <ref tip="super" cel="operac.0o.MAT">operacio</ref>.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(In a ring) Its first operation.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem Ring) Die erste Operation des Rings.</dif>
   </snc>
   <refgrp tip="vid">
@@ -355,6 +358,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(For two (n,p)-matrices) An operation consisting of element-by-element addition.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(zweier (n,p)-Matrizen) Operation, die in einer elementweisen Addition besteht.</dif>
     <trdgrp lng="zh">
     <trd>&#x6998;&#x9663;&#x52A0;&#x6CD5; <pr>j&#x1D4;zh&egrave;nji&amacron;f&#x1CE;</pr></trd>,
