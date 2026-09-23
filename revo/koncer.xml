@@ -221,6 +221,10 @@
             <lok>2000/02, p. 11</lok>
           </fnt>.
       </ekz>
+      <trdgrp lng="de">
+        <trd fnt="AI: hu nl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">betreffend</trd>,
+        <trd fnt="AI: hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fraglich</trd>
+      </trdgrp>
       <trd lng="hu">sz&oacute;ban forg&oacute;</trd>
     </subsnc>
     <subsnc>
@@ -259,6 +263,7 @@
         </fnt>.
       </ekz>
     </subsnc>
+    <trd lng="de" fnt="AI: fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">betroffen</trd>
     <trdgrp lng="es">
       <trd>preocupado</trd>,
       <trd>interesado</trd>
@@ -629,6 +634,10 @@
   </snc>
   <trd
   lng="be">&c_z;&c_a;&c_k;&c_l;&c_a;&c_p;&c_o;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en id pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anteilnahme</trd>,
+    <trd fnt="AI: en fr es pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Besorgnis</trd>
+  </trdgrp>
   <trd lng="en">concern</trd>
   <trd lng="es">preocupaci&oacute;n</trd>
   <trd lng="fr">souci<klr> (de qqch)</klr></trd>

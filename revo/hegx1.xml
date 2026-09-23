@@ -59,6 +59,10 @@
   </snc>
   <ref tip="vid" cel="hegx.0o">he&gcirc;o</ref>
   <trd lng="be">&c_h;&c_e;&c_d;&c_zh;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hedgen</trd>,
+    <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">absichern</trd>
+  </trdgrp>
   <trd lng="en">hedge <klr>(economics)</klr></trd>
   <trd lng="pl">zabezpiecza&cacute; <klr>(ceny)</klr></trd>
 </drv>

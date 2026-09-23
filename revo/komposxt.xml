@@ -59,6 +59,7 @@
     <trd lng="fr">compostage</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kompostierung</trd>
   <trd lng="en">composting</trd>
   <trd lng="pl">kompostowanie</trd>
 </drv>
@@ -91,6 +92,7 @@
     <trd lng="fr">composter</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kompostieren</trd>
   <trd lng="en">compost</trd>
   <trd lng="pl">nawozi&cacute; <ind>kompostem</ind></trd>
 </drv>
@@ -116,6 +118,7 @@
     <trd lng="fr">compostable</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_d;&c_a;&c_t;&c_n;&c_y; &c_d;&c_a; <ind>&c_k;&c_a;&c_m;&c_p;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kompostierbar</trd>
   <trd lng="en">compostable</trd>
   <trd lng="pl">kompostowalny</trd>
 </drv>
@@ -139,6 +142,10 @@
     <trd lng="fr">composteur</trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_o;&c_s;&c_t;&c_n;&c_a;&c_ja; <ind>&c_ja;&c_m;&c_a;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Komposter</trd>,
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kompostbeh&auml;lter</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd><ind>compost</ind> bin</trd>,
     <trd><ind>compost</ind> heap</trd>

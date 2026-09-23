@@ -584,6 +584,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich erhalten</trd>,
+    <trd fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erhalten bleiben</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>keep<klr> (vi) (from spoiling)</klr></trd>,
     <trd>be <ind>kept</ind></trd>
@@ -944,6 +948,7 @@ lng="th">&#xE01;&#xE32;&#xE23;&#xE40;&#xE01;&#xE47;&#xE1A;&#xE23;&#xE31;&#xE01;&
       <tld/>emulo.
     </dif>
   <trd lng="be">&c_k;&c_a;&c_n;&c_s;&c_e;&c_r;&c_v;&c_a;&c_t;&c_a;&c_r;</trd>
+  <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Konservativer</trd>
   </snc>
   <trd lng="en">conservator</trd>
   <trd lng="fr">conservateur<klr> (subst.)</klr></trd>

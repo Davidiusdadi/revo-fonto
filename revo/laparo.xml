@@ -59,6 +59,10 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_o;&c_b;&c_n;&c_a;&c_ja; <ind>&c_l;&c_ja;&c_p;&c_a;&c_r;&c_a;&c_t;&c_a;&c_m;&c_ib;&c_ja;</ind></trd>
   <trd lng="ca"><ind>laparotomia</ind> exploradora</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl hu ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Probelaparotomie</trd>,
+    <trd fnt="AI: en ca pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">explorative Laparotomie</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>exploratory <ind>laparotomy</ind></trd>,
     <trd>exploratory <ind>celiotomy</ind></trd>

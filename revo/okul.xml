@@ -637,6 +637,10 @@
     <trd>&c_l;&c_u;&c_p;&c_ib;&c_c;&c_mol; <ind>&c_v;&c_o;&c_ch;&c_y;</ind></trd>
   </trdgrp>
   <trd lng="cs">civ&ecaron;t</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk be fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">glotzen <klr>[ugs.]</klr></trd>,
+    <trd fnt="AI: cs sk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stieren</trd>
+  </trdgrp>
   <trd lng="fr">zyeuter</trd>
   <trd lng="sk">civie&tcaron;</trd>
   <trd lng="zh">&#x779F; <pr>pi&#x1CE;o</pr></trd>

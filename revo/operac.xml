@@ -862,6 +862,10 @@
   </snc>
   <trd lng="be">&c_d;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je; <ind>&c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_j;</ind></trd>
   <trd lng="cs">opera&ccaron;n&iacute; pr&uring;zkum</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Operations Research</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unternehmensforschung</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>operational research</trd>,
     <trd>operations research</trd>

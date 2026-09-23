@@ -28,6 +28,7 @@
       <dif>
         (maj.) signo de formo: <ekz> L-fero;</ekz>
       </dif>
+      <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">L</trd>
       <trd lng="fr">L<klr> (forme de)</klr></trd>
       <trd lng="pl">L<klr> (w kszta&lstroke;cie)</klr></trd>
     </subsnc>
@@ -44,15 +45,18 @@
       <dif>
         (min.) mallongigo de litro: <ekz>l.</ekz>
       </dif>
+      <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Liter</trd>
       <trd lng="fr">litre<klr> (abr&eacute;viation)</klr></trd>
       <trd lng="pl">litr <klr> (skr&oacute;t)</klr></trd>
     </subsnc>
   <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a; l</trd>
+  <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">L</trd>
   <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">el</trd>
   </snc>
   <snc mrk="l.0.telefone">
      <ref tip="vid" cel="hola.0">halo!</ref>
   <trd lng="be">&c_a;&c_l;&c_jo;!</trd>
+  <trd lng="de" fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hallo</trd>
   </snc>
 </drv>
 

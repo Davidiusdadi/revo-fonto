@@ -347,6 +347,10 @@ intermittent)</klr></trd>,
     <trd>&c_b;&c_je;&c_s;&c_mol;&c_p;&c_je;&c_r;&c_a;&c_p;&c_y;&c_n;&c_n;&c_y;</trd>,
     <trd>&c_b;&c_je;&c_s;&c_mol;&c_p;&c_je;&c_r;&c_a;&c_r;&c_y;&c_w;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ununterbrochen</trd>,
+    <trd fnt="AI: en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unabl&auml;ssig</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>continuous</trd>,
     <trd>ceaseless</trd>

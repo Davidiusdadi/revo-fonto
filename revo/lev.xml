@@ -687,6 +687,7 @@
           <vrk>Internacio</vrk></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich auflehnen</trd>
     <trd lng="en"><ind>rise</ind> up <klr>(rebel)</klr></trd>
     <trd lng="ru">&c_v;&c_o;&c_s;&c_s;&c_t;&c_a;&c_t;&c_mol;</trd>
   </snc>
@@ -833,6 +834,7 @@
         <fnt><bib>NT</bib><lok>&Rom; 13:11</lok></fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Aufstieg</trd>
   <trdgrp lng="en">
     <trd>lifting</trd>,
     <trd>raising</trd>,
@@ -1300,6 +1302,10 @@
         <fnt><bib>MT</bib> <lok>&Kr2; 18:34</lok></fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Senkung</trd>,
+    <trd fnt="AI: hu ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sinken</trd>
+  </trdgrp>
   <trd lng="en">lowering</trd>
   </snc>
   <trdgrp lng="be">
@@ -1359,6 +1365,7 @@
       <trd>&c_p;&c_a;&c_d;&c_y;&c_m;&c_a;&c_c;&c_mol; <klr>(&c_z;&c_n;&c_o;&c_w;, &c_n;&c_a; &c_k;&c_o;&c_l;&c_ib;&c_sh;&c_n;&c_ib; &c_w;&c_z;&c_r;&c_o;&c_v;&c_je;&c_n;&c_mol;)</klr></trd>,
       <trd>&c_a;&c_d;&c_n;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wieder aufrichten</trd>
     <trdgrp lng="en">
       <trd>raise <klr>(from a previous lower state)</klr></trd>,
       <trd><ind>raise</ind> again</trd>,
@@ -1387,6 +1394,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_u;&c_v;&c_a;&c_s;&c_k;&c_r;&c_a;&c_sh;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: en fr pl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auferwecken</trd>
     <trdgrp lng="en">
       <trd>resurrect</trd>,
       <trd>raise <klr>(from death)</klr></trd>
@@ -1436,6 +1444,10 @@
     </dif>
     <trd lng="be">&c_p;&c_a;&c_w;&c_s;&c_t;&c_a;&c_c;&c_mol;
       <klr>(&c_z;&c_n;&c_o;&c_w;)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wieder aufstehen</trd>,
+      <trd fnt="AI: fr hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich wieder erheben</trd>
+    </trdgrp>
     <trd lng="en">become <ind>raised</ind> <klr>(from a previous lower state)</klr></trd>
     <trdgrp lng="hu">
       <trd>&uacute;jra felemelkedik</trd>,
@@ -1467,6 +1479,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_u;&c_v;&c_a;&c_k;&c_s;&c_r;&c_e;&c_s;&c_n;&c_u;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: en fr hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auferstehen</trd>
     <trdgrp lng="en">
       <trd>become <ind>resurrected</ind></trd>,
       <trd>become <ind>raised</ind> <klr>(from death)</klr></trd>
@@ -1538,6 +1551,7 @@
         </fnt>.
       </ekz>
       <trd lng="be">&c_u;&c_v;&c_a;&c_s;&c_k;&c_r;&c_e;&c_s;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
+      <trd lng="de" fnt="AI: en fr ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Auferstehung</trd>
       <trd lng="en">resurrection</trd>
       <trd lng="fr">r&eacute;surrection</trd>
       <trd lng="ru">&c_v;&c_o;&c_s;&c_k;&c_r;&c_je;&c_s;&c_je;&c_n;&c_i;&c_je;</trd>

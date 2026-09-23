@@ -842,6 +842,10 @@
       <trd>sorgir</trd>,
       <trd>eixir</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entstehen</trd>,
+      <trd fnt="AI: hu id ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufkommen</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>sz&uuml;letik</trd>,
       <trd>t&aacute;mad <klr tip="ind">(l&eacute;trej&ouml;n)</klr></trd>,
@@ -1864,6 +1868,7 @@
       la konfuzo inter &leftquot;<ref cel="viv.mal0a">malviva</ref>&rightquot;
       kaj <ctl>morta</ctl> estas evitinda kaj kontra&ubreve;fundamenta.
     </rim>
+    <trd lng="de" fnt="AI: ref id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">totgeboren</trd>
     <trd lng="es"><klr>(expresi&oacute;n err&oacute;nea, debe ser malvive y no
     morte)</klr></trd>
   </snc>

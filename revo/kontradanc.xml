@@ -31,6 +31,10 @@
     <trd>contredanse</trd>,
     <trd>kontratanec</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Kontertanz</trd>,
+    <trd fnt="AI: fr cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Contredanse</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>contradance</trd>,
     <trd>country-dance</trd>

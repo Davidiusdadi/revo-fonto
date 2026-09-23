@@ -826,6 +826,11 @@
       <trd>&c_p;&c_a;&c_k;&c_r;&c_y;&c_c;&c_mol;&c_c;&c_jo;</trd>,
       <trd>&c_p;&c_o;&c_k;&c_r;&c_y;&c_w;&c_k;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bedeckung</trd>,
+      <trd fnt="AI: pl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">H&uuml;lle</trd>,
+      <trd fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;berzug</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>burkolat</trd>,
       <trd>fed&odblac;r&eacute;teg</trd>,

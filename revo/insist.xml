@@ -92,6 +92,10 @@
       <ref cel="relief.0igi.FIG">reliefigi<sncref/></ref>,
       <ref cel="strek.sub0i">substreki</ref>
     </refgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">betonen</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hervorheben</trd>
+  </trdgrp>
   <trd lng="id"><baz>tekan</baz>menekankan</trd>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -325,6 +329,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_t;&c_o;&c_j;&c_l;&c_ib;&c_v;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nachdr&uuml;cklich</trd>,
+    <trd fnt="AI: hu ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beharrlich</trd>,
+    <trd fnt="AI: nl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">eindringlich</trd>
+  </trdgrp>
   <trd lng="en">insistently</trd>
   <trdgrp lng="fr">
     <trd>avec <ind>insistance</ind></trd>,
@@ -431,6 +440,10 @@
         ref="http://www.sezonoj.itgo.com/Stal2-6.htm">http://www.sezonoj.itgo.com/Stal2-6.htm</url></lok></fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: hu ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beharrlich</trd>,
+    <trd fnt="AI: pl cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hartn&auml;ckig</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>suka berkeras</trd>,
     <trd>suka bersikeras</trd>,
@@ -456,6 +469,10 @@
       En &ccirc;i tiu malofta senco eblus vidi la nuancon, ke la
       <tld/>o estas tamen vualita.
     </rim>
+  <trdgrp lng="de">
+    <trd fnt="AI: en id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">eindringlich</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beharrlich</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>insisten</trd>,
     <trd>gigih</trd>,

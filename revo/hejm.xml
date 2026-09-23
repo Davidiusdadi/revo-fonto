@@ -298,6 +298,7 @@
       <trd>&c_s;&c_v;&c_o;&c_j;</trd>,
       <trd>&c_r;&c_o;&c_d;&c_n;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: pl be ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">h&auml;uslich</trd>
     <trd lng="en">home</trd>
     <trdgrp lng="hu">
       <trd>otthoni</trd>,
@@ -339,6 +340,7 @@
       <trd>&c_h;&c_a;&c_t;&c_n;&c_ib;</trd>,
       <trd>&c_s;&c_v;&c_o;&c_j;&c_s;&c_k;&c_ib;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">domestiziert</trd>
     <trd lng="en">domestic <klr>(living in a house, not wild)</klr></trd>
     <trd lng="hu">h&aacute;zi</trd>
     <trd lng="pl">domowy</trd>
@@ -542,6 +544,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wohnen</trd>
   <trdgrp lng="en">
     <trd>reside</trd>,
     <trd>live <klr>(reside)</klr></trd>
@@ -567,10 +570,12 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heimisch sein</trd>
   <trd lng="en">live <klr>(pass life in a specified manner, medium, or place)</klr></trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;
   <ind>&c_d;&c_o;&c_m;&c_a;</ind></trd>
+  <trd lng="de" fnt="AI: fr it pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zu Hause sein</trd>
   <trd lng="es">estar es casa</trd>
   <trdgrp lng="fr">
     <trd>&ecirc;tre &agrave; la maison</trd>,
@@ -692,6 +697,7 @@
     </dif>
     <trd lng="be">&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;
     <ind>&c_p;&c_r;&c_y;&c_t;&c_u;&c_l;&c_a;&c_k;</ind></trd>
+    <trd lng="de" fnt="AI: ru be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beheimaten</trd>
     <trd lng="en">make for one a <ind>home</ind></trd>
     <trd lng="ru">&c_d;&c_a;&c_t;&c_mol; &c_k;&c_r;&c_o;&c_v;</trd>
   </snc>
@@ -703,6 +709,10 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_r;&c_u;&c_ch;&c_y;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_b;&c_r;&c_a;&c_h;&c_m;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">domestizieren</trd>,
+    <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">z&auml;hmen</trd>
   </trdgrp>
   <trd lng="en">domesticate</trd>
   </snc>
@@ -880,6 +890,7 @@
   </snc>
   <trd lng="be">&c_v;&c_ja;&c_r;&c_t;&c_a;&c_c;&c_c;&c_a;
   <ind>&c_d;&c_a;&c_d;&c_o;&c_m;&c_u;</ind></trd>
+  <trd lng="de" fnt="AI: fr it pl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heimkehren</trd>
   <trd lng="en"><ind>repatriate</ind> oneself</trd>
   <trdgrp lng="fr">
     <trd>rentrer &agrave; la maison</trd>,

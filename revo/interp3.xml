@@ -24,6 +24,10 @@
         ilin en sia nacia lingvo<fnt><bib>LR</bib></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Satzzeichen</trd>,
+      <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Interpunktionszeichen</trd>
+    </trdgrp>
     <trd lng="fr">signe de ponctuation</trd>
   </snc>
   <snc mrk="interp3.0o.TIP">
@@ -107,6 +111,7 @@
     <trd>&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; &c_z;&c_n;&c_a;&c_k;&c_ib; &c_p;&c_u;&c_n;&c_k;&c_t;&c_u;&c_a;&c_c;&c_y;&c_ib;</trd>,
     <trd>&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; &c_z;&c_n;&c_a;&c_k;&c_ib; &c_p;&c_r;&c_y;&c_p;&c_y;&c_n;&c_k;&c_u;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: nl fr es pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">interpunktieren</trd>
   <trd lng="es">puntuar<klr> (poner los signos de
   puntuaci&oacute;n)</klr></trd>
   <trd lng="fa">&a_n;&a_q;&a_T;&a_h;&#x200C;&f_g;&a_dh;&a_A;&a_r;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>

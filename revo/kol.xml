@@ -440,6 +440,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;roangestellter</trd>,
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Angestellter</trd>
+  </trdgrp>
   <trd lng="en">white-<ind>collar</ind> worker</trd>
   </snc>
 <!-- jam signita per EVI
@@ -489,6 +493,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Arbeiter</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fabrikarbeiter</trd>
+  </trdgrp>
   <trd lng="en">blue-<ind>collar</ind> worker</trd>
   </snc>
 <!-- jam signita per EVI
@@ -654,6 +662,7 @@
       </ekz>
     </dif>
     <trd lng="ca">fins al coll <klr tip="amb">(literalment)</klr></trd>
+    <trd lng="de" fnt="AI: en es ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bis zum Hals</trd>
     <trd lng="en">up to one's <ind>neck</ind> <klr>(literally)</klr></trd>
     <trd lng="es">hasta el cuello</trd>
     <trd lng="id"><baz>leher</baz>seleher<klr> (ttg ketinggian air dsb.)</klr></trd>
@@ -697,6 +706,7 @@
       <trd>fins al coll</trd>,
       <trd>de cap a peus</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bis zum Hals</trd>
     <trdgrp lng="en">
       <trd>more than <ind>enough</ind></trd>,
       <trd><ind>enough</ind> and to spare</trd>,
@@ -797,6 +807,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pass</trd>,
+    <trd fnt="AI: ref nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bergpass</trd>
+  </trdgrp>
   <trd lng="en">pass <klr>(of a mountain)</klr></trd>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_v;&c_a;&c_l;</trd>

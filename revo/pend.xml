@@ -490,6 +490,7 @@
     <trd>z&aacute;vesn&eacute; zariadenie</trd>
   </trdgrp>
 -->
+  <trd lng="de" fnt="AI: ref uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Galgen</trd>
   <trd lng="uk">&c_sh;&c_i;&c_b;&c_je;&#x43D;&c_i;&c_c;&#x44F;</trd>
 </drv>
 
@@ -766,6 +767,10 @@
   </trdgrp>
   <trd lng="bg">&c_v; &c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_o;&c_s;&c_t;
   &c_o;&c_t;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: be bg ro pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abh&auml;ngig von</trd>,
+    <trd fnt="AI: fr ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">je nach</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>selon</trd>,
     <trd>en fonction de</trd>
@@ -923,6 +928,7 @@
       <trd>&c_n;&c_a;&c_l;&c_je;&c_zh;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_p;&c_r;&c_y;&c_n;&c_a;&c_l;&c_je;&c_zh;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ref ru be hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">geh&ouml;ren</trd>
     <trd lng="hu">tartozik <klr tip="amb">(vhez)</klr></trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_n;&c_o;&c_s;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>,
@@ -1123,6 +1129,7 @@
       <ref cel="pend.sende0a">sende<tld/>a</ref>.
     </refgrp>
     <trd lng="br">dizalc'h</trd>
+    <trd lng="de" fnt="AI: ref pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unabh&auml;ngig</trd>
     <trd lng="pl">niezale&zdot;ny</trd>
     <trd lng="ru">&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_y;&c_j;</trd>
     <adm>
@@ -1330,6 +1337,10 @@
   </snc>
   <trd lng="be">&c_n;&c_je;&c_z;&c_a;&c_l;&c_je;&c_zh;&c_n;&c_a; &c_a;&c_d; &c_t;&c_a;&c_g;&c_o;, &c_c;&c_ib;</trd>
   <trd lng="bg">&c_n;&c_je;&c_z;&c_a;&c_v;&c_i;&c_s;&c_i;&c_m;&c_o; &c_d;&c_a;&c_l;&c_i;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: be bg pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unabh&auml;ngig davon, ob</trd>,
+    <trd fnt="AI: ro fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">egal ob <klr>[ugs.]</klr></trd>
+  </trdgrp>
   <trd lng="fr">que (+subj.)... ou non</trd>
   <trd lng="pl">niezale&zdot;nie czy</trd>
   <trd lng="ro">indiferent dac&abreve;</trd>
@@ -1445,6 +1456,7 @@
   </snc>
   <trd lng="be">&c_s;&c_e;&c_p;&c_a;&c_r;&c_a;&c_t;&c_y;&c_z;&c_m;</trd>
   <trd lng="bg">&c_s;&c_je;&c_p;&c_a;&c_r;&c_a;&c_t;&c_i;&c_z;&c_malmol;&c_m;</trd>
+  <trd lng="de" fnt="AI: en ru bg pt id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Separatismus</trd>
   <trdgrp lng="en">
     <trd>separatism</trd>,
     <trd>secessionism</trd>

@@ -413,6 +413,10 @@
     </dif>
     <trd lng="be">&c_k;&c_l;&c_ib;&c_k; <klr tip="amb">(&c_z;&c_y;&c_ch;&c_n;&c_y;)</klr></trd>
     <trd lng="ca">clic<klr tip="amb"> (fon.)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ca es fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Klicklaut</trd>,
+      <trd fnt="AI: ca es fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schnalzlaut</trd>
+    </trdgrp>
     <trd lng="es">clic<klr tip="amb"> (fon.)</klr></trd>
     <trd lng="fr">clic<klr> (fon.)</klr></trd>
   </snc>
@@ -448,6 +452,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr pl ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Klicklaut</trd>,
+      <trd fnt="AI: fr pl ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schnalzlaut</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_l;&c_ib;&c_k; <klr tip="amb">(&c_z;&c_y;&c_ch;&c_n;&c_y;)</klr></trd>
   <trd lng="ca">clic<klr tip="amb"> (fon.)</klr></trd>

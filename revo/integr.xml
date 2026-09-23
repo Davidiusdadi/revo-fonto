@@ -63,6 +63,7 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="monoli.0o">monolita</ref>
+    <trd lng="de" fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">integriert</trd>
     <trdgrp lng="hu">
       <trd>integr&aacute;ns</trd>,
       <trd>szervesen hozz&aacute;tartoz&oacute;</trd>
@@ -272,6 +273,7 @@
       <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_c;&c_e;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>,
       <trd>&c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_c;&c_a; <klr>(&c_u; &c_a;&c_d;&c_n;&c_o;)</klr></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: be ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein Ganzes bilden</trd>
     <trd lng="ru">&c_s;&c_o;&c_ch;&c_je;&c_t;&c_a;&c_t;&c_mol;&c_s;&c_ja;</trd>
   </snc>
   <snc mrk="integr.0i.tr">
@@ -515,6 +517,10 @@
     <trd>&c_ib;&c_n;&c_t;&c_e;&c_g;&c_r;&c_y;&c_z;&c_m;</trd>,
     <trd>&c_ib;&c_n;&c_t;&c_e;&c_g;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl uk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Integrismus</trd>,
+    <trd fnt="AI: be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Integralismus</trd>
+  </trdgrp>
   <trd lng="fr">int&eacute;grisme</trd>
   <trd lng="pl">integryzm</trd>
   <trd lng="uk">&c_ib;&c_n;&c_t;&c_je;&c_gu;&c_r;&c_i;&c_z;&c_m;</trd>
@@ -543,6 +549,7 @@
     <trd>&c_ib;&c_n;&c_t;&c_e;&c_g;&c_r;&c_y;&c_s;&c_t;</trd>,
     <trd>&c_ib;&c_n;&c_t;&c_e;&c_g;&c_r;&c_a;&c_l;&c_ib;&c_s;&c_t;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: be fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Integralist</trd>
   <trd lng="fr">int&eacute;griste<klr> (subst.)</klr></trd>
   <trd lng="pl">integrysta</trd>
   <trd lng="uk">&c_ib;&c_n;&c_t;&c_je;&c_gu;&c_r;&c_i;&c_s;&c_t;</trd>

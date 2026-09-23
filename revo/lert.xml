@@ -556,6 +556,10 @@
     <trd>&c_n;&c_a;&c_l;&c_a;&c_w;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_z;&c_l;&c_a;&c_w;&c_ch;&c_y;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es pl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">geschickt werden</trd>,
+    <trd fnt="AI: fr pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gewandt werden</trd>
+  </trdgrp>
   <trd lng="es">volverse <ind>h&aacute;bil</ind></trd>
   <trd lng="fr">devenir <ind>habile</ind></trd>
   <trdgrp lng="id">

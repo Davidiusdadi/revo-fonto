@@ -289,6 +289,10 @@
         <trd lng="de">Geschenke verpflichten</trd>
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fesseln</trd>,
+      <trd fnt="AI: es hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einengen</trd>
+    </trdgrp>
     <trd lng="es">constre&ntilde;ir</trd>
     <trdgrp lng="hu">
       <trd>korl&aacute;toz</trd>,
@@ -558,6 +562,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Handschellen anlegen</trd>
     <trdgrp lng="en">
       <trd fnt="Vikt: en fr; juĝis claude-opus-5">handcuff</trd>,
       <trd fnt="Vikt: fr; juĝis claude-opus-5">cuff <klr>(colloquial)</klr></trd>,
@@ -651,6 +656,7 @@
         <fnt><bib>Lanti</bib> <lok>Leteroj el Turkio</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr hu ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">knechten</trd>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="fr">

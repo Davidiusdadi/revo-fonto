@@ -387,6 +387,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_m;&c_ja;&c_r;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trd lng="de" fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">D&auml;mmerung</trd>
   <trd lng="fr">cr&eacute;puscule</trd>
 </drv>
 
@@ -423,6 +424,10 @@
       <trd>&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_l;&c_je;&c_c;&c_mol;</trd>,
       <trd>&c_v;&c_ib;&c_d;&c_n;&c_je;&c_c;&c_mol;</trd>
     </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: ja uk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">aufd&auml;mmern</trd>,
+        <trd fnt="AI: ja uk nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufkeimen</trd>
+      </trdgrp>
       <trd lng="nl">ontspruiten</trd>
   </snc>
   <trd lng="de"><ind>licht</ind> werden</trd>

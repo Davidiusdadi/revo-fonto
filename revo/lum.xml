@@ -2303,6 +2303,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">D&uuml;sternis <klr>(gehoben)</klr></trd>
   <trdgrp lng="id">
     <trd><baz>suram</baz>kesuraman</trd>,
     <trd><baz>kelam</baz>kekelaman</trd>
@@ -2720,6 +2721,10 @@
       </ekz>
     </dif>
     <!-- ne traduku EVI -->
+  <trdgrp lng="de">
+    <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Blinker</trd>,
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fahrtrichtungsanzeiger</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>turn <ind>signal</ind></trd>,
     <trd>turn <ind>indicator</ind></trd>

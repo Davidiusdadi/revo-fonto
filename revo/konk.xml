@@ -29,6 +29,10 @@
 	<fnt><bib>Fab2</bib>, <lok>Feli&ccirc;a familio</lok></fnt>
       </ekz>
     </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: fr hu ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schale</trd>,
+        <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geh&auml;use</trd>
+      </trdgrp>
       <trdgrp lng="fr">
 	<trd>coquille</trd>
       </trdgrp>
@@ -177,6 +181,7 @@
     <ref tip="dif" cel="folad.0o">folado</ref>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_a;&c_l;&c_a;&c_t;&c_o;&c_ch;</trd>
+  <trd lng="de" fnt="AI: ref hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bohrmuschel</trd>
   <trd lng="fr">pholade</trd>
   <trd lng="hu">f&uacute;r&oacute;kagyl&oacute;</trd>
   <trd lng="nl">boormossel</trd>
@@ -194,6 +199,10 @@
   </snc>
   <trd lng="be">&c_d;&c_v;&c_u;&c_h;&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;&c_v;&c_y;&c_ja;
   <ind>&c_m;&c_a;&c_l;&c_ju;&c_s;&c_k;&c_ib;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Muscheln</trd>,
+    <trd kod="ARK" fnt="AI: hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Blattkiemer <klr>(veraltet)</klr></trd>
+  </trdgrp>
   <trd lng="hu">lemezeskopolty&uacute;sok</trd>
   <trd lng="nl">plaatkieuwigen</trd>
   <trd lng="pl">ma&lstroke;&zdot;e</trd>

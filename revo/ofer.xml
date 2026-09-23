@@ -878,6 +878,10 @@
     <trd>&c_a;&c_d;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a; &c_a;&c_h;&c_v;&c_ja;&c_r;&c_u;</trd>
   </trdgrp>
   <trd lng="cs">ob&ecaron;tovat</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: sv hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufopfern</trd>,
+    <trd fnt="AI: fr cs sk ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">opfern</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>sacrifier<klr> (accepter la perte de)</klr></trd>
   </trdgrp>
@@ -932,6 +936,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol; &c_n;&c_a; &c_a;&c_h;&c_v;&c_ja;&c_r;&c_u;</trd>
+  <trd lng="de" fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">opfern</trd>
   <trd lng="en">immolate</trd>
   <trdgrp lng="fr">
     <trd>immoler</trd>

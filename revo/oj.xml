@@ -23,6 +23,10 @@
     <trd>&c_a;&c_j;</trd>,
     <trd>&c_a;&c_h;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ach</trd>,
+    <trd fnt="AI: be es hu pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">au</trd>
+  </trdgrp>
   <trd lng="es">ay<klr tip="amb"> (interjecci&oacute;n de dolor)</klr></trd>
   <trdgrp lng="fr">
     <trd>ah<klr> (regret, douleur)</klr></trd>,

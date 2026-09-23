@@ -507,6 +507,7 @@ a&ubreve;gusto 1910</vrk>
     </rim>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_m;&c_a;-</trd>
+  <trd lng="de" fnt="AI: en sv pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">selbst-</trd>
   <trd lng="en">self-</trd>
   <trd lng="es">auto-</trd>
   <trd lng="fi">itse-</trd>
@@ -539,6 +540,7 @@ a&ubreve;gusto 1910</vrk>
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: ru fi; proponis claude-opus-5-5; kontrolis claude-opus-5-5">eigenst&auml;ndig</trd>
     <trdgrp lng="fi">
       <trd>ominainen</trd>,
       <trd>luonteenomainen</trd>
@@ -654,6 +656,7 @@ a&ubreve;gusto 1910</vrk>
         <trd>&c_s;&c_a;&c_m;&c_a;&c_b;&c_y;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
         <trd>&c_a;&c_d;&c_m;&c_je;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
       </trdgrp>
+      <trd lng="de" fnt="AI: ru be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Identit&auml;t</trd>
       <trd lng="ru">&c_s;&c_a;&c_m;&c_o;&c_b;&c_y;&c_t;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
     </subsnc>
     <trd lng="de">Selbst</trd>
@@ -869,6 +872,10 @@ onon</url></vrk>
         <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 7&#170;</lok></fnt>.
       </ekz>
     </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: pl ru be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">selbstst&auml;ndig</trd>,
+        <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von selbst</trd>
+      </trdgrp>
       <trdgrp lng="en">
         <trd>without assistance</trd>,
         <trd>on one's own</trd>

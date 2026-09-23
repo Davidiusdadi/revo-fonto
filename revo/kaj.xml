@@ -250,6 +250,7 @@
     <trd>&c_ib; ..., &c_ib; ...</trd>,
     <trd>&c_ja;&c_k; ..., &c_t;&c_a;&c_k; ...</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sowohl &#x2026; als auch &#x2026;</trd>
   <trd lng="en">both &#8230; and &#8230;</trd>
   <trdgrp lng="id">
     <trd>baik ... maupun ...</trd>,
@@ -519,6 +520,10 @@
       propozicioj).
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Konjunktionsbeseitigung</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Konjunktionselimination</trd>
+  </trdgrp>
   <trd lng="en">conjunction elimination</trd>
   <trd lng="fr">elimination de conjonction</trd>
 </drv>
@@ -535,6 +540,7 @@
       <tld/>o de tiuj propozicioj).
     </dif>
   </snc>
+  <trd lng="de" fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Konjunktionseinf&uuml;hrung</trd>
   <trd lng="en">conjunction introduction</trd>
   <trd lng="fr">introduction de conjonction</trd>
 </drv>

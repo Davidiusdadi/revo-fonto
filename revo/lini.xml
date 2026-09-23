@@ -462,6 +462,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_n;&c_je;&c_j;&c_n;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in einer Linie</trd>,
+    <trd fnt="AI: hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in einer Reihe</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>lineally</trd>,
     <trd>in a line</trd>
@@ -706,6 +710,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kampflinie</trd>,
+    <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Frontlinie</trd>
+  </trdgrp>
   <trd lng="fr">ligne de front</trd>
 <trdgrp lng="id">
   <trd>garis depan</trd>,
@@ -785,6 +793,7 @@
     <ref cel="front.0o.MIL">fronto</ref>
   </refgrp>
   <trd lng="be">&c_l;&c_ib;&c_n;&c_ib;&c_ja; &c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_y;</trd>
+  <trd lng="de" fnt="AI: fr id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verteidigungslinie</trd>
   <trd lng="fr">ligne de d&eacute;fense</trd>
 <trd lng="id">garis pertahanan</trd>
 </drv>

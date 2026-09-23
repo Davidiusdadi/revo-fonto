@@ -344,6 +344,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_d;&c_o;&c_v;&c_a;&c_ja; <ind>&c_m;&c_e;&c_d;&c_y;&c_c;&c_y;&c_n;&c_a;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rechtsmedizin</trd>,
+    <trd fnt="AI: pl be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gerichtsmedizin</trd>
+  </trdgrp>
   <trd lng="en">forensic medicine</trd>
   <trd lng="fr">m&eacute;decine l&eacute;gale</trd>
   <trd lng="id"><baz>dokter</baz>kedokteran forensik</trd>

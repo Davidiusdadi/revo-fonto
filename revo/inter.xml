@@ -473,6 +473,10 @@
         <trd>&c_m;&c_ib;&c_zh;</trd>,
         <trd>&c_p;&c_a;&c_m;&c_ib;&c_zh;</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: en be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zwischen</trd>,
+        <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unter</trd>
+      </trdgrp>
       <trd lng="en">between</trd>
     </snc>
   </drv>
@@ -503,6 +507,7 @@
         </ekz>
       </dif>
       <trd lng="be">&c_p;&c_a;&c_m;&c_ib;&c_zh;</trd>
+      <trd lng="de" fnt="AI: en be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zwischen ... hervor</trd>
       <trd lng="en">between <klr>('from between' ne estas bonstila kun
       senco 2)</klr></trd>
     </snc>
@@ -551,6 +556,7 @@
       </dif>
     </snc>
     <trd lng="be">&c_z; &c_p;&c_a;&c_m;&c_ib;&c_zh;</trd>
+    <trd lng="de" fnt="AI: fr ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aus</trd>
     <trdgrp lng="fr">
       <trd>d'entre</trd>,
       <trd>de parmi</trd>

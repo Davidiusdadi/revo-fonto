@@ -650,6 +650,10 @@
       <ref cel="lauxd.0i">la&ubreve;di</ref>,
       <ref cel="reklam.0i.EKON">reklami<sncref/></ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr es uk ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausrufen</trd>,
+      <trd fnt="AI: pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anpreisen</trd>
+    </trdgrp>
     <trd lng="es">gritar<klr> (su mercanc&iacute;a)</klr></trd>
     <trd lng="fr">crier<klr> (sa marchandise)</klr></trd>
   </snc>

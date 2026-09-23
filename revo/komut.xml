@@ -172,6 +172,10 @@
     <trd>v&yacute;m&ecaron;na</trd>,
     <trd>z&aacute;m&ecaron;na</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ru be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Umschaltung</trd>,
+    <trd fnt="AI: fr ru cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kommutierung</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>commutation</trd>,
     <trd>aiguillage<klr tip="ind"> (action)</klr></trd>
@@ -247,6 +251,7 @@
     <dif>
       Kiun eblas <tld/>i.
     </dif>
+    <trd lng="de" fnt="AI: ru cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umschaltbar</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_l;&c_ju;&c_ch;&c_a;&c_je;&c_m; &c_y;&c_j;</trd>,
       <trd>&c_k;&c_o;&c_m;&c_m;&c_u;&c_t;&c_i;&c_r;&c_u;&c_je;&c_m;&c_y; &c_j;</trd>

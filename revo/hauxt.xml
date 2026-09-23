@@ -455,6 +455,10 @@
     <trd>ko&zcaron;n&iacute; nemoc</trd>,
     <trd>vyr&aacute;&zcaron;ka</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ru sk hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hautkrankheit</trd>,
+    <trd kod="FAK" fnt="AI: ref fr pl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dermatose <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>dermatose</trd>,
     <trd>maladie de peau</trd>

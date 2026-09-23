@@ -678,6 +678,10 @@
       <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_z;&c_ja;&c_ch;&c_y;</trd>,
       <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">leitend</trd>,
+      <trd fnt="AI: en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">leitf&auml;hig</trd>
+    </trdgrp>
     <trd lng="en">conductive</trd>
     <trd lng="es">conductor</trd>
     <trd lng="hu">vezet&odblac;</trd>
@@ -704,6 +708,7 @@
         de Moseo kaj Aaron
         <fnt><bib>MT</bib><lok>&Nom; 33:1</lok></fnt>;
       </ekz>
+      <trd lng="de" fnt="AI: en es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;hrung</trd>
       <trd lng="en">guidance</trd>
       <trd lng="es">gu&iacute;a</trd>
     <trdgrp lng="id">
@@ -735,6 +740,7 @@
         Enciklopedio</url></lok>
         </fnt>;
       </ekz>
+      <trd lng="de" fnt="AI: en es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Leitung</trd>
       <trdgrp lng="en">
         <trd>delivery</trd>,
         <trd>conduction</trd>
@@ -757,11 +763,16 @@
         <trd lng="hu">h&odblac;vezet&eacute;s</trd>
         <trd lng="ru">&c_t;&c_je;&c_p;&c_l;&c_o;&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
       </ekz>
+      <trd lng="de" fnt="AI: en es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Leitung</trd>
       <trd lng="en">conduction</trd>
       <trd lng="es">conducci&oacute;n</trd>
       <trd lng="id">konduksi</trd>
       <trd lng="ru">&c_p;&c_r;&c_o;&c_v;&c_o;&c_d;&c_i;&c_m;&c_o;&c_s;&c_t;&c_mol;</trd>
     </subsnc>
+    <trdgrp lng="de">
+      <trd fnt="AI: cs ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;hrung</trd>,
+      <trd fnt="AI: cs hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Leitung</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_ja;&c_d;&c_z;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -1356,6 +1367,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinf&uuml;hren</trd>
     <trdgrp lng="en">
       <trd>to bring</trd>,
       <trd>lead to</trd>
@@ -2044,6 +2056,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_w;&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_y;</trd>
+  <trd lng="de" fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">halbleitend</trd>
   <trd lng="en">semiconductive</trd>
   <trd lng="es">semiconductor<klr tip="ind"> (adj.)</klr></trd>
   <trdgrp lng="fr">

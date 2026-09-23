@@ -92,6 +92,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_u;&c_p;&c_je;&c_n;&c_mol; <ind>&c_p;&c_a;&c_r;&c_a;&c_w;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steigerungsstufe</trd>,
+    <trd fnt="AI: en pl ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vergleichsstufe</trd>
+  </trdgrp>
   <trd lng="en">degree of <ind>comparison</ind></trd>
   <trd lng="pl">stopie&nacute; <ind>por&oacute;wnania</ind></trd>
   <trd lng="ru">&c_s;&c_t;&c_je;&c_p;&c_je;&c_n;&c_mol; <ind>&c_s;&c_r;&c_a;&c_v;&c_n;&c_je;&c_n;&c_i;&c_ja;</ind></trd>

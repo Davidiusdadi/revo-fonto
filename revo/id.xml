@@ -192,6 +192,10 @@ kod="M521x518S2ff00482x483S36d00479x499S17644490x455S1924e486x438S20500480x449">
         <trd>cadell</trd>,
         <trd>pollet</trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Junges</trd>,
+        <trd fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Jungtier</trd>
+      </trdgrp>
       <trd lng="id">anak</trd>
       <trd lng="pl">m&lstroke;ode</trd>
       <trd lng="ru">&c_d;&c_je;&c_t;&c_jo;&c_n;&c_y;&c_sh;</trd>
@@ -319,6 +323,10 @@ kod="M521x518S2ff00482x483S36d00479x499S17644490x455S1924e486x438S20500480x449">
         </ekz>
       </dif>
       <trd lng="ca">deixeble</trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: ref nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">J&uuml;nger</trd>,
+        <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sch&uuml;ler</trd>
+      </trdgrp>
       <trd lng="hu">k&ouml;vet&odblac;</trd>
       <trdgrp lng="id">
         <trd><baz>ikut</baz>pengikut</trd>,
@@ -518,6 +526,10 @@ kod="M521x518S2ff00482x483S36d00479x499S17644490x455S1924e486x438S20500480x449">
     <trdgrp lng="ca">
       <trd>deixebles</trd>,
       <trd>escola</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anh&auml;ngerschaft</trd>,
+      <trd fnt="AI: be ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">J&uuml;ngerschaft</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="cs">

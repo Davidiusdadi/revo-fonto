@@ -503,6 +503,7 @@
     <trd>&c_p;&c_a;&c_ch;&c_y;&c_t;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_k;&c_a;&c_p;&c_a;&c_c;&c_c;&c_a; &c_w; <ind>&c_k;&c_n;&c_ib;&c_g;&c_a;&c_h;</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schm&ouml;kern <klr>[ugs.]</klr></trd>
   <trd lng="fr">bouquiner</trd>
 </drv>
 
@@ -1574,6 +1575,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_n;&c_ib;&c_g;&c_a; &c_g;&c_a;&c_n;&c_a;&c_r;&c_o;&c_v;&c_y;&c_h; &c_g;&c_a;&c_s;&c_mol;&c_c;&c_je;&c_j;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">G&auml;stebuch</trd>,
+    <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Goldenes Buch</trd>
+  </trdgrp>
   <trd lng="fr">livre d'or</trd>
   <trdgrp lng="zh">
     <trd>&#30041;&#x8A00;&#x672C; <pr>li&uacute;y&aacute;nb&ecaron;n</pr></trd>,
@@ -1601,6 +1606,7 @@
       <ref tip="vid" cel="rit.0libro">ritlibro</ref>
       <trd lng="be">&c_m;&c_a;&c_l;&c_ib;&c_t;&c_o;&c_w;&c_n;&c_ib;&c_k;</trd>
       <trd lng="ca">devocionari</trd>
+      <trd lng="de" fnt="AI: en nl fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gebetbuch</trd>
       <trd lng="en">prayer-book</trd>
       <trd lng="es">breviario</trd>
       <trd lng="fa">&f_k;&a_t;&a_A;&a_b; &a_d;&a_ayn;&a_A;</trd>

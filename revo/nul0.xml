@@ -240,6 +240,7 @@ elemento</ref>
       </ekz>
     </dif>
     <trd lng="ca">zero</trd>
+    <trd lng="de" fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nullte</trd>
   </snc>
   <snc>
     <dif>
@@ -267,6 +268,7 @@ elemento</ref>
       </ekz>
     </dif>
     <trd lng="ca">zero</trd>
+    <trd lng="de" fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">null</trd>
   </snc>
   <snc>
     <uzo tip="stl">FIG</uzo>
@@ -307,6 +309,10 @@ elemento</ref>
       <ref cel="frukt.sen0a">senfrukta</ref>
     </refgrp>
     <trd lng="ca">nul</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nichtig</trd>,
+      <trd fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wertlos</trd>
+    </trdgrp>
     <trd lng="fr">nul</trd>
     <trdgrp lng="hu">
       <trd>nulla</trd>,
@@ -442,6 +448,7 @@ elemento</ref>
     <trd>m&iacute;sto</trd>,
     <trd>ve kter&eacute;m funkce nab&yacute;v&aacute; hodnotu nula</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: ref ca uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nullstelle</trd>
   <trd lng="es">lugar donde el resultado de una funci&oacute;n es cero</trd>
   <trdgrp lng="sk">
     <trd>miesto</trd>,
@@ -811,6 +818,7 @@ elemento</ref>
   </snc>
   <trd lng="be">&c_z; <ind>&c_n;&c_u;&c_l;&c_ja;</ind></trd>
   <trd lng="ca">de zero</trd>
+  <trd lng="de" fnt="AI: fr es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von Grund auf</trd>
   <trd lng="es">desde cero</trd>
   <trdgrp lng="fr">
     <trd>&agrave; partir de rien</trd>,

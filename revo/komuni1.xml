@@ -149,6 +149,7 @@
      <ref cel="don.trans0i">transdoni</ref>,
      <ref cel="trans.0igi">transigi</ref>
    </refgrp>
+   <trd lng="de" fnt="AI: en fr es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bertragen</trd>
    <trd lng="en">propagate</trd>
    <trdgrp lng="es">
      <trd>infectar<klr tip="ind"> (una enfermedad)</klr></trd>,
@@ -308,6 +309,10 @@
        </fnt>.
      </ekz>
    </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kommunikation</trd>,
+    <trd fnt="AI: ref nl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitteilung</trd>
+  </trdgrp>
   <trd lng="id">komunikasi</trd>
   </snc>
   <snc>
@@ -319,6 +324,11 @@
        <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 2</lok></fnt>.
      </ekz>
    </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref nl cs fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitteilung</trd>,
+    <trd fnt="AI: ref id fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nachricht</trd>,
+    <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Botschaft</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>pesan</trd>,
     <trd>kabar</trd>,
@@ -488,6 +498,10 @@
      </ekz>
    </dif>
    <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_ch;&c_a;</trd>
+   <trdgrp lng="de">
+     <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Telekommunikation</trd>,
+     <trd fnt="AI: fr es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verbindung</trd>
+   </trdgrp>
    <trdgrp lng="es">
      <trd>comunicaci&oacute;n<klr tip="ind"> (telecomunicaci&oacute;n)</klr></trd>,
      <trd>transmisi&oacute;n</trd>
@@ -672,6 +686,7 @@
      <trd>&c_m;&c_je;&c_s;&c_c;&c_a; &c_z;&c_n;&c_o;&c_s;&c_ib;&c_n;</trd>,
      <trd>&c_m;&c_je;&c_s;&c_c;&c_a; &c_z;&c_b;&c_o;&c_r;&c_a;&c_w;</trd>
    </trdgrp>
+   <trd lng="de" fnt="AI: es be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Treffpunkt</trd>
    <trdgrp lng="es">
      <trd>sitio de <ind>reuniones</ind></trd>,
      <trd>sala</trd>
@@ -854,6 +869,7 @@
      </ekz>
    </dif>
    <trd lng="be">&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_l;&c_ja;&c_c;&c_mol; <klr>(&c_p;&c_r;&c_a;&c_z; &c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_k;&c_a;)</klr></trd>
+   <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mitteilen lassen</trd>
    <trdgrp lng="es">
      <trd><ind>comunicar</ind><klr tip="ind"> (una
      informaci&oacute;n)</klr></trd>,
@@ -883,6 +899,10 @@
    <ref tip="sin" cel="komuni1.inter0igi.0igi_kun_iu">inter<tld/>igi
    <sncref/></ref>
    <trd lng="be">&c_n;&c_a;&c_l;&c_a;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol; <ind>&c_z;&c_n;&c_o;&c_s;&c_ib;&c_n;&c_y;</ind></trd>
+   <trdgrp lng="de">
+     <trd fnt="AI: ref es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Kontakt bringen</trd>,
+     <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Verbindung bringen</trd>
+   </trdgrp>
    <trdgrp lng="es">
      <trd><ind>comunicar</ind>se<klr tip="ind"> (entre
      personas)</klr></trd>,
@@ -916,6 +936,7 @@
      <trd>&c_z;&c_a;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_v;&c_a;&c_c;&c_mol; <ind>&c_z;&c_n;&c_o;&c_s;&c_ib;&c_n;&c_y;</ind></trd>,
      <trd>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol;</trd>
    </trdgrp>
+   <trd lng="de" fnt="AI: fr be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verbinden</trd>
    <trdgrp lng="es">
      <trd>hacer <ind>comunicar</ind><klr tip="ind"> (conectar
      lugares)</klr></trd>
@@ -1389,6 +1410,7 @@
        Kongreso de Kuba Esperanto-Asocio</url></lok>
        </fnt>.
      </ekz>
+     <trd lng="de" fnt="AI: fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">austauschen</trd>
      <trdgrp lng="es">
        <trd><ind>comunicar</ind>se<klr tip="ind">
        (informaci&oacute;n)</klr></trd>,
@@ -1432,6 +1454,7 @@
      sed ne &scirc;ajnas &gcirc;uste konsideri la verbon netransira,
      kiel faras <fnt><bib>PIV1</bib></fnt>.
    </rim>
+   <trd lng="de" fnt="AI: fr es sk pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">miteinander kommunizieren</trd>
    <trdgrp lng="es">
      <trd>comunicar<klr tip="ind"> (estar en comunicaci&oacute;n)</klr></trd>,
      <trd>estar en <ind>comunicaci&oacute;n</ind></trd>,
@@ -1596,6 +1619,10 @@
      <trd>&c_p;&c_a;&c_d;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; <ind>&c_s;&c_u;&c_v;&c_ja;&c_z;&c_mol;</ind></trd>,
      <trd>&c_k;&c_a;&c_m;&c_u;&c_n;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
    </trdgrp>
+   <trdgrp lng="de">
+     <trd fnt="AI: ref be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">miteinander kommunizieren</trd>,
+     <trd fnt="AI: ref fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Verbindung stehen</trd>
+   </trdgrp>
    <trdgrp lng="es">
      <trd><ind>communicar</ind>se<klr tip="ind"> (entrar en
      comunicaci&oacute;n)</klr></trd>,
@@ -1630,6 +1657,10 @@
    <trdgrp lng="be">
      <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_y;&c_m;</ind></trd>,
      <trd>&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_c;&c_a;</trd>
+   </trdgrp>
+   <trdgrp lng="de">
+     <trd fnt="AI: ref fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Verbindung stehen</trd>,
+     <trd fnt="AI: be fr pl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">miteinander verbunden sein</trd>
    </trdgrp>
    <trdgrp lng="es">
      <trd>ser <ind>communicado</ind><klr tip="ind"> (por un
@@ -1818,6 +1849,10 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_m;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je; &c_d;&c_l;&c_ja; &c_p;&c_r;&c_e;&c_s;&c_y;</trd>,
     <trd>&c_p;&c_r;&c_e;&c_s;-&c_r;&c_e;&c_l;&c_ib;&c_z;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pressemitteilung</trd>,
+    <trd fnt="AI: fr pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Presseerkl&auml;rung</trd>
   </trdgrp>
   <trd lng="es">comunicado de prensa</trd>
   <trd lng="fr">communiqu&eacute; de presse</trd>

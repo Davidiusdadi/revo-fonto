@@ -80,6 +80,10 @@
     <trd>kd&aacute;kat</trd>,
     <trd>kvokat</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gackern <klr>[ugs.]</klr></trd>,
+    <trd fnt="AI: be es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kichern</trd>
+  </trdgrp>
   <trd lng="en">cackle</trd>
   <trd lng="es">hacer risitas<klr tip="ind"> (risue&ntilde;o)</klr></trd>
   </snc>
@@ -207,6 +211,10 @@
     <trd>&c_k;&c_ib;&c_h;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="cs">chichotat se</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl cs sk es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kichern</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gackern <klr>[ugs.]</klr></trd>
+  </trdgrp>
   <trd lng="en">cackle</trd>
   <trd lng="es">hacer risitas<klr tip="ind"> (risue&ntilde;o)</klr></trd>
   <trd lng="fr">glousser<klr tip="ind"> (en riant)</klr></trd>

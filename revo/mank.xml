@@ -231,6 +231,11 @@
     <trd>&c_p;&c_r;&c_a;&c_z; <ind>&c_b;&c_r;&c_a;&c_k;</ind></trd>
   </trdgrp>
   <trd lng="br">dre ziouer a</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mangels</trd>,
+    <trd fnt="AI: fr es ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Ermangelung <klr>(gehoben)</klr></trd>,
+    <trd fnt="AI: pl be ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aus Mangel an</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>en <ind>ausencia de</ind></trd>,
     <trd>a <ind>falta de</ind></trd>

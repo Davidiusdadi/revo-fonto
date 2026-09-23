@@ -329,6 +329,10 @@
   </snc>
 -->
   <trd lng="be">&c_a;&c_p;&c_l;&c_ja;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ru uk pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umflechten</trd>,
+    <trd fnt="AI: uk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umschlingen</trd>
+  </trdgrp>
   <trd lng="id"><baz>kepang</baz>mengepang sekitar</trd>
   <trd lng="pl">oplata&cacute;</trd>
   <trd lng="ro">se &icirc;mpletesc</trd>
@@ -383,6 +387,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_p;&c_l;&c_ja;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de" fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einflechten</trd>
   <trd lng="en">entwine</trd>
 <trdgrp lng="id">
   <trd><baz>pilin</baz>memilin</trd>,

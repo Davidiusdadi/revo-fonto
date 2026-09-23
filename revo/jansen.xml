@@ -31,6 +31,10 @@
   </trdgrp>
   <trd lng="ca">Janseni</trd>
   <trd lng="cs">Jansen <klr>(Cornelius)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr it nl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Cornelius Jansen</trd>,
+    <trd fnt="AI: lat it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Jansenius</trd>
+  </trdgrp>
   <trd lng="fr">Cornelius <ind>Jansen</ind></trd>
   <trdgrp lng="it">
     <trd>Cornelius <ind>Jansen</ind></trd>,
@@ -63,6 +67,7 @@
   </snc>
   <trd lng="be">&c_ja;&c_n;&c_s;&c_e;&c_n;&c_ib;&c_s;&c_t;</trd>
   <trd lng="ca">jansenista</trd>
+  <trd lng="de" fnt="AI: fr it nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Jansenist</trd>
   <trd lng="fr">jans&eacute;niste</trd>
   <trd lng="it">giansenista<klr> (sost.)</klr></trd>
   <trd lng="nl">jansenist</trd>
@@ -126,6 +131,7 @@
   </snc>
   <trd lng="be">&c_ja;&c_n;&c_s;&c_e;&c_n;&c_ib;&c_s;&c_t;</trd>
   <trd lng="ca">jansenista</trd>
+  <trd lng="de" fnt="AI: fr it nl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Jansenist</trd>
   <trd lng="fr">jans&eacute;niste</trd>
   <trd lng="it">giansenista<klr> (sost.)</klr></trd>
   <trd lng="nl">jansenist</trd>

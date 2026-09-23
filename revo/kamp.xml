@@ -964,6 +964,11 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bauer</trd>,
+      <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Landwirt</trd>,
+      <trd fnt="AI: dif ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ackerbauer</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_je;&c_m;&c_l;&c_ja;&c_r;&c_o;&c_b;</trd>
   <trdgrp lng="ca">
@@ -1102,6 +1107,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Forschungsgebiet</trd>,
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Forschungsfeld</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_o;&c_b;&c_l;&c_a;&c_s;&c_mol;&c_c;&c_mol;
   &c_d;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;&c_w;</trd>
@@ -1144,6 +1153,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Arbeitsgebiet</trd>,
+      <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Arbeitsfeld</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_o;&c_l;&c_je; &c_d;&c_z;&c_je;&c_j;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
   <trd lng="ca">&agrave;mbit de treball</trd>

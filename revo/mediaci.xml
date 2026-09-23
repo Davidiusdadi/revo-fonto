@@ -28,6 +28,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vermitteln</trd>,
+    <trd fnt="AI: pl zh dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schlichten</trd>
+  </trdgrp>
   <trd lng="en">to mediate</trd>
   <trd lng="ca">mitjan&ccedil;ar</trd>
   <trdgrp lng="fr">
@@ -117,6 +121,11 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_s;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ib;&c_k;</trd>,
     <trd>&c_m;&c_e;&c_d;&c_y;&c_ja;&c_t;&c_a;&c_r;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl fr it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mediator</trd>,
+    <trd fnt="AI: cs sk ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vermittler</trd>,
+    <trd fnt="AI: pl zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schlichter</trd>
   </trdgrp>
   <trd lng="en">mediator</trd>
   <trdgrp lng="ca">

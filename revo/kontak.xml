@@ -294,6 +294,10 @@
       <trd>&c_k;&c_a;&c_n;&c_t;&c_a;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_z;&c_mol;&c_v;&c_ja;&c_r;&c_t;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr be zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kontaktieren</trd>,
+      <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich in Verbindung setzen</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>contacter</trd>,
       <trd>prendre <ind>contact</ind></trd>
@@ -418,6 +422,10 @@
   <trdgrp lng="be">
     <trd>&c_u;&c_s;&c_t;&c_u;&c_p;&c_a;&c_c;&c_mol; &c_u; <ind>&c_k;&c_a;&c_n;&c_t;&c_a;&c_k;&c_t;</ind></trd>,
     <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kontakt aufnehmen</trd>,
+    <trd fnt="AI: be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Kontakt treten</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>contacter</trd>,

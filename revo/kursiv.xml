@@ -63,6 +63,7 @@
         <dif>
           Klinita rapida manskribo.
         </dif>
+        <trd lng="de" fnt="AI: en hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schreibschrift</trd>
         <trdgrp lng="en">
           <trd>cursive</trd>,
           <trd>running hand</trd>
@@ -137,6 +138,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol; <ind>&c_k;&c_u;&c_r;&c_s;&c_ib;&c_v;&c_a;&c_m;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kursivieren</trd>,
+    <trd fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kursiv setzen</trd>
+  </trdgrp>
   <trd lng="en">italicize</trd>
   <trd lng="ja">&#x30A4;&#x30BF;&#x30EA;&#x30C3;&#x30AF;&#12391;&#21360;&#21047;&#12377;&#x308B;
   <pr>&#x30A4;&#x30BF;&#x30EA;&#x30C3;&#x30AF;&#12391;&#12356;&#12435;&#12373;&#12388;&#12377;&#x308B;</pr></trd>

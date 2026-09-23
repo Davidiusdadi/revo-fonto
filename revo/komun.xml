@@ -313,6 +313,7 @@
     <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_je;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+    <trd lng="de" fnt="AI: nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gemeinschaft</trd>
     <trdgrp lng="id">
       <trd><baz>awam</baz>keawaman</trd>,
       <trd><baz>biasa</baz>kebiasaan</trd>,
@@ -439,6 +440,11 @@
       <trd>&c_z;&c_v;&c_y;&c_ch;&c_a;&c_j;&c_n;&c_a;</trd>,
       <trd>&c_a;&c_g;&c_u;&c_l;&c_mol;&c_n;&c_a;</trd>,
       <trd>&c_a;&c_g;&c_u;&c_l;&c_a;&c_m;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gemeinhin</trd>,
+      <trd fnt="AI: pl be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">allgemein</trd>,
+      <trd fnt="AI: ru fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gew&ouml;hnlich</trd>
     </trdgrp>
     <trd lng="es">popularmente</trd>
     <trdgrp lng="fr">
@@ -986,6 +992,10 @@
     <trd>obecn&yacute;</trd>,
     <trd>spole&ccaron;n&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kommunal</trd>,
+    <trd fnt="AI: nl cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gemeindlich</trd>
+  </trdgrp>
   <trd lng="en">communal</trd>
   <trdgrp lng="es">
     <trd>comunal</trd>,
@@ -1047,6 +1057,7 @@
     <trd>&c_c;&c_a;&c_l;&c_k;&c_a;&c_m;</trd>,
     <trd>&c_u;&c_v;&c_o;&c_g;&c_u;&c_l;&c_je;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">insgesamt</trd>
   <trd lng="pl">ca&lstroke;o&sacute;ciowo</trd>
   <trd lng="ru">&c_v;&c_o;&c_o;&c_b;&c_shch;&c_je;</trd>
 </drv>
@@ -1073,6 +1084,7 @@
     </rim>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_v;&c_y;&c_m;&c_je;&c_r;&c_n;&c_y;</trd>
+  <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kommensurabel</trd>
 </drv>
 
 <drv mrk="komun.0lingva">

@@ -456,6 +456,10 @@
     <trd>soucitnost</trd>,
     <trd>&uacute;trpnost</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl hu fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Barmherzigkeit</trd>,
+    <trd fnt="AI: fr cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erbarmen</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>mis&eacute;ricorde</trd>,
     <trd>commis&eacute;ration</trd>,
@@ -594,6 +598,7 @@
     <trd>&c_l;&c_ib;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="cs">l&iacute;tostivost <klr>(povaha)</klr></trd>
+  <trd lng="de" fnt="AI: nl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Barmherzigkeit</trd>
   <trdgrp lng="fr">
     <trd>compassion</trd>,
     <trd>piti&eacute;</trd>,
@@ -657,6 +662,7 @@
     <trd>&c_r;&c_a;&c_z;&c_zh;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_r;&c_a;&c_s;&c_ch;&c_u;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en pl nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitleid erregen</trd>
   <trdgrp lng="en">
     <trd>move to <ind>compassion</ind></trd>,
     <trd>incite to <ind>pity</ind></trd>
@@ -833,6 +839,7 @@
     <trd>chud&aacute;k</trd>,
     <trd>ubo&zcaron;&aacute;k</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">armer Teufel <klr>[ugs.]</klr></trd>
   <trdgrp lng="fr">
     <trd>pauvre<klr tip="ind"> (subst., personne
     pitoyable)</klr></trd>,
@@ -886,6 +893,7 @@
     <trd>&c_p;&c_a;&c_sh;&c_k;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_mol;&c_l;&c_ib;&c_t;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: hu fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich erbarmen</trd>
   <trdgrp lng="fr">
     <trd>s'<ind>apitoyer</ind> (de, sur)</trd>,
     <trd>s'<ind>attendrir</ind> (sur)</trd>,
@@ -917,6 +925,11 @@
   </snc>
   <trd lng="be">&c_b;&c_ja;&c_z;&c_mol;&c_l;&c_ib;&c_t;&c_a;&c_s;&c_n;&c_y;</trd>
   <trd lng="cs">nel&iacute;tostn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unbarmherzig</trd>,
+    <trd fnt="AI: cs ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erbarmungslos</trd>,
+    <trd fnt="AI: pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gnadenlos</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>implacable</trd>,
     <trd>intraitable<klr tip="ind"> (impitoyable)</klr></trd>,

@@ -486,6 +486,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: ca cs dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erbfolge</trd>
   <trd lng="id"><baz>waris</baz>pewaris</trd>
   </snc>
   <snc mrk="hered.0eco.GNT">
@@ -507,6 +508,7 @@
     <refgrp tip="vid">
       <ref cel="atavis.0o">atavismo</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: fr cs zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vererbung</trd>
     <trd lng="id">hereditas</trd>
     <trd lng="zh">&#36951;&#20256; <pr>y&iacute;chu&aacute;n</pr></trd>
 </snc>
@@ -653,6 +655,7 @@
         <trd lng="nl">erfrecht</trd>
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: hu ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erbrechtlich</trd>
   </snc>
   <trd lng="be">&c_s;&c_p;&c_a;&c_d;&c_ch;&c_y;&c_n;&c_n;&c_y;</trd>
   <trd lng="hu">&ouml;r&ouml;k&ouml;s&ouml;d&eacute;si</trd>

@@ -91,6 +91,7 @@
     <dif>
       Rilata al <tld/>o<sncref ref="holand.H0o.regiono"/>.
     </dif>
+    <trd lng="de" fnt="AI: ru be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">holl&auml;ndisch</trd>
     <trd lng="ru">&c_g;&c_o;&c_l;&c_l;&c_a;&c_n;&c_d;&c_s;&c_k;&c_i;&c_j;</trd>
   </snc>
   <snc mrk="holand.0a.nederlanda">
@@ -103,6 +104,10 @@
       <fnt><vrk>Esperanto en perspektivo</vrk>. <lok>1974. &para;15.2.25</lok></fnt>.
     </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">holl&auml;ndisch <klr>[ugs.]</klr></trd>,
+      <trd fnt="AI: ref ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">niederl&auml;ndisch</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_g;&c_o;&c_l;&c_l;&c_a;&c_n;&c_d;&c_s;&c_k;&c_i;&c_j;</trd>,
       <trd>&c_n;&c_je;&c_d;&c_je;&c_r;&c_l;&c_a;&c_n;&c_d;&c_s;&c_k;&c_i;&c_j;</trd>

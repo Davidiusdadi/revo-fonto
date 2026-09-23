@@ -103,6 +103,10 @@
     <trd>&c_n;&c_a;&c_d;&c_y;&c_h;&c_o;&c_d;&c_z;&c_ja;&c_ch;&c_y;</trd>
   </trdgrp>
   <trd lng="cs">budouc&iacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">k&uuml;nftig</trd>,
+    <trd fnt="AI: en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zuk&uuml;nftig</trd>
+  </trdgrp>
   <trd lng="en">future</trd>
   <trd lng="fr">futur <klr>(adj.)</klr></trd>
   <trd lng="nl">toekomstig</trd>

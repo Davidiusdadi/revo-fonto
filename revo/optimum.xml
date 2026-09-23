@@ -171,6 +171,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Optimierung</trd>
     <trd lng="ru">&c_o;&c_p;&c_t;&c_i;&c_m;&c_i;&c_z;&c_a;&c_c;&c_i;&c_ja;</trd>
   </snc>
   <snc mrk="optimum.0igo.MAT">
@@ -192,6 +193,10 @@
         ... + a<sub>in</sub>x<sub>n</sub> &#8805; b<sub>i</sub></frm>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Optimierung</trd>,
+      <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mathematische Optimierung</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>mathematical optimization</trd>,
       <trd>mathematical programming</trd>

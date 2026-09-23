@@ -393,6 +393,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vorantreiben</trd>,
+      <trd fnt="AI: hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">f&ouml;rdern</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>&ouml;szt&ouml;n&ouml;z</trd>,
       <trd>serkent</trd>,
@@ -620,6 +624,7 @@
   </snc>
   <trd lng="be">&c_n;&c_e;&c_r;&c_v;&c_o;&c_v;&c_y; <ind>&c_ib;&c_m;&c_p;&c_u;&c_l;&c_mol;&c_s;</ind></trd>
   <trd lng="cs">nervov&yacute; podn&ecaron;t</trd>
+  <trd lng="de" fnt="AI: en pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nervenimpuls</trd>
   <trd lng="en">nerve <ind>impulse</ind></trd>
   <trd lng="fr">influx nerveux</trd>
   <trd lng="it">stimolo nervoso</trd>

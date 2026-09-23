@@ -98,6 +98,7 @@
   </snc>
   <trd lng="be">&c_a;&c_r;&c_a;&c_t;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
   <trd lng="ca">oratori <klr tip="amb">(adj.)</klr></trd>
+  <trd lng="de" fnt="AI: en fr hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">rednerisch</trd>
   <trd lng="en">oratorical</trd>
   <trd lng="fr">oratorique</trd>
   <trd lng="hu">sz&oacute;noki</trd>
@@ -178,6 +179,10 @@
     <trd>discurs</trd>,
     <trd>oraci&oacute; <klr tip="ind">(discurs)</klr></trd>
     <trd>peroraci&oacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rede</trd>,
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ansprache</trd>
   </trdgrp>
   <trd lng="el">&omikron;&my;&jota;&lambda;&jota_ton;&alfa;</trd>
   <trdgrp lng="en">

@@ -167,6 +167,7 @@
     <dif>
       <tld lit="K"/>anta.
     </dif>
+    <trd lng="de" fnt="AI: pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenlaufend</trd>
     <trdgrp lng="pl">
       <trd>zbie&zdot;ny</trd>,
       <trd>zbiegaj&aogonek;cy si&eogonek;</trd>
@@ -301,6 +302,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_b;&c_ib;&c_r;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_a;&c_d;&c_z;&c_ib;&c_n; &c_p;&c_u;&c_n;&c_k;&c_t;, &c_n;&c_a;&c_p;&c_r;. &c_p;&c_r;&c_a;&c_m;&c_je;&c_n;&c_ib;)</klr></trd>
+  <trd lng="de" fnt="AI: ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">b&uuml;ndeln</trd>
   <trdgrp lng="ja">
     <trd>&#38598;&#26463;&#12373;&#12379;&#12427;  <pr>&#12375;&#12421;&#12358;&#12383;&#12400;&#12373;&#12379;&#12427;</pr></trd>,
     <trd>&#21454;&#26463;&#12373;&#12379;&#12427;  <pr>&#12375;&#12421;&#12358;&#12381;&#12367;&#12373;&#12379;&#12427;</pr></trd>

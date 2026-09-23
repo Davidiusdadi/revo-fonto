@@ -313,6 +313,10 @@
     <trd>koncertn&iacute; m&iacute;stnost</trd>,
     <trd>koncertn&iacute; s&aacute;l</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Konzertsaal</trd>,
+    <trd fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Konzerthaus</trd>
+  </trdgrp>
   <trd lng="en">concert hall</trd>
   <trd lng="fr">salle de <ind>concert</ind></trd>
   <trd lng="hu">hangversenyterem</trd>
@@ -363,6 +367,7 @@
   </snc>
   <ref tip="sin" cel="recital.0o">recitalo</ref>
   <trd lng="be">&c_s;&c_o;&c_l;&c_mol;&c_n;&c_y; <ind>&c_k;&c_a;&c_n;&c_c;&c_e;&c_r;&c_t;</ind></trd>
+  <trd lng="de" fnt="AI: ref en id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rezital</trd>
   <trd lng="en">recital</trd>
   <trd lng="id">resital</trd>
   <trd lng="ru">&c_s;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_k;&c_o;&c_n;&c_c;&c_je;&c_r;&c_t;</trd>

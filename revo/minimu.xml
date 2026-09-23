@@ -248,6 +248,10 @@
   <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t;
   <ind>&c_m;&c_ib;&c_n;&c_ib;&c_m;&c_u;&c_m;&c_u;</ind></trd>
   <trd lng="cs">minimum <klr>(na k&rcaron;ivce| na grafu)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Minimalstelle</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Minimumstelle</trd>
+  </trdgrp>
   <trd lng="en">point of minimum</trd>
   <trd lng="hu">minimaliz&aacute;l&oacute;</trd>
   <trd lng="pl">punkt minimum</trd>

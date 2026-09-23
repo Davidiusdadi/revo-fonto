@@ -506,6 +506,7 @@
     <ind>&c_a;&c_s;&c_a;&c_l;&c_o;&c_d;&c_u;</ind></trd>
   </trdgrp>
   <trd lng="ca">delectar-se en</trd>
+  <trd lng="de" fnt="AI: id en pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vergn&uuml;gen</trd>
   <trd lng="en">take pleasure in</trd>
   <trd lng="fr">avoir <ind>plaisir</ind></trd>
   <trdgrp lng="id">
@@ -674,6 +675,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_k;&c_r;&c_y;</trd>
+  <trd lng="de" fnt="AI: fr pt pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unangenehm</trd>
   <trd lng="en">displeased</trd>
   <trd lng="fr">d&eacute;sagr&eacute;able</trd>
   <trdgrp lng="ja">
@@ -704,6 +706,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_r;&c_y;&c_je;&c_m;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl pt ro fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unangenehm</trd>,
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unerfreulich</trd>
+  </trdgrp>
   <trd lng="en">displeasing</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;plaisant</trd>,
@@ -759,6 +765,7 @@
     <trd>znechutit</trd>,
     <trd>znep&rcaron;&iacute;jemnit</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verdrie&szlig;en <klr>(gehoben)</klr></trd>
   <trd lng="en">displease</trd>
   <trdgrp lng="fr">
     <trd>contrarier</trd>,

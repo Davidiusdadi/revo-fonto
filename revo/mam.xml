@@ -200,6 +200,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en fr be bg; proponis claude-opus-5-5; kontrolis claude-opus-5-5">K&ouml;rbchen</trd>
   <trd lng="en"><ind>breast</ind> cup <klr>(of a bra)</klr></trd>
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_sh;&c_k;&c_a; &c_b;&c_ju;&c_s;&c_t;&c_g;&c_a;&c_l;&c_mol;&c_t;&c_a;&c_r;&c_a;</trd>
@@ -381,6 +382,10 @@
     <dif>
       Iu el <ref tip="malprt" cel="mam.pra0uloj">pra<tld/>uloj</ref>.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref ro en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kloakentier</trd>,
+      <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Urs&auml;uger</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_sh;&c_a;&c_z;&c_mol;&c_v;&c_je;&c_r;</trd>
   <trd lng="en">egg-bearing <ind>mammal</ind></trd>

@@ -472,6 +472,10 @@
     <trd lng="be">&c_m;&c_o;&c_v;&c_a; <klr>(&c_ja;&c_k; &c_m;&c_a;&c_n;&c_e;&c_r;&c_a;
     &c_v;&c_y;&c_r;&c_a;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
     <trd lng="ca">llenguatge<klr tip="amb"> (manera de parlar)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ausdrucksweise</trd>,
+      <trd fnt="AI: fr ru be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sprache</trd>
+    </trdgrp>
     <trd lng="fr">langage</trd>
     <trd lng="ru">&c_ja;&c_z;&c_y;&c_k;<klr> (&c_a;&c_v;&c_t;&c_o;&c_r;&c_a;,
     &c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_ja; &c_i; &c_t;.&c_p;.)</klr></trd>
@@ -890,6 +894,10 @@
   </refgrp>
   <trd lng="be">&c_ch;&c_a;&c_l;&c_a;&c_v;&c_je;&c_ch;&c_a;&c_ja;
   <ind>&c_m;&c_o;&c_v;&c_a;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Menschensprache</trd>,
+    <trd fnt="AI: en ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">menschliche Sprache</trd>
+  </trdgrp>
   <trd lng="en">human language</trd>
   <trd lng="id">bahasa manusia</trd>
   <trd lng="pl">j&eogonek;zyk ludzki</trd>
@@ -923,6 +931,7 @@
     <trd>llenguatge t&egrave;cnic</trd>,
     <trd>argot</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: hu fr es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fachsprache</trd>
   <trd lng="en">jargon</trd>
   <trd lng="es">lenguaje t&eacute;cnico</trd>
   <trd lng="fr">langue de sp&eacute;cialit&eacute;</trd>
@@ -1158,6 +1167,10 @@
     <trdgrp lng="ca">
       <trd>llengua franca</trd>,
       <trd>llengua vehicular</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verkehrssprache</trd>,
+      <trd fnt="AI: en ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lingua franca</trd>
     </trdgrp>
     <trd lng="fr">langue v&eacute;hiculaire</trd>
   </snc>
@@ -1448,6 +1461,7 @@
     <trd>pluriling&uuml;isme</trd>,
     <trd>multiling&uuml;isme</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mehrsprachigkeit</trd>
   <trd lng="en">multilingualism</trd>
   <trd lng="fr">multilinguisme</trd>
   <trdgrp lng="id">
@@ -1793,6 +1807,7 @@
   </snc>
   <trd lng="be">&c_t;&c_o;&c_n;&c_a;&c_v;&c_a;&c_ja; <ind>&c_m;&c_o;&c_v;&c_a;</ind></trd>
   <trd lng="ca">llengua tonal</trd>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tonsprache</trd>
   <trd lng="en">tonal language</trd>
   <trdgrp lng="fr">
     <trd>langue &agrave; tons</trd>,
@@ -1893,6 +1908,7 @@
   </snc>
   <trd lng="be">&c_a;&c_d;&c_n;&c_a;&c_m;&c_o;&c_w;&c_je;</trd>
   <trd lng="ca">monoling&uuml;isme</trd>
+  <trd lng="de" fnt="AI: en fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einsprachigkeit</trd>
   <trdgrp lng="en">
     <trd>unilingualism</trd>,
     <trd>monolingualism</trd>,
@@ -1936,6 +1952,10 @@
   </snc>
   <trd lng="be">&c_a;&c_d;&c_n;&c_a;&c_m;&c_o;&c_w;&c_je;</trd>
   <trd lng="ca">monoling&uuml;isme</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einsprachigkeit</trd>,
+    <trd kod="FAK" fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Monolingualismus <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>unilingualism</trd>,
     <trd>monolingualism</trd>,

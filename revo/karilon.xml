@@ -22,6 +22,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_r;&c_y;&c_l;&c_mol;&c_jo;&c_n;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Glockenspiel</trd>,
+    <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Carillon</trd>
+  </trdgrp>
   <trd lng="en">carillon</trd>
   <trd lng="pl">karylion</trd>
 </drv>

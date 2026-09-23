@@ -762,6 +762,7 @@
     <trd>accedir a un <ind>c&agrave;rrec</ind></trd>,
     <trd>prendre possessi&oacute; d'un <ind>c&agrave;rrec</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: ca fr pl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein Amt antreten</trd>
   <trd lng="fr">prendre ses <ind>fonctions</ind></trd>
   <trdgrp lng="id">
     <trd><baz>jabat</baz>menjabat</trd>,
@@ -804,6 +805,10 @@
   <trd lng="be">&c_p;&c_a;&c_z;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_mol;
   &c_p;&c_a;&c_s;&c_a;&c_d;&c_y;</trd>
   <trd lng="ca">destituir</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ca zh id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">absetzen</trd>,
+    <trd fnt="AI: fr es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">des Amtes entheben</trd>
+  </trdgrp>
   <trd lng="es">privar de sus funciones</trd>
   <trd lng="fr">priver de ses <ind>fonctions</ind></trd>
   <trdgrp lng="id">

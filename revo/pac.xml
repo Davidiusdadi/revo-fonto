@@ -754,6 +754,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_m;&c_ib;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ro pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vers&ouml;hnung</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Auss&ouml;hnung</trd>
+  </trdgrp>
   <trd lng="en">reconciliation</trd>
   <trd lng="fr">r&eacute;conciliation</trd>
   <trd lng="id">rekonsiliasi</trd>
@@ -1293,6 +1297,10 @@ rabado kaj perfortado estas anta&ubreve; mi, levi&gcirc;as disputoj kaj
     <trd>&c_m;&c_ib;&c_r;&c_y;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_m;&c_ib;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_l;&c_a;&c_g;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vers&ouml;hnen</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich auss&ouml;hnen</trd>
   </trdgrp>
   <trd lng="en">reconcile <klr>(with each other)</klr></trd>
   <trd lng="fr">se <ind>r&eacute;concilier</ind></trd>

@@ -753,6 +753,7 @@
     </dif>
     <trd lng="be">&c_b;&c_ja;&c_g;&c_u;&c_n;</trd>
     <trd lng="ca">corredor</trd>
+    <trd lng="de" fnt="AI: en es ca ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">L&auml;ufer</trd>
     <trd lng="en">runner</trd>
     <trd lng="es">corredor</trd>
     <trd lng="fr">courreur</trd>
@@ -780,6 +781,7 @@
       <trd>&c_b;&c_ja;&c_g;&c_u;&c_n;</trd>,
       <trd>&c_s;&c_k;&c_a;&c_r;&c_a;&c_h;&c_o;&c_d;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">L&auml;ufer</trd>
     <trd lng="en">footman</trd>
     <trd lng="ru">&c_s;&c_k;&c_o;&c_r;&c_o;&c_h;&c_o;&c_d;</trd>
   </snc>
@@ -788,6 +790,10 @@
   <trdgrp lng="be">
     <trd>&c_k;&c_u;&c_r;&#8217;&c_je;&c_r;</trd>,
     <trd>&c_v;&c_ja;&c_s;&c_t;&c_u;&c_n;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kurier</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Eilbote</trd>
   </trdgrp>
   <trd lng="id">kurir</trd>
   </snc>
@@ -1032,6 +1038,7 @@
   <trd lng="fr">s'<ind>&eacute;gailler</ind></trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ja;&c_g;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="de" fnt="AI: en uk be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auseinanderlaufen</trd>
   <trd lng="en">scatter <klr>(at a run)</klr></trd>
   <trd lng="id"><baz>lari</baz>berlari menyebar</trd>
   <trd lng="ja">&#25955;&#x308A;&#25955;&#x308A;&#x306B;&#x8D70;&#x308A;&#x53BB;&#x308B;
@@ -1188,6 +1195,7 @@
   </snc>
   <trd lng="be">&c_b;&c_je;&c_g;&c_ch;&c_y; <klr>(&c_u;&c_z;&c_d;&c_o;&c_w;&c_zh;)</klr></trd>
   <trd lng="br">redek a-hed</trd>
+  <trd lng="de" fnt="AI: en ru uk fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entlanglaufen</trd>
   <trd lng="en"><ind>run</ind> along</trd>
   <trdgrp lng="fr">
     <trd>longer en courant</trd>,
@@ -1341,6 +1349,10 @@
     <trd>prob&ecaron;hnout</trd>,
     <trd>p&rcaron;eb&ecaron;hnout</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl cs ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">durchlaufen</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">durcheilen</trd>
+  </trdgrp>
   <trd lng="en"><ind>run</ind> through</trd>
   <trd lng="fr">parcourir</trd>
   <trdgrp lng="hu">
@@ -1485,6 +1497,7 @@
     <trd>&c_a;&c_w;&c_t;&c_a;&c_t;&c_r;&c_e;&c_k;</trd>
   </trdgrp>
   <trd lng="ca">circuit<klr tip="amb"> (de curses)</klr></trd>
+  <trd lng="de" fnt="AI: en es ca fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rennstrecke</trd>
   <trd lng="en">racetrack <klr>(for cars)</klr></trd>
   <trd lng="es">circuito</trd>
   <trd lng="fr">circuit automobile</trd>
@@ -1555,6 +1568,11 @@
         &c_k;&c_ib;&c_m;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   </trdgrp>
   <trd lng="bg">&c_g;&c_o;&c_n;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl it pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfolgen</trd>,
+    <trd fnt="AI: hu uk ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hetzen</trd>,
+    <trd fnt="AI: ru be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nachjagen</trd>
+  </trdgrp>
   <trd lng="en"><ind>run</ind> down</trd>
   <trd lng="fr">pourchasser</trd>
   <trdgrp lng="hu">

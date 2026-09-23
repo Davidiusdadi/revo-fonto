@@ -169,6 +169,10 @@
         <ref cel="provok.0i">provoki</ref>,
         <ref cel="spit.0i">spiti</ref>
       </refgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: nl it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reizen</trd>,
+        <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kr&auml;nken</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>piszk&aacute;l</trd>,
         <trd>szurk&aacute;l</trd>
@@ -205,6 +209,10 @@
           <tld/>spirita fra&ubreve;lino.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: nl it hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">prickeln</trd>,
+        <trd fnt="AI: nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reizen</trd>
+      </trdgrp>
       <trd lng="hu">cs&iacute;p</trd>
       <trd lng="it">pizzicare</trd>
       <trd lng="nl">prikkelen</trd>
@@ -372,6 +380,7 @@
       <trd>p&iacute;chac&iacute;</trd>,
       <trd>zp&uring;soben&yacute; bodnut&iacute;m</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en fr it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pikant</trd>
     <trdgrp lng="en">
       <trd>pointy</trd>,
       <trd>pointed</trd>,
@@ -604,6 +613,7 @@
       <ref cel="tref.0o">trefo</ref>
     </refgrp>
     <trd lng="be">&c_p;&c_ib;&c_k;&c_a; <klr>(&c_k;&c_a;&c_r;&c_t;&c_a;)</klr></trd>
+    <trd lng="de" fnt="AI: en fr hu ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pik</trd>
     <trd lng="en">spade</trd>
     <trd lng="es">pica<klr tip="amb"> (palo de cartas)</klr></trd>
     <trd lng="fr">pique<klr tip="ind"> (jeu de cartes)</klr></trd>
@@ -684,6 +694,7 @@
     <trd>&c_k;&c_a;&c_l;&c_ju;&c_ch;&c_k;&c_a;</trd>,
     <trd>&c_sh;&c_y;&c_p;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Stachel</trd>
   <trdgrp lng="en">
     <trd>thorn<klr> (plant part)</klr></trd>,
     <trd>barb<klr> (n)</klr></trd>

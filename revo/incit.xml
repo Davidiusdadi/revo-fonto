@@ -368,6 +368,7 @@
       <trd>escarn</trd>,
       <trd>escarni</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Provokation</trd>
     <trd lng="en">excitation</trd>
     <trdgrp lng="fr">
       <trd>provocation<klr tip="ind"> (ce qui irrite)</klr></trd>,
@@ -406,6 +407,10 @@
       <trd>neguit</trd>,
       <trd>agitaci&oacute;</trd>,
       <trd>irritaci&oacute;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru fr hu be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gereiztheit</trd>,
+      <trd fnt="AI: ca fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erregung</trd>
     </trdgrp>
     <trd lng="es">incitaci&oacute;n</trd>
     <trdgrp lng="fr">
@@ -483,6 +488,7 @@
     <trd>dr&aacute;&zcaron;dit</trd>,
     <trd>&scaron;k&aacute;dlit</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: be bg cs sk pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reizen</trd>
   <trd lng="en">continually <ind>incite</ind></trd>
   <trdgrp lng="pl">
     <trd>rozdra&zdot;nia&cacute;</trd>,

@@ -642,6 +642,10 @@
           </fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: ref en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kap</trd>,
+        <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Landspitze</trd>
+      </trdgrp>
       <trdgrp lng="en">
 	<trd>cape</trd>,
 	<trd>promontory</trd>
@@ -861,6 +865,7 @@
     <trd>&c_n;&c_a; <ind>&c_ch;&c_a;&c_l;&c_je;</ind></trd>,
     <trd>&c_n;&c_a;&c_p;&c_je;&c_r;&c_a;&c_d;&c_z;&c_je;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">an der Spitze</trd>
   <trd lng="fr">en t&ecirc;te de</trd>
   <trdgrp lng="id">
     <trd>di atas</trd>,
@@ -1136,6 +1141,7 @@
       <trd>&c_s;&c_k;&c_ib;&c_n;&c_h;&c_e;&c_d;</trd>,
       <trd>&c_b;&c_r;&c_y;&c_t;&c_a;&c_g;&c_a;&c_l;&c_o;&c_v;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Skinhead</trd>
     <trd lng="en">skinhead</trd>
     <trd lng="fr">skinhead</trd>
     <trd lng="id">skinhead<klr tip="amb"> (subkultur)</klr></trd>
@@ -1166,6 +1172,7 @@
     <trd>per <ind>cap</ind></trd>,
     <trd>en <ind>recompte</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en nl fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pro Kopf</trd>
   <trd lng="en">by headcount</trd>
   <trd lng="es">por cabeza</trd>
   <trd lng="fr">par <ind>t&ecirc;te</ind></trd>
@@ -1222,6 +1229,10 @@
     <trd>cap de suro</trd>
   </trdgrp>
   <trd lng="cs">h&ncaron;up</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schwachkopf <klr>[pej.]</klr></trd>,
+    <trd fnt="AI: fr es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dummkopf <klr>[ugs.]</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>insensato</trd>,
     <trd>zopenco</trd>,
@@ -1326,6 +1337,10 @@
   <trdgrp lng="ca">
     <trd>tros de soca</trd>,
     <trd>cap dur</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Holzkopf <klr>[ugs.]</klr></trd>,
+    <trd fnt="AI: nl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dummkopf <klr>[ugs.]</klr></trd>
   </trdgrp>
   <trd lng="en">blockhead</trd>
   <trdgrp lng="es">
@@ -1439,6 +1454,10 @@
     <trd>eixelebrat</trd>
   </trdgrp>
   <trd lng="cs">lehkomysln&yacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl cs be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">leichtsinnig</trd>,
+    <trd fnt="AI: ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">flatterhaft</trd>
+  </trdgrp>
   <trd lng="en">airhead</trd>
   <trd lng="es">descerebrado</trd>
   <trdgrp lng="fr">
@@ -1503,6 +1522,10 @@
     <trd>cap fluix</trd>,
     <trd>cap verd</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ru nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Windbeutel <klr>[ugs.]</klr></trd>,
+    <trd fnt="AI: be nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Luftikus <klr>[ugs.]</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>b&ecirc;ta<klr> (subst.)</klr></trd>,
     <trd>idiot<klr> (subst.)</klr></trd>,
@@ -1562,6 +1585,7 @@
   </trdgrp>
   <trd lng="bg">&c_o;&c_t; &c_g;&c_l;&c_a;&c_v;&c_a; &c_d;&c_o; &c_p;&c_je;&c_t;&c_i;</trd>
   <trd lng="ca">de <ind>cap</ind> a peus</trd>
+  <trd lng="de" fnt="AI: fr es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von Kopf bis Fu&szlig;</trd>
   <trdgrp lng="es">
     <trd>de la <ind>cabeza</ind> a los pies</trd>,
     <trd>de <ind>arriba</ind> a abajo</trd>
@@ -1599,6 +1623,7 @@
     <trd>escalfar-se el <ind>cap</ind></trd>,
     <trd>trencar-se les banyes<baz>banya</baz></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: nl fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich den Kopf zerbrechen</trd>
   <trdgrp lng="fr">
     <trd>se casser la <ind>t&ecirc;te</ind></trd>,
     <trd>se <ind>creuser</ind> la t&ecirc;te</trd>

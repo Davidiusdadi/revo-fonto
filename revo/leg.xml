@@ -946,6 +946,7 @@
       preferas la vorton &leftquot;vo&ccirc;<tld/>i&rightquot;.
       <aut>Sergio Pokrovskij</aut>
     </rim>
+  <trd lng="de" fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">laut lesen</trd>
   <trd lng="id"><baz>baca</baz>membaca dgn suara</trd>
   </snc>
   <trd lng="ca">llegir en veu alta</trd>
@@ -1339,6 +1340,7 @@
     &c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
   </trdgrp>
   <trd lng="ca">alfabetitzaci&oacute;</trd>
+  <trd lng="de" fnt="AI: fr es it pl pt en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Alphabetisierung</trd>
   <trd lng="en">teaching of literacy</trd>
   <trd lng="es">alfabetizaci&oacute;n</trd>
   <trd lng="fr">alphab&eacute;tisation</trd>
@@ -1385,6 +1387,7 @@
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_ib;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_y;</trd>
   <trd lng="ca">analfabet</trd>
+  <trd lng="de" fnt="AI: en fr es ca ro dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">analphabetisch</trd>
   <trdgrp lng="en">
     <trd>illiterate</trd>,
     <trd>analphabet</trd>

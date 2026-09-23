@@ -297,6 +297,11 @@
       <trd>en <ind>conflicte</ind></trd>,
       <trd>contradictori</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ca nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">widerstreitend</trd>,
+      <trd fnt="AI: ca fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">widerspr&uuml;chlich</trd>,
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gegens&auml;tzlich</trd>
+    </trdgrp>
     <trdgrp lng="nl">
       <trd>conflicterend</trd>,
       <trd>confligerend</trd>
@@ -330,6 +335,10 @@ Folio</url></lok>
       <trd>conflictiu</trd>,
       <trd>ple de <ind>conflicte</ind>s</trd>
     </trdgrp>
+     <trdgrp lng="de">
+       <trd fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">konflikttr&auml;chtig</trd>,
+       <trd fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">konfliktreich</trd>
+     </trdgrp>
      <trdgrp lng="nl">
       <trd>conflicterend</trd>,
       <trd>confligerend</trd>

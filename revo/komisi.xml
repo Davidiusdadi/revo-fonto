@@ -167,6 +167,7 @@
           </fnt>.
         </ekz>
       </dif>
+    <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beauftragung</trd>
     <trdgrp lng="id">
       <trd><baz>percaya</baz>pemercayaan</trd>,
       <trd><baz>amanat</baz>pengamanatan</trd>,
@@ -222,6 +223,7 @@
           </fnt>.
         </ekz>
       </dif>
+    <trd lng="de" fnt="AI: fr zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Aufgabe</trd>
     <trdgrp lng="en">
       <trd fnt="Vikt: de; juĝis claude-opus-5">assignment</trd>,
       <trd fnt="Vikt: de; juĝis claude-opus-5">mission</trd>,
@@ -288,6 +290,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kommission</trd>,
+      <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ausschuss</trd>
+    </trdgrp>
     <trd lng="id">komisi</trd>
     <trd lng="nl">commissie<klr tip="ind"> (arch.)</klr></trd>
   </snc>
@@ -416,6 +422,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl es ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Auftraggeber</trd>
     <trd lng="id"><baz>suruh</baz>penyuruh</trd>
     <trd lng="nl">boodschapper</trd>
   </snc>
@@ -433,6 +440,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kommittent</trd>,
+      <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Auftraggeber</trd>
+    </trdgrp>
     <trd lng="id">perantara dagang</trd>
     <trdgrp lng="nl">
       <trd>commissionair</trd>,
@@ -473,6 +484,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beauftragt werden</trd>
   </snc>
 <trd lng="be">&c_a;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; <ind>&c_d;&c_a;&c_r;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
 <trdgrp lng="id">
@@ -503,6 +515,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd kod="ARK" fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dienstmann <klr>(veraltet)</klr></trd>,
+      <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bote</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>commissionnaire<klr tip="ind"> (personne qui ex&eacute;cute les
       commissions)</klr></trd>,
@@ -520,6 +536,7 @@
       konto de alia persono, kaj por tio ricevas de li <tld/>pagon.
     </dif>
     <ref tip="sin" cel="makler.0isto">makleristo</ref>
+    <trd lng="de" fnt="AI: es fr nl ru sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kommission&auml;r</trd>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">mandatary</trd>
     <trd lng="es">comisionista<klr tip="ind"> (comercial)</klr></trd>
     <trd lng="fr">commissionnaire<klr tip="ind"> (commerce)</klr></trd>
@@ -608,6 +625,11 @@
     <trd>komisa&rcaron;</trd>,
     <trd>pov&ecaron;&rcaron;enec</trd>,
     <trd>po&rcaron;adatel</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: be sk uk fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beauftragter</trd>,
+    <trd fnt="AI: ru uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bevollm&auml;chtigter</trd>,
+    <trd fnt="AI: fr cs id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kommissar</trd>
   </trdgrp>
   <trd lng="es">comisionado</trd>
   <trdgrp lng="fr">

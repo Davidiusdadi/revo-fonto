@@ -383,6 +383,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_E;&c_d;&c_y;&c_p;&c_a;&c_w; &c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;</trd>
+  <trd lng="de" fnt="AI: en fr pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Ouml;dipuskomplex</trd>
   <trd lng="en">Oedipus complex</trd>
   <trd lng="fr">complexe d'&OElig;dipe</trd>
   <trd lng="ja">&#12456;&#12487;&#12451;&#12503;&#12473;&#12467;&#12531;&#12503;&#12524;&#12483;&#12463;&#12473;</trd>
@@ -439,6 +440,10 @@
     <ref cel="estim.mem0o.PSI">memestimo</ref>
   </refgrp>
   <trd lng="be">&c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s; &c_n;&c_je;&c_p;&c_a;&c_w;&c_n;&c_a;&c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ro be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Minderwertigkeitskomplex</trd>,
+    <trd fnt="AI: fr ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Minderwertigkeitsgef&uuml;hl</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>complexe d'inf&eacute;riorit&eacute;</trd>,
     <trd>sentiment d'inf&eacute;riorit&eacute;</trd>

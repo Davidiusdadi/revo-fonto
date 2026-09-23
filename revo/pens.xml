@@ -1035,6 +1035,10 @@
   </snc>
   <trd lng="be">&c_a;&c_b;&c_d;&c_u;&c_m;&c_v;&c_a;&c_c;&c_mol; &c_z;&c_a;&c_g;&c_a;&c_d;&c_z;&c_ja;</trd>
   <trd lng="ca">reflexionar per endavant</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">vorbedenken</trd>,
+    <trd fnt="AI: en fr es ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Voraus bedenken</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>think before acting</trd>,
     <trd>give forethought</trd>
@@ -1537,6 +1541,7 @@
     <trd>&c_d;&c_u;&c_m;&c_k;&c_a; &c_n;&c_a;&c_w;&c_z;&c_d;&c_a;&c_g;&c_o;&c_n;</trd>,
     <trd>&c_r;&c_e;&c_f;&c_l;&c_je;&c_k;&c_s;&c_ib;&c_ja;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">nachtr&auml;glicher Gedanke</trd>
   <trd lng="en">afterthought</trd>
   <trd lng="fr">r&eacute;flexion apr&egrave;s coup</trd>
   <trd lng="id"><baz>renung</baz>renungan</trd>

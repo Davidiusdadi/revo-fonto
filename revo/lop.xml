@@ -16,6 +16,10 @@
   </snc>
   <trd lng="be">&c_v;&c_y;&c_k;&c_o;&c_n;&c_v;&c_a;&c_c;&c_mol; &c_m;&c_jo;&c_r;&c_t;&c_v;&c_u;&c_ju; <ind>&c_p;&c_ja;&c_t;&c_l;&c_ju;</ind></trd>
   <trd lng="cs">u&ccaron;init p&rcaron;emet</trd>
+  <trdgrp lng="de">
+    <trd kod="FAK" fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">loopen <klr>(fachspr.)</klr></trd>,
+    <trd fnt="AI: fr pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einen Looping fliegen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>to loop <klr>(aerobatic)</klr></trd>,
     <trd>loop-the-loop</trd>

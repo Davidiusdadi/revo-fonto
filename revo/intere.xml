@@ -701,6 +701,11 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">faszinieren</trd>,
+    <trd fnt="AI: fr es id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fesseln</trd>,
+    <trd fnt="AI: fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">begeistern</trd>
+  </trdgrp>
   <trd lng="en">fascinate <klr>(engage attention)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -816,6 +821,7 @@
       <aut>MB</aut>
     </adm>
     <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_c;&c_ib;&c_k;&c_a;&c_v;&c_y;&c_m;</ind></trd>
+    <trd lng="de" fnt="AI: en nl hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">interessant machen</trd>
     <trd lng="en">make <ind>interest</ind>ing</trd>
     <trd lng="hu">&eacute;rdekess&eacute; tesz</trd>
     <trd lng="nl">interessant maken</trd>
@@ -935,6 +941,7 @@
       </fnt>.
     </ekz>
     <trd lng="be">&c_c;&c_ib;&c_k;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a;</trd>
+    <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich beteiligen</trd>
     <trd lng="nl">zich <ind>interesseren</ind> in</trd>
     <trdgrp lng="pl">
       <trd>interesowa&cacute; si&eogonek;</trd>,
@@ -1097,6 +1104,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">interessanter machen</trd>
   <trd lng="en">make more <ind>interest</ind>ing</trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_c;&c_ib;&c_k;&c_a;&c_v;&c_je;&c_j;&c_sh;&c_y;&c_m;</ind></trd>

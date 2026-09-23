@@ -34,6 +34,10 @@
     <trd>slo&zcaron;enina</trd>,
     <trd>slo&zcaron;en&eacute; slovo</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es it pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verbundwerkstoff</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Faserverbundwerkstoff</trd>
+  </trdgrp>
   <trd lng="en">composite material</trd>
   <trd lng="es">material compuesto</trd>
   <trd lng="fr">mat&eacute;riau <ind>composite</ind></trd>

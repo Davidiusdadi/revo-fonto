@@ -285,6 +285,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Erzketzer</trd>,
+      <trd kod="FAK" fnt="AI: fr it ca ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">H&auml;resiarch <klr>(fachspr.)</klr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_je;&c_r;&c_e;&c_s;&c_ib;&c_ja;&c_r;&c_h;</trd>
   <trd lng="ca">heresiarca</trd>

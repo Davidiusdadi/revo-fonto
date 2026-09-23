@@ -304,6 +304,11 @@
   </snc>
   <trd lng="be">&c_s;&c_l;&c_u;&c_zh;&c_b;&c_o;&c_v;&c_a;&c_ja; <ind>&c_a;&c_s;&c_o;&c_b;&c_a;</ind></trd>
   <trd lng="cs">&uacute;&rcaron;edn&iacute; osoba</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs sk uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Amtstr&auml;ger</trd>,
+    <trd fnt="AI: cs sk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Amtsperson</trd>,
+    <trd fnt="AI: en zh fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Funktion&auml;r</trd>
+  </trdgrp>
   <trd lng="en">official<klr> (subst.)</klr></trd>
   <trdgrp lng="fr">
     <trd>officiel<klr tip="amb"> (subst.)</klr></trd>,

@@ -855,6 +855,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_m;&c_o;&c_v;&c_y; &c_p;&c_r;&c_a;&c_c;&c_y;</trd>
+  <trd lng="de" fnt="AI: en fr pl pt ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Arbeitsbedingung</trd>
   <trd lng="en">working conditions</trd>
   <trd lng="fr">condition de travail</trd>
   <trd lng="id"><ind>kondisi</ind> kerja</trd>
@@ -974,6 +975,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_u;&c_m;&c_o;&c_v;&c_y; &c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lebensbedingung</trd>,
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lebensverh&auml;ltnisse</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>standard of living</trd>,
     <trd>living conditions</trd>

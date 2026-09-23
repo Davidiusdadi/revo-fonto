@@ -93,6 +93,7 @@
       <trd>&c_p;&c_ib;&c_s;&c_a;&c_c;&c_mol; <ind>&c_a;&c_p;&c_o;&c_v;&c_je;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>,
       <trd>&c_p;&c_ib;&c_s;&c_a;&c_c;&c_mol; <ind>&c_n;&c_a;&c_v;&c_e;&c_l;&c_u;</ind></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: nl pl it hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Novellen schreiben</trd>
     <trdgrp lng="hu">
       <trd>novell&aacute;t &iacute;r</trd>,
       <trd>elbesz&eacute;l&eacute;st &iacute;r</trd>
@@ -127,6 +128,10 @@ samtemaj <tld/>oj:
     <trd>&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k; <ind>&c_n;&c_a;&c_v;&c_e;&c_l;&c_a;&c_w;</ind></trd>
   </trdgrp>
   <trd lng="br">dastumad <ind>danevello&ugrave;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Novellensammlung</trd>,
+    <trd fnt="AI: hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Novellenband</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>recueil de <ind>nouvelles</ind></trd>
   </trdgrp>

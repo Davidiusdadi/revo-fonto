@@ -38,6 +38,10 @@
     <trd>&c_v;&c_o;&c_h;!</trd>,
     <trd>&c_a;&c_j;!</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">au</trd>,
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">huch</trd>
+  </trdgrp>
   <trd lng="fr">houla !</trd>
   <trdgrp lng="hu">
     <trd>h&uacute;!</trd>,

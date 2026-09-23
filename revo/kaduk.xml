@@ -542,6 +542,7 @@
     <trd>velmi se&scaron;l&yacute;</trd>,
     <trd>velmi uboh&yacute;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: cs es pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">altersschwach</trd>
   <trd lng="en">senile</trd>
   <trdgrp lng="es">
     <trd>decr&eacute;pito</trd>,
@@ -586,6 +587,7 @@
     <trd>senilitat</trd>,
     <trd>senectut</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl hu ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Altersschw&auml;che</trd>
   <trd lng="en">senility</trd>
   <trd lng="es">senilidad</trd>
   <trdgrp lng="fr">
@@ -639,6 +641,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zerr&uuml;tten</trd>,
+      <trd fnt="AI: id be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entkr&auml;ften</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>ajar</trd>,
       <trd>estropear</trd>,

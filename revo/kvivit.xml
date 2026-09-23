@@ -43,6 +43,10 @@
     <trd>&c_c;&c_mol;&c_v;&c_ib;&c_l;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="cs">p&iacute;pat</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zwitschern</trd>,
+    <trd fnt="AI: cs sk pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">piepsen</trd>
+  </trdgrp>
   <trd lng="fr">p&eacute;pier</trd>
   <trdgrp lng="pl">
     <trd>&cacute;wierka&cacute;</trd>,

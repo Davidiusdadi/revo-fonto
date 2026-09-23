@@ -295,6 +295,10 @@
     <trd>strava</trd>,
     <trd>v&yacute;&zcaron;iva</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es pl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ern&auml;hrung</trd>,
+    <trd fnt="AI: en cs sk uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nahrung</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>nourishment</trd>
   </trdgrp>

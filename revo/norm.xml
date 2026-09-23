@@ -622,6 +622,10 @@
   </snc>
   <trd lng="be">&c_n;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">normalizovat</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref uk cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">normieren</trd>,
+    <trd fnt="AI: ref cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">normalisieren</trd>
+  </trdgrp>
   <trd lng="hu">norm&aacute;l</trd>
   <trd lng="pl">normalizowa&cacute; wektor</trd>
   <trd lng="sk">normalizova&tcaron;</trd>
@@ -636,6 +640,7 @@
     <ref tip="dif" cel="norm.unu0a.vektoro">unu<tld/>a<sncref/></ref>
   </snc>
   <trd lng="be">&c_u;&c_n;&c_a;&c_r;&c_m;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
+  <trd lng="de" fnt="AI: ref pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">normiert</trd>
   <trd lng="pl">unormowany wektor</trd>
 </drv>
 

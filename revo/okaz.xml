@@ -1733,6 +1733,10 @@
     <klr>(&c_v;&c_y;&c_p;&c_a;&c_d;&c_k;&c_a;&c_w;)</klr></trd>
   </trdgrp>
   <trd lng="br">kendegouezh</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zusammentreffen</trd>,
+    <trd fnt="AI: en fr es ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Koinzidenz</trd>
+  </trdgrp>
   <trd lng="en">coincidence</trd>
   <trd lng="es">coincidencia</trd>
   <trd lng="fr">co&iuml;ncidence</trd>
@@ -2039,6 +2043,7 @@
   </snc>
   <trd lng="be">&c_u; &c_t;&c_a;&c_k;&c_ib;&c_m;
   <ind>&c_v;&c_y;&c_p;&c_a;&c_d;&c_k;&c_u;</ind></trd>
+  <trd lng="de" fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">apropos</trd>
   <trd lng="en">in that case</trd>
   <trdgrp lng="es">
     <trd>a prop&oacute;sito</trd>,
@@ -2094,6 +2099,7 @@
     <trd>&c_v;&c_y;&c_p;&c_a;&c_d;&c_a;&c_k; &c_k;&c_r;&c_a;&c_j;&c_n;&c_ib;</trd>,
     <trd>&c_v;&c_y;&c_p;&c_a;&c_d;&c_a;&c_k; &c_g;&c_r;&c_a;&c_n;&c_ib;&c_ch;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Grenzfall</trd>
   <trd lng="en">borderline case</trd>
   <trdgrp lng="fr">
     <trd>cas extr&ecirc;me</trd>,
@@ -2131,6 +2137,10 @@
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_p;&c_a;&c_d;&c_a;&c_k; &c_a;&c_s;&c_o;&c_b;&c_n;&c_y;</trd>,
     <trd>&c_v;&c_y;&c_p;&c_a;&c_d;&c_a;&c_k; &c_p;&c_r;&c_y;&c_v;&c_a;&c_t;&c_n;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sonderfall</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Spezialfall</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>particular case</trd>,
@@ -2407,6 +2417,10 @@
     <trd>en <ind>cas</ind> que</trd>,
     <trd>donat <ind>cas</ind> que</trd>,
     <trd>posat <ind>cas</ind> que</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref pt en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">falls</trd>,
+    <trd fnt="AI: en es ru ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">f&uuml;r den Fall, dass</trd>
   </trdgrp>
   <trd lng="en">in case that</trd>
   <trdgrp lng="es">

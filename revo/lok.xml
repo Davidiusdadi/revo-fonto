@@ -664,6 +664,7 @@
         <tld/>i iun en superan oficon, rangon.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: ru en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unterbringen</trd>
     <trdgrp lng="en">
       <trd>instal</trd>,
       <trd>place</trd>
@@ -995,6 +996,7 @@
     <trd>&c_z;</trd>,
     <trd>&c_a;&c_d;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von ... aus</trd>
   <trd lng="en">from (the location of)</trd>
   <trd lng="es">desde</trd>
   <trd lng="hu">vminek a <ind>hely&eacute;t&odblac;l sz&aacute;m&iacute;tva</ind></trd>
@@ -1433,6 +1435,10 @@
     <trdgrp lng="be">
       <trd>&c_d;&c_a;&c_r;&c_e;&c_ch;&c_n;&c_y;</trd>,
       <trd>&c_s;&c_l;&c_u;&c_sh;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">angebracht</trd>,
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">passend</trd>
     </trdgrp>
     <trd lng="fr">appropri&eacute;</trd>
   </snc>

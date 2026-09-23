@@ -672,6 +672,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">golden scheinen</trd>
   <trd lng="id"><baz>emas</baz>mengemas</trd>
   </snc>
 <trd lng="de">vergolden</trd>
@@ -891,6 +892,10 @@
   <trd lng="br">aoureg</trd>
   <trd lng="ca">mina, jaciment <klr>(d'or)</klr></trd>
   <trd lng="cs">nalezi&scaron;t&ecaron; zlata</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Goldfeld</trd>,
+    <trd fnt="AI: ru cs sk ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Goldlagerst&auml;tte</trd>
+  </trdgrp>
   <trd lng="en"><ind>gold</ind> mine</trd>
   <trd lng="hu">aranylel&odblac;hely</trd>
   <trd lng="id">tambang emas</trd>

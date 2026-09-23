@@ -495,6 +495,10 @@
     <trd>mnoh&eacute;</trd>,
     <trd>v&scaron;elicos</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einige</trd>,
+    <trd fnt="AI: pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">etwas</trd>
+  </trdgrp>
   <trd lng="en">some</trd>
   <trd lng="es">algunos</trd>
   <trd lng="fr">quelques</trd>
@@ -638,6 +642,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_u;&c_p;&c_o;&c_v;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">allm&auml;hlich</trd>,
+    <trd fnt="AI: en es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schrittweise</trd>,
+    <trd fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">graduell</trd>
+  </trdgrp>
   <trd lng="en">gradual</trd>
   <trdgrp lng="es">
     <trd>gradual<klr tip="ind"> (adj.)</klr></trd>,
@@ -691,6 +700,10 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_u;&c_p;&c_o;&c_v;&c_y;</trd>
   <trd lng="cs">postupn&yacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">allm&auml;hlich</trd>,
+    <trd fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schrittweise</trd>
+  </trdgrp>
   <trd lng="en">gradual</trd>
   <trdgrp lng="es">
     <trd>gradual<klr tip="ind"> (adj.)</klr></trd>,
@@ -735,6 +748,10 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_o;&c_h;&c_ib; &c_p;&c_a;&c_z;&c_mol;&c_n;&c_je;&c_j;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">etwas sp&auml;ter</trd>,
+    <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nach einer Weile</trd>
+  </trdgrp>
   <trd lng="en">after some time</trd>
   <trdgrp lng="es">
     <trd>un poco despu&eacute;s</trd>,
@@ -789,6 +806,10 @@
     </rim>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_z; &c_ja;&c_k;&c_o;&c_g;&c_a;-&c_n;&c_je;&c_b;&c_u;&c_d;&c_z;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ohne jeden</trd>,
+    <trd fnt="AI: fr es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ohne den geringsten</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>without any</trd>,
     <trd>sans</trd>

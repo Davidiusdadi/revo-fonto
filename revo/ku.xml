@@ -26,9 +26,14 @@
         (maj. kaj duoble a&ubreve; grase) simbolo por la aro de &ccirc;iuj racionalaj
         nombroj: <ekz><frm am="QQ"><g>Q</g></frm></ekz>
       </dif>
+      <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Q</trd>
       <trd lng="fr">Q<klr> (ensemble des nombres rationnels)</klr></trd>
       <trd lng="pl">Q <klr> (symbol liczb wymiernych)</klr></trd>
     </subsnc>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr cs sk pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Q</trd>,
+      <trd fnt="AI: fr cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">q</trd>
+    </trdgrp>
     <trdgrp lng="fr">
     <trd>q</trd>,
     <trd>Q</trd>

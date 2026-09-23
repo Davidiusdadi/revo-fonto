@@ -293,6 +293,10 @@
       <ref cel="krimin.0a">kriminala</ref>
     </refgrp>
     <trd lng="be">&c_k;&c_r;&c_y;&c_m;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref pl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kriminal-</trd>,
+      <trd fnt="AI: ref ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Straf-</trd>
+    </trdgrp>
     <trd lng="en">criminal</trd>
     <trd lng="es">criminal</trd>
     <trdgrp lng="hu">
@@ -854,6 +858,7 @@
     </dif>
     <ref tip="vid" cel="herez.0o.REL">herezo<sncref/></ref>
   </snc>
+  <trd lng="de" fnt="AI: en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gedankenverbrechen</trd>
   <trdgrp lng="en">
     <trd>thought crime</trd>,
     <trd>thoughtcrime</trd>

@@ -353,6 +353,7 @@
         la <tld/>aj kavoj.
       </ekz>
     </dif>
+  <trd lng="de" kod="FAK" fnt="AI: en pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nasal <klr>(fachspr.)</klr></trd>
   <trd lng="id">... <ind>hidung</ind></trd>
   </snc>
   <snc mrk="naz.0a.FON">
@@ -374,6 +375,7 @@
       </ekz>
     </dif>
     <ref tip="ant" cel="busx.0a.FON">bu&scirc;a<sncref/></ref>
+    <trd lng="de" fnt="AI: en id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nasal</trd>
     <trdgrp lng="id">
       <trd>nasal</trd>,
       <trd>sengau</trd>
@@ -601,6 +603,7 @@
     <trd>&c_k;&c_ib;&c_r;&c_p;&c_a;&c_t;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">de nas arreveixinat</trd>
+  <trd lng="de" fnt="AI: en ru it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stupsnasig</trd>
   <trd lng="en">snub-<ind>nose</ind>d</trd>
   <trd lng="fr">au <ind>nez en trompette</ind></trd>
   <trdgrp lng="id">
@@ -640,6 +643,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ja;&c_r;&c_n;&c_e;&c_t;</trd>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lorgnette</trd>
   <trd lng="en">lorgnette</trd>
   <trdgrp lng="fr">
     <trd>face &agrave; main</trd>,
@@ -696,6 +700,7 @@
       rezulton de kripligo (stumpa vosto, orelo ktp).
       <aut>Sergio Pokrovskij</aut>
     </rim>
+    <trd lng="de" fnt="AI: en it ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stupsnasig</trd>
     <trd lng="it">camuso</trd>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_r;&c_p;&c_a;&c_t;&c_y;</trd>
@@ -782,6 +787,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_a;&c_s;&c_a;&c_v;&c_y; &c_z;&c_y;&c_ch;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nasalkonsonant</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nasal</trd>
+  </trdgrp>
   <trd lng="en">nasal <ind>consonant</ind></trd>
   <trd lng="fr">consonne nasale</trd>
   <trdgrp lng="id">

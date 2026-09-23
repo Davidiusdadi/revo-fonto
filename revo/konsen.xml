@@ -957,6 +957,10 @@
     <trd>acceptar pr&egrave;viament</trd>,
     <trd>donar abans el seu <ind>consentiment</ind></trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl fr pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vereinbaren</trd>,
+    <trd fnt="AI: nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">absprechen</trd>
+  </trdgrp>
   <trd lng="fr">convenir de</trd>
   <trd lng="id"><baz>sepakat</baz>menyepakati sebelumnya</trd>
   <trd lng="nl">afspreken</trd>

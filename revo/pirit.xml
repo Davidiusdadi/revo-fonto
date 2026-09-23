@@ -90,6 +90,7 @@
     </trdgrp>
     <trd lng="bg">&c_d;&c_r;&c_je;&c_b;&c_je;&c_n; &c_ch;&c_a;&c_k;&c_malmol;&c_l;</trd>
     <trd lng="ca">grava</trd>
+    <trd lng="de" fnt="AI: ref ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kies</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>kyz &zcaron;elezn&yacute;</trd>,
@@ -126,6 +127,10 @@
   <trd lng="bg">&c_h;&c_a;&c_l;&c_k;&c_o;&c_p;&c_i;&c_r;&c_i;&c_t;</trd>
   <trd lng="ca">calcopirita</trd>
   <trd lng="cs">kupropyrit</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl ru pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kupferkies</trd>,
+    <trd fnt="AI: en fr bg ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Chalkopyrit</trd>
+  </trdgrp>
   <trd lng="en">chalcopyrite</trd>
   <trd lng="fr">chalcopyrite</trd>
   <trd lng="nl">koperkies</trd>

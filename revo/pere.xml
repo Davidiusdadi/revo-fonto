@@ -240,6 +240,11 @@
     <trd>funest</trd>,
     <trd>letal</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verh&auml;ngnisvoll</trd>,
+    <trd fnt="AI: ro pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verderblich</trd>,
+    <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unheilvoll</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>calamiteux</trd>
     <trd>funeste</trd>
@@ -452,6 +457,10 @@
     <trd>desapar&egrave;ixer</trd>
   </trdgrp>
   <trd lng="cs">zahynout</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">untergehen</trd>,
+    <trd fnt="AI: cs ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zugrunde gehen</trd>
+  </trdgrp>
   <trd lng="es"><ind>extinguir</ind>se<klr> (desaparecer)</klr></trd>
   <trd lng="fr">s'<ind>&eacute;teindre</ind><klr> (disparaitre)</klr></trd>
   <trdgrp lng="ja">

@@ -158,6 +158,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ju;&c_m;&c_ib;&c_n;&c_a;&c_f;&c_o;&c_r;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr nl ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Leuchtstoff</trd>,
+    <trd kod="FAK" fnt="AI: fr ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Luminophor <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>luminophore</trd>,
     <trd>substance <ind>luminescente</ind></trd>

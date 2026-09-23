@@ -83,6 +83,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_l;&c_je;&c_c; &c_k;&c_a;&c_m;&c_ib;&c_t;&c_e;&c_t;&c_u;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ro uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Komiteemitglied</trd>,
+    <trd fnt="AI: fr pl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ausschussmitglied</trd>
+  </trdgrp>
   <trd lng="fr">membre de comit&eacute;</trd>
   <trd lng="id">anggota komite</trd>
   <trd lng="ja">&#x59D4;&#x54E1;&#x4F1A;&#x59D4;&#x54E1;  <pr>&#12356;&#12356;&#12435;&#x304B;&#12356;&#12356;&#12356;&#12435;</pr></trd>
@@ -113,6 +117,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_M;&c_o;&c_w;&c_n;&c_y; &c_k;&c_a;&c_m;&c_ib;&c_t;&c_e;&c_t;</trd>
+  <trd lng="de" fnt="AI: fr pl be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sprachkomitee</trd>
   <trd lng="fr">Comit&eacute; linguistique</trd>
   <trd lng="id">Komite Bahasa <klr>(Esperanto)</klr></trd>
   <trd lng="pl">Komitet J&eogonek;zykowy</trd>
@@ -143,6 +148,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de" fnt="AI: fr pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lokales Kongresskomitee</trd>
   <trd lng="fr">Comit&eacute; local du congr&egrave;s</trd>
   <trd lng="id">Komite-Kongres Lokal</trd>
   <trd lng="pl">Miejscowy Komitet Kongresowy</trd>
@@ -166,6 +172,10 @@
   <trd lng="be">&c_v;&c_y;&c_k;&c_a;&c_n;&c_a;&c_w;&c_ch;&c_y; <ind>&c_k;&c_a;&c_m;&c_ib;&c_t;&c_e;&c_t;</ind></trd>
   <trd lng="ca">comit&egrave; executiu</trd>
   <trd lng="cs">v&yacute;konn&yacute; v&yacute;bor</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ca ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Exekutivkomitee</trd>,
+    <trd fnt="AI: en cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Exekutivausschuss</trd>
+  </trdgrp>
   <trd lng="en">executive <ind>committee</ind></trd>
   <trd lng="fr">comit&eacute; ex&eacute;cutif</trd>
   <trd lng="id">komite eksekutif</trd>

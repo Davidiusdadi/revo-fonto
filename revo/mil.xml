@@ -225,6 +225,7 @@
   </snc>
   <trd lng="be">&c_t;&c_y;&c_s;&c_ja;&c_ch;&c_y; &c_ib; &c_t;&c_y;&c_s;&c_ja;&c_ch;&c_y;</trd>
   <trd lng="cs">tis&iacute;c</trd>
+  <trd lng="de" fnt="AI: be it pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abertausend</trd>
   <trd lng="fr">plein de</trd>
   <trd lng="it">migliaia<klr> (fig.)</klr></trd>
   <trd lng="pl">tysi&aogonek;ce</trd>
@@ -258,6 +259,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_z;&c_mol;&c_l;&c_ib;&c_ch;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr it be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unzahl</trd>,
+    <trd fnt="AI: fr it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Myriade <klr>(gehoben)</klr></trd>
+  </trdgrp>
   <trd lng="fr">multitude</trd>
   <trd lng="it">moltitudine</trd>
   <trd lng="pl">tysi&aogonek;ce</trd>

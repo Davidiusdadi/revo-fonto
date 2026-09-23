@@ -207,6 +207,10 @@
           <lok>jaro 2000a, numero 10a, p. 30a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">d&uuml;ster</trd>,
+      <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tr&uuml;be</trd>
+    </trdgrp>
     <trd lng="hu">komor</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_je;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>,
@@ -310,6 +314,10 @@
   <trdgrp lng="ca">
     <trd>malenconiosament</trd>,
     <trd>amb malenconia</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">melancholisch</trd>,
+    <trd fnt="AI: ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schwerm&uuml;tig</trd>
   </trdgrp>
 </drv>
 

@@ -286,6 +286,10 @@
     <trd>&c_k;&c_a;&c_n;&c_s;&c_t;&c_y;&c_t;&c_u;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,
     <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_y; <ind>&c_k;&c_a;&c_n;&c_s;&c_t;&c_y;&c_t;&c_u;&c_c;&c_y;&c_ib;</ind></trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfassungsgem&auml;&szlig;</trd>,
+    <trd fnt="AI: en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfassungsm&auml;&szlig;ig</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>constitutional</trd>,
     <trd>in accordance with the constitution</trd>

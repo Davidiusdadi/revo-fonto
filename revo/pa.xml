@@ -23,6 +23,10 @@
     <trd>&c_b;&c_a;!</trd>,
     <trd>&c_a;&c_j;!</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es sv pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pah</trd>,
+    <trd fnt="AI: fr es sv it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bah</trd>
+  </trdgrp>
   <trd lng="fr">bah !</trd>
   <trd lng="es">&#161;bah!</trd>
   <trd lng="nl">ba!</trd>

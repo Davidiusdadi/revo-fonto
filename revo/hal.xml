@@ -199,6 +199,11 @@
     <trd>&c_v;&c_e;&c_s;&c_t;&c_y;&c_b;&c_ju;&c_l;&c_mol;</trd>,
     <trd>&c_h;&c_o;&c_l;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Eingangshalle</trd>,
+    <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Foyer</trd>,
+    <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lobby</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>lobby</trd>,
     <trd>entrance hall</trd>
@@ -239,6 +244,10 @@
     <trd>&c_f;&c_e;&c_s;&c_t;&c_y;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja; &c_z;&c_a;&c_l;&c_ja;</trd>
   </trdgrp>
   <trd lng="br">sal ar gouelio&ugrave;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Festhalle</trd>,
+    <trd fnt="AI: fr be br; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Festsaal</trd>
+  </trdgrp>
   <trd lng="en">celebration hall</trd>
   <trd lng="fr">salle des f&ecirc;tes</trd>
   <trd lng="pl">sala imprezowa</trd>
@@ -268,6 +277,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_s;&c_p;&c_a;&c_r;&c_t;&c_o;&c_v;&c_a;&c_ja; &c_z;&c_a;&c_l;&c_ja;</trd>
+    <trd lng="de" fnt="AI: en pl ro fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sporthalle</trd>
     <trd lng="fr"><ind>halle</ind> aux sports</trd>
   </snc>
   <trd lng="en">sports arena</trd>

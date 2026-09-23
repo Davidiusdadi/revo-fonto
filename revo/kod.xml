@@ -347,6 +347,10 @@
     </dif>
   </snc>
   <trd lng="ca">cofificaci&oacute;n <klr tip="amb">(acci&oacute;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kodierung</trd>,
+    <trd fnt="AI: fr es hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Codierung</trd>
+  </trdgrp>
   <trd lng="es">codificaci&oacute;n</trd>
   <trdgrp lng="fr">
     <trd>codage<klr tip="ind"> (action)</klr></trd>,
@@ -478,6 +482,7 @@
       Igi iun a&ubreve; ion <tld/>i (informojn, korespondadon ktp).
     </dif>
     <trd lng="cs">nechat zak&oacute;dovat</trd>
+    <trd lng="de" fnt="AI: cs ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kodieren lassen</trd>
     <trd lng="ru">&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol; &c_k;&c_o;&c_d;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
   </snc>
   <snc mrk="kod.0igi.EVI">

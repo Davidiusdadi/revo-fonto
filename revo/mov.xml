@@ -915,6 +915,7 @@
     <trd>&c_sh;&c_a;&c_v;&c_ja;&c_l;&c_ib;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_a;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">leicht bewegen</trd>
   <trdgrp lng="en">
     <trd><ind>move</ind> slightly</trd>,
     <trd>nudge</trd>
@@ -968,6 +969,10 @@
    <trdgrp lng="be">
      <trd>&c_sh;&c_a;&c_v;&c_ja;&c_l;&c_ib;&c_c;&c_c;&c_a;</trd>,
      <trd>&c_v;&c_a;&c_r;&c_u;&c_sh;&c_y;&c_c;&c_c;&c_a;</trd>
+   </trdgrp>
+   <trdgrp lng="de">
+     <trd fnt="AI: en fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich regen</trd>,
+     <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich r&uuml;hren</trd>
    </trdgrp>
    <trd lng="en">stir <klr>(move slightly)</klr></trd>
    <trd lng="fr">remuer</trd>
@@ -1326,6 +1331,7 @@
     <trd>&c_r;&c_u;&c_h;&c_o;&c_m;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_m;&c_a;&c_b;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beweglichkeit</trd>
   <trd lng="en">mobility</trd>
   <trd lng="fr">mobilit&eacute;</trd>
   <trd lng="id">mobilitas</trd>
@@ -1478,6 +1484,10 @@
     <trd>&c_p;&c_r;&c_y;&c_s;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="cs">p&rcaron;isunout</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs ru uk sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heranschieben</trd>,
+    <trd fnt="AI: ru uk fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heranr&uuml;cken</trd>
+  </trdgrp>
   <trd lng="en"><ind>move</ind> to</trd>
   <trdgrp lng="es">
     <trd>traer<klr tip="amb"> (desplazar)</klr></trd>,
@@ -1682,6 +1692,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_zh;&c_y;&c_w;&c_l;&c_je;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">belebt</trd>,
+    <trd fnt="AI: en es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">lebhaft</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>animated</trd>,
     <trd>busy</trd>,

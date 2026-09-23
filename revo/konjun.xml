@@ -164,6 +164,10 @@
     <ind>&c_z;&c_l;&c_u;&c_ch;&c_n;&c_ib;&c_k;</ind></trd>
   </trdgrp>
   <trd lng="ca">conjunci&oacute; disjuntiva</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">disjunktive Konjunktion</trd>,
+    <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausschlie&szlig;ende Konjunktion</trd>
+  </trdgrp>
   <trd lng="en">disjunctive conjunction</trd>
   <trd lng="pl">sp&oacute;jnik roz&lstroke;&aogonek;czny</trd>
   <trd lng="ro">conjunc&#539;ia coordonatoare</trd>
@@ -187,6 +191,10 @@
   <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_w;&c_n;&c_y;
   <ind>&c_z;&c_l;&c_u;&c_ch;&c_n;&c_ib;&c_k;</ind></trd>
   <trd lng="ca">conjunci&oacute; adversativa</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">adversative Konjunktion</trd>,
+    <trd fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entgegensetzende Konjunktion</trd>
+  </trdgrp>
   <trd lng="en">adversative conjunction</trd>
   <trd lng="fr">conjonction d'opposition</trd>
   <trd lng="pl">sp&oacute;jnik przeciwstawny</trd>
@@ -208,6 +216,10 @@
     </dif>
   </snc>
   <trd lng="ca">conjunci&oacute; en correlaci&oacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mehrteilige Konjunktion</trd>,
+    <trd fnt="AI: fr pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">korrelative Konjunktion</trd>
+  </trdgrp>
   <trd lng="en">adversative conjunction</trd>
   <trd lng="fr">conjonction corr&eacute;lative</trd>
   <trd lng="pl">sp&oacute;jniki korelatywne</trd>

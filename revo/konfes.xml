@@ -502,6 +502,7 @@
       <trd>&c_s;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_ib;&c_k;</trd>,
       <trd>&c_s;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bekenner</trd>
     <trd lng="en">confessor</trd>
     <trd lng="id">konfesor<klr tip="amb"> (Kekristenan)</klr></trd>
     <trd lng="ru">&c_i;&c_s;&c_p;&c_o;&c_v;&c_je;&c_d;&c_n;&c_i;&c_k;
@@ -535,12 +536,14 @@
       </ekz>
     </dif>
   <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol; <ind>&c_p;&c_r;&c_y;&c_z;&c_n;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</ind></trd>
+  <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zum Gest&auml;ndnis bringen</trd>
   <trd lng="id"><baz>aku</baz>mengakukan</trd>
   </snc>
   <snc mrk="konfes.0igi.0preni">
     <uzo tip="fak">REL</uzo>
     <ref tip="dif" cel="konfes.0preni"><tld/>preni</ref>
   <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol; <ind>&c_s;&c_p;&c_o;&c_v;&c_je;&c_d;&c_z;&c_mol;</ind></trd>
+  <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beichte abnehmen</trd>
   <trd lng="id"><baz>dengar</baz>mendengarkan pengakuan<klr tip="amb"> (dosa)</klr></trd>
   </snc>
   <trdgrp lng="fr">
@@ -898,6 +901,7 @@
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_z;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">uznat za vlastn&iacute;ho</trd>
+  <trd lng="de" fnt="AI: ref uk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anerkennen</trd>
   <trdgrp lng="id">
     <trd><baz>anggap</baz>menganggap</trd>,
     <trd><baz>benar</baz>membenarkan</trd>,
@@ -951,6 +955,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Glaubensbekenntnis</trd>,
+      <trd fnt="AI: pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Credo</trd>
+    </trdgrp>
     <trd lng="fr"><ind>profession</ind> de foi</trd>
     <trd lng="id">kredo<klr tip="amb"> (Kekristenan)</klr></trd>
     <trdgrp lng="pl">
@@ -979,6 +987,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Credo</trd>,
+      <trd fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Glaubensbekenntnis</trd>
+    </trdgrp>
     <trd lng="en">creed</trd>
     <trdgrp lng="fr">
       <trd><ind>profession</ind> de foi<klr tip="ind"> (fig.)</klr>

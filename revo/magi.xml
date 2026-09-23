@@ -275,6 +275,10 @@
     <trd>fetilleria</trd>,
     <trd>truc</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: be pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zauberei</trd>,
+    <trd fnt="AI: be ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zauber</trd>
+  </trdgrp>
   <trd lng="fr">tour de magie</trd>
   <trdgrp lng="ja">
     <trd>&#x9B54;&#x8853;  <pr>&#x307E;&#x3058;&#x3085;&#x3064;</pr></trd>,
@@ -406,6 +410,10 @@
     </dif>
     <trd lng="be">&c_ib;&c_l;&c_ju;&c_z;&c_ib;&c_ja;&c_n;&c_ib;&c_s;&c_t;</trd>
     <trd lng="ca">il&middot;lusionista</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref pl be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zauberk&uuml;nstler</trd>,
+      <trd fnt="AI: ref be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Illusionist</trd>
+    </trdgrp>
     <trd lng="pl">magik</trd>
     <trd lng="ro">mag</trd>
   </snc>

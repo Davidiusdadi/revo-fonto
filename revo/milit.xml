@@ -919,6 +919,10 @@
     <trd>&c_z;&c_a;&c_v;&c_a;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_z;&c_a;&c_h;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl it ro ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erobern</trd>,
+    <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erk&auml;mpfen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>conquer</trd>,
     <trd>capture (in war)</trd>
