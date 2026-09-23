@@ -34,6 +34,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Deutlich abgegrenzter Teil eines Ganzen, gleichartig mit anderen</dif>
     <subsnc mrk="segmen.0o.ZOO">
       <uzo tip="fak">ZOO</uzo>
       <dif>
@@ -49,6 +50,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einer der aufeinanderfolgenden, einander sehr &auml;hnlichen K&ouml;rperabschnitte verschiedener Gliederf&uuml;&szlig;er, Ringelw&uuml;rmer und anderer Tiere</dif>
       <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Segment</trd>
       <trd lng="fr">segment<klr> (biol.)</klr></trd>
     </subsnc>
@@ -69,6 +71,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In Soziologie, Demografie und Marketing ein Teil einer untersuchten Menschengruppe, der nach geografischen, Alters-, Berufs- oder anderen Merkmalen unterschieden wird</dif>
     <trd lng="de">Sparte</trd>
     </subsnc>
     <subsnc mrk="segmen.0o.BELE">
@@ -85,6 +88,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ununterbrochener, abgegrenzter Teil einer Rede oder eines Textes</dif>
     <trd lng="de">Abschnitt</trd>
     </subsnc>
     <refgrp tip="vid">
@@ -101,6 +105,7 @@
       Iu parto de
       <ref tip="malprt" cel="figur.geometria0o">geometria figuro</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Irgendein Teil einer geometrischen Figur.</dif>
     <subsnc mrk="segmen.0o.linio">
       <dif>
         <klr>(de <ref tip="malprt" cel="lini.0o.MAT">linio</ref>)</klr>
@@ -113,6 +118,7 @@
           <ref tip="prt" cel="rand.0o.figuro">randoj</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Linie) Teil davon, der zwischen zwei ihrer Punkte liegt</dif>
       <adm>
         Fonto trovenda. <aut>MB</aut>
       </adm>
@@ -156,6 +162,7 @@
         <ref cel="rand.0o.figuro">rando</ref> kaj la responda
         <ref cel="sxnur.0o.cirklo">&scirc;nuro</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kreises) Teil davon, der zwischen einem Bogen seines Randes und der zugeh&ouml;rigen Sehne liegt.</dif>
       <rim>
         Eble pro la eventuala konfuzo kun <ref cel="ark.0o.segmento">arko</ref>
         &ccirc;i-sence trovi&gcirc;as <ctl>disko<tld/>o</ctl>
@@ -178,6 +185,7 @@
         &Ccirc;iu el &gcirc;iaj partoj situantaj amba&ubreve;flanke de
         &gcirc;in sekcanta ebeno.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Kugel) Jeder der Teile, die zu beiden Seiten einer sie schneidenden Ebene liegen.</dif>
       <refgrp tip="super">
         <ref cel="tavol.glob0o">globtavolo</ref>.
       </refgrp>
@@ -203,6 +211,7 @@
     <dif>
       Fermita reela <ref cel="interv.0o">intervalo</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abgeschlossenes reelles Intervall.</dif>
     <adm>
       Fonto trovenda. <aut>MB</aut>
     </adm>

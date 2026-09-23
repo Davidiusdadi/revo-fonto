@@ -24,6 +24,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verfahren, ein Problem zu l&ouml;sen oder eine Definition &uuml;ber eine Folge von Objekten so zu formulieren, dass ab einem bestimmten Index jedes folgende Glied als Funktion vorhergehender Glieder der Folge ausgedr&uuml;ckt wird</dif>
     <subsnc mrk="rikur.0o.iteracio">
       <dif>
         <tld lit="R"/>o de la ordo <frm am="k"><k>k</k></frm> estas
@@ -51,6 +52,7 @@
 x<sub>n</sub>&#8722;f(x<sub>n</sub>)/f&minute;(x<sub>n</sub>)</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Rekursion der Ordnung k ist eine Definition der Form an = f(n, an&#x2212;1, an&#x2212;2, &#x2026; an&#x2212;k), wobei n &#x2265; k+1 &#x2265; 0</dif>
       <rim>
         En <ref cel="lingv.program0o">programlingvoj</ref>
         al tiaj <tld/>oj respondas
@@ -86,6 +88,7 @@ x<sub>n</sub>&#8722;f(x<sub>n</sub>)/f&minute;(x<sub>n</sub>)</frm>.
           <frm am="a-:b">a&#xF7;b</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verfahren, ein Problem zu l&ouml;sen oder eine Definition zu formulieren, indem man diese auf dasselbe Problem bzw. dieselbe Definition f&uuml;r kleinere Werte ihrer Argumente oder auf deren Teile (Komponenten) zur&uuml;ckf&uuml;hrt</dif>
       <trdgrp lng="de">
         <trd>vollst&auml;ndige <ind>Induktion</ind></trd>,
         <trd>induktive <ind>Definition</ind></trd>,
@@ -202,6 +205,7 @@ x<sub>n</sub>&#8722;f(x<sub>n</sub>)/f&minute;(x<sub>n</sub>)</frm>.
           ref="http://bertilow.com/div/komputada_leksikono/RI.html#RIKURA">rikura</url></lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Rekursion verwendend, durch Rekursion gekennzeichnet</dif>
     <ref tip="super" cel="rekursi.0a">rekursia</ref>
     <trd lng="be">&c_r;&c_e;&c_k;&c_u;&c_r;&c_e;&c_n;&c_t;&c_n;&c_y;</trd>
     <trd lng="de">induktiv</trd>

@@ -45,6 +45,7 @@
         re<tld/>i al <klr>(atentigi pri)</klr> Zamenhofa esprimo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden gehen lassen; anordnen oder bewirken, dass jemand von einem Ort an einen anderen bestimmten Ort geht.</dif>
     <trd lng="id"><baz>utus</baz>mengutus</trd>
   </snc>
   <snc mrk="send.0i.ion">
@@ -94,6 +95,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas tragen lassen; anordnen, dass etwas von einem Ort an einen anderen bestimmten Ort getragen wird.</dif>
   </snc>
   <snc mrk="send.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -139,6 +141,7 @@
         re<tld/>a pronomo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Wirkung, eine Handlung auf etwas richten; werfen.</dif>
     <refgrp tip="vid">
       <ref cel="adres.0i">adresi</ref>,
       <ref cel="direkt.0i">direkti</ref>,
@@ -705,6 +708,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Senden, um zu entfernen.</dif>
     <trdgrp lng="zh">
     <trd>&#x652F;&#x5F00; <pr>zh&imacron;k&amacron;i</pr></trd>,
     <trd>&#x652F;&#x958B; <pr>zh&imacron;k&amacron;i</pr></trd>
@@ -796,6 +800,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas (besonders eine Postsendung) von einem Durchgangsort aus oder an eine zus&auml;tzliche Adresse weitersenden.</dif>
     <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_s;&c_y;&c_l;&c_a;&c_c;&c_mol;</trd>
     <trd lng="en">forward<klr> (a letter etc)</klr></trd>
     <trd lng="fr">faire suivre<klr> (courrier)</klr></trd>
@@ -818,6 +823,7 @@
       en la sama a&ubreve; en alia direkto (precipe por pligrandigi la
       distancon de komunikado).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Signal an einem Durchgangspunkt empfangen, es verst&auml;rken und in dieselbe oder eine andere Richtung senden (besonders um die Reichweite der Kommunikation zu vergr&ouml;&szlig;ern).</dif>
     <trd lng="be">&c_r;&c_e;&c_t;&c_r;&c_a;&c_n;&c_s;&c_mol;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trdgrp lng="en">
       <trd>retransmit</trd>,
@@ -960,6 +966,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zur&uuml;cksenden.</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_s;&c_y;&c_l;&c_a;&c_c;&c_mol; &c_n;&c_a;&c_z;&c_a;&c_d;</trd>,
       <trd>&c_v;&c_ja;&c_r;&c_t;&c_a;&c_c;&c_mol;</trd>
@@ -983,6 +990,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An eine andere Stelle eines Textes o. &Auml;. lenken, schicken.</dif>
     <ref tip="sub" cel="refere.0i">referenci</ref>
     <ref tip="vid" cel="indeks.0o.TIP">indekso<sncref/></ref>
     <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_s;&c_y;&c_l;&c_a;&c_c;&c_mol;</trd>

@@ -30,6 +30,7 @@
           limata de <tld/>o.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dreidimensionale Fl&auml;che, die aus allen Punkten besteht, deren Abstand von einem Punkt (ihrem Mittelpunkt) gleich einem bestimmten Wert (ihrem Radius) ist.</dif>
       <refgrp tip="vid">
         <ref cel="centr.0o.cirklo">centro</ref>,
         <ref cel="diamet.0o.cirklo">diametro</ref>,
@@ -92,6 +93,7 @@
         <trd lng="es">esfera celeste</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jeder Gegenstand, der mehr oder weniger dieselbe Form wie eine Kugel hat.</dif>
     <refgrp tip="vid">
       <ref cel="bul.0o">bulo</ref>,
       <ref cel="glob.0o">globo</ref>,
@@ -166,6 +168,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Umfeld; T&auml;tigkeitsbereich.</dif>
     <refgrp tip="vid">
       <ref cel="region.0o">regiono</ref>,
       <ref cel="rond.0o">rondo</ref>,
@@ -309,6 +312,7 @@
       &Ccirc;iu el la du partoj de <ref cel="sfer.0o.surfaco"><tld/>o<sncref/></ref>,
       apartigitaj per ebeno trapasanta &gcirc;ian centron.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jeder der beiden Teile einer Kugel, die durch eine durch ihren Mittelpunkt verlaufende Ebene getrennt werden.</dif>
     <ref tip="sin" cel="hemisf.0o.MAT">hemisfero</ref>
     <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_s;&c_f;&c_je;&c_r;&c_a;</trd>
   </snc>
@@ -349,6 +353,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jeder der beiden Teile der Erdoberfl&auml;che, die durch den &Auml;quator oder einen Meridian geteilt werden.</dif>
     <ref tip="vid" cel="glob.duon0o">duonglobo</ref>
     <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_sh;&c_a;&c_r;&c_i;&c_je;</trd>
   </snc>
@@ -370,6 +375,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jeder der beiden Teile der Himmelskugel, die durch die &Auml;quatorebene getrennt werden.</dif>
     <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_sh;&c_a;&c_r;&c_i;&c_je;</trd>
   </snc>
   <snc mrk="sfer.duon0o.duonglobo">
@@ -435,6 +441,7 @@
         <fnt><bib>PIV2</bib> <lok>art. &#xAB;kupolo&#xBB;</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Form einer Halbkugel habend.</dif>
     <trd lng="ru">&c_p;&c_o;&c_l;&c_u;&c_s;&c_f;&c_je;&c_r;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j; </trd>
     <trd lng="nl">half <ind>rond</ind></trd>
     <trd lng="pt">hemisf&eacute;rico</trd>
@@ -448,6 +455,7 @@
           a&ubreve; alian duon<tld/>on)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In irgendeiner Weise auf eine Halbkugel bezogen.</dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_w;&c_s;&c_f;&c_e;&c_r;&c_y;&c_ch;&c_n;&c_y;</trd>
   <trdgrp lng="ca">

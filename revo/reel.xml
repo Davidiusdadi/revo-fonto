@@ -29,6 +29,7 @@
         <frm>0,14159...</frm>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede Zahl, die sich als Summe einer ganzen Zahl und eines systematischen Bruchs darstellen l&auml;sst.</dif>
     <refgrp tip="vid">
       Atributoj de reelo:
       <ref cel="part.entjera0o">entjera parto</ref>,
@@ -80,6 +81,7 @@
       En programlingvoj, <ref cel="racio5.0o">raciono</ref> uzata
       por aproksimi reelan grandon.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In Programmiersprachen eine rationale Zahl, die zur Ann&auml;herung an eine reelle Gr&ouml;&szlig;e verwendet wird.</dif>
     <ref tip="super" cel="tip.datum0o">datumtipo</ref>
     <trd lng="be">&c_r;&c_e;&c_ch;&c_a;&c_ib;&c_s;&c_n;&c_y; &c_l;&c_ib;&c_k;</trd>
     <trd lng="ca">real <klr tip="amb">(inform&agrave;tica)</klr></trd>

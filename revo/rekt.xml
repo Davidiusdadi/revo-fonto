@@ -464,6 +464,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigenschaft, gerade zu sein.</dif>
     <trd lng="de">Geradheit</trd>
   <trd lng="en">straightness</trd>
   <trd lng="id"><baz>lurus</baz>kelurusan</trd>
@@ -482,6 +483,7 @@
           <ref cel="sxnur.rekto0o">rekto&scirc;nuro</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht gekr&uuml;mmte, nach beiden Seiten unendliche Linie.</dif>
       <rim>
         Kompreneble temas pri naiva difino de unu el la plej bazaj
         nocioj de elementa geometrio.
@@ -496,6 +498,7 @@
         <ref cel="rekt.vektora0o">vektora <tld/>o</ref>, la&ubreve; la
         kunteksto.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Affine Gerade oder Vektorgerade, je nach Zusammenhang.</dif>
     <trd lng="en">line <klr>(one-dimensional vector or affine space)</klr></trd>
     </subsnc>
   <trd lng="id"><ind>garis</ind> lurus</trd>
@@ -724,6 +727,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vorrichtung, um Wechselstrom in gleichgerichteten Strom oder sogar in Gleichstrom umzuwandeln.</dif>
     <rim>
       En la literaturo troveblas anka&ubreve;
       <ref tip="sin" cel="rektif.0ilo">rektifilo</ref> kaj
@@ -829,6 +833,7 @@
         unu &gcirc;ia punkto <frm am="O">O</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem affinen Raum) Menge aller Punkte der Form &lambda;&#x2219;u+O, wobei O ein Punkt (ihr Ursprung), u ein vom Nullvektor verschiedener Vektor (Richtungsvektor) und &lambda; eine beliebige positive reelle Zahl ist.</dif>
   <trdgrp lng="en">
     <trd>ray <klr>(geometry)</klr></trd>,
     <trd>half-<ind>line</ind></trd>

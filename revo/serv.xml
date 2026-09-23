@@ -872,6 +872,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rechnerprozess, der auf Anforderung anderer Prozesse (Clients) spezielle Funktionen (Dienste) ausf&uuml;hrt; der Rechner, auf dem ein solcher Prozess l&auml;uft (in einem Rechnernetz, im Verh&auml;ltnis zu den Client-Knoten).</dif>
   <trdgrp lng="id">
     <trd><baz>laden</baz>peladen<klr> (komputer)</klr></trd>,
     <trd>server</trd>

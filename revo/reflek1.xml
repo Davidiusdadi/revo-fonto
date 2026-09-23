@@ -51,6 +51,7 @@
     <dif>
       Rilata al <tld/>o:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf das Reflexivum bezogen.</dif>
     <ekz>
       <ind><tld/>a pronomo</ind>;
       <trd lng="hu">visszahat&oacute; <ind>n&eacute;vm&aacute;s</ind></trd>
@@ -94,6 +95,7 @@
           <frm am="x bb R x"><k>x</k><g>R</g><k>x</k></frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Relation R in einer Menge) So beschaffen, dass die Identit&auml;tsrelation eine Teilmenge von R ist; Symbol idE&#x2282;R.</dif>
       <trd lng="fr"><klr tip="amb">(relation) </klr>r&eacute;flexive</trd>
       <trdgrp lng="pl">
         <trd><klr tip="amb">(relacja) </klr>zwrotna</trd>,
@@ -106,6 +108,7 @@
         Tia, ke ekzistas <ref cel="izomor1.0o">izomorfio</ref> inter &gcirc;i
         kaj &gcirc;ia <ref cel="dual.topologiadu0o">topologia dudualo</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem normierten Raum) So beschaffen, dass es einen Isomorphismus zwischen ihm und seinem topologischen Bidual gibt.</dif>
       <trd lng="fr"><klr tip="ind">(espace) </klr>r&eacute;flexif</trd>
       <trd lng="pl"><klr tip="ind">(przestrze&nacute;) </klr>refleksywna</trd>
     </subsnc>
@@ -141,6 +144,7 @@
         la rilato <ctl>strikte pli granda ol</ctl> estas mal<tld/>a.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Relation R in einer Menge) So beschaffen, dass ihr Durchschnitt mit der Identit&auml;tsrelation leer ist; Symbol R&#x2229;idE = &#x2205;.</dif>
     <trd lng="fr"><klr tip="amb">(relation) </klr>antir&eacute;flexive</trd>
     <trd lng="pl"><klr tip="amb">(relacja) </klr>przeciwzwrotna</trd>
   </snc>

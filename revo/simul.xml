@@ -17,6 +17,7 @@
       (malsanon, prirabon ktp), imiti simptomojn a&ubreve;
       cirkonstancojn.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Eine Krankheit, einen Raub usw.) vort&auml;uschen; Symptome oder Umst&auml;nde nachahmen.</dif>
     <trd lng="be">&c_s;&c_y;&c_m;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trdgrp lng="en">
       <trd>feign</trd>,
@@ -36,6 +37,7 @@
       modelo (<tld/>ilo) programita tiel, ke &gcirc;i ebligas variigi
       parametrojn de la studata fenomeno.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Verhalten eines Systems durch Experimente an einem geeigneten Modell (Simulator) untersuchen, das so programmiert ist, dass sich Parameter des untersuchten Ph&auml;nomens variieren lassen.</dif>
     <trd lng="be">&c_m;&c_a;&c_d;&c_e;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trd lng="ca">simular</trd>
     <trd lng="en">simulate</trd>
@@ -88,6 +90,7 @@
         <tld/>ado de frenezo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Simulieren (im Sinne des Vort&auml;uschens).</dif>
     <trd lng="be">&c_s;&c_y;&c_m;&c_u;&c_l;&c_ja;&c_c;&c_y;&c_ja;</trd>
     <trd lng="nl">voorwendsel</trd>
     <trd lng="ru">&c_s;&c_i;&c_m;&c_u;&c_l;&c_ja;&c_c;&c_i;&c_ja;</trd>
@@ -100,6 +103,7 @@
         trovi akcepteblajn parametrovalorojn per <tld/>ado.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Simulieren (im Sinne der Untersuchung an einem Modell).</dif>
     <trd lng="be">&c_ib;&c_m;&c_ib;&c_t;&c_a;&c_c;&c_y;&c_j;&c_n;&c_a;&c_je; <ind>&c_m;&c_a;&c_d;&c_e;&c_l;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
     <trd lng="ca">simulaci&oacute;</trd>
     <trd lng="de" fnt="AI: en ca es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Simulation</trd>
@@ -150,11 +154,13 @@
     <dif>
       Rimedo por <tld/>ado:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mittel zur Simulation.</dif>
     <subsnc mrk="simul.0ilo.TEK">
       <dif>
         Aparato provizanta celatajn kondi&ccirc;ojn dum testado
         a&ubreve; trejnado (ekz-e imitanta sengraviton per senpezeco).
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t, das bei Tests oder beim Training gew&uuml;nschte Bedingungen herstellt (z. B. Schwerelosigkeit durch einen Zustand der Gewichtslosigkeit nachahmt).</dif>
       <trdgrp lng="ru">
         <trd>&c_i;&c_m;&c_i;&c_t;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_y;&c_j; &c_k;&c_o;&c_m;&c_p;&c_l;&c_je;&c_k;&c_s;</trd>,
         <trd>&c_t;&c_r;&c_je;&c_n;&c_a;&c_zh;&c_jo;&c_r;</trd></trdgrp>
@@ -166,6 +172,7 @@
         imitanta la strukturon kaj iujn trajtojn
         de studata objekto.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Modell, vor allem ein Computer mit einem Programm, das die Struktur und bestimmte Eigenschaften eines untersuchten Objekts nachahmt.</dif>
       <trd lng="ca">simulador</trd>
       <trd lng="es">simulador</trd>
       <trd lng="ru">&c_i;&c_m;&c_i;&c_t;&c_a;&c_c;&c_i;&c_o;&c_n;&c_n;&c_a;&c_ja; <ind>&c_m;&c_o;&c_d;&c_je;&c_l;&c_mol;</ind></trd>

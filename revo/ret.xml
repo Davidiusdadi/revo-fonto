@@ -36,6 +36,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Geflecht mit gro&szlig;en Zwischenr&auml;umen zwischen den F&auml;den oder Schn&uuml;ren</dif>
     <subsnc mrk="ret.0o.kaptilo">
       <dif>
         Uzata kiel kaptilo, ekzemple de sova&gcirc;aj bestoj:
@@ -83,6 +84,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Als Falle verwendet, zum Beispiel f&uuml;r wilde Tiere</dif>
       <trd lng="en">net</trd>
       <trd lng="es">trampa con red</trd>
     <trdgrp lng="id">
@@ -207,6 +209,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas, das einem solchen Geflecht &auml;hnelt</dif>
   <trd lng="en">network</trd>
   <trdgrp lng="id">
     <trd>jaringan</trd>,
@@ -235,6 +238,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Komplizierte Anordnung von Verbindungen, verworrenes Geflecht</dif>
     <refgrp tip="sin">
        <ref cel="teks.0ajxo.FIG">teksa&jcirc;o<sncref/></ref>
     </refgrp>
@@ -1281,6 +1285,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge miteinander verbundener Neuronen, die als Teil des Nervensystems eine bestimmte Funktion erf&uuml;llen</dif>
     <trdgrp lng="ca">
       <trd>circuit neuronal</trd>,
       <trd>xarxa neuronal</trd>,
@@ -1309,6 +1314,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Graph, Netz aus k&uuml;nstlichen Neuronen, verwendet f&uuml;r statistische Berechnungen, die zum Beispiel f&uuml;r Klassifizierung, Bilderkennung, Spracherzeugung usw. n&ouml;tig sind</dif>
     <refgrp tip="vid">
       <ref cel="inteli.arta0o.KOMP">arta inteligento</ref>,
       <ref cel="intele.artefarita0o.KOMP">artefarita intelekto</ref>

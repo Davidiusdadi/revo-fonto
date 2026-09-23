@@ -87,6 +87,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stufe, auf der eine Person in einer bestimmten Hierarchie steht.</dif>
     <subsnc mrk="rang.0o.militista">
       <uzo tip="fak">MIL</uzo>
       <fnt><bib>VdE</bib><lok>oficiro</lok></fnt>
@@ -275,6 +276,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Grad der Wichtigkeit von jemandem oder etwas.</dif>
     <refgrp tip="vid">
       <ref cel="pozici.0o.situacio">pozicio<sncref/></ref>,
       <ref cel="prioritat.0o.grado">prioritato<sncref/></ref>
@@ -307,6 +309,7 @@
         <ref cel="dimens.0o.vektoraspaco">Dimensio</ref> de la
         vektora subspaco, kiun ili naskas.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von n Vektoren eines Vektorraums) Dimension des von ihnen erzeugten Untervektorraums.</dif>
     </subsnc>
     <subsnc mrk="rang.0o.matrico">
       <fnt><bib>MatVort</bib></fnt>
@@ -318,6 +321,7 @@
         kiun naskas &gcirc;iaj vertikaloj; simb. <frm am="&quot;rang&quot; A">rang
         A</frm>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer (n,p)-Matrix A &uuml;ber einem K&ouml;rper K) Dimension des von ihren Spalten erzeugten Untervektorraums von K^n; Symbol: rang A.</dif>
       <trd lng="pl">rz&aogonek;d<klr tip="ind"> (macierzy)</klr></trd>
     </subsnc>
     <subsnc mrk="rang.0o.homomorfio">
@@ -332,6 +336,7 @@
           la <ref cel="kern.0o.homomorfio">kerno</ref> de la endomorfio.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Homomorphismus zwischen Vektorr&auml;umen) Dimension seines Bildes.</dif>
       <trd lng="pl">rz&aogonek;d<klr tip="ind"> (homomorfizmu)</klr>
       </trd>
     </subsnc>
