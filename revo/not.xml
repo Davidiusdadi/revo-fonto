@@ -245,6 +245,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kurzer Eintrag zur Erinnerung oder als Kommentar.</dif>
     <refgrp tip="vid">
       <ref cel="koment1.0o">komento</ref>,
       <ref cel="not.pri0o">prinoto</ref>
@@ -309,6 +310,7 @@
       Skriba signo lokita sur muzika liniaro por montri la altecon
       kaj da&ubreve;ron de la tono.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schriftzeichen, das auf die Notenlinien gesetzt wird, um H&ouml;he und Dauer des Tons anzuzeigen.</dif>
     <subsnc mrk="not.0o.tono">
       <dif>
         La sono mem, prezentata per <tld/>o<sncref ref="not.0o.MUZ"/>,
@@ -357,6 +359,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Klang selbst, der durch eine Note dargestellt wird, beim Singen oder beim Spiel auf einem Musikinstrument.</dif>
       <ref tip="vid" cel="not.0oj">notoj</ref>
       <trd lng="de" fnt="AI: dif en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ton</trd>
       <trd lng="en">note <klr>(musical)</klr></trd>
@@ -384,6 +387,7 @@
           tio portis funebran <tld/>on en la &gcirc;ojan feston.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Besondere, unterscheidende Eigenschaft oder Nuance.</dif>
       <refgrp tip="vid">
         <ref cel="agord.0o.humoro">agordo<sncref/></ref>,
         <ref cel="etos.0o.KOMUNE">etoso</ref>,
@@ -448,6 +452,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Offiziell verwendetes Zeichen zur Bewertung der Kenntnisse oder des Verhaltens eines Sch&uuml;lers.</dif>
     <ref tip="super" cel="poent.0o">poento</ref>
     <trd lng="be">&c_a;&c_d;&c_z;&c_n;&c_a;&c_k;&c_a;</trd>
     <trdgrp lng="de">
@@ -619,6 +624,7 @@
         <tld/>fako en biblioteko.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der in Noten niedergeschriebene Text eines Musikwerks.</dif>
   <trd lng="en"><ind>sheet</ind> music</trd>
   </snc>
   <trd lng="be">&c_n;&c_o;&c_t;&c_y;</trd>
@@ -890,6 +896,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Offizielles diplomatisches Schriftst&uuml;ck, das f&ouml;rmlich auf ein Problem in den zwischenstaatlichen Beziehungen hinweist (Protest, Mitteilung &uuml;ber einen Vorfall usw.).</dif>
     <ref tip="vid" cel="memora.0o">memorando</ref>
   <trd lng="en">diplomatic <ind>note</ind></trd>
   </snc>
@@ -922,6 +929,7 @@
     <dif>
       &Ccirc;iutaga fikso de valoro de kurzo en la borso.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">T&auml;gliche Festsetzung des Kurses an der B&ouml;rse.</dif>
     <refgrp tip="sin">
       <ref cel="kvot.0igo">kvotigo</ref>
     </refgrp>
@@ -974,6 +982,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Fu&szlig;note setzen.</dif>
   <trd lng="en">footnote</trd>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_z;&c_n;&c_o;&c_s;&c_k;&c_u;</ind></trd>
@@ -1039,6 +1048,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kommentierende Anmerkung in einem Schriftwerk, die unten, am Fu&szlig; einer Seite steht.</dif>
   <trd lng="en">footnote</trd>
   </snc>
   <trd lng="be">&c_z;&c_n;&c_o;&c_s;&c_k;&c_a; <klr tip="amb">(&c_u; &c_t;&c_e;&c_k;&c_s;&c_mol;&c_c;&c_je;)</klr></trd>

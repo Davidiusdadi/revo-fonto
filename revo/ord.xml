@@ -59,6 +59,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im Raum.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_r;&c_a;&c_d;&c_a;&c_k;</trd>,
       <trd>&c_u;&c_p;&c_a;&c_r;&c_a;&c_d;&c_k;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -136,6 +137,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In zeitlicher oder kategorialer Abfolge.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_r;&c_a;&c_d;&c_a;&c_k;</trd>,
       <trd>&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -202,6 +204,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einem Regelwerk.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_r;&c_a;&c_d;&c_a;&c_k;</trd>,
       <trd>&c_p;&c_r;&c_a;&c_c;&c_e;&c_d;&c_u;&c_r;&c_a;</trd>
@@ -228,6 +231,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In K&ouml;rper und Geist.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_r;&c_a;&c_d;&c_a;&c_k;</trd>,
       <trd>&c_l;&c_a;&c_d;</trd>
@@ -313,6 +317,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im gesellschaftlichen Leben.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_r;&c_a;&c_d;&c_a;&c_k;</trd>,
       <trd>&c_l;&c_a;&c_d;</trd>
@@ -366,6 +371,7 @@
       hierar&hcirc;ion a&ubreve; &gcirc;ia pozicio en tia
       klasifiko.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rang eines mathematischen Objekts in Bezug auf eine nicht formal festgelegte Hierarchie oder seine Stellung in einer solchen Klassifikation.</dif>
     <subsnc mrk="ord.0o.derivajxo">
       <fnt><bib>PIV1</bib></fnt>
       <dif>
@@ -377,6 +383,7 @@
           dua<tld/>a diferenciala ekvacio.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Ableitung).</dif>
       <trd lng="de"><klr tip="amb">(Ableitungs-)</klr>ordnung</trd>
       <trd lng="en">order <klr>(of a derivative)</klr></trd>
       <trd lng="es">orden<klr tip="ind"> (de una
@@ -398,6 +405,7 @@
         Tia plej malgranda nenula pozitiva entjero <frm><k>n</k></frm>,
         ke <frm><k>a</k><sup><k>n</k></sup></frm> egalas al la unuo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Elements a in einer Gruppe) Die kleinste positive ganze Zahl n, f&uuml;r die a&#x207F; gleich dem Einselement ist.</dif>
       <trd lng="de">Ordnung</trd>
       <trd lng="en">order <klr>(of an element of a mathematical group)</klr></trd>
       <trd lng="es">orden<klr tip="ind"> (de un elemento de un grupo)</klr></trd>
@@ -418,6 +426,7 @@
           grupo dividas la <tld/>on de la grupo.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer endlichen Gruppe) Anzahl ihrer Elemente.</dif>
       <trd lng="de">Ordnung<klr tip="ind"> (einer
       Gruppe)</klr></trd>
       <trd lng="en">order <klr>(of a mathematical group)</klr></trd>
@@ -435,6 +444,7 @@
         <klr>(de polinoma <ref cel="radik.0o.polinomo">radiko</ref>)</klr>
         <ref tip="dif" cel="obl.0eco">Obleco</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Nullstelle eines Polynoms) Vielfachheit.</dif>
     <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vielfachheit</trd>
     <trd lng="en">order <klr>(of a polynomial)</klr></trd>
     </subsnc>
@@ -443,6 +453,7 @@
       <dif>
         <klr>(de <ref tip="vid" cel="infini1.0o">infinitezimo</ref>)</klr>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer unendlich kleinen Gr&ouml;&szlig;e)</dif>
       <ref tip="vid" cel="infini1.cxef0o">&ccirc;efinfinitezimo.</ref>
       <trd lng="de">Ordnung<klr tip="ind"> (der unendlich kleinen Gr&ouml;&szlig;en)</klr></trd>
       <trd lng="en">order <klr> (of an infinitesimal)</klr></trd>
@@ -459,6 +470,7 @@
         <klr>(de <ref cel="grafe.0o">grafeo</ref>)</klr>
         Nombro de &gcirc;iaj verticoj.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Graphen) Anzahl seiner Knoten.</dif>
       <trd lng="de">Ordnung<klr tip="ind"> (eines Graphen)</klr></trd>
       <trd lng="en">order <klr> (of a graph)</klr></trd>
       <trd lng="es">orden<klr tip="ind"> (de un gr&aacute;fico)</klr></trd>
@@ -518,6 +530,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stufe in der botanischen und zoologischen Klassifikation, zwischen Familie und Klasse.</dif>
     <lstref lst="voko:botanikaj_ordoj">botanikaj <tld/>oj</lstref>
     <lstref lst="voko:zoologiaj_ordoj">zoologiaj <tld/>oj</lstref>
     <rim>
@@ -587,6 +600,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Klassifikation der klassischen Architektur.</dif>
     <trd lng="be">&c_o;&c_r;&c_d;&c_e;&c_r; <klr
     tip="amb">(&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_u;&c_r;&c_n;&c_y;)</klr></trd>
     <trd lng="de">S&auml;ulenordnung</trd>
@@ -752,6 +766,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nach einer geeigneten Ordnung eingerichtet.</dif>
     <refgrp tip="vid">
       <ref cel="vid.antaux0ebla">anta&ubreve;videbla</ref>,
       <ref cel="konfor.0a">konforma</ref>,
@@ -864,6 +879,7 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 18a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In guter Ordnung sein.</dif>
     <trdgrp lng="be">
       <trd>&c_b;&c_y;&c_c;&c_mol; &c_u; <ind>&c_p;&c_a;&c_r;&c_a;&c_d;&c_k;&c_u;</ind></trd>,
       <trd>&c_b;&c_y;&c_c;&c_mol;
@@ -925,6 +941,7 @@
         <tld/>ita <klr>(t.e. <tld/>ohava)</klr> vektora spaco.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf einer Menge eine Ordnungsrelation definieren.</dif>
     <rim>
       Oni ne konfuzu &ccirc;i tiun sencon kun
       <ref cel="ord.0igi.KOMP"><tld/>igi<sncref/></ref>:
@@ -1089,6 +1106,7 @@
         <trd lng="de">jemandem den <ind>Kopf</ind> waschen</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nach einer Ordnung anordnen.</dif>
     <subsnc mrk="ord.0igi.KOMP">
       <uzo tip="fak">KOMP</uzo>
       <dif>
@@ -1107,6 +1125,7 @@
           kunfandi <tld/>igitajn listojn.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Datenstruktur nach einer auf ihren Elementen definierten Ordnung anordnen.</dif>
       <trd lng="de" fnt="AI: pl ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sortieren</trd>
       <trdgrp lng="pl">
         <trd>sortowa&cacute;</trd>,
@@ -1308,6 +1327,7 @@
         <fnt><bib>MT</bib>, <lok>&Jer; 4:1</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(etwas) Angemessen, gut eingerichtet, gut funktionierend, in gutem Zustand.</dif>
     <trdgrp lng="be">
       <trd>&c_u; &c_d;&c_o;&c_b;&c_r;&c_y;&c_m;
       <ind>&c_p;&c_a;&c_r;&c_a;&c_d;&c_k;&c_u;</ind></trd>,
@@ -1352,6 +1372,7 @@
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(jemand) Sich nach den Anstandsregeln verhaltend, die gesellschaftliche Ordnung beachtend, anst&auml;ndig, schicklich, sittsam.</dif>
     <trdgrp lng="be">
       <trd>&c_d;&c_o;&c_b;&c_r;&c_a;&c_p;&c_r;&c_y;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;</trd>,
       <trd>&c_p;&c_r;&c_y;&c_s;&c_t;&c_o;&c_j;&c_n;&c_y;</trd>
@@ -1380,6 +1401,7 @@
           entjeroj</ref> estas &gcirc;ia bon<tld/>eco.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer geordneten Menge) So beschaffen, dass ihre Ordnung eine Wohlordnung ist.</dif>
     <trd lng="be">&c_c;&c_a;&c_l;&c_k;&c_a;&c_m;
     &c_u;&c_p;&c_a;&c_r;&c_a;&c_d;&c_k;&c_a;&c_v;&c_a;&c_n;&c_a;&c_je;
     <klr>(&c_m;&c_n;&c_o;&c_s;&c_t;&c_v;&c_a;)</klr></trd>
@@ -1451,6 +1473,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verschiedene Teile nach bestimmten Beziehungen anordnen, um ein harmonisches Ganzes zu bilden.</dif>
     <refgrp tip="sub">
        <ref cel="harmon1.0igi">harmoniigi</ref>,
        <ref cel="akord.0igi">akordigi</ref>
@@ -1484,6 +1507,7 @@
         servas por kun<tld/>igi la propoziciojn.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zwei gleichrangige S&auml;tze (beide Haupts&auml;tze oder beide in gleicher Weise abh&auml;ngig) koordinieren, um sie zu verbinden oder einander gegen&uuml;berzustellen.</dif>
     <trd lng="be">&c_z;&c_l;&c_u;&c_ch;&c_a;&c_c;&c_mol;
     <klr>(&c_s;&c_y;&c_n;&c_t;&c_a;&c_k;&c_s;&c_y;&c_ch;&c_n;&c_a;,
     &c_g;&c_r;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;)</klr></trd>
@@ -2203,6 +2227,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden oder etwas unter die Autorit&auml;t von jemandem stellen.</dif>
     <trdgrp lng="ca">
       <trd>subordinar</trd>,
       <trd>supeditar</trd>
@@ -2235,6 +2260,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zwei S&auml;tze verbinden, von denen einer vom anderen abh&auml;ngt.</dif>
     <trd lng="ca">subordinar</trd>
     <trd lng="es">subordinar</trd>
   </snc>
@@ -2333,6 +2359,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Liste von Aufgaben, zu erledigenden Dingen und aufeinanderfolgenden Besch&auml;ftigungen f&uuml;r den Tag oder f&uuml;r eine bestimmte Zeit.</dif>
     <subsnc mrk="ord.tag0o.POL">
       <dif>
         Listo de la demandoj pritraktotaj en iu kunveno; programo:
@@ -2354,6 +2381,7 @@
           <fnt><bib>Metrop</bib></fnt>!
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Liste der in einer Versammlung zu behandelnden Fragen; Programm.</dif>
       <trd lng="de">Tagesordnung</trd>
       <trdgrp lng="es">
         <trd>agenda</trd>,
@@ -2380,6 +2408,7 @@
       <dif>
         Instrukcioj por la hodia&ubreve;a tago sciigataj al soldatoj.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Soldaten mitgeteilte Anweisungen f&uuml;r den heutigen Tag.</dif>
       <trd lng="es">orden del d&iacute;a</trd>
       <trdgrp lng="pl">
         <trd>porz&aogonek;dek dnia</trd>,

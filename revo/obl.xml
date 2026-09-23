@@ -115,6 +115,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;beraus viel.</dif>
   </snc>
   <snc>
     <uzo tip="klr">(Plurale)</uzo>
@@ -131,6 +132,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In gro&szlig;er Zahl von derselben Art vorhanden.</dif>
     <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">multiple</trd>
     <trd lng="fr">multiple</trd>
   </snc>
@@ -261,6 +263,7 @@
         mult<tld/>i&gcirc;ema raso.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichartige Wesen immer zahlreicher machen, indem man sie sich auseinander fortpflanzen l&auml;sst.</dif>
     <trd lng="de" fnt="AI: ru hu id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vermehren</trd>
     <trdgrp lng="hu">
       <trd>szapor&iacute;t</trd>,
@@ -289,6 +292,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Zahl mit einer ganzen Zahl multiplizieren.</dif>
     <trd lng="be">&c_p;&c_a;&c_m;&c_n;&c_o;&c_zh;&c_y;&c_c;&c_mol;</trd>
     <trd lng="de" fnt="AI: pl ru ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">multiplizieren</trd>
     <trd lng="id"><baz>kali</baz>mengalikan</trd>
@@ -622,6 +626,7 @@
             <frm am="bb X^2-2*bb X+bb 1"><g>X</g><sup>2</sup>-2&middot;<g>X</g>+<g>1</g></frm>.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Nullstelle a eines Polynoms P) So beschaffen, dass n die gr&ouml;&szlig;te Potenz ist, f&uuml;r die (X-a&middot;1)^n das Polynom P teilt.</dif>
         <trd lng="hu">n-szeres <klr tip="amb">(gy&ouml;k)</klr></trd>
       </subsnc>
       <subsnc mrk="obl.n0a.punkto">
@@ -634,6 +639,7 @@
             unu<tld/>aj.
           </ekz>
         </dif>
+        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Punkt einer Kurve) So beschaffen, dass die Kurve ihn n-mal durchl&auml;uft.</dif>
         <trd lng="hu">n-edrend&udblac; <klr tip="amb">(g&ouml;rbe)</klr></trd>
       </subsnc>
       <refgrp tip="vid">

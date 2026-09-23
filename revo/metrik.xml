@@ -19,6 +19,7 @@
         13a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wissenschaft von den Versma&szlig;en.</dif>
     <refgrp tip="vid">
       <ref cel="vers.0farado">versfarado</ref>
     </refgrp>
@@ -49,6 +50,7 @@
         nombroj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(auf einer Menge M) Eine Abbildung d von M&#x00D7;M in die Menge der positiven reellen Zahlen, sodass f&uuml;r alle Elemente x, y, z&#x2208;M gilt: (1) d(x,y) = 0 genau dann, wenn x = y; (2) d(x,y) = d(y,x); (3) d(x,z) &#x2264; d(x,y)+d(y,z).</dif>
     <refgrp tip="vid">
       <ref cel="distan.0o.MAT">distanco</ref>,
       <ref cel="spac.metrika0o">metrika spaco</ref>,

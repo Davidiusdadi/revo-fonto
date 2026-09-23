@@ -130,6 +130,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Suffix, das die Gemeinschaftlichkeit ausdr&uuml;ckt und dazu dient, aus Zahlw&ouml;rtern oder Mengenw&ouml;rtern ein Substantiv mit der Bedeutung &leftquot;Gruppe aus der angegebenen Anzahl von Mitgliedern&rightquot; abzuleiten, aus dem man weiter Adjektive oder Adverbien mit der Bedeutung &leftquot;gemeinsam&rightquot;, &leftquot;zusammen&rightquot; usw. ableiten kann.</dif>
     <rim>
       PV kaj PIV difinas apartan sencon: <ctl>en grupoj
       de</ctl>:
@@ -222,6 +223,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kollektiv, aus mehreren bestehend.</dif>
   <trdgrp lng="de">
     <trd fnt="AI: en fr nl sv ru cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kollektiv</trd>,
     <trd fnt="AI: uk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gemeinsam</trd>
@@ -303,6 +305,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von Menschen mit fester Mitgliedschaft und gemeinsamem Ziel oder gemeinsamer T&auml;tigkeit.</dif>
     <refgrp tip="sub">
       <ref cel="skip.0o">skipo</ref>,
       <ref cel="tacxme.0o">ta&ccirc;mento</ref>,
@@ -329,6 +332,7 @@
       pluraj aroj; intuicie: sinsekvo el finia nombro da objektoj (ne
       nepre malsamaj), prenitaj en difinita ordo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Element eines kartesischen Produkts mehrerer Mengen; anschaulich: Folge aus einer endlichen Anzahl von Objekten (nicht notwendig verschieden), die in einer bestimmten Reihenfolge genommen werden.</dif>
     <refgrp tip="vid">
       <ref cel="vic.finia0o">finilonga vico</ref>,
       <ref cel="op.n0o">n-<tld/>o</ref>

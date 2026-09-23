@@ -28,6 +28,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verneinend.</dif>
     <refgrp tip="vid">
       <ref cel="ne.0a.respondo">nea<sncref/></ref>,
       <ref cel="neg.0a">nega</ref>
@@ -107,6 +108,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ung&uuml;nstig, ablehnend, schlecht.</dif>
     <refgrp tip="ant">
       <ref cel="aprob.0a">aproba</ref>,
       <ref cel="favor.0a">favora</ref>
@@ -130,6 +132,7 @@
       Inversa de
       <ref tip="ant" cel="poziti.0a">pozitiva</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Gegenteil von positiv.</dif>
     <subsnc mrk="negati.0a.testo">
       <dif>
         Indikanta maleston de io ser&ccirc;ata:
@@ -141,6 +144,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Nichtvorhandensein von etwas Gesuchtem anzeigend.</dif>
       <trd lng="hu">negat&iacute;v</trd>
       <trd lng="pl">negatywny</trd>
       <trd lng="ru">&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
@@ -154,6 +158,7 @@
           la pozitiva klemo de pilo.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Gegenteil von elektrisch positiv.</dif>
       <trd lng="hu">negat&iacute;v<klr tip="amb"> (elektr.)</klr></trd>
       <trd lng="pl">ujemny</trd>
       <trd lng="ru">&c_o;&c_t;&c_r;&c_i;&c_c;&c_a;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;<klr tip="amb"> (&c_e;&c_l;.)</klr></trd>
@@ -172,6 +177,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf ein fotografisches Negativ bezogen.</dif>
       <trd lng="hu">negat&iacute;v<klr tip="amb"> (f&eacute;nyk&eacute;p)</klr></trd>
       <trd lng="pl">negatywowy</trd>
       <trd lng="ru">&c_n;&c_je;&c_g;&c_a;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;<klr tip="amb"> (&c_f;&c_o;&c_t;.)</klr></trd>
@@ -194,6 +200,7 @@
           la kvadrato de <tld/>a reelo estas pozitiva.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Zahl oder einem Element in einem geordneten, additiv geschriebenen Monoid) Kleiner als null.</dif>
       <ref tip="ant" cel="poziti.0a.nombro">pozitiva</ref>
       <rim>
         Kiel por &ccirc;iu <ref cel="rilat.ordo0o">ordo-rilato</ref>
@@ -215,6 +222,7 @@
         de &gcirc;ia asociita endomorfio estas <tld/>a
         <sncref ref="negati.0a.nombro"/>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer affinen Isometrie) So beschaffen, dass die Determinante des zugeh&ouml;rigen Endomorphismus negativ ist.</dif>
       <ref tip="ant" cel="poziti.0a.izometrio">pozitiva</ref>
       <rim>
         Vidu rimarkon sub <ctl>pozitiva</ctl>.

@@ -16,6 +16,7 @@
         unu, du, cent estas bazaj <tld/>oj;</ekz><ekz>
         "mil sepcent tridek dua" estas orda <tld/>o.</ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wort oder Wortgruppe, die eine Anzahl oder eine Nummer angibt; Zahlwort.</dif>
     <trd lng="be">&c_l;&c_ib;&c_ch;&c_e;&c_b;&c_n;&c_ib;&c_k;</trd>
     <trd lng="de">Zahlwort</trd>
     <trd lng="en">numeral</trd>
@@ -38,6 +39,7 @@
       <ekz>
         3,14 estas reela <tld/>o, 1999 estas entjera <tld/>o.</ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer Programmiersprache eine Zeichenkette, die eine Zahl oder Nummer gem&auml;&szlig; einem Zahlensystem angibt.</dif>
     <refgrp tip="prt">
       <ref cel="cifer.0o">cifero</ref>,
       <ref cel="sign.0umo.KOMP">signumo</ref>,

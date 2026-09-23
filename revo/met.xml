@@ -14,6 +14,7 @@
     <dif>
       Transigi en difinitan lokon; fari ke iu, io estu ie.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einen bestimmten Ort bringen; bewirken, dass jemand oder etwas irgendwo ist.</dif>
     <subsnc mrk="met.0i.loki">
       <dif>
         Transigi al fizika loko:
@@ -76,6 +77,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einen physischen Ort bringen.</dif>
       <trdgrp lng="ru">
         <trd>&c_k;&c_l;&c_a;&c_s;&c_t;&c_mol;</trd>,
         <trd>&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>,
@@ -200,6 +202,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In eine Funktion, an einen abstrakten Ort bringen.</dif>
       <trdgrp lng="ru">
         <trd>&c_v;&c_o;&c_z;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol;</trd>,
@@ -248,6 +251,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einen bestimmten Zustand bringen, ... machen.</dif>
     <trd lng="de" fnt="AI: dif ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versetzen</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_o;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;</trd>,
@@ -1398,6 +1402,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Entfernen, beiseitelegen.</dif>
     <ref tip="vid" cel="prokra.0i">prokrasti</ref>
     <trdgrp lng="be">
       <trd>&c_p;&c_r;&c_y;&c_b;&c_r;&c_a;&c_c;&c_mol;</trd>,
@@ -1438,6 +1443,7 @@
         for<tld/>i oficon
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf etwas verzichten.</dif>
     <refgrp tip="vid">
       <ref cel="arhxiv.0o">arkivo</ref>,
       <ref cel="forges.0i">forgesi</ref>

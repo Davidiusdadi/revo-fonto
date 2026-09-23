@@ -107,6 +107,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Winkel) Einen rechten Winkel darstellend; dessen Ma&szlig; 90&deg; betr&auml;gt.</dif>
     <ref tip="sin" cel="rekt.0a.orta">rekta</ref>
     <trd lng="be">&c_p;&c_r;&c_o;&c_s;&c_t;&c_y; <klr>(&c_v;&c_u;&c_g;&c_a;&c_l;, &c_k;&c_u;&c_t;)</klr></trd>
     <trd lng="de">recht<klr tip="ind">(-er Winkel)</klr></trd>
@@ -138,6 +139,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Vieleck oder Polyeder) Rechtwinklig.</dif>
     <rim>
       &Ccirc;i tiu senco povas esti konsiderata kiel mallongigo, foje
       bonvena:
@@ -199,6 +201,7 @@
           la teraj meridianoj kaj paraleloj estas inter si <tld/>aj.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer geometrischen Figur in Bezug auf eine andere) So beschaffen, dass sie einander unter Bildung eines rechten Winkels schneiden.</dif>
       <rim>
         Eblas diri sendistinge <ctl><frm am="a"><k>a</k></frm> estas
         <tld/>a al
@@ -237,6 +240,7 @@
           <tld/>a al &ccirc;iu &gcirc;ia elemento.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Vektoren in einem euklidischen Raum) So beschaffen, dass ihr Skalarprodukt gleich null ist.</dif>
       <trdgrp lng="es">
         <trd>perpendicular</trd>,
         <trd>ortogonal</trd>
@@ -258,6 +262,7 @@
           la <tld/>a aro de subaro estas fermita vektora subspaco.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Teilmenge eines euklidischen Raums, in Bezug auf eine andere Teilmenge A) So beschaffen, dass alle ihre Elemente orthogonal zu denen von A sind.</dif>
       <rim>
         Anstata&ubreve; <ctl><tld/>a aro</ctl> troveblas
         <ctl><tld/>anto</ctl> en
@@ -279,6 +284,7 @@
         <frm am="f"><k>f</k></frm> de ties <ref cel="dual.0o.MAT">dualo</ref>)</klr>
         Tiaj, ke <frm am="f(x)=0"><k>f</k>(<k>x</k>) = 0</frm>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Element x eines Vektorraums und einem Element f seines Dualraums) So beschaffen, dass f(x) = 0 ist.</dif>
       <trdgrp lng="es">
         <trd>perpendicular</trd>,
         <trd>ortogonal</trd>
@@ -301,6 +307,7 @@
           <frm>+1</frm> a&ubreve; <frm>-1</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer (n,p)-Matrix A) Deren Transponierte gleich der Inversen von A ist.</dif>
       <trd lng="de">orthogonal<klr tip="ind">(-e Matrix)</klr></trd>
       <trdgrp lng="en">
         <trd>orthogonal<klr tip="ind"> (matrix)</klr></trd>

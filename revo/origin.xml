@@ -70,6 +70,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Umfeld, aus dem jemand, eine Familie oder ein Volk stammt; Herkunft.</dif>
     <refgrp tip="vid">
       <ref cel="ven.de0i">deveno</ref>.
     </refgrp>
@@ -146,6 +147,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ursache oder Prinzip, aufgrund dessen etwas beginnt.</dif>
     <refgrp tip="vid">
       <ref cel="font.0o.origino">fonto<sncref/></ref>,
       <ref cel="genez.0o">genezo</ref>.
@@ -179,10 +181,12 @@
       Elira, rilata <ref tip="super" cel="punkt.0o.spaco">punkto</ref>,
       interalie:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ausgangs- oder Bezugspunkt, unter anderem.</dif>
     <subsnc mrk="origin.0o.de_duonrekto">
       <dif>
         de <ref tip="vid" cel="rekt.duon0o">duonrekto</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">einer Halbgeraden.</dif>
       <trdgrp lng="hu">
        <trd>ered&odblac;</trd>,
        <trd>v&eacute;gpont</trd>
@@ -202,6 +206,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">eines kartesischen Koordinatensystems.</dif>
       <trd lng="de"><klr>(Koordinaten-)</klr>Ursprung</trd>
       <trd lng="hu">orig&oacute;</trd>
     </subsnc>
@@ -211,6 +216,7 @@
         La <tld/>o <sncref ref="origin.0o.de_duonrekto"/>
         de la <ref cel="aks.polusa0o">polusa akso</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Polarkoordinatensystems) Der Anfangspunkt der Polarachse.</dif>
       <trd lng="de" fnt="AI: dif ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pol</trd>
       <trd lng="hu">cs&uacute;cspont</trd>
     </subsnc>
