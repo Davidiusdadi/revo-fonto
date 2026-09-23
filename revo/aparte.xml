@@ -77,6 +77,7 @@
         <trd lng="hu">a mag&aacute;&eacute; mindenkinek kedves</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandes Eigentum oder Besitz sein.</dif>
     <refgrp tip="vid">
       <ref cel="dispon.0i.havi">disponi<sncref/></ref>,
       <ref cel="hav.0i.proprajxon">havi<sncref/></ref>,
@@ -139,6 +140,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandes Sache sein, von jemandem abh&auml;ngen.</dif>
     <refgrp tip="vid">
       <ref cel="koncer.0i">koncerni</ref>,
       <ref cel="tusx.0i.koncerni">tu&scirc;i<sncref/></ref>
@@ -207,6 +209,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil von etwas sein, einer von &#x2026; sein.</dif>
     <refgrp tip="vid">
       <ref cel="al.0igxi">ali&gcirc;i</ref>,
       <ref cel="membr.0i">membri</ref>,
@@ -238,6 +241,7 @@
         <frm am="a notin bb E">a&#8713;<g>E</g></frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Zu einer Menge) Element dieser Menge sein.</dif>
     <refgrp tip="vid">
       <ref cel="hav.en0i.aro">enhavi</ref>
     </refgrp>

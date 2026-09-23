@@ -17,6 +17,7 @@
       literoj, ne nur ciferoj, kaj tiamaniere ebligas solvadon de
       ekvacioj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teilgebiet der Mathematik, das die arithmetischen Rechnungen auf Gr&ouml;&szlig;en ausdehnt, die durch Buchstaben und nicht nur durch Ziffern bezeichnet werden, und so das L&ouml;sen von Gleichungen erm&ouml;glicht.</dif>
     <rim>
       La <ctl>grandoj</ctl>, kiujn la moderna <tld/>o manipulas, ne plu
       limi&gcirc;as al nombroj. &Gcirc;ia agokampo nun ampleksas
@@ -223,6 +224,7 @@
       kiu okupi&gcirc;as pri logika rezonado kaj trovas aplikon en
       komputiloj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teilgebiet der Algebra, das sich mit logischem Schlie&szlig;en befasst und Anwendung in Computern findet.</dif>
     <trdgrp lng="zh">
     <trd>&#24067;&#23572;&#20195;&#25968; <pr>b&ugrave;&ecaron;rd&agrave;ish&ugrave;</pr></trd>,
     <trd>&#24067;&#29246;&#20195;&#25976; <pr>b&ugrave;&ecaron;rd&agrave;ish&ugrave;</pr></trd>
@@ -252,6 +254,7 @@
       f(x)&#8744;f(y)</frm>,
       kiuj ajn estas <frm am="x,y &#8712; bb A">x,y&#8712;<g>A</g></frm>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Algebraische Struktur (A,&#x2228;,&#x2227;,f), wobei f eine Involution (Komplement genannt) ist, derart dass (1) beide Operationen assoziativ und kommutativ sind; (2) f&uuml;r jede Operation ein neutrales Element existiert (bezeichnet mit 0 f&uuml;r &#x2228; und 1 f&uuml;r &#x2227;); (3) jede Operation distributiv bez&uuml;glich der anderen ist; (4) x&#x2227;x = x&#x2228;x = x, x&#x2228;f(x) = 1 und x&#x2227;f(x) = 0 f&uuml;r jedes x&#x2208;A; (5) f(x&#x2228;y) = f(x)&#x2227;f(y) und f(x&#x2227;y) = f(x)&#x2228;f(y) f&uuml;r alle x,y&#x2208;A.</dif>
     <trd lng="nl">Booleaanse <ind>algebra</ind></trd>
     <trd lng="pl">algebra Boole'a</trd>
   </snc>

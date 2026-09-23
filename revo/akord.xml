@@ -45,6 +45,7 @@
         chat</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Richtiges Zusammenpassen mehrerer Dinge.</dif>
     <ref tip="sin" cel="akord.inter0o.konveneco">inter<tld/>o<sncref/></ref>
     <refgrp tip="vid">
       <ref cel="harmon1.0o.arangxo">harmonio</ref>,
@@ -97,6 +98,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichheit der Gef&uuml;hle oder Meinungen zwischen Personen.</dif>
     <ref tip="sin" cel="akord.inter0o.samopinieco">inter<tld/>o<sncref/></ref>
     <refgrp tip="vid">
       <ref cel="harmon1.0o.paco">harmonio</ref>,
@@ -182,6 +184,7 @@
         <fnt><bib>I&scirc;tar</bib><lok>&ccirc;ap. 11</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von mindestens drei gleichzeitig erklingenden T&ouml;nen, die gew&ouml;hnlich einen angenehmen Klang erzeugt.</dif>
     <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Anka&ubreve; diru <ke>tonkombino</ke>.
     </rim>
@@ -245,6 +248,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Offizielle Vereinbarung, z. B. zwischen Staaten.</dif>
     <ref tip="sin" cel="akord.inter0o.JUR">inter<tld/>o<sncref/></ref>
     <refgrp tip="vid">
       <ref cel="konsen.inter0o">interkonsento</ref>,
@@ -308,6 +312,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erscheinung, bei der sich die Form bestimmter W&ouml;rter an die anderer W&ouml;rter anpasst, mit denen sie in syntaktischer Beziehung stehen.</dif>
     <trd lng="be">&c_d;&c_a;&c_p;&c_a;&c_s;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr
     tip="amb">(&c_g;&c_r;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_je;)</klr></trd>
     <trdgrp lng="ca">
@@ -415,6 +420,7 @@
     <dif>
       Rilata al <tld/>o, estanta en <tld/>o.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Einklang betreffend; im Einklang befindlich.</dif>
     <subsnc mrk="akord.0a.konveneco" ref="akord.0o.konveneco">
       <dif>
         Estanta en stato de <tld/>o<sncref ref="akord.0o.konveneco"/>:
@@ -430,6 +436,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im Zustand der &Uuml;bereinstimmung befindlich.</dif>
       <refgrp tip="vid">
         <ref cel="adapt.0i">adaptita</ref>,
         <ref cel="harmon1.0a">harmonia</ref>,
@@ -492,6 +499,7 @@
           </trdgrp>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im Zustand der Eintracht befindlich.</dif>
       <trd lng="de">einvernehmlich</trd>
       <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">harmonious</trd>
       <trdgrp lng="fr">
@@ -520,6 +528,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Akkord betreffend.</dif>
       <trd lng="de">Akkord-</trd>
       <trd lng="fr">d'<ind>accord</ind>(s)<klr tip="ind">
       (mus.)</klr></trd>
@@ -565,6 +574,7 @@
         <fnt><bib>Far2</bib>, <lok>&ccirc;ap. 13a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Im selben Takt schreitend.</dif>
     <trdgrp lng="de">
       <trd>im <ind>Takt</ind></trd>,
       <trd>im <ind>Gleichschritt</ind></trd>
@@ -608,6 +618,7 @@
     <dif>
       Esti en stato de <tld/>o:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich im Zustand der &Uuml;bereinstimmung befinden.</dif>
     <subsnc mrk="akord.0i.konveni" ref="akord.0o.konveneco">
       <ekz>
         &ccirc;eesto &ccirc;e mistikaj ceremonioj ne <tld/>as kun liaj principoj
@@ -968,6 +979,7 @@
     <dif>
       Tia, ke ekestas <tld/>o:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So, dass &Uuml;bereinstimmung entsteht.</dif>
     <subsnc ref="akord.0o.konveneco">
       <ekz>
         <klr>[&scirc;i]</klr> ofte ridis, kio tute ne <tld/>i&gcirc;is
@@ -1634,6 +1646,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unvollst&auml;ndige, schlechte &Uuml;bereinstimmung.</dif>
     <rim>
       &Scirc;ajnas, ke tiu &ccirc;i vorto rolas &ccirc;efe kiel evitvorto por
       <ref cel="akord.mal0o">mal<tld/>o</ref>.

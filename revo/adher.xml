@@ -170,6 +170,7 @@
         </trdgrp>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass es haftet</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_g;&c_je;&c_z;&c_ib;&c_w;&c_n;&c_y;</trd>,
       <trd>&c_k;&c_l;&c_je;&c_j;&c_k;&c_ib;</trd>
@@ -229,6 +230,7 @@
           a&ubreve; izolita punkto de &gcirc;i.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt x in einem topologischen Raum, bezogen auf eine Teilmenge A davon) So beschaffen, dass jede Umgebung von x Punkte aus A enth&auml;lt</dif>
       <rim>
         Anstata&ubreve; <ctl><tld/>a punkto</ctl> troveblas
         <ctl>kontaktpunkto</ctl> en
@@ -272,6 +274,7 @@
           <frm am="a">a</frm> kaj <frm am="-a">-a</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt b in einem metrischen Raum, bezogen auf eine Folge) So beschaffen, dass eine Teilfolge der betrachteten Folge gegen b konvergiert</dif>
       <trdgrp lng="de">
         <trd>Adh&auml;renz-<klr tip="amb">(punkt)</klr></trd>,
         <trd>Ber&uuml;hrungs-<klr tip="amb">(punkt)</klr></trd>,
@@ -315,6 +318,7 @@
         </ref>
         de <frm am="a">a</frm>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt b in einem topologischen Raum F, bezogen auf eine Abbildung f des topologischen Raums E in F, an einem Punkt a von E) So beschaffen, dass er adh&auml;rent zum Bild jeder Umgebung von a unter f ist</dif>
       <refgrp tip="vid">
         <ref cel="infim.limes0o.funkcio">limesinfimo</ref>,
         <ref cel="suprem.limeso0o.funkcio">limesosupremo</ref>.
@@ -371,6 +375,7 @@
         mama protezo kaj la apudaj <ref cel="hist.0o">histoj</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gelegentlich auftretende Verklebung zweier normalerweise nicht miteinander in Kontakt stehender Oberfl&auml;chen, vor allem infolge einer Entz&uuml;ndung</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_p;&c_a;&c_j;&c_k;&c_a; <klr>(&c_m;&c_e;&c_d;.)</klr></trd>,
       <trd>&c_z;&c_mol;&c_v;&c_ja;&c_z;&c_a;&c_k; <klr>(&c_m;&c_e;&c_d;.)</klr></trd>
@@ -400,6 +405,7 @@
         <ref cel="ferm.0ajxo.MAT">ferma&jcirc;o</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Teilmenge A in einem topologischen Raum) Die Teilmenge aller bez&uuml;glich A adh&auml;renten Punkte</dif>
     <rim>
       Same kiel por <ctl><tld/>a</ctl> la fontoj mankas, eble pro la
       sinonimeco kun <ctl>ferma&jcirc;o</ctl>.

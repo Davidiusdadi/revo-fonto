@@ -66,6 +66,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zahlen oder Mengen zueinander hinzuf&uuml;gen und zu einer einzigen zusammenfassen.</dif>
     <rim num="1" mrk="adici.0i.MB">
       En nefaka kunteksto oni povas diri
       &leftquot;<ref cel="don.al0i">aldoni</ref>&rightquot; anstata&ubreve; &leftquot;<tld/>i&rightquot;, kaj oni
@@ -190,6 +191,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Operation des Addierens.</dif>
     <trdgrp lng="zh">
       <trd>&#x52A0;&#x4E0A; <pr>ji&amacron;sh&agrave;ng</pr></trd>,
       <trd>&#x52A0;&#x6CD5; <pr>ji&amacron;f&#x1CE;</pr></trd>,
@@ -204,6 +206,7 @@
       <klr>(en <ref cel="ring.0o.MAT">ringo</ref>)</klr> &Gcirc;ia unua
       <ref tip="super" cel="operac.0o.MAT">operacio</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem Ring) Die erste Operation des Rings.</dif>
   </snc>
   <refgrp tip="vid">
     <ref cel="sum.0o">sumo</ref>,
@@ -352,6 +355,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(zweier (n,p)-Matrizen) Operation, die in einer elementweisen Addition besteht.</dif>
     <trdgrp lng="zh">
     <trd>&#x6998;&#x9663;&#x52A0;&#x6CD5; <pr>j&#x1D4;zh&egrave;nji&amacron;f&#x1CE;</pr></trd>,
       <trd>&#x77E9;&#x9635;&#x52A0;&#x6CD5; <pr>j&#x1D4;zh&egrave;nji&amacron;f&#x1CE;</pr></trd>
