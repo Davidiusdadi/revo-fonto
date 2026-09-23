@@ -23,6 +23,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil einer Maschine oder eines Fahrzeugs, der zu starke waagerechte St&ouml;&szlig;e oder Druck von au&szlig;en abschw&auml;cht.</dif>
     <subsnc mrk="bufr.0o.FER">
       <uzo tip="fak">FER</uzo>
       <dif>
@@ -42,6 +43,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Klotzf&ouml;rmige Vorrichtung an den Enden von Eisenbahnwagen, die deren Zusammenst&ouml;&szlig;e abschw&auml;cht.</dif>
       <trdgrp lng="ca">
         <trd>topall</trd>,
         <trd>para-xocs</trd>
@@ -62,6 +64,7 @@
         en kazo de kolizio, muntita &ccirc;e la anta&ubreve;o kaj
         &ccirc;e la malanta&ubreve;o de la veturilo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Waagerechte Stange vorn und hinten am Fahrzeug, die bei einem Zusammensto&szlig; die Sch&auml;den mildert.</dif>
       <trdgrp lng="ca">
         <trd>para-xocs</trd>,
         <trd>paracolps</trd>
@@ -97,6 +100,7 @@
       provizora konservado de datumoj, precipe &ccirc;e kunlaboro de
       diversrapidaj traktiloj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Speicher zur vor&uuml;bergehenden Aufbewahrung von Daten, besonders beim Zusammenwirken unterschiedlich schneller Verarbeitungseinheiten.</dif>
     <trd lng="ca">mem&ograve;ria interm&egrave;dia</trd>
     <trdgrp lng="de">
       <trd>Pufferspeicher</trd>,
@@ -130,6 +134,7 @@
       rezistancoj a&ubreve; kiu stokas provizore energion por poste
       liveri &gcirc;in pli rapide.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vorrichtung, die Ger&auml;te und Leiter mit unterschiedlichen elektrischen Widerst&auml;nden verbindet oder Energie vor&uuml;bergehend speichert, um sie sp&auml;ter schneller abzugeben.</dif>
     <trd lng="de">Pufferschaltung</trd>
     <trd lng="es">condensador el&eacute;ctrico</trd>
     <trdgrp lng="it">
@@ -153,6 +158,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gemisch, das der Wirkung zugesetzter Stoffe ausgleichend entgegenwirkt, zum Beispiel den pH-Wert trotz Zugabe starker S&auml;uren oder Basen konstant h&auml;lt.</dif>
     <trd lng="ca">amortidor de pH</trd>
     <trd lng="de">Puffer<klr>(l&ouml;sung)</klr></trd>
   <trdgrp lng="id">
@@ -204,6 +210,7 @@
         <trd lng="pl">strefa buforowa</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Geografische Zone oder neutraler Staat zwischen zwei verfeindeten oder im Konflikt stehenden Staaten.</dif>
     <trd lng="ca">zona coix&iacute;</trd>
     <trd lng="de">Pufferzone</trd>
     <trd lng="es">zona desmilitarizada</trd>
@@ -232,6 +239,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Irgendein Mittel, das gef&auml;hrliche &auml;u&szlig;ere Einfl&uuml;sse abschw&auml;cht.</dif>
   </snc>
   <trd lng="be">&c_b;&c_u;&c_f;&c_e;&c_r;</trd>
   <trd lng="cs">vyrovn&aacute;vac&iacute; pam&ecaron;&tcaron;</trd>

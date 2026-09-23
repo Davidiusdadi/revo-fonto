@@ -47,6 +47,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stets gleicher Zeitraum, nach dem sich dieselben Erscheinungen in derselben Reihenfolge wiederholen.</dif>
      <trd lng="de">Kreislauf</trd>
     <trd lng="es">ciclo</trd>
     <trd lng="hu">ciklus</trd>
@@ -83,6 +84,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe von Gedichten, die sich auf dasselbe Thema beziehen.</dif>
     <trd lng="es">ciclo</trd>
     <trd lng="nl">cyclus</trd>
     <trd lng="hu">versciklus</trd>
@@ -166,6 +168,7 @@
           kunliga&jcirc;on de duelementaj <tld/>oj.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(der L&auml;nge n, anders gesagt: n-elementig) Eine Permutation f, die alle Elemente unver&auml;ndert l&auml;sst au&szlig;er n Elementen {a1,a2,..., an}, f&uuml;r die f(ai) = ai+1 (falls i &lt; n) und f(an) = a1 gilt.</dif>
       <trd lng="de">Zykel<klr tip="ind"> (Vertauschung)</klr></trd>
       <trd lng="en">cycle<klr tip="ind"> (permutation)</klr></trd>
       <trd lng="es">ciclo<klr tip="ind"> (permutaci&oacute;n)</klr></trd>
@@ -184,6 +187,7 @@
         &gcirc;iaj komenca kaj fina verticoj koincidas; alidire: fermita
         &ccirc;eno.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Graphen) Ein einfacher Kantenzug, dessen Anfangs- und Endknoten zusammenfallen; anders gesagt: ein geschlossener Kantenzug.</dif>
       <refgrp tip="sub">
         <ref cel="cirkvi.0o.grafeo">cirkvito</ref>
       </refgrp>
@@ -245,6 +249,7 @@
     <dif>
       Rilata al <tld/>o:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf einen Zyklus bezogen.</dif>
     <ekz>ne temas pri <tld/>a fluktuado de konjunkturo, sed pri iu historia, struktura krizo de la
     kapitalismo
     <fnt>
@@ -288,6 +293,7 @@
           kie <frm am="n"><k>n</k></frm> signas &gcirc;ian ordon.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Gruppe) Von nur einem Element erzeugt.</dif>
       <trd lng="de">zyklisch<klr tip="ind"> (-e Gruppe)</klr></trd>
       <trd lng="en">cyclic<klr tip="ind"> (group)</klr></trd>
       <trd lng="es">c&iacute;clico<klr tip="ind"> (grupo)</klr></trd>
@@ -309,6 +315,7 @@
         estas
         <tld/>a <sncref ref="cikl.0a.grupo"/>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer galoisschen Erweiterung K' eines K&ouml;rpers K) So beschaffen, dass ihre Galoisgruppe Gal(K'/K) zyklisch ist.</dif>
       <trd lng="de">zyklisch<klr tip="ind"> (-e Erweiterung)</klr></trd>
       <trd lng="en">cyclic<klr tip="ind"> (extension)</klr></trd>
       <trd lng="es"><klr tip="ind">(extensi&oacute;n) </klr>c&iacute;clico</trd>
@@ -410,6 +417,7 @@
         <trd lng="ca">reciclatge</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht mehr verwendbares oder nicht mehr verwendetes Material, zum Beispiel Abfall, nutzen, um neues Material herzustellen.</dif>
     <trd lng="ca">reciclar</trd>
     <trd lng="en">recycle</trd>
     <trd lng="es">reciclar</trd>
@@ -452,6 +460,7 @@
     <dif>
       Ne havanta <tld/>on.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Keinen Zyklus aufweisend.</dif>
   <trd lng="en">acyclic</trd>
   <trd lng="id">asiklis</trd>
   </snc>
@@ -462,6 +471,7 @@
       Tia, ke neniu <ref cel="cxen.0o.grafeo">&ccirc;eno</ref> en
       &gcirc;i estas <ref cel="cikl.0o.grafeo"><tld/>o <sncref/></ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Graphen) So beschaffen, dass kein Kantenzug in ihm ein Zyklus ist.</dif>
     <trd lng="de"><klr tip="ind">(Graph) </klr>ohne <ind>Zyklus</ind></trd>
     <trd lng="en"><ind>cycle</ind>-free<klr tip="ind"> (graph)</klr></trd>
     <trd lng="es"><klr tip="ind">(grafo) </klr>sin ciclo</trd>

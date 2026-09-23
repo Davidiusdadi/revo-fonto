@@ -13,6 +13,7 @@
     <dif>
       Rada <ref tip="super" cel="vetur.0ilo">veturilo</ref> sen motoro.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fahrzeug mit R&auml;dern ohne Motor.</dif>
     <subsnc mrk="cxar1.0o.sxargxoveturilo">
       <dif>
         &Scirc;ar&gcirc;veturilo:
@@ -51,6 +52,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Lastfahrzeug.</dif>
       <trdgrp lng="en">
         <trd>car <klr>(railway)</klr></trd>,
         <trd>carriage</trd>,
@@ -99,6 +101,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Feierliches R&auml;derfahrzeug.</dif>
       <trd lng="en">carriage</trd>
       <trd lng="fr">char<klr tip="ind"> (v&eacute;hicule de
       c&eacute;r&eacute;monie)</klr></trd>
@@ -127,6 +130,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Streitwagen.</dif>
       <trd lng="de" fnt="AI: ref en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Streitwagen</trd>
       <trd lng="en">chariot</trd>
       <trd lng="fr">char <klr tip="ind">(antique)</klr></trd>
@@ -219,6 +223,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleiner Wagen, den ein Mensch schieben oder ziehen kann.</dif>
     <trdgrp lng="be">
       <trd>&c_t;&c_a;&c_ch;&c_k;&c_a;</trd>,
       <trd>&c_k;&c_a;&c_l;&c_ja;&c_s;&c_k;&c_a;</trd>,
@@ -262,6 +267,7 @@
       &ccirc;irka&ubreve; kiu volvi&gcirc;as la papero, kaj el la
       &gcirc;in portanta &ccirc;asio.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beweglicher Teil einer Schreibmaschine, der haupts&auml;chlich aus einer Gummiwalze, um die sich das Papier legt, und dem sie tragenden Gestell besteht.</dif>
     <trd lng="be">&c_k;&c_a;&c_r;&c_e;&c_t;&c_k;&c_a;</trd>
     <trd lng="ca">carro <klr>(m&agrave;quina d'escriure)</klr></trd>
     <trd lng="de" fnt="AI: nl en ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wagen</trd>
@@ -389,6 +395,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In gro&szlig;en Gesch&auml;ften bereitgestellter kleiner Wagen zum Sammeln der Eink&auml;ufe.</dif>
     <refgrp tip="vid">
       <ref cel="korb.0o">rulkorbo</ref>
     </refgrp>
@@ -522,6 +529,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von einem oder mehreren Pferden gezogener Wagen.</dif>
     <refgrp tip="sub">
       <ref cel="cxar1.batal0o">batal&ccirc;aro</ref>,
       <ref cel="kalesx.0o">kale&scirc;o</ref>

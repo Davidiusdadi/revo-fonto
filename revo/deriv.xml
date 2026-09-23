@@ -226,6 +226,7 @@
       klareco de la esprimo
       <fnt><bib>LtE</bib></fnt></ekz>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Ableitens.</dif>
     <rim>
       Kelkaj pekas kontra&ubreve; la principo de sufi&ccirc;o, tro uzante la
       sufiksojn -ad/, -et/, -eg/, ktp...: <ekz>mi lern<em>ad</em>as
@@ -248,6 +249,7 @@
       <klr>(<ref cel="funkci.0o.MAT">funkcion</ref>)</klr>
       Ago de kalkuli ties <ref cel="deriv.0ajxo.MAT"><tld/>a&jcirc;on<sncref/></ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Funktion) Das Berechnen ihrer Ableitung.</dif>
     <trd lng="be">&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; <ind>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_j;</ind></trd>
     <trd lng="de" fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Differentiation</trd>
     <trd lng="fr">calcul de d&eacute;riv&eacute;e</trd>
@@ -323,6 +325,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abgeleitetes Wort.</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_je; <ind>&c_s;&c_l;&c_o;&c_v;&c_a;</ind></trd>,
       <trd>&c_d;&c_e;&c_r;&c_y;&c_v;&c_a;&c_t; <klr>(&c_l;&c_ib;&c_n;&c_g;&c_v;.)</klr></trd>
@@ -360,6 +363,7 @@
           la funkcio havas nulan <tld/>a&jcirc;on.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Funktion f mit reellem oder komplexem Argument, an einem Punkt a ihrer Definitionsmenge) Der Grenzwert lim h&#x2192;0 [f(a+h)-f(a)]/h, falls er existiert.</dif>
     </subsnc>
     <subsnc mrk="deriv.0ajxo.funkcio">
       <fnt><bib>EKV</bib>, <lok>&para;74</lok></fnt>
@@ -407,6 +411,7 @@
           la funkcio kosinuso estas <tld/>a&jcirc;o de sinuso.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Funktion f mit reellem oder komplexem Argument) Diejenige Funktion f&minute;, f&uuml;r die f&minute;(x) gleich der Ableitung von f im Punkt x ist.</dif>
       <ref tip="vid" cel="difere2.0o">diferencialo.</ref>
     </subsnc>
     <subsnc mrk="deriv.0ajxo.distribucio">
@@ -429,6 +434,7 @@
           <frm am="(-1)^n phi^((n))(0)">(-1)<sup><k>n</k></sup>&phi;<sup>(<k>n</k>)</sup>(0)</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Distribution T) Die Distribution T&minute;, definiert durch T&minute;(&phi;) = -T(&phi;&minute;).</dif>
     </subsnc>
     <trd lng="be">&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_ja; <klr>(&c_n;&c_a;&c_z;.)</klr></trd>
     <trd lng="ca">derivada</trd>
@@ -469,6 +475,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Chemisches Produkt (Verbindung), das durch ein chemisches Verfahren aus einem anderen gewonnen wird.</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_je; <ind>&c_r;&c_e;&c_ch;&c_y;&c_v;&c_a;</ind></trd>,
       <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_je; <ind>&c_z;&c_l;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>,
@@ -489,6 +496,7 @@
       Financprodukto <tld/>ita de negocebla valorpapero.
       La plej konataj estas templimkontraktoj kiel ekz-e akciaj opcioj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Finanzprodukt, das von einem handelbaren Wertpapier abgeleitet ist. Die bekanntesten sind Termingesch&auml;fte wie etwa Aktienoptionen.</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_ja; &c_k;&c_a;&c_sh;&c_t;&c_o;&c_w;&c_n;&c_a;&c_ja; <ind>&c_p;&c_a;&c_p;&c_je;&c_r;&c_a;</ind></trd>,
       <trd>&c_d;&c_e;&c_r;&c_y;&c_v;&c_a;&c_t; <klr>(&c_f;&c_ib;&c_n;.)</klr></trd>
@@ -609,6 +617,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Funktion f mit reellem oder komplexem Argument) Jede Funktion g, deren Ableitung gleich f ist, d. h. g&minute; = f.</dif>
     <ref tip="sin" cel="integr2.0o.malderivajxo">integralo.</ref>
     <trdgrp lng="be">
       <trd>&c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ja; &c_p;&c_je;&c_r;&c_sh;&c_a;&c_ib;&c_s;&c_n;&c_a;&c_ja;</trd>,
@@ -662,6 +671,7 @@
         <ctl>faceto</ctl>, <ctl>malgra&ubreve;</ctl>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wort, das durch Entfernen eines scheinbaren Affixes gebildet wird.</dif>
     <ref tip="ant" cel="deriv.0ajxo.GRA">deriva&jcirc;o</ref>
     <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_je; &c_z;&c_v;&c_a;&c_r;&c_o;&c_t;&c_n;&c_a;&c_je;</trd>
     <trd lng="ca">mot originari</trd>
@@ -738,6 +748,7 @@
         <k>x</k><sup>2</sup></frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Funktion mehrerer Argumente, nach dem i-ten Argument) Ableitung nach einem der Argumente, w&auml;hrend die &uuml;brigen konstant bleiben.</dif>
     <trdgrp lng="zh">
     <trd>&#20559;&#24494;&#20998; <pr>pi&amacron;nw&emacron;if&emacron;n</pr></trd>,
     <trd>&#20559;&#23548;&#25968; <pr>pi&amacron;nd&#462;osh&#468;</pr></trd>
