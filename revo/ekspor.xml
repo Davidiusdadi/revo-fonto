@@ -269,6 +269,11 @@
     </dif>
     <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_a;&c_r;&c_t;&c_n;&c_y;
     &c_t;&c_a;&c_v;&c_a;&c_r;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Exportgut</trd>,
+      <trd fnt="AI: pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Exportware</trd>,
+      <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ausfuhrgut</trd>
+    </trdgrp>
     <trd lng="en">export</trd>
     <trd lng="fr">exportation<klr tip="ind"> (marchandise
     export&eacute;e)</klr></trd>

@@ -109,6 +109,7 @@
       <ref cel="perd.0o">perdo</ref>,
       <ref cel="averi.0o">averio</ref>
     </refgrp>
+  <trd lng="de" fnt="AI: ref en id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schaden</trd>
   <trdgrp lng="id">
     <trd><baz>rusak</baz>kerusakan</trd>,
     <trd><baz>rugi</baz>kerugian</trd>
@@ -414,6 +415,10 @@
     <dif>
       Difekti, <ref tip="dif" cel="damagx.0i">dama&gcirc;i</ref>.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sch&auml;digen</trd>,
+      <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">besch&auml;digen</trd>
+    </trdgrp>
     <trd lng="es"><klr>(evitar usar en el sentido de
     da&ntilde;ar)</klr></trd>
   <trdgrp lng="id">

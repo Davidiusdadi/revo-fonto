@@ -118,6 +118,10 @@
   </snc>
   <snc mrk="eklezi.0o.klerikaro">
     <ref tip="dif" cel="klerik.0aro">klerikaro</ref>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Klerus</trd>,
+      <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geistlichkeit</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>klerus</trd>,
       <trd>imamat</trd>

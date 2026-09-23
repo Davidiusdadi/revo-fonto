@@ -326,6 +326,10 @@
       <ref cel="ricev.0i">ricevi</ref>,
       <ref cel="traf.0i">trafi</ref>
    </refgrp>
+   <trdgrp lng="de">
+     <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">befallen</trd>,
+     <trd fnt="AI: pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;berfallen</trd>
+   </trdgrp>
    <trdgrp lng="hu">
       <trd>r&aacute;borul</trd>,
       <trd>r&aacute;ront</trd>,
@@ -556,6 +560,7 @@
       <ref cel="degrad.0i">degradi</ref>,
       <ref cel="dekade.0i">dekadenci</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfallen</trd>
     <trdgrp lng="hu">
       <trd>jut</trd>,
       <trd>ker&uuml;l</trd>,
@@ -1077,6 +1082,7 @@ originel)</klr></trd>,
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abwerfen</trd>
     <trdgrp lng="hu">
       <trd>ler&aacute;z</trd>,
       <trd>z&aacute;poroz</trd>
@@ -1477,6 +1483,10 @@ originel)</klr></trd>,
       <ref cel="sitel.0o">sitelo</ref>.
     </refgrp>
     <trd lng="be">&c_z;&c_a;&c_n;&c_ja;&c_p;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfallen</trd>,
+      <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herunterkommen <klr>[ugs.]</klr></trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>bukik</trd>,
       <trd>hanyatlik</trd>
@@ -1532,6 +1542,7 @@ originel)</klr></trd>,
       &c_v;&c_je;&c_r;&c_y;)</klr></trd>,
       <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_ja;&c_v;&c_je;&c_r;&c_n;&c_y;&c_m;</ind></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abfallen</trd>
     <trdgrp lng="hu">
       <trd>elszakad</trd>,
       <trd>elp&aacute;rtol</trd>,
@@ -1960,6 +1971,7 @@ originel)</klr></trd>,
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfallen</trd>
     <trdgrp lng="hu">
       <trd>beleesik</trd>,
       <trd>ker&uuml;l<klr tip="ind"> (vhova)</klr></trd>,
@@ -1987,6 +1999,7 @@ originel)</klr></trd>,
       <ref cel="entrep.0i">entrepreni</ref>,
       <ref cel="invad.0i">invadi</ref>.
     </refgrp>
+    <trd lng="de" fnt="AI: nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hereinst&uuml;rmen</trd>
     <trd lng="hu">beleveti mag&aacute;t</trd>
     <trd lng="nl">binnenvallen</trd>
     <trd lng="pl">wpada&cacute;</trd>
@@ -2021,6 +2034,7 @@ originel)</klr></trd>,
 	<fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einfallen</trd>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">collapse</trd>
     <trdgrp lng="hu">
       <trd>beesik</trd>,
@@ -2323,6 +2337,7 @@ lieu)</klr></trd>,
 	la bran&ccirc;oj sub<tld/>is sub la ne&gcirc;o.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich biegen</trd>
     <trd lng="hu">al&aacute;ker&uuml;l</trd>
     <adm>
       Mi pensas, ke la propra senco de sub~i devus esti "~i sub ion": la papero subfalis sub

@@ -378,6 +378,10 @@
     </dif>
     <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol; &c_u; <ind>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</ind></trd>
     <trd lng="ca">transformar en electricitat</trd>
+    <trdgrp lng="de">
+      <trd kod="FAK" fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verstromen <klr>(fachspr.)</klr></trd>,
+      <trd fnt="AI: en fr ca ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Strom umwandeln</trd>
+    </trdgrp>
     <trd lng="en">transform into electricity</trd>
     <trd lng="fr">transformer en &eacute;lectricit&eacute;</trd>
     <trd lng="id"><baz>ubah</baz>mengubah menjadi listrik</trd>

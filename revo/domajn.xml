@@ -124,6 +124,10 @@
         <frm am="bb &quot;dom &quot; A={x: A(x)darr}"><g>dom</g>&nbsp;A={x: A(x)&#8595;}</frm>.
       </dif>
    </subsnc>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Definitionsbereich</trd>,
+      <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Definitionsmenge</trd>
+    </trdgrp>
     <trd lng="ru">&c_o;&c_b;&c_l;&c_a;&c_s;&c_t;&c_mol; &c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_ja;</trd>
   </snc>
   <rim>

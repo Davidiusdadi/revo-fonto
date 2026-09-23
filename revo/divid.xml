@@ -391,6 +391,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Teilung</trd>,
+      <trd fnt="AI: fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Aufteilung</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>d&eacute;limitation</trd>,
       <trd>division<klr tip="ind"> (s&eacute;paration, partage)</klr></trd>,
@@ -792,6 +796,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spalten</trd>
   <trdgrp lng="id">
     <trd><baz>pecah belah</baz>memecah belah</trd>,
     <trd><baz>belah</baz>membelah-belah</trd>,

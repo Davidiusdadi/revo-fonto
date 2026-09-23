@@ -166,6 +166,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl pt hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versinken</trd>
     <trd lng="hu">elmer&uuml;l</trd>
     <trdgrp lng="id">
       <trd><baz>benam</baz>terbenam</trd>,
@@ -229,6 +230,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl pt hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versinken</trd>
     <trd lng="hu">mer&uuml;l</trd>
     <trdgrp lng="pl">
       <trd>ton&aogonek;&cacute;</trd>,
@@ -279,6 +281,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: sv hu pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versinken</trd>,
+      <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vertiefen</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>elm&eacute;lyed</trd>,
       <trd>elmer&uuml;l</trd>
@@ -398,6 +404,7 @@
       <ref cel="fund.al0igi">alfundigi</ref>,
       <ref cel="abism.en0igi">enabismigi</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versenken</trd>
     <trdgrp lng="en"><trd>to drown</trd>, <trd>sink</trd></trdgrp>
     <trd lng="hu">v&iacute;zbe <ind>fojt</ind></trd>
     <trdgrp lng="id">
@@ -453,6 +460,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versenken</trd>
     <trdgrp lng="en">
       <trd>to submerge</trd>,
       <trd>immerse</trd>, <trd>to drown in</trd>

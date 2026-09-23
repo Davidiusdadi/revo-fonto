@@ -118,6 +118,7 @@
       <ref cel="person.0aro.EKON">personaro</ref>
     </refgrp>
     <trd lng="ca">n&ograve;mina<klr tip="amb"> (relaci&oacute; del personal d&#8217;una empresa)</klr></trd>
+    <trd lng="de" fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Personalbestand</trd>
     <trdgrp lng="en">
       <trd>register <klr>(of people)</klr></trd>,
       <trd>list <klr>(of people)</klr></trd>
@@ -149,6 +150,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Status</trd>
   <trdgrp lng="en">
     <trd>state <klr>(status)</klr></trd>,
     <trd>condition <klr>(status)</klr></trd>
@@ -469,6 +471,7 @@
         5</lok></fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verm&ouml;gensverzeichnis</trd>
   <trdgrp lng="en">
     <trd>inventory <klr>(of one's possessions)</klr></trd>,
     <trd>asset <ind>register</ind></trd>,
