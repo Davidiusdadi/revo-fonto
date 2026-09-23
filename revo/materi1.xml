@@ -58,6 +58,7 @@
         </fnt>!
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Alles Materielle, was f&uuml;r eine Handlung n&ouml;tig ist.</dif>
     <subsnc mrk="materi1.0o.krudajxo">
       <dif>
         <ref tip="sin" cel="krud.0ajxo.materialo">Kruda&jcirc;o</ref>
@@ -117,6 +118,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rohstoff, aus dem man Fabrikate herstellen kann.</dif>
       <refgrp tip="vid">
         <ref cel="materi.0o.materialo">materio<sncref/></ref>,
         <ref cel="substa.0o.FIZ">substanco<sncref/></ref>
@@ -145,6 +147,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Alles, was f&uuml;r den Betrieb eines Unternehmens, einer Anlage, eines Amtes usw. n&ouml;tig ist.</dif>
       <ref tip="sin" cel="rimed.0o">rimedo</ref>
     <trd lng="id">materi</trd>
     </subsnc>
@@ -198,6 +201,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Informationen, Fakten und Daten aller Art, die man braucht, um ein Buch, einen Bericht o. &Auml;. zu verfassen oder geistige Arbeit zu leisten.</dif>
   <trd lng="id">materi</trd>
   </snc>
   <trd lng="af">materiaal</trd>
@@ -510,6 +514,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Lebensweise, die die materiellen Bed&uuml;rfnisse &uuml;ber die geistigen stellt.</dif>
     <ref tip="ant" cel="ideal.0ismo.morala">idealismo</ref>
     <ref tip="vid" cel="hedonism.0o">hedonismo</ref>
     <trd lng="fr">mat&eacute;rialisme<klr> (attachement aux choses)</klr></trd>

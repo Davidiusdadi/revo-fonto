@@ -81,6 +81,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von der h&ouml;chsten staatlichen Autorit&auml;t verk&uuml;ndete verbindliche Entscheidung, die etwas gebietet oder verbietet</dif>
   </snc>
   <snc mrk="legx.0o.komune">
     <uzo tip="stl">KOMUNE</uzo>
@@ -104,6 +105,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verbindliche Regel</dif>
     <trd lng="en">rule</trd>
   </snc>
   <snc mrk="legx.0o.SCI">
@@ -135,6 +137,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Naturprinzip; Naturgesetz</dif>
     <refgrp tip="vid">
       <ref cel="princi.0o">principo</ref>
     </refgrp>
@@ -264,6 +267,7 @@
         la <tld/>a forto, povo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf das Gesetz bezogen</dif>
     <trd lng="de">gesetzlich</trd>
   </snc>
   <snc mrk="legx.0a.lauxlegxa">
@@ -721,6 +725,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Gesetzen entsprechend, von den Gesetzen erlaubt oder verlangt; gesetzlich</dif>
     <trd lng="zh">&#x6CD5;&#x5B9A; <pr>f&#x1CE;d&#xEC;ng</pr></trd>
 </snc>
   <trdgrp lng="be">
@@ -1027,6 +1032,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Best&auml;ndige, allgemeing&uuml;ltige Regel, von der man annimmt, dass sie sich in den Naturerscheinungen unbedingt verwirklicht</dif>
     <trd lng="be">&c_z;&c_a;&c_k;&c_o;&c_n; &c_p;&c_r;&c_y;&c_r;&c_o;&c_d;&c_y;</trd>
     <trd lng="fr">loi de la nature</trd>
     <trd lng="id"><ind>hukum</ind> alam</trd>

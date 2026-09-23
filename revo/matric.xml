@@ -19,11 +19,13 @@
         monerojn oni frapas per <tld/>o.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reliefmodell: Block, St&uuml;ck oder Form, mit dem man durch Schmelzen, Schlagen, Gie&szlig;en oder Pressen gleichartige St&uuml;cke herstellen kann.</dif>
     <subsnc mrk="matric.0o.TIP">
       <uzo tip="fak">TIP</uzo>
       <dif>
         Formo por gisi litertipojn.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Form zum Gie&szlig;en von Drucklettern.</dif>
       <trd lng="hu">anyaminta</trd>
     </subsnc>
     <subsnc mrk="matric.0o.kartona">
@@ -32,6 +34,7 @@
         povas gisi
         <ref tip="vid" cel="stereo3.0o.TIP">stereotipon<sncref/></ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Pressen vom Schriftsatz abgenommene Form aus Pappe, mit der man eine Stereotypplatte gie&szlig;en kann.</dif>
       <ref tip="vid" cel="klisx.0o.TIP">kli&scirc;o<sncref/></ref>
       <trd lng="hu">matrica</trd>
     </subsnc>
@@ -40,6 +43,7 @@
       <dif>
         Formo, kiu kovri&gcirc;as per maldika tavolo de metalo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Form, die mit einer d&uuml;nnen Metallschicht &uuml;berzogen wird.</dif>
       <refgrp tip="vid">
         <ref cel="patric.0o">patrico</ref>
       </refgrp>
@@ -98,6 +102,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Grundmasse von Gesteinen, die aus feink&ouml;rnigen Kristallen besteht und gr&ouml;&szlig;ere Kristalle umgibt.</dif>
   <trd lng="de">Matrix</trd>
   </snc>
   <snc mrk="matric.0o.MAT">
@@ -126,6 +131,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(mit n Zeilen und p Spalten)</dif>
     <ref tip="sin" cel="matric.n_p0o">(n,p)-<tld/>o</ref>
     <trd lng="de">Matrix</trd>
     <trd lng="en">matrix</trd>
@@ -162,6 +168,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zweidimensionale Tabelle.</dif>
     <ref tip="vid" cel="vektor.0o.KOMP">vektoro</ref>
     <trd lng="de">Tabelle</trd>
     <trd lng="nl">matrix</trd>

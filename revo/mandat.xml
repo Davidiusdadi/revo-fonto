@@ -65,6 +65,7 @@
         <trd lng="id">surat perintah penangkapan</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einer Vollmacht verbundener Auftrag, der jemandem erteilt wird, um den Auftraggeber zu vertreten und in seinem Namen zu handeln.</dif>
     <trd lng="be">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
     <trd lng="ca">mandat</trd>
     <trd lng="en">mandate</trd>
@@ -86,6 +87,7 @@
     <dif>
       Dokumento, per kiu oni donas tian komision.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dokument, mit dem man einen solchen Auftrag erteilt.</dif>
     <trd lng="be">&c_m;&c_a;&c_n;&c_d;&c_a;&c_t;</trd>
     <trdgrp lng="ca">
       <trd>ordre</trd>,
@@ -130,6 +132,7 @@
         <trd lng="ru">&c_p;&c_o;&c_ch;&c_t;&c_o;&c_v;&c_y;&c_j; &c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dokument, mit dem man anordnet, einer bestimmten Person einen bestimmten Betrag zu zahlen.</dif>
     <refgrp tip="vid">
       <ref cel="asign.0o">asigno</ref>,
       <ref cel="ordon.pag0o">pagordono</ref>

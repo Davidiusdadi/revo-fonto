@@ -20,6 +20,7 @@
         <ref cel="centr.pezo0o.MAT">pezocentro</ref>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Geometrie, beim Dreieck) Gerade, die durch eine seiner Ecken und die Mitte der gegen&uuml;berliegenden Seite verl&auml;uft.</dif>
     <bld lok="../bld/e_medianoj.svg" tip="svg" alt="400" lrg="400">
       <tld/>oj de triangulo
     </bld>
@@ -45,6 +46,7 @@
         la kvar <tld/>oj de kvaredro sin intersekcas en &gcirc;ia pezocentro.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Geometrie, beim Tetraeder) Gerade, die durch eine seiner Ecken und den Schwerpunkt der gegen&uuml;berliegenden Fl&auml;che verl&auml;uft.</dif>
   </snc>
   <snc mrk="median.0o.statistiko">
     <fnt><bib>PIV3</bib></fnt>
@@ -54,6 +56,7 @@
       valoro,
       duilo).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zahl, die von ebenso vielen Zahlen &uuml;berschritten wie unterschritten wird.</dif>
     <trdgrp lng="de">
       <trd>Median</trd>,
       <trd>Medianwert</trd>
