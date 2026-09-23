@@ -25,6 +25,7 @@
        </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Verb) normalerweise mit einem Objekt stehend; zum Beispiel: bewegen, schlagen, drehen, waschen, beginnen, beenden, langweilen, sagen.</dif>
     <trdgrp lng="hu">
       <trd>t&aacute;rgyas</trd>,
       <trd>tranzit&iacute;v</trd>
@@ -71,6 +72,7 @@
           <trd lng="ru">&c_t;&c_r;&c_a;&c_n;&c_z;&c_i;&c_t;&c_i;&c_v;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Relation R in einer Menge E) so beschaffen, dass die Verkettung R&#x25E6;R in R enthalten ist (R&#x25E6;R&#x2282;R).</dif>
       <trd lng="hu">tranzit&iacute;v <klr tip="amb">(rel&aacute;ci&oacute;)</klr></trd>
       <trdgrp lng="pl">
         <trd><klr tip="amb">(relacja) </klr>przechodnia</trd>,
@@ -89,6 +91,7 @@
         bildigo en <frm am="bb G"><g>G</g></frm>, kiu &jcirc;etas unu al la
         alia.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Gruppe G von Abbildungen einer Menge E) so beschaffen, dass es f&uuml;r je zwei beliebige Elemente von E eine Abbildung in G gibt, die das eine auf das andere abbildet.</dif>
       <rim>
         Oni diras anka&ubreve;, ke <frm am="bb G"><g>G</g></frm> operacias
         <tld/>e

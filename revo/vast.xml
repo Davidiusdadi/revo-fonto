@@ -457,6 +457,7 @@
         bagateloj</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas weit machen</dif>
     <trdgrp lng="be">
       <trd>&c_r;&c_a;&c_s;&c_sh;&c_y;&c_r;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_p;&c_a;&c_sh;&c_y;&c_r;&c_a;&c_c;&c_mol;</trd>
@@ -726,6 +727,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nach allen Seiten weit machen</dif>
     <refgrp tip="vid">
       <ref cel="etend.dis0i">disetendi</ref>,
       <ref cel="radi.el0i">elradii</ref>,
@@ -786,6 +788,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;berallhin bekannt machen</dif>
     <refgrp tip="vid">
       <ref cel="fam.dis0igi">disfamigi</ref>,
       <ref cel="trumpe.dis0i">distrumpeti</ref>,
@@ -977,6 +980,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von geringen Ausma&szlig;en; mit wenig freiem Raum</dif>
     <refgrp tip="vid">
       <ref cel="largx.mal0a">mallar&gcirc;a</ref>,
       <ref cel="strikt.0a">strikta</ref>
@@ -1010,6 +1014,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von geringem Umfang; streng, unfrei</dif>
     <trdgrp lng="ca">
       <trd>estret</trd>,
       <trd>petit</trd>
@@ -1036,6 +1041,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einander nahe, vertraut, fest miteinander verbunden</dif>
   </snc>
   <snc mrk="vast.mal0a.FON">
     <uzo tip="fak">FON</uzo>
@@ -1051,6 +1057,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit h&ouml;herer Zungenstellung und engerem Resonanzraum gesprochen als ein anderer Laut, mit dem man ihn vergleicht</dif>
     <trd lng="be">&c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_y;
     <klr>(&c_g;&c_u;&c_k;)</klr></trd>
     <trd lng="ca">tancat <klr>(fon&egrave;tica)</klr></trd>
@@ -1138,6 +1145,7 @@
     <dif>
       Io mal<tld/>igita.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas Verengtes</dif>
     <trd lng="hu">sz&udblac;k&uuml;let</trd>
     <trd lng="pl">obci&eogonek;cie</trd>
   </snc>
@@ -1158,6 +1166,7 @@
         la&ubreve; la aro de entjeroj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Abbildung f auf eine Teilmenge A ihrer Definitionsmenge) Eine Abbildung g von A in die Zielmenge von f, sodass g(x) = f(x) f&uuml;r jedes x&#x2208;A</dif>
     <ref tip="sin" cel="bild.sub0igo">subbildigo.</ref>
     <rim>
       Por &ccirc;i tiu senco troveblas <ctl>malpli<tld/>igo</ctl> en

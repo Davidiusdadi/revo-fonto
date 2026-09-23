@@ -44,6 +44,7 @@
       La&ubreve; pli precizaj sencoj <em>-um</em>
       estas uzata por signifi interalie:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nachsilbe zur Ableitung von W&ouml;rtern, deren Beziehung zur Wurzel ungenau ist oder sich durch keine andere Nachsilbe ausdr&uuml;cken l&auml;sst. In genaueren Bedeutungen wird diese Nachsilbe unter anderem verwendet, um Folgendes zu bezeichnen.</dif>
     <subsnc mrk="um.0.specialiga">
       <dif>
         Metaforigon a&ubreve; specialigon de la radikverbo:
@@ -58,6 +59,7 @@
           <ref cel="tend.0umi">tendumi</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">eine Metaphorisierung oder Spezialisierung des Wurzelverbs</dif>
     </subsnc>
     <subsnc mrk="um.0.TEKS">
       <uzo tip="fak">TEKS</uzo>
@@ -70,6 +72,7 @@
           <ref cel="pland.0umo">pland<tld/>o</ref>, <ref cel="kalkan.0umo">kalkan<tld/>o</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">ein Kleidungsteil oder einen K&ouml;rperschmuck um den betreffenden K&ouml;rperteil oder in seiner N&auml;he</dif>
     </subsnc>
     <subsnc mrk="um.0.JUR">
       <gra><vspec>tr</vspec></gra>
@@ -81,6 +84,7 @@
           <ref cel="rad.0umi">rad<tld/>i</ref>, <ref cel="sxton.0umi">&scirc;ton<tld/>i</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">eine Folter</dif>
       <trdgrp lng="hu">
         <trd>-<ind>iz&eacute;</ind><klr> (hat&aacute;rozatlan jelent&eacute;s&udblac; k&eacute;pz&odblac;)</klr></trd>,
         <trd>-<ind>iz&eacute;l</ind><klr> (hat&aacute;rozatlan jelent&eacute;s&udblac; k&eacute;pz&odblac;)</klr></trd>
@@ -97,6 +101,7 @@
           <ref cel="sxultr.0umi">&scirc;ultr<tld/>i</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">eine Handlung mit dem betreffenden K&ouml;rperteil</dif>
     </subsnc>
     <subsnc mrk="um.0.provizo">
       <gra><vspec>tr</vspec></gra>
@@ -110,6 +115,7 @@
           <ref cel="sap.0umi">sapumi</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">das Versehen, &Uuml;berziehen oder Schm&uuml;cken mit dem betreffenden Material</dif>
     </subsnc>
     <subsnc mrk="um.0.LIN_alparolo">
       <gra><vspec>tr</vspec></gra>
@@ -122,6 +128,7 @@
           <ref cel="vi.0umi.alparole">vi<tld/>i</ref>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">die Anrede mit dem betreffenden Titel</dif>
     </subsnc>
   </snc>
   <snc mrk="um.0.MAT">
@@ -148,6 +155,7 @@
           la &Hcirc;aldeoj kalkulis sesdek<tld/>e.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nachsilbe, die an eine ganze Zahl angef&uuml;gt wird, um ein Beiwort eines Stellenwertsystems zu bilden, das dessen Basis angibt</dif>
       <ref tip="vid" cel="frakci.numa0o">n-<tld/>a frakcio.</ref>
       <trd lng="en">Esperanto <ind>suffix</ind> for base number system</trd>
       <trdgrp lng="hu">
@@ -175,6 +183,7 @@
           <ctl>logaritmo natura</ctl>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nachsilbe, die an eine reelle Zahl angef&uuml;gt wird, um ein Beiwort einer Logarithmus- oder Exponentialfunktion zu bilden, das deren Basis angibt</dif>
       <trd lng="en">Esperanto <ind>suffix</ind> for logarithmic base</trd>
       <trd lng="hu">... <ind>alap&uacute;</ind> <klr>(logaritmus)</klr></trd>
     </subsnc>

@@ -191,6 +191,7 @@
         ke &ccirc;iuj &gcirc;iaj <tld/>oj estas paralelaj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(an einem Ort der Erdoberfl&auml;che) Richtung der Geraden, die durch den betreffenden Ort und den Erdmittelpunkt geht; jede Gerade mit dieser Richtung.</dif>
     <trd lng="de" fnt="AI: fr ru pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lotrechte</trd>
     <trd lng="es">vertical<klr tip="ind"> (de un lugar)</klr></trd>
     <trd lng="fr">verticale<klr tip="ind"> (d'un lieu)</klr></trd>
@@ -216,6 +217,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe von Elementen eines Textes, einer Matrix, eines Schachbretts, deren Anordnung vertikal ist.</dif>
     <ref tip="sin" cel="kolumn.0o.TIP">kolumno<sncref/></ref>
     <trd lng="de" fnt="AI: es fr pl pt ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Spalte</trd>
     <trd lng="es">columna</trd>
@@ -241,6 +243,7 @@
           estas <frm am="x=5"><k>x</k> = 5</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gerade mit einer nach Konvention gew&auml;hlten Richtung (oft die der letzten kartesischen Achse).</dif>
       <trdgrp lng="de">
         <trd>Senkrechte</trd>,
         <trd>Vertikale</trd>
@@ -259,6 +262,7 @@
         &Ccirc;iu el &gcirc;iaj <frm am="p"><k>p</k></frm> <klr> </klr>
         <frm am="(n,1)">(<k>n</k>,1)</frm>-submatricoj.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer (n,p)-Matrix) Jede ihrer p (n,1)-Untermatrizen.</dif>
       <trdgrp lng="de">
         <trd>Spalte<klr tip="ind"> (einer Matrix)</klr></trd>,
         <trd>Vertikalreihe<klr tip="ind"> (einer Matrix)</klr></trd>
@@ -298,6 +302,7 @@
           al <frm am="n"><k>n</k></frm>-opo.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede (n,1)-Matrix.</dif>
       <adm>
       Mi ne trovis fonton por tiu termino.<aut>MB</aut>
       </adm>

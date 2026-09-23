@@ -48,6 +48,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von Sprachlauten mit bestimmter Bedeutung und bestimmtem grammatischem Gebrauch in einer menschlichen Sprache</dif>
     <subsnc mrk="vort.0o.esprimo">
       <dif>
         rigardata kiel formo, kontraste al la ideo:
@@ -90,6 +91,7 @@
           </fnt>!
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">als Form betrachtet, im Gegensatz zur Idee</dif>
       <rim>
         <nom>Zamenhof</nom> klarigis, ke &leftquot;la <tld/>ojn, kiuj estas egale
         uzataj en
@@ -189,6 +191,7 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einzeln oder in der Mehrzahl) als &Auml;u&szlig;erung betrachtet</dif>
       <refgrp tip="vid">
         <ref cel="dir.0o">diro</ref>,
         <ref cel="parol.0o.fluo">parolo<sncref/></ref>
@@ -251,6 +254,7 @@
         <trd lng="de">auf mein Wort</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">M&uuml;ndliches Versprechen</dif>
     <trd lng="ca">paraula</trd>
     <trdgrp lng="fr">
       <trd>parole<klr> (promesse)</klr></trd>
@@ -276,6 +280,7 @@
         estas <tld/>o.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleine Gruppe gemeinsam behandelter Bits oder Zeichen</dif>
   </snc>
   <trd lng="be">&c_s;&c_l;&c_o;&c_v;&c_a;</trd>
   <trd lng="bg">&c_d;&c_u;&c_m;&c_a;</trd>

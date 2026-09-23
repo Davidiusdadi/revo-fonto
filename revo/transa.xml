@@ -23,6 +23,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit von Vereinbarungen, die zwischen H&auml;ndlern &uuml;ber ein Gesch&auml;ft getroffen werden.</dif>
     <rim>
       La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>negoco</ke>.
     </rim>    
@@ -65,6 +66,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von Programmoperationen, die den Zustand eines Systems (z. B. einer Datenbank) gemeinsam und in sich stimmig von einem konsistenten Zustand in einen anderen konsistenten Zustand &uuml;berf&uuml;hren.</dif>
     <trd lng="be">&c_t;&c_r;&c_a;&c_n;&c_z;&c_a;&c_k;&c_c;&c_y;&c_ja;</trd>
     <trd lng="ca">transacci&oacute;<klr tip="amb"> (inform&agrave;tica)</klr></trd>
   </snc>

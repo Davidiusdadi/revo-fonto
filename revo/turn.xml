@@ -46,6 +46,7 @@
         <fnt><bib>Fab2</bib> <lok>Malbela anasido</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas um seine Achse bewegen.</dif>
     <refgrp tip="vid">
       <ref cel="kirl.0i">kirli</ref>,
       <ref cel="rul.0i.KOMUNE">ruli<sncref/></ref>
@@ -133,6 +134,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In eine bestimmte Richtung lenken.</dif>
     <refgrp tip="vid">
       <ref cel="cel.0i">celi</ref>,
       <ref cel="direkt.0i">direkti</ref>
@@ -174,6 +176,7 @@
         <fnt><bib>Fab1</bib> <lok>La virineto de maro</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einen neuen Zustand versetzen, ver&auml;ndern.</dif>
     <refgrp tip="vid">
       <ref cel="form.ali0i.KOMUNE">aliformi</ref>,
       <ref cel="metamo1.0i">metamorfozi</ref>
@@ -370,6 +373,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich um die eigene Achse bewegen.</dif>
     <refgrp tip="vid">
       <ref cel="kirl.0igxi">kirli&gcirc;i</ref>,
       <ref cel="rul.0igxi.turnigxi">ruli&gcirc;i<sncref/></ref>,
@@ -424,6 +428,7 @@
         kontra&ubreve; min mem sin <tld/>is mia ruzo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seine Richtung &auml;ndern.</dif>
     <refgrp tip="vid">
       <ref cel="klin.de0igxi">deklini&gcirc;i</ref>,
       <ref cel="konver3.0igxi.REL">konverti&gcirc;i</ref>
@@ -482,6 +487,7 @@
         lia atento balda&ubreve; sin <tld/>is al ni.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seine Aufmerksamkeit, sein Handeln, seine Gedanken oder &Uuml;berlegungen auf etwas oder jemanden zu richten beginnen.</dif>
   <trd lng="de" fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich wenden</trd>
   <trd lng="id"><baz>paling (1)</baz>berpaling ke</trd>
   </snc>
@@ -499,6 +505,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einen neuen Zustand &uuml;bergehen.</dif>
     <trd lng="de" fnt="AI: sv ru es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich verwandeln</trd>
     <trdgrp lng="es">
       <trd>convertirse</trd>,
@@ -766,6 +773,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit eigenem Geschick aus einer schwierigen Lage herauskommen.</dif>
     <trd lng="es">evadirse</trd>
   </snc>
   <trd lng="be">&c_v;&c_y;&c_k;&c_r;&c_u;&c_ch;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
@@ -1031,6 +1039,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In entgegengesetzter Richtung; r&uuml;ckw&auml;rts gehend; zum Ausgangspunkt zur&uuml;ckkehrend.</dif>
     <trdgrp lng="be">
       <trd>&c_n;&c_a;&c_z;&c_a;&c_d;</trd>,
       <trd>&c_u; &c_p;&c_r;&c_o;&c_c;&c_ib;&c_l;&c_je;&c_g;&c_l;&c_y;
@@ -1065,6 +1074,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Als Ausgleich.</dif>
     <trd lng="be">&c_n;&c_a;&c_w;&c_z;&c_a;&c_m;&c_je;&c_n;</trd>
     <trd lng="de">wieder <klr>(zur&uuml;ck)</klr></trd>
     <trd lng="id"><baz>bagai</baz>sebagai ganti</trd>
@@ -1276,6 +1286,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gef&uuml;hl der Unsicherheit im Raum, des fehlenden Gleichgewichts, bei dem sich die umgebenden Gegenst&auml;nde zu drehen scheinen.</dif>
     <ref tip="sin" cel="vertigx.0o">verti&gcirc;o</ref>
     <trd lng="es">mareo</trd>
   </snc>

@@ -72,6 +72,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit den Augen empfinden, die Bilder von Gegenst&auml;nden wahrnehmen</dif>
     <refgrp tip="vid">
       <ref cel="distin.0i">distingi</ref>,
       <ref cel="observ.0i">observi</ref>,
@@ -117,6 +118,7 @@
         <fnt><bib>MT</bib> <lok>&Gen; 1:21</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zugegen sein, feststellen</dif>
   </snc>
   <snc mrk="vid.0i.kompreni">
     <dif>
@@ -178,6 +180,7 @@
         <fnt><bib>MT</bib> <lok>&Gen; 31:2</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verstehen, kennen</dif>
   <trd lng="th">&#xE23;&#xE39;&#xE49;</trd>
   </snc>
   <snc mrk="vid.0i.renkonti">
@@ -204,6 +207,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Jemanden) treffen, besuchen oder empfangen</dif>
     <refgrp tip="vid">
       <ref cel="vid.inter0igxi">inter<tld/>i&gcirc;i</ref>,
       <ref cel="vid.re0o">re<tld/>o</ref>
@@ -789,6 +793,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas, das man sieht</dif>
     <refgrp tip="vid">
       <ref cel="spekta.0o.evento">spektaklo <sncref/></ref>
     </refgrp>
@@ -810,6 +815,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeichnung oder Fotografie, die einen Anblick darstellt</dif>
     <trd lng="pl">widok&oacute;wka</trd>
   </snc>
   <trdgrp lng="be">
@@ -1495,6 +1501,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Zukunft im Voraus erfassen; sich im Voraus eine Vorstellung von der Zukunft bilden oder eine solche erhalten</dif>
     <refgrp tip="vid">
       <ref cel="flar.antaux0i">anta&ubreve;flari</ref>,
       <ref cel="sent.antaux0i">anta&ubreve;senti</ref>,
@@ -2335,6 +2342,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man nicht hindurchsehen kann; opak</dif>
     <refgrp tip="vid">
       <ref cel="diafan.mal0a.FOT">maldiafana</ref>
     </refgrp>
@@ -2371,6 +2379,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unverst&auml;ndlich</dif>
     <trd lng="en">opaque <klr>(figurative)</klr></trd>
     <trd lng="id">tidak dimengerti</trd>
   </snc>
@@ -2906,6 +2915,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegen&uuml;ber; mit dem Gesicht oder der Vorderseite zugewandt</dif>
     <trd lng="en">facing</trd>
     <trdgrp lng="fr">
       <trd>face &agrave;</trd>,
@@ -2942,6 +2952,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegen&uuml;ber; in irgendeiner Weise auf die Anwesenheit von jemandem oder etwas reagierend</dif>
     <trd lng="de">im <ind>Angesicht</ind> von</trd>
     <trd lng="fr">vis-&agrave;-vis de</trd>
     <trd lng="hu">ir&aacute;nt</trd>
