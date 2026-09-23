@@ -70,6 +70,7 @@
         <trd>&c_g;&c_l;&c_ja;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>,
         <trd>&c_d;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_y; &c_g;&c_a;&c_l;&c_a;&c_s;&c_a;&c_v;&c_o;&c_j; <ind>&c_sh;&c_ch;&c_y;&c_l;&c_ib;&c_n;&c_y;</ind></trd>
       </trdgrp>
+      <trd lng="de" fnt="AI: be ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">glottal</trd>
       <trd lng="pl">krtaniowy</trd>
       <trdgrp lng="ru">
         <trd>&c_o;&c_t;&c_n;&c_o;&c_s;&c_ja;&c_shch;&c_i;&c_j;&c_s;&c_ja; &c_k; &c_g;&c_o;&c_l;&c_o;&c_s;&c_o;&c_v;&c_o;&c_j; &c_shch;&c_je;&c_l;&c_i;</trd>,
@@ -99,6 +100,10 @@
         </dif>
       </snc>
       <trd lng="be">&c_g;&c_l;&c_ja;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_z;&c_y;&c_ch;&c_n;&c_y;</trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: en be ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Glottal</trd>,
+        <trd fnt="AI: en pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kehlkopflaut</trd>
+      </trdgrp>
       <trd lng="en">glottal consonant</trd>
       <trd lng="pl">sp&oacute;&lstroke;g&lstroke;oska  <ind>krtaniowa</ind></trd>
       <trd lng="ru">&c_g;&c_l;&c_o;&c_t;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_s;&c_o;&c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_j;</trd>

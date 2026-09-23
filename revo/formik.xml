@@ -143,6 +143,11 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_u;&c_r;&c_a;&c_sh;&c_y;&c_n;&c_a;&c_ja; &c_s;&c_ja;&c_m;'&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ru be fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ameisenvolk</trd>,
+    <trd fnt="AI: fr pl es id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ameisenkolonie</trd>,
+    <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ameisenstaat</trd>
+  </trdgrp>
   <trd lng="es">colonia (de <ind>hormigas</ind>)</trd>
   <trd lng="fr">colonie de <ind>fourmis</ind></trd>
   <trd lng="id"><ind>koloni</ind> semut</trd>
@@ -167,6 +172,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_u;&c_r;&c_a;&c_sh;&c_k;&c_a;-&c_r;&c_a;&c_b;&c_a;&c_w;&c_l;&c_a;&c_d;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>
+  <trd lng="de" fnt="AI: fr ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Sklavenhalterameise</trd>
   <trd lng="fr">fourmi esclavagiste</trd>
   <trd lng="id"><ind>semut</ind> penjajah</trd>
   <trd lng="la">Formica sanguinea</trd>

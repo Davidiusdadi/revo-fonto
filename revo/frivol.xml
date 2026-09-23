@@ -284,6 +284,10 @@
       <trd>&c_sh;&c_a;&c_l;&c_a;&c_h;&c_v;&c_o;&c_s;&c_t;</trd>,
       <trd>&c_v;&c_je;&c_t;&c_r;&c_a;&c_g;&c_o;&c_n;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Leichtfu&szlig; <klr>[ugs.]</klr></trd>,
+      <trd fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Luftikus <klr>[ugs.]</klr></trd>
+    </trdgrp>
     <trd lng="fr">un <ind>&eacute;cervel&eacute;</ind></trd>
     <trdgrp lng="ru">
       <trd>&c_v;&c_je;&c_r;&c_t;&c_o;&c_p;&c_r;&c_a;&c_h;</trd>,
@@ -339,6 +343,7 @@
           <lok>La nica literatura revuo, 1:6</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">altbacken <klr>[pej.]</klr></trd>
     <trd lng="en">staid</trd>
     <trd lng="ru">&c_ch;&c_o;&c_p;&c_o;&c_r;&c_n;&c_y;&c_j;</trd>
    </snc>

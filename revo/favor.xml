@@ -935,6 +935,10 @@
     <trd>projevovat p&rcaron;&iacute;ze&ncaron;</trd>,
     <trd>slitovat se</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es ja ru pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich erbarmen</trd>,
+    <trd fnt="AI: en cs dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gn&auml;dig sein</trd>
+  </trdgrp>
   <trd lng="en">grace</trd>
   <trd lng="es">compadecerse de</trd>
   <trd lng="fr">avoir <ind>piti&eacute;</ind> de</trd>

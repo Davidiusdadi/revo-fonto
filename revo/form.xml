@@ -513,6 +513,7 @@
     <trd>formov&yacute;</trd>,
     <trd>zformovan&yacute;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr ca hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">formal</trd>
   <trd lng="en">of <ind>form</ind></trd>
   <trd lng="fr">formel<klr tip="ind"> (relatif &agrave; la forme)
   </klr></trd>
@@ -2194,6 +2195,10 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d; <ind>&c_f;&c_o;&c_r;&c_m;&c_a;&c_j;</ind></trd>,
     <trd>&c_u; <ind>&c_f;&c_o;&c_r;&c_m;&c_je;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Form von</trd>,
+    <trd fnt="AI: en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Gestalt von</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>in the <ind>form</ind> of</trd>,

@@ -98,6 +98,7 @@
       <trd>&c_v;&c_y;&c_p;&c_l;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
       <trd>&c_v;&c_y;&c_t;&c_o;&c_p;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verh&uuml;tten</trd>
     <trd lng="en">smelt</trd>
     <trdgrp lng="id">
       <trd><baz>lebur</baz>melebur (logam)</trd>,
@@ -483,6 +484,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl no pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dahinschmelzen</trd>,
+      <trd fnt="AI: nl no; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schmelzen</trd>
+    </trdgrp>
     <trd lng="hu">megenyh&uuml;l</trd>
     <trd lng="nl">smelten</trd>
     <trd lng="no">smelte<klr tip="ind"> (emosjonelt)</klr></trd>
@@ -509,6 +514,10 @@
       <ref cel="neni">disnenii&gcirc;i</ref>
     </refgrp>
     <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verschmelzen</trd>,
+      <trd fnt="AI: hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verschwimmen</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>elmos&oacute;dik</trd>,
       <trd>&ouml;sszeolvad</trd>
@@ -565,6 +574,7 @@
         <fnt><bib>MT</bib>, <lok>&Jer; 6:29</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: ru id en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schmelzer</trd>
     <trd lng="id"><baz>lebur</baz>pelebur<klr> (logam)</klr></trd>
     <trd lng="ru">&c_p;&c_l;&c_a;&c_v;&c_i;&c_l;&c_mol;&c_shch;&c_i;&c_k;</trd>
   </snc>
@@ -707,6 +717,7 @@
   </snc>
   <trd lng="be">&c_r;&c_a;&c_s;&c_t;&c_a;&c_p;&c_ib;&c_c;&c_mol;</trd>
   <trd lng="cs">roztavit</trd>
+  <trd lng="de" fnt="AI: nl en no; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wegschmelzen</trd>
   <trd lng="en"><ind>melt</ind> away</trd>
   <trd lng="es">disolver</trd>
   <trdgrp lng="hu">
@@ -751,6 +762,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verh&uuml;tten</trd>
     <trd lng="en">smelt</trd>
     <trdgrp lng="id">
       <trd><baz>lebur</baz>melebur (logam)</trd>,
@@ -781,6 +793,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gie&szlig;en</trd>
   <trd lng="en">cast <klr>(molten substance)</klr></trd>
   <trdgrp lng="id">
     <trd>cor<klr> (logam)</klr></trd>,
@@ -920,6 +933,10 @@
       <trd>&c_a;&c_b;'&c_ja;&c_d;&c_n;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_z;&c_mol;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenf&uuml;hren</trd>,
+      <trd fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mischen</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>merge</trd>,
       <trd>collate</trd>
@@ -1058,6 +1075,7 @@
     </dif>
     <ref tip="ant" cel="agluti.0a">aglutina</ref>
     <trd lng="be">&c_f;&c_l;&c_je;&c_k;&c_t;&c_y;&c_w;&c_n;&c_y;</trd>
+    <trd lng="de" fnt="AI: en pl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">flektierend</trd>
     <trd lng="en">inflective</trd>
     <trd lng="fr">flexionnelle</trd>
     <trd lng="hu">flekt&aacute;l&oacute;</trd>

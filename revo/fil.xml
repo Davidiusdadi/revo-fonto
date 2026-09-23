@@ -490,6 +490,7 @@
         mia <tld/>o kaj <tld/>ino (ge<tld/>oj).
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en fr nl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">S&ouml;hne und T&ouml;chter</trd>
     <trd lng="en">sons and daughters</trd>
     <trd lng="es">hijos y hijas</trd>
     <trd lng="fr">fils et filles</trd>
@@ -506,6 +507,7 @@
         &ccirc;u vi havas ge<tld/>ojn?
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en fr nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kinder</trd>
     <trd lng="en">children</trd>
     <trd lng="fr">enfants<klr tip="ind"> (fils et/ou filles)</klr></trd>
     <trd lng="fy">bern</trd>
@@ -555,6 +557,7 @@
     </rim>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ib;&c_c;&c_ja;</trd>
+  <trd lng="de" fnt="AI: en fr nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kind</trd>
   <trd lng="en">child</trd>
   <trd lng="fr">enfant<klr tip="ind"> (fils ou fille)</klr></trd>
   <trd lng="fy">bern</trd>
@@ -595,6 +598,7 @@
     La formo <ctl>adopta filo</ctl> estas anka&ubreve; uzata.
   </rim>
   <trd lng="be">&c_u;&c_s;&c_y;&c_n;&c_o;&c_w;&c_l;&c_je;&c_n;&c_y; &c_s;&c_y;&c_n;</trd>
+  <trd lng="de" fnt="AI: fr pl nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Adoptivsohn</trd>
   <trd lng="fr">fils adoptif</trd>
   <trdgrp lng="id">
     <trd>anak adopsi laki-laki</trd>,
@@ -637,6 +641,7 @@
   </rim>
   <trd lng="be">&c_u;&c_d;&c_a;&c_ch;&c_a;&c_r;&c_o;&c_n;&c_a;&c_ja;
   &c_d;&c_a;&c_ch;&c_k;&c_a;</trd>
+  <trd lng="de" fnt="AI: fr pl nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Adoptivtochter</trd>
   <trd lng="fr">fille adoptive</trd>
   <trdgrp lng="id">
     <trd>anak adopsi perempuan</trd>,

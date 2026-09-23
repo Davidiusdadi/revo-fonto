@@ -171,6 +171,11 @@
     <trd>&c_z;&c_a;&c_s;&c_mol;&c_c;&c_je;&c_n;&c_a;&c_k;</trd>
   </trdgrp>
   <trd lng="cs">popravi&scaron;te</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs sk ja uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Richtst&auml;tte</trd>,
+    <trd fnt="AI: en uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hinrichtungsst&auml;tte</trd>,
+    <trd kod="HIS" fnt="AI: en cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Richtplatz <klr>(hist.)</klr></trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>scaffold <klr>(gallows)</klr></trd>,
     <trd>gallows</trd>,

@@ -662,6 +662,10 @@
     </dif>
     <trd lng="be">&c_n;&c_je;&c_k;&c_a;&c_l;&c_mol;&c_k;&c_ib;
     <ind>&c_r;&c_a;&c_z;&c_o;&c_w;</ind></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en es ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einige Male</trd>,
+      <trd fnt="AI: en es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein paar Mal</trd>
+    </trdgrp>
     <trd lng="en">a few <ind>times</ind></trd>
     <trd lng="es">varias <ind>veces</ind></trd>
     <trd lng="pl">kilkakrotnie</trd>
@@ -992,6 +996,11 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_w;&c_t;&c_o;&c_r;&c_n;&c_a;</trd>,
     <trd>&c_z;&c_n;&c_o;&c_w;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en es fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erneut</trd>,
+    <trd fnt="AI: en es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abermals</trd>,
+    <trd fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wieder einmal</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>repeatedly</trd>,

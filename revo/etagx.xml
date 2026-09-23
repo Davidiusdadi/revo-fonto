@@ -214,6 +214,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_e;&c_t;&c_a;&c_zh;&c_e;&c_r;&c_k;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd kod="ARK" fnt="AI: ref pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Etagere <klr>(veraltet)</klr></trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Regal</trd>
+  </trdgrp>
   <trd lng="id">tingkat-tingkat</trd>
   <trd lng="pl">eta&zdot;erka</trd>
 </drv>
@@ -231,6 +235,7 @@
     <ref tip="vid" cel="teras.0i">terasi</ref>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_ja;&c_r;&c_u;&c_s;&c_a;&c_h;</ind></trd>
+  <trd lng="de" fnt="AI: fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abstufen</trd>
   <trd lng="es">organizar por nivel de altura</trd>
   <trd lng="fr">&eacute;tager</trd>
   <trdgrp lng="hu">

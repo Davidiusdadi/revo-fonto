@@ -176,6 +176,7 @@
   </snc>
   <trd lng="be">&c_a;&c_n;&c_g;&c_ib;&c_ja;&c_g;&c_je;&c_n;&c_e;&c_z;</trd>
   <trd lng="ca">angiog&egrave;nesi</trd>
+  <trd lng="de" fnt="AI: fr ca pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Angiogenese</trd>
   <trd lng="fr">angiogen&egrave;se</trd>
   <trd lng="id">angiogenesis</trd>
   <trdgrp lng="pl">
@@ -256,6 +257,10 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_s;&c_m;&c_a;&c_g;&c_o;&c_n;&c_ib;&c_ja;</trd>
   <trd lng="ca">cosmogonia</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl ca be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kosmogonie</trd>,
+    <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Kosmogenese</trd>
+  </trdgrp>
   <trd lng="fr">cosmog&eacute;n&egrave;se</trd>
   <trd lng="id">kosmogenesis</trd>
   <trd lng="pl">kosmogonia</trd>
@@ -283,6 +288,7 @@
   </snc>
   <trd lng="be">&c_v;&c_o;&c_r;&c_g;&c_a;&c_n;&c_a;&c_g;&c_je;&c_n;&c_e;&c_z;</trd>
   <trd lng="ca">organog&egrave;nesi</trd>
+  <trd lng="de" fnt="AI: fr ca pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Organogenese</trd>
   <trd lng="fr">organogen&egrave;se</trd>
   <trd lng="id">organogenesis</trd>
   <trd lng="pl">organogeneza</trd>
@@ -310,6 +316,7 @@
   </snc>
   <trd lng="be">&c_s;&c_p;&c_o;&c_r;&c_a;&c_g;&c_je;&c_n;&c_e;&c_z;</trd>
   <trd lng="ca">esporog&egrave;nesi</trd>
+  <trd lng="de" fnt="AI: fr ca pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Sporogenese</trd>
   <trd lng="fr">sporog&eacute;n&egrave;se</trd>
   <trd lng="id">sporogenesis</trd>
   <trd lng="pl">sporogeneza</trd>

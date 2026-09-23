@@ -27,6 +27,10 @@
       <trd>&c_E;&c_m;&c_a;&c_n;&c_u;&c_e;&c_l;&c_mol;</trd>,
       <trd>&c_E;&c_m;&c_a;&c_n;&c_u;&c_ib;&c_l;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Emanuel</trd>,
+      <trd fnt="AI: it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Immanuel</trd>
+    </trdgrp>
     <trd lng="fr">Emmanuel</trd>
     <trdgrp lng="it">
       <trd>Emanuele</trd>,

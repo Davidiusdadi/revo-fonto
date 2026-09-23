@@ -754,6 +754,7 @@
     <trd>&c_s;&c_a;</trd>,
     <trd>&c_a;&c_d;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von</trd>
   <trd lng="en">of <klr>(archaic)</klr></trd>
   </drv>
 </subart>
@@ -846,6 +847,10 @@
       <ref cel="send.0i">elsendi</ref>,
       <ref cel="produk.0i">produkti</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en es he; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aussto&szlig;en</trd>,
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hervorbringen</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>emit</trd>,
       <trd><ind>give</ind> forth<klr>(emit, produce)</klr></trd>,
@@ -983,6 +988,7 @@
       <trd>&c_v;&c_y;&c_h;&c_a;&c_d;</trd>,
       <trd>&c_v;&c_y;&c_d;&c_z;&c_ja;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Absonderung</trd>
     <trd lng="en">exudate</trd>
     <trdgrp lng="es">
       <trd>emisi&oacute;n</trd>,

@@ -267,6 +267,7 @@
     <trd>ploranera</trd>,
     <trd>ploracossos</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: ref nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Klageweib</trd>
   <trd lng="es">pla&ntilde;idera</trd>
   <trd lng="fr">pleureuse</trd>
   <trd lng="id"><baz>layat</baz>pelayat bayaran</trd>
@@ -310,6 +311,7 @@
       </ekz>
     </dif>
     <trd lng="ca">emetre un gemec</trd>
+    <trd lng="de" fnt="AI: ru it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufst&ouml;hnen</trd>
     <trd lng="it">gemere</trd>
     <trd lng="ru">&c_z;&c_a;&c_s;&c_t;&c_o;&c_n;&c_a;&c_t;&c_mol;</trd>
   </snc>
@@ -324,6 +326,10 @@
       </ekz>
     </dif>
     <trd lng="ca">sospirar</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufseufzen</trd>,
+      <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">seufzen</trd>
+    </trdgrp>
     <trd lng="en">sigh</trd>
     <trd lng="es">suspirar</trd>
     <trdgrp lng="fr">
@@ -369,6 +375,10 @@
   <trdgrp lng="ca">
     <trd>queixar-se</trd>,
     <trd>gemegar de dolor</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">st&ouml;hnen</trd>,
+    <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&auml;chzen</trd>
   </trdgrp>
   <trd lng="en">groan with pain</trd>
   <trd lng="es">gemir de dolor</trd>
@@ -480,6 +490,7 @@
     </dif>
     <trd lng="be">&c_u;&c_z;&c_d;&c_y;&c_h;&c_a;&c_c;&c_mol; <klr>(&c_s;&c_u;&c_m;&c_n;&c_a;)</klr></trd>
     <trd lng="ca">sospirar</trd>
+    <trd lng="de" fnt="AI: ref pl ru it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">seufzen</trd>
     <trdgrp lng="id">
       <trd><baz>desah</baz>mendesah</trd>,
       <trd><baz>hela</baz>menghela napas</trd>

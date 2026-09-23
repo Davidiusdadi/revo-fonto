@@ -946,6 +946,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pr&auml;sentisch</trd>
   <trd lng="en">present <klr>(tense)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -1059,6 +1060,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pr&auml;terital</trd>
   <trd lng="en">past <klr>(tense)</klr></trd>
   </snc>
   <trd lng="af">gewees</trd>
@@ -1267,6 +1269,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">futurisch</trd>
   <trd lng="en">future <klr>(tense)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -1441,6 +1444,10 @@
       sed por pli flanka, periferia situo.
       <aut>Sergio Pokrovskij</aut>
     </rim>
+    <trdgrp lng="de">
+      <trd fnt="AI: en cs be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zugegen sein <klr>(gehoben)</klr></trd>,
+      <trd fnt="AI: en cs be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anwesend sein</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>be <ind>present</ind> at</trd>,
       <trd>attend</trd>
@@ -1748,6 +1755,7 @@
     <trd>&c_z;&c_n;&c_a;&c_h;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_c;&c_a; &c_w;&c_n;&c_u;&c_t;&c_r;&c_y;</trd>,
     <trd>&c_p;&c_r;&c_y;&c_s;&c_u;&c_t;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">enthalten sein</trd>
   <trdgrp lng="en">
     <trd>be <ind>in</ind></trd>,
     <trd>be <ind>within</ind></trd>,
@@ -1880,6 +1888,10 @@
   <trdgrp lng="cs">
     <trd>sou&zcaron;&iacute;t</trd>,
     <trd>&zcaron;&iacute;t spolu</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beisammen sein</trd>,
+    <trd fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammen sein</trd>
   </trdgrp>
   <trd lng="en"><ind>be</ind> with</trd>
   <trdgrp lng="es">
@@ -2025,6 +2037,11 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fernbleiben</trd>,
+    <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abwesend sein</trd>,
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fehlen</trd>
+  </trdgrp>
   <trd lng="fr">&ecirc;tre absent</trd>
 </drv>
 
@@ -2045,6 +2062,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Abwesenheit</trd>
   <trdgrp lng="fr">
     <trd>absence</trd>,
     <trd>contumace</trd>

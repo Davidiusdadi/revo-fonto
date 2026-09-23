@@ -36,6 +36,10 @@
     <trd>odka&scaron;lat <klr>(pr&#367;du&scaron;kov&#253; hlen)</klr></trd>,
     <trd>vyka&scaron;lat</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abhusten</trd>,
+    <trd kod="FAK" fnt="AI: fr it pt ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">expektorieren <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   <trd lng="fr">expectorer</trd>
   <trd lng="it">espettorare</trd>
   <trdgrp lng="pl">

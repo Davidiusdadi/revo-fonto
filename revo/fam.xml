@@ -960,6 +960,10 @@
     <trd>rozhl&aacute;sit</trd>,
     <trd>uv&eacute;st ve zn&aacute;most</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ca id pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verbreiten</trd>,
+    <trd fnt="AI: be cs ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bekannt machen</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>promote</trd>,
     <trd>propagate</trd>,

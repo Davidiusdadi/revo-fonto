@@ -248,6 +248,10 @@
     </dif>
   <trd lng="be">&c_b;&c_ib;&c_s;&c_k;&c_u;&c_p;&c_s;&c_t;&c_v;&c_a;<klr tip="amb">
   (&c_a;&c_k;&c_r;&c_u;&c_g;&c_a;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref cs be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bistum</trd>,
+    <trd fnt="AI: ref cs pt sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Di&ouml;zese</trd>
+  </trdgrp>
   </snc>
   <snc mrk="episko.0lando.sxtato">
     <uzo tip="fak">POL</uzo>
@@ -270,6 +274,10 @@
     </dif>
     <trd lng="be">&c_b;&c_ib;&c_s;&c_k;&c_u;&c_p;&c_s;&c_t;&c_v;&c_a;<klr tip="amb">
     (&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;rstbistum</trd>,
+      <trd kod="HIS" fnt="AI: dif hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hochstift <klr>(hist.)</klr></trd>
+    </trdgrp>
     <trd lng="hu">p&uuml;sp&ouml;ks&eacute;g<klr tip="amb"> (orsz&aacute;g)</klr></trd>
     <trd lng="ru">&c_je;&c_p;&c_i;&c_s;&c_k;&c_o;&c_p;&c_s;&c_t;&c_v;&c_o;<klr tip="amb">
     (&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;)</klr>

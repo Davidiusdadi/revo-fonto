@@ -138,6 +138,7 @@
         <trd>relliscar</trd>,
         <trd>resquitllar</trd>
       </trdgrp>
+      <trd lng="de" fnt="AI: hu pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausgleiten <klr>(gehoben)</klr></trd>
       <trd lng="es">resbalar</trd>
       <trd lng="hu">megcs&uacute;szik</trd>
       <trdgrp lng="id">
@@ -364,6 +365,10 @@
       <trd>lliscament</trd>,
       <trd>patinatge</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr ru nl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gleiten</trd>,
+      <trd fnt="AI: hu pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rutschen</trd>
+    </trdgrp>
     <trd lng="es">patinaje</trd>
     <trd lng="fr">glissement</trd>
     <trd lng="hu">cs&uacute;sz&aacute;s</trd>
@@ -562,6 +567,7 @@
         </fnt>!
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aalglatt <klr>[pej.]</klr></trd>
     <trd lng="pl">&sacute;liski</trd>
   </snc>
   <trdgrp lng="be">
@@ -682,6 +688,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: ja pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heikel</trd>
     <trdgrp lng="pl">
       <trd>&sacute;liski</trd>,
       <trd>trudno uchwytny</trd>
@@ -815,6 +822,7 @@
     <trd>&c_n;&c_a;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
     <trd>&c_v;&c_y;&c_sh;&c_m;&c_a;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: ref en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schmieren</trd>
   <trd lng="en">lubricate</trd>
   <trdgrp lng="fr">
     <trd>lubrifier</trd>,
@@ -1037,6 +1045,11 @@
     <trd>sklouznout</trd>,
     <trd>smeknout se</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs pl zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abgleiten</trd>,
+    <trd fnt="AI: en cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abrutschen</trd>,
+    <trd fnt="AI: en ja zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinabgleiten</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>slide away</trd>,
     <trd>slide down</trd>,
@@ -1096,6 +1109,10 @@
   </adm>
   <!-- formon evitindan prefere ne traduku -->
   <trd lng="be">&c_g;&c_o;&c_r;&c_k;&c_a; <klr tip="amb">(&c_a;&c_t;&c_r;&c_a;&c_k;&c_c;&c_y;&c_jo;&c_n;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rutsche</trd>,
+    <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rutschbahn</trd>
+  </trdgrp>
   <trd lng="en">playground slide</trd>
 <trdgrp lng="id">
   <trd>perosotan</trd>,
@@ -1166,6 +1183,7 @@
         doigts</trd><fnt><bib>PrV</bib></fnt>
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pt id en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herausgleiten</trd>
     <trdgrp lng="id">
       <trd><baz>lecit</baz>melecit</trd>,
       <trd><baz>lesit</baz>melesit</trd>,
@@ -1313,6 +1331,7 @@
         <fnt><bib>Far3</bib>, <lok>&ccirc;apitro 7a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en sk ja pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hineingleiten</trd>
   </snc>
   <snc mrk="glit.en0i.FIG">
     <dif>
@@ -1340,6 +1359,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hineinschl&uuml;pfen</trd>,
+      <trd fnt="AI: pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich einschleichen</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">
   &c_p;&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_z;&c_n;&c_u;&c_c;&c_mol;

@@ -1806,6 +1806,7 @@ intervalle)</klr></trd>
     <rim>
       Vd rimarkon sub <ref cel="infini.0a">infinita</ref>.
     </rim>
+    <trd lng="de" fnt="AI: ref nl hu ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">endlich</trd>
     <trd lng="hu">v&eacute;ges</trd>
     <trd lng="ja">&#26377;&#38480;&#12398;  <pr>&#12422;&#12358;&#12370;&#12435;&#12398;</pr></trd>
     <trd lng="nl">eindig</trd>
@@ -1862,6 +1863,10 @@ intervalle)</klr></trd>
     <trd lng="ro">termina</trd>
   </snc>
   <trd lng="be">&c_z;&c_a;&c_v;&c_ja;&c_r;&c_sh;&c_y;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vollenden</trd>,
+    <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fertigstellen</trd>
+  </trdgrp>
   <trd lng="en">complete</trd>
   <trdgrp lng="fr">
     <trd>achever</trd>,
@@ -2045,6 +2050,7 @@ intervalle)</klr></trd>
       Vd rimarkon sub <ref cel="infini.0a">infinita</ref>.
     </rim>
     <trd lng="be">&c_b;&c_ja;&c_s;&c_k;&c_o;&c_n;&c_c;&c_y;</trd>
+    <trd lng="de" fnt="AI: ref nl hu ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unendlich</trd>
     <trd lng="hu">v&eacute;gtelen</trd>
     <trd lng="nl">oneindig</trd>
     <trd lng="pl">niesko&nacute;czony</trd>

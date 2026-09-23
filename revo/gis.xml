@@ -98,6 +98,7 @@
     </rim>
   <trd lng="be">&c_v;&c_y;&c_p;&c_l;&c_a;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>
     <trd lng="ca">fondre</trd>
+    <trd lng="de" fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verh&uuml;tten</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>sl&eacute;vat kov</trd>,
@@ -200,6 +201,7 @@
     <ref tip="dif" cel="gis.0fero"><tld/>fero</ref>
     <trd lng="be">&c_ch;&c_y;&c_g;&c_u;&c_n;
     <klr>(&c_m;&c_a;&c_t;&c_a;&c_r;&#8217;&c_ja;&c_l;)</klr></trd>
+    <trd lng="de" fnt="AI: ref be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gusseisen</trd>
     <trd lng="fr">fonte<klr tip="ind"> (m&eacute;tal)</klr></trd>
   </snc>
   <trd lng="ja">&#x92F3;&#29289;  <pr>&#12356;&#12418;&#x306E;</pr></trd>
@@ -249,6 +251,7 @@
   <snc mrk="gis.0isto.fandisto">
     <ref tip="dif" cel="fand.0isto.materiala">fandisto<sncref/></ref>
   <trd lng="be">&c_p;&c_l;&c_a;&c_v;&c_ib;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_k;</trd>
+  <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schmelzer</trd>
   <trd lng="pl">odlewnik</trd>
   </snc>
   <trdgrp lng="cs">
@@ -343,14 +346,17 @@
   <snc mrk="gis.0o.ado">
     <ref tip="dif" cel="gis.0ado"><tld/>ado</ref>
   <trd lng="be">&c_l;&c_ib;&c_c;&c_mol;&c_c;&c_jo;</trd>
+  <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Guss</trd>
   </snc>
   <snc mrk="gis.0o.ajxo">
     <ref tip="dif" cel="gis.0ajxo"><tld/>a&jcirc;o</ref>
   <trd lng="be">&c_l;&c_ib;&c_c;&c_mol;&c_c;&c_jo;</trd>
+  <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Guss</trd>
   </snc>
   <snc mrk="gis.0o.fero">
     <ref tip="dif" cel="gis.0fero"><tld/>fero</ref>
   <trd lng="be">&c_ch;&c_y;&c_g;&c_u;&c_n;</trd>
+  <trd lng="de" fnt="AI: ref be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gusseisen</trd>
   </snc>
   <trd lng="cs">litina</trd>
   <trd lng="ja">&#x92F3;&#37444;  <pr>&#12385;&#12421;&#12358;&#12390;&#12388;</pr></trd>

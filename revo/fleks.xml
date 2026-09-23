@@ -439,6 +439,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_z;&c_g;&c_ib;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de" fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Biege-</trd>
     <trd lng="en"><ind>bend</ind>ing</trd>
     <trd lng="es">de <ind>flexi&oacute;n</ind> <klr>(esfuerzo mec&aacute;nico)</klr></trd>
     <trd lng="fr">de <ind>flexion</ind></trd>
@@ -494,6 +495,7 @@
       <aut>MB</aut>
     </adm>
     <trd lng="be">&c_s;&c_a;&c_g;&c_n;&c_u;&c_t;&c_y;</trd>
+    <trd lng="de" fnt="AI: en nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gebogen</trd>
     <trd lng="en">bent</trd>
     <trd lng="es">flexionado</trd>
     <trdgrp lng="id">
@@ -539,6 +541,10 @@
   </snc>
   <trd lng="be">&c_z;&c_g;&c_ib;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">oh&yacute;b&aacute;n&iacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Biegen</trd>,
+    <trd fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beugung</trd>
+  </trdgrp>
   <trd lng="en"><ind>bend</ind>ing</trd>
   <trdgrp lng="es">
     <trd>flexionado</trd>,
@@ -1349,6 +1355,7 @@
   <trd lng="en">inflection <ind>point</ind> <klr>(mathematics)</klr></trd>
   </snc>
   <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t; <ind>&c_p;&c_je;&c_r;&c_a;&c_g;&c_ib;&c_n;&c_u;</ind></trd>
+  <trd lng="de" fnt="AI: en ru pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wendepunkt</trd>
   <trdgrp lng="es">
     <trd><klr tip="amb">punto </klr>de <ind>inflexi&oacute;n</ind></trd>
   </trdgrp>

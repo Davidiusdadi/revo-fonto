@@ -179,6 +179,10 @@
           <trd>oboj&iacute;ho pohlav&iacute;</trd>,
           <trd>sm&iacute;&scaron;en&yacute;</trd>
         </trdgrp>
+        <trdgrp lng="de">
+          <trd fnt="AI: en fr nl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gemischt</trd>,
+          <trd fnt="AI: cs pl sk ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gemischtgeschlechtlich</trd>
+        </trdgrp>
         <trd lng="en">mixed<klr tip="ind"> (for men and
         women)</klr></trd>
         <trd lng="fr">mixte</trd>
@@ -219,6 +223,7 @@
           Indus krei apartan drv.
           <aut>MB</aut>
         </adm>
+        <trd lng="de" fnt="AI: fr ru pl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich paaren</trd>
         <trdgrp lng="en">
           <trd>pair up<klr> (male with female)</klr></trd>,
           <trd>become a male-female pair</trd>
@@ -246,6 +251,7 @@
             Amba&ubreve;seksa pari&gcirc;o.
           </dif>
         </snc>
+        <trd lng="de" fnt="AI: fr ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Paarung</trd>
         <trdgrp lng="en">
           <trd>pair up (male with female)</trd>,
           <trd>male-female pairing</trd>
@@ -266,6 +272,7 @@
           <dif>
             Kunigi en amba&ubreve;seksan paron.
           </dif>
+          <trd lng="de" fnt="AI: fr ru uk cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">paaren</trd>
           <trd lng="fr">apparier<klr tip="ind"> (un m&acirc;le et une
           femelle)</klr></trd>
           <trd lng="id"><baz>pasang</baz>memasangkan (laki-laki dan perempuan)</trd>

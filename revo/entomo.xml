@@ -68,6 +68,10 @@
   </snc>
   <trd lng="be">&c_e;&c_n;&c_t;&c_a;&c_m;&c_o;&c_l;&c_ja;&c_g;</trd>
   <trd lng="ca">entom&ograve;leg</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entomologe</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Insektenkundler</trd>
+  </trdgrp>
   <trd lng="en">entomologist</trd>
   <trd lng="fr">entomologiste</trd>
   <trd lng="pl">entomolog</trd>

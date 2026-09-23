@@ -253,6 +253,10 @@
       <ref cel="gut.0o.FIG_kvanteto">guto<sncref/></ref>,
       <ref cel="ombr.0o.FIG_ero">ombro<sncref/></ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">K&ouml;rnchen</trd>,
+      <trd fnt="AI: pl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Qu&auml;ntchen</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>grain</trd>,
       <trd>granule</trd>,
@@ -429,6 +433,7 @@
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">bolt <klr>(US)</klr></trd>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_p;&c_je;&c_c;&c_mol; <klr>(&c_a;&c_b; &c_z;&c_je;&c_r;&c_n;&c_ib;)</klr></trd>
+  <trd lng="de" fnt="AI: fr uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">in Samen schie&szlig;en</trd>
   <trd lng="fr">monter en <ind>graine</ind></trd>
   <trd lng="hu">magot terem</trd>
   <trdgrp lng="id">

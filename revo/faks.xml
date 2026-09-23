@@ -89,6 +89,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_f;&c_a;&c_k;&c_s;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trd lng="de" fnt="AI: cs sk fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Telefax</trd>
     <trd lng="en"><ind>fax</ind>ing <klr>(method)</klr></trd>
     <trdgrp lng="pl">
       <trd>faksowanie</trd>,
@@ -188,6 +189,7 @@
       <trd>&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_ch;&c_a; &c_p;&c_r;&c_a;&c_z; <ind>&c_f;&c_a;&c_k;&c_s;</ind></trd>
     </trdgrp>
     <trd lng="ca">enviament per fax</trd>
+    <trd lng="de" fnt="AI: ref en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Faxen</trd>
     <trdgrp lng="pl">
       <trd>faksowanie</trd>,
       <trd>telefaksowanie</trd>
@@ -232,6 +234,11 @@
   <trd lng="ca">fax</trd>
   <trd lng="be">&c_f;&c_a;&c_k;&c_s;
   <klr>(&c_l;&c_ib;&c_s;&c_t;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en fr sv; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fax</trd>,
+    <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Fernkopie</trd>,
+    <trd fnt="AI: sv pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Telefax</trd>
+  </trdgrp>
   <trd lng="en">fax <klr>(message)</klr></trd>
   <trdgrp lng="fr">
     <trd>fax<klr> (document)</klr></trd>,

@@ -144,6 +144,10 @@
           <fnt><bib>Far3</bib>, <lok>&ccirc;ap. 13</lok></fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">innerhalb</trd>,
+        <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">binnen</trd>
+      </trdgrp>
       <trd lng="ru">&c_z;&c_a;</trd>
     </subsnc>
     <subsnc mrk="en.0.stata">
@@ -600,6 +604,7 @@
     </rim>
   </snc>
   <trd lng="be">&c_u; <klr>(&c_k;&c_u;&c_d;&c_y;, &c_u;&c_n;&c_u;&c_t;&c_r;)</klr></trd>
+  <trd lng="de" fnt="AI: en pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in</trd>
   <trd lng="en">into</trd>
   <trd lng="es">a <ind>dentro</ind></trd>
   <trdgrp lng="fr">
@@ -1264,6 +1269,7 @@
       <ref cel="logx.en0igxi"><tld/>lo&gcirc;i&gcirc;i</ref>, <ref cel="sxip.en0igxi"><tld/>&scirc;ipi&gcirc;i</ref>,
       <ref cel="dorm.en0igxi"><tld/>dormi&gcirc;i</ref>.
     </ekz>
+    <trd lng="de" fnt="AI: pl ru es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinein-</trd>
     <trdgrp lng="es">
       <trd>en-<klr> (prefijo)</klr></trd>,
       <trd>in-<klr> (prefijo)</klr></trd>,

@@ -874,6 +874,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_l;&c_ja;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl uk ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anfliegen</trd>,
+    <trd fnt="AI: pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heranfliegen</trd>
+  </trdgrp>
   <trd lng="fr">voler<klr> (vers un endroit)</klr></trd>
   <trd lng="id"><ind>terbang</ind> (menuju)</trd>
   <trd lng="ja">&#x98DB;&#12435;&#12391;&#x304F;&#x308B;  <pr>&#12392;&#12435;&#12391;&#x304F;&#x308B;</pr></trd>
@@ -911,6 +915,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umfliegen</trd>
     <trd lng="en">fly<klr tip="amb"> around</klr></trd>
     <trd lng="es">volar<klr tip="amb"> alrededor</klr></trd>
     <trdgrp lng="fr">
@@ -970,6 +975,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herumfliegen</trd>,
+      <trd fnt="AI: pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umherfliegen</trd>
+    </trdgrp>
     <trd lng="en">fly<klr tip="amb"> in circles</klr></trd>
     <trd lng="es">volar<klr tip="amb"> en c&iacute;rculos</klr></trd>
     <trd lng="fr">voler<klr tip="ind"> (dans les environs)</klr></trd>
@@ -1035,6 +1044,10 @@
   <trdgrp lng="cs">
     <trd>let&ecaron;t dol&uring;</trd>,
     <trd>sl&eacute;tnout dol&uring;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wegfliegen</trd>,
+    <trd fnt="AI: cs sk ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herunterfliegen</trd>
   </trdgrp>
   <trd lng="es"><ind>alejar</ind>se (volando)</trd>
   <trdgrp lng="fr">
@@ -1259,6 +1272,10 @@
     <trd>&c_l;&c_jo;&c_t;&c_k;&c_ib;</trd>,
     <trd>&c_l;&c_ja;&c_t;&c_u;&c_ch;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fl&uuml;chtig</trd>,
+    <trd fnt="AI: dif ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unbest&auml;ndig</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;vanescent</trd>,
     <trd>volatil</trd>
@@ -1389,6 +1406,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_l;&c_ja;&c_t;&c_a;&c_c;&c_mol;</trd>
+  <trd lng="de" fnt="AI: fr pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">durchfliegen</trd>
   <trd lng="fr">traverser en volant</trd>
   <trd lng="pl">przelatywa&cacute;</trd>
   <trd lng="uk">&c_p;&c_r;&c_o;&c_l;&c_ib;&c_t;&c_a;&c_t;&c_i; <klr>(&c_k;&c_r;&c_ib;&c_z;&c_mol;)</klr></trd>
@@ -1499,6 +1517,11 @@
   <trdgrp lng="be">
     <trd>&c_l;&c_jo;&c_t;&c_m;&c_a;</trd>,
     <trd>&c_n;&c_a; &c_l;&c_ja;&c_t;&c_u;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fl&uuml;chtig</trd>,
+    <trd fnt="AI: en fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Vorbeigehen</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beil&auml;ufig</trd>
   </trdgrp>
   <trd lng="en">in passing</trd>
   <trdgrp lng="es">

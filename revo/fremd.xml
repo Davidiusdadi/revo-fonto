@@ -546,6 +546,10 @@
     <trd>&c_z;&c_n;&c_a;&c_jo;&c_m;&c_y;</trd>,
     <trd>&c_v;&c_ja;&c_d;&c_o;&c_m;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl fr be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vertraut</trd>,
+    <trd fnt="AI: pl fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bekannt</trd>
+  </trdgrp>
   <trd lng="fr">connu</trd>
   <trdgrp lng="pl">
     <trd>znajomy</trd>,

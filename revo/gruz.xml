@@ -98,6 +98,10 @@
     <trd>&c_zh;&c_v;&c_ib;&c_r;&c_y;&c_n;&c_k;&c_a;</trd>,
     <trd>&c_d;&c_r;&c_u;&c_z;&c_a;&c_ch;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: dif fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kieselstein</trd>,
+    <trd fnt="AI: dif fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kiesel</trd>
+  </trdgrp>
   <trd lng="fr">gravier<klr> (grain de)</klr></trd>
   <trd lng="pl">&zdot;wir<klr> (ziarno)</klr></trd>
 </drv>

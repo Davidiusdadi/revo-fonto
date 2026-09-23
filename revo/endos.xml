@@ -56,6 +56,7 @@
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_d;&c_a;&c_s;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">indosament .</trd>
+  <trd lng="de" fnt="AI: en fr cs pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Indossament</trd>
   <trd lng="en">endorsement <klr>(not approval)</klr></trd>
   <trd lng="fr">endossement</trd>
   <trd lng="he">&he;&#x5B2;&samekh;&#x5B8;&bet;&#x5B8;&he;</trd>
@@ -76,6 +77,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_t;&c_n;&c_y; <ind>&c_n;&c_a;&c_d;&c_p;&c_ib;&c_s;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Indossament</trd>,
+    <trd fnt="AI: fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Giro</trd>
+  </trdgrp>
   <trd lng="en">endorsement <klr>(signature)</klr></trd>
   <trd lng="fr">endos</trd>
   <trdgrp lng="hu">
@@ -97,6 +102,10 @@
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_d;&c_a;&c_s;&c_a;&c_n;&c_t;</trd>
   <trd lng="cs">indosant</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Indossant</trd>,
+    <trd fnt="AI: it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Girant</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>endorser</trd>
   </trdgrp>

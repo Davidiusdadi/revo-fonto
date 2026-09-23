@@ -1243,6 +1243,10 @@
     <trd><klr>(&c_z;&c_a;&c_l;&c_ib;&c_sh;&c_n;&c_ja;&c_ja;)</klr> &c_s;&c_a;&c_m;&c_a;&c_w;&c_p;&c_e;&c_w;&c_n;&c_je;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_p;&c_y;&c_h;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: dif id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Selbst&uuml;bersch&auml;tzung</trd>,
+    <trd fnt="AI: pl fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;berheblichkeit</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>orgueil</trd>,
     <trd>pr&eacute;somption</trd>

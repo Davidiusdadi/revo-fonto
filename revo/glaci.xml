@@ -473,6 +473,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en pl hu tr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gefrieren lassen</trd>
     <trd lng="hu">fagyaszt</trd>
     <trdgrp lng="pl">
       <trd>zamra&zdot;a&cacute;</trd>,
@@ -582,6 +583,7 @@
       <ref cel="sxton.0igxi.FIG">&scirc;toni&gcirc;i<sncref/></ref>,
       <ref cel="stupor.0i">stupori</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erstarren</trd>
     <trd lng="hu">megdermed</trd>
   </snc>
   <trdgrp lng="be">
@@ -776,6 +778,7 @@
   </refgrp>
   <trd lng="be">&c_a;&c_b;&c_l;&c_je;&c_d;&c_z;&c_ja;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="cs">n&aacute;mraza</trd>
+  <trd lng="de" fnt="AI: en ru be cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vereisung</trd>
   <trdgrp lng="en">
     <trd>icing <klr>(atmospheric, nautical)</klr></trd>,
     <trd>glaze <ind>ice</ind></trd>
@@ -858,6 +861,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en cs sk sv uk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Talgletscher</trd>
   <trdgrp lng="en">
     <trd>valley <ind>glacier</ind></trd>,
     <trd>alpine <ind>glacier</ind></trd>,

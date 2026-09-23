@@ -88,6 +88,10 @@
   <snc mrk="gxir.0i.valorpaperon">
     <ref tip="dif" cel="endos.0i">endosi</ref>
   <trd lng="be">&c_ib;&c_n;&c_d;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">indossieren</trd>,
+    <trd fnt="AI: nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">girieren</trd>
+  </trdgrp>
   </snc>
   <rim>
     Rare &leftquot;<tld/>i&rightquot; aperas kun la evitinda signifo
@@ -167,6 +171,7 @@
   <snc mrk="gxir.0o.endosajxo">
     <ref tip="dif" cel="endos.0ajxo">endosa&jcirc;o</ref>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_t;&c_n;&c_y; <ind>&c_n;&c_a;&c_d;&c_p;&c_ib;&c_s;</ind></trd>
+  <trd lng="de" fnt="AI: ref en es it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Indossament</trd>
   </snc>
   <trdgrp lng="en">
     <trd>endorsement</trd>,

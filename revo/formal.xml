@@ -342,6 +342,7 @@
   </snc>
 <trd lng="be">&c_f;&c_a;&c_r;&c_m;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">formalitzar</trd>
+  <trd lng="de" fnt="AI: ca be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">formalisieren</trd>
   <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">formalize</trd>
 </drv>
 
@@ -540,6 +541,7 @@
   </snc>
   <trd lng="be">&c_f;&c_a;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
   <ind>&c_s;&c_y;&c_s;&c_t;&c_e;&c_m;&c_a;</ind></trd>
+  <trd lng="de" fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">formales System</trd>
   <trd lng="en">formal system</trd>
   <trd lng="ru">&c_f;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;
   &c_s;&c_i;&c_s;&c_t;&c_je;&c_m;&c_a;</trd>

@@ -432,6 +432,10 @@ kiam" en art. kiam
         </ekz>
       </dif>
       <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_t;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: en fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich verabschieden</trd>,
+        <trd fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Auf Wiedersehen sagen</trd>
+      </trdgrp>
       <trd lng="en">say <ind>goodbye</ind></trd>
       <trd lng="fr">dire au revoir</trd>
       <trdgrp lng="pl">
@@ -461,6 +465,7 @@ kiam" en art. kiam
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bis</trd>
   <trd lng="en">until</trd>
   </snc>
   <rim mrk="gxis.0ke.RIM_GRAM">

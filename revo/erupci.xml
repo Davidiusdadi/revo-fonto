@@ -58,6 +58,11 @@
     <trd>&c_v;&c_y;&c_s;&c_y;&c_p;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
     <trd>&c_v;&c_y;&c_s;&c_y;&c_p;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: be ru ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ausschlag</trd>,
+    <trd fnt="AI: ru ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hautausschlag</trd>,
+    <trd kod="FAK" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Exanthem <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   </snc>
   <adm>
     Aldoni sencon AST. <aut>MB</aut>

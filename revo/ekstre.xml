@@ -395,6 +395,7 @@
     <trd>&c_m;&c_ja;&c_zh;&c_a;</trd>,
     <trd>&c_l;&c_ib;&c_m;&c_ib;&c_t;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ende</trd>
   <trdgrp lng="id">
     <trd>ujung</trd>,
     <trd>puncak</trd>
@@ -749,6 +750,10 @@
   </snc>
   <trd lng="be">&c_p;&c_u;&c_n;&c_k;&c_t; &c_e;&c_k;&c_s;&c_t;&c_r;&c_e;&c_m;&c_u;&c_m;&c_u;</trd>
   <trd lng="cs">bod lok&aacute;ln&iacute;ho extr&eacute;mu funkce</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Extremstelle</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Extremalstelle</trd>
+  </trdgrp>
   <trd lng="hu">sz&eacute;ls&odblac;&eacute;rt&eacute;khely</trd>
   <trd lng="id">titik ekstrem</trd>
   <trd lng="sk">bod lok&aacute;lneho extr&eacute;mu funkcie</trd>

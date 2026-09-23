@@ -365,6 +365,7 @@
       <trd>listovat</trd>,
       <trd>obracet listy <klr>(v knize)</klr></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ref nl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bl&auml;ttern</trd>
     <trd lng="en">browse</trd>
     <trd lng="es">navegar <klr tip="amb">(por internet)</klr></trd>
     <trdgrp lng="id">
@@ -561,6 +562,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr es ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auswalzen</trd>,
+      <trd fnt="AI: fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">walzen</trd>
+    </trdgrp>
     <trdgrp lng="es">
        <trd>laminar</trd>,
        <trd>hacer planchas</trd>
@@ -678,6 +683,7 @@
     </dif>
     <trd lng="bg">&c_r;&c_a;&c_z;&c_g;&c_l;&c_je;&c_zh;&c_d;&c_a;&c_m;</trd>
     <trd lng="ca">navegar</trd>
+    <trd lng="de" fnt="AI: ca hu id ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">browsen</trd>
     <trd lng="hu">b&ouml;ng&eacute;szik<klr tip="ind"> (pl. a
     vil&aacute;gh&aacute;l&oacute;n)</klr></trd>
     <trdgrp lng="id">

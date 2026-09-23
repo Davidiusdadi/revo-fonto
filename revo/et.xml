@@ -379,6 +379,7 @@
   </snc>
   <trd lng="be">&c_d;&c_r;&c_o;&c_b;&c_n;&c_a;-</trd>
   <trd lng="ca">petit</trd>
+  <trd lng="de" fnt="AI: en hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Klein-</trd>
   <trd lng="en">small-</trd>
   <trd lng="hu">kis-</trd>
   <trd lng="ru">&c_m;&c_je;&c_l;&c_k;&c_o;-</trd>
@@ -611,6 +612,10 @@
     <trd>detall</trd>,
     <trd>fotesa</trd>,
     <trd>bagatel&middot;la</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kleinigkeit</trd>,
+    <trd fnt="AI: ca id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bagatelle</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;tail</trd>,

@@ -889,6 +889,7 @@
         <nom>Navier-Stokes</nom>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr ru en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fluid</trd>
     <trd lng="fr">fluide</trd>
     <trd lng="id">cairan</trd>
     <trd lng="ru">&c_t;&c_je;&c_k;&c_u;&c_ch;&c_a;&c_ja; &c_s;&c_r;&c_je;&c_d;&c_a;</trd>
@@ -1459,6 +1460,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Flut</trd>
   <trd lng="id">pasang naik</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_y;&c_l;&c_ib;&c_w;</trd>
@@ -1732,6 +1734,7 @@
       <ref cel="ir.dis0i">disiri</ref>,
       <ref cel="perd.0igxi">perdi&gcirc;i</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich verbreiten</trd>
     <trdgrp lng="pl">
       <trd>rozp&lstroke;ywa&cacute; si&eogonek;</trd>,
       <trd>rozmywa&cacute; si&eogonek;</trd>,
@@ -2059,6 +2062,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Austausch</trd>
   </snc>
   <trd lng="be">&c_u;&c_z;&c_a;&c_je;&c_m;&c_a;&c_w;&c_p;&c_l;&c_y;&c_w;</trd>
   <trd lng="en"><ind>ebb</ind> and flow</trd>
@@ -2293,6 +2297,10 @@
     <trd>&c_g;&c_r;&c_u;&c_z;&c_k;&c_ib;</trd>,
     <trd>&c_v;&c_ja;&c_z;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">z&auml;hfl&uuml;ssig</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">viskos</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>stagnant</trd>,
     <trd>viscous</trd>
@@ -2326,6 +2334,10 @@
     <trd>&c_v;&c_ja;&c_z;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_g;&c_r;&c_u;&c_z;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_g;&c_r;&c_a;&c_z;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Viskosit&auml;t</trd>,
+    <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Z&auml;hfl&uuml;ssigkeit</trd>
   </trdgrp>
   <trd lng="en">viscosity</trd>
   <trd lng="fr">viscosit&eacute;</trd>
@@ -2560,6 +2572,10 @@
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol; &c_a;&c_p;&c_e;&c_r;&c_a;&c_c;&c_y;&c_ja;&c_w;</trd>,
     <trd>&c_t;&c_e;&c_h;&c_n;&c_a;&c_l;&c_ja;&c_g;&c_ib;&c_ch;&c_n;&c_y; <ind>&c_p;&c_r;&c_a;&c_c;&c_e;&c_s;</ind></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Workflow</trd>,
+    <trd fnt="AI: id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Arbeitsablauf</trd>
   </trdgrp>
   <trd lng="en">workflow</trd>
   <trdgrp lng="fr">
