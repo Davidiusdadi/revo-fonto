@@ -51,7 +51,8 @@ misreads the sense or adds what the Esperanto does not say. Always give `text`.
 
 ## Flags, in passing
 As the proposer's instructions say ("Step 3"). Also flag a wrong supplied word (`ours`). Only
-what you are sure of.
+what you are sure of. A flag is about what already stands in ReVo; a proposal you reject is not a
+flag, its reason goes in the verdict's `why`.
 
 ## Saving
 Save with the command in your task:

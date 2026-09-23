@@ -103,8 +103,9 @@ def save(a):
     errors = [f"{'/'.join(map(str, e.path)) or '(top)'}: {e.message}"
               for e in Draft202012Validator(schema, resolver=resolver).iter_errors(result)]
     known = marks_of(work)
+    # a flag may concern any entry (a linked one, say), so only the items it decides on are checked here
     items = [*result.get("definitions", []), *result.get("proposals", []), *result.get("covered", []),
-             *result.get("verdicts", []), *result.get("flags", [])]
+             *result.get("verdicts", [])]
     errors += [f"mrk {x['mrk']} is not in the work file" for x in items if isinstance(x, dict)
                and x.get("mrk") not in known and x.get("mrk") != a.article]
     if a.stage == "check":

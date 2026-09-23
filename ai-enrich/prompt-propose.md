@@ -57,7 +57,8 @@ wrong sense (`wrong-sense`), a typo or non-word (`not-a-word`), an inflected or 
 the base form (`wrong-form`), a word in another language than its code (`wrong-language`), a
 marked word without its mark (`missing-mark`), a wrong or unclear Esperanto definition
 (`definition`), an Esperanto typo (`eo-typo`), a wrong reference (`ref`), a wrong supplied word
-(`ours`), anything else (`other`). Only what you are sure of; do not go looking.
+(`ours`), anything else (`other`). Only what you are sure of; do not go looking. `mrk` is where
+the problem is, which may be a linked entry outside this article (`ask.py entry` shows it).
 
 ## Tools
 Only these, through Bash, and only when the work file leaves a question open:
