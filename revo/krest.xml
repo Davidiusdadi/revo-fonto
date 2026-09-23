@@ -64,6 +64,7 @@
         <ref tip="sin" cel="egret.0o.pluma_ZOO">egreto<sncref/></ref>.
       </dif>
     <trd lng="ca">plomall <klr tip="amb">(d'un ocell)</klr></trd>
+      <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Haube</trd>
       <trdgrp lng="en">
       <trd>crest <klr>(of feathers)</klr></trd>,
       <trd>plume <klr>(of feathers)</klr></trd>
@@ -85,6 +86,7 @@
       </ekz>
       </dif>
     <trd lng="ca">cresta <klr tip="amb">(d'un os)</klr></trd>
+      <trd lng="de" fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kamm</trd>
       <trd lng="en">crest <klr>(anatomical)</klr></trd>
     </subsnc>
   <trd lng="en">crest <klr>(zoology)</klr></trd>
@@ -103,6 +105,7 @@
       </ekz>
     </dif>
   <trd lng="ca">plomall <klr tip="amb">(d'un capell, d'un casc)</klr></trd>
+    <trd lng="de" fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Federbusch</trd>
     <trd lng="en">plume <klr>(decoration)</klr></trd>
   </snc>
   <snc mrk="krest.0o.ajxa">
@@ -124,6 +127,10 @@
           </ekz>
         </dif>
       <trd lng="ca">cresta <klr tip="amb">(d'una muntanya)</klr></trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: de en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Grat</trd>,
+        <trd fnt="AI: de en nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kamm</trd>
+      </trdgrp>
       <trdgrp lng="en">
         <trd>crest <klr>(geological)</klr></trd>,
         <trd>ridge <klr>(geological)</klr></trd>
@@ -137,6 +144,7 @@
           </ekz>
         </dif>
       <trd lng="ca">cresta <klr tip="amb">(d'una ona)</klr></trd>
+        <trd lng="de" fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kamm</trd>
         <trd lng="en">crest <klr>(general feature)</klr></trd>
       </subsnc>
     <trdgrp lng="de">

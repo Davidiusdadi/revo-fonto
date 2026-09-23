@@ -226,6 +226,10 @@
       <ref cel="kapabl.0i">kapabli</ref>,
       <ref cel="sci.povo0i0povi">povoscii</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich auskennen</trd>,
+      <trd fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich verstehen auf</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>ser <ind>competente</ind></trd>,
       <trd>ser capaz de <ind>comprender</ind></trd>,
@@ -255,6 +259,10 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="cel.0i">celi</ref>
+    <trdgrp lng="de">
+      <trd fnt="AI: es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verstehen unter</trd>,
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">meinen</trd>
+    </trdgrp>
     <trd lng="es">entender</trd>
   </snc>
   <trdgrp lng="be">

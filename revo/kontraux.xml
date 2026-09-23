@@ -651,6 +651,10 @@
         <trd>oposat</trd>,
         <trd>del <ind>davant</ind></trd>
       </trdgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: hu ru pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gegen&uuml;berliegend</trd>,
+        <trd fnt="AI: fr es ro nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entgegengesetzt</trd>
+      </trdgrp>
       <trdgrp lng="es">
         <trd>opuesto</trd>,
         <trd>contrario</trd>

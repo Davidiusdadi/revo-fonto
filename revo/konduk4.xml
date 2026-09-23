@@ -80,6 +80,10 @@
       <trd>&c_p;&c_r;&c_a;&c_v;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;
       &c_a;&c_d;&c_n;&c_o;&c_s;&c_n;&c_a;&c_ja;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">elektrische Leitf&auml;higkeit</trd>,
+      <trd fnt="AI: pl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Konduktivit&auml;t</trd>
+    </trdgrp>
     <trd lng="en">conductivity</trd>
     <trdgrp lng="pl">
       <trd>przewodno&sacute;&cacute;</trd>,

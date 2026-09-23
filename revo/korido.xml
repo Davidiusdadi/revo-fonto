@@ -149,6 +149,7 @@
         </ekz>
      </dif>
      <trd lng="ca">corredor <klr>aeri</klr></trd>
+     <trd lng="de" fnt="AI: ref nl pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Luftkorridor</trd>
      <trd lng="en"><klr>air </klr>corridor</trd>
      <trd lng="it">corridoio<klr> (aereo)</klr></trd>
      <trd lng="nl">luchtcorridor</trd>
@@ -231,6 +232,10 @@
          <lok>&Ccirc;apitro IX</lok>
        </fnt>.
       </ekz>
+      <trdgrp lng="de">
+        <trd fnt="AI: it hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">S&auml;ulengang</trd>,
+        <trd fnt="AI: ref it nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Galerie</trd>
+      </trdgrp>
       <trdgrp lng="hu">
        <trd>torn&aacute;c</trd>,
        <trd>kereng&odblac;</trd>,
@@ -266,6 +271,7 @@
            <lok>Parto 2a, &ccirc;ap. 9a</lok>.
          </fnt>.
        </ekz>
+       <trd lng="de" fnt="AI: ref ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Stollen</trd>
        <trdgrp lng="hu">
          <trd>t&aacute;rna</trd>,
          <trd>v&aacute;gat</trd>,

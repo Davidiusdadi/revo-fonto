@@ -514,6 +514,7 @@
           </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wachstum</trd>
   <trd lng="en">growth</trd>
   </snc>
   <trd lng="be">&c_r;&c_o;&c_s;&c_t;</trd>
@@ -825,6 +826,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wachsend</trd>,
+      <trd fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zunehmend</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>growing</trd>,
       <trd>increasing</trd>
@@ -967,6 +972,10 @@
       <ref cel="bred.0i">bredi</ref>,
       <ref cel="eduk.0i.socie">eduki</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufziehen</trd>,
+      <trd fnt="AI: ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gro&szlig;ziehen</trd>
+    </trdgrp>
     <trd lng="hu">felnevel</trd>
     <trdgrp lng="ru">
       <trd>&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
@@ -1038,6 +1047,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wachsen lassen</trd>
     <trd lng="hu">n&ouml;veszt</trd>
     <trdgrp lng="ru">
       <trd>&c_o;&c_t;&c_r;&c_a;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
@@ -1571,6 +1581,10 @@
           </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abnehmend</trd>,
+      <trd fnt="AI: en hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sinkend</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>diminishing</trd>,
       <trd>decreasing</trd>
