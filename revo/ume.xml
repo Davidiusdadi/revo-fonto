@@ -63,6 +63,10 @@
     <snc mrk="ume.0o.arbo">
       <ref tip="dif" cel="ume.0arbo"><tld/>arbo</ref>
       <trd lng="ca">albercoquer japon&eacute;s</trd>
+      <trdgrp lng="de">
+        <trd fnt="AI: ref nl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ume-Baum</trd>,
+        <trd fnt="AI: ref en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Japanische Aprikose</trd>
+      </trdgrp>
       <trd lng="nl">ume-boom</trd>
     </snc>
   <trdgrp lng="cs">

@@ -89,6 +89,10 @@
     </dif>
     <trd lng="be">&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
     <trd lng="ca">valva <klr>(mol&middot;luscs)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Schalenklappe</trd>,
+      <trd fnt="AI: ru be en; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Klappe</trd>
+    </trdgrp>
     <trd lng="hu">kagyl&oacute;h&eacute;j</trd>
     <trd lng="nl">schaal<klr tip="ind"> (v.dier)</klr></trd>
     <trd lng="ru">&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
@@ -100,6 +104,10 @@
     </dif>
     <trd lng="be">&c_s;&c_t;&c_v;&c_o;&c_r;&c_k;&c_a;</trd>
     <trd lng="ca">valva (fruits)</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: es ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Fruchtklappe</trd>,
+      <trd fnt="AI: es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Klappe</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>valva</trd>,
       <trd>ventalla</trd>

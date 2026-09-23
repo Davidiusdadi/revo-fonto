@@ -907,6 +907,7 @@
       &leftquot;<ref cel="aktual.0a.nuna">aktuala</ref>&rightquot;,
       &leftquot;<ref cel="per.sen0a">senpera</ref>&rightquot; por &ccirc;i tiu signifo.
     </rim>
+    <trd lng="de" fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">live</trd>
     <trd lng="en">live</trd>
     <trd lng="es">en <ind>vivo</ind></trd>
     <trd lng="fr">live<klr> (en pr&eacute;sence)</klr></trd>
@@ -1418,6 +1419,7 @@
       </ekz>
     </dif>
       <ref tip="ant" cel="viv.mal0ulo">malvivulo</ref>
+  <trd lng="de" fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lebender</trd>
   <trd lng="en"><ind>living</ind> person</trd>
   </snc>
   <snc mrk="viv.0ulo.BIO">
@@ -2848,6 +2850,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_r;&c_a;&c_zh;&c_y;&c_c;&c_mol;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">durchleben</trd>,
+      <trd fnt="AI: ru be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verleben</trd>
+    </trdgrp>
     <trd lng="es">vivir</trd>
     <trd lng="hu">v&eacute;gig&eacute;l</trd>
     <trd lng="pt">viver</trd>
@@ -2932,6 +2938,10 @@
       <trd>&c_p;&c_je;&c_r;&c_a;&c_zh;&c_y;&c_c;&c_mol;</trd>,
       <trd>&c_v;&c_y;&c_t;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;berstehen</trd>,
+      <trd fnt="AI: es pt dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;berdauern</trd>
+    </trdgrp>
     <trd lng="es">sobrevivir</trd>
     <trd lng="pt">sobreviver</trd>
   </snc>
@@ -2947,6 +2957,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_zh;&c_y;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: id be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;berleben</trd>
     <trdgrp lng="id">
       <trd><baz>tahan</baz>bertahan hidup</trd>,
       <trd><baz>sintas</baz>menyintas</trd>,

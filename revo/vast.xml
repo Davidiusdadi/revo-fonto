@@ -523,6 +523,7 @@
       <trd>divulgar</trd>,
       <trd>fer propaganda</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ref id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">propagieren</trd>
     <trd lng="hu">terjeszt</trd>
   <trdgrp lng="id">
     <trd><baz>sebar</baz>menyebarluaskan</trd>,
@@ -1053,6 +1054,7 @@
     <trd lng="be">&c_z;&c_a;&c_k;&c_r;&c_y;&c_t;&c_y;
     <klr>(&c_g;&c_u;&c_k;)</klr></trd>
     <trd lng="ca">tancat <klr>(fon&egrave;tica)</klr></trd>
+    <trd lng="de" fnt="AI: fr nl ru hu ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">geschlossen</trd>
     <trd lng="fr">ferm&eacute; <klr tip="ind">(phon.)</klr></trd>
     <trd lng="hu">z&aacute;rt <klr tip="ind">(hang)</klr></trd>
     <trd lng="id"><baz>tutup</baz>tertutup</trd>

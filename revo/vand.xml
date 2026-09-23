@@ -187,6 +187,10 @@
       <trd>septe</trd>,
       <trd>env&agrave;</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: it pt ca hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Scheidewand</trd>,
+      <trd kod="FAK" fnt="AI: it pt ca hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Septum <klr>(fachspr.)</klr></trd>
+    </trdgrp>
     <trdgrp lng="it">
       <trd>setto</trd>,
       <trd>sepimento</trd>,
