@@ -41,9 +41,10 @@ const task = (stage, articles) => [
   `Return which articles you saved and which you could not, with the reason.`,
 ].join('\n')
 
-// agents sometimes add a note to a name ("ajn: definitions 2, ..."): take the leading name
+// agents sometimes add a note to a name ("ajn: definitions 2, ...", "Saved out/de/results/ajn.check.json"):
+// an article counts when its name starts the entry or follows a slash
 const named = (receipt, articles) => articles.filter((a) =>
-  (receipt?.saved ?? []).some((s) => s === a || new RegExp(`^${a}\\b`).test(s.trim())))
+  (receipt?.saved ?? []).some((s) => s === a || new RegExp(`(^|/)${a}\\b`).test(s.trim())))
 
 const results = await pipeline(
   bundles,
