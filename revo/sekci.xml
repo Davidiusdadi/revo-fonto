@@ -65,6 +65,7 @@
         <lok>1998:5, p. 13a</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: es hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Abschnitt</trd>
     <trd lng="es">secci&oacute;n<klr> (parte)</klr></trd>
     <trdgrp lng="hu">
       <trd>szakasz</trd>,
@@ -215,6 +216,7 @@
     <trd>oborov&yacute; &scaron;&eacute;f</trd>,
     <trd>sek&ccaron;n&iacute; &scaron;&eacute;f</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: es fr be uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Abteilungsleiter</trd>
   <trdgrp lng="es">
     <trd>jefe de <ind>secci&oacute;n</ind></trd>,
     <trd>jefe de negociado</trd>
@@ -255,6 +257,7 @@
       Subparto de
       <ref tip="super" cel="sekci.0o.POL"><tld/>o<sncref/></ref>.
     </dif>
+    <trd lng="de" fnt="AI: pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unterabteilung</trd>
   </snc>
   <snc mrk="sekci.sub0o.ajxa">
     <dif>
@@ -270,6 +273,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: es fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unterabschnitt</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d;&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_l;</trd>,

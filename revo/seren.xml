@@ -234,6 +234,11 @@
       <trd>&c_c;&c_ib;&c_sh;&c_a;</trd>
     </trdgrp>
     <trd lng="cs">&ccaron;&iacute;&zcaron;ek</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gelassenheit</trd>,
+      <trd fnt="AI: hu en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Heiterkeit</trd>,
+      <trd fnt="AI: ru be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Seelenruhe</trd>
+    </trdgrp>
     <trd lng="hu">der&udblac;</trd>
     <trdgrp lng="id">
       <trd><baz>tenang</baz>ketenangan</trd>,
@@ -344,6 +349,10 @@
       <trd>&c_p;&c_r;&c_a;&c_ja;&c_s;&c_mol;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_s;&c_u;&c_p;&c_a;&c_k;&c_o;&c_j;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl ja be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich aufheitern</trd>,
+    <trd fnt="AI: pl be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufklaren</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd><baz>terang</baz>menerang</trd>,
     <trd><baz>cerah</baz>mencerah</trd>
@@ -365,6 +374,10 @@
       <trd>&c_s;&c_u;&c_p;&c_a;&c_k;&c_o;&c_j;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_u;&c_t;&c_a;&c_j;&c_m;&c_o;&c_w;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich aufheitern</trd>,
+    <trd fnt="AI: be id ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich beruhigen</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd><baz>tenang</baz>menenang</trd>,
     <trd><baz>tenteram</baz>menenteram</trd>,
@@ -404,6 +417,10 @@
     <trdgrp lng="be">
       <trd>&c_n;&c_je;&c_p;&c_a;&c_g;&c_o;&c_d;&c_l;&c_ib;&c_v;&c_y;</trd>,
       <trd>&c_n;&c_je;&c_p;&c_a;&c_g;&c_o;&c_d;&c_n;&c_y;</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu nl ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tr&uuml;b</trd>,
+      <trd fnt="AI: en pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">st&uuml;rmisch</trd>
     </trdgrp>
     <trd lng="hu">bor&uacute;s</trd>
   <trd lng="id"><baz>gejolak</baz>bergejolak (cuaca)</trd>
@@ -550,6 +567,10 @@
       <trd>&c_n;&c_a;&c_h;&c_m;&c_a;&c_r;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_h;&c_v;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl ja be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich eintr&uuml;ben</trd>,
+    <trd fnt="AI: pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich verd&uuml;stern</trd>
+  </trdgrp>
   <trd lng="id"><baz>gejolak</baz>bergejolak (cuaca)</trd>
   </snc>
   <snc mrk="seren.mal0igxi.anime">
@@ -570,6 +591,10 @@
       <trd>&c_u;&c_z;&c_r;&c_u;&c_sh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_t;&c_u;&c_r;&c_b;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich verd&uuml;stern</trd>,
+    <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich beunruhigen</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd><baz>gelisah</baz>menggelisah</trd>,
     <trd><baz>resah</baz>meresah</trd>

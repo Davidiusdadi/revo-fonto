@@ -161,6 +161,10 @@
         <ref cel="mastr.0i">mastri</ref>,
         <ref cel="stir.0i">stiri</ref>
       </refgrp>
+      <trdgrp lng="de">
+        <trd fnt="AI: nl hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">leiten</trd>,
+        <trd fnt="AI: hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">f&uuml;hren</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>ir&aacute;ny&iacute;t</trd>,
         <trd>vezet</trd>
@@ -685,6 +689,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herrisch</trd>,
+      <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gebieterisch</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="fr">
     <trd>&agrave; poigne</trd>,
@@ -715,6 +723,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Herrschsucht</trd>
   </snc>
   <refgrp tip="vid">
     <ref cel="auxtor1.0o">a&ubreve;toritato</ref>
@@ -1212,6 +1221,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nachgiebig</trd>
   </snc>
   <trdgrp lng="fr">
     <trd>mou</trd>,

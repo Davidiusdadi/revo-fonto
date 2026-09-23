@@ -1246,6 +1246,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Beziehung setzen</trd>,
+    <trd fnt="AI: pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verkn&uuml;pfen</trd>
+  </trdgrp>
   <trd lng="en">inter<ind>relate</ind></trd>
   </snc>
   <trdgrp lng="be">
@@ -1305,6 +1309,10 @@
       </ekz>
 -->
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Verbindung treten</trd>,
+    <trd fnt="AI: fr ca en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Beziehung treten</trd>
+  </trdgrp>
   <trd lng="en">become inter<ind>relate</ind>d</trd>
   </snc>
   <trdgrp lng="be">
@@ -1360,6 +1368,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beziehungslos</trd>
   <trd lng="en">un<ind>relate</ind>d</trd>
   </snc>
   <trdgrp lng="be">
@@ -1401,6 +1410,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: en ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unabh&auml;ngig von</trd>,
+    <trd fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ohne Bezug auf</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd><ind>independent</ind> of</trd>,
     <trd>un<ind>relate</ind>d to</trd>
@@ -1490,6 +1503,10 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="bild.idento0igo">idento-bildigo</ref>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr hu id; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">identische Relation</trd>,
+    <trd fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Identit&auml;tsrelation</trd>
+  </trdgrp>
   <trd lng="en">identity <ind>relation</ind></trd>
   </snc>
   <trdgrp lng="fr">

@@ -793,6 +793,11 @@
     <trd>&c_r;&c_a;&c_d;&c_y;&c_jo; <klr tip="amb">(&c_a;&c_p;&c_a;&c_r;&c_a;&c_t;)</klr></trd>,
     <trd>&c_r;&c_a;&c_d;&c_y;&c_jo;&c_p;&c_r;&c_y;&c_jo;&c_m;&c_n;&c_ib;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl fr ro ja be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Radioempf&auml;nger</trd>,
+    <trd fnt="AI: dif ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Radioger&auml;t</trd>,
+    <trd fnt="AI: fr be zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Radio</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>radio<klr> (poste radio)</klr></trd>,
     <trd>r&eacute;cepteur radio</trd>

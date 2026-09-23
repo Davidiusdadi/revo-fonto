@@ -224,6 +224,7 @@
       <trd>&c_t;&c_a;&c_k;&c_ib; &c_zh;</trd>,
       <trd>&c_t;&c_a;&c_k;&c_ib; &c_zh; &c_s;&c_a;&c_m;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: hu ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gleich</trd>
     <trdgrp lng="hu">
       <trd>ugyanolyan</trd>,
       <trd>azonos</trd>
@@ -489,6 +490,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">identisch</trd>
   </snc>
 <trd lng="be">&c_z;&c_u;&c_s;&c_ib;&c_m; <ind>&c_a;&c_d;&c_n;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_v;&c_y;</ind></trd>
 </drv>

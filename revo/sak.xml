@@ -286,6 +286,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_l;&c_a;&c_s;&c_n;&c_ib;&c_c;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: nl pl it es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;&szlig;ergewand</trd>,
+    <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">B&uuml;&szlig;erhemd</trd>
+  </trdgrp>
   <trd lng="es">saco<klr> (del penitente)</klr></trd>
   <trdgrp lng="fr">
     <trd>sac<klr> (bibl. v&ecirc;tement de p&eacute;nitence)</klr></trd>
@@ -531,6 +535,7 @@
   </snc>
   <trd lng="be">&c_t;&c_o;&c_r;&c_b;&c_a; &c_p;&c_je;&c_r;&c_a;&c_k;&c_ib;&c_d;&c_n;&c_a;&c_ja;</trd>
   <trd lng="cs">dvojpytel</trd>
+  <trd lng="de" fnt="AI: fr hu it es; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Quersack</trd>
   <trdgrp lng="es">
     <trd>alforjas</trd>
   </trdgrp>
@@ -815,6 +820,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_t;&c_o;&c_r;&c_b;&c_a; &c_k;&c_o;&c_n;&c_s;&c_k;&c_a;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Futtersack</trd>,
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Hafersack</trd>
+  </trdgrp>
   <trd lng="fr">musette<klr> (de cheval)</klr></trd>
   <trd lng="pl">kaganiec</trd>
 </drv>

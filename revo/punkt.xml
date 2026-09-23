@@ -1632,6 +1632,10 @@
     <trd>&c_p;&c_u;&c_n;&c_k;&c_t; <ind>&c_z;&c_e;&c_n;&c_ib;&c_t;&c_u;</ind></trd>
   </trdgrp>
   <trd lng="ca">zenit</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ca id pl be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zenit</trd>,
+    <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Scheitelpunkt</trd>
+  </trdgrp>
   <trd lng="en">highest <ind>point</ind></trd>
   <trdgrp lng="id">
     <trd>zenit</trd>,

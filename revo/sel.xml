@@ -142,6 +142,10 @@
     <ind>&c_s;&c_ja;&c_d;&c_l;&c_a;</ind></trd>
   </trdgrp>
   <trd lng="ca">descavalcar</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr it pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">absitzen</trd>,
+    <trd fnt="AI: fr es ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">absteigen</trd>
+  </trdgrp>
   <trd lng="es">desmontar</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;monter<klr> (&eacute;quitation)</klr></trd>,
@@ -188,6 +192,10 @@
   </trdgrp>
   <trdgrp lng="ca">
     <trd>pujar<klr tip="amb"> (a un cavall, un ase, etc.)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr it pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufsitzen</trd>,
+    <trd fnt="AI: fr hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aufsteigen</trd>
   </trdgrp>
   <trd lng="es">montar en <ind>silla</ind></trd>
   <trdgrp lng="fr">

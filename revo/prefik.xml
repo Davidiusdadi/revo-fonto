@@ -107,6 +107,10 @@
     <trd>prefigace</trd>,
     <trd>prefixace</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ru cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;figierung</trd>,
+    <trd fnt="AI: nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Pr&auml;fixbildung</trd>
+  </trdgrp>
   <trd lng="fr">pr&eacute;fixation</trd>
   <trdgrp lng="nl">
     <trd>het gebruik van <ind>voorvoegsel</ind>s</trd>,
@@ -134,6 +138,7 @@
    <ref tip="vid" cel="sufiks.0pseuxdo">pse&ubreve;dosufikso</ref>
   </snc>
   <trd lng="be">&c_p;&c_s;&c_e;&c_w;&c_d;&c_a;&c_p;&c_r;&c_e;&c_f;&c_ib;&c_k;&c_s;</trd>
+  <trd lng="de" fnt="AI: fr pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Pseudopr&auml;fix</trd>
   <trd lng="fr">pseudopr&eacute;fixe</trd>
   <trd lng="pl">pseudoprzedrostek</trd>
   </drv>

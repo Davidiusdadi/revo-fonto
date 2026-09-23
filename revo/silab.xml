@@ -219,6 +219,10 @@
     <trd>u n&ecaron;kter&yacute;ch jazyk&uring;
     slou&zcaron;&iacute;c&iacute; jako abeceda</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Silbenschrift</trd>,
+    <trd kod="FAK" fnt="AI: en fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Syllabar <klr>(fachspr.)</klr></trd>
+  </trdgrp>
   <trd lng="en">syllabary</trd>
   <trd lng="es">silabario</trd>
   <trd lng="fr">syllabaire</trd>

@@ -953,6 +953,10 @@ kaj esperanta lingvoj</url></vrk>
     </dif>
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_sh;&c_a;&c_k; <klr>(&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_ch;&c_a;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mehrprodukt</trd>,
+    <trd fnt="AI: fr pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;berschuss</trd>
+  </trdgrp>
   <trd lng="fr">surplus</trd>
   <trdgrp lng="pl">
     <trd>nadmiar</trd>,

@@ -562,6 +562,7 @@
       <trd>&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_y;</trd>,
       <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_je;&c_d;&c_n;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ru pl hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entsprechend</trd>
     <trdgrp lng="en">
       <trd>response</trd>,
       <trd>appropriate concerning</trd>
@@ -685,6 +686,10 @@
   <trdgrp lng="ca">
     <trd>ser <ind>responsable</ind></trd>,
     <trd>respondre <klr tip="amb">(de)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: es ca pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantwortlich sein</trd>,
+    <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantworten</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>ser <ind>responsable</ind></trd>,
@@ -938,6 +943,10 @@
   </snc>
   <trd lng="be">&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   <trd lng="ca">responsabilitat</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verantwortung</trd>,
+    <trd fnt="AI: es ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verantwortlichkeit</trd>
+  </trdgrp>
   <trd lng="es">responsabilidad</trd>
   <trdgrp lng="id">
       <trd>responsibilitas</trd>,
@@ -1018,6 +1027,7 @@
   </snc>
   <trd lng="be">&c_a;&c_d;&c_k;&c_a;&c_z;&c_n;&c_y;</trd>
   <trd lng="ca">responsable</trd>
+  <trd lng="de" fnt="AI: en es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verantwortlich</trd>
   <trd lng="en">responsible</trd>
   <trd lng="es">responsable</trd>
   <trd lng="id"><baz>tanggung jawab</baz>bertanggung jawab (adj.)</trd>
@@ -1057,6 +1067,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_a;&c_d;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">beantworten</trd>
   </snc>
   <snc mrk="respon.pri0i.responsi">
     <gra><vspec>x</vspec></gra>

@@ -265,6 +265,10 @@
     <trd>&c_r;&c_u;&c_ib;&c_n;&c_a;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;&c_ib;&c_n;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ruine</trd>,
+    <trd fnt="AI: pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tr&uuml;mmerhaufen</trd>
+  </trdgrp>
   <trd lng="fr">ruine<klr> (b&acirc;timent)</klr></trd>
   <trd lng="hu">omlad&eacute;k</trd>
   <trd lng="ja">&#27531;&#39608;  <pr>&#12374;&#12435;&#12364;&#12356;</pr></trd>
@@ -302,6 +306,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: cs pl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zerst&ouml;ren</trd>
     <trd lng="hu">lerombol</trd>
   </snc>
   <snc mrk="ruin.0igi.detrui">

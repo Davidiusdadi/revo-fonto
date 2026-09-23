@@ -199,6 +199,11 @@
     </refgrp>
   </snc>
   <trd lng="be">&c_b;&c_je;&c_z;&c_v;&c_y;&c_n;&c_ib;&c_k;&c_o;&c_v;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: hu ru pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ergebnislos</trd>,
+    <trd fnt="AI: pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erfolglos</trd>,
+    <trd fnt="AI: fa hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fruchtlos</trd>
+  </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_b;&f_y;&zwnj;&a_n;&a_t;&f_y;&a_j;&a_h;</trd>,
     <trd>&a_b;&f_y;&zwnj;&a_th;&a_m;&a_r;</trd>

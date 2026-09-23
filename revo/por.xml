@@ -694,6 +694,10 @@
     <trd>&c_s;&c_t;&c_a;&c_n;&c_o;&c_w;&c_ch;&c_y;</trd>,
     <trd>&c_z;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bef&uuml;rwortend</trd>,
+    <trd fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zustimmend</trd>
+  </trdgrp>
   <trd lng="fr">favorable</trd>
 </drv>
 
@@ -713,6 +717,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bef&uuml;rworter</trd>
   <trdgrp lng="fr">
     <trd>approbateur<klr> (subst.)</klr></trd>,
     <trd>soutien<klr> (personne)</klr></trd>

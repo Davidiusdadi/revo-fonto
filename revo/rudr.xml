@@ -70,6 +70,10 @@
     <trd>&c_s;&c_t;&c_y;&c_r;&c_n;&c_a;&c_v;&c_y;</trd>
   </trdgrp>
   <trd lng="cs">kormideln&iacute;k</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl cs sk fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steuermann</trd>,
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ruderg&auml;nger</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>man&oelig;uvrier</trd>,
     <trd>timonier</trd>

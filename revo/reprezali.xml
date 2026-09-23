@@ -14,6 +14,7 @@
       <ref tip="vid" cel="bat.re0i">Rebati</ref> al kontra&ubreve;le&gcirc;a&jcirc;o
        de alia regno per reciproka jure malpermesita ago.
     </dif>
+    <trd lng="de" fnt="AI: fr nl pl en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Repressalien ergreifen</trd>
     <trd lng="en">to make reprisal <klr>(illegally)</klr></trd>
   </snc>
   <snc mrk="reprezali.0i.KOMUNE">
@@ -33,6 +34,10 @@
     <refgrp tip="vid">
       <ref cel="vengx.0i">ven&gcirc;i</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vergelten</trd>,
+      <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zur&uuml;ckschlagen</trd>
+    </trdgrp>
     <trd lng="en">to retaliate</trd>
   </snc>
   <trd lng="fr">exercer des <ind>repr&eacute;sailles</ind></trd>
@@ -116,6 +121,10 @@
     <refgrp tip="vid">
       <ref cel="vengx.0o">ven&gcirc;o</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vergeltung</trd>,
+      <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vergeltungsschlag</trd>
+    </trdgrp>
     <trd lng="en">retaliation</trd>
     <trd lng="fr">repr&eacute;saille</trd>
     <trd lng="nl">represaille</trd>
@@ -154,6 +163,7 @@
 
       <aut>Sergio Pokrovskij</aut>
     </rim>
+    <trd lng="de" fnt="AI: ref nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Repression</trd>
     <trd lng="nl">onderdrukking<klr tip="ind"> (ontr.)</klr></trd>
   </snc>
   <trdgrp lng="ja">

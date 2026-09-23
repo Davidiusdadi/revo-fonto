@@ -288,6 +288,7 @@
     <trd>&c_m;&c_je;&c_c;&c_mol; <ind>&c_s;&c_e;&c_n;&c_s;</ind></trd>,
     <trd>&c_m;&c_je;&c_c;&c_mol; <ind>&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sinn ergeben</trd>
   <trd lng="en">make <ind>sense</ind></trd>
   <trd lng="fr">avoir du sens</trd>
   <trd lng="pl">mie&cacute;  <ind>sens</ind></trd>
@@ -640,6 +641,10 @@
     <trd>&c_p;&c_a;&c_d;&c_t;&c_e;&c_k;&c_s;&c_t;</trd>,
     <trd>&c_k;&c_a;&c_n;&c_a;&c_t;&c_a;&c_c;&c_y;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es it hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Konnotation</trd>,
+    <trd fnt="AI: hu ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Nebenbedeutung</trd>
+  </trdgrp>
   <trd lng="en">connotation</trd>
   <trd lng="es">connotaci&oacute;n</trd>
   <trd lng="fr">connotation</trd>
@@ -929,6 +934,7 @@
           </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Synonymie</trd>
   <trd lng="en">synonymy</trd>
   </snc>
   <trd lng="be">&c_s;&c_y;&c_n;&c_a;&c_n;&c_ib;&c_m;&c_ib;&c_ja;</trd>

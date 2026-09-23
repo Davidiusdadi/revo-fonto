@@ -222,6 +222,10 @@
   </trdgrp>
   <trd lng="ca">apol&iacute;tic</trd>
   <trd lng="cs">apolitick&yacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl fr es cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unpolitisch</trd>,
+    <trd fnt="AI: fr es ca cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">apolitisch</trd>
+  </trdgrp>
   <trd lng="es">apol&iacute;tico</trd>
   <trd lng="fr">apolitique</trd>
   <trd lng="id">apolitis</trd>
@@ -326,6 +330,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de" fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gesellschaftspolitisch</trd>
   <trd lng="en">socio-political</trd>
 </drv>
 

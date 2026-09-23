@@ -178,6 +178,10 @@
     <trd>&eacute;sser <ind>provisional</ind></trd>,
     <trd>&eacute;sser <ind>temporal</ind></trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">provisorisch sein</trd>,
+    <trd fnt="AI: ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vorl&auml;ufig sein</trd>
+  </trdgrp>
   <trd lng="fr">&ecirc;tre <ind>provisoire</ind></trd>
 </drv>
 

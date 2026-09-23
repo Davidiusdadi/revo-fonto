@@ -160,6 +160,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;&c_y;&c_s;&c_t;</trd>
+  <trd lng="de" fnt="AI: fr pl ro uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Portr&auml;tist</trd>
   <trd lng="fr">portraitiste</trd>
   <trd lng="ja">&#32918;&#x50CF;&#x753B;&#x5BB6;  <pr>&#12375;&#12423;&#12358;&#x305E;&#12358;&#x304C;&#x304B;</pr></trd>
   <trd lng="pl">portrecista</trd>
@@ -186,6 +187,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_f;&c_o;&c_t;&c_a;&c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Portr&auml;tfoto</trd>,
+    <trd fnt="AI: pl ro dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Portr&auml;taufnahme</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>photo d'identit&eacute;</trd>,
     <trd>portrait photo</trd>
@@ -215,6 +220,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_g;&c_r;&c_u;&c_p;&c_a;&c_v;&c_y; &c_p;&c_a;&c_r;&c_t;&c_r;&c_e;&c_t;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ro be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppenportr&auml;t</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppenbild</trd>
+  </trdgrp>
   <trd lng="fr">portrait de groupe</trd>
   <trd lng="pl">portret zbiorowy</trd>
   <trd lng="ro">portret de grup</trd>

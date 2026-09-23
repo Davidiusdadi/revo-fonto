@@ -388,6 +388,7 @@ en QuV trovi&gcirc;as &gcirc;uste alia ekz-o:
        La regulaj <tld/>a-kunmetoj koncernas nur la trian personon
        (<ekz>miaflanke, viaflanke, <tld/>aflanke</ekz>).
      </rim>
+     <trd lng="de" fnt="AI: en fi ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">eigen</trd>
      <trdgrp lng="fi">
        <trd>oma(nsa)</trd>,
        <trd>-<ind>nsa, -ns&auml;</ind></trd>
@@ -449,6 +450,7 @@ en QuV trovi&gcirc;as &gcirc;uste alia ekz-o:
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_v;&c_o;&c_j; <klr>(&c_n;&c_a;&c_z;., &c_n;&c_je;&c_h;&c_t;&c_a; &c_n;&c_je; &c_ch;&c_u;&c_zh;&c_y;)</klr></trd>
+  <trd lng="de" fnt="AI: pl fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Angeh&ouml;riger</trd>
   <trd lng="es">suyo</trd>
   <trd lng="fr">sien<klr> (subst. les siens)</klr></trd>
   <trd lng="pl">swojak</trd>
@@ -504,6 +506,10 @@ en QuV trovi&gcirc;as &gcirc;uste alia ekz-o:
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_m;&c_ib;&c_zh;&c_s;&c_o;&c_b;&c_k;&c_u;</trd>,
     <trd>&c_u;&c_z;&c_a;&c_je;&c_m;&c_n;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ru pl cs hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">untereinander</trd>,
+    <trd fnt="AI: ru fi dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">miteinander</trd>
   </trdgrp>
   <trd lng="es">entre s&iacute;</trd>
   <trd lng="fr">entre eux</trd>

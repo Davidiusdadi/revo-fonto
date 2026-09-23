@@ -102,6 +102,10 @@
     <trd>&c_p;&c_a;&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_je;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_a;&c_d;</trd>
   </trdgrp>
+<trdgrp lng="de">
+  <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">als Auftakt zu</trd>,
+  <trd fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">als Vorspiel zu</trd>
+</trdgrp>
 <trd lng="en">in <ind>prelude</ind> to</trd>
 </drv>
 </art>

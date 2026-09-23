@@ -398,6 +398,7 @@
       <ref cel="cxar.0">&ccirc;ar</ref>,
       <ref cel="nom.0e">nome</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: fr es id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zum Beweis</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_u; &c_ja;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_ib; <ind>&c_d;&c_o;&c_k;&c_a;&c_z;&c_u;</ind></trd>,
@@ -518,6 +519,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="refut.0i">refuti</ref>
+    <trd lng="de" fnt="AI: fr es pt ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">widerlegen</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_b;&c_v;&c_ja;&c_r;&c_g;&c_a;&c_c;&c_mol;</trd>,
@@ -648,6 +650,7 @@
         <ctl>la kvar kolonojn</ctl> de matematiko.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en ru pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beweistheorie</trd>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_o;&c_r;&c_y;&c_ja; <ind>&c_d;&c_o;&c_k;&c_a;&c_z;&c_a;&c_w;</ind></trd>
   <trd lng="en">proof theory</trd>

@@ -359,6 +359,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kinderreim</trd>,
+      <trd fnt="AI: be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kindervers</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ib;&c_c;&c_ja;&c_ch;&c_y; &c_v;&c_je;&c_r;&c_sh;</trd>
   <trd lng="fr">po&egrave;me enfantin</trd>
@@ -414,6 +418,7 @@
       <ref cel="asonan.0o.rimo">asonanco</ref>,
       <ref cel="rimoid.0o">rimoido</ref>.
     </refgrp>
+    <trd lng="de" fnt="AI: pl ru hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unreiner Reim</trd>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_a;&c_ja; <ind>&c_r;&c_y;&c_f;&c_m;&c_a;</ind></trd>
   <trdgrp lng="en">
@@ -457,6 +462,7 @@
     <refgrp tip="sub">
       <ref cel="rim.sufiks0o">sufiksrimo</ref>.
     </refgrp>
+    <trd lng="de" fnt="AI: pl ru hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reiner Reim</trd>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_k;&c_l;&c_a;&c_d;&c_n;&c_a;&c_ja; <ind>&c_r;&c_y;&c_f;&c_m;&c_a;</ind></trd>
   <trdgrp lng="en">
@@ -492,6 +498,7 @@
         tre malmultajn sonojn a&ubreve; sufikson.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en nl pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reicher Reim</trd>
   </snc>
   <trd lng="en">rich rhyme</trd>
   <trdgrp lng="hu">

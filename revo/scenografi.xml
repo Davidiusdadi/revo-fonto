@@ -30,6 +30,10 @@
     </rim>
   </snc>
   <trd lng="be">&c_s;&c_c;&c_e;&c_n;&c_a;&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ja;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Szenografie</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;hnenbild</trd>
+  </trdgrp>
   <trd lng="en">scenography</trd>
   <trd lng="es">escenograf&iacute;a</trd>
   <trd lng="fr">sc&eacute;nographie</trd>

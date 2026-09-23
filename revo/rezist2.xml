@@ -33,6 +33,10 @@
     "rezistiva" kaj "rezistivo" estas ege dubinda.
     <aut>MB</aut>
   </adm>
+<trdgrp lng="de">
+  <trd fnt="AI: dif id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ohmsch</trd>,
+  <trd fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">resistiv</trd>
+</trdgrp>
 <trd lng="id">resistif</trd>
 </drv>
 
@@ -81,6 +85,7 @@
     <trd>rezistivita</trd>,
     <trd>specifick&yacute; odpor</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en ru cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spezifischer Widerstand</trd>
   <trd lng="en">resistivity</trd>
   <trd lng="fr">r&eacute;sistivit&eacute;<klr tip="ind"> (&eacute;lectrique)</klr></trd>
   <trd lng="id">resistivitas</trd>

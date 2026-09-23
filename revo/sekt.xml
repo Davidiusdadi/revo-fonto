@@ -153,6 +153,10 @@
   </snc>
   <trd lng="be">&c_s;&c_e;&c_k;&c_t;&c_a;&c_n;&c_t;</trd>
   <trd lng="cs">sekt&aacute;&rcaron;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sektenmitglied</trd>,
+    <trd fnt="AI: cs sk uk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sektierer</trd>
+  </trdgrp>
   <trd lng="en">member of a sect</trd>
   <trd lng="es">miembro de una secta</trd>
   <trd lng="fa">&a_ayn;&a_D;&a_w; <ind>&a_f;&a_r;&a_q;&a_h;</ind></trd>

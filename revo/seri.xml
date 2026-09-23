@@ -120,6 +120,7 @@
       </refgrp>
       <ref tip="prt" cel="volum.0o">volumo</ref>
       <ref tip="super" cel="seri.0ajho">seria&jcirc;o</ref>
+      <trd lng="de" fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Buchreihe</trd>
       <trd lng="fr">collection</trd>
       <trd lng="hu">sorozat</trd>
       <trd lng="pl">seria</trd>
@@ -136,6 +137,7 @@
           nova <tld/>o.
         </ekz>
       </dif>
+      <trd lng="de" fnt="AI: fr hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Folge</trd>
       <trd lng="fr">s&eacute;rie</trd>
       <trd lng="hu">sorozat</trd>
       <trdgrp lng="ru">
@@ -614,6 +616,7 @@
     <ref tip="dif" cel="seri.potenco0o">potenco<tld/>o</ref>
   </snc>
   <trd lng="cs">mocninn&aacute; &rcaron;ada</trd>
+  <trd lng="de" fnt="AI: ref pl cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Potenzreihe</trd>
   <trdgrp lng="id">
     <trd><baz>deret</baz>deret pangkat</trd>,
     <trd><baz>deret</baz>deret kuasa</trd>

@@ -404,6 +404,7 @@
     <trd>&c_p;&c_a;&c_ch;&c_u;&c_c;&c_mol;&c_c;&c_jo;&c_v;&c_y;</trd>,
     <trd>&c_a;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: hu nl no dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gef&uuml;hlsm&auml;&szlig;ig</trd>
   <trdgrp lng="en">
     <trd>sensory</trd>,
     <trd>perceptual</trd>
@@ -481,6 +482,7 @@
     <refgrp tip="vid">
       <ref cel="sens.0o">senso</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: en pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Empfindungsverm&ouml;gen</trd>
     <trd lng="en">perception</trd>
     <trd lng="id">persepsi</trd>
     <trd lng="pl">czucie</trd>
@@ -518,6 +520,7 @@
       <ref cel="sufer.0o">sufero</ref>,
       <ref cel="volupt.0o">volupto</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: en ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Empfindung</trd>
     <trdgrp lng="en">
       <trd>feeling</trd>,
       <trd>sensation</trd>
@@ -1269,6 +1272,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich bemerkbar machen</trd>
   </snc>
   <snc mrk="sent.0igxi.sin">
     <dif>
@@ -1290,6 +1294,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich f&uuml;hlen</trd>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="en">

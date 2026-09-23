@@ -492,6 +492,7 @@
        <ref cel="mark.0i">marki</ref>,
        <ref cel="gest.0i">gesti</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: fr ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein Zeichen geben</trd>
     <trd lng="fr">faire <ind>signe</ind></trd>
     <trd lng="hu">jelez</trd>
     <trd lng="id"><baz>beri</baz>memberi sinyal</trd>
@@ -516,6 +517,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">markieren</trd>,
+      <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kennzeichnen</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>&ecirc;tre le <ind>signe</ind> de</trd>,
       <trd>marquer<klr> (&ecirc;tre marquant)</klr></trd>
@@ -895,6 +900,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Signatur</trd>
   <trdgrp lng="id">
     <trd>paraf</trd>,
     <trd>tanda tangan</trd>,
@@ -1231,6 +1237,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="de" fnt="AI: fr ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Versetzungszeichen</trd>
       <trd lng="fr">alt&eacute;ration<klr> (signe musical)</klr></trd>
       <trdgrp lng="id">
         <trd>aksidental</trd>,
@@ -1315,6 +1322,7 @@
     <trd>signar</trd>,
     <trd>persignar</trd>
   </trdgrp>
+    <trd lng="de" fnt="AI: ru be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bekreuzigen</trd>
     <trdgrp lng="ru">
       <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_r;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_o;&c_s;&c_je;&c_n;&c_i;&c_t;&c_mol; &c_k;&c_r;&c_je;&c_s;&c_t;&c_o;&c_m;</trd>
@@ -1340,8 +1348,10 @@
         <trd>signar-se</trd>,
         <trd>persignar-se</trd>
       </trdgrp>
+      <trd lng="de" fnt="AI: ru be ca en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich bekreuzigen</trd>
       <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_k;&c_r;&c_je;&c_s;&c_t;&c_i;&c_t;&c_mol;&c_s;&c_ja;</trd>
     </subsnc>
+    <trd lng="de" fnt="AI: fr en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">das Kreuzzeichen machen</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>pok&rcaron;i&zcaron;ovat</trd>,
@@ -1682,6 +1692,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_l;&c_je;&c_d;</trd>
+  <trd lng="de" fnt="AI: ref en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Spur</trd>
   <trdgrp lng="en">
     <trd>trace</trd>,
     <trd>sign</trd>,
@@ -1926,6 +1937,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_l;&c_a;&c_d;&c_o;&c_v;&c_y; <ind>&c_z;&c_n;&c_a;&c_k;</ind></trd>
+  <trd lng="de" fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Silbenzeichen</trd>
   <trd lng="fr">signe syllabique</trd>
 <trd lng="id">karakter silabik</trd>
 </drv>

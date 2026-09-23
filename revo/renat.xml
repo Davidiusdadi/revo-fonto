@@ -28,6 +28,10 @@
     <trd>&c_R;&c_e;&c_n;&c_a;&c_t;&c_a;</trd>,
     <trd>&c_R;&c_e;&c_n;&c_e;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ren&eacute;</trd>,
+    <trd kod="RAR" fnt="AI: it pt dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Renatus <klr>(selten)</klr></trd>
+  </trdgrp>
   <trd lng="fr">Ren&eacute;</trd>
   <trd lng="it">Renato</trd>
   <trd lng="pl">Renat</trd>

@@ -290,6 +290,7 @@
     <trd>&c_sh;&c_a;&c_h;&c_ib;&c_n;&c_sh;&c_a;&c_h;</trd>
   </trdgrp>
   <trd lng="ca">rei de reis</trd>
+  <trd lng="de" fnt="AI: en fr es hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">K&ouml;nig der K&ouml;nige</trd>
   <trd lng="en"><ind>king</ind> of kings</trd>
   <trd lng="es">rey de reyes</trd>
   <trd lng="fr">roi des rois</trd>
@@ -456,6 +457,7 @@
       <trd>&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;
       <klr>(&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;&c_a;)</klr></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">K&ouml;nigsherrschaft</trd>
     <trdgrp lng="id">
       <trd><baz>kuasa</baz>kekuasaan</trd>,
       <trd><baz>raja</baz>kerajaan</trd>,
@@ -490,6 +492,7 @@
       <trd>&c_m;&c_a;&c_n;&c_a;&c_r;&c_h;&c_ib;&c_ch;&c_n;&c_a;&c_ja;
       &c_w;&c_l;&c_a;&c_d;&c_a;</trd>
     </trdgrp>
+  <trd lng="de" fnt="AI: be id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Monarchie</trd>
   <trdgrp lng="id">
     <trd>monarki</trd>,
     <trd><baz>datu</baz>kedatuan</trd>,
@@ -526,6 +529,10 @@
   <trdgrp lng="ca">
     <trd>regnat</trd>,
     <trd>regne</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr be ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Herrschaft</trd>,
+    <trd fnt="AI: en fr ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Regierung</trd>
   </trdgrp>
   <trd lng="en">reign</trd>
   <trd lng="fr">r&egrave;gne</trd>

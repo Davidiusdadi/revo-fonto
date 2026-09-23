@@ -599,6 +599,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_r;&c_u;&c_l;&c_a;&c_d;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: nl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wirbel</trd>,
+      <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Grollen</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>gurgul&aacute;z&aacute;s</trd>,
       <trd>perg&eacute;s</trd>
@@ -1007,6 +1011,11 @@
   </snc>
   <trd lng="be">&c_s;&c_k;&c_a;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">odvalit</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wegw&auml;lzen</trd>,
+    <trd fnt="AI: pl uk hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wegrollen</trd>,
+    <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abw&auml;lzen</trd>
+  </trdgrp>
   <trd lng="fr">rouler<klr tip="ind"> (tr., d'un
   endroit)</klr></trd>
   <trdgrp lng="hu">
@@ -1137,6 +1146,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_k;&c_o;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wegrollen</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wegw&auml;lzen</trd>
+  </trdgrp>
   <trd lng="fr">rouler<klr> (enlever en faisant rouler)</klr></trd>
   <trd lng="pl">rolowa&cacute; <klr>(usuwa&cacute; przez rolowanie)</klr></trd>
 </drv>

@@ -382,6 +382,10 @@
     <trd>&c_p;&c_a;&c_b;&c_l;&c_ib;&c_z;&c_u;</trd>,
     <trd>&c_p;&c_o;&c_b;&c_a;&c_ch;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en pl fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in der N&auml;he von</trd>,
+    <trd fnt="AI: en ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nahe</trd>
+  </trdgrp>
   <trd lng="en">near</trd>
   <trd lng="fr">pr&egrave;s de</trd>
   <trdgrp lng="hu">

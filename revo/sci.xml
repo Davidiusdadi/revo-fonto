@@ -1119,6 +1119,10 @@
         <fnt><bib>MT</bib>, <lok>&Pre; 1:17</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en pt es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erkennen</trd>,
+      <trd fnt="AI: hu pt dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">begreifen</trd>
+    </trdgrp>
     <trd lng="es">darse cuenta</trd>
     <trd lng="hu">meg&eacute;rt</trd>
     <trdgrp lng="pt">
@@ -1315,6 +1319,7 @@
     <trd>&c_sh;&c_m;&c_a;&c_t;&c_b;&c_a;&c_k;&c_o;&c_v;&c_y;&c_ja; &c_v;&c_je;&c_d;&c_y;</trd>,
     <trd>&c_d;&c_a;&c_s;&c_mol;&c_v;&c_je;&c_d;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gelehrsamkeit</trd>
   <trd lng="fr">&eacute;rudition<klr> (grand savoir)</klr></trd>
 </drv>
 
@@ -1337,6 +1342,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_e;&c_r;&c_u;&c_d;&c_y;&c_t;</trd>
+  <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gelehrter</trd>
   <trd lng="fr">&eacute;rudit<klr> (subst.)</klr></trd>
 </drv>
 
@@ -1362,6 +1368,7 @@
     <klr>(&c_n;&c_a;&c_z;.)</klr></trd>,
     <trd>&c_n;&c_je;&c_v;&c_u;&c_k;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: dif pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unwissender</trd>
   <trdgrp lng="fr">
     <trd>ignare<klr> (subst.)</klr></trd>,
     <trd>ignorant<klr> (subst.)</klr></trd>
@@ -1661,6 +1668,10 @@
   <trdgrp lng="be">
     <trd>&c_c;&c_ib;&c_k;&c_a;&c_w;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_d;&c_a;&c_p;&c_y;&c_t;&c_l;&c_ib;&c_v;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr nl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Neugier</trd>,
+    <trd fnt="AI: en fr nl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Neugierde</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>curiosity</trd>,

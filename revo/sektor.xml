@@ -69,6 +69,10 @@
         Intersekco de la cirklo kun
         <ref cel="angul.centra0o">centra angulo</ref> de &gcirc;i.
       </dif>
+      <trdgrp lng="de">
+        <trd fnt="AI: en fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kreissektor</trd>,
+        <trd fnt="AI: hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kreisausschnitt</trd>
+      </trdgrp>
       <trd lng="en">sector of circle</trd>
       <trd lng="fr">secteur circulaire</trd>
       <trd lng="hu">k&ouml;rcikk</trd>
@@ -143,6 +147,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_w;&c_n;&c_y; <ind>&c_s;&c_e;&c_k;&c_t;&c_a;&c_r;</ind></trd>
+  <trd lng="de" fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&ouml;ffentlicher Sektor</trd>
   <trd lng="fr">secteur public</trd>
 </drv>
 </art>

@@ -881,6 +881,10 @@
     <trd>&c_v;&c_o;&c_b;&c_y;&c_s;&c_k; &c_u; &c_p;&c_a;&c_m;&c_ja;&c_sh;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_ib;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_a;&c_t;&c_r;&c_u;&c_s; &c_p;&c_a;&c_m;&c_ja;&c_sh;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hausdurchsuchung</trd>,
+    <trd fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Haussuchung</trd>
+  </trdgrp>
   <trd lng="fr">perquisition</trd>
 </drv>
 

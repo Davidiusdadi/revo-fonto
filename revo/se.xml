@@ -269,6 +269,10 @@
     <trd>&c_n;&c_a;&c_v;&c_a;&c_t; &c_k;&c_a;&c_l;&c_ib;</trd>,
     <trd>&c_h;&c_o;&c_c;&c_mol; &c_b;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr nl pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">selbst wenn</trd>,
+    <trd fnt="AI: fr pl fi; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auch wenn</trd>
+  </trdgrp>
   <trd lng="fi">vaikka</trd>
   <trdgrp lng="fr">
     <trd>m&ecirc;me si</trd>,
@@ -436,6 +440,10 @@
        </ekz>
     </dif>
     <trd lng="be">&c_u;&c_m;&c_o;&c_v;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wenn</trd>,
+      <trd fnt="AI: pl be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bedingung</trd>
+    </trdgrp>
     <trd lng="pl">warunek</trd>
   </snc>
   <snc mrk="se.0o.KOMP">
@@ -449,6 +457,10 @@
       programplenumo.
     </dif>
     <trd lng="be">&c_u;&c_m;&c_o;&c_w;&c_n;&c_y; <ind>&c_a;&c_p;&c_e;&c_r;&c_a;&c_t;&c_a;&c_r;</ind></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bedingte Anweisung</trd>,
+      <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">If-Anweisung</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>IF statement</trd>,
       <trd>conditional statement</trd>

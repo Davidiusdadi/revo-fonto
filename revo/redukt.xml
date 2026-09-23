@@ -395,6 +395,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de" fnt="AI: hu en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">reduzierbar</trd>
     <trdgrp lng="hu">
       <trd>cs&ouml;kkenthet&odblac;</trd>,
       <trd>m&eacute;rs&eacute;kelhet&odblac;</trd>,
@@ -413,6 +414,7 @@
         <ref cel="ekvaci.0o">ekvacio</ref>.
       </ekz>
       <trd lng="be">&c_s;&c_k;&c_a;&c_r;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+      <trd lng="de" fnt="AI: pl hu be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">k&uuml;rzbar</trd>
       <trd lng="hu">egyszer&udblac;s&iacute;thet&odblac; <klr tip="ind">(t&ouml;rt)</klr></trd>
       <trdgrp lng="pl">
         <trd>przywiedlny</trd>,
@@ -482,6 +484,7 @@
   </snc>
   <trd lng="be">&c_r;&c_e;&c_d;&c_u;&c_k;&c_c;&c_y;&c_ja;&c_n;&c_ib;&c_z;&c_m;</trd>
   <trd lng="ca">reduccionisme</trd>
+  <trd lng="de" fnt="AI: fr es ca pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Reduktionismus</trd>
   <trd lng="en">reductivism</trd>
   <trd lng="es">reduccionismo</trd>
   <trd lng="fr">r&eacute;ductionnisme</trd>
@@ -495,6 +498,7 @@
       Tia, ke ne eblas &gcirc;in <tld/>i.
     </dif>
     <trd lng="be">&c_n;&c_je;&c_s;&c_k;&c_a;&c_r;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
+    <trd lng="de" fnt="AI: hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nicht reduzierbar</trd>
     <trdgrp lng="hu">
       <trd>nem cs&ouml;kkenthet&odblac;</trd>,
       <trd>nem reduk&aacute;lhat&oacute;</trd>

@@ -196,6 +196,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_d;&c_v;&c_u;&c_h;&c_p;&c_o;&c_l;&c_ju;&c_s;&c_n;&c_y;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">zweipolig</trd>,
+    <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bipolar</trd>
+  </trdgrp>
   <trd lng="fr">bipolaire</trd>
 </drv>
 
@@ -258,6 +262,7 @@
   <refgrp tip="vid">
     <ref cel="ekstre.0ismo">ekstremismo</ref>
   </refgrp>
+  <trd lng="de" fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Polarisierung</trd>
   <trd lng="fr">polarisation</trd>
 </drv>
 </art>

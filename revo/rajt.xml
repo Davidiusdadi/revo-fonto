@@ -856,6 +856,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_a; &c_n;&c_a; &c_ib;&c_s;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl ru cs sk uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Existenzrecht</trd>,
+      <trd fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Existenzberechtigung</trd>
+    </trdgrp>
     <trd lng="pl">prawo do istnienia</trd>
     <trd lng="ru">&c_p;&c_r;&c_a;&c_v;&c_o; &c_n;&c_a; &c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
   </snc>
@@ -874,6 +878,7 @@
         </ekz>
     </dif>
     <trd lng="be">&c_p;&c_a;&c_d;&c_s;&c_t;&c_a;&c_v;&c_a; &c_d;&c_l;&c_ja; &c_ib;&c_s;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;</trd>
+    <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Existenzberechtigung</trd>
   </snc>
   <trdgrp lng="ca">
     <trd>dret a existir</trd>,
@@ -919,6 +924,7 @@
       </ekz>
     </dif>
   </snc>
+  <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Menschenrecht</trd>
   <trdgrp lng="fr">
     <trd>droit humain</trd>,
     <trd>droit de l'homme</trd>

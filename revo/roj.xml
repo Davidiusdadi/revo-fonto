@@ -89,6 +89,10 @@
     <trd>regalar</trd>,
     <trd>escolar-se</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">rinnen</trd>,
+    <trd fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">str&ouml;men</trd>
+  </trdgrp>
   <trdgrp lng="en">
      <trd>stream</trd>
      <trd>trickle</trd>

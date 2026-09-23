@@ -271,6 +271,7 @@
       <fnt><bib>PIV2</bib></fnt>
       <uzo tip="stl">EVI</uzo>
       <ref tip="dif" cel="rezist2.0o">rezistivo</ref>
+    <trd lng="de" fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spezifischer Widerstand</trd>
     <trd lng="id">resistivitas</trd>
     </subsnc>
     <trd lng="be">&c_s;&c_u;&c_p;&c_r;&c_a;&c_c;&c_ib;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
@@ -324,12 +325,14 @@
   <snc mrk="rezist.0eco.FIZ">
     <uzo tip="fak">FIZ</uzo>
     <ref tip="dif" cel="rezist.0o.FIZ"><tld/>o<sncref/></ref>
+    <trd lng="de" fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Festigkeit</trd>
     <trd lng="id"><baz>kaku</baz>kekakuan (material)</trd>
     <trd lng="pl">op&oacute;r</trd>
   </snc>
   <snc mrk="rezist.0eco.ELE">
     <uzo tip="fak">ELE</uzo>
     <ref tip="dif" cel="rezist2.0o">rezistivo</ref>
+    <trd lng="de" fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spezifischer Widerstand</trd>
     <trd lng="id">resistivitas</trd>
     <trd lng="pl">oporno&sacute;&cacute;</trd>
   </snc>

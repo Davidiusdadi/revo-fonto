@@ -828,6 +828,10 @@
   </snc>
   <trd lng="be">&c_a;&c_p;&c_u;&c_s;&c_k;&c_n;&c_y;&c_ja;
   <ind>&c_v;&c_a;&c_r;&c_o;&c_t;&c_y;</ind></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hubtor</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fallgatter</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>drop gate</trd>,
     <trd>guillotine gate</trd>, <trd>vertical door</trd>

@@ -170,6 +170,10 @@
     <trd>p&rcaron;irozen&yacute; v&yacute;b&ecaron;r</trd>,
     <trd>p&rcaron;&iacute;rodn&iacute; v&yacute;b&ecaron;r</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nat&uuml;rliche Selektion</trd>,
+    <trd fnt="AI: pl cs uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nat&uuml;rliche Auslese</trd>
+  </trdgrp>
   <trd lng="en">natural selection</trd>
   <trd lng="es">selecci&oacute;n natural</trd>
   <trd lng="fr">s&eacute;lection naturelle</trd>

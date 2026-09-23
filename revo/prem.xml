@@ -582,6 +582,10 @@
         <fnt><bib>MT</bib>, <lok>&Psa; 66:14</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: hu es fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bedr&auml;ngnis</trd>,
+      <trd fnt="AI: ref fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unterdr&uuml;ckung</trd>
+    </trdgrp>
     <trd lng="es">opresi&oacute;n</trd>
     <trd lng="fr">oppression</trd>
     <trd lng="hu">szorults&aacute;g</trd>
@@ -1709,6 +1713,10 @@
           </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abpressen</trd>,
+      <trd fnt="AI: ref en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abn&ouml;tigen <klr>(gehoben)</klr></trd>
+    </trdgrp>
     <trd lng="en">extort</trd>
     <trdgrp lng="es">
       <trd>arrebatar</trd>
@@ -1925,6 +1933,10 @@
         kun<tld/>ita aero.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">komprimieren</trd>,
+      <trd fnt="AI: en hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verdichten</trd>
+    </trdgrp>
     <trd lng="en">compress</trd>
     <trd lng="hu">&ouml;sszepr&eacute;sel</trd>
   <trdgrp lng="id">
@@ -2009,6 +2021,7 @@
     <refgrp tip="vid">
       <ref cel="sxrump.0i.FORM">&scirc;rumpi</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: en pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich zusammenziehen</trd>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_c;&c_a;
   <klr>(&c_r;&c_a;&c_z;&c_a;&c_m;)</klr></trd>
@@ -2053,6 +2066,10 @@
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_p;&c_r;&c_e;&c_s;&c_a;&c_r;</trd>
   <trd lng="cs">kompresor</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kompressor</trd>,
+    <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Verdichter</trd>
+  </trdgrp>
   <trd lng="en">compressor</trd>
   <trd lng="es">compresor</trd>
   <trd lng="fr">compresseur</trd>
@@ -2113,6 +2130,7 @@
     <trd>&c_a;&c_d;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_je;&c_sh;&c_t;&c_a;
     &c_s;&c_mol;&c_c;&c_ib;&c_s;&c_n;&c_u;&c_t;&c_a;&c_je;)</klr></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en ru es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">loslassen</trd>
   <trd lng="en">release</trd>
   <trd lng="es">dejar de presionar (soltar)</trd>
   <trdgrp lng="id">
@@ -2145,6 +2163,7 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_a;&c_d;&c_n;&c_o; &c_z;
   &c_a;&c_d;&c_n;&c_y;&c_m;)</klr></trd>
+  <trd lng="de" fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zusammenpressen</trd>
   <trd lng="en"><ind>squeeze</ind> together</trd>
   <trd lng="hu">egym&aacute;shoz <ind>nyom</ind></trd>
   <trd lng="id"><baz>tekan</baz>menekan <klr>(satu sama lain)</klr></trd>
@@ -2908,6 +2927,7 @@
     <ind>&c_p;&c_r;&c_y;&c_c;&c_ib;&c_s;&c_n;&c_u;&c_c;&c_mol;</ind></trd>,
     <trd>&c_n;&c_ja;&c_s;&c_t;&c_r;&c_y;&c_m;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unbez&auml;hmbar</trd>
   <trd lng="en">irrepressible</trd>
   <trdgrp lng="es">
     <trd>irreprimible</trd>,
@@ -2987,6 +3007,10 @@
         <fnt><bib>MT</bib>, <lok>&Sa1; 2:29</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zertreten</trd>,
+      <trd fnt="AI: en fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zertrampeln</trd>
+    </trdgrp>
     <trd lng="zh">&#x79B8; <pr>r&oacute;u</pr></trd>
 </snc>
   <trdgrp lng="be">

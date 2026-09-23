@@ -105,6 +105,7 @@
         <fnt><bib>MT</bib>, <lok>&Psa; 26:4</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tagen</trd>
     <trdgrp lng="es">
       <trd>ocupar <ind>un asiento</ind></trd>
     </trdgrp>
@@ -754,6 +755,10 @@
   <trdgrp lng="cs">
     <trd>sedadlo</trd>,
     <trd>sed&aacute;tko</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr cs dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sitzgelegenheit</trd>,
+    <trd fnt="AI: en fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sitz</trd>
   </trdgrp>
   <trd lng="en">seat</trd>
   <trd lng="es">asiento</trd>

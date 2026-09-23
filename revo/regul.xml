@@ -873,6 +873,7 @@ Distribution)</klr></trd>
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="de" fnt="AI: fr pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich regulieren</trd>
   <trdgrp lng="fr">
     <trd>se <ind>r&eacute;guler</ind></trd>,
     <trd>se <ind>r&eacute;gulariser</ind></trd>
@@ -1085,6 +1086,7 @@ Distribution)</klr></trd>
     <trd>&c_n;&c_je;&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_r;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
     <trd>&c_a;&c_n;&c_a;&c_m;&c_a;&c_l;&c_ib;&c_ja;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unregelm&auml;&szlig;igkeit</trd>
   <trd lng="fr">irr&eacute;gularit&eacute;</trd>
   <trd lng="id"><baz>takteratur</baz>ketakteraturan</trd>
   <trd lng="pl">nieregularno&sacute;&cacute;</trd>
@@ -1109,6 +1111,7 @@ Distribution)</klr></trd>
     </dif>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_m;&c_a;&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
+  <trd lng="de" fnt="AI: fr pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich selbst regulieren</trd>
   <trd lng="fr">s'<ind>autor&eacute;guler</ind></trd>
   <trd lng="id"><baz>atur</baz>mengatur diri sendiri</trd>
   <trd lng="pl">samoregulowa&cacute;</trd>
@@ -1134,6 +1137,10 @@ Distribution)</klr></trd>
   </snc>
   <trd
   lng="be">&c_s;&c_a;&c_m;&c_a;&c_r;&c_e;&c_g;&c_u;&c_l;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Selbstregulierung</trd>,
+    <trd fnt="AI: fr pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Selbstregulation</trd>
+  </trdgrp>
   <trd lng="fr">autor&eacute;gulation</trd>
   <trd lng="id">autoregulasi</trd>
   <trd lng="pl">samoregulacja</trd>
@@ -1241,6 +1248,7 @@ Distribution)</klr></trd>
     </refgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_ib;&c_l;&c_a; &c_zh;&c_y;&c_c;&c_mol;&c_c;&c_ja;</trd>
+  <trd lng="de" fnt="AI: fr pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lebensregel</trd>
   <trd lng="fr">r&egrave;gle de vie</trd>
   <trd lng="id">aturan hidup</trd>
   <trd lng="pl">regu&lstroke;a &zdot;ycia</trd>

@@ -297,6 +297,7 @@
     <trd>&c_k;&c_r;&c_a;&c_s;&c_a;&c_m;&c_o;&c_w;&c_n;&c_y;</trd>,
     <trd>&c_g;&c_a;&c_v;&c_a;&c_r;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: pl fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erz&auml;hlfreudig</trd>
   <trd lng="fr">disert<klr> (qui raconte bien)</klr></trd>
   <trd lng="pl">rozmowny</trd>
 </drv>
@@ -319,6 +320,7 @@
     <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_a; <klr>(&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>,
     <trd>&c_e;&c_p;&c_ib;&c_z;&c_o;&c_d;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Episode</trd>
   <trd lng="en">episode</trd>
   <trd lng="fr">&eacute;pisode</trd>
   <trd lng="id">episode</trd>
@@ -348,6 +350,7 @@
     <trd>&c_c;&c_ib;&c_k;&c_a;&c_v;&c_y;</trd>,
     <trd>&c_v;&c_a;&c_r;&c_t;&c_y; <ind>&c_a;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en es fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erz&auml;hlenswert</trd>
   <trd lng="en">worth telling</trd>
   <trdgrp lng="es">
     <trd>buena historia</trd>,
@@ -546,6 +549,7 @@
     <trd>hist&ograve;ria fabulosa</trd>
   </trdgrp>
   <trd lng="cs">b&aacute;chorka</trd>
+  <trd lng="de" fnt="AI: en nl pl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">M&auml;rchen</trd>
   <trdgrp lng="en">
     <trd>fairy tale</trd>,
     <trd>fable</trd>
@@ -585,6 +589,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">rondalla</trd>
+  <trd lng="de" fnt="AI: en nl fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Volkserz&auml;hlung</trd>
   <trd lng="en">folk tale</trd>
   <trdgrp lng="es">
     <trd>cuento popular</trd>,
@@ -635,6 +640,7 @@
   </snc>
   <trd lng="be">&c_g;&c_e;&c_t;&c_a; &c_ib;&c_n;&c_sh;&c_a;&c_ja; <ind>&c_g;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</ind></trd>
   <trd lng="ca">aix&ograve; &eacute;s ja una altra hist&ograve;ria</trd>
+  <trd lng="de" fnt="AI: en nl fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">das ist eine andere Geschichte</trd>
   <trdgrp lng="en">
     <trd>that's another story</trd>,
     <trd>but I digress</trd>
