@@ -1,0 +1,25 @@
+{
+  "$comment": "What the checker returns for one article (prompt-check.md): a verdict on every proposal and definition.",
+  "type": "object",
+  "required": ["verdicts", "definitions", "flags"],
+  "additionalProperties": false,
+  "properties": {
+    "verdicts": {"type": "array", "items": {
+      "type": "object", "required": ["mrk", "word", "accept", "mark", "searched", "why"], "additionalProperties": false,
+      "properties": {
+        "mrk": {"type": "string"},
+        "word": {"type": "string"},
+        "accept": {"type": "boolean"},
+        "mark": {"type": "string", "description": "a register label from marks.toml, or empty for a neutral word"},
+        "searched": {"type": "boolean", "description": "the verdict rests on a web search"},
+        "why": {"type": "string"}}}},
+    "definitions": {"type": "array", "items": {
+      "type": "object", "required": ["mrk", "accept", "text"], "additionalProperties": false,
+      "properties": {
+        "mrk": {"type": "string"},
+        "accept": {"type": "boolean"},
+        "text": {"type": "string", "description": "the definition as it should be written; corrected if needed"},
+        "why": {"type": "string"}}}},
+    "flags": {"type": "array", "items": {"$ref": "flag.json"}}
+  }
+}

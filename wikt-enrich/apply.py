@@ -82,8 +82,11 @@ def judged_tier(lng, cfg):
                    "words": [{"word": c["word"], "mark": c["mark"], "fnt": fnt(c, lng, model)} for c in cs[: cfg.get("max_words", 3)]]}
 
 
-def plan_file(path, decisions, ents, p, kods):
-    """-> ([(line index, new lines, decision)], [(decision, why skipped)]) for one article."""
+def plan_file(path, decisions, ents, p, kods, node_only=False):
+    """-> ([(line index, new lines, decision)], [(decision, why skipped)]) for one article.
+
+    node_only (ai-enrich): a decision names the very node it fills, and only that node having the
+    language already stops it; an entry translated whole can still get words for one sense."""
     with open(path, encoding="utf-8", newline="") as f:      # newline="": keep every byte as it is
         lines = f.read().splitlines(keepends=True)
     root = etree.parse(str(path), p).getroot()
@@ -94,13 +97,19 @@ def plan_file(path, decisions, ents, p, kods):
             skipped.append((d, "drv not found")); continue
         nodes = [drv] + list(drv.iter("snc", "subsnc"))
         def direct(n): return [c for c in n if c.tag in ("trd", "trdgrp")]
-        if any(c.get("lng") == d["lng"] for n in nodes for c in direct(n)):
+        if not node_only and any(c.get("lng") == d["lng"] for n in nodes for c in direct(n)):
             skipped.append((d, "already translated")); continue
         keys = [n.get("mrk") or f'{d["drv"]}#{i}' for i, n in enumerate(nodes)]
         if d["node"] in keys:
             node = nodes[keys.index(d["node"])]
+        elif node_only and d["node"] is not None:
+            skipped.append((d, "sense not found")); continue
+        elif node_only:
+            node = drv
         else:                                   # single-sense entry: go where its translations already are
             node = max(nodes, key=lambda n: len(direct(n)))
+        if node_only and any(c.get("lng") == d["lng"] for c in direct(node)):
+            skipped.append((d, "already translated")); continue
         kids = direct(node)
         after = next((c for c in kids if (c.get("lng") or "") > d["lng"]), None)
         if after is not None:

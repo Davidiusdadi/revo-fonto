@@ -1,0 +1,15 @@
+{
+  "$comment": "Something wrong an agent came across in passing (README, Flags). flags.py collects them.",
+  "type": "object",
+  "required": ["mrk", "lng", "kind", "text", "note"],
+  "additionalProperties": false,
+  "properties": {
+    "mrk": {"type": "string", "description": "the entry or sense it concerns"},
+    "lng": {"type": "string", "description": "the language of the text in question; eo for Esperanto"},
+    "kind": {"enum": ["wrong-translation", "wrong-sense", "not-a-word", "wrong-form", "wrong-language",
+                      "missing-mark", "definition", "eo-typo", "ref", "ours", "other"]},
+    "text": {"type": "string", "description": "the text in question, as written"},
+    "note": {"type": "string", "description": "what is wrong, one sentence"},
+    "suggestion": {"type": "string"}
+  }
+}

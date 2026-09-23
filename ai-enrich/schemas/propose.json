@@ -1,0 +1,22 @@
+{
+  "$comment": "What the proposer returns for one article (prompt-propose.md).",
+  "type": "object",
+  "required": ["definitions", "proposals", "covered", "flags"],
+  "additionalProperties": false,
+  "properties": {
+    "definitions": {"type": "array", "items": {
+      "type": "object", "required": ["mrk", "text"], "additionalProperties": false,
+      "properties": {"mrk": {"type": "string"}, "text": {"type": "string", "minLength": 1}}}},
+    "proposals": {"type": "array", "items": {
+      "type": "object", "required": ["mrk", "word", "sources", "why"], "additionalProperties": false,
+      "properties": {
+        "mrk": {"type": "string", "description": "a sense's mrk, or the entry's for a whole-word translation"},
+        "word": {"type": "string", "minLength": 1},
+        "sources": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+        "why": {"type": "string"}}}},
+    "covered": {"type": "array", "items": {
+      "type": "object", "required": ["mrk", "by"], "additionalProperties": false,
+      "properties": {"mrk": {"type": "string"}, "by": {"type": "string"}}}},
+    "flags": {"type": "array", "items": {"$ref": "flag.json"}}
+  }
+}
