@@ -43,6 +43,7 @@
           diskutlisto</url></lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Mit einer Person als Subjekt:) Etwas indirekt andeuten oder vermuten lassen, als unausgesprochene Voraussetzung, Folge oder Begleitumstand.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_ja;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_m;&c_je;&c_r;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -100,6 +101,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Mit einer Sache als Subjekt:) Begrifflich oder logisch enthalten, etwas als notwendige Voraussetzung, Folge oder wahrscheinlichen Begleitumstand unumg&auml;nglich machen.</dif>
       <trdgrp lng="be">
     <trd>&c_u;&c_t;&c_r;&c_y;&c_m;&c_l;&c_ib;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_s;&c_a;&c_b;&c_je;)</klr></trd>,
     <trd>&c_z;&c_mol;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_mol; <klr>(&c_u; &c_s;&c_a;&c_b;&c_je;)</klr></trd>
@@ -242,6 +244,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stillschweigend mitverstanden.</dif>
     <trd lng="de">implizit</trd>
     <trd lng="en">implicit</trd>
     <trd lng="fr">implicite</trd>
@@ -278,6 +281,7 @@
           &c_o;&c_p;&c_r;&c_je;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Indirekt definiert, durch eine Gleichung oder eine andere Beziehung zu anderen mathematischen Objekten.</dif>
     <trd lng="en">implicit</trd>
     <trd lng="fr">implicite</trd>
     <trd lng="ru">&c_n;&c_je;&c_ja;&c_v;&c_n;&c_y;&c_j;</trd>
@@ -427,6 +431,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Implizierens oder Ergebnis einer solchen Handlung.</dif>
     <trd lng="be">&c_p;&c_a;&c_d;&c_r;&c_a;&c_z;&c_u;&c_m;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="fr">implication</trd>
     <trd lng="pl">implikacja</trd>
@@ -460,6 +465,7 @@
         kaj la dua falsa.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Logische Operation, die zwei Aussagen P und Q die Aussage &#x00AC;P&#x2228;Q (lies: nicht P oder Q) zuordnet; Ergebnis dieser Operation.</dif>
     <refgrp tip="vid">
       <ref cel="pozici.kontraux0o">kontra&ubreve;pozicio</ref>,
       <ref cel="kondic1.necesa0o">necesa kondi&ccirc;o</ref>,

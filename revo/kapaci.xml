@@ -62,12 +62,14 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Maximale F&auml;higkeit, etwas aufzunehmen oder in einer bestimmten Zeit zu bew&auml;ltigen.</dif>
   </snc>
   <snc mrk="kapaci.0o.SCI">
     <uzo tip="fak">SCI</uzo>
     <dif>
       En scienco, diversfake:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In der Wissenschaft, in verschiedenen Fachgebieten.</dif>
     <subsnc mrk="kapaci.0o.EKON">
       <uzo tip="fak">EKON</uzo>
       <dif>
@@ -102,6 +104,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Maximales Produktionsverm&ouml;gen eines Unternehmens in einer bestimmten Zeit mit allen verf&uuml;gbaren Mitteln.</dif>
       <refgrp tip="vid">
         <ref cel="pov.0o">povo</ref>
       </refgrp>
@@ -128,6 +131,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Menge (gasf&ouml;rmig, fl&uuml;ssig oder fest), die ein Beh&auml;lter aufnehmen kann.</dif>
       <refgrp tip="sin">
         <ref cel="hav.en0eco">enhaveco</ref>,
         <ref cel="volume.0o.kapacito">volumeno<sncref/></ref>
@@ -197,6 +201,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Maximale Datenmenge, die eine Einrichtung (Speicher, Prozessor, Kommunikationskanal) aufnehmen oder verarbeiten kann.</dif>
     <trdgrp lng="de">
       <trd>Speicherkapazit&auml;t</trd>,
       <trd>Durchsatz</trd>,
@@ -220,6 +225,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Akkumulators) Gr&ouml;&szlig;te Ladung, die er aufnehmen kann.</dif>
       <trd lng="ca">capacitat</trd>
       <trdgrp lng="en">
         <trd>capacity</trd>,

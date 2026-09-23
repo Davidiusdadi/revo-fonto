@@ -32,6 +32,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schlussfolgern, indem man von Einzeltatsachen auf ein allgemeines Gesetz, von den Arten auf die Gattung, von den Wirkungen auf die Ursache schlie&szlig;t.</dif>
     <refgrp tip="vid">
       <ref cel="dedukt.0i">dedukti</ref>
     </refgrp>
@@ -77,6 +78,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein elektrisches oder magnetisches Feld durch Induktion erzeugen.</dif>
     <trd lng="be">&c_ib;&c_n;&c_d;&c_u;&c_k;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trdgrp lng="hu">
       <trd>gerjeszt</trd>,
@@ -103,6 +105,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen physiologischen Entwicklungsprozess in Gang setzen; in der Genetik ein Gen durch einen &auml;u&szlig;eren Faktor aktivieren.</dif>
   <trd lng="be">&c_z;&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_c;&c_mol; <klr>(&c_p;&c_r;&c_a;&c_c;&c_e;&c_s;)</klr></trd>
   </snc>
 
@@ -134,6 +137,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In etwas entstehen lassen, hervorrufen, anregen.</dif>
   <trdgrp lng="be">
     <trd>&c_s;&c_p;&c_r;&c_y;&c_ch;&c_y;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>,
     <trd>&c_v;&c_y;&c_k;&c_l;&c_ib;&c_k;&c_a;&c_c;&c_mol;</trd>
@@ -186,6 +190,7 @@
         <trd lng="de">Abduktion</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung des Induzierens.</dif>
     <trd lng="en">induction</trd>
     <trdgrp lng="hu">
       <trd>indukci&oacute;</trd>,
@@ -221,6 +226,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erscheinung, durch die ein sich &auml;nderndes elektrisches Feld ein magnetisches Feld bildet und umgekehrt.</dif>
     <trd lng="en">inductance</trd>
     <trdgrp lng="hu">
       <trd>gerjeszt&eacute;s</trd>,
@@ -268,6 +274,7 @@
         <frm am="u_0 q^n"><k>u</k><sub>0</sub><k>q</k><sup><k>n</k></sup></frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Art, zu beweisen, dass eine Aussage f&uuml;r jede nat&uuml;rliche Zahl n wahr ist, indem man zeigt, dass sie f&uuml;r n = 0 wahr ist und dass sie, wenn sie f&uuml;r irgendein n wahr ist, auch f&uuml;r n+1 wahr ist.</dif>
     <trd lng="de">Induktion</trd>
     <trd lng="en">induction</trd>
     <trdgrp lng="fr">

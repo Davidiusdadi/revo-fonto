@@ -58,6 +58,7 @@
         <fnt><bib>EE</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit oder Teil der Ereignisse, die die Menschheit im Laufe der Zeit durchlebt hat.</dif>
     <refgrp tip="vid">
       <ref cel="antikv.0eco">antikveco</ref>,
       <ref cel="epok.0o.evento">epoko<sncref/></ref>,
@@ -105,6 +106,7 @@
         <tld/>a verko.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wissenschaftliche Darstellung der Geschichte.</dif>
     <trd lng="de">Geschichtswissenschaft</trd>
     <trd lng="hu">t&ouml;rt&eacute;nettudom&aacute;ny</trd>
     <trd lng="ja">&#x6B74;&#x53F2;&#x5B66; <pr>&#x308C;&#x304D;&#12375;&#x304C;&#x304F;</pr></trd>
@@ -141,6 +143,7 @@
         <fnt><bib>Fab1</bib> <lok>Kupra porko</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erz&auml;hlende Darstellung denkw&uuml;rdiger wirklicher oder erfundener Ereignisse.</dif>
     <ref tip="vid" cel="kronik1.0o">kroniko</ref>
     <trd lng="de">Erz&auml;hlung</trd>
     <trd lng="en">story</trd>
@@ -169,6 +172,7 @@
         la <tld/>o de eldonoj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit der aufeinanderfolgenden Zust&auml;nde einer sich ver&auml;ndernden Sache.</dif>
     <refgrp tip="vid">
       <ref cel="evolu.0o">evoluo</ref>,
       <ref cel="procez.0o.SCI">procezo<sncref/></ref>,
@@ -320,6 +324,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Geschichte angeh&ouml;rend, wie sie von Historikern aufgezeichnet ist und &uuml;ber die schriftliche Dokumente vorliegen; tats&auml;chlich.</dif>
     <trdgrp lng="ja">
       <trd>&#x6B74;&#x53F2;&#x4E0A;&#x306E; <pr>&#x308C;&#x304D;&#12375;&#12376;&#12423;&#12358;&#x306E;</pr></trd>,
       <trd>&#x6B74;&#x53F2;&#30340;&#x306A; <pr>&#x308C;&#x304D;&#12375;&#12390;&#x304D;&#x306A;</pr></trd>
@@ -343,6 +348,7 @@
         <fnt><bib>FK</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich auf die Geschichte, auf die Geschichtswissenschaft beziehend.</dif>
     <trdgrp lng="ja">
       <trd>&#x6B74;&#x53F2;&#x306E; <pr>&#x308C;&#x304D;&#12375;&#x306E;</pr></trd>,
       <trd>&#x6B74;&#x53F2;&#x306B;&#x95A2;&#12377;&#x308B;
@@ -634,6 +640,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil der Geschichte, der keine schriftlichen Dokumente hinterlassen hat.</dif>
     <trd lng="ja">&#20808;&#x53F2;&#26178;&#x4EE3; <pr>&#x305B;&#12435;&#12375;&#12376;&#12384;&#12356;</pr></trd>
     <trdgrp lng="pl">
       <trd>prahistoria</trd>,
@@ -649,6 +656,7 @@
       partojn de <tld/>o sen skribitaj atestoj, precipe helpe de <ref tip="vid"
       cel="arkeol1.0o">arkeologio</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wissenschaft, die Abschnitte der Geschichte ohne schriftliche Zeugnisse erforscht, vor allem mithilfe der Arch&auml;ologie.</dif>
     <trd lng="ja">&#20808;&#x53F2;&#x5B66; <pr>&#x305B;&#12435;&#12375;&#x304C;&#x304F;</pr></trd>
     <trd lng="pl">prahistoria</trd>
   </snc>

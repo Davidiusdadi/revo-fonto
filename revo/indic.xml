@@ -38,6 +38,7 @@
         <trd lng="ru">&c_v;&c_je;&c_r;&c_h;&c_n;&c_i;&c_j; &c_i;&c_n;&c_d;&c_je;&c_k;&c_s;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer symbolischen Formel ein pr&auml;zisierender Zusatz (vor allem eine Zahl oder Buchstaben), der neben einem Grundsymbol oben oder unten sowie rechts oder links steht.</dif>
     <trd lng="de">Index</trd>
         <trd lng="es">&iacute;ndice</trd>
     <trdgrp lng="hu">
@@ -59,6 +60,7 @@
         <frm>a[i,j+1]</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In Programmiersprachen ein Ausdruck, der die Nummer eines Elements eines Feldes in der betreffenden Dimension angibt &ndash; Zeile (waagerecht), Spalte (senkrecht), Seite usw..</dif>
     <trd lng="de">Index</trd>
     <trd lng="es">&iacute;ndice</trd>
     <trd lng="hu">index</trd>
@@ -91,6 +93,7 @@
         estas)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Familie, Folge oder Matrix) Element ihres Definitionsbereichs.</dif>
     <refgrp tip="vid">
       <ref cel="term.0o.vico">termo</ref>.
     </refgrp>
@@ -167,6 +170,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zahl, meist ein Quotient, die aus einer Reihe von Beobachtungen gewonnen wird und einen Stoff, einen Vorgang oder eine Erscheinung kennzeichnet.</dif>
     <rim>
       Pli trafa nomo por tiu nocio estus <ref cel="indik.0ilo">indikilo</ref>;
       tio klaras en la ekzemplo

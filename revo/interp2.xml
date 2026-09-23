@@ -39,6 +39,7 @@
           <lok>Kontakto</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erkl&auml;ren, zu verstehen versuchen, die beabsichtigte Bedeutung von etwas Knappem, Kompliziertem, Mehrdeutigem, Doppeldeutigem oder auf andere Weise Unklarem aufdecken.</dif>
     <refgrp tip="vid">
       <ref cel="koment1.0i">komenti</ref>,
       <ref cel="cxifr.mal0i">mal&ccirc;ifri</ref>
@@ -75,6 +76,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einer Erscheinung, einer Handlung, einem Wort oder einem Begriff einen Sinn beimessen und sie gegebenenfalls anderen Menschen so darstellen.</dif>
     <refgrp tip="vid">
       <ref cel="prezen1.0i">prezenti</ref>,
       <ref cel="trakt.0i">trakti</ref>
@@ -111,6 +113,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Kunstwerk spielen und ihm dabei eine pers&ouml;nliche Auffassung des Spielenden verleihen.</dif>
     <refgrp tip="vid">
       <ref cel="plen.0umi">plenumi</ref>,
       <ref cel="prezen1.0i">prezenti</ref>
@@ -138,6 +141,7 @@
       Tradukadi dum komunikado (prelego, konferenco, debato ktp),
       interalie
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">W&auml;hrend einer Kommunikation (Vortrag, Konferenz, Debatte usw.) &uuml;bersetzen.</dif>
     <subsnc mrk="interp2.0i.busxe">
       <dif>
         <ref tip="dif" cel="traduk.busx0i.LIN">Bu&scirc;traduki</ref>:
@@ -184,6 +188,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Geb&auml;rdensprachlich &uuml;bersetzen, gesprochene Rede in die Geb&auml;rdensprache Geh&ouml;rloser &uuml;bertragen.</dif>
       <trd lng="ru">&c_o;&c_s;&c_u;&c_shch;&c_je;&c_s;&c_t;&c_v;&c_l;&c_ja;&c_t;&c_mol; <ind>&c_s;&c_u;&c_r;&c_d;&c_o;&c_p;&c_je;&c_r;&c_je;&c_v;&c_o;&c_d;</ind></trd>
     </subsnc>
   </snc>
@@ -198,6 +203,7 @@
         <fnt><bib>KomlLeks</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Befehle mit einem Interpreter &uuml;bersetzen und sofort ausf&uuml;hren.</dif>
     <trd lng="de" fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">interpretieren</trd>
     <trd lng="ru">&c_i;&c_n;&c_t;&c_je;&c_r;&c_p;&c_r;&c_je;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;<klr> (&c_k;&c_o;&c_m;&c_a;&c_d;&c_y; &c_i;&c_l;&c_i; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_u;)</klr></trd>
   </snc>
@@ -434,6 +440,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Person, deren Beruf es ist, f&uuml;r Fremde zu dolmetschen.</dif>
     <trd lng="fr">interpr&egrave;te<klr> (traducteur)</klr></trd>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_k;&c_l;&c_a;&c_d;&c_ch;&c_y;&c_k; <klr>(&c_v;&c_u;&c_s;&c_n;&c_y;)</klr></trd>

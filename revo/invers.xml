@@ -60,6 +60,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer entgegengesetzten Lage oder Richtung in Bezug auf etwas anderes befindlich.</dif>
     <trdgrp lng="fr">
       <trd>inverse<klr tip="ind"> (adj.)</klr></trd>,
       <trd>contraire<klr tip="ind"> (adj.)</klr></trd>,
@@ -107,6 +108,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Inverse (von etwas) bildend.</dif>
     <trd lng="de">inverse</trd>
     <trd lng="en">inverse</trd>
     <trd lng="fr">inverse<klr tip="ind"> (math.,adj.)</klr></trd>
@@ -438,6 +440,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In die umgekehrte Lage oder Richtung bringen.</dif>
     <trdgrp lng="en">
       <trd>turn upside down</trd>,
       <trd>invert</trd>
@@ -488,6 +491,7 @@
         figuron.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Inverse berechnen.</dif>
     <trd lng="fr">inverser</trd>
     <trd lng="hu">invert&aacute;l</trd>
     <trd lng="ru">&c_i;&c_n;&c_v;&c_je;&c_r;&c_t;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
@@ -517,6 +521,7 @@
     <dif>
       Ago <tld/>igi <sncref ref="invers.0igi.KOMUNE"/>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Umkehren.</dif>
     <trdgrp lng="de">
       <trd fnt="AI: pl hu fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Umkehrung</trd>,
       <trd fnt="AI: fr pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Inversion</trd>
@@ -538,6 +543,7 @@
       <dif>
         Ago <ref cel="invers.0igi.MAT"><tld/>igi <sncref/></ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Berechnen des Inversen.</dif>
     </subsnc>
     <subsnc mrk="invers.0igo.transformo">
       <uzo tip="fak">MAT</uzo>
@@ -577,6 +583,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(in einem zweidimensionalen affinen euklidischen Raum, mit Zentrum O und Potenz &lambda;2) Transformation, die einen Punkt M auf einen solchen Punkt M' der Halbgeraden OM abbildet, dass OM&middot;OM' = &lambda;2.</dif>
       <rim>
         Tian transformon oni anka&ubreve; nomas <ctl><tld/>igo rilate al cirklo
         kun centro en <frm am="O">O</frm> kaj radiuso
@@ -613,6 +620,7 @@
     <dif>
       Tia, ke eblas &gcirc;in <tld/>igi.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es umkehren kann.</dif>
     <trdgrp lng="hu">
       <trd>megford&iacute;that&oacute;</trd>,
       <trd>kiford&iacute;that&oacute; <klr tip="ind">(pl. ruha)</klr></trd>
@@ -635,6 +643,7 @@
         estas <tld/>igeblaj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Element einer multiplikativ geschriebenen Gruppe oder eines Rings) So beschaffen, dass sein Inverses existiert.</dif>
     <ref tip="sin" cel="invers.0hava">invershava.</ref>
     <rim>
       La <tld/>igeblajn elementojn de ringo oni foje nomas

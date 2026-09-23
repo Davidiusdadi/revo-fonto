@@ -199,6 +199,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(an einem Ort der Erdoberfl&auml;che) Ebene Richtung, die senkrecht zur Vertikalen dieses Ortes steht; jede Gerade mit dieser Richtung.</dif>
   <trdgrp lng="en"><trd>horizontal</trd>, <trd>horizontal
     line</trd></trdgrp>
   <trdgrp lng="es">
@@ -231,6 +232,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe von Elementen einer Fl&auml;che (Text, Matrix, Schachbrett usw.), die waagerecht angeordnet sind, wenn die betreffende Fl&auml;che senkrecht steht (an der Tafel, auf dem Bildschirm usw.).</dif>
     <trdgrp lng="de">
       <trd fnt="AI: en it pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zeile</trd>,
       <trd fnt="AI: en es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe</trd>
@@ -257,6 +259,7 @@
           estas <frm am="y=7"><k>y</k> = 7</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gerade, deren Richtung senkrecht zur vereinbarungsgem&auml;&szlig; gew&auml;hlten Richtung der Vertikalen steht.</dif>
       <trd lng="en">horizontal <ind>line</ind></trd>
       <trd lng="es"><ind>l&iacute;nea</ind> horizontal</trd>
       <trd lng="fr">horizontale<klr tip="ind"> (math.,
@@ -272,6 +275,7 @@
         &Ccirc;iu el &gcirc;iaj <frm am="n"><k>n</k></frm>
         <frm am="(1,p)">(1,<k>p</k>)</frm>-submatricoj.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer (n,p)-Matrix) Jede ihrer n (1,p)-Untermatrizen.</dif>
       <trdgrp lng="de">
         <trd>Zeile<klr tip="ind"> (einer Matrix)</klr></trd>,
         <trd>Horizontalreihe<klr tip="ind"> (einer Matrix)</klr></trd>
@@ -314,6 +318,7 @@ matrice)</klr></trd>,
           ekvivalentas al <frm am="p"><k>p</k></frm>-opo.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede (1,p)-Matrix.</dif>
       <adm>
       Mi ne trovis fonton por tiu termino.<aut>MB</aut>
       </adm>

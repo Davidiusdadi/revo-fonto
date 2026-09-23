@@ -51,6 +51,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In jeder Hinsicht gleich, ebenso beschaffen; genau dieselben Eigenschaften habend</dif>
     <ref tip="sin" cel="distin.ne0ebla">nedistingebla</ref>
     <refgrp tip="vid">
       <ref cel="akord.0a.konveneco">akorda<sncref/></ref>,
@@ -101,6 +102,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der eine und kein anderer als der, um den es geht; derselbe</dif>
     <trd lng="hu">ugyanaz</trd>
     <trd
     lng="ru"><ofc>1</ofc>&c_t;&c_o;&c_zh;&c_d;&c_je;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j;</trd>
@@ -158,6 +160,7 @@
     <dif>
       Tia rilato, fakto, konstato en kiu pluraj aferoj montri&gcirc;as <tld/>aj:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beziehung, Tatsache, Feststellung, in der sich mehrere Dinge als identisch erweisen</dif>
     <subsnc mrk="ident.0o.bildigo">
       <uzo tip="fak">MAT</uzo>
       <dif>
@@ -189,6 +192,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wahre Gleichung</dif>
       <trd lng="en">identity<klr> (mathematical equality)</klr></trd>
     </subsnc>
     <subsnc mrk="ident.0o.JUR">
@@ -270,6 +274,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas Identisches</dif>
     <trd lng="en">identity<klr> (instance of something identical)</klr></trd>
     <trd lng="hu">azonos dolog</trd>
     <trd lng="pl">identyczno&sacute;&cacute;</trd>
@@ -294,6 +299,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichung, die unabh&auml;ngig vom Wert der in ihr vorkommenden Variablen wahr ist</dif>
     <trd lng="de">Identit&auml;t</trd>
     <trd lng="en">identity<klr> (mathematical equality)</klr></trd>
     <trd lng="es">identidad<klr tip="amb"> (matem&aacute;tica)</klr></trd>
@@ -335,6 +341,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Tatsache, dass etwas mit etwas anderem identisch ist; ununterscheidbare Gleichheit, Selbigkeit</dif>
     <trdgrp lng="be">
       <trd>&c_t;&c_o;&c_je;&c_s;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
       <trd>&c_ib;&c_d;&c_e;&c_n;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -368,6 +375,7 @@
         <fnt><bib>KPr</bib> <lok>&Ccirc;apitro Dekoka</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Gesamtheit der amtlichen Merkmale wie Name, Eltern, Staatsangeh&ouml;rigkeit, die einen Menschen von anderen unterscheiden</dif>
     <refgrp tip="vid">
       <ref cel="indivi.0o.KOMUNE">individuo<sncref/></ref>,
       <ref cel="legiti.0ajxo">legitima&jcirc;o</ref>,
@@ -430,6 +438,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Gesamtheit der Merkmale, durch die jemand sich selbst bestimmt, zum Beispiel Zugeh&ouml;rigkeit zu einer Gruppe, Glaube usw.; Zugeh&ouml;rigkeitsgef&uuml;hl zu einer Kultur, zu Glaubens&uuml;berzeugungen, einer Ideologie</dif>
     <ref tip="sin" cel="mem.0o">memo</ref>
     <refgrp tip="vid">
       <ref cel="konsci.0o.cirkonstanca">konscio<sncref/></ref>,
@@ -506,6 +515,7 @@
         <fnt><bib>Homaranismo</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas mit etwas anderem identisch machen oder f&uuml;r identisch halten</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_t;&c_a;&c_ja;&c_s;&c_mol;&c_n;&c_ja;&c_c;&c_mol;</trd>,
       <trd>&c_a;&c_t;&c_o;&c_je;&c_s;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>,
@@ -527,6 +537,7 @@
         <klr>(trovi la respondan nomon nunan)</klr>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden oder etwas erkennen, erfahren, was jemand oder etwas ist</dif>
     <subsnc mrk="ident.0igi.JUR">
       <uzo tip="fak">JUR</uzo>
       <dif>
@@ -540,6 +551,7 @@
             <bib>Monato</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Identit&auml;t von jemandem feststellen oder nachweisen</dif>
       <trdgrp lng="ru">
         <trd>&c_o;&c_p;&c_o;&c_z;&c_n;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_i;&c_t;&c_mol;
@@ -574,6 +586,7 @@
             </fnt>;
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas oder jemanden klassifizieren</dif>
       <trdgrp lng="ru">
         <trd>&c_i;&c_d;&c_je;&c_n;&c_t;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
         <trd>&c_k;&c_l;&c_a;&c_s;&c_s;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>,
@@ -593,6 +606,7 @@
             </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Untersuchung und Analyse herausarbeiten</dif>
       <trdgrp lng="ru">
         <trd>&c_v;&c_y;&c_d;&c_je;&c_l;&c_i;&c_t;&c_mol;</trd>,
         <trd>&c_i;&c_d;&c_je;&c_n;&c_t;&c_i;&c_f;&c_i;&c_c;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>

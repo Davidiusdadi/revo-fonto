@@ -863,6 +863,7 @@
         <trd lng="de">Tabellenkalkulation</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hilfsmittel zur Ausf&uuml;hrung arithmetischer Operationen.</dif>
     <refgrp tip="sub">
       <ref cel="abak.0o.kalkulilo">abako<sncref/></ref>,
       <ref cel="soroban.0o">sorobano</ref>,
@@ -927,6 +928,7 @@
         <trd lng="nl">kiesapparaat</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t zum automatischen Z&auml;hlen von etwas; Z&auml;hler.</dif>
     <trdgrp lng="be">
       <trd>&c_l;&c_ib;&c_ch;&c_y;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
       <trd>&c_p;&c_r;&c_y;&c_b;&c_o;&c_r; <ind>&c_u;&c_l;&c_ib;&c_k;&c_u;</ind></trd>
@@ -1274,6 +1276,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vollst&auml;ndig z&auml;hlen, ohne etwas auszulassen.</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_p;&c_a;&c_d;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -1367,6 +1370,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Alles einzeln nacheinander z&auml;hlend vorlegen.</dif>
     <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_l;&c_ib;&c_ch;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trd lng="de">ausz&auml;hlen</trd>
   </snc>
@@ -1659,6 +1663,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine k&uuml;nftige Handlung mithilfe von Berechnungen sorgf&auml;ltig durchdenken; alle Folgen seines Handelns abw&auml;gen.</dif>
     <refgrp tip="vid">
       <ref cel="plan.0i">plani</ref>
     </refgrp>
@@ -1701,6 +1706,7 @@
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Menschen z&auml;hlen.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_l;&c_ib;&c_ch;&c_y;&c_c;&c_mol; <klr tip="amb">(&c_l;&c_ju;&c_d;&c_z;&c_je;&c_j;,
       &c_n;&c_a;&c_s;&c_je;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_t;&c_v;&c_a;)</klr></trd>,
