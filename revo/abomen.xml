@@ -515,6 +515,10 @@
     <trd><ind>Ekel</ind> erregen</trd>,
     <trd><ind>anwidern</ind> lassen</trd>
   </trdgrp>
+<trdgrp lng="en">
+  <trd fnt="AI: de be ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">disgust</trd>,
+  <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">nauseate</trd>
+</trdgrp>
 <trdgrp lng="id">
   <trd><baz>buat</baz>membuat benci</trd>,
   <trd><baz>buat</baz>membuat jijik</trd>,

@@ -167,6 +167,10 @@
       <ref cel="glut.0ejo">glutejo</ref>.
     </refgrp>
     <trd lng="de" fnt="AI: nl hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kluft</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref nl hu pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">gulf</trd>,
+      <trd fnt="AI: ref nl hu pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">chasm</trd>
+    </trdgrp>
     <trd lng="hu">szakad&eacute;k</trd>
     <trd lng="nl">kloof</trd>
     <trd lng="pl">przepa&sacute;&cacute;</trd>
