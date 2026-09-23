@@ -66,6 +66,11 @@
       <trd>Einklang</trd>,
       <trd>&Uuml;bereinstimmung</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr ca id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">harmony</trd>,
+      <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">accord</trd>,
+      <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">concordance <klr>(formal)</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
       <trd>ad&eacute;quation</trd>,
@@ -121,6 +126,11 @@
       <trd>Gleichklang</trd>,
       <trd>Konsens</trd>,
       <trd>&Uuml;bereinstimmung</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">accord</trd>,
+      <trd fnt="AI: de es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agreement</trd>,
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">concord <klr>(formal)</klr></trd>
     </trdgrp>
     <trd lng="es">acuerdo</trd>
     <trdgrp lng="fr">
@@ -278,6 +288,10 @@
       <trd>&Uuml;bereinkunft</trd>,
       <trd>Konsens</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agreement</trd>,
+      <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">accord</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (juridique)</klr></trd>,
       <trd>convention<klr tip="ind"> (juridique)</klr></trd>,
@@ -320,6 +334,10 @@
       <trd>acord<klr tip="amb"> (gramatical)</klr></trd>
     </trdgrp>
     <trd lng="de" fnt="AI: ca fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kongruenz</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agreement</trd>,
+      <trd fnt="AI: ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">concord</trd>
+    </trdgrp>
     <trd lng="fr">accord<klr tip="ind"> (gramm.)</klr></trd>
   <trd lng="id"><baz>suai</baz>kesesuaian (tata bahasa)</trd>
   </snc>
@@ -530,6 +548,7 @@
       </dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Akkord betreffend.</dif>
       <trd lng="de">Akkord-</trd>
+      <trd lng="en" fnt="AI: de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">chordal</trd>
       <trd lng="fr">d'<ind>accord</ind>(s)<klr tip="ind">
       (mus.)</klr></trd>
     </subsnc>
@@ -579,6 +598,7 @@
       <trd>im <ind>Takt</ind></trd>,
       <trd>im <ind>Gleichschritt</ind></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in step</trd>
     <trdgrp lng="fr">
       <trd>marchant au <ind>pas</ind> cadenc&eacute;</trd>
     </trdgrp>
@@ -696,6 +716,10 @@
         <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vertragen</trd>,
         <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">auskommen</trd>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: fr de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">get on <klr>(British)</klr></trd>,
+        <trd fnt="AI: ca id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agree</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>s'<ind>accorder</ind><klr tip="ind"> (&ecirc;tre en
         accord)</klr></trd>,
@@ -727,6 +751,7 @@
         <trd>acordar</trd>
       </trdgrp>
       <trd lng="de" fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kongruieren</trd>
+      <trd lng="en" fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agree</trd>
       <trd lng="fr">s'<ind>accorder</ind><klr tip="ind">
       (gramm.)</klr></trd>
     <trd lng="id"><baz>suai</baz>sesuai</trd>
@@ -1057,6 +1082,10 @@
       <trd fnt="AI: id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&uuml;bereinstimmen</trd>,
       <trd fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vertragen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: id be ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agree</trd>,
+      <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">get on <klr>(British)</klr></trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>sepakat</baz>bersepakat</trd>,
       <trd><baz>mufakat</baz>bermufakat</trd>,
@@ -1083,6 +1112,7 @@
         <fnt><bib>VivZam</bib>, <lok>9</lok></fnt>?
       </ekz>
     <trd lng="de" fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kongruieren</trd>
+    <trd lng="en" fnt="AI: id fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agree</trd>
     <trd lng="id"><baz>suai</baz>sesuai</trd>
     </subsnc>
   </snc>
@@ -1176,6 +1206,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">accord</trd>,
+      <trd fnt="AI: de id zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agreement</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (fait d'&ecirc;tre en accord)</klr></trd>,
       <trd>entente<klr tip="ind"> (accord)</klr></trd>,
@@ -1199,6 +1233,10 @@
     <trdgrp lng="de">
       <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bereinstimmung</trd>,
       <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einklang</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">harmony</trd>,
+      <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">accord</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (ad&eacute;quation)</klr></trd>,
@@ -1231,6 +1269,7 @@
       <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bereinkunft</trd>,
       <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vereinbarung</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: fr id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agreement</trd>
     <trdgrp lng="fr">
       <trd>accord<klr tip="ind"> (juridique)</klr></trd>,
       <trd>convention<klr tip="ind"> (juridique)</klr></trd>
@@ -1449,6 +1488,11 @@
     <trd>widerstreiten</trd>,
     <trd><ind>gespalten</ind> sein</trd>,
     <trd>&uuml;ber <ind>Kreuz</ind> liegen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: ca fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">disagree</trd>,
+    <trd fnt="AI: fr id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">conflict</trd>,
+    <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">clash</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>&ecirc;tre en <ind>d&eacute;saccord</ind></trd>,
@@ -1732,6 +1776,10 @@
     <trd>nicht <ind>vereinbar</ind></trd>,
     <trd>widerspr&uuml;chlich</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr ca uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">irreconcilable</trd>,
+    <trd fnt="AI: fr cs be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">incompatible</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>inconciliable</trd>,
     <trd>antagonique</trd>,
@@ -1851,6 +1899,11 @@
     <trd>en <ind>adequaci&oacute;</ind> amb</trd>
   </trdgrp>
   <trd lng="de"><ind>vereinbar</ind> mit</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ro fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in accordance with</trd>,
+    <trd fnt="AI: ca de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in keeping with</trd>,
+    <trd fnt="AI: id ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in line with</trd>
+  </trdgrp>
   <trd lng="fr">en <ind>accord</ind> avec</trd>
   <trdgrp lng="id">
     <trd><baz>laras</baz>selaras dgn</trd>,
@@ -1886,6 +1939,10 @@
   <trd lng="be">&c_n;&c_ja;&c_z;&c_g;&c_o;&c_d;&c_n;&c_a; &c_z;</trd>
   <trd lng="ca">en <ind>disconformitat</ind></trd>
   <trd lng="de"><ind>unvereinbar</ind> mit</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr de ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">at variance with</trd>,
+    <trd fnt="AI: dif pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">contrary to</trd>
+  </trdgrp>
   <trd lng="fr">en <ind>d&eacute;saccord</ind> avec</trd>
   <trdgrp lng="id">
     <trd><baz>laras</baz>selaras dgn</trd>,
@@ -1914,6 +1971,10 @@
   <trdgrp lng="de">
     <trd><ind>&uuml;berein</ind> kommen</trd>,
     <trd>zu einer <ind>Einigung</ind> kommen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">come to an agreement</trd>,
+    <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reach an agreement</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>s'<ind>accorder</ind><klr tip="amb"> (s'harmoniser, se mettre

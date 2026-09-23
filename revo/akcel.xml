@@ -101,6 +101,11 @@
     </trdgrp>
     <trd lng="br">kas war-raok</trd>
     <trd lng="de">voranbringen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de nl sv hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">further</trd>,
+      <trd fnt="AI: nl sv hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">promote</trd>,
+      <trd fnt="AI: de sv; proponis claude-opus-5-5; kontrolis claude-opus-5-5">advance</trd>
+    </trdgrp>
     <trd lng="hu">el&odblac;seg&iacute;t</trd>
     <trd lng="nl">bevorderen</trd>
     <trd lng="pl">przyspiesza&cacute;</trd>

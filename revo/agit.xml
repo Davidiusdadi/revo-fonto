@@ -157,6 +157,10 @@
         <trd>durchdenken</trd>,
         <trd>hin- und her<ind>w&auml;lzen</ind></trd>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: ref ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ponder</trd>,
+        <trd fnt="AI: de fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mull over</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>soumettre &agrave; <ind>examen</ind></trd>,
         <trd>cogiter</trd>
@@ -381,6 +385,7 @@
     <trd>sich <ind>sch&uuml;tteln</ind></trd>,
     <trd>in <ind>Unruhe</ind> geraten</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">become agitated</trd>
   <trd lng="fr">s'<ind>agiter</ind></trd>
   <trdgrp lng="id">
     <trd><baz>getar</baz>bergetar</trd>,

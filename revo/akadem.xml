@@ -129,6 +129,7 @@
       <trd>Akademiemitglied</trd>,
       <trd>Mitglied der Akademie</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: fr ru bg de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">academician</trd>
     <trd lng="es">acad&eacute;mico</trd>
     <trd lng="fr">acad&eacute;micien</trd>
     <trd lng="hu">akad&eacute;mikus</trd>
@@ -206,6 +207,7 @@
   </snc>
   <trd lng="be">&c_A;&c_k;&c_a;&c_d;&c_e;&c_m;&c_ib;&c_ja; &c_e;&c_s;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_a;</trd>
   <trd lng="de">Akademie des Esperanto</trd>
+  <trd lng="en" fnt="AI: de fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Academy of Esperanto</trd>
   <trd lng="fr">Acad&eacute;mie de l'Esp&eacute;ranto</trd>
 <trd lng="id">Akademi Esperanto</trd>
 </drv>

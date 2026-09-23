@@ -39,6 +39,10 @@
     <trd>afektivn&iacute;</trd>,
     <trd>citov&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr it es cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">affective</trd>,
+    <trd fnt="AI: fr it cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">emotional</trd>
+  </trdgrp>
   <trd lng="es">afectivo</trd>
   <trdgrp lng="fr">
     <trd>affectif</trd>,

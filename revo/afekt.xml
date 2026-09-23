@@ -342,6 +342,7 @@
           <trd fnt="Vikt: en fr pl; juĝis claude-opus-5">affektiert</trd>,
           <trd fnt="Vikt: fr ru; juĝis claude-opus-5">geziert</trd>
         </trdgrp>
+        <trd lng="en" fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mannered</trd>
         <trdgrp lng="fr">
           <trd>affect&eacute;<klr tip="ind"> (qui trahit de
               l'affectation)</klr></trd>,
@@ -381,6 +382,10 @@
           <trd fnt="Vikt: en; juĝis claude-opus-5">erheuchelt</trd>,
           <trd fnt="Vikt: en; juĝis claude-opus-5">simuliert</trd>,
           <trd fnt="Vikt: en; juĝis claude-opus-5">vorgespiegelt</trd>
+        </trdgrp>
+        <trdgrp lng="en">
+          <trd fnt="AI: fr de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">feigned</trd>,
+          <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">forced</trd>
         </trdgrp>
         <trdgrp lng="fr">
           <trd>affect&eacute;<klr tip="ind"> (feint)</klr></trd>,

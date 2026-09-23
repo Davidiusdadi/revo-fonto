@@ -99,6 +99,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden zu einer bestimmten Handlungsweise geneigt machen, jemandem Lust zu etwas machen, jemanden in die passende Stimmung f&uuml;r etwas versetzen.</dif>
+    <trdgrp lng="en">
+      <trd fnt="AI: it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dispose</trd>,
+      <trd fnt="AI: nl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">attune</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>cambiar el humor o car&aacute;cter de alguien<klr tip="ind">
           (en c&oacute;lera, de buen humor, melanc&oacute;lico,
@@ -632,6 +636,7 @@
       </ekz>
     </dif>
   <trd lng="be">&c_a;&c_k;&c_o;&c_r;&c_d;</trd>
+  <trd lng="en" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">chord</trd>
   <trdgrp lng="id">
     <trd><baz>laras</baz>keselarasan</trd>,
     <trd><baz>suai</baz>kesesuaian</trd>,
@@ -867,6 +872,11 @@
   <trdgrp lng="de">
     <trd>Stimmung <klr>(Laune)</klr></trd>,
     <trd>Laune</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mood</trd>,
+    <trd fnt="AI: fr de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">frame of mind</trd>,
+    <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">state of mind</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;tat d'&acirc;me</trd>,

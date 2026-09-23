@@ -125,6 +125,10 @@
       <trd>&c_r;&c_o;&c_d;&c_n;&c_a;&c_s;&c_n;&c_y;</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verwandt</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: be de dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">related</trd>,
+      <trd fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">akin</trd>
+    </trdgrp>
     <trd lng="fr">affin</trd>
   </snc>
   <trdgrp lng="cs">

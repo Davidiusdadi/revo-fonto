@@ -478,6 +478,7 @@
     <trd>erbeuten</trd>,
     <trd>erjagen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: pl de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bag</trd>
   <trdgrp lng="es">
     <trd>capturar <klr>(una presa)</klr></trd>,
     <trd>dar caza</trd>
@@ -519,6 +520,7 @@
   </snc>
   <trd lng="be">&c_z;&c_d;&c_a;&c_b;&c_y;&c_ch;&c_a; <klr>(&c_z; &c_p;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>
   <trd lng="de">Jagdbeute</trd>
+  <trd lng="en" fnt="AI: de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bag</trd>
   <trdgrp lng="id">
     <trd><baz>buru</baz>buruan</trd>,
     <trd><baz>rampas</baz>rampasan</trd>,

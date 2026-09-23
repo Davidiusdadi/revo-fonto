@@ -363,6 +363,7 @@
       <aut>Sergio Pokrovskij</aut>
     </rim>
     <trd lng="de">Mittellinie</trd>
+    <trd lng="en" fnt="AI: de nl ru zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">centreline</trd>
     <trd lng="nl">middellijn</trd>
     <trdgrp lng="ru">
       <trd>&c_s;&c_r;&c_je;&c_d;&c_n;&c_ja;&c_ja; &c_l;&c_i;&c_n;&c_i;&c_ja;</trd>,
@@ -389,6 +390,10 @@
       <aut>Sergio Pokrovskij</aut>
     </rim>
     <trd lng="de">tragende <ind>S&auml;ule</ind></trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">backbone</trd>,
+      <trd fnt="AI: de ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mainstay</trd>
+    </trdgrp>
     <trd lng="ru">&c_s;&c_t;&c_je;&c_r;&c_zh;&c_je;&c_n;&c_mol;</trd>
     <trdgrp lng="zh">
     <trd>&#25903;&#25744;&#26609; <pr>zh&imacron;chengzh&ugrave;</pr></trd>,

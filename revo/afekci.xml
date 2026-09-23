@@ -36,6 +36,10 @@
       <trd>aufw&uuml;hlen</trd>,
       <trd>mitnehmen <klr>(Gef&uuml;hl)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">move</trd>,
+      <trd fnt="AI: de be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stir</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>commotionner<klr tip="ind"> (affectivement)</klr></trd>,
       <trd>choquer<klr tip="ind"> (affectivement)</klr></trd>,
@@ -323,6 +327,7 @@
       <trd>Beeintr&auml;chtigung <klr>(Gesundheit)</klr></trd>,
       <trd>St&ouml;rung <klr>(Gesundheit)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">disorder</trd>
     <trdgrp lng="fr">
       <trd>affection<klr tip="ind"> (maladie)</klr></trd>,
       <trd>maladie</trd>

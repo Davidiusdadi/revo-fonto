@@ -30,6 +30,10 @@
     <trd>&c_a;&c_gu;&c_a;</trd>
   </trdgrp>
   <trd lng="de">Agha</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr uk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">agha</trd>,
+    <trd fnt="AI: fr de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aga</trd>
+  </trdgrp>
   <trd lng="fr">aga</trd>
   <trd lng="uk">&c_a;&c_gu;&c_a; <klr>(&c_t;&c_u;&c_r;&c_je;&c_c;&c_mol;&c_k;&c_i;&c_j; &c_o;&c_f;&c_ib;&c_c;&c_je;&c_r;)</klr></trd>
 </drv>

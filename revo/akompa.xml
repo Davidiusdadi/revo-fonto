@@ -243,6 +243,10 @@
     <trd>&c_s;&c_u;&c_p;&c_o;&c_l;&c_mol;&c_n;&c_a;</trd>
   </trdgrp>
   <trd lng="de">zur <ind>Begleitung</ind></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr it de ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">along with</trd>,
+    <trd fnt="AI: it be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">together with</trd>
+  </trdgrp>
   <trd lng="fr">de <ind>compagnie</ind> avec</trd>
   <trdgrp lng="id">
     <trd><baz>damping</baz>didampingi<klr> (oleh)</klr></trd>,
@@ -296,6 +300,10 @@
   <trdgrp lng="de">
     <trd>in <ind>Begleitung</ind> von</trd>,
     <trd><ind>begleitet</ind> durch</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr it de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">accompanied by</trd>,
+    <trd fnt="AI: fr it ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in the company of</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>avec<klr tip="ind"> (en compagnie de)</klr></trd>,

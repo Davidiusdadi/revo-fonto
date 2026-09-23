@@ -421,6 +421,10 @@ quel)</klr></trd>,
      <trd fnt="AI: pl ru fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ohne jeden</trd>,
      <trd fnt="AI: pl ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ohne jeglichen</trd>
    </trdgrp>
+   <trdgrp lng="en">
+     <trd fnt="AI: ref pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">without any</trd>,
+     <trd fnt="AI: fr fi id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">without the slightest</trd>
+   </trdgrp>
    <trdgrp lng="fi">
      <trd>ilman ainoatakaan</trd>,
      <trd>ilman v&auml;h&auml;ist&auml;k&auml;&auml;n</trd>
