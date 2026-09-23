@@ -387,6 +387,7 @@
   </snc>
   <trd lng="be">&c_a;&c_d;&c_a;&c_p;&c_t;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="de">anpassbar</trd>
+  <trd lng="en" fnt="AI: de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">adaptable</trd>
   <trdgrp lng="id">
     <trd>dapat disesuaikan</trd>,
     <trd>dapat diadaptasikan</trd>
@@ -497,6 +498,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Angleichung an eine Situation, an einen Druck.</dif>
   </snc>
   <trd lng="de" fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anpassung</trd>
+  <trd lng="en" fnt="AI: fr id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">adaptation</trd>
   <trd lng="fr">adaptation</trd>
 <trdgrp lng="id">
   <trd>adaptasi</trd>,
@@ -520,6 +522,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich gern oder leicht anpassend.</dif>
   </snc>
   <trd lng="de" fnt="AI: fr id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anpassungsf&auml;hig</trd>
+  <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">adaptable</trd>
   <trd lng="fr">adaptatif</trd>
 <trd lng="id">adaptif</trd>
 </drv>
