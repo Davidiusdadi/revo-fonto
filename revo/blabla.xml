@@ -27,6 +27,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_b;&c_l;&c_a;-&c_b;&c_l;&c_a;!</trd>
+  <trd lng="de" fnt="AI: fr nl hu it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Blabla <klr>[ugs.]</klr></trd>
   <trd lng="fr">blabla</trd>
   <trd lng="hu">blabla</trd>
   <trd lng="it">bla bla</trd>
@@ -69,6 +70,11 @@
   <trdgrp lng="cs">
     <trd>tlachat</trd>,
     <trd>&zcaron;vanit</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr it cs dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schwafeln <klr>[ugs.]</klr></trd>,
+    <trd fnt="AI: pl cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">labern <klr>[ugs.]</klr></trd>,
+    <trd fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">quasseln <klr>[ugs.]</klr></trd>
   </trdgrp>
   <trdgrp lng="fa">
     <trd>&a_w;&a_r;&a_A;&a_j;&f_y; &f_k;&a_r;&a_d;&a_n;</trd>,

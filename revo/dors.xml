@@ -235,6 +235,7 @@
       <trd>part posterior</trd>,
       <trd>part del darrere</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: ru ca it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">R&uuml;ckseite</trd>
     <trd lng="fr">face<klr> (c&ocirc;t&eacute; face)</klr></trd>
     <trdgrp lng="it">
       <trd>dorso</trd>,
@@ -346,6 +347,7 @@
   <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;&c_a; &c_d;&c_a; &c_s;&c_mol;&c_p;&c_ib;&c_n;&c_y;</trd>
   <trd lng="ca">d'esquena <klr tip="amb">(l'un de l'altre o els uns dels altres)</klr></trd>
   <trd lng="cs">vzadu</trd>
+  <trd lng="de" fnt="AI: fr be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">R&uuml;cken an R&uuml;cken</trd>
   <trd lng="fr">dos &agrave; dos<klr> (adv.)</klr></trd>
   <trdgrp lng="id">
     <trd><ind>saling</ind> membelakangi</trd>,
@@ -465,6 +467,7 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;&c_o;&c_j; &c_d;&c_a;</trd>
 <trd lng="ca">d'esquena a</trd>
+  <trd lng="de" fnt="AI: be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mit dem R&uuml;cken zu</trd>
   <trdgrp lng="id">
   <trd>mundur</trd>,
   <trd><ind>ke</ind> belakang</trd>
@@ -497,6 +500,7 @@
     <trd>rere</trd>,
     <trd>darrere de</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter dem R&uuml;cken von</trd>
   <trdgrp lng="fr">
     <trd>dans le <ind>dos</ind> de</trd>,
     <trd>derri&egrave;re</trd>

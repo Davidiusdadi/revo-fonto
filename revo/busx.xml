@@ -120,6 +120,7 @@
       <trd>&c_r;&c_o;&c_t;</trd>,
       <trd>&c_v;&c_u;&c_s;&c_n;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en pl ru de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mund</trd>
     <trdgrp lng="pl">
       <trd>usta</trd>,
       <trd>buzia</trd>
@@ -180,6 +181,7 @@
       <trd>&c_r;&c_o;&c_t;</trd>,
       <trd>&c_v;&c_u;&c_s;&c_n;&c_y;</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: en nl hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mund</trd>
     <trd lng="hu">sz&aacute;j</trd>
     <trd lng="nl">mond</trd>
     <trdgrp lng="pl">
@@ -378,6 +380,7 @@
     </dif>
     <trd lng="be">&c_r;&c_o;&c_t;&c_a;&c_v;&c_y;</trd>
     <trd lng="br">-<ind>geno&ugrave;</ind></trd>
+    <trd lng="de" kod="FAK" fnt="AI: en it id fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">oral <klr>(fachspr.)</klr></trd>
     <trd lng="es">bucal</trd>
     <trd lng="fa">&a_d;&a_h;&a_A;&a_n;&f_y;</trd>
     <trd lng="hu">sz&aacute;j-</trd>
@@ -513,6 +516,7 @@
     <trd lng="be">&c_r;&c_o;&c_t;&c_a;&c_v;&c_y;</trd>
     <trd lng="br">-<ind>geno&ugrave;</ind><klr tip="ind">
     (soniadoniezh)</klr></trd>
+    <trd lng="de" kod="FAK" fnt="AI: es it hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">oral <klr>(fachspr.)</klr></trd>
     <trd lng="es">oral</trd>
     <trd lng="fa">&a_d;&a_h;&a_A;&a_n;&f_y;</trd>
     <trdgrp lng="hu">
@@ -624,6 +628,7 @@
       </ekz>
     </dif>
     <ref tip="sin" cel="fauxk.0o">fa&ubreve;ko</ref>
+    <trd lng="de" fnt="AI: en fr nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Maul</trd>
     <trd lng="zh">&#x89DC; <pr>zu&#x1D0;</pr></trd>
 </snc>
   <trd lng="be">&c_p;&c_a;&c_sh;&c_ch;&c_a;</trd>
@@ -799,6 +804,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: fr it pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aussprechen</trd>
     <trd lng="fa">&a_b;&a_r; <ind>&a_z;&a_b;&a_A;&a_n;</ind>
     &a_A_madda;&a_w;&a_r;&a_d;&a_n;</trd>
     <trdgrp lng="fr">
@@ -1172,6 +1178,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_v;&c_ja;&c_l;&c_ib;&c_k;&c_ib; <ind>&c_k;&c_a;&c_v;&c_a;&c_l;&c_a;&c_k;</ind> <klr>(&c_n;&c_a; &c_a;&c_d;&c_z;&c_ib;&c_n; &c_u;&c_k;&c_u;&c_s;)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">H&auml;ppchen</trd>,
+    <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Appetithappen</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bouch&eacute;e<klr> (petit four)</klr></trd>,
     <trd>canap&eacute;<klr> (petit four)</klr></trd>

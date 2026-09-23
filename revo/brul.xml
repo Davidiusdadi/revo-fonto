@@ -950,6 +950,11 @@
     <trd>&c_v;&c_o;&c_g;&c_n;&c_je;&c_n;&c_je;&c_b;&c_ja;&c_s;&c_mol;&c_p;&c_je;&c_ch;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="ca">inflamable</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr es ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entflammbar</trd>,
+    <trd fnt="AI: pl ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">leicht entz&uuml;ndlich</trd>,
+    <trd fnt="AI: ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">feuergef&auml;hrlich</trd>
+  </trdgrp>
   <trd lng="en">inflammable</trd>
   <trd lng="es">inflamable</trd>
   <trd lng="fr">inflammable</trd>
@@ -1436,6 +1441,11 @@
   <trdgrp lng="cs">
     <trd>odoln&yacute; proti ohni</trd>,
     <trd>ohnivzdorn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs sk ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">feuerfest</trd>,
+    <trd fnt="AI: en fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unbrennbar</trd>,
+    <trd fnt="AI: uk be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">feuerbest&auml;ndig</trd>
   </trdgrp>
   <trdgrp lng="en">
     <trd>fire-proof</trd>,

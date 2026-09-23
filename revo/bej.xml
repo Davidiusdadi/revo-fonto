@@ -26,6 +26,10 @@
     </dif>
     <trd lng="be">&c_b;&c_e;&c_j;</trd>
   <trd lng="ca">bei</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bei</trd>,
+    <trd fnt="AI: fr cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bey</trd>
+  </trdgrp>
   <trd lng="fr">bey</trd>
   <trd lng="pl">bej</trd>
   </snc>

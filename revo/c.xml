@@ -27,6 +27,7 @@
          absolut-solfe&gcirc;a do [anta&ubreve;e ut]): <ekz><tld lit="C"/> bemola,
          diesa;</ekz>
        </dif>
+       <trd lng="de" fnt="AI: dif fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">C</trd>
        <trdgrp lng="fr">
          <trd>do</trd>,
          <trd>ut</trd>
@@ -48,6 +49,7 @@
        <dif>
          (maj.) simbolo de karbono: <ekz>C;</ekz>
        </dif>
+       <trd lng="de" fnt="AI: fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kohlenstoff</trd>
        <trd lng="fr">carbone</trd>
        <trd lng="pl">w&eogonek;gla symbol</trd>
        <trd lng="ru">&c_u;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;<klr> (&c_v; &c_h;&c_i;&c_m;. &c_f;&c_o;&c_r;&c_m;&c_u;&c_l;&c_a;&c_h;)</klr></trd>
@@ -59,6 +61,7 @@
          el la plej uzataj lingvoj por verki
          ilprogramojn: <ekz>C-programo;</ekz>
        </dif>
+       <trd lng="de" fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">C</trd>
        <trd lng="fr">C<klr> (langage de programmation)</klr></trd>
        <trd lng="pl">C<klr> (j&eogonek;zyk programowania)</klr></trd>
        <trd lng="ru">&c_S;&c_i;<klr> (&c_ja;&c_z;&c_y;&c_k; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;)</klr></trd>
@@ -68,6 +71,7 @@
        <dif>
          (maj.) simbolo de <ctl>celsia</ctl>: <ekz>20&deg;C;</ekz>
        </dif>
+       <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Celsius</trd>
        <trd lng="fr">Celsius</trd>
        <trd lng="pl">stopie&nacute; Celsjusza</trd>
        <trd lng="ru"><klr>(&c_g;&c_r;&c_a;&c_d;&c_u;&c_s;&c_y; )&c_C;&c_je;&c_l;&c_mol;&c_s;&c_i;&c_ja;</klr></trd>
@@ -83,6 +87,7 @@
        <trd lng="pl">C<klr> (zbi&oacute;r liczb ca&lstroke;kowitych)</klr></trd>
     </subsnc>
 
+    <trd lng="de" fnt="AI: pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">C</trd>
     <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">cee</trd>
     <trd lng="fr">ts</trd>
     <trd lng="pl">c</trd>

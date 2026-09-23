@@ -169,6 +169,10 @@
     <trd>&c_m;&c_a;&c_g;&c_ib;&c_l;&c_mol;&c_n;&c_ja;</trd>,
     <trd>&c_s;&c_k;&c_l;&c_je;&c_p;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gruft</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Grabgew&ouml;lbe</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>sepulchre</trd>,
     <trd>crypt</trd>,

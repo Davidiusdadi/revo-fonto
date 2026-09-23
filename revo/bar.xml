@@ -784,6 +784,10 @@
       <ref cel="ferm.0ita.KOMUNE">fermita</ref>,
       <ref cel="lim.0igi">limigi</ref>ta
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abgesperrt</trd>,
+      <trd fnt="AI: pl id ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versperrt</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>bounded</trd>
       <trd>cordoned off</trd>

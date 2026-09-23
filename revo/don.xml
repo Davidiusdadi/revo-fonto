@@ -1255,6 +1255,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: en pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hinzuf&uuml;gung</trd>
     <trd lng="en">addition</trd>
     <trdgrp lng="hu">
       <trd>hozz&aacute;ad&aacute;s</trd>,
@@ -1307,6 +1308,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="de" fnt="AI: en hu pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beilage</trd>
       <trdgrp lng="en">
         <trd>addition</trd>,
         <trd>supplement</trd>
@@ -1366,6 +1368,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="de" fnt="AI: en hu id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anhang</trd>
       <trd lng="en">appendix</trd>
       <trd lng="hu">f&uuml;ggel&eacute;k</trd>
     <trd lng="id">apendiks</trd>
@@ -2258,6 +2261,7 @@
     <trd>p&rcaron;edat</trd>,
     <trd>zbavit se</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich hingeben</trd>
   <trd lng="en">to devote oneself</trd>
   <trd lng="fr">s'adonner</trd>
   <trdgrp lng="id">
@@ -2426,6 +2430,10 @@
     <refgrp tip="sin">
       <ref cel="pag.re0i">repagi</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erwidern</trd>,
+      <trd fnt="AI: en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vergelten</trd>
+    </trdgrp>
     <trdgrp lng="en">
       <trd>compensate</trd>,
       <trd>pay back</trd>

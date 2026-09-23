@@ -250,6 +250,10 @@
     <trd>fer-se clar</trd>,
     <trd>clarejar</trd>
   </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">d&auml;mmern</trd>,
+      <trd fnt="AI: pl es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tagen <klr>(gehoben)</klr></trd>
+    </trdgrp>
     <trd lng="es">amanecer</trd>
     <trdgrp lng="pl">
       <trd>&sacute;wita&cacute;</trd>,
@@ -274,6 +278,7 @@
       <trd>n&agrave;ixer</trd>,
       <trd>sorgir</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: fr ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anbrechen</trd>
     <trdgrp lng="fr">
       <trd>poindre</trd>,
       <trd>percer</trd>,

@@ -633,6 +633,11 @@
     <trd>hl&aacute;ska</trd>,
     <trd>zvuk</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;uschkonsonant</trd>,
+    <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Obstruent</trd>,
+    <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;uschlaut</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>sonido</trd>,
     <trd>fonema</trd>

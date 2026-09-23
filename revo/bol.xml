@@ -122,6 +122,7 @@
       <ref cel="fulm.0i">fulmi</ref>,
       <ref cel="eksplo.0i">eksplodi</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: pl fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">brodeln</trd>
     <trdgrp lng="fr">
       <trd>bouillir<klr tip="ind"> (piaffer)</klr></trd>,
       <trd>piaffer</trd>
@@ -175,6 +176,7 @@
     <refgrp tip="vid">
       <ref cel="sxauxm.0i.FIG">&scirc;a&ubreve;mi<sncref/></ref>
     </refgrp>
+    <trd lng="de" fnt="AI: pl fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sprudeln</trd>
     <trd lng="fr">bouillonner<klr tip="ind"> (fig.)</klr></trd>
     <trdgrp lng="pl">
       <trd>wrze&cacute;</trd>,
@@ -449,6 +451,10 @@
 <!--  ne traduku EVI
   <trd lng="he">&qof;&vav;&mem;&qof;&vav;&fmem;</trd>
 -->
+  <trdgrp lng="de">
+    <trd fnt="AI: ref id ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wasserkessel</trd>,
+    <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kessel</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>cerek</trd>,
     <trd>ketel</trd>,

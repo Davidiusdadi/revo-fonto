@@ -241,6 +241,10 @@
     <trd>&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_m;&c_a;&c_p;&c_e;&c_d;</trd>
   </trdgrp>
   <trd lng="ca">bicicleta el&egrave;ctrica</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Elektrofahrrad</trd>,
+    <trd fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">E-Bike</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>electric bicycle</trd>,
     <trd>e-bike</trd>

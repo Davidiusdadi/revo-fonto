@@ -103,6 +103,11 @@
   </snc>
   <trd lng="be">&c_k;&c_je;&c_d;&c_r; &c_e;&c_w;&c_r;&c_a;&c_p;&c_je;&c_j;&c_s;&c_k;&c_ib;</trd>
   <trd lng="ca">pi cembra</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: la hu it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zirbelkiefer</trd>,
+    <trd fnt="AI: la it; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zirbe</trd>,
+    <trd fnt="AI: la nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Arve</trd>
+  </trdgrp>
   <trd lng="hu">havasi <ind>cirbolyafeny&odblac;</ind></trd>
   <trdgrp lng="it">
     <trd>cembro</trd>,
@@ -133,6 +138,7 @@
   </snc>
   <trd lng="be">&c_k;&c_je;&c_d;&c_r; &c_s;&c_ib;&c_b;&c_ib;&c_r;&c_s;&c_k;&c_ib;</trd>
   <trd lng="ca">pi de Sib&egrave;ria</trd>
+  <trd lng="de" fnt="AI: la hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Sibirische Zirbelkiefer</trd>
   <trd lng="hu">szib&eacute;riai
   <ind>cirbolyafeny&odblac;</ind></trd>
   <trd lng="it"><ind>pino</ind> siberiano</trd>

@@ -194,6 +194,10 @@
   <trd lng="be">&c_r;&c_a;&c_s;&c_mol;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_ja;&c_k; &c_d;&c_e;&c_t;&c_e;&c_k;&c_t;&c_y;&c_w;)</klr></trd>
   <trd lng="ca">investigar</trd>
   <trd lng="cs">pracovat jako detektiv</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ca be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ermitteln</trd>,
+    <trd fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nachforschen</trd>
+  </trdgrp>
   <trd lng="sk">pracova&tcaron; ako detekt&iacute;v</trd>
 </drv>
 </art>

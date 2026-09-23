@@ -129,6 +129,10 @@
     <trd>pou&zcaron;&iacute;t asepsi</trd>,
     <trd>zbavit n&aacute;kazy</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">keimfrei machen</trd>,
+    <trd fnt="AI: hu fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entkeimen</trd>
+  </trdgrp>
   <trd lng="en">asepsis</trd>
   <trd lng="fr">aseptiser</trd>
   <trdgrp lng="hu">

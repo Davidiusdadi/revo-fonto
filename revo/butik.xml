@@ -102,6 +102,10 @@
       <ref tip="super" cel="komerc.0isto">Komercisto</ref>
       kiu funkciigas <tld/>on.
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: en nl fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ladenbesitzer</trd>,
+      <trd fnt="AI: en nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ladeninhaber</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x5973;&#x552E;&#x8CA8;&#x54E1; <pr>n&#x1DA;sh&#xF2;uhu&#xF2;yu&#xE1;n</pr></trd>,
     <trd>&#x51FA;&#x552E;&#x8CA8;&#x7269;&#x7684;&#x4EBA;
@@ -252,6 +256,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_n;&c_e;&c_t;-&c_k;&c_r;&c_a;&c_m;&c_a;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr pl nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Onlineshop</trd>,
+    <trd fnt="AI: nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Webshop</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>boutique en ligne</trd>,
     <trd>e-boutique</trd>

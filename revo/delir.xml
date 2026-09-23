@@ -50,6 +50,7 @@
       <trd>engrescar-se</trd>,
       <trd>tenir fal&middot;lera</trd>
     </trdgrp>
+  <trd lng="de" fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schw&auml;rmen</trd>
   <trdgrp lng="hu">
     <trd>&ouml;nk&iacute;v&uuml;letben van</trd>,
     <trd>l&aacute;zasan
@@ -68,6 +69,10 @@
       </ekz>
     </dif>
     <trd lng="ca">desvariar</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: ca pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spinnen <klr>[ugs.]</klr></trd>,
+      <trd fnt="AI: ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fantasieren</trd>
+    </trdgrp>
     <trd lng="pl">bredzi&cacute;</trd>
   </snc>
   <trd lng="be">&c_t;&c_r;&c_y;&c_z;&c_mol;&c_n;&c_ib;&c_c;&c_mol;</trd>
@@ -182,6 +187,10 @@
   </snc>
   <trd lng="be">&c_t;&c_r;&c_y;&c_z;&c_mol;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>
   <trd lng="ca">deliri</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wirres Zeug</trd>,
+    <trd fnt="AI: pl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gefasel <klr>[pej.]</klr></trd>
+  </trdgrp>
   <trd lng="en">crazy talk</trd>
   <trd lng="es">delirio</trd>
   <trdgrp lng="fr">

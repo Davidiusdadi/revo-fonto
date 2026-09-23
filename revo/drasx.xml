@@ -167,6 +167,10 @@
       </ekz>
     </dif>
     <trd lng="be">&c_m;&c_a;&c_l;&c_a;&c_c;&c_mol;&c_b;&c_a;</trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dreschen</trd>,
+      <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Drusch</trd>
+    </trdgrp>
     <trd lng="en">threshing</trd>
     <trdgrp lng="id">
       <trd><baz>irik</baz>pengirikan</trd>,
@@ -195,6 +199,10 @@
     <trdgrp lng="be">
       <trd>&c_l;&c_u;&c_p;&c_c;&c_o;&c_w;&c_k;&c_a;</trd>,
       <trd>&c_l;&c_a;&c_z;&c_mol;&c_n;&c_ja; <klr tip="amb">(&c_p;&c_je;&c_r;&c_a;&c_n;.)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dresche <klr>[ugs.]</klr></trd>,
+      <trd fnt="AI: en ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Tracht Pr&uuml;gel <klr>[ugs.]</klr></trd>
     </trdgrp>
     <trd lng="en">thrashing</trd>
     <trdgrp lng="id">
@@ -388,6 +396,7 @@
       <trd>&c_a;&c_b;&c_m;&c_a;&c_l;&c_a;&c_c;&c_ib;&c_c;&c_mol; <klr>(&c_c;&c_a;&c_l;&c_k;&c_a;&c_m;)</klr></trd>,
       <trd>&c_z;&c_m;&c_a;&c_l;&c_a;&c_c;&c_ib;&c_c;&c_mol;</trd>
     </trdgrp>
+  <trd lng="de" fnt="AI: en be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">ausdreschen</trd>
   <trd lng="en"><ind>thresh</ind> thoroughly</trd>
   <trdgrp lng="id">
     <trd><baz>irik</baz>mengirik hingga habis</trd>,

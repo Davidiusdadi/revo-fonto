@@ -673,6 +673,10 @@
       <trd>&c_p;&c_r;&c_y;&c_m;&c_u;&c_sh;&c_a;&c_c;&c_mol; <ind>&c_r;&c_a;&c_sh;&c_a;&c_c;&c_mol;</ind></trd>,
       <trd>&c_p;&c_a;&c_d;&c_sh;&c_t;&c_u;&c_r;&c_h;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol; &c_d;&c_a; <ind>&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bewegen</trd>,
+      <trd fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">veranlassen</trd>
+    </trdgrp>
     <trd lng="fr">d&eacute;cider<klr tip="amb"> (qn &agrave; faire qc)</klr></trd>
     <trd lng="hu">eld&ouml;ntet<klr tip="ind"> (vkivel vmit)</klr></trd>
     <trd lng="pl">nak&lstroke;ania&cacute;</trd>
@@ -706,6 +710,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_r;&c_a;&c_b;&c_ib;&c_c;&c_mol; <ind>&c_v;&c_y;&c_r;&c_a;&c_sh;&c_a;&c_n;&c_y;&c_m;</ind></trd>
+    <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entscheiden</trd>
     <trdgrp lng="en">
       <trd fnt="Vikt: fr; juĝis claude-opus-5">cause</trd>,
       <trd fnt="Vikt: fr; juĝis claude-opus-5">give rise to</trd>,
@@ -1026,6 +1031,7 @@
     <trd>&c_s;&c_v;&c_a;&c_ib;&c_m; <ind>&c_r;&c_a;&c_sh;&c_e;&c_n;&c_mol;&c_n;&c_je;&c_m;</ind></trd>,
     <trd>&c_s;&c_a;&c_m;&c_a;&c_ch;&c_y;&c_n;&c_n;&c_a;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von sich aus</trd>
   <trd lng="fr">de son propre chef</trd>
   <trdgrp lng="pl">
     <trd>wed&lstroke;ug w&lstroke;asnej <ind>decyzji</ind></trd>,

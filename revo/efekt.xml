@@ -314,6 +314,10 @@
     <trd>&c_p;&c_r;&c_y;&c_v;&c_a;&c_b;&c_n;&c_y;</trd>,
     <trd>&c_d;&c_a;&c_b;&c_r;&c_a;&c_d;&c_z;&c_je;&c_j;&c_n;&c_y;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: dif fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">effektvoll</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wirkungsvoll</trd>
+  </trdgrp>
   <trd lng="fr">attrayant</trd>
 </drv>
 

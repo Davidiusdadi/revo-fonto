@@ -782,6 +782,7 @@
       </ekz>
     </dif>
     <trd lng="ca">alliberar<klr tip="amb"> (d'una cadena)</klr></trd>
+    <trd lng="de" fnt="AI: pl it id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">losketten</trd>
     <trd lng="id"><baz>lepas</baz>melepas rantai</trd>
     <trdgrp lng="it">
      <trd><ind>liberare</ind> dalle catene</trd>,
@@ -906,6 +907,7 @@
       <trd>desencadenar-se</trd>,
       <trd>desfermar-se</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: fr ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">losbrechen</trd>
     <trd lng="fr">se d&eacute;cha&icirc;ner</trd>
     <trd lng="id">lepas dr tali kekang hewan</trd>
   </snc>
@@ -939,6 +941,10 @@
      </ekz>
    </dif>
    <trd lng="ca">alliberament<klr tip="amb"> (de les cadenes)</klr></trd>
+   <trdgrp lng="de">
+     <trd fnt="AI: fr pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Selbstbefreiung</trd>,
+     <trd fnt="AI: ca be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Befreiung</trd>
+   </trdgrp>
    <trd lng="fr">autolib&eacute;ration <klr>(de ses cha&icirc;nes)</klr></trd>
    <trd lng="id"><baz>bebas</baz>pembebasan diri dr belenggu</trd>
    <trdgrp lng="pl">
@@ -952,6 +958,7 @@
       Senbridi&gcirc;o.
     </dif>
     <trd lng="ca">desencadenament</trd>
+    <trd lng="de" fnt="AI: fr ca es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entfesselung</trd>
     <trd lng="fr">d&eacute;cha&icirc;nement</trd>
     <trd lng="id"><baz>bebas</baz>pembebasan hewan dr belenggu</trd>
   </snc>

@@ -746,6 +746,10 @@
           RE-vortoj</url></lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: ru fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">charakteristisch</trd>,
+      <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">distinktiv <klr>(gehoben)</klr></trd>
+    </trdgrp>
     <trd lng="fr">distinctif</trd>
     <trdgrp lng="pl">
       <trd>odr&oacute;&zdot;nialny</trd>,
@@ -810,6 +814,11 @@
       <ref cel="relief.0a">reliefa</ref>,
       <ref cel="vulgar.mal0a">malvulgara</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: ref pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hervorragend</trd>,
+      <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herausragend</trd>,
+      <trd fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausgezeichnet</trd>
+    </trdgrp>
     <trd lng="id"><baz>tonjol</baz>menonjol</trd>
     <trdgrp lng="pl">
       <trd>odznaczaj&aogonek;cy si&eogonek;</trd>,
@@ -1020,6 +1029,7 @@
       <ref cel="elit.0o">elito</ref>,
       <ref cel="krem.0o">kremo</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: ja ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">W&uuml;rdentr&auml;ger</trd>
     <trdgrp lng="pl">
       <trd><klr>cz&lstroke;owiek </klr>dystyngowany</trd>,
       <trd><klr>cz&lstroke;owiek </klr>odznaczony</trd>,

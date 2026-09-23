@@ -146,6 +146,10 @@
     <trd>&c_h;&c_l;&c_je;&c_w;</trd>,
     <trd>&c_s;&c_t;&c_a;&c_j;&c_n;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: hu nl pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zuchtbetrieb</trd>,
+    <trd fnt="AI: nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zuchtst&auml;tte</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>&eacute;levage<klr> (lieu)</klr></trd>
   </trdgrp>

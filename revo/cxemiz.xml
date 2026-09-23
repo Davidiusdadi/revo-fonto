@@ -130,6 +130,10 @@
   </snc>
   <trd lng="be">&c_p;&c_o;&c_l;&c_a; <klr tip="amb">(&c_k;&c_a;&c_sh;&c_u;&c_l;&c_ja;)</klr></trd>
   <trd lng="ca">polo<klr tip="amb"> (samarreta)</klr></trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr ja id ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Poloshirt</trd>,
+    <trd fnt="AI: fr ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Polohemd</trd>
+  </trdgrp>
   <trd lng="fr">chemise <ind>polo</ind></trd>
   <trdgrp lng="id">
     <trd><ind>kemeja</ind> polo</trd>,

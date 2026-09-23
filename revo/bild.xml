@@ -230,6 +230,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Metapher</trd>
     <trdgrp lng="en">
       <trd>image</trd>, <trd>picture</trd>
     </trdgrp>
@@ -284,6 +285,7 @@
 	<frm am="a"><k>a</k></frm> estas anka&ubreve; la nura elemento de la
 	<tld/>o de subaro <frm am="{a}">{<k>a</k>}</frm>.
       </rim>
+      <trd lng="de" fnt="AI: pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Funktionswert</trd>
       <trdgrp lng="pl">
 	<trd>obraz<klr tip="ind"> (elementu przez funkcj&eogonek;)</klr>
 	</trd>,
@@ -1681,6 +1683,7 @@
     </dif>
   </snc>
   <trd lng="ca">imatge <klr>(&#8800; antiimatge)</klr></trd>
+  <trd lng="de" fnt="AI: ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bild</trd>
   <trd lng="id"><ind>gambar</ind>an (langsung)</trd>
 </drv>
 </art>

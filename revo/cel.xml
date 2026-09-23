@@ -296,6 +296,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: cs sk hu en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gezielt</trd>
   <trd lng="en"><ind>purpose</ind>ful</trd>
   </snc>
   <trd lng="be">&c_z; <ind>&c_m;&c_e;&c_t;&c_a;&c_j;</ind></trd>
@@ -530,6 +531,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl hu fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Streben</trd>,
+    <trd fnt="AI: pl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bestreben</trd>
+  </trdgrp>
   <trd lng="en"><ind>aim</ind>ing at</trd>
   </snc>
   <trd lng="be">&c_ib;&c_m;&c_k;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je; &c_d;&c_a;
@@ -755,6 +760,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" kod="FAK" fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">autotelisch <klr>(fachspr.)</klr></trd>
   <trd lng="en">autotelic</trd>
   </snc>
   <trd lng="be">&c_ja;&c_k;&c_ib; &c_jo;&c_s;&c_mol;&c_c;&c_mol;
@@ -884,6 +890,10 @@
         </fnt>.
       </ekz>
     </dif>
+  <trdgrp lng="de">
+    <trd fnt="AI: ca fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herumlungern <klr>[ugs.]</klr></trd>,
+    <trd fnt="AI: en fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umherstreifen</trd>
+  </trdgrp>
   <trd lng="en">wander <klr>(aimlessly)</klr></trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_d;&c_z;&c_ja;&c_c;&c_c;&c_a; &c_b;&c_ja;&c_z;

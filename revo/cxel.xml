@@ -271,6 +271,7 @@
     <ref tip="dif" cel="hist.0o">histo</ref>
     <trd lng="be">&c_t;&c_k;&c_a;&c_n;&c_k;&c_a;</trd>
     <trd lng="ca">teixit</trd>
+    <trd lng="de" fnt="AI: ref en fr it nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gewebe</trd>
     <trd lng="es">tejido</trd>
     <trd lng="fr">tissu<klr tip="ind"> (cellulaire)</klr></trd>
     <trd lng="he">&qof;&bet;&vav;&tsadi;&tav; &tav;&alef;&yod;&fmem;</trd>
@@ -328,6 +329,7 @@
     <trd>c&egrave;l&middot;lula glial</trd>,
     <trd>c&egrave;l&middot;lula de neur&ograve;glia</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: en fr ca es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gliazelle</trd>
   <trd lng="en">glial cell</trd>
   <trdgrp lng="es">
     <trd>c&eacute;lula glial</trd>,
@@ -362,6 +364,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_ib;&c_m;&c_u;&c_n;&c_n;&c_a;&c_ja; &c_k;&c_l;&c_je;&c_t;&c_k;&c_a;</trd>
+  <trd lng="de" fnt="AI: en fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Immunzelle</trd>
   <trd lng="en">immune cell</trd>
   <trd lng="fr">cellule immunitaire</trd>
   <trd lng="nl">immuuncel</trd>
@@ -390,6 +393,7 @@
   </snc>
   <trd lng="be">&c_l;&c_ib;&c_m;&c_f;&c_a;&c_c;&c_y;&c_t;</trd>
   <trd lng="ca">limf&ograve;cit</trd>
+  <trd lng="de" fnt="AI: en fr es nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lymphozyt</trd>
   <trd lng="en">lymphocyte</trd>
   <trd lng="es">linfocito</trd>
   <trd lng="fr">lymphocyte</trd>
@@ -417,6 +421,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_m;&c_e;&c_l;&c_ja;&c_n;&c_a;&c_c;&c_y;&c_t;</trd>
+  <trd lng="de" fnt="AI: en fr es nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Melanozyt</trd>
   <trd lng="en">melanocyte</trd>
   <trd lng="es">melanocito</trd>
   <trd lng="fr">m&eacute;lanocyte</trd>
@@ -923,6 +928,10 @@
     <trdgrp lng="ca">
       <trd>gl&ograve;bul roig</trd>,
       <trd>eritr&ograve;cit</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en fr nl pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">rotes Blutk&ouml;rperchen</trd>,
+      <trd fnt="AI: en fr es pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erythrozyt</trd>
     </trdgrp>
     <trdgrp lng="en">
       <trd>red blood cell</trd>,

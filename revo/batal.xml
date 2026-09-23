@@ -1067,6 +1067,7 @@
     <ref cel="batal.kontraux0i.KOMUNE">kontra&ubreve;<tld/>i</ref>
   </refgrp>
   <trd lng="be">&c_z;&c_m;&c_a;&c_g;&c_a;&c_c;&c_c;&c_a; &c_r;&c_a;&c_z;&c_a;&c_m;</trd>
+  <trd lng="de" fnt="AI: fr pl id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mitk&auml;mpfen</trd>
   <trd lng="fr">combattre ensemble</trd>
   <trdgrp lng="id">
     <trd><baz>juang</baz>berjuang bersama</trd>,
@@ -1227,6 +1228,10 @@
       <ref cel="polemi.0i">polemiki</ref>,
       <ref cel="argume.0i">argumenti</ref>
     </refgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: en ru es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">streiten</trd>,
+      <trd fnt="AI: fr ru be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">polemisieren</trd>
+    </trdgrp>
     <trd lng="zh">&#25260;&#26464; <pr>t&aacute;ig&agrave;ng</pr></trd>
   </snc>
   <trdgrp lng="be">

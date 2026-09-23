@@ -177,6 +177,10 @@
     <trd>autoritari</trd>,
     <trd>dominant</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: es fr pl ru sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">diktatorisch</trd>,
+    <trd fnt="AI: en sk ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herrisch</trd>
+  </trdgrp>
   <trd lng="en">overbearing</trd>
   <trd lng="es">dictatorial</trd>
   <trd lng="fr">dictatorial<klr tip="ind"> (fig.)</klr></trd>

@@ -155,6 +155,10 @@
     <ref tip="dif" cel="bart.0o">barto</ref>
   <trd lng="be">&c_k;&c_ib;&c_t;&c_o;&c_v;&c_y; &c_v;&c_u;&c_s;</trd>
   <trd lng="ca">barba</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl ru ro ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Fischbein</trd>,
+    <trd fnt="AI: ref nl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Barte</trd>
+  </trdgrp>
   <trdgrp lng="hu">
     <trd>halcsontlemez</trd>,
     <trd>szila</trd>
@@ -206,6 +210,7 @@
           ref="&WCW;/File:Baleine_%C3%A0_bosse_et_son_baleineau_2.jpg">&WCW;/File:Baleine_&agrave;_bosse_et_son_baleineau_2.jpg</url></lok>
         </fnt>
     </bld>
+    <trd lng="de" fnt="AI: fr ca ro la; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Buckelwal</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_g;&c_a;&c_r;&c_b;&c_a;&c_t;&c_y; <ind>&c_k;&c_ib;&c_t;</ind></trd>,

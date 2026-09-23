@@ -337,6 +337,10 @@
       <trd>enfora</trd>,
       <trd>a fora</trd>
     </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aus &#x2026; hinaus</trd>,
+      <trd fnt="AI: ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nach au&szlig;erhalb</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>hors de<klr tip="ind"> (avec mouvement vers)</klr></trd>,
       <trd>au dehors de<klr tip="ind"> (avec mouvement vers)</klr></trd>,
@@ -628,6 +632,11 @@
   </trdgrp>
   <trd lng="ca">cap a fora</trd>
   <trd lng="cs">ven</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en cs sk ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinaus</trd>,
+    <trd fnt="AI: en es uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nach drau&szlig;en</trd>,
+    <trd fnt="AI: en sv es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nach au&szlig;en</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>out</trd>,
     <trd>outside</trd>
@@ -1062,6 +1071,7 @@
     <trd>&c_e;&c_k;&c_s;&c_t;&c_r;&c_a;-</trd>
   </trdgrp>
   <trd lng="ca">extra- <klr>(fora)</klr></trd>
+  <trd lng="de" fnt="AI: ca be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">au&szlig;er-</trd>
 </drv>
 </subart>
 </art>

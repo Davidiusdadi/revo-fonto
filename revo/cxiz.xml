@@ -110,6 +110,7 @@
     <uzo tip="fak">BELE</uzo>
     <ref tip="dif" cel="cizel.0i.FIG">cizeli</ref>
     <trd lng="be">&c_ch;&c_a;&c_k;&c_a;&c_n;&c_ib;&c_c;&c_mol;</trd>
+    <trd lng="de" fnt="AI: ref ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausfeilen</trd>
     <trd lng="pl">cyzelowa&cacute;</trd>
     <trd lng="ro">cizel&abreve;</trd>
   </snc>
@@ -282,6 +283,7 @@
     <trd>&c_d;&c_o;&c_l;&c_a;&c_t;&c_k;&c_a;</trd>,
     <trd>&c_r;&c_a;&c_z;&c_je;&c_c;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: uk pl it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Grabstichel</trd>
   <trd lng="en">mini-<ind>chisel</ind></trd>
   <trd lng="fr">ciselet</trd>
   <trd lng="hu">cizell&aacute;l&oacute; v&eacute;s&odblac;</trd>
@@ -315,6 +317,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_ch;&c_e;&c_s;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_a;&c_p;&c_r;. &c_k;&c_a;&c_m;&c_je;&c_n;&c_mol;)</klr></trd>
+  <trdgrp lng="de">
+    <trd kod="FAK" fnt="AI: it fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bossieren <klr>(fachspr.)</klr></trd>,
+    <trd fnt="AI: ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">behauen</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>fa&ccedil;onner<klr tip="ind"> (au ciseau, sur le
     pourtour)</klr></trd>,
@@ -354,6 +360,10 @@
     </dif>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ja;&c_r; &c_p;&c_a; &c_k;&c_a;&c_m;&c_je;&c_n;&c_ib;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steinmetz</trd>,
+    <trd fnt="AI: pl ro be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steinbildhauer</trd>
+  </trdgrp>
   <trd lng="fr">tailleur de pierre</trd>
   <trd lng="pl">rze&zacute;biarz w kamieni</trd>
   <trd lng="ro">sculptor &icirc;n piatr&abreve;</trd>

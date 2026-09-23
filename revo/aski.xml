@@ -81,6 +81,7 @@
       <trd>presentar en <ind>ASCII</ind></trd>,
       <trd>passar a <ind>ASCII</ind></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: nl hu ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in ASCII umwandeln</trd>
     <trd lng="en">ASCIIze</trd>
     <trd lng="fr">ASCIIfier</trd>
     <trd lng="hu">&aacute;talak&iacute;t <ind>ASCII-v&eacute;</ind></trd>

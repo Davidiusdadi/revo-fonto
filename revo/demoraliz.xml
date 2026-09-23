@@ -79,6 +79,10 @@
   <trd lng="be">&c_d;&c_e;&c_m;&c_a;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_c;
   &c_y;&c_ja;</trd>
   <trd lng="cs">demoralizace</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr cs pl sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Demoralisierung</trd>,
+    <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entmutigung</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;moralisation</trd>
   <trdgrp lng="pl">
     <trd>demoralizacja</trd>,

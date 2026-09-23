@@ -27,6 +27,7 @@
        (maj.) nomo de la dua tono de la C-ma&jcirc;ora gamo (294 Hz;
        absolut-solfe&gcirc;a re): <ekz><tld lit="D"/> bemola, diesa;</ekz>
        </dif>
+       <trd lng="de" fnt="AI: dif fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">D</trd>
        <trd lng="es">r&eacute;<klr> (en la notaci&oacute;n alfab&eacute;tica de
          solfeo)</klr></trd>
        <trd lng="fr">r&eacute;</trd>
@@ -44,6 +45,7 @@
        <dif>
        (maj.) simbolo de de&ubreve;terio: <ekz>D;</ekz>
        </dif>
+       <trd lng="de" fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Deuterium</trd>
        <trd lng="es">deuterio</trd>
        <trd lng="fr">deut&eacute;rium</trd>
     </subsnc>
@@ -60,9 +62,14 @@
        <dif>
        (maj.) mallongigo de deklinacio magneta: <ekz>D.</ekz>
        </dif>
+       <trdgrp lng="de">
+         <trd fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">magnetische Deklination</trd>,
+         <trd kod="FAK" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Missweisung <klr>(fachspr.)</klr></trd>
+       </trdgrp>
        <trd lng="es">declinaci&oacute;n magn&eacute;tica</trd>
        <trd lng="fr">d&eacute;clinaison magn&eacute;tique</trd>
     </subsnc>
+    <trd lng="de" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">D</trd>
     <trd lng="en" fnt="Vikt: en fr; juĝis claude-opus-5">dee</trd>
   </snc>
   <ref tip="hom" cel="do.0">do (konj., adv.)</ref>

@@ -230,6 +230,10 @@
       Interkvereleti.
     </dif>
     <trd lng="be">&c_p;&c_ib;&c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a; <klr tip="amb">(&c_s;&c_v;&c_a;&c_r;&c_y;&c_c;&c_c;&c_a;)</klr></trd>
+    <trdgrp lng="de">
+      <trd fnt="AI: fr hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich zanken</trd>,
+      <trd fnt="AI: hu fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich kabbeln <klr>[ugs.]</klr></trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>se prendre le <ind>bec</ind></trd>,
       <trd>se <ind>quereller</ind></trd>
@@ -260,6 +264,7 @@
   </snc>
   <trd lng="be">&c_g;&c_je;&c_r;&c_a;&c_n;&c_mol;</trd>
   <trd lng="br">geraniom</trd>
+  <trd lng="de" fnt="AI: ref nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Storchschnabel</trd>
   <trd lng="es">geranio</trd>
   <trd lng="hu">g&oacute;lyaorr</trd>
   <trd lng="id">geranium</trd>

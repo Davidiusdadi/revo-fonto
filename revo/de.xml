@@ -1138,6 +1138,7 @@
     <trd>od <klr>(odd&ecaron;lov&aacute;n&iacute;)</klr></trd>,
     <trd>z (n&ecaron;&ccaron;eho)</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: fr ru cs sk pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von</trd>
   <trdgrp lng="es">
       <trd>de<klr tip="ind"> (separaci&oacute;n)</klr></trd>
     </trdgrp>
@@ -1401,6 +1402,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="de">
+      <trd fnt="AI: pl en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aus</trd>,
+      <trd fnt="AI: en pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von</trd>
+    </trdgrp>
     <trd lng="en">from <klr>(in space)</klr></trd>
     <trd lng="pl">z</trd>
   </snc>
@@ -1426,6 +1431,7 @@
         </fnt>.
       </ekz>
     </dif>
+  <trd lng="de" fnt="AI: en fr es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von</trd>
   <trd lng="en">from <klr>(origin)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -1466,6 +1472,7 @@
   <trd lng="en">since <klr>(starting from a time)</klr></trd>
   </snc>
   <trd lng="be">&c_u;&c_zh;&c_o; &c_a;&c_d;</trd>
+  <trd lng="de" fnt="AI: hu pl be en ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">schon seit</trd>
   <trdgrp lng="es">
     <trd>desde ahora</trd>
   </trdgrp>
@@ -1544,6 +1551,7 @@
     <trd>&c_u;&c_zh;&c_o; &c_z;</trd>,
     <trd>&c_u;&c_zh;&c_o; &c_a;&c_d;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: hu pl fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gleich von ... an</trd>
   <trdgrp lng="es">
     <trd>desde ahora</trd>,
     <trd>tan pronto como</trd>

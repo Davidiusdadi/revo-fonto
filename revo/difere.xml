@@ -749,6 +749,10 @@
     <trd>&c_a;&c_s;&c_a;&c_b;&c_l;&c_ib;&c_v;&c_a;&c_ja; <ind>&c_r;&c_y;&c_s;&c_a;</ind></trd>,
     <trd>&c_a;&c_d;&c_z;&c_n;&c_a;&c_k;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref en pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Unterscheidungsmerkmal</trd>,
+    <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Merkmal</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>distinction</trd>,
     <trd>differentiation</trd>
@@ -803,6 +807,10 @@
   </trdgrp>
   <trd lng="ca">indistint</trd>
   <trd lng="cs">nerozd&iacute;ln&yacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: cs sk ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unterschiedslos</trd>,
+    <trd fnt="AI: en fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">undifferenziert</trd>
+  </trdgrp>
   <trd lng="en">undifferentiated</trd>
   <trdgrp lng="fr">
     <trd>indiff&eacute;rent</trd>,
@@ -857,6 +865,11 @@
   <trd lng="be">&c_u; <ind>&c_a;&c_d;&c_r;&c_o;&c_z;&c_mol;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</ind>
   &c_a;&c_d;</trd>
   <trd lng="ca">a la difer&egrave;ncia de</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Gegensatz zu</trd>,
+    <trd fnt="AI: fr ca pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Unterschied zu</trd>,
+    <trd fnt="AI: en dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anders als</trd>
+  </trdgrp>
   <trdgrp lng="en">
     <trd>different from</trd>,
     <trd>unlike</trd>, <trd>differently than</trd>

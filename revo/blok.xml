@@ -221,6 +221,7 @@
     <trd>&c_b;&c_l;&c_jo;&c_k;</trd>,
     <trd>&c_k;&c_a;&c_a;&c_l;&c_ib;&c_c;&c_y;&c_ja;</trd>
   </trdgrp>
+  <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;ndnis</trd>
   <trd lng="id">koalisi</trd>
   </snc>
   <trd lng="af">blok</trd>
@@ -657,6 +658,10 @@
       </ekz>
     </dif>
   </snc>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Skizzenblock</trd>,
+    <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zeichenblock</trd>
+  </trdgrp>
   <trd lng="fr">bloc &agrave; dessin</trd>
 <trd lng="id">buku gambar</trd>
 </drv>

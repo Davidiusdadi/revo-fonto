@@ -418,6 +418,7 @@
       <ref cel="tabel.0o.KOMP">tabelo</ref>: 1 por vektoro, 2 por
       matrico ktp.
     </dif>
+    <trd lng="de" fnt="AI: es fr cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dimension</trd>
     <trd lng="en">dimensionality</trd>
     <trd lng="es">dimensi&oacute;n</trd>
     <trd lng="fr">dimension</trd>
@@ -436,6 +437,7 @@
     <ref tip="dif" cel="dimens.0o.vektoraspaco">
     <tld/>o <sncref ref="dimens.0o.vektoraspaco"/>.
     </ref>
+    <trd lng="de" fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dimension</trd>
     <trd lng="hu">dimenzi&oacute;</trd>
     <trd lng="ru">&c_r;&c_a;&c_z;&c_m;&c_je;&c_r;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>

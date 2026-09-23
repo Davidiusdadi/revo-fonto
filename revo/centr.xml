@@ -61,6 +61,7 @@
     <refgrp tip="ant">
       <ref cel="rand.0o.KOMUNE">rando</ref>
     </refgrp>
+    <trd lng="de" fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitte</trd>
     <trd lng="id">tengah</trd>
     <trdgrp lng="no">
       <trd>middelpunkt</trd>,
@@ -212,6 +213,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="de" fnt="AI: pl no id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitte</trd>
     <trd lng="id">tengah<klr> (politik)</klr></trd>
     <trd lng="no">sentrum</trd>
     <trdgrp lng="pl">
@@ -401,6 +403,7 @@
     </dif>
   </snc>
   <trd lng="be">&c_u; <ind>&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;</ind> &#8230;</trd>
+  <trd lng="de" fnt="AI: fr ru be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">im Zentrum von</trd>
   <trd lng="fr">au centre de</trd>
   <trdgrp lng="id">
     <trd>di pusat</trd>,
@@ -528,6 +531,7 @@
       </ekz>
     </dif>
     <trd lng="be">&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
+    <trd lng="de" fnt="AI: fr be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zentrismus</trd>
     <trd lng="fr">centrisme</trd>
   <trd lng="id">sentrisme</trd>
   </snc>
@@ -547,6 +551,7 @@
     </dif>
   <trd
   lng="be">&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
+  <trd lng="de" fnt="AI: id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zentralismus</trd>
   <trd lng="id">sentralisme</trd>
   </snc>
 </drv>
@@ -627,6 +632,7 @@
   </snc>
   <trd lng="be">&c_g;&c_a;&c_n;&c_d;&c_l;&c_jo;&c_v;&c_y;
   <ind>&c_c;&c_e;&c_n;&c_t;&c_a;&c_r;</ind></trd>
+  <trd lng="de" fnt="AI: fr ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Einkaufszentrum</trd>
   <trd lng="fr">centre commercial</trd>
   <trdgrp lng="id">
     <trd>mal</trd>,
@@ -677,6 +683,10 @@
   <trdgrp lng="cs">
     <trd>excentrick&yacute;</trd>,
     <trd>nesoust&rcaron;edn&yacute;</trd>
+  </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr it hu cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">exzentrisch</trd>,
+    <trd fnt="AI: hu pl sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">au&szlig;ermittig</trd>
   </trdgrp>
   <trdgrp lng="fr">
   <trd>excentrique<klr tip="ind"> (subst., tech.)</klr></trd>,
@@ -802,6 +812,10 @@
     <trd>convergir</trd>,
     <trd>reunir-se</trd>
   </trdgrp>
+  <trdgrp lng="de">
+    <trd fnt="AI: ref fr it pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich konzentrieren</trd>,
+    <trd fnt="AI: it ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich sammeln</trd>
+  </trdgrp>
   <trdgrp lng="fr">
   <trd>se concentrer</trd>
   </trdgrp>
@@ -838,6 +852,7 @@
   </snc>
   <trd lng="be">&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
   <trd lng="ca">antropocentrisme</trd>
+  <trd lng="de" fnt="AI: en fr es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anthropozentrismus</trd>
   <trdgrp lng="en">
     <trd>anthropocentrism</trd>,
     <trd>humanocentrism</trd>
@@ -896,6 +911,7 @@
       <trd>exc&egrave;ntric</trd>,
       <trd>perif&egrave;ric</trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: fr ca ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">peripher</trd>
     <trdgrp lng="en">
       <trd fnt="Vikt: fr; juĝis claude-opus-5">off-center</trd>,
       <trd fnt="Vikt: fr; juĝis claude-opus-5">off-centre <klr>(British)</klr></trd>
@@ -926,6 +942,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
       <trd>descentralitzat</trd>,
       <trd>en <ind>xarxa</ind></trd>
     </trdgrp>
+    <trd lng="de" fnt="AI: fr ca be ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dezentral</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;centralis&eacute;</trd>,
       <trd>en <ind>r&eacute;seau</ind></trd>
@@ -959,6 +976,10 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
     <ref cel="mem.0ismo.PSI">memismo</ref>
   </refgrp>
   <trd lng="be">&c_e;&c_g;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: be fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Egozentrik</trd>,
+    <trd fnt="AI: be fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Egozentrismus</trd>
+  </trdgrp>
   <trd lng="fr">autocentrisme</trd>
 <trd lng="id">autosentrisme</trd>
 </drv>
@@ -984,6 +1005,10 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
     <trdgrp lng="ca">
       <trd>centre de massa</trd>,
       <trd>centre de gravetat</trd>
+    </trdgrp>
+    <trdgrp lng="de">
+      <trd fnt="AI: cs hu fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schwerpunkt</trd>,
+      <trd fnt="AI: ca pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Massenmittelpunkt</trd>
     </trdgrp>
     <trd lng="fr"><ind>centre</ind> de gravit&eacute;</trd>
     <trd lng="id">pusat massa</trd>
@@ -1262,6 +1287,10 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
   </snc>
   <trd lng="be">&c_g;&c_je;&c_a;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
   <trd lng="ca">geocentrisme</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: fr ca nl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geozentrismus</trd>,
+    <trd fnt="AI: ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">geozentrisches Weltbild</trd>
+  </trdgrp>
   <trd lng="fr">g&eacute;ocentrisme</trd>
   <trd lng="id">geosentrisme</trd>
   <trd lng="nl">geocentrisme</trd>

@@ -74,6 +74,10 @@
         <ref tip="vid" cel="dromed.0o.ZOO">dromedaro</ref>
         <trd lng="be">&c_b;&c_a;&c_k;&c_t;&c_r;&c_y;&c_ja;&c_n;</trd>
         <trd lng="ca"><ind>camell</ind> bactri&agrave;</trd>
+        <trdgrp lng="de">
+          <trd fnt="AI: en pl la; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Trampeltier</trd>,
+          <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zweih&ouml;ckriges Kamel</trd>
+        </trdgrp>
         <trdgrp lng="pl">
           <trd>baktrian</trd>,
           <trd>wielb&lstroke;&aogonek;d dwugrabny</trd>

@@ -179,6 +179,7 @@
       <trd>mella&ntilde;<klr tip="ind"> (koubla&ntilde;)</klr></trd>
     </trdgrp>
     <trd lng="ca">articular</trd>
+    <trd lng="de" fnt="AI: cs sk hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gelenkig verbinden</trd>
     <trd lng="en">hinge</trd>
     <trdgrp lng="hu">
       <trd>csukl&oacute;san k&ouml;t</trd>,
@@ -496,6 +497,10 @@
   </snc>
   <trd lng="be">&c_m;&c_je;&c_s;&c_c;&c_a; <ind>&c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_y;&c_ib;</ind></trd>
   <trd lng="ca">punt d'articulaci&oacute;</trd>
+  <trdgrp lng="de">
+    <trd fnt="AI: en fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Artikulationsstelle</trd>,
+    <trd fnt="AI: en it ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Artikulationsort</trd>
+  </trdgrp>
   <trd lng="en"><ind>articulation</ind> point</trd>
   <trd lng="es">punto de articulaci&oacute;n</trd>
   <trd lng="fr">point d'articulation</trd>
