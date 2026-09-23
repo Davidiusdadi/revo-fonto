@@ -14,6 +14,7 @@
       Variablo a&ubreve; konstanto aperanta en iuj matematikaj problemoj
       a&ubreve; ekvacioj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Variable oder Konstante, die in bestimmten mathematischen Aufgaben oder Gleichungen vorkommt.</dif>
     <rim>
       Kiel evidentas el la <ctl>difino</ctl>, la nocio estas nebula.
       Kiam
@@ -48,6 +49,7 @@
         <tld/>o.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kegelschnitts) Die Zahl p, die in seiner Polargleichung vorkommt.</dif>
     <trd lng="de">Parameter<klr tip="ind"> (eines
     Kegelschnittes)</klr></trd>
     <trd lng="en">focal <ind>parameter</ind></trd>
@@ -111,6 +113,7 @@
         &c_p;&c_a;&c_r;&c_a;&c_m;&c_je;&c_t;&c_r;&c_o;&c_v;</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Benanntes Argument oder Ergebnis einer Prozedur, Teil ihrer Schnittstelle.</dif>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_r;&c_a;&c_m;&c_e;&c_t;&c_a;&c_r;</trd>
   <trd lng="ca">par&agrave;metre</trd>

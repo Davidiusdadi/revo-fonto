@@ -37,6 +37,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeitlich geordnete Liste der zu erledigenden Dinge, der Aufgaben.</dif>
     <subsnc mrk="progra.0o.POL">
       <uzo tip="fak">POL</uzo>
       <dif>
@@ -86,6 +87,7 @@
         </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Politische Agenda; der konkrete Plan einer Partei, eines Vereins usw.</dif>
     </subsnc>
     <subsnc mrk="progra.0o.prezenta">
       <uzo tip="fak">TEA</uzo><uzo tip="fak">TEL</uzo><uzo tip="fak">RAD</uzo>
@@ -113,6 +115,7 @@
         </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Liste der darzubietenden St&uuml;cke.</dif>
     </subsnc>
     <subsnc mrk="progra.0o.komp">
       <uzo tip="fak">KOMP</uzo>
@@ -212,6 +215,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beschreibung der von einem Computer auszuf&uuml;hrenden Handlungen, in einer Programmiersprache oder in seinem Maschinencode.</dif>
       <ref tip="super" cel="algor.0o">algoritmo</ref>
       <refgrp tip="vid">
         <ref cel="bind.0ilo">bindilo</ref>,

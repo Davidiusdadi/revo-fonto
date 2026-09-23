@@ -41,6 +41,7 @@
         <fnt><bib>ChV</bib> <lok>15</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Best&auml;tigend.</dif>
     <refgrp tip="vid">
       <ref cel="aprob.0a">aproba</ref>,
       <ref cel="instig.0i.iun_al_io">instigi<sncref/></ref>,
@@ -89,6 +90,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Real, praktisch verwirklicht oder verwirklichbar.</dif>
     <refgrp tip="vid">
       <ref cel="pragma.0a">pragmata</ref>,
       <ref cel="prakti.0a">praktika</ref>
@@ -139,6 +141,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nur auf Wirklichem, auf Tatsachen und Experimenten beruhend (im Gegensatz zu theoretisch, normativ).</dif>
     <refgrp tip="vid">
       <ref cel="aplik.0i">aplikata</ref>,
       <ref cel="objekt1.0a.FIL">objektiva<sncref/></ref>
@@ -157,6 +160,7 @@
         <tld/>a adjektivo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Eigenschaft einfach aussagend, ohne jeden Vergleich.</dif>
     <refgrp tip="vid">
       <ref cel="kompar1.0o">komparacio</ref>,
       <ref cel="kompar2.0o">komparativo</ref>,
@@ -171,6 +175,7 @@
     <dif>
       Difinanta unu el du komplementaj statoj (kontraste al negativa).
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen von zwei komplement&auml;ren Zust&auml;nden bezeichnend (im Gegensatz zu negativ).</dif>
     <subsnc mrk="poziti.0a.SCI">
       <uzo tip="fak">SCI</uzo>
       <dif>
@@ -181,6 +186,7 @@
           <fnt><bib>ChR</bib> <lok>Tri estas tro</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Testergebnis) Das Vorhandensein der untersuchten Eigenschaft, Krankheit usw. best&auml;tigend.</dif>
     </subsnc>
     <subsnc mrk="poziti.0a.FOT">
       <uzo tip="fak">FOT</uzo>
@@ -196,6 +202,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kennzeichnet ein Bild, dessen Farben und Helligkeiten denen des wiedergegebenen Bildes entsprechen.</dif>
       <trd lng="de">positiv</trd>
       <trd lng="ru">&c_p;&c_o;&c_z;&c_i;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
     </subsnc>
@@ -216,6 +223,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch eine Ladung gekennzeichnet, die der Ladung der Elektronen entgegengesetzt ist (positive Ladung, Elektrode, Pol usw.).</dif>
       <trd lng="de">positiv</trd>
       <trd lng="ru">&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
     </subsnc>
@@ -237,6 +245,7 @@
           kvadrato de reelo estas &ccirc;iam <tld/>a.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Zahl oder einem Element eines geordneten, additiv geschriebenen Monoids) Gr&ouml;&szlig;er als null.</dif>
       <ref tip="ant" cel="negati.0a.nombro">negativa<sncref/></ref>
       <rim>
         Kiel por &ccirc;iu <ref cel="rilat.ordo0o">ordo-rilato</ref>
@@ -257,6 +266,7 @@
         de &gcirc;ia asociita endomorfio estas <tld/>a
         <sncref ref="poziti.0a.nombro"/>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer affinen Isometrie) So beschaffen, dass die Determinante des zugeh&ouml;rigen Endomorphismus positiv ist.</dif>
       <ref tip="ant" cel="negati.0a.izometrio">negativa<sncref/></ref>
       <ref tip="vid" cel="lok.de0igo.MAT">delokigo</ref>
       <rim>
@@ -477,6 +487,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht best&auml;tigend, verneinend.</dif>
   </snc>
   <snc mrk="poziti.mal0a.ELE">
   <uzo tip="fak">ELE</uzo>

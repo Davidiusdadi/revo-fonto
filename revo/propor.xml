@@ -13,6 +13,7 @@
       <ref tip="super" cel="rilat.0o.kvociento">Rilato</ref> de la grandoj de du a&ubreve; pluraj a&jcirc;oj
       inter si.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verh&auml;ltnis der Gr&ouml;&szlig;en zweier oder mehrerer Dinge zueinander.</dif>
     <subsnc mrk="propor.0o.parto_tuto">
       <dif>
         Rilato de la partoj inter si kaj kun la tuto:
@@ -63,6 +64,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verh&auml;ltnis der Teile zueinander und zum Ganzen.</dif>
     </subsnc>
     <subsnc mrk="propor.0o.ekzemplero_tipo">
       <dif>
@@ -98,6 +100,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gr&ouml;&szlig;e eines Gegenstands im Verh&auml;ltnis zu einem anderen, gleichartigen, der als Muster oder Norm gilt.</dif>
     </subsnc>
     <subsnc mrk="propor.0o.lauxtempa">
       <dif>
@@ -119,6 +122,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gr&ouml;&szlig;e einer Sache im Verh&auml;ltnis zu einer anderen, die gleichzeitig und im gleichen Ma&szlig; wie die erste w&auml;chst oder abnimmt.</dif>
     </subsnc>
     <refgrp tip="vid">
       <ref cel="kvot.0o.KOMUNE">kvoto</ref>,
@@ -144,6 +148,7 @@
         <frm am="(a,b,c,d)">(<k>a</k>,<k>b</k>,<k>c</k>,<k>d</k>)</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichung zwischen zwei algebraischen Br&uuml;chen.</dif>
     <rim>
       Oni trovas en <fnt><bib>PV</bib></fnt> difinon pli vastan,
       kiu ebligas nomi proporcio egala&jcirc;on inter frakcioj (geometria

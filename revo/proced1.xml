@@ -59,6 +59,7 @@
         <bib>Monato</bib><lok>jaro 1999a, numero 3a, p. 6a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit der Verfahrensschritte in Gerichtssachen, in der Verwaltung und dergleichen.</dif>
     <refgrp tip="vid">
       <ref cel="regul.0aro">regularo</ref>
     </refgrp>
@@ -83,6 +84,7 @@
         <bib>Monato</bib><lok>jaro 1998a, numero 5a, p. 13a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In Programmiersprachen eine benannte Folge von Anweisungen, die durch Aufrufe von verschiedenen Stellen des Programms aus ausgef&uuml;hrt werden kann.</dif>
     <trd lng="en">procedure<klr> (computer programming)</klr></trd>
     <trd lng="hu">elj&aacute;r&aacute;s</trd>
   </snc>

@@ -197,6 +197,7 @@
         <trd lng="hu">rokoni kapcsolatok</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Person) Zur selben Familie oder Verwandtschaft geh&ouml;rend.</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_v;&c_a;&c_ja;&c_c;&c_k;&c_ib;</trd>,
       <trd>&c_r;&c_o;&c_d;&c_n;&c_y;</trd>
@@ -270,6 +271,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichen Ursprungs oder gleicher Kategorie.</dif>
     <refgrp tip="vid">
       <ref cel="analog.0a">analoga</ref>,
       <ref cel="famili1.0a">familiara</ref>,
@@ -420,6 +422,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Beziehung zwischen Verwandten.</dif>
     <trdgrp lng="be">
       <trd>&c_r;&c_o;&c_d;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
       <trd>&c_s;&c_v;&c_a;&c_ja;&c_c;&c_k;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -459,6 +462,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Enge Beziehung zwischen zwei Dingen.</dif>
     <refgrp tip="vid">
       <ref cel="akord.0o">akordo</ref>,
       <ref cel="ident.0eco.identigho">identeco<sncref/></ref>,

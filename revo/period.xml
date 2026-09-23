@@ -145,6 +145,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeitdauer zwischen zwei bestimmten Phasen einer Erscheinung oder einer Entwicklung; Teil eines Zeitalters.</dif>
     <refgrp tip="vid">
       <ref cel="era.0o.post">erao<sncref/></ref>,
       <ref cel="stadi.0o.fazo">stadio<sncref/></ref>
@@ -162,12 +163,14 @@
       post kiu iu fenomeno ripeti&gcirc;as, aparte &ccirc;e ondoj &gcirc;i
       respondas al la ondolongo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleinstes Intervall, nach dem sich eine Erscheinung wiederholt; bei Wellen entspricht es der Wellenl&auml;nge.</dif>
     <subsnc mrk="period.0o.AST">
       <uzo tip="fak">AST</uzo>
       <dif>
         Tempo, kiun bezonas astro por retrovi&gcirc;i
         en sama punkto de sia rondvojo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeit, die ein Himmelsk&ouml;rper braucht, um wieder an denselben Punkt seiner Umlaufbahn zur&uuml;ckzukehren.</dif>
       <refgrp tip="vid">
         <ref cel="faz.0o">fazo</ref>,
         <ref cel="stadi.0o">stadio</ref>
@@ -191,6 +194,7 @@
           <tld/>on <frm am="2pi">2&pi;</frm>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer reellen Funktion f) Jede reelle Zahl T, f&uuml;r die f(x+T) = f(x) f&uuml;r beliebiges x gilt; genauer: die kleinste dieser Zahlen.</dif>
       <rim>
         La difino nature vasti&gcirc;as al kompleksaj funkcioj kaj al
         &ccirc;iuj aliaj okazoj, kiam adicio estas difinita en la
@@ -207,6 +211,7 @@
         La elementoj de unu linio en la
         <ref tip="malprt" cel="period.0atabelo"><tld lit="P"/>a tabelo</ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Elemente einer Zeile im Periodensystem.</dif>
     </subsnc>
   </snc>
   <snc mrk="period.0o.GEOL">
@@ -222,6 +227,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In der Geochronologie ein mehrere Epochen umfassender Zeitabschnitt, der einem System in der Chronostratigraphie entspricht.</dif>
     <ref tip="malprt" cel="era.0o.GEOL">erao<sncref/></ref>
   </snc>
   <snc mrk="period.0o.BELE">
@@ -246,6 +252,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von S&auml;tzen, die die Entfaltung eines einheitlichen Gedankens darstellt.</dif>
     <refgrp tip="sin">
       <ref cel="fraz.0aro">frazaro</ref>
     </refgrp>
@@ -339,6 +346,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich nach einer mehr oder weniger bestimmten Zeit wiederholend.</dif>
     <refgrp tip="vid">
       <ref cel="interm.0a">intermita</ref>
     </refgrp>
@@ -356,6 +364,7 @@
         Akceptanta almena&ubreve; unu
         <ref cel="period.0o.funkcio"><tld/>on <sncref/></ref>.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(bei einer reellen Funktion) Mindestens eine Periode besitzend.</dif>
       <trd lng="de">periodisch<klr tip="ind"> (-e
       Funktion)</klr></trd>
       <trd lng="fr"><klr tip="ind">(fonction)
@@ -377,6 +386,7 @@
         <tld/>a stilo.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Perioden gekennzeichnet.</dif>
     <trd lng="hu">k&ouml;rmondatos</trd>
   </snc>
   <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_ja;&c_d;&c_y;&c_ch;&c_n;&c_y;</trd>

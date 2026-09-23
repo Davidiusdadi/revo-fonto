@@ -72,6 +72,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nat&uuml;rliche Abfolge von Erscheinungen, die sich ohne Einwirkung einer &auml;u&szlig;eren Kraft entwickelt und in ihrer Gesamtheit, in ihrem allm&auml;hlichen Fortschreiten und in ihren Ergebnissen betrachtet wird.</dif>
     <ref tip="sin" cel="proces.0o.SCI">proceso (ar&hcirc;.)</ref>
     <trd lng="de">Vorgang</trd>
     <trd lng="fr">processus</trd>
@@ -127,6 +128,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abfolge vorausgeplanter Vorg&auml;nge, die von einem Gegenstand oder einer Erscheinung abh&auml;ngt und sich unter bestimmten Bedingungen vollzieht.</dif>
     <ref tip="vid" cel="proced.0o">procedo</ref>
     <trdgrp lng="de">
       <trd>Vorgang</trd>,
@@ -148,6 +150,7 @@
       programo a&ubreve; de parto de programo kaj konsiderata kun la datumoj
       uzataj kaj produktataj de tiuj operacioj.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abfolge von Operationen (Befehlen), die bei der Ausf&uuml;hrung eines Programms oder eines Programmteils entsteht und zusammen mit den von diesen Operationen verwendeten und erzeugten Daten betrachtet wird.</dif>
     <ref tip="sin" cel="task.0o.KOMP">tasko</ref>
     <ref tip="vid" cel="proceso.0o">procesoro</ref>
     <trd lng="nl">proces<klr tip="ind"> (informatica)</klr></trd>

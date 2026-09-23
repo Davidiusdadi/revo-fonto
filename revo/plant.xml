@@ -61,6 +61,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Pflanze in die Erde setzen, damit sie weiterw&auml;chst.</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_a;&c_d;&c_z;&c_ib;&c_c;&c_mol; <klr>(&c_r;&c_a;&c_s;&c_mol;&c_l;&c_ib;&c_n;&c_u;)</klr></trd>,
       <trd>&c_v;&c_y;&c_s;&c_a;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -119,6 +120,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fest im Boden (oder in einer Mauer oder einer anderen Fl&auml;che) befestigen, besonders in senkrechter (oder rechtwinkliger) Stellung.</dif>
     <trdgrp lng="be">
       <trd>&c_u;&c_s;&c_a;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_u;&c_t;&c_o;&c_r;&c_k;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -590,11 +592,13 @@
       Enigi ion (ekzemple semon) en pli grandan korpon a&ubreve; medion
       (ekzemple grundon), por ke &gcirc;i ta&ubreve;ge evoluu a&ubreve; funkciu.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas (zum Beispiel einen Samen) in einen gr&ouml;&szlig;eren K&ouml;rper oder ein Medium (zum Beispiel den Boden) einbringen, damit es sich richtig entwickelt oder funktioniert.</dif>
     <subsnc mrk="plant.en0i.HOR">
       <uzo tip="fak">HOR</uzo>
       <dif>
         Enigi en la grundon por kreskigo.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zum Anbau in den Boden einbringen.</dif>
       <trdgrp lng="id">
         <trd>tanam</trd>,
         <trd><baz>tanam</baz>menanam</trd>
@@ -631,6 +635,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In die K&ouml;pfe der Menschen eindringen lassen.</dif>
       <trd lng="hu">belepl&aacute;nt&aacute;l</trd>
       <trdgrp lng="id">
         <trd>rasuk</trd>,
@@ -647,6 +652,7 @@
         Enmeti objekton (protezon, histon, grefton) en vivan
         korpon.
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Gegenstand (Prothese, Gewebe, Transplantat) in einen lebenden K&ouml;rper einsetzen.</dif>
       <trdgrp lng="de">
         <trd>implantieren</trd>
       </trdgrp>
@@ -718,6 +724,7 @@
     <dif>
       <tld lit="P"/>i ion en alian lokon:
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas an einen anderen Ort pflanzen.</dif>
     <subsnc mrk="plant.trans0i.HOR">
       <uzo tip="fak">HOR</uzo>
       <dif>
@@ -742,6 +749,7 @@
           <ref cel="prikl.0i.HOR">prikli</ref>
         </refgrp>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An einen neuen, g&uuml;nstigeren Ort oder in einen g&uuml;nstigeren Boden bringen und dort wieder einpflanzen.</dif>
       <trdgrp lng="de">
         <trd fnt="AI: pl cs fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">umpflanzen</trd>,
         <trd fnt="AI: nl pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verpflanzen</trd>
@@ -783,6 +791,7 @@
         </fnt>.
       </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Idee oder einen Brauch in eine andere Geisteswelt oder ein anderes Umfeld eindringen lassen.</dif>
       <trdgrp lng="de">
         <trd>umsetzen</trd>
         <trd>umtopfen</trd>
@@ -819,6 +828,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch eine Operation ein Organ (oder Gewebe) eines Patienten durch ein Organ (oder Gewebe) eines anderen Menschen oder Tieres (oder durch Gewebe aus einem anderen K&ouml;rperteil) ersetzen.</dif>
       <trdgrp lng="de">
         <trd>transplantieren</trd>
       </trdgrp>

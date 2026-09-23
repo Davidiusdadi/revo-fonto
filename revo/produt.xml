@@ -264,6 +264,7 @@
       <frm am="x in bb E"><k>x</k>&#8712;<g>E</g></frm>, kaj
       egalas al nulo, se kaj nur se <frm am="x=0"><k>x</k> = 0</frm>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(&uuml;ber einem reellen Vektorraum E) Symmetrische Bilinearform &phi; derart, dass &phi;(x,x) &#x2265; 0 f&uuml;r alle x&#x2208;E ist und genau dann gleich null ist, wenn x = 0.</dif>
     <refgrp tip="vid">
       <ref cel="spac.euxklida0o">e&ubreve;klida spaco</ref>,
       <ref cel="norm.0o.MAT">normo</ref>.
@@ -286,6 +287,7 @@
         foje per <frm am="(:x|y:)">&lt;<k>x</k>|<k>y</k>&gt;</frm>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(zweier Vektoren x, y) Das Bild von (x,y) unter dem Skalarprodukt.</dif>
    <trdgrp lng="pt">
     <trd>produto escalar</trd>,
     <trd>produto interno</trd>
@@ -333,6 +335,7 @@
       <k>x</k><sub><k>n</k></sub>)</frm>, kiu ajn estas
       <frm am="x_n"><k>x</k><sub><k>n</k></sub></frm>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(&uuml;ber einem n-dimensionalen euklidischen Raum E) Abbildung von E^(n-1) nach E, die jedes (n-1)-Tupel (x1, ..., xn-1) auf den eindeutig bestimmten Vektor a abbildet, f&uuml;r den das Skalarprodukt von a mit xn f&uuml;r jedes beliebige xn gleich der Determinante von (x1, ..., xn-1, xn) ist.</dif>
     <trd lng="es">producto vectorial</trd>
     <trd lng="pt">produto vetorial</trd>
   </snc>
@@ -359,6 +362,7 @@
         komponantoj.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von n-1 Vektoren eines n-dimensionalen euklidischen Raums) Ihr Bild unter dem Vektorprodukt.</dif>
     <trd lng="pt">produto vetorial</trd>
   </snc>
   <trd lng="be">&c_z;&c_d;&c_a;&c_b;&c_y;&c_t;&c_a;&c_k; &c_v;&c_e;&c_k;&c_t;&c_a;&c_r;&c_n;&c_y;</trd>

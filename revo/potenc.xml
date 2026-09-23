@@ -62,6 +62,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">F&auml;higkeit, Verm&ouml;gen, stark zu wirken.</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_ib;&c_l;&c_a;</trd>,
       <trd>&c_m;&c_a;&c_g;&c_u;&c_t;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
@@ -174,6 +175,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rechtliche oder politische F&auml;higkeit, andere dem eigenen Willen zu unterwerfen.</dif>
     <trd lng="be">&c_u;&c_l;&c_a;&c_d;&c_a;</trd>
     <trd lng="de">Gewalt</trd>
     <trd lng="en">power <klr>(the ability or authority to control, govern, command, coerce, etc.,
@@ -241,6 +243,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Staat, der stark genug ist, die Lage in einem betr&auml;chtlichen Teil der Welt zu beeinflussen.</dif>
     <trd lng="be">&c_d;&c_z;&c_ja;&c_r;&c_zh;&c_a;&c_v;&c_a;
 <klr>(&c_u;&c_p;&c_l;&c_y;&c_v;&c_o;&c_v;&c_a;&c_ja;,
 &c_m;&c_a;&c_g;&c_u;&c_t;&c_n;&c_a;&c_ja;)</klr></trd>
@@ -299,6 +302,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bernat&uuml;rliche F&auml;higkeit und Kraft Gottes und derer, die in seinem Namen handeln, das Schicksal und die Zukunft zu lenken.</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_ib;&c_l;&c_a;</trd>,
       <trd>&c_m;&c_o;&c_c;</trd>
@@ -330,6 +334,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer reellen Zahl x mit einer ganzen Zahl n) ihre n-te Potenz.</dif>
     <trd lng="en">power <klr>(an integral product of equal factors)</klr></trd>
     </subsnc>
     <subsnc mrk="potenc.0o.per_reelo">
@@ -342,6 +347,7 @@
         kun bazo <frm am="x"><k>x</k></frm>;
         alidire: <frm am="e^(y*ln x)"><k>e</k><sup><k>y</k>&middot;ln&nbsp;<k>x</k></sup></frm>.
         </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer positiven reellen Zahl x mit einer reellen Zahl y) die Exponentialfunktion von y zur Basis x; anders gesagt: e^(y&middot;ln x).</dif>
     <trd lng="en">power <klr>(a real product of equal factors)</klr></trd>
     </subsnc>
 
@@ -483,6 +489,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von gro&szlig;er Wirkung.</dif>
   <trd lng="en">powerful <klr>(physically)</klr></trd>
   <trdgrp lng="id">
     <trd><baz>potensi</baz>berpotensi</trd>,
@@ -544,6 +551,7 @@
         <trd lng="hu">a megijedt ember az &aacute;rny&eacute;kt&oacute;l is f&eacute;l</trd>
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von gro&szlig;em politischem oder rechtlichem Einfluss.</dif>
   <trd lng="en">powerful <klr>(legally, politically)</klr></trd>
   <trdgrp lng="id">
     <trd>adidaya</trd>,
@@ -632,6 +640,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Macht haben &uuml;ber.</dif>
     <trdgrp lng="be">
       <trd>&c_u;&c_l;&c_a;&c_d;&c_a;&c_r;&c_y;&c_c;&c_mol;</trd>,
       <trd>&c_p;&c_a;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -728,6 +737,7 @@
             en Boulogne sur Mer, 1905-08-05</vrk></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">M&auml;chtiger machen.</dif>
     <trdgrp lng="be">
       <trd>&c_u;&c_m;&c_a;&c_c;&c_o;&c_w;&c_v;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_m;&c_a;&c_c;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -774,6 +784,7 @@
         <fnt><bib>MatTerm</bib><lok>p. 11</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eine reelle Zahl x mit einer ganzen Zahl n oder einer reellen Zahl y) ihre Potenz berechnen.</dif>
     <ref tip="vid" cel="radik.0igi.MAT">radikigi.</ref>
     <!-- rim>
     PIV preferas rektan verbigon: <tld/>i. Tio malagrable
