@@ -1634,6 +1634,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Tauchen unter die Wasseroberfl&auml;che zu sportlichen oder beruflichen Zwecken.</dif>
     <trd lng="de" fnt="AI: nl id th; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tauchen</trd>
+    <trd lng="en" fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">diving</trd>
     <trd lng="th">&#3585;&#3634;&#3619;&#3604;&#3635;&#3609;&#3657;&#3635;</trd>
   </snc>
   <trd lng="be">&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_u;
@@ -2924,6 +2925,10 @@
     <trd>aigua de col&ograve;nia</trd>
   </trdgrp>
   <trd lng="de">Duftwasser</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">toilet water</trd>,
+    <trd fnt="AI: id fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">eau de toilette</trd>
+  </trdgrp>
   <trd lng="fr">eau de parfum</trd>
 <trdgrp lng="id">
   <trd>air toilet<klr> (parfum)</klr></trd>,

@@ -204,6 +204,10 @@
     <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gegenw&auml;rtig</trd>,
     <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">jetzig</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">current</trd>,
+    <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">present</trd>
+  </trdgrp>
   <trd lng="id"><baz>kini</baz>kekinian</trd>
   </snc>
 
@@ -559,6 +563,7 @@
       <trd>&c_a;&c_b;&c_n;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: ru be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">aktuell werden</trd>
+    <trd lng="en" fnt="AI: ru be ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">become topical</trd>
     <trd lng="es">actualizarse</trd>
     <trd lng="pl">uaktualni&cacute; si&eogonek;</trd>
     <trd lng="ru">&c_s;&c_t;&c_a;&c_t;&c_mol; <ind>&c_a;&c_k;&c_t;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_m;</ind></trd>

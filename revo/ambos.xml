@@ -35,6 +35,7 @@
   <snc mrk="ambos.0o.ANA">
     <uzo tip="fak">ANA</uzo>
     <ref tip="dif" cel="inkud.0o">inkudo</ref>
+    <trd lng="en" fnt="AI: ref pl fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">incus</trd>
     <trd lng="fr">enclume<klr tip="ind"> (osselet)</klr></trd>
     <trd lng="pl">kowade&lstroke;ko</trd>
   </snc>

@@ -59,6 +59,10 @@
         <trd>Schaufelblatt</trd>,
         <trd>Fl&uuml;gel <klr>(Rotor)</klr></trd>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: de ca pt ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">blade</trd>,
+        <trd fnt="AI: de ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vane</trd>
+      </trdgrp>
       <trd lng="it">estremit&agrave;</trd>
       <trd lng="pt">p&aacute;</trd>
       <trd lng="ru">&c_l;&c_o;&c_p;&c_a;&c_s;&c_t;&c_mol;</trd>

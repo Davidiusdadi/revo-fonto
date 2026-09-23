@@ -59,6 +59,7 @@
     </refgrp>
     <trd lng="bg">&c_l;&c_ju;&c_b;&c_i;&c_t;&c_je;&c_l;</trd>
     <trd lng="de">Liebhaber</trd>
+    <trd lng="en" fnt="AI: de nl ru bg; proponis claude-opus-5-5; kontrolis claude-opus-5-5">enthusiast</trd>
     <trd lng="nl">liefhebber</trd>
     <trdgrp lng="zh">
       <trd>&#x611B;&#x597D;&#32773; <pr>&agrave;ih&#x1CE;ozh&ecaron;</pr></trd>,
@@ -144,6 +145,7 @@
     <trd>eine Liebhaberei <ind>betreiben</ind></trd>,
     <trd>einem Hobby <ind>nachgehen</ind></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dabble</trd>
   <trd lng="fr">pratiquer en amateur</trd>
   <trd lng="pl">by&cacute; <ind>amatorem</ind></trd>
 </drv>

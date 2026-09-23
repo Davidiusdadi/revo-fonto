@@ -30,6 +30,10 @@
     <trd fnt="AI: fr pl uk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Albigenser</trd>,
     <trd fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Katharer</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr pl id uk be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Albigensian</trd>,
+    <trd fnt="AI: fr pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Cathar</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>Albigeois<klr> (Cathare, subst.)</klr></trd>,
     <trd>Cathare<klr> (subst.)</klr></trd>
@@ -72,6 +76,10 @@
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_b;&c_ib;&c_g;&c_o;&c_j;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="de" fnt="AI: fr pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Katharismus</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Catharism</trd>,
+    <trd fnt="AI: id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Albigensianism</trd>
+  </trdgrp>
   <trd lng="fr">Catharisme</trd>
   <trdgrp lng="id">
     <trd>katarisme</trd>,

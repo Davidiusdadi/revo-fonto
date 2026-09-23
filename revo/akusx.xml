@@ -137,6 +137,7 @@
       <trd>hervorbringen</trd>,
       <trd><klr tip="amb">sich</klr> abringen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: ref nl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">give birth to</trd>
     <trdgrp lng="fr">
       <trd>accoucher<klr tip="ind"> (d'une id&eacute;e)</klr></trd>,
       <trd>pondre<klr tip="ind"> (une id&eacute;e)</klr>
@@ -577,6 +578,7 @@
     <trd>Krei&szlig;ende</trd>,
     <trd>Geb&auml;rende</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">woman in labour</trd>
   <trd lng="fa">&a_z;&a_A;&a_y_hamza;&a_w;</trd>
   <trd lng="fr">parturiente</trd>
   <trd lng="he">&mem;&#1456;&yod;&#1463;&lamed;&#1462;&dalet;&#1462;&tav;</trd>

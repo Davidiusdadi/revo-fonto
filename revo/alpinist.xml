@@ -39,6 +39,11 @@
     <trd>horolezec</trd>
   </trdgrp>
   <trd lng="de">Alpinist</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">alpinist</trd>,
+    <trd fnt="AI: ref cs sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mountaineer</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mountain climber</trd>
+  </trdgrp>
   <trd lng="sk">horolezec</trd>
 </drv>
 </art>
