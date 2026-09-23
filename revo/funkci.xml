@@ -300,6 +300,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigener Fachbereich, Amt, das eingerichtet ist, um einen bestimmten Dienst zu leisten; T&auml;tigkeitsbereich, in dem man einen bestimmten Dienst leistet.</dif>
     <refgrp tip="sin">
       <ref cel="ofic.0o">ofico</ref>,
       <ref cel="posten.0o.ofico">posteno<sncref/></ref>
@@ -404,6 +405,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Besonderer Dienst eines Organs, einer Maschine usw., der ihrer Bestimmung entspricht.</dif>
     <refgrp tip="sin">
       <ref cel="task.0o">tasko</ref>,
       <ref cel="rol.0o.FIG">rolo<sncref/></ref>
@@ -478,6 +480,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Allgemeine Regel, die einem Element einer Ausgangsmenge A ein Element einer Zielmenge B zuordnet; Zeichen f: A&#x2192;B (gelesen: f bildet A nach B ab) oder f&uuml;r einzelne Elemente b = f(a) (gelesen: b gleich f von a).</dif>
       <rim>
         Pro &gcirc;ia intuicia difino en elementa matematiko
         <ctl><tld/>o</ctl>
@@ -506,6 +509,7 @@
           <tld/>o derivebla, analitika, integralebla.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abbildung, besonders (aber nicht nur) wenn Ausgangs- und Zielmenge aus Zahlen bestehen.</dif>
       <refgrp tip="vid">
         Rilatantaj nocioj:
         <ref cel="maksim1.0o.MAT">maksimumo</ref>,
@@ -555,6 +559,7 @@
       <ctl>regulon</ctl> por la matematika
       <ref cel="funkci.0o.MAT"><tld/>o</ref>.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einem Programm ein strukturelles Teilst&uuml;ck (Unterprogramm), das einen Algorithmus zur Berechnung eines Wertes festlegt &ndash; eine von mehreren Arten, die Regel f&uuml;r die mathematische Funktion festzulegen.</dif>
     <rim>
       En iuj <ref tip="malprt" cel="lingv.program0o">programlingvoj</ref>
       tiaj <tld/>oj aperas kiel

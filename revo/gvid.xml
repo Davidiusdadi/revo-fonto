@@ -14,6 +14,7 @@
     <dif>
       <ref tip="super" cel="montr.0i.geste">Montri</ref> la &gcirc;ustan vojon.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den richtigen Weg zeigen.</dif>
     <subsnc mrk="gvid.0i.vojo">
       <dif>
         Montri la vojon, irante kun iu kaj helpante al li por
@@ -61,6 +62,7 @@
           <fnt><bib>PrV</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Den Weg zeigen, indem man mit jemandem mitgeht und ihm hilft, das Ziel zu erreichen, das er erreichen will.</dif>
       <refgrp tip="vid">
         <ref cel="akompa.0i.kunesti">akompani</ref>,
         <ref cel="cxicxe.0o">&ccirc;i&ccirc;eroni</ref>,
@@ -119,6 +121,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Linie zeigen, die genau zum Ziel f&uuml;hrt; die Bewegung auf das Ziel hin lenken.</dif>
       <refgrp tip="vid">
         <ref cel="konduk.0i">konduki</ref>
       </refgrp>
@@ -209,6 +212,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das f&uuml;r ein Ziel richtige Vorgehen bekannt machen, erkl&auml;ren und organisieren; als Wegweiser wirken.</dif>
     <refgrp tip="vid">
       <ref cel="direkt.0i">direkti</ref>,
       <ref cel="konduk.0i.agigi_funkciigi_lauxvole">konduki<sncref/>
@@ -631,6 +635,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas, das zum F&uuml;hren dient.</dif>
     <trd lng="be">&c_n;&c_a;&c_k;&c_ib;&c_r;&c_o;&c_w;&c_ch;&c_a;&c_ja; &c_ch;&c_a;&c_s;&c_t;&c_k;&c_a;</trd>
     <trdgrp lng="de">
       <trd>Leitfaden <klr>(libro, principo, &scirc;nuro)</klr></trd>,
@@ -707,6 +712,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Merkblatt, Heft oder sonstiges Dokument, das einen anleitet oder f&uuml;hrt.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_a;&c_d;&c_r;&c_u;&c_ch;&c_n;&c_ib;&c_k;</trd>,
       <trd>&c_n;&c_a;&c_s;&c_t;&c_a;&c_w;&c_l;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -772,6 +778,7 @@
       Homo, kiu profesie <tld/>as, ebligas iradon a&ubreve;
       veturadon la&ubreve; &gcirc;usta vojo.
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der beruflich f&uuml;hrt und anderen erm&ouml;glicht, auf dem richtigen Weg zu gehen oder zu fahren.</dif>
     <subsnc mrk="gvid.0isto.veturigisto">
       <dif>
         Homo kiu <tld/>as veturilon,
@@ -789,6 +796,7 @@
           </fnt>.
       </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der ein Fahrzeug f&uuml;hrt, indem er es wie ein Pilot lenkt oder vielmehr wie ein Navigator den Weg w&auml;hlt.</dif>
       <trd lng="be">&c_n;&c_a;&c_v;&c_ib;&c_g;&c_a;&c_t;&c_a;&c_r;</trd>
        <trdgrp lng="de">
          <trd>Fahrer</trd>,
@@ -818,6 +826,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der beruflich Reisende f&uuml;hrt.</dif>
       <trd lng="be">&c_g;&c_ib;&c_d;</trd>
       <trd lng="de"><klr tip="ind">Fremden-)</klr>F&uuml;hrer</trd>
       <trdgrp lng="en">
@@ -857,6 +866,7 @@
           2005-11-23</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der das Handeln einer Gruppe leitet.</dif>
       <trdgrp lng="be">
         <trd>&c_p;&c_r;&c_a;&c_v;&c_a;&c_d;&c_y;&c_r;</trd>,
         <trd>&c_l;&c_ib;&c_d;&c_a;&c_r;</trd>

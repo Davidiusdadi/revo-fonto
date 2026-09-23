@@ -108,6 +108,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Harmonischen (Obert&ouml;ne) betreffend.</dif>
     <trd lng="de" fnt="AI: en fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">harmonisch</trd>
     <trd lng="en">harmonic</trd>
     <trd lng="fr">harmonique<klr tip="ind"> (adj.,
@@ -135,6 +136,7 @@
           <ref cel="potenc1.0o.ELE">potencialo</ref> estas <tld/>a.
         </ekz>
       </dif>
+      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einer Funktion oder einem Feld) So beschaffen, dass der auf sie angewendete Laplace-Operator den Wert null ergibt.</dif>
       <rim>
         Ial por &ccirc;i tiu senco trovi&gcirc;as <ctl>harmonia</ctl> en
         <fnt><bib>PIV2</bib></fnt> (sed <ctl><tld/>a meznombro</ctl>

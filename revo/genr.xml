@@ -29,6 +29,7 @@
         <lok>2000/12 p. 18-19</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Lexikalisch-grammatische Eigenschaft von Substantiven, die die Form der auf sie bezogenen W&ouml;rter bestimmt, besonders (im Esperanto) die Wahl des Personalpronomens der dritten Person Singular (er / sie / es) sowie der Frage- und Verneinungspronomen (wer? was? &ndash; niemand, nichts).</dif>
     <rim>
        Oni ne konfuzu la gramatikajn <tld/>on<sncref ref="genr.0o.GRA"/> kaj <tld/>on<sncref
        ref="genr.0o.LIN"/>
@@ -67,6 +68,7 @@
         pasiva participo in<tld/>a.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Form einiger Pronomen (im Esperanto nur der dritten Person Singular) oder (nicht im Esperanto) grammatische Form von Adjektiven (z. B. in den romanischen und slawischen Sprachen) oder bestimmter Verbformen (z. B. im Russischen), die sich nach dem Genus des Bezugsworts richtet, auf das sich diese Adjektive oder Verben beziehen.</dif>
     <trd lng="hu">n&eacute;vm&aacute;si nem</trd>
   </snc>
   <snc mrk="genr.0o.BIO">
@@ -87,6 +89,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stufe der botanischen und zoologischen Klassifikation. Der wissenschaftliche Name einer Art besteht aus dem gro&szlig;geschriebenen Namen der Gattung und dem kleingeschriebenen Beinamen der Art.</dif>
     <lstref lst="voko:botanikaj_genroj">botanikaj <tld/>oj</lstref>
     <lstref lst="voko:zoologiaj_genroj">zoologiaj <tld/>oj</lstref>
     <ref tip="malprt" cel="famili.0o.BIO">familio</ref>
@@ -135,6 +138,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Identifikation als Mann, Frau oder etwas anderes und Zuordnung zu einer sozialen Rolle oder einer Gesamtheit von Verhaltensmerkmalen und kulturellen Merkmalen, Kleidung usw.</dif>
     <ref tip="vid" cel="seks.0o">sekso</ref>
     <trd lng="de">Gender</trd>
     <trd lng="en">gender</trd>
