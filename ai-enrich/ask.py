@@ -9,7 +9,8 @@ and the one write, their result.
                                     validate a propose/check result and write it (README, "Results")
 
 `used` reads the enriched voko.db (revo-mcp's build; AI_DB overrides the path) opened read-only;
-`exists` the headword table from headwords.py; `entry` the article XML. Every answer is a few lines,
+`exists` the headword table from headwords.py; `entry` the article XML. AI_OUT puts work files and
+results in another folder than out/, so a second model can run the same articles apart. Every answer is a few lines,
 so a question costs little and cannot flood an agent's context.
 """
 import argparse, json, os, sqlite3, sys, time
@@ -18,7 +19,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 DB = Path(os.environ.get("AI_DB", HERE.parent.parent.parent / "data" / "voko.db"))
 HEADWORDS = HERE.parent / "wikt-enrich" / "data" / "headwords.db"
-OUT = HERE / "out"
+OUT = Path(os.environ.get("AI_OUT", HERE / "out"))
 LIMIT = 12
 MAJOR = ("de", "en", "fr", "es", "it", "pl", "ru", "nl", "pt", "la")
 
