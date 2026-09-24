@@ -134,7 +134,12 @@
        <trd>im <ind>&Uuml;brigen</ind></trd>,
        <trd>&uuml;brigens</trd>
      </trdgrp>
+     <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">moreover <klr>(formal)</klr></trd>
      </subsnc>
+     <trdgrp lng="en">
+       <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">additionally</trd>,
+       <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">moreover <klr>(formal)</klr></trd>
+     </trdgrp>
    </snc>
    <snc mrk="ankora.0.komparativa">
      <dif>
@@ -175,6 +180,7 @@
        </ekz>
      </dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erneut, wieder, weiter.</dif>
+     <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">again</trd>
      <trd lng="es">otra vez</trd>
      <trdgrp lng="fi">
        <trd>viel&auml;</trd>,

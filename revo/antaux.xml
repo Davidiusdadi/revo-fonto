@@ -427,6 +427,7 @@
     <trd>cap <ind>endavant</ind></trd>
   </trdgrp>
   <trd lng="de" fnt="AI: fr pl ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vor</trd>
+  <trd lng="en" fnt="AI: fr es ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">in front of</trd>
   <trdgrp lng="es">
     <trd>adelante<klr tip="amb"> (de)</klr></trd>,
     <trd>al <ind>frente</ind><klr tip="amb"> (de)</klr></trd>,
@@ -464,6 +465,7 @@
     <refgrp tip="sin">
       <ref cel="antaux.el0">el <tld/></ref>
     </refgrp>
+    <trd lng="en" fnt="AI: pl hu ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">from in front of</trd>
     <trd lng="hu">el&odblac;l</trd>
     <trd lng="pl">z przed</trd>
   </snc>
@@ -517,6 +519,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von einer Zeit vor &#x2026; an.</dif>
     <trd lng="de" fnt="AI: hu id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">seit</trd>
+    <trd lng="en" fnt="AI: hu id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">since</trd>
     <trd lng="hu">&oacute;ta</trd>
     <trd lng="id">sejak</trd>
     <trd lng="pl">z przed</trd>
@@ -580,6 +583,7 @@
     <trd>&c_z;</trd>,
     <trd>&c_a;&c_d;</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: es fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">from in front of</trd>
   <trdgrp lng="es">
     <trd>desde la <ind>parte</ind> delantera de</trd>,
     <trd>saliendo de <ind>delante</ind> de</trd>
@@ -793,6 +797,7 @@
     <trd>rere</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: fr pl ru hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter</trd>
+  <trd lng="en" fnt="AI: de fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">behind</trd>
   <trdgrp lng="es">
     <trd>hacia <ind>detr&aacute;s</ind></trd>,
     <trd>atr&aacute;s<klr tip="amb"> (de)</klr></trd>,
@@ -840,6 +845,7 @@
   </snc>
   <trd lng="be">&c_z;-&c_z;&c_a;</trd>
   <trd lng="de" fnt="AI: ru pl hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter ... hervor</trd>
+  <trd lng="en" fnt="AI: de es fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">from behind</trd>
   <trdgrp lng="es">
     <trd>de <ind>detr&aacute;s</ind></trd>,
     <trd>desde <ind>detr&aacute;s</ind></trd>,
@@ -879,6 +885,7 @@
   </snc>
   <trd lng="be">&c_z;-&c_z;&c_a;</trd>
   <trd lng="de" fnt="AI: ru pl hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter ... hervor</trd>
+  <trd lng="en" fnt="AI: de es fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">from behind</trd>
   <trdgrp lng="es">
     <trd>desde <ind>detr&aacute;s</ind> de</trd>,
     <trd>saliendo <ind>detr&aacute;s</ind> de</trd>,
@@ -1561,6 +1568,7 @@
       <trd><klr>das </klr>Davor</trd>,
       <trd><klr>das </klr>Fr&uuml;her</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de es ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">past</trd>
     <trdgrp lng="es">
       <trd>lo <ind>anterior</ind></trd>,
       <trd>la <ind>anterioridad</ind></trd>,
@@ -2212,6 +2220,7 @@
     <trd>an die Spitze <ind>stellen</ind></trd>,
     <trd>zuvorkommen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de es pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">put before</trd>
   <trdgrp lng="es">
     <trd>adelantar <klr tip="ind">(espacio)</klr></trd>,
     <trd>retrasar <klr tip="ind">(tiempo)</klr></trd>,
@@ -2880,6 +2889,7 @@
   </trdgrp>
   <trd lng="ca">abans que</trd>
   <trd lng="de">bevor</trd>
+  <trd lng="en" fnt="AI: de fr ca ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">before</trd>
   <trd lng="fr">avant que</trd>
   <trd lng="id"><baz>belum</baz>sebelum</trd>
   <trd lng="no">f&oslash;r</trd>

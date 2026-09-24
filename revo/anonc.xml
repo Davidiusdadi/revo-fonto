@@ -634,6 +634,7 @@
   </trdgrp>
   <trd lng="bg">&c_o;&c_b;&c_ja;&c_v;&c_ja;&c_v;&c_a;&c_m; &c_p;&c_r;&c_je;&c_d;&c_v;&c_a;&c_r;&c_i;&c_t;&c_je;&c_l;&c_n;&c_o;</trd>
   <trd lng="de">vorank&uuml;ndigen</trd>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">preannounce</trd>
   <trd lng="fr">annoncer &agrave; l'avance</trd>
   <trd lng="id"><baz>beri</baz>memberi tahu sebelumnya</trd>
   <trdgrp lng="pl">
@@ -682,6 +683,10 @@
     <trd>&ouml;ffentlich <ind>verk&uuml;nden</ind></trd>,
     <trd>an die gro&szlig;e <ind>Glocke</ind> h&auml;ngen</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">publicise</trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">proclaim</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anonc.mal0i">
@@ -707,6 +712,10 @@
   <trdgrp lng="de">
     <trd>abk&uuml;ndigen</trd>,
     <trd>zur&uuml;ckziehen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">cancel</trd>,
+    <trd fnt="AI: be de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">call off</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>annuler</trd>,
@@ -755,6 +764,7 @@
     <trd>Inserat</trd>,
     <trd>Zeitungsanonce</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de be bg pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">newspaper advertisement</trd>
   <trd lng="fr">petite annonce</trd>
   <trd lng="id">iklan baris</trd>
   <trd lng="pl">og&lstroke;oszenie prasowe</trd>
