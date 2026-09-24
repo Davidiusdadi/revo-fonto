@@ -71,6 +71,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A place where two or more surfaces meet.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ort, an dem zwei oder mehr Fl&auml;chen zusammentreffen.</dif>
     <refgrp tip="vid">
       <ref cel="kav.0o">kavo</ref>,
@@ -99,6 +100,7 @@
         kiun limas du <ref cel="rekt.duon0o">duonrektoj</ref> kun
         komuna origino.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A plane surface bounded by two rays with a common origin.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ebene Fl&auml;che, die von zwei Halbgeraden mit gemeinsamem Ursprung begrenzt wird.</dif>
       <refgrp tip="sin">
         <ref cel="sektor.0o.de_ebeno">sektoro</ref>;
@@ -137,6 +139,7 @@
         (&gcirc;ia <ref tip="prt" cel="vertic.0o.angulo">vertico</ref>).
         </klr>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A pair of rays (its sides) with a common origin (its vertex).</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Paar von Halbgeraden (seine Schenkel) mit gemeinsamem Ursprung (sein Scheitel).</dif>
     </subsnc>
     <subsnc mrk="angul.0o.solida">
@@ -163,6 +166,7 @@
           vertico al la kavadrato de la radiuso de tiu sfero.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The measure of an angle.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ma&szlig; eines Winkels.</dif>
       <refgrp tip="vid">
         Mezurunuoj de angulo:
@@ -252,6 +256,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A confined or remote place, rarely visited or seen.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Enger oder abgelegener, selten besuchter oder beachteter Ort.</dif>
     <refgrp tip="vid">
       <ref cel="nicx.0o.ARKI">ni&ccirc;o<sncref/></ref>
@@ -839,6 +844,7 @@
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 24a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Having the shape of a triangle; relating to a triangle.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von der Form eines Dreiecks; auf ein Dreieck bezogen.</dif>
     <trdgrp lng="be">
       <trd>&c_t;&c_r;&c_o;&c_h;&c_k;&c_u;&c_t;&c_n;&c_y;</trd>,
@@ -870,6 +876,7 @@
         <ref cel="diagon.0a.elemento">diagonalaj</ref> elementoj.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of an (n,n) matrix) Having all elements below its diagonal equal to zero, or, alternatively, all elements above its diagonal equal to zero.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer (n,n)-Matrix) So beschaffen, dass alle Elemente unterhalb der Diagonale null sind; alternativ: dass alle Elemente oberhalb der Diagonale null sind.</dif>
     <trd lng="be">&c_t;&c_r;&c_o;&c_h;&c_v;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_a;&c_ja; <klr>(&c_m;&c_a;&c_t;&c_r;&c_y;&c_c;&c_a;)</klr></trd>
     <trd lng="de">Dreiecks-<klr tip="amb">(matrix)</klr></trd>
@@ -1056,6 +1063,7 @@
       Nord-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Triangulum</trd>).
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A constellation of the Northern Hemisphere.</dif>
     <trd lng="de" fnt="Vikt: el pt; juĝis claude-opus-5">Dreieck</trd>
   </snc>
   <trd lng="be">&c_T;&c_r;&c_y;&c_k;&c_u;&c_t;&c_n;&c_ib;&c_k; <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#8217;&c_je;)</klr></trd>
@@ -1083,6 +1091,7 @@
       Sud-hemisfera <ref tip="lst" cel="stel.0figuro" lst="voko:stelfiguroj">stelfiguro</ref>
       (<trd lng="la">Triangulum Australe</trd>).
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A constellation of the Southern Hemisphere.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sternbild des S&uuml;dhimmels.</dif>
   </snc>
   <trd lng="be">&c_P;&c_a;&c_w;&c_d;&c_n;&c_jo;&c_v;&c_y; <ind>&c_T;&c_r;&c_y;&c_k;&c_u;&c_t;&c_n;&c_ib;&c_k;</ind> <klr>(&c_s;&c_u;&c_z;&c_o;&c_r;&#8217;&c_je;)</klr></trd>

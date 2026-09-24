@@ -40,6 +40,7 @@
         </fnt>.
       </ekz>
     </dif>
+     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Up to the present moment.</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bis zum gegenw&auml;rtigen Augenblick.</dif>
     <refgrp tip="vid">
        <ref cel="dauxr.0e.plue">da&ubreve;re<sncref/></ref>,
@@ -90,6 +91,7 @@
          <ref cel="krom.0e">krome</ref>:
        </refgrp>
      </dif>
+     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Additionally, moreover.</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zus&auml;tzlich, au&szlig;erdem.</dif>
      <subsnc mrk="ankora.0.similaj">
        <dif>
@@ -106,6 +108,7 @@
            <fnt><bib>Fab4</bib> <lok>Historio el la dunoj</lok></fnt>.
         </ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">That is, one or more similar things are added to something preceding.</dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das hei&szlig;t, zu etwas Vorangehendem kommt anderes &Auml;hnliches hinzu.</dif>
        <ref tip="vid" cel="pli.0a.aldona">plia<sncref/></ref>
      </subsnc>
@@ -128,6 +131,7 @@
            <ref cel="pli.0e.krome">plie<sncref/></ref>
          </refgrp>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Mostly with a preceding &#x2018;and&#x2019;) introduces an unexpected additional circumstance: besides, furthermore.</dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Meist nach vorangehendem &leftquot;und&rightquot;) leitet einen unerwarteten zus&auml;tzlichen Umstand ein: &uuml;brigens, zudem.</dif>
      <trdgrp lng="de">
        <trd>dar&uuml;ber hinaus</trd>,
@@ -155,6 +159,7 @@
           <fnt><bib>Fab1</bib> <lok>Vojkamarado</lok></fnt>.
         </ekz>
      </dif>
+     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">With a comparative, it indicates a further increase.</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einem Komparativ zeigt es eine weitere Steigerung an.</dif>
      <refgrp tip="vid">
        <ref cel="ecx.0.KOMUNE">e&ccirc;<sncref/></ref>,
@@ -179,6 +184,7 @@
          <fnt><bib>Fab1</bib>, <lok>Vojkamarado</lok></fnt>.
        </ekz>
      </dif>
+     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Again, once more, further.</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erneut, wieder, weiter.</dif>
      <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">again</trd>
      <trd lng="es">otra vez</trd>
@@ -205,6 +211,7 @@
          </fnt>.
        </ekz>
      </dif>
+     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Already so early.</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schon so fr&uuml;h.</dif>
      <trdgrp lng="en">
        <trd><ind>as</ind> far back as</trd>,
