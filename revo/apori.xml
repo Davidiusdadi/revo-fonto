@@ -41,6 +41,7 @@
     <ref tip="sin" cel="koan.0o">koano</ref>
     <ref tip="vid" cel="sokrat.0o.PERS">Sokrato<sncref/></ref>
     <trd lng="de">Aporie</trd>
+    <trd lng="en" kod="FAK" fnt="AI: de fr ca nl no; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">aporia <klr>(jargon)</klr></trd>
   </snc>
   <trd lng="be">&c_a;&c_p;&c_a;&c_r;&c_y;&c_ja;</trd>
   <trd lng="ca">aporia</trd>

@@ -719,6 +719,10 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wer gern arrangiert; ordnungsliebend, organisationsfreudig.</dif>
     <trd lng="de" fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ordnungsliebend</trd>
   </snc>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">organised</trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">orderly</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>ingenioso</trd>
   </trdgrp>
@@ -982,6 +986,10 @@
     <trd>Satzstellung</trd>,
     <trd>Satzbau</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">word order</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sentence structure</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arangx.kun0o">
@@ -1018,6 +1026,10 @@
     <trdgrp lng="de">
       <trd fnt="AI: en id be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Koordinierung</trd>,
       <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zusammenstellung</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">coordination</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">combination</trd>
     </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x534F;&#x4F5C; <pr>xi&eacute;zu&ograve;</pr></trd>,
@@ -1145,6 +1157,10 @@
     <trd>Missmanagment</trd>,
     <trd>Durcheinander</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">misarrangement</trd>,
+    <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">disorganisation</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arangx.danc0o">
@@ -1168,6 +1184,7 @@
     </dif>
   </snc>
   <trd lng="de">Choreographie</trd>
+  <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">choreography</trd>
 </drv>
 
 <drv mrk="arangx.flor0o">
@@ -1200,6 +1217,7 @@
     <trd>Blumenarrangement</trd>,
     <trd>Blumengebinde</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">flower arrangement</trd>
 </drv>
 
 <drv mrk="arangx.har0o">
@@ -1285,6 +1303,7 @@
     </dif>
   </snc>
   <trd lng="de">kulturelle <ind>Veranstaltung</ind></trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">cultural event</trd>
 </drv>
 
 <drv mrk="arangx.muzik0o">
@@ -1313,6 +1332,7 @@
       <trd>Arrangement <klr>(Musikst&uuml;ck)</klr></trd>,
       <trd>Bearbeitung <klr>(Musikst&uuml;ck)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">arrangement</trd>
   </snc>
   <snc mrk="arangx.muzik0o.evento">
     <dif>
@@ -1326,6 +1346,7 @@
       </ekz>
     </dif>
     <trd lng="de">Musikveranstaltung</trd>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">musical event</trd>
   </snc>
 </drv>
 
@@ -1422,6 +1443,7 @@
     </dif>
   </snc>
   <trd lng="de">Metrum</trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">metre</trd>
 </drv>
 
 </art>

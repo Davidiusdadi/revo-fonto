@@ -150,6 +150,10 @@
     </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_p;&c_a;&c_v;&c_je;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">propagate</trd>,
+    <trd fnt="AI: be ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">preach</trd>
+  </trdgrp>
   <trd lng="fr">r&eacute;pandre<klr> (faire connaitre)</klr></trd>
 <trd lng="id"><baz>risalah</baz>merisalahkan</trd>
 </drv>

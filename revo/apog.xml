@@ -305,6 +305,10 @@
       </ekz>
     </dif>
     <trd lng="de">sich <ind>st&uuml;tzen</ind></trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr it ja pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">lean</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">rest</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#20208;&#36084; <pr>y&#462;ngl&agrave;i</pr></trd>,
     <trd>&#20208;&#36182; <pr>y&#462;ngl&agrave;i</pr></trd>,
@@ -393,6 +397,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das, was dazu dient, etwas zu st&uuml;tzen oder sich darauf zu st&uuml;tzen.</dif>
+    <trd lng="en" fnt="AI: de fr it pl sv dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">support</trd>
     <trdgrp lng="zh">
     <trd>&#21449;&#26408; <pr>ch&amacron;m&ugrave;</pr></trd>,
     <trd>&#21449;&#29366;&#26550; <pr>ch&amacron;zhu&agrave;ngji&agrave;</pr></trd>,
@@ -518,6 +523,10 @@
       <ref cel="distan.sin0igi.FIG">sin distancigi</ref>
     </refgrp>
     <trd lng="de">ablehnen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de be fr id pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">reject</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">disapprove</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#21520;&#24323; <pr>t&#468;q&igrave;</pr></trd>,
     <trd>&#21520;&#26820; <pr>t&#468;q&igrave;</pr></trd>,

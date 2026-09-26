@@ -125,6 +125,7 @@
     <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">appetitlich</trd>
   </snc>
   <trd lng="be">&c_a;&c_p;&c_e;&c_t;&c_y;&c_t;&c_n;&c_y;</trd>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">appetizing</trd>
   <trdgrp lng="he">
     <trd>&mem;&tsadi;&vav;&dalet;&dalet;</trd>,
     <trd>&mem;&vav;&shin;&fkaf;</trd>
@@ -164,6 +165,7 @@
   </trdgrp>
   <trd lng="cs">vzbuzuj&iacute;c&iacute; chu&tcaron; k j&iacute;dlu</trd>
   <trd lng="de" fnt="AI: ref cs sk he; proponis claude-opus-5-5; kontrolis claude-opus-5-5">appetitanregend</trd>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">appetizing</trd>
   <trd lng="he">&mem;&#1456;&ayin;&vav;&#1465;&resh;&#1461;&resh;
   &tav;&#1461;&alef;&#1464;&bet;&vav;&#1465;&fnun;</trd>
   <trd lng="id"><baz>gugah</baz>menggugah selera</trd>
@@ -285,6 +287,7 @@
   </trdgrp>
   <trd lng="ca">aperitiu</trd>
   <trd lng="de">Appetitanreger</trd>
+  <trd lng="en" fnt="AI: be de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">appetiser</trd>
   <trd lng="fr">ap&eacute;ritif</trd>
   <trdgrp lng="id">
     <trd>aperitif</trd>,

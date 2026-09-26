@@ -136,6 +136,7 @@
       <trd>best&auml;tigen</trd>,
       <trd>genehmigen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">certify</trd>
     <trd lng="fr">agr&eacute;er</trd>
     <trdgrp lng="hu">
       <trd>j&oacute;v&aacute;hagy</trd>,
@@ -395,6 +396,7 @@
     <trd>probat</trd>,
     <trd>genehm</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">approvable</trd>
   <trd lng="he">&#x5D0;&#x5D5;&#x5E9;&#x5E8;</trd>
   <trdgrp lng="id">
     <trd>patut diakui</trd>,
