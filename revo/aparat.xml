@@ -48,6 +48,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A collection of objects or instruments used to perform a task.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zusammenstellung von Gegenst&auml;nden oder Instrumenten, die dazu dient, etwas auszuf&uuml;hren.</dif>
 
     <subsnc mrk="aparat.0o.POL">
@@ -90,6 +91,7 @@
            </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A body of official organisations for fulfilling a social or societal function.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit amtlicher Organisationen zur Erf&uuml;llung einer gesellschaftlichen Aufgabe.</dif>
       <trd lng="de">Apparat <klr>(polit.)</klr></trd>
       <trdgrp lng="hu">
@@ -124,6 +126,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A group of organs.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gesamtheit von Organen.</dif>
       <refgrp tip="vid">
         <ref cel="organ.0aro">organaro</ref>,
@@ -171,6 +174,7 @@
         la kritika <tld/>o de Eneado<fnt><bib>PIV1</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Supplementary text (notes, bibliography, etc.) in a scholarly book.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Begleittext (Anmerkungen, Bibliographie usw.) in einem wissenschaftlichen Buch.</dif>
     <trd lng="hu">appar&aacute;tus</trd>
     <trd lng="ca">aparat</trd>
@@ -242,6 +246,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A collection of devices.</dif>
     <ref tip="sin" cel="ekip.0ajxo">ekipa&jcirc;o</ref>
     <trd lng="en" fnt="AI: ref de it ca pl ro; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">equipment</trd>
     <trd lng="it">equipaggiamento<klr> (insieme di apparati)</klr></trd>
@@ -274,6 +279,7 @@
       datumportilojn, ofte kontraste al
       <ref tip="ant" cel="progra.0aro">programaro</ref>.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">All the physical equipment of a computer, including data storage media, often contrasted with software.</dif>
     <trdgrp lng="de">
       <trd>Hardware</trd>,
       <trd>Ausr&uuml;stung</trd>
@@ -325,6 +331,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A device for flying or travelling through the air, for example a balloon, parachute or aircraft.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Apparat zum Fliegen, zur Fortbewegung in der Luft, zum Beispiel Ballon, Fallschirm, Flugzeug.</dif>
     <trd lng="zh">&#x9D96; <pr>qi&umacron;</pr></trd>
 </snc>

@@ -77,6 +77,7 @@
         <trd lng="hu">a mag&aacute;&eacute; mindenkinek kedves</trd>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To be someone's property or possession.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandes Eigentum oder Besitz sein.</dif>
     <refgrp tip="vid">
       <ref cel="dispon.0i.havi">disponi<sncref/></ref>,
@@ -140,6 +141,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To be someone's affair; to depend on someone or something.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandes Sache sein, von jemandem abh&auml;ngen.</dif>
     <refgrp tip="vid">
       <ref cel="koncer.0i">koncerni</ref>,
@@ -209,6 +211,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To be part of something, one of a group.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil von etwas sein, einer von &#x2026; sein.</dif>
     <refgrp tip="vid">
       <ref cel="al.0igxi">ali&gcirc;i</ref>,
@@ -241,6 +244,7 @@
         <frm am="a notin bb E">a&#8713;<g>E</g></frm>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To be an element of a set.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Zu einer Menge) Element dieser Menge sein.</dif>
     <refgrp tip="vid">
       <ref cel="hav.en0i.aro">enhavi</ref>
