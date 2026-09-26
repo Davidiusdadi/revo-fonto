@@ -284,6 +284,10 @@
       <ref cel="vizit.0i">viziti</ref>
     </refgrp>
     <trd lng="br">en em gavout</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr es; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">appear</trd>,
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">show up <klr>(colloquial)</klr></trd>
+    </trdgrp>
     <trd lng="es">aparecer</trd>
     <trdgrp lng="fr">
       <trd>para&icirc;tre</trd>,
@@ -507,6 +511,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vorstellung, Ver&ouml;ffentlichung, Markteinf&uuml;hrung.</dif>
+    <trdgrp lng="en">
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">release</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">publication</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd>wyst&eogonek;p</trd>,
       <trd>widok</trd>
@@ -540,6 +548,7 @@
       <trd fnt="AI: ru pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Erscheinung</trd>,
       <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ph&auml;nomen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: fr pl ru ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">phenomenon</trd>
     <trd lng="fr">ph&eacute;nom&egrave;ne</trd>
     <trd lng="hu">jelens&eacute;g</trd>
     <trd lng="pl">zjawisko</trd>
@@ -748,6 +757,10 @@
       <trd>&c_s;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
     <trd lng="de">hervorbringen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">bring forth <klr>(formal)</klr></trd>,
+      <trd fnt="AI: be ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">create</trd>
+    </trdgrp>
   </snc>
   <refgrp tip="vid">
     <ref cel="don.el0i">eldoni</ref>,
@@ -1131,6 +1144,7 @@
       <ref cel="fand.dis0ifor0i">forfandi</ref>,
       <ref cel="vual.0o">vualo</ref>
     </refgrp>
+    <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">remove</trd>
     <trdgrp lng="ru">
       <trd>&c_z;&c_a;&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_mol;
       <ind>&c_i;&c_s;&c_ch;&c_je;&c_z;&c_n;&c_u;&c_t;&c_mol;</ind>

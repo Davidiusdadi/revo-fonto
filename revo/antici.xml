@@ -107,6 +107,7 @@
       <trd>vorausbezahlen</trd>,
       <trd><klr>im </klr>Voraus <ind>bezahlen</ind></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: ref de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">prepay</trd>
   </snc>
   <trd lng="ca">anticipar</trd>
   <trdgrp lng="cs">
@@ -268,6 +269,7 @@
     <trd>im <ind>Angesicht</ind> von</trd>,
     <trd>in <ind>Erwartung</ind> von</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">in anticipation of</trd>
   <trd lng="fr">en pr&eacute;vision de</trd>
   <trdgrp lng="pl">
     <trd>wpierw</trd>,

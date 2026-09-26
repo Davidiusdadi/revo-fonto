@@ -197,6 +197,10 @@
     <trd>Enfilade</trd>,
     <trd>Raumflucht</trd>
   </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">apartment</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">suite</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x516C;&#x5BD3;&#x5F0F;&#x4F4F;&#x623F;
     <pr>g&#x14D;ngy&#xF9;sh&#xEC;zh&#xF9;f&#xE1;ng</pr></trd>,

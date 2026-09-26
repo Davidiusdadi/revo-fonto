@@ -396,6 +396,10 @@
       <trd>Unterteilung</trd>,
       <trd>Separee</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">compartment</trd>,
+      <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">section</trd>
+    </trdgrp>
     <trd lng="es">lugar <ind>reservado</ind></trd>
     <trd lng="ru">&c_o;&c_t;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd lng="sk">vyhraden&eacute; <ind>miesto</ind></trd>
@@ -806,6 +810,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass man es trennen kann.</dif>
     <trd lng="de" fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trennbar</trd>
+    <trd lng="en" fnt="AI: pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">separable</trd>
     <trd lng="es">desmontable</trd>
     <trdgrp lng="pl">
       <trd>rozdzielny</trd>,
@@ -955,6 +960,10 @@
   <trdgrp lng="de">
     <trd fnt="AI: es fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">getrennt von</trd>,
     <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abseits von</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">apart from</trd>,
+    <trd fnt="AI: de es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">separately from</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>aparte de</trd>,
