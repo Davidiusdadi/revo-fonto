@@ -614,6 +614,7 @@
       <trd>&c_a;&c_r;&c_t;&c_e;&c_f;&c_a;&c_k;&c_t;</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Artefakt</trd>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">artefact</trd>
     <trdgrp lng="id">
       <trd>produk buatan</trd>,
       <trd>produk artifisial</trd>
@@ -683,6 +684,7 @@
       <trd>Kunstsinn</trd>,
       <trd>Kunstverstand</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">artistry</trd>
     <trd lng="fr">sens artistique</trd>
     <trd lng="he">&alef;&mem;&nun;&vav;&tav;&yod;&vav;&tav;</trd>
     <trd lng="hu">m&udblac;&eacute;rz&eacute;k</trd>
@@ -727,6 +729,7 @@
     </refgrp>
     <trd lng="be">&c_v;&c_y;&c_ch;&c_v;&c_a;&c_r;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>
     <trd lng="de">Verk&uuml;nstelung</trd>
+    <trd lng="en" fnt="AI: de be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">affectation</trd>
   </snc>
   <trdgrp lng="ja">
     <trd>&#x82B8;&#34899;&#24615;  <pr>&#12370;&#12356;&#12376;&#12421;&#12388;&#x305B;&#12356;</pr></trd>,
@@ -851,6 +854,7 @@
     </dif>
     <trd lng="be">&c_a;&c_k;&c_r;&c_a;&c_b;&c_a;&c_t;</trd>
     <trd lng="de">Artist</trd>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">acrobat</trd>
   <trd lng="id"><baz>main</baz>pemain akrobat</trd>
   </snc>
   <trd lng="cv">&c_a;&c_r;&c_t;&c_i;&c_s;&c_t;</trd>
@@ -917,6 +921,7 @@
     <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">angewandte Kunst</trd>,
     <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kunstgewerbe</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">applied arts</trd>
   <trd lng="fr">art appliqu&eacute;</trd>
 <trd lng="id">seni terapan</trd>
 </drv>
@@ -1109,6 +1114,7 @@
   <trd lng="be">&c_t;&c_v;&c_o;&c_r; <klr>(&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_ib;)</klr></trd>
   <trd lng="ca">obra d'<ind>art</ind></trd>
   <trd lng="de">Kunstwerk</trd>
+  <trd lng="en" fnt="AI: de fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">work of art</trd>
   <trd lng="fr">&oelig;uvre d'art</trd>
   <trd lng="hu">m&udblac;t&aacute;rgy</trd>
   <trd lng="id">karya seni</trd>
@@ -1143,6 +1149,7 @@
   <trd lng="ca">dansa</trd>
   <trd lng="cs">tane&ccaron;n&iacute; um&ecaron;n&iacute;</trd>
   <trd lng="de">Tanzkunst</trd>
+  <trd lng="en" fnt="AI: fr it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dance</trd>
   <trd lng="fr">danse<klr> (art)</klr></trd>
   <trd lng="hu">t&aacute;ncm&udblac;v&eacute;szet</trd>
   <trd lng="id">seni tari</trd>
@@ -1189,6 +1196,7 @@
   </trdgrp>
   <trd lng="ca">dibuix</trd>
   <trd lng="de">Zeichnen</trd>
+  <trd lng="en" fnt="AI: de fr it; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">drawing</trd>
   <trdgrp lng="fr">
     <trd>dessin<klr> (art)</klr></trd>
   </trdgrp>
@@ -1237,6 +1245,7 @@
     <trd fnt="AI: fr it cs ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dramatische Kunst</trd>,
     <trd fnt="AI: ru fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;hnenkunst</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr pl ro; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">drama</trd>
   <trdgrp lng="fr">
     <trd>art dramatique</trd>,
     <trd>th&eacute;&acirc;tre<klr tip="amb"> (art dramatique)</klr>
@@ -1425,6 +1434,7 @@
   <ind>&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</ind></trd>
   <trd lng="cs">p&ecaron;veck&eacute; um&ecaron;n&iacute;</trd>
   <trd lng="de">Gesangskunst</trd>
+  <trd lng="en" fnt="AI: de fr it; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">singing</trd>
   <trd lng="fr">art du <ind>chant</ind></trd>
   <trdgrp lng="id">
     <trd>seni musik</trd>,
@@ -1715,6 +1725,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kunst des Heilens, praktischer Teil der Medizin.</dif>
+    <trd lng="en" fnt="AI: de cs dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">healing art</trd>
     <trdgrp lng="zh">
     <trd>&#x533B;&#36947; <pr>y&imacron;d&agrave;o</pr></trd>,
     <trd>&#x91AB;&#36947; <pr>y&imacron;d&agrave;o</pr></trd>
@@ -1875,6 +1886,7 @@
     <trd>dekorative Kunst</trd>,
     <trd>Kunstegewerbe</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr it; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">decorative arts</trd>
   <trdgrp lng="fr">
     <trd>arts d&eacute;coratifs</trd>
   </trdgrp>
@@ -1934,6 +1946,10 @@
   <trdgrp lng="de">
     <trd>Rhetorik</trd>,
     <trd>Redekunst</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">rhetoric</trd>,
+    <trd fnt="AI: de it pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">oratory</trd>
   </trdgrp>
   <trd lng="fr">r&eacute;thorique</trd>
   <trdgrp lng="hu">
@@ -2073,6 +2089,10 @@
   <trdgrp lng="de">
     <trd>Reitkunst</trd>,
     <trd>Voltigieren</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr cs; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">horsemanship</trd>,
+    <trd fnt="AI: fr it pt; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">equitation <klr>(formal)</klr></trd>
   </trdgrp>
   <trd lng="fr">&eacute;quitation</trd>
   <trd lng="hu">lovagl&oacute;m&udblac;v&eacute;szet</trd>
@@ -2227,6 +2247,7 @@
   </snc>
   <trd lng="be">&c_v;&c_ib;&c_d;&c_e;&c_a;&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</trd>
   <trd lng="de" fnt="AI: fr it id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Videokunst</trd>
+  <trd lng="en" fnt="AI: fr it id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">video art</trd>
   <trd lng="fr">art vid&eacute;o</trd>
   <trd lng="id">seni video</trd>
   <trd lng="it">video arte</trd>

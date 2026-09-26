@@ -88,6 +88,7 @@
       <trd>Ger&uuml;st</trd>,
       <trd>Schalung</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">scaffolding</trd>
     <trdgrp lng="es">
       <trd>maderamen</trd>,
       <trd>maderaje</trd>
@@ -113,6 +114,7 @@
       <trd>Elektrode <klr>(Kondensator)</klr></trd>,
       <trd>Kondensatorplatte</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">capacitor plate</trd>
     <trd lng="es">armadura<klr> (de condensador)</klr></trd>
     <trd lng="hu">fegyverzet</trd>
     <trd lng="pl">ok&lstroke;adzina</trd>
@@ -125,6 +127,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Magneten) Eisenst&uuml;ck, das den magnetischen Kreis schlie&szlig;t.</dif>
     <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anker</trd>
+    <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">keeper</trd>
     <trdgrp lng="es">
       <trd>est&aacute;tor</trd>,
       <trd>armadura<klr> (de im&aacute;n)</klr></trd>
@@ -181,6 +184,7 @@
     <trd>opat&rcaron;it v&yacute;ztu&zcaron;&iacute;</trd>
   </trdgrp>
   <trd lng="de">verst&auml;rken <klr>(Armatur)</klr></trd>
+  <trd lng="en" fnt="AI: de fr it pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">reinforce</trd>
   <trd lng="es">proporcionar una armadura</trd>
   <trd lng="fr">armer<klr tip="ind"> (d'une armature)</klr></trd>
   <trd lng="he">&#x5DC;&#x5D7;&#x5D6;&#x5E7;</trd>

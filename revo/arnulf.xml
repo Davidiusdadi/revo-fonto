@@ -38,6 +38,7 @@
       <trd>Arnulf</trd>,
       <trd>Arnolf</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Arnulf</trd>
     <trd lng="pl">Arnulf</trd>
   </snc>
 <trd lng="be">&c_A;&c_r;&c_n;&c_u;&c_l;&c_mol;&c_f;</trd>
@@ -64,6 +65,7 @@
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_d;&c_o;&c_w;&c_n;&c_ib;&c_k;&c_ib; <ind>&c_A;&c_r;&c_n;&c_u;&c_l;&c_mol;&c_f;&c_a;</ind> &c_M;&c_e;&c_c;&c_k;&c_a;&c_g;&c_a;</trd>
   <trd lng="de">Arnolfinger</trd>
+  <trd lng="en" kod="HIS" fnt="AI: de pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Arnulfing <klr>(historical)</klr></trd>
   <trd lng="pl">Arnulfingowie</trd>
 </drv>
   </art>

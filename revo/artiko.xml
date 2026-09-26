@@ -299,6 +299,7 @@
     </trdgrp>
   <trd lng="cs">soubor &ccaron;l&aacute;nk&uring;</trd>
   <trd lng="de">Artikelsammlung</trd>
+  <trd lng="en" fnt="AI: de cs ru sk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">collection of articles</trd>
   <trd lng="fr">recueil<klr> (d'articles)</klr></trd>
   <trd lng="pl">artyku&lstroke;&oacute;w zbi&oacute;r</trd>
   <trd lng="ro">articole din colec&#x21B;ie</trd>
@@ -343,6 +344,7 @@
   </snc>
   <trd lng="be">&c_p;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_y;</ind></trd>
   <trd lng="de">Artikel <ind>schreiben</ind></trd>
+  <trd lng="en" fnt="AI: be fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">publish articles</trd>
   <trd lng="fr">faire paraitre des <ind>articles</ind></trd>
   <trd lng="id"><baz>terbit</baz>menerbitkan artikel</trd>
   <trd lng="pl">artyku&lstroke; napisa&cacute;</trd>
@@ -402,6 +404,10 @@
   <trdgrp lng="de">
     <trd>Leitartikel</trd>,
     <trd>Editorial</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">editorial</trd>,
+    <trd fnt="AI: de pl ro dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">leading article <klr>(British)</klr></trd>
   </trdgrp>
   <trd lng="fr">&eacute;ditorial</trd>
   <trdgrp lng="id">
