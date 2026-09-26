@@ -47,6 +47,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To present arguments in a discussion.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer Diskussion Argumente vorbringen.</dif>
     <ref tip="malprt" cel="pruv.0i">pruvi</ref>
     <refgrp tip="vid">
@@ -160,6 +161,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A reasoned proof in a discussion.</dif>
     <refgrp tip="prt">
        <ref cel="premis.0o">premiso</ref>,
        <ref cel="konklu.0o">konkludo</ref>
@@ -199,6 +201,7 @@
           (resp. <ref cel="faktor.0o.multip">faktoroj</ref>).
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a function, operation or relation).</dif>
       <ref tip="vid" cel="parame.0o.MAT">parametro.</ref>
       <rim>
         La nocio estas sufi&ccirc;e elasta. Kiel <tld/>on
@@ -254,6 +257,7 @@
           <klr> (se negativa)</klr>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a complex number z) A real number &theta; such that z = |z|&middot;(cos&theta; + i&middot;sin&theta;), where |z| represents the modulus of z.</dif>
       <trd lng="de">Argument</trd>
       <trdgrp lng="en">
         <trd>argument<klr tip="ind"> (of a complex number)</klr></trd>,
@@ -450,6 +454,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An argument opposing and rebutting a previous assertion or line of reasoning.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein Argument, das einer vorher ge&auml;u&szlig;erten Behauptung oder &Uuml;berlegung entgegentritt und sie zu entkr&auml;ften sucht.</dif>
   </snc>
   <trd lng="be">&c_k;&c_o;&c_n;&c_t;&c_a;&c_r;&c_a;&c_r;&c_g;&c_u;&c_m;&c_e;&c_n;&c_t;</trd>

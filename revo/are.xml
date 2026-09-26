@@ -52,6 +52,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A part of the Earth's surface with defined boundaries or a defined use.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil der Erdoberfl&auml;che mit festgelegten Grenzen oder festgelegter Nutzung.</dif>
     <refgrp tip="vid">
       <ref cel="aren.0o">areno</ref>,
@@ -96,6 +97,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A defined part of a surface.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Festgelegter Teil einer Oberfl&auml;che.</dif>
   <trdgrp lng="de">
     <trd>Areal</trd>,
@@ -127,6 +129,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The measure of a surface.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ma&szlig; einer Oberfl&auml;che.</dif>
       <trd lng="de">Fl&auml;cheninhalt</trd>
       <trd lng="en">area<klr tip="ind"> (of a surface)</klr></trd>
@@ -170,6 +173,7 @@
         <fnt><bib>OA9</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A physical quantity expressing the measure of a surface.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Physikalische Gr&ouml;&szlig;e, die das Ma&szlig; einer Oberfl&auml;che ausdr&uuml;ckt.</dif>
     <refgrp tip="vid">
       <ref cel="metr.kvadrata0o">kvadrata metro</ref>
@@ -307,6 +311,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To extend over or fully occupy.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Umfassen, vollst&auml;ndig einnehmen.</dif>
   </snc>
   <trdgrp lng="be">
@@ -331,6 +336,7 @@
       <ref tip="dif" cel="surfac.0o.MAT">Surfaco</ref>, precipe se
       &gcirc;i havas finitan <tld/>on.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A surface, especially if it has a finite area.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fl&auml;che, besonders wenn sie einen endlichen Fl&auml;cheninhalt hat.</dif>
     <trdgrp lng="zh">
     <trd>&#20998;&#20296;&#21312; <pr>f&emacron;nb&ugrave;q&umacron;</pr></trd>,
@@ -362,6 +368,7 @@
       <klr>(pri <ref cel="surfac.0o.MAT">surfacoj</ref>)</klr>
       Havantaj saman <ref cel="are.0o"><tld/>on</ref>.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of surfaces) Having the same area.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von Fl&auml;chen) Denselben Fl&auml;cheninhalt habend.</dif>
     <trdgrp lng="zh">
     <trd>&#24179;&#38754;&#30456;&#31561; <pr>p&iacute;ngmi&agrave;nxi&amacron;ngd&ecaron;ng</pr></trd>,
