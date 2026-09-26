@@ -321,6 +321,7 @@
       </ekz>
     </dif>
     <trd lng="de">versilbern</trd>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">silver</trd>
     <trd lng="id"><baz>perak</baz>memerakkan</trd>
   </snc>
   <snc mrk="argxen.0i.brili">
@@ -346,6 +347,7 @@
       </ekz>
     </dif>
   <trd lng="de">silbern <ind>gl&auml;nzen</ind></trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">silver</trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_s;&c_je;&c_r;&c_a;&c_b;&c_r;&c_y;&c_c;&c_mol;</trd>
   <trd lng="bg">&c_p;&c_o;&c_s;&c_r;&c_je;&c_b;&c_r;&c_ja;&c_v;&c_a;&c_m;</trd>
@@ -432,6 +434,7 @@
     <trd>Quecksilber</trd>,
     <trd>lebendiges Silber<klr> (Quecksilber)</klr></trd>
   </trdgrp>
+  <trd lng="en" kod="ARK" fnt="AI: de fr nl sv; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">quicksilver <klr>(dated)</klr></trd>
   <trdgrp lng="fr">
     <trd>mercure<klr tip="amb"> (m&eacute;tal)</klr></trd>,
     <trd>vif-argent</trd>

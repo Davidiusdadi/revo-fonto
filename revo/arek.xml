@@ -63,6 +63,10 @@
       <trd>Betelnuss</trd>,
       <trd>Arekanuss</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">areca nut</trd>,
+      <trd fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">betel nut</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>noix d'arec</trd>,
       <trd>noix de b&eacute;tel</trd>
@@ -96,6 +100,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kern der Frucht der Arekapalme mit essbarem Samen.</dif>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">areca nut</trd>,
+      <trd fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">betel nut</trd>
+    </trdgrp>
     <trd lng="zh">&#x68B9; <pr>b&#x12B;ng</pr></trd>
 </snc>
   <trd lng="be">&c_a;&c_r;&c_e;&c_k;&c_a;&c_v;&c_y; &c_a;&c_r;&c_e;&c_h;</trd>

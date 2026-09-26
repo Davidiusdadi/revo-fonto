@@ -328,6 +328,7 @@
     <trd>&c_d;&c_r;&c_e;&c_w;&c_n;&c_y;</trd>,
     <trd>&c_d;&c_r;&c_a;&c_w;&c_l;&c_ja;&c_n;&c_y;</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: es pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">arboreal</trd>
   <trdgrp lng="es">
     <trd>arb&oacute;reo</trd>,
     <trd>del &aacute;rbol</trd>
@@ -358,6 +359,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gef&auml;llte oder umgest&uuml;rzte B&auml;ume oder Teile von B&auml;umen und Str&auml;uchern.</dif>
     <ref tip="vid" cel="lign.0o">ligno</ref>
+    <trd lng="en" fnt="AI: de pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">brushwood</trd>
     <trdgrp lng="zh">
     <trd>&#22534;&#31215;&#30340;&#26612;&#34218; <pr>du&imacron;j&imacron;dech&aacute;ix&imacron;n</pr></trd>,
     <trd>&#22534;&#31309;&#30340;&#26612;&#34218; <pr>du&imacron;j&imacron;dech&aacute;ix&imacron;n</pr></trd>
@@ -910,6 +912,10 @@
           ref="&WCW;/File:Socotra_dragon_tree.JPG">https://commons.wikimedia.org/wiki/File:Socotra_dragon_tree.JPG</url></lok>
         </fnt>
     </bld>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr la; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dragon tree</trd>,
+      <trd fnt="AI: es pl la; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dracaena</trd>
+    </trdgrp>
     <trdgrp lng="zh">
       <trd>&#23500;&#36020;&#31481; <pr>f&ugrave;gu&igrave;zh&uacute;</pr></trd>,
       <trd>&#23500;&#36149;&#31481; <pr>f&ugrave;gu&igrave;zh&uacute;</pr></trd>
@@ -1360,6 +1366,7 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
     <trd lng="be">&c_v;&c_y;&c_s;&c_ja;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je;
     <klr>(&c_d;&c_r;&c_e;&c_v;&c_a;&c_w;)</klr></trd>
   <trd lng="de" fnt="AI: fr es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Rodung</trd>
+  <trd lng="en" fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">clearing</trd>
   <trdgrp lng="es">
     <trd>limpiado <klr>(de un terreno)</klr></trd>,
     <trd>desmalezado</trd>
