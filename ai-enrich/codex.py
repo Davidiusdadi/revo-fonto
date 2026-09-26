@@ -61,16 +61,23 @@ def saved(out, lng, stage, run, articles):
 def bundle(i, articles, a):
     logs = HERE / "out" / a.lng / "codex-logs" / a.run
     logs.mkdir(parents=True, exist_ok=True)
-    rc, dt = codex(task("propose", a.lng, a.run, a.propose_model, a.out, articles), a.propose_model, a.propose_effort,
-                   False, logs / f"{i:03d}-propose.log")
+    # Resuming a run (after a usage limit, say) skips what this run already saved.
+    todo = [x for x in articles if x not in saved(a.out, a.lng, "propose", a.run, articles)]
+    if todo:
+        rc, dt = codex(task("propose", a.lng, a.run, a.propose_model, a.out, todo), a.propose_model, a.propose_effort,
+                       False, logs / f"{i:03d}-propose.log")
+        print(f"bundle {i}: propose rc={rc} {dt:.0f}s", flush=True)
     prop = saved(a.out, a.lng, "propose", a.run, articles)
-    print(f"bundle {i}: propose rc={rc} {dt:.0f}s saved {len(prop)}/{len(articles)}", flush=True)
+    print(f"bundle {i}: proposals saved {len(prop)}/{len(articles)}", flush=True)
     if not prop:
         return articles, []
-    rc, dt = codex(task("check", a.lng, a.run, a.check_model, a.out, prop), a.check_model, a.check_effort,
-                   True, logs / f"{i:03d}-check.log")
+    todo = [x for x in prop if x not in saved(a.out, a.lng, "check", a.run, prop)]
+    if todo:
+        rc, dt = codex(task("check", a.lng, a.run, a.check_model, a.out, todo), a.check_model, a.check_effort,
+                       True, logs / f"{i:03d}-check.log")
+        print(f"bundle {i}: check rc={rc} {dt:.0f}s", flush=True)
     chk = saved(a.out, a.lng, "check", a.run, prop)
-    print(f"bundle {i}: check rc={rc} {dt:.0f}s saved {len(chk)}/{len(prop)}", flush=True)
+    print(f"bundle {i}: checks saved {len(chk)}/{len(prop)}", flush=True)
     return articles, chk
 
 
