@@ -53,6 +53,7 @@
         <trd lng="ru">&c_n;&c_u;&c_l;&c_je;&c_v;&c_o;&c_j; &c_a;&c_r;&c_t;&c_i;&c_k;&c_l;&c_mol;</trd>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A determiner, a small word (or, in some languages, an inflection) used with a noun (or with a nominal adjective, preposition or phrase) to determine it.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bestimmungswort, W&ouml;rtchen (oder in manchen Sprachen ein Flexionsmittel), das bei einem Substantiv (oder bei einem substantivierten Adjektiv, einer Pr&auml;position, einer Wendung) steht, um es zu bestimmen.</dif>
     <ref tip="vid" cel="la.0">la</ref>
     <rim num="1">
@@ -85,6 +86,7 @@
     <dif>
       Tekstopeco el pli granda tuto:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A piece of text from a larger whole.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Textst&uuml;ck aus einem gr&ouml;&szlig;eren Ganzen.</dif>
     <subsnc mrk="artiko.0o.gazeta">
       <dif>
@@ -138,6 +140,7 @@
           redakcia <tld/>o.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A relatively short scientific, political, critical, etc. work in a newspaper, magazine, collection of articles or brochure.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verh&auml;ltnism&auml;&szlig;ig kurzes wissenschaftliches, politisches, kritisches usw. Werk in einer Zeitung, Zeitschrift, Artikelsammlung oder Brosch&uuml;re.</dif>
       <trd lng="br">pennad<klr tip="ind"> (skrid)</klr></trd>
       <trdgrp lng="nl">
@@ -198,6 +201,7 @@
           paragrafo <fnt>PIV</fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A section, chapter or paragraph in a law, dictionary, contract, resolution, etc.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abschnitt, Kapitel oder Paragraf in einem Gesetz, W&ouml;rterbuch, Vertrag, einer Resolution usw.</dif>
       <trd lng="br">mellad</trd>
     </subsnc>
@@ -283,6 +287,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A collection of texts: a book containing articles by various authors on a particular subject.</dif>
     <refgrp tip="vid">
       <ref cel="analekt.0o">analekto</ref>,
       <ref cel="epitom.0o">epitomo</ref>,
@@ -341,6 +346,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Publish an article or articles.</dif>
   </snc>
   <trd lng="be">&c_p;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_y;</ind></trd>
   <trd lng="de">Artikel <ind>schreiben</ind></trd>
@@ -386,6 +392,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An introductory newspaper article presenting current topics.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einleitender Zeitungsartikel, der aktuelle Themen behandelt.</dif>
     <trdgrp lng="zh">
     <trd>&#x793E;&#x8AD6; <pr>sh&#xE8;l&#xF9;n</pr></trd>,
@@ -452,6 +459,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An article indicating that the word concerned has already appeared in the preceding text or is known to the listener or reader from the situation.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Artikel, der anzeigt, dass das betreffende Wort bereits im vorangehenden Text vorgekommen ist oder dem H&ouml;rer oder Leser aus der Situation bekannt ist.</dif>
     <trdgrp lng="zh">
     <trd>&#x5B9A;&#x51A0;&#x8A5E; <pr>d&#xEC;nggu&#xE0;nc&#xED;</pr></trd>,

@@ -54,6 +54,7 @@
         <fnt><bib>MT</bib>, <lok>&Gen; 9:13</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An object having the shape of part of a circle or a similar curve.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenstand, der die Form eines Teils eines Kreises oder einer &auml;hnlichen Kurve hat</dif>
     <trd lng="de">Bogen</trd>
     <trd lng="en">arch<klr> (noun)</klr></trd>
@@ -103,6 +104,7 @@
           <ref cel="cirkon.0o">cirkonferenco</ref>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A segment of a curve, especially of a circle.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abschnitt einer Kurve, besonders eines Kreises</dif>
       <rim>
         Oni ne konfuzu la <tld/>on, <ref cel="segmen.0o.linio">segmento</ref>
@@ -135,6 +137,7 @@
         <ref cel="angul.centra0o">centra angulo</ref> kaj konvencie
         identigita kun &gcirc;i.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An arc cut off on a circle by a central angle and conventionally identified with it.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bogen, den ein Mittelpunktswinkel aus einem Kreis herausschneidet und der &uuml;blicherweise mit diesem Winkel gleichgesetzt wird</dif>
       <refgrp tip="vid">
         <ref cel="sinus.ark0o">arksinuso</ref>,
@@ -194,6 +197,7 @@
         &c_l;&c_a;&c_m;&c_p;&c_a;</trd>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A luminous arc forming between two separated carbon poles.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Leuchtender Bogen, der sich zwischen zwei voneinander getrennten Kohlepolen bildet</dif>
     <trdgrp lng="de">
       <trd>Bogen</trd>,
@@ -430,6 +434,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To make arch-shaped.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bogenf&ouml;rmig machen</dif>
     <refgrp tip="vid">
       <ref cel="gxib.0o">&gcirc;ibo</ref>
@@ -515,6 +520,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To become arch-shaped.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bogenf&ouml;rmig werden</dif>
   </snc>
   <trdgrp lng="be">
@@ -633,6 +639,7 @@
         <fnt><bib>NT</bib>, <lok>&Apo; 10:1</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A seven-coloured arc in the sky after rain.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Siebenfarbiger Bogen am Himmel nach einem Regen</dif>
     <trdgrp lng="zh">
     <trd>&#x5F69;&#34425; <pr>c&#x1CE;ih&oacute;ng</pr></trd>,
@@ -686,6 +693,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The appearance of the moon when a small, arch-shaped part of it is visible at the beginning or end of its cycle.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Erscheinung des Mondes, wenn zu Beginn oder am Ende seines Zyklus nur ein kleiner, bogenf&ouml;rmiger Teil von ihm sichtbar ist</dif>
     <refgrp tip="vid">
       <ref cel="kresce.0o">krescento</ref>

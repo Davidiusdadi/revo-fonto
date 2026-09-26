@@ -57,6 +57,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Metal rods, pieces or wires that reinforce masonry, timberwork, castings, etc.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Metallst&auml;be, -teile oder -dr&auml;hte, die Mauerwerk, Zimmerwerk, Gussteile usw. verst&auml;rken.</dif>
     <ref tip="sin" cel="arm.0ajxo.TEK">arma&jcirc;o<sncref/></ref>
     <trdgrp lng="de">
@@ -79,6 +80,7 @@
       &Ccirc;arpenta&jcirc;o, kiu subtenas konstrua&jcirc;on dum
       konstruado.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A timber framework that supports a structure during construction.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zimmerwerk, das ein Bauwerk w&auml;hrend des Baus st&uuml;tzt.</dif>
     <refgrp tip="vid">
        <ref cel="fram.0o.TEK">framo<sncref/></ref>,
@@ -109,6 +111,7 @@
       trovi&gcirc;as izolanta korpo, kaj kiuj kune formas la
       kondensatoron.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a capacitor) Each of the two plates or metal foils between which there is an insulating body and which together form the capacitor.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kondensators) Jede der beiden Platten oder Metallfolien, zwischen denen sich ein isolierender K&ouml;rper befindet und die zusammen den Kondensator bilden.</dif>
     <trdgrp lng="de">
       <trd>Elektrode <klr>(Kondensator)</klr></trd>,
@@ -125,6 +128,7 @@
       <klr>(de magneto)</klr>
       Fera peco, kiu fermas la magnetan cirkviton.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a magnet) An iron piece that closes the magnetic circuit.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Magneten) Eisenst&uuml;ck, das den magnetischen Kreis schlie&szlig;t.</dif>
     <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Anker</trd>
     <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">keeper</trd>
@@ -176,6 +180,7 @@
     <dif>
       Provizi per <tld/>o.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To provide with reinforcement.</dif>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_m;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_c;&c_mol;
   </trd>
