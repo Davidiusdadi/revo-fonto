@@ -64,6 +64,7 @@
       <trd>um&ecaron;leck&aacute; d&iacute;lna</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: fr cs sk pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Atelier</trd>
+    <trd lng="en" fnt="AI: be pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">studio</trd>
     <trd lng="fr">atelier<klr> (d'artiste)</klr></trd>
     <trd lng="sk">ateli&eacute;r</trd>
   </snc>

@@ -472,6 +472,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Urkunde &uuml;ber Datum und Ort der Eheschlie&szlig;ung von Personen, gew&ouml;hnlich mit der Unterschrift von Zeugen und weiteren Einzelheiten.</dif>
+    <trd lng="en" fnt="AI: de es fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">marriage certificate</trd>
     <trdgrp lng="zh">
     <trd>&#x7D50;&#x5A5A;&#x8B49; <pr>ji&eacute;h&umacron;nzh&egrave;ng</pr></trd>,
     <trd>&#x7ED3;&#x5A5A;&#x8BC1; <pr>ji&eacute;h&umacron;nzh&egrave;ng</pr></trd>,
@@ -567,6 +568,7 @@
     <trd>Quittung</trd>,
     <trd>Kassenbeleg</trd>
   </trdgrp>
+<trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">receipt</trd>
 <trd lng="id">kuitansi</trd>
 </drv>
 
@@ -659,6 +661,7 @@
   </snc>
   <trd lng="be">&c_d;&c_a;&c_w;&c_g;&c_a;&c_v;&c_a;&c_ja; <ind>&c_r;&c_o;&c_s;&c_mol;&c_p;&c_ib;&c_s;&c_k;&c_a;</ind></trd>
   <trd lng="de">Schuldschein</trd>
+  <trd lng="en" fnt="AI: fr de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">acknowledgement of debt</trd>
   <trd lng="fr">reconnaissance de dette</trd>
 <trd lng="id"><baz>aku</baz>pengakuan utang</trd>
 </drv>

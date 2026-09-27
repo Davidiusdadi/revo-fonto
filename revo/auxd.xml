@@ -478,6 +478,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t, das nahe am Ohr gehalten wird und elektrischen Strom in Schall umwandelt.</dif>
     <ref tip="sin" cel="auxsku.0ilo">a&ubreve;skultilo</ref>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">earpiece</trd>,
+      <trd fnt="AI: de ru uk dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">receiver</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#21548;&#31570; <pr>t&imacron;ngt&#466;ng</pr></trd>,
     <trd>&#32893;&#31570; <pr>t&imacron;ngt&#466;ng</pr></trd>,

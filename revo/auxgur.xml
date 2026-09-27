@@ -323,6 +323,11 @@
     <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Augur</trd>,
     <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wahrsager</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">augur</trd>,
+    <trd fnt="AI: ref be id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">diviner</trd>,
+    <trd fnt="AI: ref be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">soothsayer</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>augur</trd>,
     <trd><baz>ramal</baz>peramal</trd>,
@@ -403,6 +408,7 @@
     </dif>
     <trd lng="ca">&agrave;ugur</trd>
     <trd lng="de">Augur</trd>
+    <trd lng="en" kod="HIS" fnt="AI: de ca id it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">augur <klr>(historical)</klr></trd>
     <trd lng="id">augur</trd>
     <trdgrp lng="it">
       <trd>augure</trd>
@@ -593,6 +599,7 @@
     <trd>Handlesen</trd>,
     <trd>Chiromantie</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de ca pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">read palms</trd>
   <trd lng="id"><baz>ramal</baz>meramal dgn tangan</trd>
   <trd lng="pl">wr&oacute;&zdot;y&cacute; z r&eogonek;ki</trd>
 </drv>
