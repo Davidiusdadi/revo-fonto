@@ -938,6 +938,7 @@
       <trd>umz&auml;unen</trd>,
       <trd>umhegen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ca fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">fence in</trd>
     <trd lng="hu">k&ouml;rbeker&iacute;t</trd>
     <trdgrp lng="pl">
       <trd>ogradza&cacute;</trd>,
@@ -1185,6 +1186,7 @@
     <trd>aussperren</trd>,
     <trd>ausschlie&szlig;en</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">exclude</trd>
   <trdgrp lng="id">
     <trd><baz>alang</baz>mengalangi masuk</trd>,
     <trd><baz>cegah</baz>mencegah masuk</trd>,
@@ -1234,6 +1236,7 @@
       <trd>m&ouml;glich <klr>(Durchgang)</klr></trd>,
       <trd>offen <klr>(Weg)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: be id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unobstructed</trd>
     <trd lng="id">tidak terhalang</trd>
     <trdgrp lng="pl">
       <trd>dost&eogonek;pny</trd>,
@@ -1285,6 +1288,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Sperre beseitigen und so den Durchgang oder das Handeln erleichtern.</dif>
   </snc>
+  <trd lng="en" fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">clear</trd>
   <trd lng="fr">lib&eacute;rer<klr> (le passage etc.)</klr></trd>
   <trd lng="pl">usuwa&cacute; <klr>(przeszkod&eogonek;)</klr></trd>
 </drv>
@@ -1445,6 +1449,7 @@
   <ind>&c_e;&c_k;&c_r;&c_a;&c_n;</ind></trd>
   <trd lng="ca">tallafoc<klr tip="amb"> (inform&agrave;tica)</klr></trd>
   <trd lng="de">Firewall</trd>
+  <trd lng="en" fnt="AI: de ca es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">firewall</trd>
   <trd lng="es">cortafuego<klr tip="amb"> (inform&aacute;tica)</klr></trd>
   <trd lng="fr">pare-feu<klr> (informatique)</klr></trd>
   <trdgrp lng="id">

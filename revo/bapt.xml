@@ -232,6 +232,7 @@
   <trd lng="ca">comare <klr tip="amb">(per bateig)</klr></trd>
   <trd lng="cs">kmotra</trd>
   <trd lng="de" kod="ARK" fnt="AI: fr pl ru cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gevatterin <klr>(veraltet)</klr></trd>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">godmother</trd>
   <trd lng="fr">comm&egrave;re<klr tip="amb"> (au
   bapt&ecirc;me)</klr></trd>
   <trdgrp lng="id">
@@ -316,6 +317,7 @@
     <trd fnt="AI: ca pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich taufen lassen</trd>,
     <trd fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">getauft werden</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be baptized</trd>
   <trd lng="fr">recevoir le <ind>bapt&ecirc;me</ind></trd>
   <trdgrp lng="id">
     <trd><baz>baptis</baz>dibaptis</trd>,
@@ -380,6 +382,7 @@
   <trd lng="be">&c_b;&c_a;&c_p;&c_t;&c_y;&c_s;&c_t;</trd>
   <trd lng="ca">baptista <klr tip="amb">(membre de l'esgl&eacute;sia Baptista)</klr></trd>
   <trd lng="de" fnt="AI: fr ca pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Baptist</trd>
+  <trd lng="en" fnt="AI: ca fr pl be ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Baptist</trd>
   <trd lng="fr">baptiste<klr> (subst.)</klr></trd>
   <trdgrp lng="id">
     <trd>umat Baptisme</trd>,

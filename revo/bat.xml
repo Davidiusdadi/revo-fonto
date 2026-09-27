@@ -386,6 +386,10 @@
   </trdgrp>
   <trd lng="ca">pam!<klr tip="amb"> (soroll d&#8217;un cop)</klr></trd>
   <trd lng="de">bum!</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">bam</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">wham</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>&#xA1;bam!</trd>,
     <trd>&#xA1;paf!</trd>
@@ -644,6 +648,7 @@
         <trd>pala</trd>,
         <trd>picador</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">striker</trd>
       <trdgrp lng="es">
         <trd>batidora</trd>
       </trdgrp>
@@ -1370,6 +1375,10 @@
     <refgrp tip="vid">
       <ref cel="romp.0ebla">rompebla</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">breachable</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">penetrable</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x4F1A;&#33104;&#34432; <pr>hu&igrave;f&#x1D4;sh&iacute;</pr></trd>,
     <trd>&#x53EF;&#30772;&#x574F; <pr>k&ecaron;p&ograve;hu&agrave;i</pr></trd>,
@@ -1521,6 +1530,7 @@
     <trd>mit dem <ind>Huf</ind>e schlagen</trd>,
     <trd>ausschlagen <klr>(Huf)</klr></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de it; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">kick</trd>
   <trdgrp lng="fr">
     <trd>piaffer<klr tip="ind"> (en p. d'un cheval)</klr></trd>,
     <trd>battre des sabots</trd>
@@ -1659,6 +1669,7 @@
   <trd lng="be">&c_p;&c_r;&c_a;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">picador<klr tip="amb"> (pala de picar la roba en rentar-la)</klr></trd>
   <trd lng="de">Bleuel</trd>
+  <trd lng="en" kod="HIS" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">battledore <klr>(historical)</klr></trd>
   <trd lng="es">pala de limpieza<klr tip="amb"> (para sacudir trapos)</klr></trd>
   <trd lng="fr">battoir<klr> (&agrave; linge)</klr></trd>
 </drv>
