@@ -143,6 +143,10 @@
       <trd>nicken</trd>,
       <trd>wiegen <klr>(Kopf)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">shake</trd>,
+      <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">nod</trd>
+    </trdgrp>
     <trd lng="id"><baz>goyang</baz>menggoyangkan (kepala)</trd>
     <trdgrp lng="zh">
     <trd>&#28857;&#22836; <pr>di&#462;nt&oacute;u</pr></trd>,
@@ -402,11 +406,16 @@
         <ref cel="pendol.0ilo.ludilo">pendolilo</ref>,
         <ref cel="pendol.0o.ludilo">pendolo</ref>
       </refgrp>
+      <trd lng="en" fnt="AI: ref nl de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">swing</trd>
       <trd lng="id">ayunan</trd>
       <trd lng="nl">schommel</trd>
     </subsnc>
     <subsnc mrk="balanc1.0ilo.SPO.baskulo">
       <ref tip="dif" cel="baskul.0o.ludilo">baskulo</ref>
+      <trdgrp lng="en">
+        <trd fnt="AI: ref de nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">seesaw</trd>,
+        <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">teeter-totter <klr>(US)</klr></trd>
+      </trdgrp>
       <trd lng="id">jungkat-jungkit</trd>
       <trdgrp lng="nl">
         <trd>wip</trd>,

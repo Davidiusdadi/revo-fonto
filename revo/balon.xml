@@ -56,6 +56,7 @@
         <trd>globus aerost&agrave;tic</trd>,
         <trd>bal&oacute; aerost&agrave;tic</trd>
       </trdgrp>
+      <trd lng="en" kod="FAK" fnt="AI: fr it id ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">aerostat <klr>(jargon)</klr></trd>
       <trd lng="es">globo</trd>
       <trdgrp lng="fr">
         <trd>ballon<klr tip="ind"> (a&eacute;rostat)</klr></trd>,
@@ -162,6 +163,7 @@
         <trd>bal&oacute; sonda</trd>
       </trdgrp>
       <trd lng="de">Testballon</trd>
+    <trd lng="en" fnt="AI: de ca id ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">trial balloon</trd>
     <trd lng="id">balon percobaan</trd>
     </subsnc>
     <trdgrp lng="be">
@@ -308,6 +310,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Probeweise &Auml;u&szlig;erung oder Handlung, um jemandes Meinung zu erfahren.</dif>
+  <trd lng="en" fnt="AI: de fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">trial balloon</trd>
   <trd lng="id">balon percobaan</trd>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_o;&c_b;&c_n;&c_y; <ind>&c_sh;&c_a;&c_r;</ind></trd>

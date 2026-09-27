@@ -339,6 +339,7 @@
       <trd>Depotbank</trd>,
       <trd>Effektenverwahrbank</trd>
     </trdgrp>
+    <trd lng="en" kod="FAK" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">custodian bank <klr>(jargon)</klr></trd>
     <trd lng="hu">let&eacute;ti <ind>bank</ind></trd>
     <trd lng="id">bank komersial</trd>
   </snc>
