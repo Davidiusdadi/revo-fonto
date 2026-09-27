@@ -13,6 +13,7 @@
     <dif>
       Malmoligi per varmo en cindro a&ubreve; forno.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To harden with heat in ashes or an oven.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Hitze in Asche oder im Ofen hart machen.</dif>
     <subsnc mrk="bak.0i.KUI">
       <uzo tip="fak">KUI</uzo>
@@ -52,6 +53,7 @@
           <fnt><bib>Fab1</bib>, <lok>ligo de amikeco</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To cook by heating in ashes or an oven.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Erhitzen in Asche oder im Ofen garen.</dif>
       <trd lng="br">poba&ntilde;</trd>
       <trdgrp lng="ca">
@@ -105,6 +107,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To harden an object made of clay or similar earth by intense heating.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Gegenstand aus Ton oder &auml;hnlicher Erde durch starkes Erhitzen hart machen.</dif>
       <trd lng="ca">coure</trd>
     <trd lng="de" fnt="AI: ru uk cs pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">brennen</trd>
@@ -142,6 +145,7 @@
         <fnt><bib>EE</bib>, <lok>&ccirc;apitro 6a</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To compose something, or to prepare and carry something out.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas verfassen; etwas vorbereiten und ausf&uuml;hren.</dif>
     <trdgrp lng="ca">
       <trd>preparar</trd>,
@@ -369,6 +373,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Someone who bakes professionally.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der beruflich backt.</dif>
     <trdgrp lng="zh">
     <trd>&#38754;&#28857;&#24072; <pr>mi&agrave;ndi&#462;nsh&imacron;</pr></trd>,
@@ -418,6 +423,7 @@
     <dif>
       Varmimuna kava&jcirc;o en kiu oni <tld/>as:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A heat-resistant cavity in which things are baked.</dif>
     <subsnc mrk="bak.0ujo.KUI">
       <uzo tip="fak">KUI</uzo>
       <dif>
@@ -441,6 +447,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An openable chamber in a baking oven or stove in which meat, cakes and other things are baked.</dif>
       <trd lng="be">&c_d;&c_u;&c_h;&c_o;&c_w;&c_k;&c_a;</trd>
       <trdgrp lng="de">
         <trd>Backr&ouml;hre</trd>
@@ -473,6 +480,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A deep, narrow, vaulted masonry structure in which bread, pots, pizzas and other things are baked.</dif>
       <trd lng="be">&c_p;&c_je;&c_ch;</trd>
       <trd lng="de">Backofen</trd>
       <trd lng="he">&tav;&nun;&vav;&resh;</trd>
