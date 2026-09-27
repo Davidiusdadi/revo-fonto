@@ -12,6 +12,7 @@
     <dif>
       Fluga&jcirc;o el membrano plenigita per malpeza gaso:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A flying object made of a membrane filled with a light gas.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Flugk&ouml;rper aus einer H&uuml;lle, die mit einem leichten Gas gef&uuml;llt ist.</dif>
     <subsnc mrk="balon.0o.aerostato">
       <uzo tip="fak">AVI</uzo>
@@ -112,6 +113,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A toy made of rubber, variously coloured and sausage- or globe-shaped, which is inflated with air or gas and held by a long thin string.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Spielzeug aus Gummi, verschiedenfarbig, wurst- oder kugelf&ouml;rmig, das man mit Luft oder Gas aufbl&auml;st und an einer langen, d&uuml;nnen Schnur h&auml;lt.</dif>
       <refgrp tip="vid">
         <ref cel="pilk.0o">pilko</ref>
@@ -187,6 +189,7 @@
     <dif>
       Vitra sferoforma vazo uzata en &hcirc;emio.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A spherical glass vessel used in chemistry.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In der Chemie verwendetes kugelf&ouml;rmiges Glasgef&auml;&szlig;.</dif>
     <ref tip="vid" cel="retort.0o">retorto</ref>
     <trdgrp lng="be">
@@ -280,6 +283,7 @@
       <tld lit="B"/>o <sncref ref="balon.0o.aerostato"/>, uzata
       por esplori la atmosferon kaj sendi mezurojn.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A balloon used to explore the atmosphere and transmit measurements.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ballon, der zur Erforschung der Atmosph&auml;re und zur &Uuml;bermittlung von Messwerten eingesetzt wird.</dif>
     <rim>
       Por &ccirc;i tiu senco la termino <ctl>sondo<tld/>o</ctl>
@@ -309,6 +313,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A tentative statement or action made to find out someone's opinion.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Probeweise &Auml;u&szlig;erung oder Handlung, um jemandes Meinung zu erfahren.</dif>
   <trd lng="en" fnt="AI: de fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">trial balloon</trd>
   <trd lng="id">balon percobaan</trd>
