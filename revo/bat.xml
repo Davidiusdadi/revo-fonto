@@ -142,6 +142,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Strike someone or something abruptly with a rapid, forceful movement, usually with the hand, foot, or an object held in the hand.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemanden oder etwas mit einer schnellen, kr&auml;ftigen Bewegung (gew&ouml;hnlich mit der Hand, dem Fu&szlig; oder einem in der Hand gehaltenen Gegenstand) heftig ber&uuml;hren, j&auml;h treffen.</dif>
     <refgrp tip="vid">
       <ref cel="frap.0i">frapi</ref>
@@ -189,6 +190,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Be moved forcefully and repeatedly.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kr&auml;ftig und wiederholt bewegt werden.</dif>
     <trdgrp lng="ca">
       <trd>bategar</trd>,
@@ -223,6 +225,7 @@
         <fnt><bib>MT</bib>, <lok>&Eli; 12:12</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Beat or strike as punishment; kill.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zur Strafe schlagen, strafend treffen, t&ouml;ten.</dif>
     <refgrp tip="sin">
       <ref cel="plag.0i">plagi</ref>,
@@ -379,6 +382,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The sound of a blow or of something suddenly hitting something; thud, smack.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_a;&c_h;!</trd>,
@@ -625,6 +629,7 @@
     <dif>
       Objekto uzata por <tld/>i.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An object used for beating.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenstand, der zum Schlagen benutzt wird.</dif>
     <subsnc mrk="bat.0ilo.MAS">
       <uzo tip="fak">MAS</uzo>
@@ -643,6 +648,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A piece of a machine that strikes.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil einer Maschine, der schl&auml;gt.</dif>
       <trdgrp lng="ca">
         <trd>pala</trd>,
@@ -668,6 +674,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An implement used to strike a ball or another target.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;t, mit dem man einen Ball oder einen anderen Gegenstand schl&auml;gt.</dif>
       <refgrp tip="sub">
         <ref cel="klab.0o.SPO">klabo<sncref/></ref>,
@@ -858,6 +865,7 @@
         lia spirito estis dis<tld/>ita per kontra&ubreve;aj pasioj.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Beat something so as to break it apart.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schlagen, um zu zerteilen.</dif>
     <trdgrp lng="ca">
       <trd>fer a bocins<baz>boc&iacute;</baz></trd>,
@@ -895,6 +903,7 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;ap. 1&#xAA;</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Defeat completely and decisively.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vollst&auml;ndig, endg&uuml;ltig besiegen.</dif>
     <trdgrp lng="ca">
       <trd>fer miques<baz>mica</baz></trd>,
@@ -985,6 +994,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Cause something to come out by beating it.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Schlagen herausbringen.</dif>
     <refgrp tip="vid">
       <ref cel="kojn.0o">kojno</ref>
@@ -1059,6 +1069,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Make a strenuous effort to drive something in.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich m&uuml;hen, etwas hineinzubringen.</dif>
     <trdgrp lng="ca">
       <trd>clavar</trd>,
@@ -1093,6 +1104,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Make a strenuous effort to impress something upon the memory.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">M&uuml;hsam einpr&auml;gen.</dif>
     <trd lng="ca">ficar<klr tip="amb"> (al cap)</klr></trd>
     <trdgrp lng="de">
@@ -1194,6 +1206,7 @@
         &c_z;&c_u;&c_b;&c_a;&c_m;&c_i;</trd>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Strike against one another.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegeneinanderschlagen.</dif>
     <trd lng="zh">&#x6BB4;&#25171; <pr>&omacron;ud&#x1CE;</pr></trd>
 </snc>
@@ -1237,6 +1250,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Return a blow received.</dif>
     <trd lng="ca">tornar<klr tip="amb"> (un cop)</klr></trd>
     <trd lng="de">zur&uuml;ck <ind>schlagen</ind></trd>
     <trd lng="zh">&#x53CD;&#x51FB; <pr>f&#x1CE;nj&imacron;</pr></trd>
@@ -1259,6 +1273,7 @@
         </fnt>!
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Repel by striking; defend oneself.</dif>
     <trdgrp lng="ca">
       <trd>rebutjar</trd>,
       <trd>refusar</trd>,
@@ -1289,6 +1304,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Contradict; counterargue.</dif>
     <trd lng="ca">replicar</trd>
     <trdgrp lng="de">
       <trd>zur&uuml;ck <ind>geben</ind></trd>,
@@ -1371,6 +1387,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Capable of being broken through, knocked down, or passed through.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Was man durchbrechen, umsto&szlig;en oder &uuml;berwinden kann.</dif>
     <refgrp tip="vid">
       <ref cel="romp.0ebla">rompebla</ref>
@@ -1510,6 +1527,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Strike hard with a hoof.</dif>
     <refgrp tip="vid">
        <ref cel="klak.0i.KOMUNE">klaki<sncref/></ref>,
        <ref cel="stamf.0i">stamfi</ref>
@@ -1574,6 +1592,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A periodic contraction of the heart, whose rhythm quickens because of emotion or intense physical activity and slows in a state of rest.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Periodische Zusammenziehung des Herzens, deren Rhythmus sich durch Gef&uuml;hlsregung oder starke k&ouml;rperliche T&auml;tigkeit beschleunigt und im Ruhezustand verlangsamt.</dif>
     <trd lng="zh">&#x5FC3;&#x8DF3; <pr>x&imacron;nti&agrave;o</pr></trd>
 </snc>
@@ -1613,6 +1632,7 @@
         <fnt><bib>MT</bib>, <lok>&Rea; 33:17</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Wound with a blow from a horn.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einem Hornsto&szlig; verletzen.</dif>
     <trd lng="zh">&#39030; <pr>d&#x1D0;ng</pr></trd>
 </snc>
@@ -1665,6 +1685,7 @@
         fratoj</vrk>, <lok>1947</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A generally wooden, flat beater with a handle, used when washing cloth by hand.</dif>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">picador<klr tip="amb"> (pala de picar la roba en rentar-la)</klr></trd>
@@ -1769,6 +1790,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Strike with a thrust of the foot.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit einem Fu&szlig;sto&szlig; schlagen.</dif>
     <trd lng="zh">&#x8DF5;&#x8E0F; <pr>ji&agrave;nt&agrave;</pr></trd>
 </snc>
@@ -1817,6 +1839,7 @@
     <dif>
       <tld lit="B"/>o de la preferata flanko.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A stroke from the preferred side.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schlag von der bevorzugten Seite.</dif>
     <trd lng="zh">&#x6B63;&#x624B; <pr>zh&egrave;ngsh&#x1D2;u</pr></trd>
 </snc>
@@ -1880,6 +1903,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An unexpected, drastic misfortune.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unerwartetes, einschneidendes Ungl&uuml;ck.</dif>
     <trdgrp lng="zh">
     <trd>&#x547D;&#x8FD0;&#30340;&#25171;&#x51FB; <pr>m&igrave;ngy&ugrave;nded&#x1CE;j&imacron;</pr></trd>,
@@ -2028,6 +2052,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Defeat in battle.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In einer Schlacht besiegen.</dif>
     <trdgrp lng="zh">
     <trd>&#x62B6; <pr>ch&igrave;</pr></trd>,

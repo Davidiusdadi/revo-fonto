@@ -61,6 +61,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Block a route to prevent passage.</dif>
     <trd lng="br">stanka&ntilde;<klr tip="ind"> (un hent)</klr></trd>
     <trd lng="de">sperren</trd>
     <trd lng="es">bloquear</trd>
@@ -161,6 +162,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Hinder.</dif>
     <trdgrp lng="br">
       <trd>skoilha&ntilde;</trd>,
       <trd>mirout ouzh</trd>
@@ -926,6 +928,7 @@
         Sonetoj</vrk> <lok>4</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Surround with barriers.</dif>
     <ref tip="vid" cel="ferm.cxirkaux0i">&ccirc;irka&ubreve;fermi</ref>
     <trdgrp lng="ca">
       <trd>circumval&middot;lar</trd>,
@@ -962,6 +965,7 @@
         </fnt>!
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Stop on all sides; hinder in every way.</dif>
     <trdgrp lng="ca">
       <trd>restringir</trd>,
       <trd>restr&egrave;nyer</trd>,
@@ -1165,6 +1169,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Prevent or prohibit entry.</dif>
     <refgrp tip="vid">
       <ref cel="apart.0igi">apartigi</ref>,
       <ref cel="eksklud.0i">ekskludi</ref>,
@@ -1220,6 +1225,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Without a barrier; accessible, passable, etc.</dif>
     <refgrp tip="vid">
       <ref cel="ferm.mal0ita.KOMUNE">malfermita<sncref/></ref>,
       <ref cel="ir.0ebla">irebla</ref>
@@ -1286,6 +1292,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Remove a barrier, facilitating passage or action.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Sperre beseitigen und so den Durchgang oder das Handeln erleichtern.</dif>
   </snc>
   <trd lng="en" fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">clear</trd>
@@ -1444,6 +1451,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A computer program that blocks unauthorised access to a network.</dif>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_zh;&c_s;&c_je;&c_t;&c_k;&c_a;&c_v;&c_y;
   <ind>&c_e;&c_k;&c_r;&c_a;&c_n;</ind></trd>

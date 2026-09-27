@@ -53,6 +53,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A round, bulging container made of curved wooden boards (staves) held together by iron or wooden hoops, with two flat ends, used to hold water, wine or another liquid.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Runder, bauchiger Beh&auml;lter aus gebogenen Holzbrettchen (Dauben), die von Eisen- oder Holzreifen zusammengehalten werden, mit zwei flachen B&ouml;den, zur Aufbewahrung von Wasser, Wein oder einer anderen Fl&uuml;ssigkeit.</dif>
     <trdgrp lng="be">
       <trd>&c_b;&c_o;&c_ch;&c_k;&c_a;</trd>,
@@ -127,6 +128,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A large container of similar or cylindrical shape.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;hnlich geformter oder zylindrischer gro&szlig;er Beh&auml;lter.</dif>
     <refgrp tip="vid">
       <ref cel="kuv.0o">kuvo</ref>,
@@ -154,6 +156,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A unit of measurement corresponding to the contents of a barrel, with various historical values, including for oil, in which case it is equal to 159 litres.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ma&szlig;einheit, die dem Inhalt eines Fasses entspricht, mit verschiedenen historischen Werten, unter anderem f&uuml;r Erd&ouml;l, wo sie 159 Liter betr&auml;gt.</dif>
     <refgrp tip="vid">
       <ref cel="busxel.0o">bu&scirc;elo</ref>,
@@ -256,6 +259,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A small barrel.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kleines Fass.</dif>
     <trdgrp lng="be">
       <trd>&c_b;&c_a;&c_ch;&c_o;&c_n;&c_a;&c_k;</trd>,
@@ -285,12 +289,14 @@
     <dif>
       <tld lit="B"/>forma ujeto de ma&scirc;ino.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A small barrel-shaped container in a machine.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fassf&ouml;rmiger kleiner Beh&auml;lter einer Maschine.</dif>
     <subsnc mrk="barel.0eto.KAL">
       <uzo tip="fak">KAL</uzo>
       <dif>
         Ujo, en kiu trovi&gcirc;as la risorto de <ref tip="malprt" cel="horlog.0o.KAL">horlo&gcirc;o</ref>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A container housing the spring of a clock.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beh&auml;lter, in dem sich die Feder einer Uhr befindet.</dif>
       <trd lng="de" fnt="AI: it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Federhaus</trd>
       <trdgrp lng="it">
@@ -302,6 +308,7 @@
       <dif>
         Turni&gcirc;a peco de revolvero, entenanta la karto&ccirc;ojn.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The revolving part of a revolver that contains the cartridges.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Drehbarer Teil eines Revolvers, der die Patronen enth&auml;lt.</dif>
       <trd lng="en" fnt="AI: it pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">cylinder</trd>
       <trd lng="it">tamburo<klr> (pistola)</klr></trd>
@@ -357,6 +364,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A barrel maker.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fassmacher.</dif>
     <trdgrp lng="zh">
     <trd>&#21046;&#26408;&#26742;&#24037;&#20154; <pr>zh&igrave;m&ugrave;t&#466;ngg&omacron;ngr&eacute;n</pr></trd>,
@@ -487,6 +495,7 @@
     <dif>
       Eligi el <tld/>o.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To remove from a barrel.</dif>
   <trd lng="de">aus dem Fass <ind>holen</ind></trd>
   </snc>
   <trdgrp lng="be">

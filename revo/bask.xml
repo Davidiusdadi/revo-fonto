@@ -13,6 +13,7 @@
     <dif>
       Pendanta parto de, plejofte trunka, <ref tip="malprt" cel="vest.0o">vesto</ref>,
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A hanging part of a garment, usually one worn on the torso.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Herabh&auml;ngender Teil eines meist den Rumpf bedeckenden Kleidungsst&uuml;cks,</dif>
     <subsnc mrk="bask.0o.refaldebla">
       <dif>
@@ -32,6 +33,7 @@
           <fnt><bib>I&scirc;tar</bib>, <lok>&ccirc;apitro 6</lok></fnt>;
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Capable of being folded back.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">zur&uuml;ckschlagbar.</dif>
       <trd lng="de" fnt="AI: dif es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Scho&szlig;</trd>
       <trdgrp lng="es">
@@ -57,6 +59,7 @@
           <fnt><bib>MT</bib>, <lok>&Jes; 6:1</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Or intended only for decoration.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">oder nur zur Zierde.</dif>
       <trd lng="es">cola</trd>
     </subsnc>
@@ -140,6 +143,7 @@
         <ind><mll>tiri ies <ind><tld/>on</ind></mll></ind>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Such a part of a garment, regarded as protection for a valuable possession or as symbolising the power of its wearer.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein solcher Teil eines Kleidungsst&uuml;cks, betrachtet als Schutz f&uuml;r wertvollen Besitz oder als Symbol der Macht seines Tr&auml;gers.</dif>
     <ref tip="vid" cel="sin.0o.vesto">sino <sncref/></ref>
   </snc>
