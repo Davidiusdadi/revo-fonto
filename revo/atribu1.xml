@@ -14,6 +14,7 @@
       <ref tip="super" cel="ec.0o">Eco</ref>, per kiu oni povas rekoni
       ion:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A quality by which something can be recognised.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigenschaft, an der man etwas erkennen kann.</dif>
     <subsnc mrk="atribu1.0o.FIL">
       <uzo tip="fak">FIL</uzo>
@@ -57,6 +58,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An essential quality of an object or phenomenon without which it would be something else.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wesentliche Eigenschaft eines Gegenstandes oder einer Erscheinung, ohne die sie etwas anderes w&auml;ren.</dif>
       <refgrp tip="vid">
         <ref cel="atribu.0i.aljugxi">atribui<sncref/></ref>
@@ -102,6 +104,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A distinguishing mark, badge or emblem of a trade, corporation or god, used especially in the fine arts.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kennzeichen, Abzeichen, Sinnbild eines Handwerks, einer K&ouml;rperschaft oder einer Gottheit, vor allem in der bildenden Kunst verwendet.</dif>
       <trdgrp lng="de">
         <trd>Wahrzeichen</trd>,
@@ -122,6 +125,7 @@
         tiparo uzendaj por la ekstera prezento; 
         la atingopermesoj de dosiero.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A usually configurable or queryable property of a computing object in a program, operating system or database: for example, the length of its internal representation; the data type or value of a variable; the length, colour or font to be used for its external representation; or a file's access permissions.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Meist einstellbare oder abfragbare Eigenschaft eines Datenverarbeitungsobjekts in einem Programm, Betriebssystem oder einer Datenbank, zum Beispiel die L&auml;nge seiner internen Darstellung; Datentyp, Wert (einer Variablen); L&auml;nge, Farbe, Schriftart f&uuml;r die &auml;u&szlig;ere Darstellung; die Zugriffsrechte einer Datei.</dif>
       <trd lng="pt">propriedade</trd>
     </subsnc>

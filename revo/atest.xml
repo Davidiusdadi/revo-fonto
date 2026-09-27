@@ -46,6 +46,7 @@
         <fnt><bib>Fab3</bib> <lok>Lino</lok></fnt>.
       </ekz>
    </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To confirm a fact as someone who has seen, heard, or learnt of it.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Tatsache als jemand best&auml;tigen, der sie gesehen, geh&ouml;rt oder erfahren hat.</dif>
    <trdgrp lng="id">
      <trd><baz>saksi</baz>bersaksi</trd>,
@@ -102,6 +103,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
    </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To prove or show.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Beweisen, zeigen.</dif>
     <refgrp tip="vid">
       <ref cel="manife.0i">manifesti</ref>
@@ -215,6 +217,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An act, words, or a document by which something is attested.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung, Worte, Dokument, womit man etwas bezeugt.</dif>
     <trdgrp lng="zh">
     <trd>&#x898B;&#x8B49; <pr>ji&agrave;nzh&egrave;ng</pr></trd>,
@@ -339,6 +342,7 @@
         <fnt><bib>Fab4</bib> <lok>Peco da perlovico</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A person who confirms that they were present at, saw, or ascertained something.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Person, die best&auml;tigt, dass sie bei etwas anwesend war, es gesehen oder festgestellt hat.</dif>
     <trdgrp lng="zh">
     <trd>&#x898B;&#x8B49;&#x4EBA; <pr>ji&agrave;nzh&egrave;ngr&eacute;n</pr></trd>,
@@ -400,6 +404,7 @@
         <fnt><bib>Kon11</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An object, most often an official document, which attests to a situation, authorisation, or recognition.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gegenstand, meist ein amtliches Dokument, der eine Lage, eine Berechtigung oder eine Anerkennung bezeugt.</dif>
     <refgrp tip="vid">
       <ref cel="diplom.0o.PED">diplomo</ref>
@@ -471,6 +476,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A certificate stating the date and place of a marriage, ordinarily bearing the witnesses' signatures and other details.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Urkunde &uuml;ber Datum und Ort der Eheschlie&szlig;ung von Personen, gew&ouml;hnlich mit der Unterschrift von Zeugen und weiteren Einzelheiten.</dif>
     <trd lng="en" fnt="AI: de es fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">marriage certificate</trd>
     <trdgrp lng="zh">
@@ -517,6 +523,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A certificate stating the date and place of someone's birth, ordinarily mentioning the parents and other details.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Urkunde &uuml;ber Datum und Ort der Geburt einer Person, gew&ouml;hnlich mit Angabe der Eltern und weiteren Einzelheiten.</dif>
     <trdgrp lng="zh">
     <trd>&#x51FA;&#x751F;&#x8B49; <pr>ch&umacron;sh&emacron;ngzh&egrave;ng</pr></trd>,
@@ -658,6 +665,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A document which a debtor signs to acknowledge the amount of the debt and the conditions of its repayment.</dif>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_w;&c_g;&c_a;&c_v;&c_a;&c_ja; <ind>&c_r;&c_o;&c_s;&c_mol;&c_p;&c_ib;&c_s;&c_k;&c_a;</ind></trd>
   <trd lng="de">Schuldschein</trd>
