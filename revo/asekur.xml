@@ -122,6 +122,7 @@
     <trd>zabezpe&ccaron;ov&aacute;n&iacute;</trd>
   </trdgrp>
   <trd lng="de">Versichern</trd>
+  <trd lng="en" fnt="AI: de fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">insurance</trd>
   <trd lng="fr">assurance</trd>
   <trd lng="he">&bet;&yod;&tet;&vav;&het;</trd>
   <trd lng="hu">biztos&iacute;t&aacute;s</trd>
@@ -479,6 +480,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Versicherungsgesellschaft.</dif>
+    <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">insurance company</trd>
     <trdgrp lng="zh">
     <trd>&#x4FDD;&#38505;&#x516C;&#x53F8; <pr>b&#x1CE;oxi&#x1CE;ng&omacron;ngs&imacron;</pr></trd>,
     <trd>&#x4FDD;&#x96AA;&#x516C;&#x53F8; <pr>b&#x1CE;oxi&#x1CE;ng&omacron;ngs&imacron;</pr></trd>

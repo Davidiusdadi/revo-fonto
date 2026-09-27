@@ -175,6 +175,10 @@
       <trd>zu <ind>schaffen</ind> machen</trd>
       <trd>&uuml;berkommen <klr>(angreifen)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">seize</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">overcome</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>landa</baz>melanda</trd>,
       <trd><baz>timpa</baz>menimpa</trd>
@@ -514,6 +518,7 @@
 </snc>
   <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_d;&c_n;&c_ib;&c_c;&c_a;</trd>
   <trd lng="de">Angreiferin</trd>
+  <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">female attacker</trd>
   <trd lng="fr">attaquante</trd>
   <trdgrp lng="id">
     <trd><baz>gerebek</baz>penggerebek<klr tip="amb"> (perempuan)</klr></trd>,
@@ -791,6 +796,7 @@
     <trd>p&rcaron;epad</trd>
   </trdgrp>
   <trd lng="de">&Uuml;berraschungsangriff</trd>
+  <trd lng="en" fnt="AI: de ca cs pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">surprise attack</trd>
   <trd lng="fr">raid</trd>
   <trdgrp lng="id">
     <trd><baz>gerebek</baz>penggerebekan</trd>,
@@ -835,6 +841,7 @@
   <ind>&c_a;&c_t;&c_a;&c_k;&c_a;</ind></trd>
   <trd lng="ca">atac de distracci&oacute;</trd>
   <trd lng="de">Scheinangriff</trd>
+  <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">feint</trd>
   <trd lng="fr">fausse attaque</trd>
   <trdgrp lng="id">
     <trd>muslihat militer</trd>,
@@ -887,6 +894,10 @@
     <trd>osopit se</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: fr pl ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">attackieren</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr ca dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">assail <klr>(formal)</klr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">lambaste</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>attaquer verbalement</trd>,
     <trd>fustiger<klr> (verbalement)</klr></trd>

@@ -473,6 +473,7 @@
     <trd fnt="AI: fr es pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Ideenassoziation</trd>,
     <trd fnt="AI: fr es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Gedankenassoziation</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr es pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">association of ideas</trd>
   <trd lng="es">asociaci&oacute;n de ideas</trd>
   <trd lng="fr">association d'id&eacute;es</trd>
   <trd lng="pl">skojarzenie idei</trd>
