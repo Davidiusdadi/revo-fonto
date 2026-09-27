@@ -34,6 +34,7 @@
     <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_k;&c_a;</trd>,
     <trd>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_je; &c_k;&c_ib;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: zh dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">control engineering</trd>
   <trd lng="fr">automatique<klr> (subst.)</klr></trd>
   <trdgrp lng="zh">
     <trd>&#x81EA;&#x52A8;&#21270;&#x88C5;&#x7F6E; <pr>z&#xEC;d&#xF2;nghu&#xE0;zhu&amacron;ngzh&#xEC;</pr></trd>,
@@ -67,6 +68,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fachmann f&uuml;r Automatisierungstechnik, f&uuml;r Theorie und Realisierung von Automaten.</dif>
   </snc>
   <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_k;</trd>
+  <trd lng="en" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">control engineer</trd>
   <trd lng="fr">automaticien</trd>
 </drv>
 </art>

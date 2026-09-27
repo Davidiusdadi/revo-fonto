@@ -119,6 +119,7 @@
       <trd>Zauber</trd>,
       <trd>Reiz des Neuen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: fr it pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dawn</trd>
     <trdgrp lng="fr">
       <trd>aurore</trd>,
       <trd>aube</trd>
@@ -255,6 +256,7 @@
       <trd fnt="AI: pl es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">d&auml;mmern</trd>,
       <trd fnt="AI: pl es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tagen <klr>(gehoben)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: be ca es pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dawn</trd>
     <trd lng="es">amanecer</trd>
     <trdgrp lng="pl">
       <trd>&sacute;wita&cacute;</trd>,
@@ -281,6 +283,7 @@
       <trd>sorgir</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: fr ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">anbrechen</trd>
+    <trd lng="en" fnt="AI: be ca fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dawn</trd>
     <trdgrp lng="fr">
       <trd>poindre</trd>,
       <trd>percer</trd>,
