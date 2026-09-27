@@ -54,6 +54,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The lower supporting part of an object.</dif>
      <refgrp tip="vid">
        <ref cel="fond">fondo</ref>,
        <ref cel="fund.0o">fundo</ref>,
@@ -165,6 +166,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The intellectual foundation of something; something on which a work, argument, organisation, etc. is built.</dif>
     <refgrp tip="sin">
       <ref cel="esenc.0o">esenco</ref>,
       <ref cel="fund.0o.esenco">fundo</ref>,
@@ -213,6 +215,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A fortified place used as a centre of operations in a region.</dif>
     <refgrp tip="vid">
        <ref cel="fortik.0ajxo">fortika&jcirc;o</ref>
     </refgrp>
@@ -241,6 +244,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A compound that produces a salt by combining with an acid.</dif>
     <trd lng="de">Base</trd>
     <trdgrp lng="hu">
        <trd>b&aacute;zis</trd>,
@@ -275,6 +279,7 @@
            deksesuman nombrosistemojn)</klr>.
          </ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a positional number system) The number of possible values for each digit, used in representing a number.</dif>
        <ref tip="vid" cel="um.0.nombrosistemo">-um.</ref>
        <trd lng="de">Basis</trd>
        <trd lng="en">radix</trd>
@@ -309,6 +314,7 @@
            &c_l;&c_o;&c_g;&c_a;&c_r;&c_i;&c_f;&c_m;&c_o;&c_v;</trd>
          </ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a logarithm or exponential function) The number whose logarithm equals 1, or the image of 1 under an exponential function.</dif>
        <ref tip="vid" cel="um.0.logaritmo">-um.</ref>
        <trd lng="de">Basis</trd>
        <trd lng="en">base<klr tip="ind"> (of logarithm)</klr></trd>
@@ -354,6 +360,7 @@
            <ref cel="alt.0o.MAT">alto</ref>.
          </ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a geometric figure) A conventionally chosen side or face that bounds the figure; the length of such a side or the area of such a face.</dif>
        <trd lng="de">Basis<klr tip="ind"> (von einem
        Vieleck)</klr></trd>
        <trd lng="en">base<klr tip="ind"> (of a polygon)</klr></trd>
@@ -396,6 +403,7 @@
            <ind>&c_v;&c_je;&c_k;&c_t;&c_o;&c_r;</ind></trd>
          </ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a module or vector space) A linearly independent subset that spans the entire space.</dif>
        <rim>
          Kelkaj a&ubreve;toroj preferas difini <tld/>on kiel <ref cel="famili.0o.bildigo">familion</ref>.
          Tio fontas el la fakto,
@@ -432,6 +440,7 @@
            <ref cel="glob.0o.metrikaspaco">globoj</ref> estas <tld/>o.
          </ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a topology T) A subset of T such that every element of T is a union of elements of the basis.</dif>
        <trd lng="de">Basis</trd>
        <trd lng="en">basis</trd>
        <trd lng="fr">base</trd>
@@ -559,6 +568,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Relating to a base.</dif>
     <refgrp tip="vid">
       <ref cel="fund.0a.space">funda<sncref/></ref>,
       <ref cel="fundam.0a.KON">fundamenta<sncref/></ref>,
@@ -606,6 +616,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Constituting a basis or first step; elementary.</dif>
     <refgrp tip="vid">
       <ref cel="esenc.0a">esenca</ref>,
       <ref cel="fundam.0a.FIG">fundamenta<sncref/></ref>,
@@ -1049,6 +1060,7 @@
         </fnt>.
       </ekz>
     </dif>
+     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">According to; using something as a basis or model.</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gem&auml;&szlig;; etwas als Grundlage, als Vorbild nehmend.</dif>
     <refgrp tip="vid">
        <ref cel="fund.0ede">funde de</ref>
