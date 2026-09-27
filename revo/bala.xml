@@ -268,6 +268,10 @@
       <trd fnt="AI: nl bg ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Plunder <klr>[ugs.]</klr></trd>,
       <trd fnt="AI: nl bg ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ramsch <klr>[ugs.]</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr nl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">rubbish</trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">junk</trd>
+    </trdgrp>
     <trd lng="fr">rebut</trd>
     <trdgrp lng="nl">
       <trd>afval</trd>,
@@ -470,6 +474,7 @@
   </trdgrp>
   <trd lng="cs">vym&eacute;st</trd>
   <trd lng="de">ausfegen</trd>
+  <trd lng="en" fnt="AI: it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sweep away</trd>
   <trd lng="fr">balayer<klr> (&eacute;liminer)</klr></trd>
   <trd lng="hu">els&ouml;p&ouml;r</trd>
   <trdgrp lng="id">

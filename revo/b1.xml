@@ -34,6 +34,7 @@
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Name des siebten Tons der C-Dur-Tonleiter (494 Hz; in der absoluten Solmisation si).</dif>
        <trd lng="de" fnt="AI: fr nl pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">H</trd>
+       <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">B</trd>
        <trd lng="fr">si</trd>
        <trd lng="nl">si</trd>
        <trd lng="pl">si</trd>
@@ -44,6 +45,7 @@
          (maj.) simbolo de boro:<ekz> <em>B</em>.</ekz>
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Symbol f&uuml;r Bor.</dif>
+       <trd lng="en" fnt="AI: fr nl pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">boron</trd>
        <trd lng="fr">bore</trd>
        <trd lng="nl">boor<klr> (chemisch element)</klr></trd>
        <trd lng="pl">bor</trd>
@@ -54,6 +56,7 @@
          (maj.) simbolo de magneta fluksdenso:<ekz> <em>B</em>.</ekz>
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Symbol der magnetischen Flussdichte.</dif>
+       <trd lng="en" fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">magnetic flux density</trd>
        <trd lng="fr">densit&eacute; de flux <ind>magn&eacute;tique</ind></trd>
        <trd lng="pl">g&eogonek;sto&sacute;&cacute; strumienia  <ind>magnetycznego</ind></trd>
     </subsnc>

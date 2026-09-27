@@ -38,6 +38,10 @@
     <trd fnt="AI: fr ca it; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pah</trd>,
     <trd fnt="AI: fr it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">na ja</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">meh <klr>(colloquial)</klr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">oh well</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bah !</trd>,
     <trd>bof !</trd>

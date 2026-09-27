@@ -180,6 +180,7 @@
     <trd><ind>Schutz</ind> gew&auml;hren</trd>,
     <trd>unter seine <ind>Fittich</ind>e nehmen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">shelter</trd>
   <trd lng="fr">donner <ind>asile</ind></trd>
   <trd lng="pl">udzieli&cacute; <ind>azylu</ind></trd>
   <trdgrp lng="zh">
@@ -228,6 +229,10 @@
       <ref cel="protek.0ejo">protektejo</ref>,
       <ref cel="rifugx.0ejo">rifu&gcirc;ejo</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">shelter</trd>,
+      <trd fnt="AI: ref de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">refuge</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#25910;&#x5BB9;&#25152; <pr>sh&#x14D;ur&#xF3;ngsu&#x1D2;</pr></trd>,
     <trd>&#x517B;&#x80B2;&#38498; <pr>y&#x1CE;ngy&#xF9;yu&#xE0;n</pr></trd>,
