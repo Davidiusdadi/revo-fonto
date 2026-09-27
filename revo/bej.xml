@@ -31,6 +31,7 @@
     <trd fnt="AI: fr pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bei</trd>,
     <trd fnt="AI: fr cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bey</trd>
   </trdgrp>
+  <trd lng="en" kod="HIS" fnt="AI: de fr ca; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bey <klr>(historical)</klr></trd>
   <trd lng="fr">bey</trd>
   <trd lng="pl">bej</trd>
   </snc>

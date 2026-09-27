@@ -212,6 +212,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich gegenseitig mit dem Schnabel picken.</dif>
     <trd lng="be">&c_d;&c_z;&c_ja;&c_w;&c_b;&c_c;&c_ib;&c_s;&c_ja;</trd>
     <trd lng="de">schn&auml;beln</trd>
+    <trd lng="en" fnt="AI: de fr es pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">peck each other</trd>
     <trd lng="es">picotearse<klr tip="amb"> (uno al otro)</klr></trd>
     <trdgrp lng="fr">
       <trd>se <ind>becqueter</ind><klr> (en p. d'oiseaux)</klr></trd>,
@@ -240,6 +241,7 @@
       <trd fnt="AI: fr hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich zanken</trd>,
       <trd fnt="AI: hu fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich kabbeln <klr>[ugs.]</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bicker</trd>
     <trdgrp lng="fr">
       <trd>se prendre le <ind>bec</ind></trd>,
       <trd>se <ind>quereller</ind></trd>
@@ -271,6 +273,7 @@
   <trd lng="be">&c_g;&c_je;&c_r;&c_a;&c_n;&c_mol;</trd>
   <trd lng="br">geraniom</trd>
   <trd lng="de" fnt="AI: ref nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Storchschnabel</trd>
+  <trd lng="en" fnt="AI: ref br es pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">geranium</trd>
   <trd lng="es">geranio</trd>
   <trd lng="hu">g&oacute;lyaorr</trd>
   <trd lng="id">geranium</trd>

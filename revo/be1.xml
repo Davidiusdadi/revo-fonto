@@ -29,6 +29,7 @@
       <trd>oh je</trd>,
       <trd>oje</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">oh dear</trd>
     <trdgrp lng="fr">
       <trd>bah</trd>,
       <trd>ben...</trd>
@@ -64,6 +65,7 @@
       <trd>bah</trd>,
       <trd>ach was</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bah</trd>
   </snc>
   <refgrp tip="hom">
     <ref cel="be.0">be<klr> (bleko)</klr></ref>
