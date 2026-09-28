@@ -42,6 +42,7 @@
         <trd lng="de">auch ein <ind>blindes</ind> Huhn findet manchmal ein Korn</trd>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Without the power of sight.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ohne Sehverm&ouml;gen.</dif>
     <refgrp tip="vid">
       <ref cel="mut.0a.kapablo">muta</ref>,
@@ -137,6 +138,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Unable to judge correctly and critically or to distinguish between different things.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht f&auml;hig, richtig und kritisch zu urteilen; verschiedene Dinge nicht unterscheidend.</dif>
     <ref tip="ant" cel="distin.0a.iga">distinga<sncref/></ref>
     <trd lng="de">mit einem <ind>Brett</ind> vorm Kopf</trd>
@@ -158,6 +160,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Not permitting normal vision through it.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kein normales Hindurchsehen erm&ouml;glichend.</dif>
     <rim>
       La&ubreve; <fnt><bib>BL</bib></fnt>: (en la senco de <ctl>senfenestra</ctl>) prefere diru
@@ -243,6 +246,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Like a blind person: without looking or seeing.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wie ein Blinder, ohne hinzuschauen, ohne zu sehen.</dif>
     <trdgrp lng="fr">
       <trd>en <ind>aveugle</ind></trd>,
@@ -313,6 +317,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Indiscriminately, uncritically, without a plan, at random.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unterschiedslos, unkritisch, planlos, aufs Geratewohl.</dif>
     <trd lng="fr">aveugl&eacute;ment</trd>
     <trd lng="id"><baz>babi</baz>membabi buta</trd>
@@ -367,6 +372,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Inability to see.</dif>
   <trd lng="be">&c_s;&c_mol;&c_l;&c_je;&c_p;&c_a;&c_t;&c_a;</trd>
   <trd lng="bg">&c_s;&c_l;&c_je;&c_p;&c_o;&c_t;&c_a;</trd>
   <trd lng="br">dallentez</trd>
@@ -427,6 +433,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To deprive someone temporarily or permanently of the power of sight.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vor&uuml;bergehend oder endg&uuml;ltig des Sehverm&ouml;gens berauben.</dif>
     <refgrp tip="vid">
       <ref cel="blind.0umi.KOMUNE">blindumi</ref>
@@ -475,6 +482,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To confuse someone's judgement and deprive them of discernment.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Urteilsverm&ouml;gen verwirren, des Scharfsinns berauben.</dif>
     <trd lng="de" fnt="AI: hu pl sk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verblenden</trd>
     <trd lng="hu">elvak&iacute;t</trd>
@@ -557,6 +565,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To become blind, to lose the power of sight.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Blind werden, das Sehverm&ouml;gen verlieren.</dif>
     <trd lng="zh">&#22833;&#x660E; <pr>sh&imacron;m&iacute;ng</pr></trd>
 </snc>
@@ -574,6 +583,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To misjudge a situation; not to see reality or the truth.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eine Situation falsch einsch&auml;tzen, die Wirklichkeit, die Wahrheit nicht sehen.</dif>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_mol;&c_l;&c_ja;&c_p;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
@@ -629,6 +639,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A person who cannot see.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der nicht sehen kann.</dif>
     <ref tip="super" cel="kripl.0ulo">kriplulo</ref>
     <trdgrp lng="pl">
@@ -654,6 +665,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A person who does not perceive situations clearly; an imprudent person.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der Situationen nicht klar durchschaut; unvern&uuml;nftiger Mensch.</dif>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_l;&c_ja;&c_p;&c_je;&c_c;</trd>
@@ -751,6 +763,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To enable a blind person to see.</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_ja;&c_r;&c_n;&c_u;&c_c;&c_mol;
       <ind>&c_z;&c_r;&c_o;&c_k;</ind></trd>,
@@ -780,6 +793,7 @@
       &gcirc;uste kompreni situacion pri kiu anta&ubreve;e li havis
       iluziojn.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To restore someone's prudence and judgement and make them understand correctly a situation about which they previously had illusions.</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_k;&c_r;&c_y;&c_c;&c_mol; &c_v;&c_o;&c_ch;&c_y;
       <klr tip="amb">(&c_k;&c_a;&c_m;&c_u;&c_s;&c_mol;&c_c;&c_ib;
@@ -825,6 +839,7 @@
     <dif>
       Akiri a&ubreve; regajni vidpovon.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To acquire or regain the power of sight.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Sehverm&ouml;gen erlangen oder wiedererlangen.</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_t;&c_a;&c_c;&c_mol;
@@ -850,6 +865,7 @@
         <fnt><bib>Metrop</bib></fnt>?
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To recover prudence and judgement and correctly understand a situation about which one previously had illusions.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Vernunft und das Urteilsverm&ouml;gen wiederfinden, eine Situation richtig verstehen, &uuml;ber die man sich vorher Illusionen gemacht hatte.</dif>
     <trdgrp lng="be">
       <trd>&c_a;&c_d;&c_k;&c_r;&c_y;&c_c;&c_mol; &c_v;&c_o;&c_ch;&c_y;
@@ -932,6 +948,7 @@
         </fnt>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Having difficulty reading and writing because of confusion between signs; dyslexic.</dif>
     <trd lng="be">&c_d;&c_y;&c_z;&c_l;&c_je;&c_k;&c_s;&c_ib;&c_ch;&c_n;&c_y;</trd>
     <trd lng="de" fnt="Vikt: pl; juĝis claude-opus-5">legasthenisch</trd>
     <trd lng="fr">dyslexique</trd>
@@ -952,6 +969,7 @@
       ordoj de signoj;
       <ref tip="sin" cel="disleksi.0o.MED">disleksio</ref>.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Persistent misreading and misspelling caused by confusion over the shapes and order of signs; dyslexia.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">St&auml;ndiges Falschlesen und Falschschreiben aufgrund von Verwechslungen von Form und Reihenfolge der Zeichen; Dyslexie.</dif>
     <trd lng="be">&c_d;&c_y;&c_z;&c_l;&c_je;&c_k;&c_s;&c_ib;&c_ja;</trd>
     <trd lng="fr">dyslexie</trd>
