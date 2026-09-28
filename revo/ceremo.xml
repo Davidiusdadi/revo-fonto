@@ -262,6 +262,7 @@
     <trd fnt="AI: fr ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">zeremoni&ouml;s <klr>(gehoben)</klr></trd>,
     <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">f&ouml;rmlich</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr ca; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">ceremonious</trd>
   <trdgrp lng="fr">
     <trd>c&eacute;r&eacute;monieux</trd>,
     <trd>compass&eacute;</trd>

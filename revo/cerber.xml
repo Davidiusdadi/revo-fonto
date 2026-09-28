@@ -44,6 +44,7 @@
      <trd lng="el">
    &Kappa;&epsilon_ton;&rho;&beta;&epsilon;&rho;&omikron;&sigma_fina;
      </trd>
+     <trd lng="en" fnt="AI: de ca cs el fr hu it pl pt ru sk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Cerberus</trd>
      <trd lng="es">Cancerbero</trd>
      <trd lng="fr">Cerb&egrave;re</trd>
      <trdgrp lng="hu">
@@ -86,6 +87,7 @@
      <trd lng="be">&c_c;&c_e;&c_r;&c_b;&c_e;&c_r;</trd>
      <trd lng="ca">c&egrave;rber</trd>
      <trd lng="de">Kerberos</trd>
+     <trd lng="en" fnt="AI: de ca fr hu it pl pt ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Cerberus</trd>
      <trd lng="fr">cerb&egrave;re</trd>
      <trd lng="hu">cerberus</trd>
      <trd lng="it">cerbero</trd>

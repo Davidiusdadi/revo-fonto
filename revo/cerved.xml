@@ -37,6 +37,10 @@
   <trd lng="ca">c&egrave;rvids</trd>
   <trd lng="de">Hirsche</trd>
   <trd lng="el">&epsilon;&lambda;&alfa;&phi;&omikron;&epsilon;&jota;&delta;&eta_ton;</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr es pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">deer</trd>,
+    <trd kod="FAK" fnt="AI: fr es pt la; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">cervid <klr>(jargon)</klr></trd>
+  </trdgrp>
   <trd lng="es">c&eacute;rvidos</trd>
   <trd lng="fr">cervid&eacute;s</trd>
   <trd lng="hu">szarvasf&eacute;l&eacute;k</trd>
