@@ -786,6 +786,7 @@
       <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steinkreis</trd>,
       <trd fnt="AI: fr be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Kromlech</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">stone circle</trd>
     <trd lng="fr">cromlech</trd>
     <trd lng="pl">kr&aogonek;g kamienny</trd>
   </snc>
