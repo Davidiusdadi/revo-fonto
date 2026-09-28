@@ -101,6 +101,7 @@
       <trd>l&auml;rmen</trd>,
       <trd>tosen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de es fr pl ro; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">make noise</trd>
     <trd lng="es">hacer ruido</trd>
     <trdgrp lng="fr">
       <trd>faire du bruit</trd>,
@@ -139,6 +140,7 @@
     <trdgrp lng="de">
       <trd><ind>L&auml;rm</ind> machen</trd>,
     </trdgrp>
+    <trd lng="en" fnt="AI: de es fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">clamour</trd>
     <trdgrp lng="es">
       <trd>protestar</trd>,
       <trd>montar un <ind>esc&aacute;ndalo</ind></trd>
@@ -194,6 +196,7 @@
       <trd><ind>Aufmerksamkeit</ind> auf sich ziehen</trd>,
       <trd>einen <ind>Rummel</ind> veranstalten</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">make a fuss</trd>
     <trd lng="es">llamar la atenci&oacute;n (de)</trd>
     <trd lng="fr">faire grand <ind>bruit</ind> (de)</trd>
     <trdgrp lng="pl">
@@ -579,6 +582,7 @@
        <ref cel="ekstra1.0a">ekstravaganca</ref>
     </refgrp>
     <trd lng="de">aufsehenerregend</trd>
+    <trd lng="en" fnt="AI: de es ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">attention-grabbing</trd>
     <trd lng="es">llamativo</trd>
     <trdgrp lng="id">
       <trd>gaduh</trd>,
@@ -638,6 +642,7 @@
     <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Obstruent</trd>,
     <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ger&auml;uschlaut</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">obstruent</trd>
   <trdgrp lng="es">
     <trd>sonido</trd>,
     <trd>fonema</trd>
@@ -714,6 +719,7 @@
   </snc>
   <trd lng="be">&c_sh;&c_u;&c_m;&c_je;&c_c;&c_mol; <klr>(&c_v;&c_a;&c_k;&c_o;&c_l; &c_ch;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;/&c_k;&c_a;&c_g;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   <trd lng="de">umtosen</trd>
+  <trd lng="en" fnt="AI: de es pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">clamour around</trd>
   <trd lng="es">hacer un ruido envolvente</trd>
   <trd lng="pl">robi&cacute;  <ind>ha&lstroke;as</ind>  wok&oacute;&lstroke;</trd>
   <trd lng="ro">&icirc;nconjura cu  <ind>zgomot</ind></trd>
