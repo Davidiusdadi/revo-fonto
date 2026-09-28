@@ -153,6 +153,7 @@
     <trd fnt="AI: hu nl pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zuchtbetrieb</trd>,
     <trd fnt="AI: nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zuchtst&auml;tte</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr hu ja nl pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">breeding farm</trd>
   <trdgrp lng="fr">
     <trd>&eacute;levage<klr> (lieu)</klr></trd>
   </trdgrp>

@@ -25,6 +25,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Deutsche Stadt westlich von Potsdam an der Havel (12&deg;33&#x2019; O, 52&deg;25&#x2019; N).</dif>
     <trd lng="be">&c_B;&c_r;&c_a;&c_n;&c_d;&c_e;&c_n;&c_b;&c_u;&c_r;&c_g;</trd>
     <trd lng="de" fnt="AI: zh dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Brandenburg an der Havel</trd>
+    <trd lng="en" fnt="AI: zh dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Brandenburg an der Havel</trd>
     <trd lng="pl">Brandenburg</trd>
     <trd lng="zh">&#x54C8;&#x5F17;&#x5C14;&#x6CB3;&#30036;&#x52C3;&#20848;&#x767B;&#22561;&#x5E02;
     <pr>h&amacron;f&#xFA;&#x11B;rh&#xE9;p&#xE0;nb&#xF3;l&#xE1;nd&emacron;ngb&#x1CE;osh&#xEC;</pr></trd>
@@ -69,6 +70,7 @@
   </snc>
   <trd lng="be">&c_b;&c_r;&c_a;&c_n;&c_d;&c_e;&c_n;&c_b;&c_u;&c_r;&c_zh;&c_a;&c_c;</trd>
   <trd lng="de">Brandenburger</trd>
+  <trd lng="en" fnt="AI: de nl fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Brandenburger</trd>
   <trd lng="fr">Brandebourgeois</trd>
   <trd lng="hu">brandeburgi</trd>
   <trd lng="nl">Brandenburger</trd>

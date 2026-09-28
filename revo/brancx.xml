@@ -276,6 +276,7 @@
     <trd>&c_v;&c_ja;&c_z;&c_k;&c_a; <klr>(&c_g;&c_a;&c_l;&c_mol;&c_l;&c_ja;)</klr></trd>
   </trdgrp>
   <trd lng="de">Reisig</trd>
+  <trd lng="en" fnt="AI: de pl ja dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">brushwood</trd>
   <trd lng="es">ramaje</trd>
   <trd lng="fr">branchage</trd>
   <trd lng="he">&ayin;&nun;&fpe;</trd>
@@ -393,6 +394,7 @@
     <trd>sich <ind>verzweigen</ind></trd>,
     <trd>sich <ind>ver&auml;steln</ind></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">branch</trd>
   <trdgrp lng="es">
     <trd><ind>ramificar</ind>se</trd>,
     <trd><ind>subdividir</ind>se</trd>

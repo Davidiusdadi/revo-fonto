@@ -84,6 +84,10 @@
         <trd lng="be">&c_sh;&c_ch;&c_e;&c_l;&c_je;&c_p;&c_n;&c_a;&c_ja; &c_k;&c_r;&c_y;&c_sh;&c_k;&c_a;</trd>
       <trd lng="cs">sk&rcaron;ele</trd>
       <trd lng="de">Kiemendeckel</trd>
+      <trdgrp lng="en">
+        <trd kod="FAK" fnt="AI: la de cs pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">operculum <klr>(jargon)</klr></trd>,
+        <trd fnt="AI: de pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">gill cover</trd>
+      </trdgrp>
       <trd lng="la">operculum</trd>
       <trd lng="pl">pokrywa skrzelowa</trd>
       <trd lng="ru">&c_zh;&c_a;&c_b;&c_je;&c_r;&c_n;&c_a;&c_ja;

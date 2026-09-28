@@ -337,6 +337,7 @@
   &c_ja;&c_z;&c_d;&c_y;</trd>
   <trd lng="ca">bota de muntar</trd>
   <trd lng="de">Reitstiefel</trd>
+  <trd lng="en" fnt="AI: de ca es; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">riding boot</trd>
   <trd lng="es">bota de montar</trd>
   <trd lng="fr">botte cavali&egrave;re</trd>
   <trdgrp lng="id">
@@ -378,6 +379,10 @@
   <trd lng="be">&c_l;&c_ib;&c_z;&c_a;&c_c;&c_mol; <ind>&c_b;&c_o;&c_t;&c_y;</ind></trd>
   <trd lng="ca">besar els peus (d'alg&uacute;)</trd>
   <trd lng="de">die <ind>Stiefel</ind> lecken</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr es; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">lick someone's boots <klr>(colloquial)</klr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bootlick <klr>(derogatory)</klr></trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>agradar a alguien para conseguir un favor</trd>,
     <trd>lamer las botas</trd>,

@@ -335,6 +335,10 @@
        <trd>t&uuml;chtig</trd>,
        <trd>g&uuml;tig</trd>
      </trdgrp>
+     <trdgrp lng="en">
+       <trd fnt="AI: de es fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bravely</trd>,
+       <trd fnt="AI: es pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">valiantly</trd>
+     </trdgrp>
      <trdgrp lng="es">
        <trd>bravamente</trd>,
        <trd>valerosamente</trd>,

@@ -226,6 +226,10 @@
     <trd>Bremsklotz</trd>,
     <trd>Bremsbacke</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr it nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">brake shoe</trd>,
+    <trd fnt="AI: de be ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">brake block</trd>
+  </trdgrp>
   <trd lng="fr">patin <klr tip="ind">(de frein)</klr></trd>
   <trd lng="hu">f&eacute;kpofa</trd>
   <trd lng="id">sepatu rem</trd>
