@@ -14,6 +14,7 @@
     <dif>
       Eksplodkapabla metala globo a&ubreve; kesto, uzata kiel armilo.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An explosive metal sphere or box used as a weapon.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Explosionsf&auml;hige metallene Kugel oder Kiste, die als Waffe verwendet wird.</dif>
     <subsnc mrk="bomb.0o.falanta">
       <dif>
@@ -30,6 +31,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A weapon that strikes its target by free fall, dropped from a bomber or fired from a mortar.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Waffe, die ihr Ziel im freien Fall trifft, abgeworfen von einem Bombenflugzeug oder abgefeuert aus einem M&ouml;rser.</dif>
       <refgrp tip="vid">
         <ref cel="grenad.0o">grenado</ref>,
@@ -53,6 +55,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An explosive device made by terrorists.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von Terroristen hergestellte Sprengvorrichtung.</dif>
       <ref tip="vid" cel="min.0o">mino</ref>
       <adm>
@@ -164,6 +167,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The use of bombs to destroy something militarily.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einsatz von Bomben, um etwas milit&auml;risch zu zerst&ouml;ren.</dif>
     <trdgrp lng="zh">
     <trd>&#x5927;&#x8F5F;&#x70B8; <pr>d&agrave;h&omacron;ngzh&agrave;</pr></trd>,
@@ -310,6 +314,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A bomb that explodes after a set time by means of a clockwork mechanism.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bombe, die dank eines Uhrwerks nach einer bestimmten Zeit explodiert.</dif>
     <trd lng="zh">&#x5B9A;&#x65F6;&#x70B8;&#x5F39; <pr>d&igrave;ngsh&iacute;zh&agrave;d&agrave;n</pr></trd>
 </snc>
