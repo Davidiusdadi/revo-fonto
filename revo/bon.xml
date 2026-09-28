@@ -859,6 +859,7 @@
     <trd>Erfolg</trd>,
     <trd>Nutzen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de es fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">good</trd>
   <trdgrp lng="es">
     <trd>buena acci&oacute;n</trd>,
     <trd>bien<klr tip="ind"> (opuesto a mal)</klr></trd>
@@ -950,6 +951,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hohe Qualit&auml;t</dif>
+    <trd lng="en" fnt="AI: dif ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">excellence</trd>
     <trd lng="zh">&#x4F73;&#x5EA6; <pr>ji&amacron;d&ugrave;</pr></trd>
 </snc>
   <snc mrk="bon.0eco.komplezemo">
@@ -1022,6 +1024,7 @@
       </ekz>
     </dif>
     <trd lng="de">guter <ind>Mensch</ind></trd>
+    <trd lng="en" fnt="AI: de es fr nl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">good person</trd>
     <trd lng="es">hombre de bien</trd>
     <trd lng="fr">homme de bien</trd>
     <trd lng="nl">goed mens</trd>
@@ -1528,6 +1531,10 @@
       <trd>Untat</trd>,
       <trd>Schandtat</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">misdeed</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">wrongdoing</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_l;&c_o;</trd>,
@@ -1852,6 +1859,7 @@
   </trdgrp>
   <trd lng="br">gwella&ntilde;<klr tip="ind"> (a.k.)</klr></trd>
   <trd lng="de" fnt="AI: fr pl ru es ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Optimum</trd>
+  <trd lng="en" fnt="AI: fr pl ru ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">optimum</trd>
   <trdgrp lng="es">
     <trd>&oacute;ptimo<klr> (subst.)</klr></trd>,
     <trd>inmejorable</trd>
