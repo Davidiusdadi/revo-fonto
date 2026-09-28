@@ -110,6 +110,11 @@
     <trd fnt="AI: la it; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Zirbe</trd>,
     <trd fnt="AI: la nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Arve</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: la dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Swiss pine</trd>,
+    <trd fnt="AI: la dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Swiss stone pine</trd>,
+    <trd fnt="AI: la dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Arolla pine</trd>
+  </trdgrp>
   <trd lng="hu">havasi <ind>cirbolyafeny&odblac;</ind></trd>
   <trdgrp lng="it">
     <trd>cembro</trd>,
@@ -142,6 +147,7 @@
   <trd lng="be">&c_k;&c_je;&c_d;&c_r; &c_s;&c_ib;&c_b;&c_ib;&c_r;&c_s;&c_k;&c_ib;</trd>
   <trd lng="ca">pi de Sib&egrave;ria</trd>
   <trd lng="de" fnt="AI: la hu nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Sibirische Zirbelkiefer</trd>
+  <trd lng="en" fnt="AI: la dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Siberian pine</trd>
   <trd lng="hu">szib&eacute;riai
   <ind>cirbolyafeny&odblac;</ind></trd>
   <trd lng="it"><ind>pino</ind> siberiano</trd>
@@ -166,6 +172,7 @@
   </snc>
   <trd lng="be">&c_k;&c_je;&c_d;&c_r;&c_a;&c_ch;</trd>
   <trd lng="ca">pineda (de cembres)</trd>
+  <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">stone pine forest</trd>
   <trdgrp lng="nl">
     <trd>alpendenbos</trd>,
     <trd>arvebos</trd>

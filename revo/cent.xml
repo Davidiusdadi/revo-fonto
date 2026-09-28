@@ -608,6 +608,7 @@ lng="th">&#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3627;&#3617;&#3634;&
   <trd lng="be">&c_z;&c_n;&c_a;&c_k; &c_p;&c_r;&c_a;&c_c;&c_e;&c_n;&c_t;&c_a;</trd>
   <trd lng="cs">znak procenta</trd>
   <trd lng="de">Prozentzeichen</trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">percent sign</trd>
   <trdgrp lng="fr">
     <trd>pourcentage<klr> (symbole)</klr></trd>,
     <trd>%</trd>

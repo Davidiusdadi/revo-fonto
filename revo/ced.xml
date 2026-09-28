@@ -379,6 +379,7 @@
     <trd>&Uuml;berlassenes</trd>,
     <trd>Zugest&auml;ndnis</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr it pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">concession</trd>
   <trdgrp lng="fr">
     <trd>cession</trd>,
     <trd>concession</trd>
@@ -597,6 +598,7 @@
   </trdgrp>
   <trd lng="cs">postoupit</trd>
   <trd lng="de">abtreten</trd>
+  <trd lng="en" fnt="AI: de fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">relinquish</trd>
   <trdgrp lng="fr">
     <trd>conc&eacute;der</trd>,
     <trd>ali&eacute;ner</trd>
@@ -858,6 +860,10 @@
     <trd>unbeirrbar</trd>,
     <trd>beharrlich</trd>
   </trdgrp>
+<trdgrp lng="en">
+  <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unyielding</trd>,
+  <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">persistent</trd>
+</trdgrp>
 <trdgrp lng="id">
   <trd>persisten</trd>,
   <trd>teguh</trd>,
@@ -890,6 +896,7 @@
   </snc>
   <trd lng="be">&c_s;&c_a;&c_s;&c_t;&c_u;&c_p;&c_a;&c_c;&c_mol; <klr>(&c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib; &c_k;&c_a;&c_m;&c_u;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>
   <trd lng="de">&uuml;berlassen</trd>
+  <trd lng="en" fnt="AI: de fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">transfer</trd>
   <trd lng="fr">c&eacute;der<klr> (qqch)</klr></trd>
 <trd lng="id"><baz>serah</baz>menyerahkan</trd>
 </drv>

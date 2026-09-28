@@ -30,6 +30,7 @@
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Name des ersten Tons der C-Dur-Tonleiter (262 Hz; in der absoluten Solmisation do, fr&uuml;her ut).</dif>
        <trd lng="de" fnt="AI: dif fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">C</trd>
+       <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">C</trd>
        <trdgrp lng="fr">
          <trd>do</trd>,
          <trd>ut</trd>
@@ -43,6 +44,7 @@
          (maj.) roma cifero: <ekz>C (100), CC (200)</ekz>;
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) r&ouml;misches Zahlzeichen.</dif>
+       <trd lng="en" fnt="AI: fr pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">100</trd>
        <trd lng="fr">100<klr> (chiffre romain)</klr></trd>
        <trd lng="pl">100<klr> (cyfra rzymska)</klr></trd>
        <trd lng="ru">100<klr> (&c_r;&c_i;&c_m;&c_s;&c_k;&c_a;&c_ja; &c_c;&c_i;&c_f;&c_r;&c_a;)</klr></trd>
@@ -54,6 +56,7 @@
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Symbol f&uuml;r Kohlenstoff.</dif>
        <trd lng="de" fnt="AI: fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kohlenstoff</trd>
+       <trd lng="en" fnt="AI: fr ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">carbon</trd>
        <trd lng="fr">carbone</trd>
        <trd lng="pl">w&eogonek;gla symbol</trd>
        <trd lng="ru">&c_u;&c_g;&c_l;&c_je;&c_r;&c_o;&c_d;<klr> (&c_v; &c_h;&c_i;&c_m;. &c_f;&c_o;&c_r;&c_m;&c_u;&c_l;&c_a;&c_h;)</klr></trd>
@@ -67,6 +70,7 @@
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Name einer in den 1970er Jahren entstandenen Programmiersprache, einer der meistverwendeten Sprachen zum Schreiben von Werkzeugprogrammen.</dif>
        <trd lng="de" fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">C</trd>
+       <trd lng="en" fnt="AI: fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">C</trd>
        <trd lng="fr">C<klr> (langage de programmation)</klr></trd>
        <trd lng="pl">C<klr> (j&eogonek;zyk programowania)</klr></trd>
        <trd lng="ru">&c_S;&c_i;<klr> (&c_ja;&c_z;&c_y;&c_k; &c_p;&c_r;&c_o;&c_g;&c_r;&c_a;&c_m;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_n;&c_i;&c_ja;)</klr></trd>
@@ -78,6 +82,7 @@
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Symbol f&uuml;r Celsius.</dif>
        <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Celsius</trd>
+       <trd lng="en" fnt="AI: fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Celsius</trd>
        <trd lng="fr">Celsius</trd>
        <trd lng="pl">stopie&nacute; Celsjusza</trd>
        <trd lng="ru"><klr>(&c_g;&c_r;&c_a;&c_d;&c_u;&c_s;&c_y; )&c_C;&c_je;&c_l;&c_mol;&c_s;&c_i;&c_ja;</klr></trd>
@@ -90,6 +95,7 @@
          nombroj: <frm am="CC"><g>C</g></frm>.
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;geschrieben, mit Doppelstrich oder fett) Symbol f&uuml;r die Menge aller komplexen Zahlen.</dif>
+       <trd lng="en" fnt="AI: fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">C</trd>
        <trd lng="fr">C<klr> (ensemble des nombres complexes)</klr></trd>
        <trd lng="pl">C<klr> (zbi&oacute;r liczb ca&lstroke;kowitych)</klr></trd>
     </subsnc>
