@@ -93,6 +93,7 @@
          <ref cel="sankci.0umo">sankciumo</ref>
       </refgrp>
         <trd lng="de">Embargo</trd>
+    <trd lng="en" fnt="AI: de id ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">embargo</trd>
     <trd lng="id">embargo</trd>
     </subsnc>
     <subsnc mrk="blokad.0o.manifestacio">
@@ -227,6 +228,7 @@
   <trdgrp lng="de">
     <trd>blockieren</trd>,
   </trdgrp>
+  <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">block</trd>
   <trd lng="fa">&a_m;&a_H;&a_A;&a_S;&a_r;&a_h; &f_k;&a_r;&a_d;&a_n;</trd>
   <trdgrp lng="fr">
     <trd>assi&eacute;ger</trd>,

@@ -30,6 +30,10 @@
           <lok><url ref="&WCW;/File:Chenopodium_foliosum.JPG">&WCW;/File:Chenopodium_foliosum.JPG</url></lok>
         </fnt>
     </bld>
+    <trdgrp lng="en">
+      <trd fnt="AI: de sv la dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">strawberry spinach</trd>,
+      <trd fnt="AI: sv la dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">strawberry blite</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_l;&c_je;&c_b;&c_ja;&c_d;&c_a;</trd>
   <trd lng="de">Erdbeerspinat</trd>

@@ -71,6 +71,10 @@
     <trd>&c_p;&c_r;&c_o;&c_b;&c_l;&c_ib;&c_s;&c_k;&c_a;&c_v;&c_y; <ind>&c_m;&c_a;&c_ja;&c_ch;&c_o;&c_k;</ind></trd>
   </trdgrp>
   <trd lng="de">Blinker</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">flasher</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">blinker</trd>
+  </trdgrp>
   <trd lng="fr">signal <ind>clignotant</ind></trd>
 </drv>
 </art>

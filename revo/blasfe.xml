@@ -108,6 +108,10 @@
       <trd>keifen</trd>,
       <trd>verfluchen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref de pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">curse</trd>,
+      <trd fnt="AI: de be ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">swear</trd>
+    </trdgrp>
     <trdgrp lng="fa">
       <trd>&a_d;&a_sh;&a_n;&a_A;&a_m; &a_d;&a_A;&a_d;&a_n;</trd>,
       <trd>&a_n;&a_A;&a_s;&a_z;&a_A; &f_g;&a_f;&a_t;&a_n;</trd>

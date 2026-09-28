@@ -227,6 +227,7 @@
     <trd>&c_k;&c_a;&c_a;&c_l;&c_ib;&c_c;&c_y;&c_ja;</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;ndnis</trd>
+  <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bloc</trd>
   <trd lng="id">koalisi</trd>
   </snc>
   <trd lng="af">blok</trd>
@@ -458,6 +459,7 @@
     </dif>
     <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">entblocken</trd>
   </snc>
+  <trd lng="en" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unblock</trd>
   <trd lng="fr">d&eacute;bloquer</trd>
 <trdgrp lng="id">
   <trd><baz>buka</baz>membuka blokade</trd>,
@@ -503,6 +505,7 @@
     <trd>&c_g;&c_r;&c_u;&c_p;&c_a; &c_d;&c_a;&c_m;&c_o;&c_w;</trd>,
     <trd>&c_z;&c_a;&c_b;&c_u;&c_d;&c_o;&c_v;&c_a;</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">city block</trd>
   <trd lng="fr">p&acirc;t&eacute; de maisons</trd>
   <trdgrp lng="id">
     <trd>blok kota</trd>,
@@ -567,6 +570,7 @@
       </ekz>
     </dif>
     <trd lng="de">Rollenblock</trd>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">roller assembly</trd>
   </snc>
   <snc mrk="blok.rul0o.MAR">
     <uzo tip="fak">MAR</uzo>
@@ -668,6 +672,10 @@
     <trd fnt="AI: fr id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Skizzenblock</trd>,
     <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zeichenblock</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sketch pad</trd>,
+    <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">drawing pad</trd>
+  </trdgrp>
   <trd lng="fr">bloc &agrave; dessin</trd>
 <trd lng="id">buku gambar</trd>
 </drv>
@@ -713,6 +721,7 @@
     <trd>Steinblock</trd>,
     <trd>Felsbrocken</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">stone block</trd>
   <trdgrp lng="fr">
     <trd>bloc de pierre</trd>,
     <trd>rocher</trd>
