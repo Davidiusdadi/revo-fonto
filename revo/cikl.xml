@@ -47,6 +47,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A period of constant length, after which the same phenomena recur in the same order.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stets gleicher Zeitraum, nach dem sich dieselben Erscheinungen in derselben Reihenfolge wiederholen.</dif>
      <trd lng="de">Kreislauf</trd>
     <trd lng="es">ciclo</trd>
@@ -84,6 +85,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A set of poems relating to the same theme.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe von Gedichten, die sich auf dasselbe Thema beziehen.</dif>
     <trd lng="es">ciclo</trd>
     <trd lng="nl">cyclus</trd>
@@ -168,6 +170,7 @@
           kunliga&jcirc;on de duelementaj <tld/>oj.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of length n, in other words, with n elements) A permutation f that leaves all elements unchanged except n elements {a1, a2, ..., an}, for which f(ai) = ai+1 (if i &lt; n) and f(an) = a1.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(der L&auml;nge n, anders gesagt: n-elementig) Eine Permutation f, die alle Elemente unver&auml;ndert l&auml;sst au&szlig;er n Elementen {a1,a2,..., an}, f&uuml;r die f(ai) = ai+1 (falls i &lt; n) und f(an) = a1 gilt.</dif>
       <trd lng="de">Zykel<klr tip="ind"> (Vertauschung)</klr></trd>
       <trd lng="en">cycle<klr tip="ind"> (permutation)</klr></trd>
@@ -187,6 +190,7 @@
         &gcirc;iaj komenca kaj fina verticoj koincidas; alidire: fermita
         &ccirc;eno.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a graph) A simple chain whose initial and final vertices coincide; in other words, a closed chain.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Graphen) Ein einfacher Kantenzug, dessen Anfangs- und Endknoten zusammenfallen; anders gesagt: ein geschlossener Kantenzug.</dif>
       <refgrp tip="sub">
         <ref cel="cirkvi.0o.grafeo">cirkvito</ref>

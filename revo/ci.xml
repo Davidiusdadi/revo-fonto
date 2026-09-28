@@ -19,6 +19,7 @@
         <fnt><bib>F</bib>, <lok>&FE;16</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The addressee.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die angesprochene Person.</dif>
     <subsnc mrk="ci.0.MOR">
       <dif>
@@ -44,6 +45,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Familiarly, in an informal tone.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">vertraulich, in ungezwungenem Ton.</dif>
       <trd lng="ca">tu</trd>
       <trd lng="es">t&uacute;<klr tip="amb"> (2&#xAA; persona singular
@@ -64,6 +66,7 @@
           </fnt>!
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Sometimes when addressing God.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">manchmal in der Anrede an Gott.</dif>
       <trd lng="ca">V&oacute;s</trd>
       <trd lng="nl">U</trd>
@@ -242,6 +245,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To address someone as &#x2018;thou&#x2019;&mdash;intimately, informally, or according to conventions of address in which the formal mode of address does not exist.</dif>
     <ref tip="vid" cel="vi.0umi">viumi</ref>
   </snc>
   <trd lng="be">&c_z;&c_mol;&c_v;&c_ja;&c_r;&c_t;&c_a;&c_c;&c_c;&c_a; &c_n;&c_a; <ind>&c_t;&c_y;</ind></trd>
