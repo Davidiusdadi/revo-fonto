@@ -139,6 +139,7 @@
       <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Banknote</trd>,
       <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geldschein</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: ref be pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">banknote</trd>
     <trd lng="id">uang kertas</trd>
     <trd lng="pl">banknot</trd>
   </snc>
@@ -234,6 +235,7 @@
   </trdgrp>
   <trd lng="cs">schr&aacute;nka na l&iacute;stky</trd>
   <trd lng="de">Geldb&ouml;rse</trd>
+  <trd lng="en" fnt="AI: ref de fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">wallet</trd>
   <trd lng="id">dompet</trd>
   <trd lng="sk">schr&aacute;nka na l&iacute;stky</trd>
   <trd lng="uk">&c_g;&c_a;&c_m;&c_a;&c_n;&c_je;&c_c;&c_mol;</trd>
@@ -260,6 +262,7 @@
     <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Eintrittskarte</trd>
   </snc>
   <trd lng="be">&c_b;&c_ib;&c_l;&c_je;&c_t; &c_u;&c_v;&c_a;&c_h;&c_o;&c_d;&c_n;&c_y;</trd>
+  <trd lng="en" fnt="AI: fr pl zh dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">admission ticket</trd>
   <trdgrp lng="fr">
     <trd>billet d'entr&eacute;e</trd>,
     <trd>ticket d'entr&eacute;e</trd>

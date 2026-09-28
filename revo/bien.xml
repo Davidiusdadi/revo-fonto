@@ -237,6 +237,7 @@
     <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Latifundium</trd>,
     <trd fnt="AI: cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gro&szlig;grundbesitz</trd>
   </trdgrp>
+  <trd lng="en" kod="FAK" fnt="AI: pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">latifundium <klr>(jargon)</klr></trd>
   <trd lng="id">lahan luas</trd>
   <trdgrp lng="ja">
     <trd>&#22823;&#38936;&#22320;  <pr>&#12384;&#12356;&#x308A;&#12423;&#12358;&#12385;</pr></trd>,

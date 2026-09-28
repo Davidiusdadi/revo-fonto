@@ -169,6 +169,10 @@
     <trd>Tanakh</trd>
   </trdgrp>
   <trd lng="de">Altes Testament</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ca be hu ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Hebrew Bible</trd>,
+    <trd fnt="AI: ca be id ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Tanakh</trd>
+  </trdgrp>
   <trd lng="hu">H&eacute;ber Biblia</trd>
   <trdgrp lng="id">
     <trd><baz>janji</baz>Perjanjian Lama</trd>,
@@ -217,6 +221,7 @@
   </trdgrp>
   <trd lng="ca"><ind>B&iacute;blia</ind> de Londres</trd>
   <trd lng="de">Londoner Bibel</trd>
+  <trd lng="en" fnt="AI: de ca hu id it ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">London Bible</trd>
   <trd lng="hu">Londoni Biblia</trd>
   <trd lng="id">Alkitab London<klr> (Esperanto)</klr></trd>
   <trd lng="it"><ind>bibbia</ind> di Londra</trd>

@@ -42,6 +42,7 @@
 	<trd>Abbild</trd>,
 	<trd>Spiegelbild</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">reflection</trd>
       <trd lng="nl">speigelbeeld</trd>
     </subsnc>
     <subsnc mrk="bild.0o.prezentita">
@@ -88,6 +89,7 @@
       <trdgrp lng="de">
 	<trd>Abbildung</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">depiction</trd>
       <trd lng="nl">afbeelding</trd>
     </subsnc>
     <subsnc mrk="bild.0o.simili">
@@ -140,6 +142,7 @@
 	<trd>Abziehbild</trd>,
 	<trd>Nachbildung</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">likeness</trd>
       <trd lng="nl">beeltenis</trd>
     </subsnc>
     <subsnc mrk="bild.0o.imago">
@@ -186,6 +189,7 @@
 	<trd>Bild</trd>,
 	<trd>Abbild</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">mental image</trd>
       <trd lng="nl">beeld</trd>
     </subsnc>
     <refgrp tip="vid">
@@ -293,6 +297,7 @@
 	<tld/>o de subaro <frm am="{a}">{<k>a</k>}</frm>.
       </rim>
       <trd lng="de" fnt="AI: pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Funktionswert</trd>
+      <trd lng="en" fnt="AI: pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">function value</trd>
       <trdgrp lng="pl">
 	<trd>obraz<klr tip="ind"> (elementu przez funkcj&eogonek;)</klr>
 	</trd>,
@@ -928,6 +933,7 @@
     <trd>Idealbild</trd>,
     <trd>Muster <klr>(Ideal)</klr></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">ideal</trd>
 </drv>
 
 <drv mrk="bild.lum0o">
@@ -1257,6 +1263,7 @@
   <trd lng="be">&c_a;&c_b;&c_r;&c_a;&c_z; &c_z; &c_v;&c_y;&c_ja;&c_v;&c_a;&c_j;
   &c_s;&c_mol;&c_v;&c_ja;&c_t;&c_o;&c_g;&c_a;</trd>
   <trd lng="de">Heiligenbild</trd>
+  <trd lng="en" fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">icon</trd>
 </drv>
 
 <drv mrk="bild.son0a">
@@ -1400,6 +1407,10 @@
   </snc>
   <trd lng="be">&c_s;&c_u;&c_z;&c_o;&c_r;&#8217;&c_je;</trd>
   <trd lng="de">Sternbild</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">constellation</trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">asterism</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd><ind>rasi</ind> (bintang)</trd>,
     <trd>konstelasi</trd>
@@ -1700,6 +1711,7 @@
   </snc>
   <trd lng="ca">imatge <klr>(&#8800; antiimatge)</klr></trd>
   <trd lng="de" fnt="AI: ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bild</trd>
+  <trd lng="en" fnt="AI: ca ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">direct image</trd>
   <trd lng="id"><ind>gambar</ind>an (langsung)</trd>
 </drv>
 </art>

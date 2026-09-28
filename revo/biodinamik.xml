@@ -51,6 +51,7 @@
     <trd fnt="AI: be fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">biologisch-dynamische Landwirtschaft</trd>,
     <trd fnt="AI: fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Biodynamik</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">biodynamics</trd>
   <trd lng="fr">biodynamie</trd>
 </drv>
 </art>
