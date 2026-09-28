@@ -71,6 +71,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A public service and its premises (a room or building), where books, periodicals and possibly other recorded data (sound recordings, films, etc.) are kept to enable people to read, use or borrow them.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Ouml;ffentliche Einrichtung und deren R&auml;umlichkeit (Zimmer, Geb&auml;ude), in der B&uuml;cher, Zeitschriften und gegebenenfalls auch andere aufgezeichnete Daten (Tontr&auml;ger, Filme usw.) aufbewahrt werden, damit die Menschen sie lesen, benutzen oder ausleihen k&ouml;nnen.</dif>
     <ref tip="sin" cel="libr.0ejo.biblioteko">librejo<sncref/></ref>
     <refgrp tip="prt">
@@ -133,6 +134,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A private or public collection of books.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Private oder &ouml;ffentliche Sammlung von B&uuml;chern.</dif>
     <refgrp tip="malprt">
       <ref cel="kabine.0o.ARKI">kabineto<sncref/></ref>
@@ -173,6 +175,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A synonym for series in some series titles.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Synonym f&uuml;r &leftquot;Reihe&rightquot; in manchen Titeln von Buchreihen.</dif>
     <trd lng="be">&c_b;&c_ib;&c_b;&c_l;&c_ib;&c_ja;&c_t;&c_e;&c_k;&c_a;</trd>
     <trdgrp lng="de">
@@ -198,6 +201,7 @@
         <tld/>o de matematikaj, grafikaj funkcioj.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A specially arranged file containing program components (subprograms: procedures, macros, constants, etc.) accessible by name when linked to a program.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Speziell eingerichtete Datei, die Programmteile (Unterprogramme: Prozeduren, Makros, Konstanten usw.) enth&auml;lt, die beim Binden mit einem Programm &uuml;ber ihren Namen erreichbar sind.</dif>
     <trd lng="be">&c_b;&c_ib;&c_b;&c_l;&c_ib;&c_ja;&c_t;&c_e;&c_k;&c_a;</trd>
     <trdgrp lng="de">
@@ -228,6 +232,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A bookcase or bookshelf.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;cherschrank oder B&uuml;cherregal.</dif>
     <rim>
       PIV2 retenas tiun sencon, sed por mi &gcirc;i estas surpriza kaj
