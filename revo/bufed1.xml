@@ -38,6 +38,10 @@
   (&c_s;&c_je;&c_m;&c_je;&c_j;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
   <trd lng="ca">buf&ograve;nids</trd>
   <trd lng="de">Kr&ouml;ten</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">true toad</trd>,
+    <trd kod="FAK" fnt="AI: fr it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">bufonid <klr>(jargon)</klr></trd>
+  </trdgrp>
   <trd lng="fr">Bufonid&eacute;s</trd>
   <trd lng="hu">varangyf&eacute;l&eacute;k</trd>
   <trd lng="it">bufonidi</trd>

@@ -294,6 +294,7 @@
       <trd>Musikpavillon</trd>,
       <trd>Musikkiosk</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">bandstand</trd>
     <trdgrp lng="zh">
     <trd>&#28436;&#22863;&#21488; <pr>y&#462;nz&ograve;ut&aacute;i</pr></trd>,
     <trd>&#38899;&#20048;&#21488; <pr>y&imacron;nyu&egrave;t&aacute;i</pr></trd>
@@ -332,6 +333,10 @@
     <trd lng="be">&c_p;&c_r;&c_y;&c_m;&c_je;&c_r;&c_a;&c_ch;&c_n;&c_a;&c_ja;</trd>
     <trd lng="bg">&c_s;&c_malmol;&c_b;&c_l;&c_je;&c_k;&c_a;&c_l;&c_n;&c_ja;</trd>
     <trd lng="de">Umkleidekabine</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">fitting room</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">changing room <klr>(British)</klr></trd>
+    </trdgrp>
     <trd lng="es">probador<klr tip="amb"> (cabina para probarse
     ropa)</klr></trd>
     <trd lng="fa">&f_k;&a_A;&a_b;&f_y;&a_n;
@@ -436,6 +441,10 @@
   </trdgrp>
   <trd lng="ca">parada <klr tip="amb">(en un mercat, una fira)</klr></trd>
   <trd lng="de">Verkaufsbude</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ca de id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">stall</trd>,
+    <trd fnt="AI: de id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">sales booth</trd>
+  </trdgrp>
   <trd lng="id">stand jualan</trd>
   <trd lng="pl">budka handlowa</trd>
 </drv>

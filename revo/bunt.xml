@@ -87,6 +87,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vielgestaltig, verschiedenartig.</dif>
     <trd lng="de">vielf&auml;ltig</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">varied</trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">diverse</trd>
+    </trdgrp>
     <trdgrp lng="zh">
     <trd>&#29477;&#26434; <pr>w&#283;iz&#225;</pr></trd>,
     <trd>&#33457;&#21736; <pr>hu&#257;shao</pr></trd>
@@ -172,6 +176,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mehrfarbigkeit.</dif>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">colourfulness</trd>
     <trd lng="zh">&#22810;&#26679;&#24615; <pr>du&#333;y&#224;ngx&#236;ng</pr></trd>
 </snc>
   <snc mrk="bunt.0eco.FIG">
@@ -212,6 +217,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verschiedenheit, Inhomogenit&auml;t, Uneinheitlichkeit.</dif>
     <trd lng="de">Vielf&auml;ltigkeit</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">diversity</trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">heterogeneity</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_r;&c_e;&c_s;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,

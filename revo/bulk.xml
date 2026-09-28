@@ -136,6 +136,7 @@
     <trd fnt="AI: fr ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Croissant</trd>,
     <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">H&ouml;rnchen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: ca fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">croissant</trd>
   <trd lng="fr">croissant<klr> (p&acirc;tisserie)</klr></trd>
 </drv>
 </art>
