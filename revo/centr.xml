@@ -53,6 +53,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The middle part of an object or place.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mittlerer Teil eines Gegenstands oder eines Ortes.</dif>
     <refgrp tip="vid">
       <ref cel="aks.0o">akso</ref>,
@@ -114,6 +115,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The main point, focus or most active part.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Hauptpunkt, Brennpunkt, aktivster Teil.</dif>
     <refgrp tip="vid">
       <ref cel="anim.0o">animo</ref>,
@@ -136,6 +138,7 @@
       Rimarkinda <ref tip="super" cel="punkt.0o.spaco">punkto</ref>,
       interalie:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A notable point, including the following cases, among others.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bemerkenswerter Punkt, unter anderem.</dif>
     <subsnc mrk="centr.0o.cirklo">
       <fnt><bib>MatTerm</bib><lok>p. 28</lok></fnt>
@@ -144,6 +147,7 @@
       <ref cel="sfer.0o.surfaco">sfero</ref>)</klr>
       Tiu punkto egaldistanca de &ccirc;iuj punktoj de la koncerna figuro.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a circle or sphere) The point equidistant from all points of the figure concerned.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kreises oder einer Kugel) Derjenige Punkt, der von allen Punkten der betreffenden Figur gleich weit entfernt ist.</dif>
       <adm>
       Mi korektis "egaldistanca al" al "egaldistanca de" por koherigi
@@ -161,6 +165,7 @@
       La <tld/>o <sncref ref="centr.0o.cirklo"/> de &gcirc;ia
       <ref cel="skrib.en0ita">enskribita</ref> cirklo.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a triangle or regular polygon) The centre of its inscribed circle.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Dreiecks oder regelm&auml;&szlig;igen Vielecks) Der Mittelpunkt seines einbeschriebenen Kreises.</dif>
       <trd lng="de">Inkreismittelpunkt</trd>
       <trdgrp lng="en">
@@ -173,6 +178,7 @@
       <klr>(de <ref cel="elips.0o.linio">elipso</ref>)</klr>
       Intersekco de &gcirc;iaj du <ref cel="aks.simetri0o">simetriaksoj</ref>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of an ellipse) The intersection of its two axes of symmetry.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Ellipse) Schnittpunkt ihrer beiden Symmetrieachsen.</dif>
       <trd lng="de">Mittelpunkt</trd>
       <trd lng="en">center</trd>
@@ -183,6 +189,7 @@
       en ebeno)</klr>
       La nura punkto sen&scirc;an&gcirc;a per &gcirc;i.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of an affine rotation in a plane) The only point left unchanged by it.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer affinen Drehung in der Ebene) Der einzige Punkt, der durch sie unver&auml;ndert bleibt.</dif>
       <trd lng="de">Drehpunkt</trd>
       <trd lng="en">center</trd>
@@ -220,6 +227,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A moderate party that sits midway between the extremes.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gem&auml;&szlig;igte Partei, die in der Mitte zwischen den Extremen sitzt.</dif>
     <trd lng="de" fnt="AI: pl no id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mitte</trd>
     <trd lng="id">tengah<klr> (politik)</klr></trd>
@@ -409,6 +417,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">In the centre of something or at its main point.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In der Mitte, am wichtigsten Punkt von ...</dif>
   </snc>
   <trd lng="be">&c_u; <ind>&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;</ind> &#8230;</trd>
@@ -473,6 +482,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To collect or bring together in the centre; to centralise or concentrate.</dif>
     <ref tip="vid" cel="fokus.0i">fokusi</ref>
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">zentrieren</trd>
   </snc>
@@ -545,6 +555,7 @@
          </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A policy taking a middle course between extremisms, especially between so-called right-wing and left-wing doctrines; moderation.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Politik des Mittelwegs zwischen Extremismen, besonders zwischen der sogenannten rechten und der linken Doktrin; M&auml;&szlig;igung.</dif>
     <trd lng="be">&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_z;&c_m;</trd>
     <trd lng="de" fnt="AI: fr be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Zentrismus</trd>
@@ -647,6 +658,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A large building containing many different shops.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Weitl&auml;ufiges Geb&auml;ude, das viele verschiedene Gesch&auml;fte enth&auml;lt.</dif>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_n;&c_d;&c_l;&c_jo;&c_v;&c_y;
@@ -692,6 +704,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Having a centre that does not coincide with the centre of other parts.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Dessen Mittelpunkt nicht mit dem Mittelpunkt anderer Teile zusammenf&auml;llt.</dif>
   </snc>
   <trd lng="be">&c_e;&c_k;&c_s;&c_c;&c_e;&c_n;&c_t;&c_r;&c_y;&c_ch;&c_n;&c_y; <klr
@@ -754,6 +767,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The quality of something eccentric.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Eigenschaft von etwas Exzentrischem.</dif>
     <trd lng="fr">excentricit&eacute;<klr tip="ind"> (tech.)</klr></trd>
     <trdgrp lng="pl">
@@ -770,6 +784,7 @@
       koniko al &gcirc;ia fokuso kaj la distanco de tiu punkto al
       la direktanto.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a conic section) The constant ratio of the distance from each point of the conic section to its focus to the distance from that point to the directrix.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Kegelschnitts) Das konstante Verh&auml;ltnis zwischen dem Abstand jedes Punktes des Kegelschnitts von seinem Brennpunkt und dem Abstand dieses Punktes von der Leitlinie.</dif>
     <rim>
       En <fnt><bib>MatVort</bib></fnt> troveblas du sinonimoj:
@@ -935,6 +950,7 @@
       Ne proksima al <tld/>o, flanka,
       <ref tip="sin" cel="perife.0a.KOMUNE">periferia</ref>.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Not close to the centre, lateral or peripheral.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Nicht nahe am Zentrum, seitlich, am Rand gelegen.</dif>
     <trd lng="be">&c_p;&c_e;&c_r;&c_y;&c_f;&c_e;&c_r;&c_y;&c_j;&c_n;&c_y;</trd>
     <trdgrp lng="ca">
@@ -966,6 +982,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Without a centre, dispersed or network-like.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ohne Zentrum, verstreut, netzartig.</dif>
     <trd
 lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;&c_n;&c_y;</trd>
@@ -1002,6 +1019,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A tendency to regard oneself as the most important thing and to care for oneself first.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Neigung, das eigene Selbst f&uuml;r das Wichtigste zu halten und zuerst f&uuml;r sich selbst zu sorgen.</dif>
   </snc>
   <refgrp tip="vid">
@@ -1026,6 +1044,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
     La punkto, en kiu oni povas imagi koncentrita la tutan pezon
     a&ubreve; mason de korpo.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The point at which the entire weight or mass of a body may be imagined to be concentrated.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der Punkt, in dem man sich das gesamte Gewicht oder die gesamte Masse eines K&ouml;rpers vereinigt denken kann.</dif>
     <adm>
     Mi simple reprenis la difinon de PIV1, sed necesas &gcirc;in
@@ -1087,6 +1106,7 @@ lng="be">&c_d;&c_e;&c_c;&c_e;&c_n;&c_t;&c_r;&c_a;&c_l;&c_ib;&c_z;&c_a;&c_v;&c_a;
       oni nomas afina subspaco naskita de tiuj punktoj.
     </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of n points (Mi) in an affine space, with respective scalar coefficients (&alfa;i) whose sum is not equal to 0) The unique point G satisfying &Sigma;i &alfa;i&#x2219;(Mi-G) = 0.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von n Punkten (Mi) in einem affinen Raum mit jeweiligen skalaren Koeffizienten (&alfa;i), deren Summe nicht 0 ist) Der einzige Punkt G, der &Sigma;i &alfa;i&#x2219;(Mi-G) = 0 erf&uuml;llt.</dif>
     <rim>
     Kvankam la terminologio devenas de fiziko, la matematika nocio tute
