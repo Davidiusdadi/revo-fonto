@@ -262,6 +262,7 @@
     <trd fnt="AI: fr pl nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Onlineshop</trd>,
     <trd fnt="AI: nl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Webshop</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr nl pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">online shop</trd>
   <trdgrp lng="fr">
     <trd>boutique en ligne</trd>,
     <trd>e-boutique</trd>
