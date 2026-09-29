@@ -375,6 +375,7 @@
     <trd>&c_a;&c_b;&c_a;&c_r;&c_o;&c_n;&c_ch;&c_a;&c_je; &c_z;&c_b;&c_u;&c_d;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="de">Schutz</trd>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">defence</trd>
   <trd lng="fr">dispositif de <ind>d&eacute;fense</ind></trd>
   <trdgrp lng="id">
     <trd>benteng</trd>,
@@ -402,6 +403,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von allen Seiten verteidigen.</dif>
   </snc>
   <trd lng="be">&c_a;&c_b;&c_a;&c_r;&c_a;&c_n;&c_ja;&c_c;&c_mol; &c_z; &c_u;&c_s;&c_ib;&c_h; &c_b;&c_a;&c_k;&c_o;&c_w;</trd>
+  <trd lng="en" fnt="AI: be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">defend on all sides</trd>
   <trd lng="fr">d&eacute;fendre<klr tip="ind"> (de toutes parts)</klr></trd>
   <trd lng="id"><baz>lindung</baz>melindungi dr segala arah</trd>
   <trd lng="pl">broni&cacute; <klr>(ze wszystkich stron)</klr></trd>
@@ -512,6 +514,7 @@
     <trd>Selbstverteidigung</trd>,
     <trd>Selbstschutz</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">self-defence</trd>
   <trd lng="fr">d&eacute;fense de soi</trd>
   <trdgrp lng="id">
     <trd><baz>lindung</baz>perlindungan diri</trd>,

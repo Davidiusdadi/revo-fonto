@@ -149,6 +149,7 @@
       <trd>geh&ouml;ren</trd>,
       <trd>geb&uuml;hren</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de be ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be due</trd>
   </snc>
 
   <snc mrk="dec.0i.konveni">
@@ -437,6 +438,10 @@
     <trdgrp lng="de">
        <trd>angemessen</trd>,
        <trd>verdient</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">due</trd>,
+      <trd fnt="AI: de pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">appropriate</trd>
     </trdgrp>
     <trdgrp lng="hu">
       <trd>neki <ind>kij&aacute;r&oacute;</ind></trd>,

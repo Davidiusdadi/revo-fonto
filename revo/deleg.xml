@@ -223,6 +223,7 @@
     <trd>deputace</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: pl cs be uk ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Delegation</trd>
+  <trd lng="en" kod="HIS" fnt="AI: ref be cs ja pl sk uk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Delegation <klr>(historical)</klr></trd>
   <trd lng="ja">&#x4EE3;&#34920;&#x56E3;  <pr>&#12384;&#12356;&#12402;&#12423;&#12358;&#12384;&#12435;</pr></trd>
   <trd lng="pl">Delegacja</trd>
   <trd lng="sk">vl&#xE1;dna deleg&#xE1;cia</trd>

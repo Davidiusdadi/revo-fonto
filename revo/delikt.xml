@@ -186,6 +186,7 @@
    <trd fnt="AI: ca es fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ein Delikt begehen</trd>,
    <trd fnt="AI: ca es dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">straff&auml;llig werden</trd>
  </trdgrp>
+ <trd lng="en" fnt="AI: ca es fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">commit an offence</trd>
  <trdgrp lng="es">
 
    <trd>delinquir</trd>,
