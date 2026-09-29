@@ -418,6 +418,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Difference.</dif>
     <refgrp tip="vid">
       <ref cel="distan.0o">distanco</ref>,
       <ref cel="divers.0eco">diverseco</ref>,
@@ -472,6 +473,7 @@
           <frm>4</frm>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Result of subtraction.</dif>
       <rim>
         <nom>Bricard</nom> sugestas, ke la&ubreve; &gcirc;ia signo eblas nomi la
         <tld/>on <ctl>manko</ctl> a&ubreve; <ctl>troo</ctl>. Oni
@@ -500,6 +502,7 @@
         La konstanta <tld/>o <sncref ref="difere.0o.subtraho"/> inter
         &ccirc;iu termo de &gcirc;i kaj la anta&ubreve;a.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of an arithmetic progression) The constant difference between each of its terms and the preceding one.</dif>
       <rim>
         &Ccirc;i tiu termino estas paralela al <ctl>kvociento de
         geometria
@@ -558,6 +561,7 @@
           <ind>&c_r;&c_a;&c_z;&c_n;&c_o;&c_s;&c_t;&c_mol;</ind></trd>
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Between sets E and F) A set consisting of the elements of E that do not belong to F.</dif>
       <trd lng="ca">difer&egrave;ncia<klr tip="ind"> (entre dos conjunts)</klr></trd>
       <trd lng="de">Differenz<klr tip="ind"> (von Mengen E und F)</klr></trd>
       <trd lng="en">difference<klr tip="ind"> (of sets E and

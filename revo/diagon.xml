@@ -79,6 +79,7 @@
       <ref cel="rekt.0o.MAT">rekto</ref>)</klr>
       Samdirekta kiel la <ref cel="diagon.0o.plurlatero"><tld/>o <sncref/></ref>.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a line segment or line) Running in the same direction as the diagonal.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Strecke oder Geraden) In derselben Richtung verlaufend wie die Diagonale.</dif>
     <refgrp tip="vid">
       <ref cel="oblikv.0a">oblikva</ref>,
@@ -103,6 +104,7 @@
           matrico kun egalaj <tld/>aj elementoj.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of an element of an (n,n)-matrix) Situated on its diagonal.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einem Element einer (n,n)-Matrix) Auf ihrer Diagonale liegend.</dif>
       <trd lng="de">Diagonal-<klr tip="amb">(element)</klr></trd>
       <trd lng="en">diagonal<klr tip="ind"> (element)</klr></trd>
@@ -125,6 +127,7 @@
           la unuomatrico estas <tld/>a.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of an (n,n)-matrix) Whose elements are all zero except those situated on its diagonal.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer (n,n)-Matrix) Deren Elemente alle null sind, au&szlig;er denen, die auf ihrer Diagonale liegen.</dif>
       <trd lng="de">Diagonal-<klr tip="amb">(matrix)</klr></trd>
       <trd lng="en">diagonal<klr tip="ind"> (matrix)</klr></trd>
