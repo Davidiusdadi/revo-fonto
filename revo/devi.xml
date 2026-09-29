@@ -206,6 +206,7 @@
     <trd>&uacute;chylka</trd>
   </trdgrp>
   <trd lng="de">Abweichung</trd>
+  <trd lng="en" fnt="AI: de fr es; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">deviation</trd>
   <trd lng="es">desviaci&oacute;n</trd>
   <trd lng="fr">d&eacute;viation</trd>
   <trdgrp lng="he">
@@ -370,6 +371,7 @@
   </trd>
   <trd lng="ca">angle de desviaci&oacute;</trd>
   <trd lng="de">Ablenkungswinkel</trd>
+  <trd lng="en" fnt="AI: de ca es; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">angle of deviation</trd>
   <trd lng="es">&aacute;ngulo de desviaci&oacute;n</trd>
   <trd lng="hu">kit&eacute;r&eacute;si <ind>sz&ouml;g</ind></trd>
   <trdgrp lng="ja">

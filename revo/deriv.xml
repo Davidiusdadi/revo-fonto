@@ -252,6 +252,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer Funktion) Das Berechnen ihrer Ableitung.</dif>
     <trd lng="be">&c_v;&c_y;&c_l;&c_ib;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; <ind>&c_v;&c_y;&c_t;&c_v;&c_o;&c_r;&c_n;&c_a;&c_j;</ind></trd>
     <trd lng="de" fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Differentiation</trd>
+    <trd lng="en" fnt="AI: fr pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">differentiation</trd>
     <trd lng="fr">calcul de d&eacute;riv&eacute;e</trd>
     <trd lng="pl">r&oacute;&zdot;niczkowanie</trd>
     <trdgrp lng="ru">
@@ -455,6 +456,7 @@
     <ref tip="dif" cel="difere2.0o">diferencialo</ref>
   <trd lng="be">&c_d;&c_y;&c_f;&c_e;&c_r;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l; <klr>(&c_m;&c_a;&c_t;.)</klr></trd>
   <trd lng="de" fnt="AI: ref pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Differential</trd>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">differential</trd>
   <trd lng="pl">r&oacute;&zdot;niczka</trd>
   </snc>
   <snc mrk="deriv.0ajxo.KEM">

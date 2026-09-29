@@ -64,6 +64,10 @@
     <trd>Dental</trd>,
     <trd>Zahnlaut</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de es fr pt ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dental</trd>,
+    <trd fnt="AI: de pl pt ro ru sk uk dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dental consonant</trd>
+  </trdgrp>
   <trd lng="es">dental</trd>
   <trdgrp lng="fa">
     <trd>&a_h;&a_m;&a_kh;&a_w;&a_A;&a_n; &a_d;&a_n;&a_d;&a_A;&a_n;&f_y;</trd>,

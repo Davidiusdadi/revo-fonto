@@ -52,6 +52,7 @@
       <trd>deployen</trd>,
       <trd>installieren</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">install</trd>
     <trdgrp lng="zh">
     <trd>&#x914D;&#x7F6E; <pr>p&#xE8;izh&#xEC;</pr></trd>,
     <trd>&#x7F6E; <pr>zh&#xEC;</pr></trd>,
@@ -68,6 +69,7 @@
   <trd lng="ca">desplegar<klr> (mil.)</klr></trd>
   <trd lng="cs">se&rcaron;adit do pochodov&eacute;ho tvaru</trd>
   <trd lng="de">aufstellen</trd>
+  <trd lng="en" fnt="AI: de ca es fr it pl uk dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">deploy</trd>
   <trd lng="es">desplegar<klr> (mil.)</klr></trd>
   <trd lng="fr">d&eacute;ployer<klr> (mil.)</klr></trd>
   <trdgrp lng="it">

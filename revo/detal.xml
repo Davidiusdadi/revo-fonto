@@ -418,6 +418,7 @@
       <trd>&c_u; &c_r;&c_o;&c_z;&c_n;&c_ib;&c_c;&c_u;</trd>
     </trdgrp>
     <trd lng="de" kod="FAK" fnt="AI: ref fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">en d&eacute;tail <klr>(fachspr.)</klr></trd>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">at retail</trd>
     <trd lng="es">detalladamente</trd>
     <trd lng="fr">
     <klr tip="ind">(vendre) </klr>au <ind>d&eacute;tail</ind></trd>
@@ -481,6 +482,7 @@
       <trd>bis ins <ind>Einzelne</ind> er&ouml;rtern</trd>,
       <trd>detailliert darstellen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">detail</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;tailler<klr tip="ind">
       (faire le d&eacute;tail)</klr></trd>,
@@ -508,6 +510,7 @@
       <trd>im Einzelhandel anbieten</trd>,
       <trd>en detail <ind>verkaufen</ind></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">retail</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;tailler<klr tip="ind">
       (vendre au d&eacute;tail)</klr></trd>,
@@ -711,6 +714,7 @@
     <trd>bis ins <ind>Einzelne</ind> er&ouml;rtern</trd>,
     <trd>detailliert darstellen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">detail</trd>
   <trdgrp lng="fr">
     <trd>d&eacute;tailler<klr tip="ind"> (faire le d&eacute;tail)</klr></trd>,
     <trd>passer en <ind>revue</ind></trd>,
@@ -763,6 +767,7 @@
       <trd>genaue Auff&uuml;hrung</trd>,
       <trd>Detaillierung</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">detailing</trd>
     <trdgrp lng="fr">
       <trd>d&eacute;tail<klr tip="ind"> (&eacute;num&eacute;ration
       compl&egrave;te)</klr></trd>,
@@ -795,6 +800,7 @@
       <trd>Kleinvertrieb</trd>,
       <trd>Einzelhandel</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">retailing</trd>
     <trd lng="fr">d&eacute;tail<klr tip="ind"> (action de vendre au
     d&eacute;tail)</klr></trd>
     <trdgrp lng="hu">
@@ -895,6 +901,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verk&auml;ufer, der in kleinen Mengen verkauft.</dif>
     <ref tip="sin" cel="vend.detal0isto"><tld/>vendisto</ref>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">retailer</trd>
     <trdgrp lng="zh">
     <trd>&#20010;&#20307;&#21830;&#24215; <pr>g&egrave;t&#464;sh&amacron;ngdi&agrave;n</pr></trd>,
     <trd>&#38646;&#21806;&#36031;&#26131;&#21806;&#36008;&#21729; <pr>l&iacute;ngsh&ograve;um&agrave;oy&igrave;sh&ograve;uhu&ograve;yu&aacute;n</pr></trd>,
@@ -996,6 +1003,7 @@
       <trd>den <ind>Gro&szlig;handel</ind> betreffend</trd>,
       <trd>im <ind>Gro&szlig;handel</ind></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">wholesale</trd>
     <trd lng="hu">nagybani</trd>
     <trdgrp lng="id">
       <trd>grosir</trd>,
@@ -1085,6 +1093,7 @@
     <trd>&c_o;&c_p;&c_t;&c_a;&c_m;</trd>
   </trdgrp>
   <trd lng="de" kod="FAK" fnt="AI: ref fr nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">en gros <klr>(fachspr.)</klr></trd>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">wholesale</trd>
   </snc>
   <trd lng="cs">hrub&ecaron;</trd>
   <trd lng="es">burdamente</trd>
@@ -1152,6 +1161,7 @@
     <trd>&c_g;&c_u;&c_r;&c_t;&c_o;&c_v;&c_y;</trd>,
     <trd>&c_o;&c_p;&c_t;&c_a;&c_v;&c_y;</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: dif pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">retail</trd>
   <trdgrp lng="id">
     <trd>ecer</trd>,
     <trd>keteng</trd>,

@@ -131,6 +131,7 @@
       <trd>Angeh&ouml;riger der Geheimpolizei</trd>,
       <trd>Geheimpolizist</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">secret police officer</trd>
     <trdgrp lng="hu">
       <trd>titkosrend&odblac;r</trd>,
       <trd>detekt&iacute;v</trd>
@@ -199,6 +200,7 @@
     <trd fnt="AI: ca be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ermitteln</trd>,
     <trd fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nachforschen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: ca ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">investigate</trd>
   <trd lng="sk">pracova&tcaron; ako detekt&iacute;v</trd>
 </drv>
 </art>

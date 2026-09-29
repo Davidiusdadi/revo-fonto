@@ -347,6 +347,7 @@
     </dif>
     <trd lng="be">&c_r;&c_a;&c_d;&c_o;&c_v;&c_ib;&c_sh;&c_ch;&c_a;</trd>
     <trd lng="de">Lagerst&auml;tte</trd>
+    <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">deposit</trd>
     <trd lng="zh">&#x77FF;&#x6E90; <pr>ku&#xE0;ngyu&#xE1;n</pr></trd>
 </snc>
   <snc mrk="depon.0ejo.KOMUNE">
@@ -437,6 +438,7 @@
       <trd>Depot</trd>,
       <trd>Hinterlegungsstelle</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">custody account</trd>
     <trd lng="fa">&a_H;&a_s;&a_A;&a_b; &a_s;&f_p;&a_r;&a_d;&a_h;</trd>
     <trd lng="hu">let&eacute;ti <ind>sz&aacute;mla</ind></trd>
     <trd lng="pl">depozyt</trd>
@@ -513,6 +515,7 @@
     <trd>Depot</trd>,
     <trd>Aufbewahrungsbeh&auml;lter</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">storage container</trd>
   <trdgrp lng="pl">
     <trd>przechowalnia</trd>,
     <trd>sk&lstroke;ad</trd>,
@@ -591,6 +594,7 @@
   </snc>
   <trd lng="be">&c_d;&c_e;&c_p;&c_a;&c_z;&c_y;&c_t;&c_n;&c_y; &c_s;&c_e;&c_r;&c_t;&c_y;&c_f;&c_ib;&c_k;&c_a;&c_t;</trd>
   <trd lng="cs">stvrzenka o &uacute;schov&ecaron;</trd>
+  <trd lng="en" fnt="AI: de ca cs pl sk uk dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">deposit receipt</trd>
   <trd lng="he">&tav;&ayin;&vav;&dalet;&tav; &pe;&yod;&qof;&dalet;&vav;&fnun;</trd>
   <trd lng="ja">&#38928;&#x308A;&#x8A3C;  <pr>&#12354;&#x305A;&#x304B;&#x308A;&#12375;&#12423;&#12358;</pr></trd>
   <trd lng="pl">za&sacute;wiadczenie o  <ind>depozycie</ind></trd>
