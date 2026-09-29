@@ -941,6 +941,7 @@
       <trd>d&uuml;nn <klr>(Gas)</klr></trd>,
       <trd>locker <klr>(Reihe)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sparse</trd>
     <trdgrp lng="zh">
     <trd>&#x677E;&#x61C8;&#22320; <pr>s&omacron;ngxi&egrave;de</pr></trd>,
     <trd>&#x56DB;&#x6D77; <pr>s&igrave;h&#x1CE;i</pr></trd>,
@@ -1140,6 +1141,7 @@
       </ekz>
     </dif>
     <trd lng="de">sich <ind>lichten</ind></trd>
+    <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">thin out</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_z;&c_r;&c_e;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>,

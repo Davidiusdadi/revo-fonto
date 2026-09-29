@@ -34,6 +34,7 @@
     <trd>vyty&ccaron;ovat hranici</trd>
   </trdgrp>
   <trd lng="de">demarkieren</trd>
+  <trd lng="en" fnt="AI: de ca fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">demarcate</trd>
   <trd lng="fr">d&eacute;marquer</trd>
   <trd lng="nl">aflijnen</trd>
   <trd lng="pt">demarcar</trd>
@@ -90,6 +91,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Grenzlinie.</dif>
     <trd lng="be">&c_d;&c_e;&c_m;&c_a;&c_r;&c_k;&c_a;&c_c;&c_y;&c_j;&c_n;&c_a;&c_ja; &c_l;&c_ib;&c_n;&c_ib;&c_ja;</trd>
     <trd lng="de" fnt="AI: pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Demarkationslinie</trd>
+    <trd lng="en" fnt="AI: be pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">demarcation line</trd>
     <trd lng="pl">linia <ind>demarkacyjna</ind></trd>
   </snc>
   <trd lng="ca">demarcaci&oacute;</trd>

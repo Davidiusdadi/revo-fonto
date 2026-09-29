@@ -233,6 +233,10 @@
   </snc>
   <trd lng="be">&c_p;&c_y;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trd lng="de">fragend</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">questioning</trd>,
+    <trd fnt="AI: de fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">interrogative</trd>
+  </trdgrp>
   <trd lng="fr">interrogatif</trd>
   <trd lng="id">interogatif</trd>
   <trdgrp lng="ja">
@@ -630,6 +634,10 @@
     </dif>
     <trd lng="be">&c_p;&c_y;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y; &c_z;&c_a;&c_j;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>
     <trd lng="de">Fragewort</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr id zh dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">question word</trd>,
+      <trd kod="FAK" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">interrogative <klr>(jargon)</klr></trd>
+    </trdgrp>
     <trd lng="fr">mot interrogatif</trd>
     <trd lng="id"><ind>kata</ind> tanya</trd>
     <trd lng="zh">&#x7591;&#x554F;&#x8A5E; <pr>y&iacute;w&egrave;nc&iacute;</pr></trd>

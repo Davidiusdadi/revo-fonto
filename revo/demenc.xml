@@ -88,6 +88,7 @@
   <trd lng="be">&c_h;&c_v;&c_a;&c_r;&c_e;&c_c;&c_mol; &c_n;&c_a; <ind>&c_d;&c_e;&c_m;&c_e;&c_n;&c_c;&c_y;&c_ju;</ind></trd>
   <trd lng="ca">patir <ind>dem&egrave;ncia</ind></trd>
   <trd lng="de" fnt="AI: fr pl ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dement sein</trd>
+  <trd lng="en" fnt="AI: be ca pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">have dementia</trd>
   <trd lng="fr">&ecirc;tre <ind>d&eacute;ment</ind></trd>
   <trd lng="nl">dementeren</trd>
   <trd lng="pl">mie&cacute; <ind>demencj&eogonek;</ind></trd>
@@ -113,6 +114,7 @@
   </snc>
   <trd lng="be">&c_z;&c_a;&c_h;&c_v;&c_a;&c_r;&c_e;&c_c;&c_mol; &c_n;&c_a; <ind>&c_d;&c_e;&c_m;&c_e;&c_n;&c_c;&c_y;&c_ju;</ind></trd>
   <trd lng="de" fnt="AI: nl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dement werden</trd>
+  <trd lng="en" fnt="AI: be fr nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">develop dementia</trd>
   <trd lng="fr">devenir <ind>d&eacute;ment</ind></trd>
   <trd lng="nl">dement worden</trd>
 </drv>
@@ -150,6 +152,7 @@
   <trd lng="ca">dement</trd>
   <trd lng="cs">dementn&#xED; &#x10D;lov&#x11B;k</trd>
   <trd lng="de">Demenzkranker</trd>
+  <trd lng="en" fnt="AI: be de ja nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">person with dementia</trd>
   <trd lng="fr">d&eacute;ment<klr tip="amb"> (subst.)</klr></trd>
   <trd lng="ja">&#x8A8D;&#x77E5;&#x75C7;&#x60A3;&#32773;  <pr>&#x306B;&#12435;&#12385;&#12375;&#12423;&#12358;&#x304B;&#12435;&#12376;&#12419;</pr></trd>
   <trd lng="nl">dementiepati&euml;nt</trd>

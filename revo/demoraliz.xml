@@ -84,6 +84,10 @@
     <trd fnt="AI: fr cs pl sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Demoralisierung</trd>,
     <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entmutigung</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: cs fr pl sk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">demoralisation</trd>,
+    <trd fnt="AI: pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">discouragement</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;moralisation</trd>
   <trdgrp lng="pl">
     <trd>demoralizacja</trd>,
