@@ -358,6 +358,7 @@
       <ref cel="tip.0a">tipa</ref>
     </refgrp>
     <trd lng="de">bestimmend</trd>
+    <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">defining</trd>
     <trd lng="fr">d&eacute;terminant</trd>
   <trdgrp lng="id">
     <trd>definitif</trd>,
@@ -400,6 +401,7 @@
   <snc mrk="difin.0a.GRA">
     <uzo tip="fak">GRA</uzo>
     <ref tip="vid" cel="artiko.difina0o"><tld/>a artikolo</ref>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">definite</trd>
   <trd lng="id">artikel tentu</trd>
   </snc>
   <trdgrp lng="be">

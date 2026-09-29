@@ -28,6 +28,7 @@
   <trdgrp lng="de">
         <trd>beugen</trd>
       </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">diffract</trd>
   <trd lng="fr">diffracter</trd>
   <trd lng="he">&#x5DC;&#x5E9;&#x5D1;&#x5D5;&#x5E8; &#x5E7;&#x5E8;&#x5E0;&#x5D9; &#x5D0;&#x5D5;&#x5E8;</trd>
   <trdgrp lng="hu">
@@ -114,6 +115,7 @@
         <trdgrp lng="de">
           <trd>Beugungs-</trd>,
         </trdgrp>
+        <trd lng="en" fnt="AI: de pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">diffractive</trd>
         <trdgrp lng="pl">
           <trd>dyfrakcyjny</trd>
         </trdgrp>
@@ -129,6 +131,7 @@
         <trdgrp lng="de">
           <trd>beugend</trd>
         </trdgrp>
+        <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">diffractive</trd>
         <trd lng="fr">diffringent</trd>
         <trdgrp lng="pl">
           <trd>dyfrakcyjny</trd>

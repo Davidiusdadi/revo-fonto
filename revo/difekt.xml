@@ -442,6 +442,10 @@
     <trd>empfindlich</trd>,
     <trd>br&uuml;chig</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">fragile</trd>,
+    <trd fnt="AI: be id uk dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">vulnerable</trd>
+  </trdgrp>
   <trd lng="fr">fragile</trd>
   <trd lng="hu">elronthat&oacute;</trd>
   <trdgrp lng="id">
@@ -726,6 +730,11 @@
   <trdgrp lng="de">
     <trd>unzerst&ouml;rbar</trd>,
     <trd>haltbar</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr zh dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">indestructible</trd>,
+    <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">imperishable <klr>(formal)</klr></trd>,
+    <trd fnt="AI: be pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">invulnerable</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>inalt&eacute;rable</trd>,
