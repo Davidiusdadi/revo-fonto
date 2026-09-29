@@ -315,6 +315,7 @@
         <trd lng="ru">&c_t;&c_a;&c_m;&c_o;&c_zh;&c_je;&c_n;&c_n;&c_a;&c_ja; &c_d;&c_je;&c_k;&c_l;&c_a;&c_r;&c_a;&c_c;&c_i;&c_ja;</trd>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Something that is declared; a document containing what has been declared.</dif>
     <ref tip="sin" cel="deklar1.0o">deklaracio</ref>
     <trdgrp lng="be">
       <trd>&c_d;&c_e;&c_k;&c_l;&c_ja;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>,
@@ -359,6 +360,7 @@
         procedur<tld/>o, funkci<tld/>o.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A programming-language statement indicating the type or meaning of a program object (name, constant, variable, procedure) for a particular program region (e.g. a block or procedure).</dif>
     <ref tip="vid" cel="ordon.0o.KOMP">ordono</ref>
     <trdgrp lng="be">
       <trd>&c_d;&c_e;&c_k;&c_l;&c_ja;&c_r;&c_a;&c_c;&c_y;&c_ja;</trd>,

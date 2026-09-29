@@ -15,6 +15,7 @@
       Nombro, kiu karakterizas la <ref cel="amorti.0i">amortiz</ref>on
       de <ref cel="oscil.0i">oscil</ref>oj.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A number that characterises the damping of oscillations.</dif>
     <rim>
       Vd anka&ubreve; <ref tip="hom" cel="krement.de0i">de&middot;krement&middot;i</ref>,
       t.e. malgrandigi valoron je konstanto.
@@ -70,6 +71,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The logarithm of the ratio of the amplitude of one oscillation to that of the next oscillation.</dif>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_k;&c_r;&c_e;&c_m;&c_e;&c_n;&c_t; &c_z;&c_g;&c_a;&c_s;&c_a;&c_n;&c_mol;&c_n;&c_ja; &c_l;&c_ja;&c_g;&c_a;&c_r;&c_y;&c_t;&c_m;&c_ib;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca"><ind>decrement</ind> logar&iacute;tmic</trd>
