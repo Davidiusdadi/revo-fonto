@@ -220,6 +220,7 @@
       <trd>Lehre der inkompressiblen Str&ouml;mungen</trd>,
       <trd>inkompressible Str&ouml;mungslehre</trd>
     </trdgrp>
+    <trd lng="en" kod="FAK" fnt="AI: de fr ca it nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">hydrodynamics <klr>(jargon)</klr></trd>
   </snc>
   <snc mrk="dinami.akvo0o.KOMUNE">
     <uzo tip="stl">KOMUNE</uzo>
@@ -346,6 +347,7 @@
     <trdgrp lng="de">
       <trd>Str&ouml;mungslehre</trd>
     </trdgrp>
+  <trd lng="en" kod="FAK" fnt="AI: de fr ca bg; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">fluid dynamics <klr>(jargon)</klr></trd>
   <trd lng="fr">dynamique des fluides</trd>
   <trd lng="id">dinamika fluida</trd>
   <trd lng="it">fluidodinamica</trd>
@@ -382,6 +384,7 @@
       <trd>W&auml;rme- und Stoff&uuml;bertragung</trd>,
       <trd>Thermodynamik</trd>
     </trdgrp>
+  <trd lng="en" kod="FAK" fnt="AI: de fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">thermodynamics <klr>(jargon)</klr></trd>
   <trd lng="fr">thermodynamique</trd>
   <trd lng="id">termodinamika</trd>
   <trd lng="it">termodinamica</trd>

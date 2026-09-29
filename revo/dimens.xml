@@ -445,6 +445,7 @@
     <tld/>o <sncref ref="dimens.0o.vektoraspaco"/>.
     </ref>
     <trd lng="de" fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dimension</trd>
+    <trd lng="en" kod="FAK" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dimension <klr>(jargon)</klr></trd>
     <trd lng="hu">dimenzi&oacute;</trd>
     <trd lng="ru">&c_r;&c_a;&c_z;&c_m;&c_je;&c_r;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </snc>
