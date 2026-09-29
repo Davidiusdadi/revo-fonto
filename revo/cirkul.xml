@@ -29,6 +29,7 @@
           </fnt>.
         </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To pass through a space or network of routes, constantly moving within it from place to place.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Raum oder ein Wegenetz durchlaufen und sich darin st&auml;ndig von Ort zu Ort bewegen.</dif>
     <subsnc mrk="cirkul.0i.FIZL">
       <uzo tip="fak">FIZL</uzo>
@@ -47,6 +48,7 @@
           21a.</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To move continuously in a circle or cycle (usually of a liquid, gas, uncountable mass, aggregate, collective or crowd).</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich dauernd, kreisf&ouml;rmig, zyklisch bewegen (meist von etwas Fl&uuml;ssigem, Gasf&ouml;rmigem, einer unz&auml;hlbaren Masse oder von etwas Gesammeltem, Kollektivem, Massenhaftem).</dif>
       <trdgrp lng="pl">
         <trd>cyrkulowa&cacute;</trd>,
@@ -79,6 +81,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To be continually exchanged or passed from one person to another within a group, collective or society.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fortw&auml;hrend ausgetauscht oder in einer Menge, einem Kollektiv, einer Gesellschaft von einer Person an eine andere weitergegeben werden.</dif>
       <trdgrp lng="pl">
         <trd>obiega&cacute;<klr> (o towarach, pieni&aogonek;dzach)</klr></trd>,
@@ -99,6 +102,7 @@
           homoj kaj veturiloj <tld/>as en la urbo.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To move back and forth en masse.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich in Massen hin und her bewegen.</dif>
       <ref tip="super" cel="svarm.0i.KOMUNE">svarmi<sncref/></ref>
       <rim>
@@ -298,6 +302,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To make something valid for circulation as an exchangeable asset.</dif>
   </snc>
   <trd lng="be">&c_u;&c_v;&c_o;&c_d;&c_z;&c_ib;&c_c;&c_mol; &c_u; <ind>&c_a;&c_b;&c_a;&c_r;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="ca">posar en <ind>circulaci&oacute;</ind></trd>

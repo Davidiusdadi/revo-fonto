@@ -31,6 +31,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Each of the separate spaces in a house, divided by walls or partitions and connected by doors.</dif>
     <subsnc mrk="cxambr.0o.logxeja">
       <dif>
         <tld lit="&Ccirc;"/>o en lo&gcirc;ejo:
@@ -78,6 +79,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A room in a dwelling.</dif>
       <refgrp tip="sub">
         <ref cel="cxel.0o.cxambreto">&ccirc;elo<sncref/></ref>,
         <ref cel="kabine.0o.pensejo">kabineto<sncref/></ref>,
@@ -142,6 +144,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A room used for official purposes.</dif>
       <refgrp tip="sub">
         <ref cel="auxl.0o">a&ubreve;lo</ref>,
         <ref cel="ofic.0ejo">oficejo</ref>,
@@ -261,6 +264,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A state or public institution, especially an assembly, and its office or meeting place.</dif>
     <trd lng="be">&c_p;&c_a;&c_l;&c_a;&c_t;&c_a; <klr tip="ind">
     (&c_u;&c_s;&c_t;&c_a;&c_n;&c_o;&c_v;&c_a;)</klr></trd>
     <trd lng="ca">cambra</trd>
@@ -544,6 +548,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To allow a cold drink (for example, from a cellar or refrigerator) gradually to warm to room temperature.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein kaltes Getr&auml;nk (zum Beispiel aus dem Keller oder dem K&uuml;hlschrank) nach und nach auf die umgebende Zimmertemperatur erw&auml;rmen lassen.</dif>
     <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">chambrieren</trd>
   </snc>
@@ -570,6 +575,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The part of a dwelling near the entrance where coats, hats, umbrellas, etc. are left.</dif>
     <refgrp tip="vid">
       <ref cel="korido.0o">koridoro</ref>,
       <ref cel="vestib.0o">vestiblo</ref>
@@ -647,6 +653,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A room in which visitors to an official or eminent person wait to be received.</dif>
     <refgrp tip="vid">
       <ref cel="akcept.0ejo">akceptejo</ref>,
       <ref cel="atend.0ejo">atendejo</ref>,
@@ -759,6 +766,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A room for bathing, showering, bodily cleansing and grooming.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Raum zum Baden, Duschen, zur K&ouml;rperreinigung und K&ouml;rperpflege.</dif>
     <refgrp tip="vid">
       <ref cel="ban.0ejo">banejo</ref>
@@ -842,6 +850,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A room that is normally quiet and suitably equipped for sleeping.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gew&ouml;hnlich ruhiger, zum Schlafen passend eingerichteter Raum.</dif>
     <trd lng="es">dormitorio</trd>
   </snc>
