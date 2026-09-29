@@ -362,6 +362,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der eine gewisse Zeit gehalten wird und sich verl&auml;ngern l&auml;sst.</dif>
+    <trd lng="en" kod="FAK" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">continuant <klr>(jargon)</klr></trd>
     <trd lng="fr">continu<klr tip="ind"> (phon.)</klr></trd>
   </snc>
   <trdgrp lng="be">
@@ -1077,6 +1078,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">worth continuing</trd>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_r;&c_t;&c_y;
   <ind>&c_p;&c_a;&c_d;&c_a;&c_w;&c_zh;&c_e;&c_n;&c_mol;&c_n;&c_ja;</ind></trd>
@@ -1203,6 +1205,7 @@
       <trd>andauernd</trd>
       <trd>die ganze <ind>Zeit</ind> &uuml;ber</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de be pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">continually</trd>
     <trd lng="pl">nadal</trd>
     <trdgrp lng="ro">
       <trd>&icirc;n mod<ind>continuu</ind></trd>,
@@ -1390,6 +1393,7 @@
     <trd>&c_t;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="de">andauern</trd>
+  <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">continue</trd>
   <trdgrp lng="fr">
     <trd>durer</trd>,
     <trd>continuer (intransitif)</trd>

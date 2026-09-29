@@ -620,6 +620,7 @@
     <trd>r&aacute;zn&yacute;</trd>
   </trdgrp>
   <trd lng="de">entscheidungsfreudig</trd>
+  <trd lng="en" fnt="AI: de fr cs; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">decisive</trd>
   <trd lng="fr">d&eacute;cid&eacute;<klr tip="ind"> (s&ucirc;r de sa
   d&eacute;cision)</klr></trd>
   <trd lng="he">&he;&het;&lamed;&tet;&yod;</trd>
@@ -677,6 +678,10 @@
     <trdgrp lng="de">
       <trd fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bewegen</trd>,
       <trd fnt="AI: pl ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">veranlassen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref pl uk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">persuade</trd>,
+      <trd fnt="AI: pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">induce <klr>(formal)</klr></trd>
     </trdgrp>
     <trd lng="fr">d&eacute;cider<klr tip="amb"> (qn &agrave; faire qc)</klr></trd>
     <trd lng="hu">eld&ouml;ntet<klr tip="ind"> (vkivel vmit)</klr></trd>
@@ -777,6 +782,10 @@
      <trd>zu einer <ind>Entscheidung</ind> kommen</trd>,
      <trd>zu einem <ind>Entschluss</ind> kommen</trd>,
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr hu; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">decide</trd>,
+      <trd fnt="AI: de fr hu; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">make up one's mind</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>se <ind>d&eacute;cider</ind><klr tip="ind"> (&agrave; faire
       qc)</klr></trd>,
@@ -817,6 +826,10 @@
     <trdgrp lng="de">
      <trd>entschieden werden</trd>,
      <trd>zur <ind>Entscheidung</ind> kommen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be decided</trd>,
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be settled</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>se <ind>d&eacute;cider</ind><klr tip="ind"> (faire l'objet
@@ -864,6 +877,7 @@
      <trd>vorweg <ind>entscheiden</ind></trd>,
      <trd><klr>im </klr>Vorhinein <ind>beschlie&szlig;en</ind></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">prejudge</trd>
   </snc>
   <snc mrk="decid.antaux0i.porEstonteco">
     <dif>
@@ -902,6 +916,7 @@
      <trd>vorentscheiden</trd>,
      <trd>vorher <ind>beschlie&szlig;en</ind></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">predetermine</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_d;&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_c;&c_mol;</trd>,
@@ -956,6 +971,10 @@
     <trd>endg&uuml;ltig</trd>,
     <trd>zur <ind>endg&uuml;ltig</ind>en Entscheidung</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">conclusively</trd>,
+    <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">definitively</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="decid.for0i">
@@ -990,6 +1009,7 @@
     <trd>einen <ind>Entschluss</ind> aufgeben</trd>,
     <trd>eine Entscheidung <ind>revidieren</ind></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">rescind <klr>(formal)</klr></trd>
   <trd lng="fr">annuler une d&eacute;cision</trd>
   <trdgrp lng="hu">
      <trd>lemond<klr tip="ind"> (elhat&aacute;roz&aacute;sr&oacute;l)
@@ -1034,6 +1054,10 @@
     <trd>&c_s;&c_a;&c_m;&c_a;&c_ch;&c_y;&c_n;&c_n;&c_a;</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">von sich aus</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">of one's own accord</trd>,
+    <trd fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">on one's own initiative</trd>
+  </trdgrp>
   <trd lng="fr">de son propre chef</trd>
   <trdgrp lng="pl">
     <trd>wed&lstroke;ug w&lstroke;asnej <ind>decyzji</ind></trd>,

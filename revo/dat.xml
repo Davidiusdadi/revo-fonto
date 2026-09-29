@@ -353,6 +353,7 @@
       <trd><baz>tarikh</baz>tertarikh</trd>
   </trdgrp>
   </snc>
+  <trd lng="en" fnt="AI: pl ro uk de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">date</trd>
   <trd lng="pl">datowa&cacute;</trd>
   <trd lng="ro">data</trd>
   <trdgrp lng="uk">
@@ -405,6 +406,7 @@
     <trd>&c_d;&c_a;&c_t;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="de">Datierung</trd>
+  <trd lng="en" fnt="AI: de pl be id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dating</trd>
   <trd lng="he">&nun;&tav;&vav;&nun;&yod;&fmem;</trd>
   <trd lng="id"><baz>tanggal (2)</baz>penanggalan</trd>
   <trd lng="ja">&#x30C7;&#x30FC;&#x30BF;  <pr>&#12391;&#x30FC;&#x305F;</pr></trd>
@@ -446,6 +448,7 @@
     <trd>vorfristig</trd>,
     <trd>vorzeitig</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">ahead of schedule</trd>
 </drv>
 
 <drv mrk="dat.gxis0a">

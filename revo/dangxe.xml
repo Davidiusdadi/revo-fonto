@@ -413,6 +413,10 @@
   <trd lng="br">beza&ntilde; <ind>da&ntilde;jerus</ind></trd>
   <trd lng="ca">ser <ind>perill</ind>&oacute;s</trd>
   <trd lng="de">gef&auml;hrlich sein</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de be fr nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be dangerous</trd>,
+    <trd fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">pose a danger</trd>
+  </trdgrp>
   <trd lng="fa">&a_kh;&a_T;&a_r;&a_n;&a_A;&f_k;
   &a_b;&a_w;&a_d;&a_n;</trd>
   <trdgrp lng="fr">
@@ -669,6 +673,10 @@
       <trd>a estalvi</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: ref fr ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sicher</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref ca fr id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">safe</trd>,
+      <trd fnt="AI: ref fa id nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">out of danger</trd>
+    </trdgrp>
     <trd lng="fa">&a_d;&a_w;&a_r; &a_A;&a_z;
     <ind>&a_kh;&a_T;&a_r;</ind></trd>
     <trd lng="fr">s&ucirc;r<klr tip="ind"> (hors de danger)</klr></trd>

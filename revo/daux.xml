@@ -38,6 +38,10 @@
     <trd>Dao</trd>,
     <trd>Tao</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ca es fr hu nl pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Tao</trd>,
+    <trd fnt="AI: de ca fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Dao</trd>
+  </trdgrp>
   <trd lng="es">tao</trd>
   <trd lng="fa">&a_t;&a_A;&a_y_hamza;&a_w;</trd>
   <trdgrp lng="fr">
@@ -98,6 +102,10 @@
     <trd>Daoismus</trd>,
     <trd>Taoismus</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ca fr nl pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Taoism</trd>,
+    <trd fnt="AI: de ca; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Daoism</trd>
+  </trdgrp>
   <trd lng="fa">&a_t;&a_A;&a_y_hamza;&a_w;&a_y_hamza;&f_y;&a_s;&a_m;</trd>
   <trd lng="fr">tao&iuml;sme</trd>
   <trd lng="hu">taoizmus</trd>
@@ -143,6 +151,10 @@
   <trdgrp lng="de">
     <trd>Daoist</trd>,
     <trd>Taoist</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ca fr nl pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Taoist</trd>,
+    <trd fnt="AI: de ca ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Daoist</trd>
   </trdgrp>
   <trd lng="fr">tao&iuml;ste</trd>
   <trd lng="hu">taoista</trd>

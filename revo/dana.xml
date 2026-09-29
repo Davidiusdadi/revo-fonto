@@ -44,6 +44,7 @@
     </dif>
     <trd lng="be">&c_D;&c_a;&c_n;&c_a;&c_ja;</trd>
     <trd lng="de">Dana&euml;</trd>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Danae</trd>
   </snc>
   <snc mrk="dana.0o.greko">
     <dif>
@@ -58,6 +59,7 @@
     </dif>
     <trd lng="be">&c_d;&c_a;&c_n;&c_a;&c_je;&c_c;</trd>
     <trd lng="de">Danaer</trd>
+    <trd lng="en" kod="POE" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Danaan <klr>(poetic)</klr></trd>
     <trd lng="zh">&#x8FBE;&#x90A3;&#x57C3; <pr>d&#xE1;n&#xE0;&amacron;i</pr></trd>
 </snc>
   <trd lng="uk">&c_D;&c_a;&#x43D;&c_a;&c_j;</trd>
@@ -105,6 +107,7 @@
     <trd lng="be">&c_d;&c_a;&c_n;&c_a;&c_j;&c_c;&c_y;</trd>
     <trd lng="de">Danaer</trd>
     <trd lng="el">&Delta;&alfa;&ny;&alfa;&omikron;&jota_ton;</trd>
+    <trd lng="en" kod="POE" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Danaan <klr>(poetic)</klr></trd>
     <trd lng="fr">Dan&eacute;ens</trd>
     <trd lng="pl">Grecy u Homera i Wergiliusza</trd>
     <trd lng="ru">&c_d;&c_a;&c_n;&c_a;&c_j;&c_c;&c_y;</trd>
@@ -115,6 +118,7 @@
     <ref tip="dif" cel="dana.0idinoj"><tld/>idinoj</ref>
     <trd lng="be">&c_d;&c_a;&c_n;&c_a;&c_ib;&c_d;&c_y;</trd>
     <trd lng="de">Danaiden </trd>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Dana&iuml;des</trd>
   </snc>
 </drv>
 

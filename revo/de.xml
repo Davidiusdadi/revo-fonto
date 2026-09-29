@@ -320,6 +320,10 @@
         <trd>wegen</trd>,
         <trd>mit</trd>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">because of</trd>,
+        <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">due to</trd>
+      </trdgrp>
       <trdgrp lng="hu">
         <trd>-<ind>t&oacute;l</ind></trd>,
         <trd>-<ind>t&odblac;l</ind></trd>,
@@ -503,6 +507,7 @@
         <trd>des</trd>,
         <trd>der</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">of</trd>
       <trdgrp lng="hu">
         <trd>-<ind>nak a</ind></trd>,
         <trd>-<ind>nek a</ind></trd>
@@ -673,6 +678,7 @@
         <trd>der</trd>,
         <trd>deren</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">of</trd>
       <trdgrp lng="hu">
         <trd>-<ind>nak a</ind></trd>,
         <trd>-<ind>nek a</ind></trd>
@@ -732,6 +738,7 @@
       <trdgrp lng="de">
         <trd>von</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">of</trd>
       <trdgrp lng="hu">
         <trd>-<ind>&udblac;</ind></trd>,
         <trd>-<ind>&uacute;</ind></trd>
@@ -826,6 +833,7 @@
       <trdgrp lng="de">
         <trd>von</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">of</trd>
       <trd lng="hu">-<ind>s</ind></trd>
       <trdgrp lng="pl">
         <trd><klr>(2. przypadek)</klr></trd>,
@@ -897,6 +905,7 @@
         <trd>des</trd>,
         <trd>der</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">of</trd>
       <trdgrp lng="hu">
         <trd>-<ind>t&oacute;l</ind></trd>,
         <trd>-<ind>t&odblac;l</ind></trd>,

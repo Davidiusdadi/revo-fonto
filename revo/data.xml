@@ -44,6 +44,10 @@
     <trd>&c_d;&c_a;&c_n;&c_ib;&c_ja;</trd>,
     <trd>&c_z;&c_mol;&c_v;&c_je;&c_s;&c_t;&c_k;&c_ib;</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">datum</trd>,
+    <trd fnt="AI: ref be uk zh; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">data</trd>
+  </trdgrp>
   <trd lng="fr">donn&eacute;e <klr> (informatique)</klr></trd>
   <trd lng="pl">dana  <klr>(inf)</klr></trd>
   <trd lng="uk">&c_d;&c_a;&#1085;&c_ib; (&c_ib;&#1084;.)</trd>

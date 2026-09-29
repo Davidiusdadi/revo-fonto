@@ -164,6 +164,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich bewusst sein, dass man die moralische Pflicht hat, jemandem einen erhaltenen Dienst zu erwidern.</dif>
     <trd lng="de" fnt="AI: pl fr he; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dankbar sein</trd>
+    <trd lng="en" fnt="AI: fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be grateful</trd>
     <trdgrp lng="fr">
       <trd>savoir <ind>gr&eacute;</ind> (de)</trd>,
       <trd>&ecirc;tre <ind>reconnaissant</ind> (de)</trd>
@@ -201,6 +202,7 @@
       <ref cel="sxuld.0i">&scirc;uldi</ref>
     </refgrp>
     <trd lng="de" fnt="AI: pl fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verdanken</trd>
+    <trd lng="en" fnt="AI: fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">owe</trd>
     <trdgrp lng="fr">
       <trd>devoir<klr tip="ind"> (&ecirc;tre redevable)</klr></trd>,
       <trd>&ecirc;tre <ind>redevable</ind></trd>
