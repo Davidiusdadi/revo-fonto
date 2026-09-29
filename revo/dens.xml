@@ -230,6 +230,7 @@
         <fnt><bib>Far2</bib>, <lok>&ccirc;apitro 10a</lok></fnt>.
       </ekz>
       </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">In a dense manner or arrangement.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In dichter Weise oder Anordnung.</dif>
       <trd lng="fr">dens&eacute;ment</trd>
   </snc>
@@ -621,6 +622,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A place in a forest where trees and shrubs are dense.</dif>
     <refgrp tip="vid">
       <ref cel="vepr.0o">vepro</ref>
     </refgrp>
@@ -815,6 +817,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Partly deprived of water and presented in a denser, more paste-like form than the original food.</dif>
     <refgrp tip="vid">
       <ref cel="liofiliz.0i.TEK">liofilizi</ref>
     </refgrp>
@@ -870,6 +873,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To move closer together, leaving little space between them, or to become compressed.</dif>
     <trd lng="de">sich <ind>verdichten</ind></trd>
   </snc>
   <trdgrp lng="be">
@@ -937,6 +941,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Whose constituent parts are far from one another.</dif>
     <trdgrp lng="de">
       <trd>d&uuml;nn <klr>(Gas)</klr></trd>,
       <trd>locker <klr>(Reihe)</klr></trd>
@@ -1012,6 +1017,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A place in a forest where the plants are sparse.</dif>
     <trd lng="de">Lichtung</trd>
   </snc>
   <trdgrp lng="be">
@@ -1140,6 +1146,7 @@
         <fnt><bib>Marta</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To move apart from one another, disperse, or become few in the same place.</dif>
     <trd lng="de">sich <ind>lichten</ind></trd>
     <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">thin out</trd>
   </snc>
@@ -1208,6 +1215,7 @@
         malderiva&jcirc;o de &gcirc;i.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a random variable X) A real measurable function f such that, for every Borel subset b, the probability of X&#x207B;&#x00B9;(b) equals the (Lebesgue) integral of f over b; symbolically, P_X(b) = P(X&#x207B;&#x00B9;(b)) = &#x222B;_b f d&my;.</dif>
     <trd lng="de">Wahrscheinlichkeitsdichte</trd>
     <trd lng="zh">&#x5BC6;&#x5EA6;&#x51FD;&#25968; <pr>m&igrave;d&ugrave;h&aacute;nsh&ugrave;</pr></trd>
 </snc>
