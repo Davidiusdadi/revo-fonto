@@ -104,6 +104,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mit gr&ouml;&szlig;ter Sorgfalt bearbeiten, zum Beispiel ein literarisches Werk.</dif>
     <trd lng="be">&c_k;&c_sh;&c_t;&c_a;&c_l;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
     <trd lng="de" fnt="AI: ru hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausfeilen</trd>
+    <trd lng="en" fnt="AI: hu ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">polish</trd>
     <trd lng="fr">ciseler<klr tip="ind"> (fig.)</klr></trd>
     <trd lng="hu">csiszol<klr tip="amb"> (pl.st&iacute;lust)</klr></trd>
     <trd lng="it">cesellare</trd>
@@ -157,6 +158,7 @@
     <trd>klad&iacute;vko kovotepce</trd>
   </trdgrp>
   <trd lng="de">Punze</trd>
+  <trd lng="en" fnt="AI: de be ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">punch</trd>
   <trd lng="es">cincel</trd>
   <trd lng="fr">repoussoir<klr tip="ind"> (cuir,m&eacute;tal)</klr></trd>
   <trd lng="it">cesello</trd>
