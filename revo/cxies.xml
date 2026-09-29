@@ -87,6 +87,10 @@
     <trd>jedermanns</trd>,
     <trd>von jedem</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de es fr nl sv dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">everyone's</trd>,
+    <trd fnt="AI: de es fr nl sv dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">everybody's</trd>
+  </trdgrp>
   <trd lng="es">de <ind>todos</ind></trd>
   <trd lng="fr">de <ind>tous</ind></trd>
   <trd lng="he">&shin;&lamed; &kaf;&vav;&lamed;&fmem;</trd>

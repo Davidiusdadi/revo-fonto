@@ -174,6 +174,7 @@
         <trd>Reigen</trd>,
         <trd>Menschenkette</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">human chain</trd>
     </subsnc>
     <subsnc mrk="cxen.0o.sinsekvo">
       <dif>
@@ -716,6 +717,7 @@
       <trd>an die <ind>Kette</ind> legen</trd>,
       <trd>in <ind>Ketten</ind> legen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">chain</trd>
     <trd lng="es">encadenar</trd>
     <trdgrp lng="fr">
       <trd>chainer</trd>,
@@ -767,6 +769,7 @@
     <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol;
     <ind>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_o;&c_m;</ind></trd>
     <trd lng="de">verketten</trd>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">interlink</trd>
   </snc>
 </drv>
 
@@ -793,6 +796,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von einer Kette befreien</dif>
     <trd lng="ca">alliberar<klr tip="amb"> (d'una cadena)</klr></trd>
     <trd lng="de" fnt="AI: pl it id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">losketten</trd>
+    <trd lng="en" fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unchain</trd>
     <trd lng="id"><baz>lepas</baz>melepas rantai</trd>
     <trdgrp lng="it">
      <trd><ind>liberare</ind> dalle catene</trd>,
@@ -835,6 +839,7 @@
       <trd>desfermar-se</trd>
     </trdgrp>
     <trd lng="de">entfesseln</trd>
+    <trd lng="en" fnt="AI: de fr it; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unleash</trd>
     <trd lng="id"><baz>lepas</baz>melepas tali kekang hewan</trd>
     <trdgrp lng="it">
      <trd>scatenare</trd>,
@@ -882,6 +887,7 @@
       <trd>sich <ind>befreien</ind></trd>,
       <trd>die <ind>Ketten</ind> abstreifen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">break free</trd>
     <trd lng="fr">se lib&eacute;rer de ses cha&icirc;nes</trd>
     <trdgrp lng="id">
       <trd>lepas dr belenggu</trd>,
@@ -919,6 +925,7 @@
       <trd>desfermar-se</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: fr ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">losbrechen</trd>
+    <trd lng="en" fnt="AI: fr ca dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">break loose</trd>
     <trd lng="fr">se d&eacute;cha&icirc;ner</trd>
     <trd lng="id">lepas dr tali kekang hewan</trd>
   </snc>
@@ -957,6 +964,7 @@
      <trd fnt="AI: fr pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Selbstbefreiung</trd>,
      <trd fnt="AI: ca be pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Befreiung</trd>
    </trdgrp>
+   <trd lng="en" fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">self-liberation</trd>
    <trd lng="fr">autolib&eacute;ration <klr>(de ses cha&icirc;nes)</klr></trd>
    <trd lng="id"><baz>bebas</baz>pembebasan diri dr belenggu</trd>
    <trdgrp lng="pl">
@@ -971,6 +979,7 @@
     </dif>
     <trd lng="ca">desencadenament</trd>
     <trd lng="de" fnt="AI: fr ca es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entfesselung</trd>
+    <trd lng="en" fnt="AI: fr ca dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unleashing</trd>
     <trd lng="fr">d&eacute;cha&icirc;nement</trd>
     <trd lng="id"><baz>bebas</baz>pembebasan hewan dr belenggu</trd>
   </snc>
@@ -1000,6 +1009,7 @@
       <ref cel="asoci.0o.kunligiteco">asocio<sncref/></ref>
     </refgrp>
     <trd lng="de">Verkettung</trd>
+    <trd lng="en" fnt="AI: ca es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">concatenation <klr>(formal)</klr></trd>
   </snc>
   <trd lng="be">&c_l;&c_a;&c_n;&c_c;&c_u;&c_g; <klr>(&c_p;&c_a;&c_d;&c_z;&c_je;&c_ja;&c_w;,
   &c_z;&c_d;&c_a;&c_r;&c_e;&c_n;&c_mol;&c_n;&c_ja;&c_w;)</klr></trd>

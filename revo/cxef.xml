@@ -145,6 +145,7 @@
         <trd fnt="AI: ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ober-</trd>,
         <trd fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Haupt-</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">chief</trd>
       <trdgrp lng="pl">
         <trd>g&lstroke;&oacute;wny<klr> ...</klr></trd>,
         <trd>naczelny<klr> ...</klr></trd>
@@ -237,6 +238,7 @@
       </dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bei Sachst&auml;mmen bezeichnet das Pr&auml;fix eine Sache, die unter den gleichartigen die wichtigste oder erstrangige ist.</dif>
       <trd lng="de" fnt="AI: pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Haupt-</trd>
+      <trd lng="en" fnt="AI: pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">main</trd>
       <trdgrp lng="pl">
         <trd>g&lstroke;&oacute;wny<klr> ...</klr></trd>
       </trdgrp>
@@ -619,6 +621,11 @@ malakceptis.
       </ekz>
     </dif>
     <trd lng="de">Haupt-</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref de pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">chief</trd>,
+      <trd fnt="AI: ref de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">main</trd>,
+      <trd fnt="AI: ref es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">principal</trd>
+    </trdgrp>
     <trd lng="es">principal</trd>
     <trd lng="fr">principal</trd>
     <trd lng="it">principale <klr>(agg.)</klr></trd>
@@ -1037,6 +1044,11 @@ malakceptis.
     <trd fnt="AI: fr it ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nebens&auml;chlich</trd>,
     <trd fnt="AI: pl be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">zweitrangig</trd>,
     <trd fnt="AI: pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">untergeordnet</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: pl ja be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">secondary</trd>,
+    <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">minor</trd>,
+    <trd fnt="AI: pl be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">subordinate</trd>
   </trdgrp>
   <trd lng="fr">mineur<klr> (moins important)</klr></trd>
   <trd lng="it">accessorio<klr> (meno importante - agg.)</klr></trd>

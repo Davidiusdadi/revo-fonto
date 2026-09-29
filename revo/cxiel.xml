@@ -41,6 +41,11 @@
         <trd fnt="Vikt: ru; juĝis claude-opus-5">auf jeden Fall</trd>,
         <trd fnt="Vikt: ru; juĝis claude-opus-5">jedenfalls</trd>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">in any case</trd>,
+        <trd fnt="AI: ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">either way</trd>,
+        <trd fnt="AI: ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">anyway</trd>
+      </trdgrp>
       <trdgrp lng="ru">
         <trd>&c_v;&c_s;&c_ja;&c_k;&c_o;</trd>,
         <trd>&c_p;&c_o; &c_l;&c_ju;&c_b;&c_o;&c_m;&c_u;</trd>
@@ -114,6 +119,7 @@
         <trd>&c_u;&c_s;&c_ja;&c_k;</trd>,
         <trd>&c_u;&c_s;&c_ja;&c_l;&c_ja;&c_k; </trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: ref ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">in every possible way</trd>
       <trdgrp lng="ru">
         <trd>&c_v;&c_s;&c_ja;&c_ch;&c_je;&c_s;&c_k;&c_i;</trd>,
         <trd>&c_p;&c_o;-&c_v;&c_s;&c_ja;&c_k;&c_o;&c_m;&c_u;</trd>,
