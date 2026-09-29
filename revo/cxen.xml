@@ -27,6 +27,7 @@
           </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A fastening, usually made of metal, consisting of interlinked rings.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verbindungsst&uuml;ck, meist aus Metall, aus ineinandergef&uuml;gten Ringen</dif>
     <subsnc mrk="cxen.0o.ornamo">
       <dif>
@@ -65,6 +66,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Such a chain worn on the body (e.g. around the neck, arm or leg) as an ornament.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein solches Verbindungsst&uuml;ck, am K&ouml;rper (z. B. um Hals, Arm oder Bein) als Schmuck getragen</dif>
     </subsnc>
     <subsnc mrk="cxen.0o.kateno">
@@ -129,6 +131,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Such a chain used for binding or restraining.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ein solches Verbindungsst&uuml;ck, zum Anketten verwendet</dif>
       <refgrp tip="vid">
         <ref cel="brid.0o">brido</ref>
@@ -150,6 +153,7 @@
     <dif>
       Aro de interligitaj samspecaj aferoj:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A set of interconnected things of the same kind.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe miteinander verbundener gleichartiger Dinge</dif>
     <subsnc mrk="cxen.0o.homcxeno">
       <dif>
@@ -167,6 +171,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A row of people acting together hand in hand, e.g. while dancing, demonstrating, extinguishing a fire, etc.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Reihe von Menschen, die Hand in Hand zusammenwirken, z. B. beim Tanzen, Demonstrieren oder Feuerl&ouml;schen</dif>
       <trdgrp lng="de">
         <trd>Reihe <klr>(Tanz)</klr></trd>,
@@ -276,6 +281,7 @@
         </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A sequence of interrelated objects or things.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abfolge miteinander zusammenh&auml;ngender Gegenst&auml;nde oder Dinge</dif>
       <ref tip="vid" cel="kant.cxen0o">&ccirc;enkanto</ref>
       <trd lng="en">chain</trd>
@@ -369,6 +375,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A commercial network; a set of branches.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handelsnetz; Gesamtheit von Filialen</dif>
       <ref tip="vid" cel="francxiz.0o.EKON_komerco">fran&ccirc;izo</ref>
       <trd lng="de">Handelskette</trd>
@@ -404,6 +411,7 @@
         nekomuna kun <frm am="u_(n-1)"><k>u</k><sub><k>n</k>-1</sub></frm>)</klr>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(of a graph) A tuple of edges (u1, u2, ..., un) such that each term has one endpoint in common with the preceding term and another endpoint in common with the following term.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Graphen) Tupel von Kanten (u1, u2, &#x2026;, un), bei dem jedes Glied einen Endpunkt mit dem vorhergehenden Glied und einen anderen Endpunkt mit dem folgenden Glied gemeinsam hat</dif>
     <refgrp tip="sub">
       <ref cel="voj.0o.grafeo">vojo</ref>,
@@ -450,6 +458,7 @@
       a&ubreve; signoj, kutime pakitaj, kutime kun speciala operacio por
       <ctl>kro&ccirc;i</ctl> (kunmeti) tiajn <tld/>ojn.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A vector of bits or characters, usually packed, generally with a special operation for concatenating (joining) such strings.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Vektor aus Bits oder Zeichen, meist gepackt, meist mit einer eigenen Operation zum Verketten (Aneinanderf&uuml;gen) solcher Ketten</dif>
     <trdgrp lng="de">
       <trd>String</trd>,
@@ -704,6 +713,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To bind or fetter with chains.</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol;
       <klr tip="amb">(&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_o;&c_m;)</klr>
@@ -766,6 +776,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To arrange in an interconnected sequence like a chain.</dif>
     <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol;
     <ind>&c_l;&c_a;&c_n;&c_c;&c_u;&c_g;&c_o;&c_m;</ind></trd>
     <trd lng="de">verketten</trd>
@@ -793,6 +804,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To free from a chain.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von einer Kette befreien</dif>
     <trd lng="ca">alliberar<klr tip="amb"> (d'una cadena)</klr></trd>
     <trd lng="de" fnt="AI: pl it id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">losketten</trd>
@@ -881,6 +893,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To free oneself from one's chains.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich von seinen Ketten befreien</dif>
     <trd lng="ca">alliberar-se<klr tip="amb"> (d'una cadena)</klr></trd>
     <trdgrp lng="de">
@@ -920,6 +933,7 @@
         </fnt>.
      </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To become unbridled.</dif>
     <trdgrp lng="ca">
       <trd>desencadenar-se</trd>,
       <trd>desfermar-se</trd>
@@ -958,6 +972,7 @@
        <lok>&ccirc;apitro IV, 1930</lok></fnt>.
      </ekz>
    </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The act of freeing oneself from one's chains.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Handlung, sich von seinen Ketten zu befreien</dif>
    <trd lng="ca">alliberament<klr tip="amb"> (de les cadenes)</klr></trd>
    <trdgrp lng="de">
@@ -977,6 +992,7 @@
     <dif>
       Senbridi&gcirc;o.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Becoming unrestrained.</dif>
     <trd lng="ca">desencadenament</trd>
     <trd lng="de" fnt="AI: fr ca es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entfesselung</trd>
     <trd lng="en" fnt="AI: fr ca dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unleashing</trd>
@@ -1005,6 +1021,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A row, chain or sequence of interconnected elements.</dif>
     <refgrp tip="vid">
       <ref cel="asoci.0o.kunligiteco">asocio<sncref/></ref>
     </refgrp>
@@ -1154,6 +1171,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A natural interrelationship among species of living organisms whereby some eat others, which in turn eat others, and so on.</dif>
     <trd lng="de">Nahrungskette</trd>
     <trdgrp lng="zh">
     <trd>&#x71DF;&#x990A;&#x93C8; <pr>y&iacute;ngy&#x1CE;ngli&agrave;n</pr></trd>,

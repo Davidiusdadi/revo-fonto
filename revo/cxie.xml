@@ -190,6 +190,7 @@
            ref="http://bertilow.com/div/komputada_leksikono/DI.html#DIAGONALADO">diagonalado</url>&rightquot;</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A function f: X&#x2192;Y is a total function on X if it is defined (converges) for every x in X.</dif>
   <trd lng="de">totale Funktion</trd>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_r;&c_o;&c_z;&c_mol; &c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_n;&c_a;&c_ja; <ind>&c_f;&c_u;&c_n;&c_k;&c_c;&c_y;&c_ja;</ind></trd>
