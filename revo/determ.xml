@@ -85,6 +85,7 @@
         <lok>Na&ubreve;a promenado</lok></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To establish precisely something that is uncertain.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas Ungewisses genau festlegen</dif>
     <ref tip="super" cel="trov.el0i">eltrovi</ref>
     <refgrp tip="vid">
@@ -145,6 +146,7 @@
         </trdgrp>
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To make the meaning of an adjacent sentence element more precise.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die Bedeutung einer benachbarten Wortgruppe n&auml;her bestimmen</dif>
     <trd lng="fr">d&eacute;terminer<klr tip="ind"> (gramm.)</klr></trd>
     <trd lng="hu">meghat&aacute;roz<klr tip="ind">
@@ -278,6 +280,7 @@
     <dif>
       Ago <tld/>i.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The act of determining.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Bestimmen</dif>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -317,6 +320,7 @@
         sed precipe per la kunteksto.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A category of propositional semantics, a way of actualising a name (most often a noun) by indicating whether it refers to an object that is unique in the situation (definite determination), or one related to an entire class (indefinite determination), and so on.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kategorie der Satzsemantik; Art und Weise, einen Namen (meist ein Substantiv) zu aktualisieren, indem angegeben wird, ob er sich auf einen in der Situation einmaligen Gegenstand (bestimmte Determination) oder auf eine ganze Klasse (unbestimmte Determination) bezieht usw.</dif>
     <trd lng="be">&c_k;&c_a;&c_t;&c_e;&c_g;&c_o;&c_r;&c_y;&c_ja;
     &c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;-&c_n;&c_ja;&c_v;&c_y;&c_z;&c_n;&c_a;&c_ch;&c_a;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_ib;</trd>
@@ -384,6 +388,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A circumstance that causes something.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verursachender Umstand</dif>
     <trd lng="de">Ma&szlig;gebender <ind>Umstand</ind></trd>
     <trd lng="pl">okoliczno&sacute;&cacute;  <ind>przyczyny</ind></trd>
@@ -401,6 +406,7 @@
         <ref cel="form.0o.bildigo">formo</ref>, kiu &jcirc;etas la
         opon de bazvektoroj al <frm>1</frm>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of n vectors in an n-dimensional vector space, relative to a basis) Their image under the unique n-linear alternating form that maps the tuple of basis vectors to 1.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von n Vektoren eines n-dimensionalen Vektorraums, bez&uuml;glich einer Basis) Ihr Bild unter der eindeutig bestimmten alternierenden n-Linearform, die das Tupel der Basisvektoren auf 1 abbildet</dif>
     </subsnc>
     <subsnc mrk="determ.0anto.matrico">
@@ -437,6 +443,7 @@
           estas nula.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of an n-by-n matrix A over a field K) The determinant of its n columns, regarded as vectors of K&#x207F;, relative to its canonical basis; symbol: det A.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(einer (n,n)-Matrix A &uuml;ber einem K&ouml;rper K) Determinante ihrer n Spalten, aufgefasst als Vektoren des K&#x207F;, bez&uuml;glich dessen kanonischer Basis; Symbol: det A</dif>
     </subsnc>
     <subsnc mrk="determ.0anto.endomorfio">
@@ -459,6 +466,7 @@
           al kiu ajn bazo.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of an endomorphism of a finite-dimensional vector space) The determinant of the images under the endomorphism of the vectors in any basis, relative to that same basis.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(eines Endomorphismus eines endlichdimensionalen Vektorraums) Determinante der Bilder der Vektoren einer beliebigen Basis unter dem Endomorphismus, bez&uuml;glich derselben Basis</dif>
     </subsnc>
 
