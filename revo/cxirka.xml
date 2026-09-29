@@ -352,6 +352,7 @@
       </rim>
     </snc>
     <trd lng="de" fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">um ... herum</trd>
+    <trd lng="en" fnt="AI: fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">around</trd>
     <trdgrp lng="fr">
       <trd>autour de<klr tip="ind"> (avec mouvement vers)</klr>
       </trd>,
@@ -404,6 +405,7 @@
       <trd>&c_z; &c_v;&c_a;&c_k;&c_o;&c_l;</trd>,
       <trd>&c_z; &c_v;&c_a;&c_k;&c_o;&c_l;&c_ib;&c_c;&c_y;</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: fr id ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">from around</trd>
     <trdgrp lng="fr">
       <trd>d'<ind>autour</ind> de</trd>,
       <trd>des <ind>alentours</ind> de</trd>,
@@ -493,6 +495,7 @@
         <trd fnt="AI: id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ringsherum</trd>,
         <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">rundherum</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">round <klr>(British)</klr></trd>
       <trd lng="id">di sekelilingnya</trd>
       </subsnc>
       <subsnc mrk="cxirka.0e.cxiuflanke">
@@ -585,6 +588,10 @@
         <trd>etwa</trd>,
         <trd>ungef&auml;hr</trd>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: de fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">approximately</trd>,
+        <trd fnt="AI: de fr it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">about</trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>environ</trd>,
         <trd>approximativement</trd>
@@ -648,6 +655,7 @@
     <trdgrp lng="de">
       <trd>in der Umgebung von</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr it ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">around</trd>
     <trdgrp lng="fr">
       <trd>tout autour de</trd>,
       <trd>sur le pourtour de</trd>
@@ -769,6 +777,10 @@
         <trd>&c_k;&c_o;&c_n;&c_t;&c_u;&c_r;</trd>
       </trdgrp>
       <trd lng="de" fnt="AI: pl be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Umfang</trd>
+      <trdgrp lng="en">
+        <trd fnt="AI: ref be pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">circumference</trd>,
+        <trd fnt="AI: ref be pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">perimeter</trd>
+      </trdgrp>
       <trd lng="id">keliling</trd>
       <trd lng="pl">obw&oacute;d</trd>
     </snc>
@@ -845,6 +857,10 @@
       <trdgrp lng="be">
         <trd>&c_n;&c_a;&c_v;&c_a;&c_k;&c_o;&c_l;&c_mol;&c_l;&c_je;</trd>,
         <trd>&c_a;&c_t;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: ref be pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">surroundings</trd>,
+        <trd fnt="AI: ref de ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">vicinity</trd>
       </trdgrp>
       <trdgrp lng="fr">
         <trd>environ<klr tip="ind"> (voisinage)</klr></trd>,
@@ -940,6 +956,10 @@
       <trd>&c_a;&c_t;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: pl it be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Umgebung</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref be pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">surroundings</trd>,
+      <trd fnt="AI: ref it dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">vicinity</trd>
+    </trdgrp>
     <trd lng="he">&#x5E1;&#x5D1;&#x5D9;&#x5D1;&#x5D4;</trd>
   <trd lng="id">lingkungan sekitar</trd>
   <trd lng="it">circondario</trd>
@@ -1112,6 +1132,7 @@
       <trd>&c_d;&c_a;&c_w;&c_zh;&c_y;&c_n;&c_ja; <ind>&c_a;&c_k;&c_r;&c_u;&c_zh;&c_y;&c_n;&c_y;</ind></trd>
     </trdgrp>
     <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Umfang</trd>
+    <trd lng="en" fnt="AI: ref de be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">circumference</trd>
     <trd lng="id">keliling bangun datar</trd>
     </snc>
   </drv>
@@ -1301,6 +1322,7 @@
     <trd>&c_a;&c_b;-</trd>
   </trdgrp>
 <trd lng="de" fnt="AI: be id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">um-</trd>
+<trd lng="en" fnt="AI: id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">circum-</trd>
 <trd lng="id">sirkum-</trd>
 </drv>
 </subart>

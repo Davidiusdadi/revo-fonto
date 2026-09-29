@@ -68,6 +68,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unbestimmtes kollektives Pronomen mit der Bedeutung: niemanden ausnehmend und ohne Unterschied.</dif>
     <trd lng="de" fnt="AI: nl pl ru fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">all</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr nl pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">all</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">everyone</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd>semua orang</trd>,
       <trd>seluruh orang</trd>
@@ -118,6 +122,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unbestimmtes kollektives Adjektiv gleicher Bedeutung.</dif>
     <trd lng="de" fnt="AI: nl pl ru id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">all</trd>
+    <trd lng="en" fnt="AI: fr nl pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">all</trd>
     <trdgrp lng="id">
       <trd>semua</trd>,
       <trd>seluruh</trd>

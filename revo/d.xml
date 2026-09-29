@@ -30,6 +30,7 @@
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Name des zweiten Tons der C-Dur-Tonleiter (294 Hz; in der absoluten Solmisation re).</dif>
        <trd lng="de" fnt="AI: dif fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">D</trd>
+       <trd lng="en" fnt="AI: dif es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">D</trd>
        <trd lng="es">r&eacute;<klr> (en la notaci&oacute;n alfab&eacute;tica de
          solfeo)</klr></trd>
        <trd lng="fr">r&eacute;</trd>
@@ -40,6 +41,7 @@
        (maj.) romana cifero: <ekz>D (500);</ekz>
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) r&ouml;misches Zahlzeichen.</dif>
+       <trd lng="en" fnt="AI: dif es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">D</trd>
        <trd lng="es">500<klr> (n&uacute;mero romano)</klr></trd>
        <trd lng="fr">500<klr> (chiffre romain)</klr></trd>
     </subsnc>
@@ -50,6 +52,7 @@
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Symbol f&uuml;r Deuterium.</dif>
        <trd lng="de" fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Deuterium</trd>
+       <trd lng="en" fnt="AI: es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">deuterium</trd>
        <trd lng="es">deuterio</trd>
        <trd lng="fr">deut&eacute;rium</trd>
     </subsnc>
@@ -59,6 +62,7 @@
        (maj.)  signo de formo: <ekz>D-tenilo;</ekz>
        </dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Formzeichen.</dif>
+       <trd lng="en" fnt="AI: es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">D</trd>
        <trd lng="es">D<klr> (forma de)</klr></trd>
        <trd lng="fr">D<klr> (forme de)</klr></trd>
     </subsnc>
@@ -72,6 +76,7 @@
          <trd fnt="AI: fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">magnetische Deklination</trd>,
          <trd kod="FAK" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Missweisung <klr>(fachspr.)</klr></trd>
        </trdgrp>
+       <trd lng="en" fnt="AI: es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">magnetic declination</trd>
        <trd lng="es">declinaci&oacute;n magn&eacute;tica</trd>
        <trd lng="fr">d&eacute;clinaison magn&eacute;tique</trd>
     </subsnc>

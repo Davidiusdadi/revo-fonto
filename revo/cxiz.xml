@@ -325,6 +325,7 @@
     <trd kod="FAK" fnt="AI: it fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bossieren <klr>(fachspr.)</klr></trd>,
     <trd fnt="AI: ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">behauen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr it pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">rough-hew</trd>
   <trdgrp lng="fr">
     <trd>fa&ccedil;onner<klr tip="ind"> (au ciseau, sur le
     pourtour)</klr></trd>,
@@ -369,6 +370,7 @@
     <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steinmetz</trd>,
     <trd fnt="AI: pl ro be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Steinbildhauer</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">stonecutter</trd>
   <trd lng="fr">tailleur de pierre</trd>
   <trd lng="pl">rze&zacute;biarz w kamieni</trd>
   <trd lng="ro">sculptor &icirc;n piatr&abreve;</trd>

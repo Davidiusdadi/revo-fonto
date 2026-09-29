@@ -120,6 +120,11 @@
   </trdgrp>
   <trd lng="ca">total</trd>
   <trd lng="de">g&auml;nzlich</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ca es fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">total</trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">whole</trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">entire</trd>
+  </trdgrp>
   <trd lng="es">total<klr> (adj.)</klr></trd>
   <trd lng="fr">total<klr> (adj.)</klr></trd>
   <trdgrp lng="he">
