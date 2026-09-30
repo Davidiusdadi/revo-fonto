@@ -137,6 +137,10 @@
       <ref cel="pivot.0o">pivoto</ref>,
 <ref cel="stift.0o">stifto</ref>
     </refgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">prong</trd>,
+      <trd fnt="AI: dif fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">spike</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>aiguillon</trd>,
       <trd>pointe<klr tip="ind"> (aiguillon)</klr></trd>

@@ -169,6 +169,7 @@
         <trd>alimentar</trd>
       </trdgrp>
       <trd lng="de">hegen</trd>
+      <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">cherish</trd>
       <trd lng="es">alimentar</trd>
       <trdgrp lng="fr">
         <trd>caresser<klr tip="ind"> (un r&ecirc;ve, un
@@ -323,6 +324,7 @@
     <trd>&c_l;&c_a;&c_s;&c_k;&c_a;&c_v;&c_y;</trd>
   </trdgrp>
   <trd lng="de">verw&ouml;hnend</trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">indulgent</trd>
   <trd lng="pl">pieszczotliwa</trd>
 </drv>
 
@@ -356,6 +358,7 @@
   <trd lng="bg">&c_g;&c_l;&c_je;&c_z;&c_je;&c_n;&c_je;</trd>
   <trd lng="cs">h&yacute;&ccaron;k&aacute;n&iacute;</trd>
   <trd lng="de">Verw&ouml;hnung</trd>
+  <trd lng="en" fnt="AI: de cs sk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">pampering</trd>
   <trdgrp lng="fr">
     <trd>cajolerie</trd>,
     <trd>c&acirc;linerie</trd>
@@ -394,6 +397,7 @@
   </trdgrp>
   <trd lng="bg">&c_g;&c_l;&c_je;&c_z;&c_ja; &c_s;&c_je;</trd>
   <trd lng="de"><ind>verw&ouml;hnt</ind> werden</trd>
+  <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be pampered</trd>
   <trd lng="fr">se faire <ind>dorloter</ind></trd>
   <trd lng="he">&lamed;&he;&tav;&pe;&nun;&qof;</trd>
   <trd lng="ja">&#x697D;&#x3092;&#x3059;&#x308B;  <pr>&#x304C;&#x304F;&#x3092;&#x3059;&#x308B;</pr></trd>
@@ -447,6 +451,10 @@
     <trd>zh&yacute;&ccaron;kat</trd>
   </trdgrp>
   <trd lng="de">verziehen <klr>(verw&ouml;hnen)</klr></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">spoil</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">overindulge</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>g&acirc;ter</trd>,
     <trd>choyer</trd>

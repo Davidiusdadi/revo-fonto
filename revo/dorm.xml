@@ -364,6 +364,7 @@
       <trd>letargia</trd>,
       <trd>inactivitat</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dormancy</trd>
     <trdgrp lng="es">
       <trd>letargo</trd>,
       <trd>somnolencia</trd>
@@ -606,6 +607,10 @@
     <trd>fest <ind>schlafen</ind></trd>,
     <trd>im tiefen <ind>Schlaf</ind> liegen</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ca es nl sv; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sleep deeply</trd>,
+    <trd fnt="AI: de sk ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sleep soundly</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd><ind>dormir</ind> profundamente</trd>,
     <trd><ind>dormir</ind> como un tronco</trd>
@@ -711,6 +716,10 @@
     <trdgrp lng="de">
       <trd>d&ouml;sen</trd>,
       <trd>schlummern</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr nl sv; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">doze</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">drowse</trd>
     </trdgrp>
     <trdgrp lng="es">
       <trd>dormitar</trd>
@@ -851,6 +860,7 @@
       <trd>apaivagar</trd>
     </trdgrp>
     <trd lng="de">einschl&auml;fern</trd>
+    <trd lng="en" fnt="AI: de ca es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">lull</trd>
     <trdgrp lng="es">
       <trd>calmar</trd>,
       <trd>apaciguar</trd>
@@ -987,6 +997,7 @@
     <trd>Schlafger&auml;t</trd>,
     <trd>Schlafhilfe</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: ca es fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bedding</trd>
   <trd lng="es">ropa de cama</trd>
   <trd lng="fr">&eacute;l&eacute;ment de <ind>literie</ind></trd>
   <trdgrp lng="hu">
@@ -1107,6 +1118,7 @@
   </snc>
   <trd lng="be">&c_d;&c_r;&c_y;&c_m;&c_o;&c_t;&c_a;</trd>
   <trd lng="de">Halbschlaf</trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">half-sleep</trd>
   <trdgrp lng="es">
     <trd>somnolencia</trd>,
     <trd>sopor</trd>
@@ -1139,6 +1151,10 @@
   <trdgrp lng="de">
     <trd><ind>wach</ind> werden</trd>,
     <trd>aufwachen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">wake up</trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">awaken</trd>
   </trdgrp>
   <trd lng="es">despertarse</trd>
   <trd lng="fr">s'<ind>&eacute;veiller</ind></trd>
@@ -1243,6 +1259,7 @@
     <ref tip="vid" cel="pas.for0i">forpasi</ref>
     <trd lng="ca">transir</trd>
     <trd lng="de" fnt="AI: ref sv; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entschlafen <klr>(gehoben)</klr></trd>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">pass away</trd>
     <trd lng="es">fallecer</trd>
     <trd lng="pl">zasypia&cacute;</trd>
     <trd lng="sv">somna in</trd>
@@ -1294,6 +1311,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Uuml;bergang in den Schlafzustand.</dif>
     <trd lng="be">&c_z;&c_a;&c_s;&c_y;&c_n;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
     <trd lng="ca">adormiment</trd>
+    <trd lng="en" fnt="AI: de pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">falling asleep</trd>
     <trd lng="es">adormecimiento</trd>
     <trd lng="id"><baz>ada</baz>keadaan tertidur</trd>
     <trdgrp lng="pl">
@@ -1409,6 +1427,7 @@
   despertar-se)</klr></trd>
   <trd lng="cs">zaspat</trd>
   <trd lng="de">verschlafen</trd>
+  <trd lng="en" fnt="AI: de pl ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sleep through</trd>
   <trd lng="es">dormir <klr>(continuamente, sin interrupciones ni
   despertarse)</klr></trd>
   <trd lng="fr">manquer<klr tip="ind"> (qc par inactivit&eacute;)
@@ -1496,6 +1515,10 @@
     <trdgrp lng="be">
       <trd>&c_d;&c_b;&c_a;&c_c;&c_mol;</trd>,
       <trd>&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">watch</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">stay alert</trd>
     </trdgrp>
     <trd lng="pl">czuwa&cacute;</trd>
     <trd lng="ru">&c_b;&c_d;&c_je;&c_t;&c_mol;</trd>
@@ -1702,6 +1725,7 @@
     <trd>durchschlafen</trd>,
     <trd>verschlafen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de es hu pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sleep through</trd>
   <trdgrp lng="es">
     <trd>dormir de un tir&oacute;n</trd>,
     <trd>dormir de una vez</trd>

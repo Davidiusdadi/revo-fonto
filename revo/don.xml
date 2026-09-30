@@ -1205,6 +1205,7 @@
       <trd>zugewandt</trd>,
       <trd>hingegeben</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: ref de fr nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">devoted</trd>
     <trdgrp lng="fr">
       <trd>attach&eacute;<klr tip="ind"> (d&eacute;vou&eacute;)
         </klr></trd>,
@@ -1579,6 +1580,10 @@
       <trd>hergeben</trd>,
       <trd>ausliefern</trd>
     </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">surrender</trd>,
+    <trd fnt="AI: de id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">deliver up <klr>(formal)</klr></trd>
+  </trdgrp>
   <trd lng="id"><baz>serah</baz>menyerahkan</trd>
   </snc>
   <snc mrk="don.el0i.TIP">
@@ -1682,6 +1687,7 @@
       </ekz>
     </dif>
     <trd lng="de">Herausgabe</trd>
+    <trd lng="en" fnt="AI: de id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">delivery</trd>
     <trd lng="id"><baz>serah</baz>penyerahan</trd>
     <trd lng="pl">wydanie</trd>
   </snc>
@@ -2520,6 +2526,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemandem etwas wiederbringen, was er verloren hat.</dif>
+    <trd lng="en" fnt="AI: ref de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">restore</trd>
     <trd lng="pl">zwr&oacute;ci&cacute;</trd>
     <trd lng="ru">&c_v;&c_je;&c_r;&c_n;&c_u;&c_t;&c_mol;</trd>
   </snc>
@@ -2734,6 +2741,10 @@
       </ekz>
     </dif>
     <trd lng="de">wiedergeben</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">convey</trd>,
+      <trd fnt="AI: ref de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">render</trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_je;&c_r;&c_a;&c_d;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -2889,6 +2900,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einen Namen gebend, erstmals benennend.</dif>
     <trd lng="be">&c_ja;&c_k;&c_ib; &c_d;&c_a;&c_je; <ind>&c_ib;&c_m;&c_ja;</ind></trd>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">naming</trd>
     <trd lng="fr">nommeur<klr> (adj.)</klr></trd>
     <trd lng="pl">tworz&aogonek;cy nazw&eogonek;</trd>
   </snc>
@@ -2909,6 +2921,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seinen Namen jemandem oder etwas gebend; eponym.</dif>
     <trd lng="be">&c_e;&c_p;&c_a;&c_n;&c_ib;&c_m;&c_ib;&c_ch;&c_n;&c_y;</trd>
+    <trd lng="en" fnt="AI: ref fr id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">eponymous</trd>
     <trd lng="fr">&eacute;ponyme<klr> (adj.)</klr></trd>
   <trd lng="id">eponim</trd>
   </snc>
@@ -2936,6 +2949,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der einer Sache, die noch keinen Namen hatte, einen Namen oder einen neuen Namen gibt.</dif>
     <trd lng="be">&c_t;&c_o;&c_j;, &c_h;&c_t;&c_o; &c_d;&c_a;&c_je;
     <ind>&c_ib;&c_m;&c_ja;</ind></trd>
+    <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">namer</trd>
     <trd lng="fr">nommeur<klr> (subst.)</klr></trd>
   <trdgrp lng="id">
     <trd><baz>beri</baz>pemberian nama</trd>,
@@ -2960,6 +2974,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der seinen Namen jemandem oder etwas anderem gibt; Eponym.</dif>
     <trd lng="be">&c_e;&c_p;&c_o;&c_n;&c_ib;&c_m;</trd>
+    <trd lng="en" fnt="AI: ref fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">eponym</trd>
     <trd lng="fr">&eacute;ponyme<klr> (subst.)</klr></trd>
     <trd lng="id">eponim</trd>
     <trd lng="pl">eponim</trd>
@@ -3377,6 +3392,7 @@
       </ekz>
     </dif>
     <ref tip="vid" cel="prov.pres0ajxo">presprova&jcirc;o</ref>
+    <trd lng="en" kod="FAK" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">trial edition <klr>(jargon)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_p;&c_r;&c_o;&c_b;&c_n;&c_a;&c_je;
@@ -3418,6 +3434,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" kod="FAK" fnt="AI: de fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">critical edition <klr>(jargon)</klr></trd>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_y;&c_t;&c_y;&c_ch;&c_n;&c_a;&c_je;
   <ind>&c_v;&c_y;&c_d;&c_a;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
