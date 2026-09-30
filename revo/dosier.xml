@@ -46,6 +46,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A collection of records, documents, notes, etc. relating to one matter or one person.</dif>
     <trdgrp lng="be">
       <trd>&c_d;&c_a;&c_s;&c_mol;&c_je;</trd>,
       <trd>&c_s;&c_p;&c_r;&c_a;&c_v;&c_a;</trd>
@@ -111,6 +112,7 @@
         </fnt>?
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">In police use, a separate record of someone's previous actions, convictions, etc.</dif>
     <trd lng="be">&c_d;&c_a;&c_s;&c_mol;&c_je;</trd>
     <trdgrp lng="de">
        <trd>Strafregister</trd>,
@@ -189,6 +191,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An organised collection of data in external storage, generally referenced by its name and position in a directory structure.</dif>
     <trd lng="be">&c_f;&c_a;&c_j;&c_l;</trd>
     <trd lng="bg">&c_f;&c_a;&c_j;&c_l;</trd>
     <trd lng="de">Datei</trd>
@@ -260,6 +263,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A durable container for holding together the documents of a file.</dif>
     <refgrp tip="vid">
        <ref cel="akt.0ujo">aktujo</ref>,
        <ref cel="paper.0ujo.dosiera">paperujo<sncref/></ref>
@@ -308,6 +312,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An organised collection of files, generally referenced by its name and position in a directory structure.</dif>
     <trdgrp lng="be">
       <trd>&c_k;&c_a;&c_t;&c_a;&c_l;&c_jo;&c_g;</trd>,
       <trd>&c_d;&c_y;&c_r;&c_e;&c_k;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>,
@@ -393,6 +398,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To put into a file.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_d;&c_sh;&c_y;&c_v;&c_a;&c_c;&c_mol; <klr tip="amb">(&c_d;&c_a;&c_k;&c_u;&c_m;&c_e;&c_n;&c_t;)</klr></trd>,

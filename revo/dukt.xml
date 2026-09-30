@@ -13,6 +13,7 @@
       Iom granda <ref tip="super" cel="tub.0o">tubo</ref>, kiu portadas
       flua&jcirc;on de devena loko al cela loko:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A fairly large tube that carries a fluid from a place of origin to a destination.</dif>
     <subsnc mrk="dukt.0o.ANA">
       <fnt><bib>SPV</bib></fnt>
       <uzo tip="fak">ANA</uzo>
@@ -28,6 +29,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">From or to an organ.</dif>
       <trd lng="ca">via</trd>
       <trdgrp lng="de">
         <trd>Leiter</trd>,
@@ -62,6 +64,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">From an industrial production site to a place of consumption.</dif>
       <trdgrp lng="ca">
         <trd>tub</trd>,
         <trd>canonada</trd>
@@ -103,6 +106,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">From one process to another, without an intermediate file.</dif>
       <trd lng="ca">canal</trd>
       <trd lng="de">Pipe</trd>
       <trd lng="en" fnt="AI: de fr it nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">pipe</trd>
@@ -165,6 +169,7 @@
     <dif>
       Eliganta substancojn tra <tld/>o.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Secreting substances through a duct.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stoffe &uuml;ber einen Ausf&uuml;hrungsgang absondernd.</dif>
     <ref tip="vid" cel="ekzokrin.0a.FIZL">ekzokrina <sncref/></ref>
   </snc>
@@ -191,6 +196,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Secreting substances without a duct.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stoffe ohne Ausf&uuml;hrungsgang absondernd.</dif>
     <ref tip="vid" cel="endokrin.0a.FIZL">endokrina <sncref/></ref>
   </snc>

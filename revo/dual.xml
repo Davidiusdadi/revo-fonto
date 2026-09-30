@@ -39,6 +39,7 @@
       <ref cel="dual.topologia0o">topologia dualo</ref>,
       la&ubreve; la kunteksto.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An algebraic dual or a topological dual, according to context.</dif>
     <trdgrp lng="be">
       <trd>&c_p;&c_r;&c_a;&c_s;&c_t;&c_o;&c_r;&c_a; &c_s;&c_p;&c_a;&c_l;&c_u;&c_ch;&c_a;&c_n;&c_a;&c_ja;</trd>,
       <trd>&c_p;&c_r;&c_a;&c_s;&c_t;&c_o;&c_r;&c_a; &c_d;&c_u;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_ja;</trd>
@@ -90,6 +91,7 @@
         <tld/>a <ref cel="nombr.0o.GRA">nombro</ref>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Relating to the dual in grammar or to a dual space in mathematics.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf den Dual (in der Grammatik) oder auf den Dualraum (in der Mathematik) bezogen.</dif>
     <trd lng="pl">dualny</trd>
   </snc>
@@ -112,6 +114,7 @@
         <ref cel="dual.0o.MAT"><tld/>o</ref> de la alia.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of mathematical concepts) Mirroring one another in some way.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von mathematischen Begriffen) so beschaffen, dass sie einander in gewisser Weise spiegeln.</dif>
     <ref tip="vid" cel="latis.0o.MAT">latiso.</ref>
     <trd lng="de">dual</trd>
@@ -139,6 +142,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Dualistic.</dif>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>dueca</ke>.

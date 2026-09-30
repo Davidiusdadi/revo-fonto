@@ -58,6 +58,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a surface) Such that all its points are approximately at the same level, without hollows or protrusions.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von einer Oberfl&auml;che) So beschaffen, dass alle ihre Punkte ungef&auml;hr auf gleicher H&ouml;he liegen, ohne Vertiefungen oder Erhebungen.</dif>
     <refgrp tip="vid">
       <ref cel="glat.0a">glata</ref>,
@@ -137,6 +138,7 @@
         <tld/>a a&ubreve; ne<tld/>a <ref cel="kurb.0o.MAT">kurbo</ref>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Relating to a plane; contained in a plane.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf eine Ebene bezogen; in einer Ebene enthalten.</dif>
     <trd lng="be">&c_p;&c_l;&c_o;&c_s;&c_k;&c_ib;</trd>
     <trd lng="ca">pla</trd>
@@ -173,6 +175,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Uniform and easy, presenting no unevenness.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gleichf&ouml;rmig, leicht; ohne jede Unebenheit.</dif>
     <refgrp tip="vid">
       <ref cel="glat.0a">glata</ref>
@@ -292,6 +295,7 @@
         tra tri punktoj povas trairi nur unu <tld/>o.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A surface that contains every line passing through two points in it.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fl&auml;che, die jede Gerade enth&auml;lt, die durch zwei ihrer Punkte verl&auml;uft.</dif>
   <trd lng="id">bangun datar</trd>
   </snc>
@@ -302,6 +306,7 @@
       <ref cel="eben.vektora0o">vektora <tld/>o</ref>,
       la&ubreve; la kunteksto.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An affine plane or a two-dimensional vector space, according to the context.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Affine Ebene oder Vektorebene, je nach Zusammenhang.</dif>
     <trd lng="zh">&#x5E73;&#38754; <pr>p&iacute;ngmi&agrave;n</pr></trd>
 </snc>
@@ -534,6 +539,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To make even.</dif>
     <refgrp tip="vid">
       <ref cel="nivel.0i.horizontaligi">niveli<sncref/></ref>
     </refgrp>
@@ -573,6 +579,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To make smooth or easy.</dif>
     <refgrp tip="vid">
       <ref cel="glat.0igi">glatigi</ref>
     </refgrp>
@@ -629,6 +636,7 @@
     <dif>
       <tld lit="E"/>igi batante.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To make even by beating.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_l;&c_ju;&c_sh;&c_ch;&c_y;&c_c;&c_mol;</trd>,
