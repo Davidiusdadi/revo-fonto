@@ -54,6 +54,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Front of a building, containing the main entrance.</dif>
     <rim>
       La&ubreve; <fnt><bib>BL</bib></fnt>: Anka&ubreve; eblas diri <ke>fronto</ke>, <ke>anta&ubreve;a parto</ke>,
       <ke>viza&gcirc;o</ke>.
@@ -145,6 +146,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Outward appearance, deceptive exterior.</dif>
     <refgrp tip="vid">
       <ref cel="aspekt.0o.KOMUNE">aspekto<sncref/></ref>,
       <ref cel="mask.0o.FIG">masko<sncref/></ref>,
@@ -193,6 +195,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">External interface of a program or computer system with the outside world: with the users, with a computer network, etc.</dif>
     <trd lng="be">&c_ib;&c_n;&c_t;&c_e;&c_r;&c_f;&c_e;&c_j;&c_s;
     <klr tip="amb">(&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_y;)</klr></trd>
     <trd lng="de">Benutzeroberfl&auml;che</trd>

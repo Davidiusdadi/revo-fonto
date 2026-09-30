@@ -12,6 +12,7 @@
     <dif>
       Malvasta parencaro.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Close relatives.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Engere Verwandtschaft.</dif>
     <subsnc mrk="famili.0o.GEN.strikta">
     <uzo tip="fak">GEN</uzo>
@@ -35,6 +36,7 @@
           <fnt><bib>MT</bib> <lok>&Jos; 2:18</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Group made up of the father, mother and children.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe, die aus Vater, Mutter und Kindern besteht.</dif>
       <trd lng="nl">gezin</trd>
     </subsnc>
@@ -75,6 +77,7 @@
           <fnt><bib>EE</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">All one's relatives in general.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die gesamte Verwandtschaft im Allgemeinen.</dif>
       <refgrp tip="vid">
         <ref cel="gent.0o.familio">gento</ref>
@@ -86,6 +89,7 @@
     <dif>
       Aro de a&jcirc;oj kun komuna deveno.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Group of things with a common origin.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gruppe von Dingen mit gemeinsamer Herkunft.</dif>
     <subsnc mrk="famili.0o.BIO">
       <uzo tip="fak">ZOO</uzo>
@@ -120,6 +124,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rank in the botanical and zoological classifications (familia).</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stufe der botanischen und zoologischen Klassifikation.</dif>
       <rim>
         La nomo de <tld/>o estas derivata de la nomo
@@ -154,6 +159,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Class of musical instruments of the same general construction, differing in size, range or other details.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Klasse von Musikinstrumenten mit gleicher allgemeiner Bauweise, die sich nach Gr&ouml;&szlig;e, Tonumfang oder anderen Einzelheiten unterscheiden.</dif>
     </subsnc>
     <subsnc mrk="famili.0o.GRA">
@@ -175,6 +181,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Class of languages; language family.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Klasse von Sprachen, Sprachfamilie.</dif>
       <trd lng="id">rumpun</trd>
     </subsnc>
@@ -201,6 +208,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(of elements of a set E with indices in a set I) Mapping from I to E; alternatively: the image of that mapping.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(von Elementen einer Menge E mit Indizes aus einer Menge I) Abbildung von I nach E; alternativ: die Bildmenge dieser Abbildung.</dif>
       <ref tip="sub" cel="vic.0o.MAT">vico;</ref>
       <refgrp tip="vid">
@@ -529,6 +537,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Family, relatives.</dif>
     <refgrp tip="vid">
       <ref cel="klan.0o.ETN">klano<sncref/></ref>
     </refgrp>
@@ -561,6 +570,7 @@
         </fnt>?
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Relationship within a family, kinship.</dif>
     <trd lng="en" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kinship</trd>
   </snc>
   <snc mrk="famili.0eco.intimeco">

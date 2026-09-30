@@ -53,6 +53,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Each of the distinct successive states in the development of a phenomenon; stage.</dif>
     <subsnc mrk="faz.0o.AST">
       <uzo tip="fak">AST</uzo>
       <dif>
@@ -76,6 +77,7 @@
         </fnt>.
       </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Periodic change of appearance in the rotation of a heavenly body.</dif>
       <trd lng="de">Phase</trd>
       <trd lng="pl">faza</trd>
       <trd lng="ro">faz&abreve;</trd>
@@ -106,6 +108,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Any of the possible states of matter: solid, liquid, gaseous.</dif>
     </subsnc>
     <trdgrp lng="de">
       <trd>Phase</trd>,
@@ -151,6 +154,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Argument of a cosine function, often representing a physical phenomenon, which is an affine function of time of the type 2&pi;ft+&phi;; more specifically the term &phi; (initial phase) in that argument.</dif>
     <trd lng="de">Phase</trd>
     <trd lng="fr">phase</trd>
     <trd lng="pl">faza</trd>
