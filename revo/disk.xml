@@ -33,6 +33,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A flat, round object.</dif>
     <subsnc mrk="disk.0o.SPO">
       <uzo tip="fak">SPO</uzo>
       <dif>
@@ -49,6 +50,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Such an object used in throwing sports.</dif>
       <trd lng="de">Diskus</trd>
       <trd lng="en" fnt="AI: de nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">discus</trd>
       <trd lng="es">disco <klr>(volador)</klr></trd>
@@ -91,6 +93,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Such an object on which data are recorded.</dif>
       <trdgrp lng="de">
         <trd>Platte</trd>,
         <trd>Diskette</trd>,
@@ -142,6 +145,7 @@
           estas <frm am="pi R^2">&pi;R&quadrat;</frm>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A plane surface bounded by a circle.</dif>
       <ref tip="sin" cel="cirkl.0o.surfaco">cirklo<sncref/></ref>
       <refgrp tip="prt">
         <ref cel="cirkl.0o.linio">cirklo<sncref/></ref>,
@@ -186,6 +190,7 @@
         <klr>(en la aro de <ref cel="komple.0o.MAT">kompleksoj</ref>)</klr>
         <ref tip="dif" cel="glob.0o.metrikaspaco">Globo<sncref/></ref>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(In the set of complex numbers) A ball.</dif>
       <trd lng="de">Kreis</trd>
       <trdgrp lng="en">
         <trd>disk</trd>,
@@ -358,6 +363,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A disk reader or the part of it that holds and rotates the disk.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Plattenlaufwerk oder derjenige Teil davon, der die Platte h&auml;lt und dreht.</dif>
     <trdgrp lng="zh">
     <trd>&#x8EDF;&#x9A45; <pr>ru&#x1CE;nq&#x16B;</pr></trd>,
@@ -407,6 +413,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A third-generation optical disc with a capacity of 50 gigabytes.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Optische Disc der dritten Generation mit einer Speicherkapazit&auml;t von 50 Gigabyte.</dif>
   </snc>
   <trd lng="be">&c_d;&c_y;&c_s;&c_k; Bluray</trd>

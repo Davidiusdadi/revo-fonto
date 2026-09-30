@@ -39,6 +39,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To make someone proceed along the correct route to a specified destination.</dif>
     <refgrp tip="vid">
       <ref cel="gvid.0i">gvidi</ref>,
       <ref cel="orient.0i">orienti</ref>,
@@ -209,6 +210,7 @@
         unua pa&scirc;o iron <tld/>as<fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To turn something or cause it to move along a specified route or towards a specified destination.</dif>
     <refgrp tip="vid">
       <ref cel="adres.0i">adresi</ref>,
       <ref cel="cel.0i">celi</ref>,
@@ -254,6 +256,7 @@
         <fnt><bib>PrV</bib></fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To guide and control someone's conduct.</dif>
     <refgrp tip="vid">
       <ref cel="eduk.0i">eduki</ref>,
       <ref cel="konduk.0i">konduki</ref>,
@@ -314,6 +317,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To guide and control the operation of something, not as an assistant but as a person in charge with authority to give orders.</dif>
     <refgrp tip="vid">
       <ref cel="admini.0i">administri</ref>,
       <ref cel="estr.0i">estri</ref>,
@@ -751,6 +755,7 @@
     <dif>
       Iu, kiu <tld/>as
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Someone who directs.</dif>
     <subsnc mrk="direkt.0anto.de_veturilo">
       <dif>
         veturilon:
@@ -846,6 +851,7 @@
           <ref cel="cilind.0o.surfaco">cilindro</ref>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a ruled surface) A line intersected by all the generators of the surface in question.</dif>
       <ref tip="sin" cel="direkt3.0o.linio">direktrico</ref>
       <trdgrp lng="be">
         <trd>
@@ -872,6 +878,7 @@
         kaj la distanco de la sama punkto al la rekto egalas al
         la discentreco.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a conic section) A line such that the ratio of the distance from each point of the conic section to its focus to the distance from the same point to the line equals the eccentricity.</dif>
       <ref tip="sin" cel="direkt3.0o.koniko">direktrico</ref>
       <trd lng="be">&c_d;&c_y;&c_r;&c_e;&c_k;&c_t;&c_r;&c_y;&c_s;&c_a;</trd>
       <trdgrp lng="de">

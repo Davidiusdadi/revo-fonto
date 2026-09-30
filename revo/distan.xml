@@ -138,6 +138,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The length of a space.</dif>
     <trd lng="cs">vzd&aacute;lenost</trd>
     <trdgrp lng="de">
       <trd>Abstand</trd>,
@@ -217,6 +218,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A difference or contrast in time, relationships, worldview, etc.</dif>
     <trdgrp lng="de">
       <trd>Unterschied</trd>,
       <trd>Distanz</trd>
@@ -237,6 +239,7 @@
       <frm><k>d</k></frm>,
       kaj pli precize:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The value of a metric d, specifically as follows.</dif>
     <subsnc mrk="distan.0o.inter_punktoj">
       <fnt><bib>MatStokTerm</bib><lok>p. 12</lok></fnt>
       <dif>
@@ -244,6 +247,7 @@
         <frm><k>b</k></frm>)</klr>
         La valoro <frm><k>d</k>(<k>a</k>,<k>b</k>)</frm>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(between points a and b) The value d(a,b).</dif>
     </subsnc>
     <subsnc mrk="distan.0o.de_punkto_al_aro">
       <fnt><bib>MatStokTerm</bib><lok>p. 12</lok></fnt>
@@ -255,6 +259,7 @@
         de <frm><k>a</k></frm> al &ccirc;iu punkto de
         <frm><g>A</g></frm>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(from a point a to a set A) The infimum of the distances from a to each point of A.</dif>
     </subsnc>
     <subsnc mrk="distan.0o.inter_aroj">
       <fnt><bib>EKV</bib><lok>&para;87</lok></fnt>
@@ -266,6 +271,7 @@
         de &ccirc;iu punkto de <frm><g>A</g></frm>
         al &ccirc;iu punkto de <frm><g>B</g></frm>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(between sets A and B) The infimum of the distances from each point of A to each point of B.</dif>
     </subsnc>
     <trd lng="de">Abstand</trd>
     <trd lng="en">distance</trd>
@@ -512,6 +518,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The distance between an objective and its focal point.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abstand zwischen Objektiv und Brennpunkt.</dif>
     <trd lng="de" fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Brennweite</trd>
     <trd lng="en" fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">focal length</trd>
@@ -713,6 +720,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A period of time; a time interval.</dif>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_m;&c_je;&c_zh;&c_a;&c_k; <ind>&c_ch;&c_a;&c_s;&c_u;</ind></trd>,
