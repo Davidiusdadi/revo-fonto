@@ -32,6 +32,10 @@
   <trd lng="be">&c_s;&c_l;&c_a;&c_n;&c_y; <klr tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
   <trd lng="ca">elef&agrave;ntids</trd>
   <trd lng="de">Elefanten</trd>
+  <trdgrp lng="en">
+    <trd kod="FAK" fnt="AI: la; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Elephantidae <klr>(jargon)</klr></trd>,
+    <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">elephant family</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;l&eacute;phantid&eacute;s</trd>
   <trd lng="hu">elef&aacute;ntf&eacute;l&eacute;k</trd>
   <trd lng="pl">s&lstroke;oniowate</trd>
