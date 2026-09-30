@@ -32,6 +32,11 @@
       <trd fnt="AI: pl fr nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Emanuel</trd>,
       <trd fnt="AI: it dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Immanuel</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Emmanuel</trd>,
+      <trd fnt="AI: pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Emanuel</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">Immanuel</trd>
+    </trdgrp>
     <trd lng="fr">Emmanuel</trd>
     <trdgrp lng="it">
       <trd>Emanuele</trd>,

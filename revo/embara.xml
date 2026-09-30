@@ -629,6 +629,10 @@
     <trd>&c_s;&c_u;&c_s;&c_t;&c_r;&c_a;&c_k;&c_a;&c_c;&c_mol; <ind>&c_p;&c_je;&c_r;&c_a;&c_sh;&c_k;&c_o;&c_d;&c_y;</ind></trd>
   </trdgrp>
   <trd lng="de"><ind>behindert</ind> werden</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be hampered</trd>,
+    <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">become encumbered <klr>(formal)</klr></trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd><baz>halang</baz>terhalang</trd>,
     <trd><baz>hambat</baz>terhambat</trd>,
@@ -683,6 +687,10 @@
     <trd>sich <ind>genieren</ind></trd>,
     <trd>sich <ind>sorgen</ind></trd>
   </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">become embarrassed</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">feel embarrassed</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>canggung</baz>mencanggung</trd>,
       <trd><baz>jengah</baz>menjengah</trd>,
@@ -734,6 +742,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Von Hemmnissen, von Hindernissen befreien.</dif>
+    <trd lng="en" fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">disencumber <klr>(formal)</klr></trd>
     <trdgrp lng="es">
       <trd>liberar</trd>,
       <trd>desobstruir</trd>,
@@ -761,6 +770,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus einer schwierigen Lage herausbringen.</dif>
+    <trd lng="en" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">extricate</trd>
     <trdgrp lng="es">
       <trd>liberar<klr> (de una situaci&oacute;n dif&iacute;cil)</klr></trd>,
       <trd>solucionar<klr> (una complicaci&oacute;n)</klr></trd>
@@ -831,6 +841,7 @@
     <trd>ohne <ind>Schwierigkeit</ind>en</trd>,
     <trd>frei</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">freely</trd>
 </drv>
 
 </art>
