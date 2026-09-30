@@ -43,6 +43,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A long, sharp raised part; a ridge.</dif>
     <trdgrp lng="be">
       <trd>&c_g;&c_r;&c_e;&c_b;&c_je;&c_n;&c_mol;</trd>,
       <trd>&c_h;&c_r;&c_y;&c_b;&c_je;&c_t;</trd>
@@ -92,6 +93,7 @@
           rekto.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A line segment or part of a straight line shared by two adjacent faces.</dif>
       <trdgrp lng="de">
         <trd>Kante</trd>,
         <trd>Schneide</trd>
@@ -262,6 +264,7 @@
         plurop<tld/>a grafeo <klr>(<frm am="n gt 1"><k>n</k> &gt; 1</frm>)</klr>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Of a graph (E, U): such that the same edge occurs at most n times in U.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Graphen (E, U)) So beschaffen, dass dieselbe Kante h&ouml;chstens n-mal in U vorkommt.</dif>
     <rim>
       Ni ne trovis a&ubreve;toritatan fonton por tiu termino. En
