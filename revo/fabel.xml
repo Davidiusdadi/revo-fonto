@@ -342,6 +342,10 @@
     <trd>M&auml;rchen <klr>(Unm&ouml;gliches)</klr></trd>,
     <trd>Fantasie <klr>(Unm&ouml;gliches)</klr></trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fantasy</trd>,
+    <trd fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fairy tale</trd>
+  </trdgrp>
   <trd lng="ja">&#x4F5C;&#x308A;&#x4E8B;  <pr>&#12388;&#x304F;&#x308A;&#12372;&#12392;</pr></trd>
 </drv>
 
@@ -381,6 +385,7 @@
     <trd>sb&iacute;rka poh&aacute;dek</trd>
   </trdgrp>
   <trd lng="de">M&auml;rchensammlung</trd>
+  <trd lng="en" fnt="AI: de fr cs sk dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">collection of fairy tales</trd>
   <trd lng="fr">recueil de contes</trd>
   <trd lng="sk">zbierka rozpr&aacute;vok</trd>
   <trdgrp lng="uk">

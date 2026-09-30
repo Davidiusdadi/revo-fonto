@@ -259,6 +259,7 @@
     <trd>Angestammter</trd>,
     <trd>Dutzfreund</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">intimate</trd>
   <trdgrp lng="fr">
     <trd>familier<klr> (subst.)</klr></trd>,
     <trd>proche<klr> (subst.)</klr></trd>
@@ -296,6 +297,10 @@
     </dif>
     <ref tip="vid" cel="proksi.mal0a">malproksima</ref>
     <trd lng="de">fremdartig</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unfamiliar</trd>,
+      <trd fnt="AI: ref fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">strange</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>&eacute;tranger<klr> (adj., inhabituel)</klr></trd>,
       <trd>inhabituel</trd>

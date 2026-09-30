@@ -986,6 +986,10 @@ originel)</klr></trd>,
       <trd>f&auml;llen</trd>,
       <trd>umst&uuml;rzen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">topple</trd>,
+      <trd fnt="AI: pl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">knock down</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>feld&ouml;nt</trd>,
       <trd>led&ouml;nt</trd>
@@ -1437,6 +1441,7 @@ originel)</klr></trd>,
       <trd>herabfallen</trd>,
       <trd>ausfallen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: ru pl nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fall off</trd>
     <trdgrp lng="hu">
       <trd>leesik</trd>,
       <trd>lehull</trd>
@@ -1499,6 +1504,7 @@ originel)</klr></trd>,
       <trd fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfallen</trd>,
       <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herunterkommen <klr>[ugs.]</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: hu ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">decline</trd>
     <trdgrp lng="hu">
       <trd>bukik</trd>,
       <trd>hanyatlik</trd>
@@ -1556,6 +1562,10 @@ originel)</klr></trd>,
       <trd>&c_b;&c_y;&c_c;&c_mol; <ind>&c_n;&c_ja;&c_v;&c_je;&c_r;&c_n;&c_y;&c_m;</ind></trd>
     </trdgrp>
     <trd lng="de" fnt="AI: ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abfallen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fall away</trd>,
+      <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">apostatise</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>elszakad</trd>,
       <trd>elp&aacute;rtol</trd>,
@@ -1816,6 +1826,10 @@ originel)</klr></trd>,
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ruin, Verfall, Entartung eines Systems.</dif>
+    <trdgrp lng="en">
+      <trd fnt="AI: ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">collapse</trd>,
+      <trd fnt="AI: ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">breakdown</trd>
+    </trdgrp>
     <trdgrp lng="ru">
       <trd>&c_r;&c_a;&c_s;&c_p;&c_a;&c_d;</trd>,
       <trd>&c_r;&c_a;&c_z;&c_v;&c_a;&c_l;</trd>,
@@ -1953,6 +1967,7 @@ originel)</klr></trd>,
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In etwas Tiefes fallen; fallend eindringen.</dif>
+    <trd lng="en" fnt="AI: pl hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fall into</trd>
     <trd lng="hu">beleesik</trd>
     <trd lng="pl">wpada&cacute;</trd>
     <trdgrp lng="ru">
@@ -1989,6 +2004,7 @@ originel)</klr></trd>,
       </ekz>
     </dif>
     <trd lng="de" fnt="AI: nl pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">verfallen</trd>
+    <trd lng="en" fnt="AI: pl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fall into</trd>
     <trdgrp lng="hu">
       <trd>beleesik</trd>,
       <trd>ker&uuml;l<klr tip="ind"> (vhova)</klr></trd>,
@@ -2018,6 +2034,7 @@ originel)</klr></trd>,
       <ref cel="invad.0i">invadi</ref>.
     </refgrp>
     <trd lng="de" fnt="AI: nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hereinst&uuml;rmen</trd>
+    <trd lng="en" fnt="AI: nl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">burst in</trd>
     <trd lng="hu">beleveti mag&aacute;t</trd>
     <trd lng="nl">binnenvallen</trd>
     <trd lng="pl">wpada&cacute;</trd>
@@ -2133,6 +2150,7 @@ lieu)</klr></trd>,
   <trd lng="be">&c_p;&c_a;&c_s;&c_t;&c_k;&c_a;</trd>
   <trd lng="ca">rasa</trd>
   <trd lng="cs">past</trd>
+  <trd lng="en" fnt="AI: pl ja fr de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pitfall</trd>
   <trdgrp lng="fr">
     <trd>fosse<klr tip="ind"> (pi&egrave;ge)</klr></trd>,
     <trd>pi&egrave;ge<klr tip="ind"> (fosse)</klr></trd>
@@ -2191,6 +2209,7 @@ lieu)</klr></trd>,
     &c_sh;&c_t;&c_o;&c_s;&c_mol;&c_c;&c_ib;)</klr></trd>,
     <trd>&c_u;&c_k;&c_ib;&c_d;&c_v;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: dif fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">plunge</trd>
   <trdgrp lng="fr">
     <trd>faire tomber</trd>,
     <trd>pi&eacute;ger</trd>
@@ -2269,6 +2288,7 @@ lieu)</klr></trd>,
     <trd>padnout v boji</trd>,
     <trd>zapadnout</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fall away</trd>
   <trd lng="fr">s'<ind>ab&icirc;mer</ind><klr tip="ind">
   (tomber, dispara&icirc;tre)</klr></trd>
   <trdgrp lng="hu">
@@ -2322,6 +2342,10 @@ lieu)</klr></trd>,
     <trd>hinunterrollen</trd>,
     <trd>purzeln</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tumble</trd>,
+    <trd fnt="AI: de fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">roll down</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>rouler<klr tip="ind"> (vers le bas)</klr></trd>,
     <trd>d&eacute;bouler<klr tip="ind"> (rouler vers le bas)</klr>
@@ -2358,6 +2382,10 @@ lieu)</klr></trd>,
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich unter etwas zu Schwerem biegen, sich senken.</dif>
     <trd lng="de" fnt="AI: pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich biegen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: dif pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sag</trd>,
+      <trd fnt="AI: de uk pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bend</trd>
+    </trdgrp>
     <trd lng="hu">al&aacute;ker&uuml;l</trd>
     <adm>
       Mi pensas, ke la propra senco de sub~i devus esti "~i sub ion": la papero subfalis sub
@@ -2450,6 +2478,10 @@ lieu)</klr></trd>,
   <trd lng="be">&c_n;&c_a;&c_p;&c_a;&c_d;&c_a;&c_c;&c_mol;</trd>
   <trd lng="cs">p&rcaron;epadnout <klr>(p&rcaron;es)</klr></trd>
   <trd lng="de">&uuml;berfallen</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fall upon</trd>,
+    <trd fnt="AI: fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">assail</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>s'<ind>abattre</ind><klr tip="ind"> (sur qn)</klr></trd>,
     <trd>assaillir</trd>,
@@ -2503,6 +2535,10 @@ lieu)</klr></trd>,
   <trdgrp lng="de">
     <trd>&uuml;berfallen</trd>,
     <trd><klr>(&uuml;ber jmd.)</klr> herfallen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fall upon</trd>,
+    <trd fnt="AI: fr ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">assail</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>s'<ind>abattre</ind><klr tip="ind"> (sur qn)</klr></trd>,
@@ -2666,6 +2702,11 @@ lieu)</klr></trd>,
     <trd>d&rcaron;evorubec</trd>
   </trdgrp>
   <trd lng="de">Holzf&auml;ller</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">lumberjack</trd>,
+    <trd fnt="AI: fr es nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">woodcutter</trd>,
+    <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">logger</trd>
+  </trdgrp>
   <trd lng="es">le&ntilde;ador</trd>
   <trd lng="fr">b&ucirc;cheron</trd>
   <trd lng="hu">fav&aacute;g&oacute;</trd>
@@ -2850,6 +2891,10 @@ lieu)</klr></trd>,
   </trdgrp>
   <trd lng="cs">podtrhnout nastaven&iacute;m nohy</trd>
   <trd lng="de">ein <ind>Bein</ind> stellen</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trip up</trd>,
+    <trd fnt="AI: de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trip</trd>
+  </trdgrp>
   <trd lng="fr">faire un <ind>croc-en-jambe</ind></trd>
   <trdgrp lng="id">
     <trd>jegal</trd>,
@@ -2891,6 +2936,7 @@ lieu)</klr></trd>,
     <trd>Stolperstein</trd>,
     <trd>Stein des <ind>Ansto&szlig;</ind>es</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr ru nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stumbling block</trd>
   <trd lng="fr">pierre d'achoppement</trd>
   <trd lng="hu">buktat&oacute;</trd>
   <trd lng="id">batu sandungan</trd>

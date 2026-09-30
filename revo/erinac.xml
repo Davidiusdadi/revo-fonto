@@ -169,6 +169,10 @@
     <trd>Ameisenigel</trd>,
     <trd>Schnabeligel</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">echidna</trd>,
+    <trd fnt="AI: de nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spiny anteater</trd>
+  </trdgrp>
   <trd lng="fr">&eacute;chidn&eacute;</trd>
   <trd lng="id">ekidna</trd>
   <trd lng="nl">mierenegel</trd>

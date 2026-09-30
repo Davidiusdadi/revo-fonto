@@ -21,6 +21,10 @@
      <trd>Eingeweidew&uuml;rmer</trd>,
      <trd>Entozoen</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd kod="ARK" fnt="AI: de fr la pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">entozoa <klr>(dated)</klr></trd>,
+    <trd fnt="AI: hu be uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">endoparasites</trd>
+  </trdgrp>
   <trd lng="fr">entozoaires</trd>
   <trdgrp lng="hu">
      <trd>endozo&aacute;k</trd>,

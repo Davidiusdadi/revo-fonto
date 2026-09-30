@@ -50,6 +50,7 @@
       <trd>Sporn</trd>,
       <trd>Afterklaue</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de hu ru pt be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spur</trd>
     <trd lng="fr">ergot</trd>
     <trd lng="hu">sarkanty&uacute;<klr tip="ind"> (pl. kakas&eacute;)</klr></trd>
     <trd lng="pt">espor&atilde;o</trd>
@@ -92,6 +93,7 @@
       <trd>Hahnensporn</trd>,
       <trd>Purpurroter <ind>Hahnenpilz</ind></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: la de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ergot fungus</trd>
     <trd lng="la">clavis purpurea</trd>
     <trd lng="pl">bu&lstroke;awinka czerwona</trd>
   </snc>

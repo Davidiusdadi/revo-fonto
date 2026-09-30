@@ -572,6 +572,7 @@
       <trd>flackern</trd>,
       <trd>funkeln</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">flicker</trd>
   </snc>
   <refgrp tip="vid">
     <ref cel="ard.0i">ardi</ref>,
@@ -667,6 +668,10 @@
     <trd>Brand</trd>,
     <trd>Gro&szlig;feuer</trd>,
     <trd>Feuersbrunst</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">conflagration</trd>,
+    <trd fnt="AI: de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">blaze</trd>
   </trdgrp>
   <trd lng="id"><baz>bakar</baz>kebakaran</trd>
   <trdgrp lng="ja">
@@ -1156,6 +1161,7 @@
     <trd lng="be">&c_f;&c_e;&c_n;&c_ib;&c_k;&c_s;</trd>
     <trd lng="ca">f&egrave;nix</trd>
     <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ph&ouml;nix</trd>
+    <trd lng="en" fnt="AI: ref ca be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">phoenix</trd>
     <trd lng="id">funiks</trd>
   </snc>
   <trd lng="cs">plame&ncaron;&aacute;k</trd>
@@ -1483,6 +1489,7 @@
     <trd>&c_t;&c_u;&c_h;&c_n;&c_u;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="de">verl&ouml;schen</trd>
+  <trd lng="en" fnt="AI: de pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">go out</trd>
   <trdgrp lng="id">
     <trd>padam<klr tip="amb"> (ttg api)</klr></trd>,
     <trd><baz>padam</baz>memadam<klr tip="amb"> (ttg api)</klr></trd>

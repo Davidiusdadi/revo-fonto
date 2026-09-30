@@ -100,6 +100,10 @@
       <trd>Karriereleiter</trd>,
       <trd>Nahrungspyramide</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hierarchy</trd>,
+      <trd fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">scale</trd>
+    </trdgrp>
     <trd lng="pl">hierarchia</trd>
     <trd lng="zh">&#26799; <pr>t&#299;</pr></trd>
 </snc>

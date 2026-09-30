@@ -144,6 +144,7 @@
       <ref cel="period.0o.dauxro">periodo<sncref/></ref>
     </refgrp>
     <trd lng="de">Lebensabschnitt</trd>
+  <trd lng="en" fnt="AI: id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">phase</trd>
   <trdgrp lng="id">
     <trd>fase</trd>,
     <trd>tahap</trd>
@@ -314,6 +315,10 @@
     <trd>de la mateixa <ind>&egrave;poca</ind></trd>
   </trdgrp>
   <trd lng="de">zeitgen&ouml;ssisch</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: pl ca de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">contemporary</trd>,
+    <trd fnt="AI: pl ca de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">contemporaneous</trd>
+  </trdgrp>
   <trd lng="fr">de m&ecirc;me &eacute;poque</trd>
   <trdgrp lng="id">
     <trd><baz>era</baz>seera</trd>,
@@ -569,6 +574,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Historiker, Spezialist f&uuml;r das Mittelalter.</dif>
   </snc>
   <trd lng="de" fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Medi&auml;vist</trd>
+  <trd lng="en" fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">medievalist</trd>
   <trd lng="fr">m&eacute;di&eacute;viste</trd>
 </drv>
 
@@ -725,6 +731,7 @@
   <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_ib;&c_s;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
   <trd lng="ca">prehist&ograve;ria</trd>
   <trd lng="de">Urzeit</trd>
+  <trd lng="en" fnt="AI: ca be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">prehistory</trd>
   <trdgrp lng="id">
     <trd>era prasejarah</trd>,
     <trd>masa prasejarah</trd>,

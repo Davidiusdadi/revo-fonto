@@ -77,6 +77,7 @@
       <trd>Gott</trd>,
       <trd>Abgott</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: hu de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">idol</trd>
     <trdgrp lng="hu">
       <trd>isten<klr tip="ind"> (emberr&odblac;l)</klr></trd>,
       <trd>b&aacute;lv&aacute;ny<klr tip="ind"> (emberr&odblac;l)</klr></trd>
@@ -190,6 +191,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der an die Kraft von Fetischen glaubt.</dif>
     <trd lng="ca">fetitxista</trd>
     <trd lng="de">Fetischist</trd>
+    <trd lng="en" fnt="AI: de ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fetishist</trd>
     <trdgrp lng="zh">
     <trd>&#24651;&#29289;&#30294; <pr>li&agrave;nw&ugrave;p&#464;</pr></trd>,
     <trd>&#25308;&#29289;&#25945;&#24466; <pr>b&agrave;iw&ugrave;ji&agrave;ot&uacute;</pr></trd>
@@ -218,6 +220,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mensch, der vorgibt, mit Fetischen das Schicksal anderer beeinflussen zu k&ouml;nnen.</dif>
+    <trd lng="en" fnt="AI: zh de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">witch doctor</trd>
     <trdgrp lng="zh">
     <trd>&#24043;&#21307; <pr>w&umacron;y&imacron;</pr></trd>,
     <trd>&#24043;&#24072; <pr>w&umacron;sh&imacron;</pr></trd>

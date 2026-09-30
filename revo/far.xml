@@ -1502,6 +1502,7 @@
       <trd>&c_z;&c_d;&c_a;&c_r;&c_a;&c_c;&c_c;&c_a;</trd>,
       <trd>&c_r;&c_a;&c_b;&c_ib;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ru hu be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">happen</trd>
     <trdgrp lng="hu">
       <trd>lesz</trd>,
       <trd>t&ouml;rt&eacute;nik</trd>
@@ -1984,6 +1985,11 @@
   <trdgrp lng="de">
     <trd>bilden <klr>(Produkt)</klr></trd>,
     <trd>ausmachen <ind>bilden</ind></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: es fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">constitute</trd>,
+    <trd fnt="AI: de be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">make up</trd>,
+    <trd fnt="AI: de be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">form</trd>
   </trdgrp>
   </snc>
   <trdgrp lng="en">

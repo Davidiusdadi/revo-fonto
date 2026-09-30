@@ -113,6 +113,10 @@
       <trd>&c_m;&c_a;&c_sh;&c_t;&c_a;&c_b;</trd>
     </trdgrp>
     <trd lng="de" fnt="AI: dif be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Format</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: be pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">calibre</trd>,
+      <trd fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stature</trd>
+    </trdgrp>
     <trdgrp lng="it">
       <trd><ind>apertura</ind> mentale</trd>,
       <trd><ind>ampiezza</ind> mentale</trd>

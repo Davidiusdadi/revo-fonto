@@ -125,6 +125,10 @@
   <trd lng="be">&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k; &c_e;&c_s;&c_e;</trd>
   <trd lng="ca">recull d'assajos</trd>
   <trd lng="de">Essaysammlung</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr ca es ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">collection of essays</trd>,
+    <trd fnt="AI: de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">essay collection</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>recopilaci&oacute;n de ensayos</trd>,
     <trd>antolog&iacute;a de ensayos</trd>,

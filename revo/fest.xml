@@ -373,6 +373,7 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol; &c_r;&c_a;&c_z;&c_a;&c_m;</trd>
   <trd lng="de">zusammen <ind>feiern</ind></trd>
+  <trd lng="en" fnt="AI: de fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">celebrate together</trd>
   <trd lng="fr">f&ecirc;ter ensemble</trd>
   <trdgrp lng="id">
     <trd><baz>ingat</baz>memperingati<klr> (bersama)</klr></trd>,
@@ -407,6 +408,7 @@
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_z;&c_mol; &c_n;&c_je;&c_k;&c_a;&c_j; &c_n;&c_a;&c_g;&c_o;&c_d;&c_y;)</klr></trd>
   <trd lng="de">feiern <klr>(etwas)</klr></trd>
+  <trd lng="en" fnt="AI: de fr it ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">celebrate</trd>
   <trd lng="es">homenajear</trd>
   <trdgrp lng="fr">
     <trd>c&eacute;l&eacute;brer</trd>,
@@ -435,6 +437,7 @@
       </ekz>
     </dif>
   <trd lng="de">Kirchenjahr</trd>
+  <trd lng="en" fnt="AI: ru fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Great Feast</trd>
   </snc>
   <!-- tez tip="listo" mrk="fest.dekduopaj0oj"
   cel="krist.0anismo">La dekduopaj festoj</tez -->
@@ -463,6 +466,7 @@
   cel="krist.0anismo">La dipatrinaj festoj</tez -->
   <trd lng="be">&c_m;&c_a;&c_r;&c_y;&c_j;&c_n;&c_a;&c_je; <ind>&c_s;&c_mol;&c_v;&c_ja;&c_t;&c_a;</ind></trd>
   <trd lng="de">Marienfest</trd>
+  <trd lng="en" fnt="AI: de fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Marian feast</trd>
   <trdgrp lng="es">
     <trd>fiesta de la Virgen</trd>,
     <trd>fiesta de la madre de Dios</trd>
@@ -524,6 +528,10 @@
     <trd fnt="AI: pl fr ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hochzeitsfeier</trd>,
     <trd fnt="AI: fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hochzeit</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr ru pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wedding</trd>,
+    <trd fnt="AI: pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">wedding reception</trd>
+  </trdgrp>
   <trd lng="fr">noce</trd>
   <trd lng="id"><ind>pesta</ind> pernikahan</trd>
   <trdgrp lng="ja">
@@ -582,6 +590,11 @@
   <trdgrp lng="de">
     <trd>Kost&uuml;mfest</trd>,
     <trd>Maskenball</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr es pl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">masquerade</trd>,
+    <trd fnt="AI: de pl ro; proponis claude-opus-5-5; kontrolis claude-opus-5-5">masked ball</trd>,
+    <trd fnt="AI: de id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fancy-dress party <klr>(British)</klr></trd>
   </trdgrp>
   <trd lng="es">mascarada</trd>
   <trd lng="fr">mascarade</trd>
@@ -689,6 +702,10 @@
   </snc>
   <trd lng="be">&c_S;&c_mol;&c_v;&c_ja;&c_t;&c_a; &c_s;&c_ja;&c_r;&c_e;&c_d;&c_z;&c_ib;&c_n;&c_y; &c_v;&c_o;&c_s;&c_je;&c_n;&c_ib;</trd>
   <trd lng="de">Mondfest</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr it pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Mid-Autumn Festival</trd>,
+    <trd fnt="AI: de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Moon Festival</trd>
+  </trdgrp>
   <trd lng="fr">F&ecirc;te de la mi-automne</trd>
   <trd lng="id"><baz>festival</baz>Festival Pertengahan Musim Gugur</trd>
   <trd lng="it">Festa di met&agrave; autunno</trd>
@@ -784,6 +801,10 @@
     <trd>&c_S;&c_mol;&c_v;&c_ja;&c_t;&c_a; &c_ch;&c_o;&c_w;&c_n;&c_a;&c_w;-&c_d;&c_r;&c_a;&c_k;&c_o;&c_n;&c_a;&c_w;</trd>
   </trdgrp>
   <trd lng="de">Drachenbootfest</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr it pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Dragon Boat Festival</trd>,
+    <trd fnt="AI: zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Duanwu Festival</trd>
+  </trdgrp>
   <trd lng="fr">F&ecirc;te des bateaux-dragons</trd>
   <trdgrp lng="id">
     <trd><baz>raya</baz>Perayaan Perahu Naga</trd>,
@@ -832,6 +853,10 @@
   <trd lng="be">&c_S;&c_mol;&c_v;&c_ja;&c_t;&c_a; &c_d;&c_z;&c_v;&c_ju;&c_h; &c_d;&c_z;&c_ja;&c_v;&c_ja;&c_t;&c_a;&c_k; <klr>(&c_u; &c_K;&c_ib;&c_t;&c_a;&c_ib;, &c_d;&c_z;&c_ja;&c_v;&c_ja;&c_t;&c_a;&c_je; &c_ch;&c_y;&c_s;&c_l;&c_o; &c_d;&c_z;&c_ja;&c_v;&c_ja;&c_t;&c_a;&c_g;&c_a; &c_m;&c_je;&c_s;&c_ja;&c_c;&c_a; &c_t;&c_r;&c_a;&c_d;&c_y;&c_c;&c_y;&c_j;&c_n;&c_a;&c_g;&c_a;
   &c_k;&c_a;&c_l;&c_je;&c_n;&c_d;&c_a;&c_r;&c_a;)</klr></trd>
   <trd lng="de" fnt="AI: zh fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">Chongyang-Fest</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr it pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Double Ninth Festival</trd>,
+    <trd fnt="AI: zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Chongyang Festival</trd>
+  </trdgrp>
   <trd lng="fr">F&ecirc;te du double neuf</trd>
   <trd lng="it">festa del doppio nove</trd>
   <trd lng="pl">&Sacute;wi&eogonek;to Podw&oacute;jnej Dziewi&aogonek;tki</trd>
@@ -862,6 +887,11 @@
     <trd>&c_S;&c_u;&c_k;&c_o;&c_t;</trd>
   </trdgrp>
   <trd lng="de">Laubh&uuml;ttenfest</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Feast of Tabernacles</trd>,
+    <trd fnt="AI: pl es be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Sukkot</trd>,
+    <trd fnt="AI: de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Feast of Booths</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>Fiestas de las tiendas</trd>,
     <trd>Sucot</trd>
@@ -956,6 +986,7 @@
   </snc>
   <trd lng="be">&c_S;&c_mol;&c_v;&c_ja;&c_t;&c_a; &c_l;&c_ib;&c_h;&c_t;&c_a;&c_r;&c_o;&c_w;</trd>
   <trd lng="de">Laternenfest</trd>
+  <trd lng="en" fnt="AI: de fr it pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Lantern Festival</trd>
   <trd lng="fr">F&ecirc;te des lanternes</trd>
   <trd lng="id"><baz>festival</baz>Festival Lampion</trd>
   <trd lng="it">Festa delle lanterne</trd>
@@ -995,6 +1026,10 @@
     <trd>&c_K;&c_ib;&c_t;&c_a;&c_j;&c_s;&c_k;&c_ib; &c_n;&c_o;&c_v;&c_y; &c_g;&c_o;&c_d;</trd>
   </trdgrp>
   <trd lng="de">Chinesisches <ind>Neujahrsfest</ind></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr it pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Spring Festival</trd>,
+    <trd fnt="AI: de fr it pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Chinese New Year</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>F&ecirc;te du printemps</trd>,
     <trd>Nouvel an chinois</trd>

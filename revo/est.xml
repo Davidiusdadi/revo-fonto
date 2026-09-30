@@ -2055,6 +2055,7 @@
     <trd fnt="AI: fr ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abwesend sein</trd>,
     <trd fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fehlen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">be absent</trd>
   <trd lng="fr">&ecirc;tre absent</trd>
 </drv>
 
@@ -2077,6 +2078,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abwesenheit; das Nichtanwesendsein an einem Ort.</dif>
   </snc>
   <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Abwesenheit</trd>
+  <trd lng="en" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">absence</trd>
   <trdgrp lng="fr">
     <trd>absence</trd>,
     <trd>contumace</trd>

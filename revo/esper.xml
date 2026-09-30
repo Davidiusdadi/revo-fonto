@@ -490,6 +490,11 @@
     <trd>verhei&szlig;end</trd>,
     <trd>vielversprechend</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">promising</trd>,
+    <trd fnt="AI: cs sk uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">encouraging</trd>,
+    <trd fnt="AI: de nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hopeful</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>bon<klr tip="ind"> (prometteur)</klr></trd>,
     <trd>prometteur</trd></trdgrp>
@@ -820,6 +825,10 @@
   <trd lng="ca">desesperar</trd>
   <trd lng="cs">p&rcaron;iv&aacute;d&ecaron;t k zoufalstv&iacute;</trd>
   <trd lng="de">verzweifeln lassen</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: cs sk ru pl de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">drive to despair</trd>,
+    <trd fnt="AI: nl ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">dishearten</trd>
+  </trdgrp>
   <trd lng="fr">d&eacute;sesp&eacute;rer<klr tip="ind"> (tr. dir.)</klr>
   </trd>
   <trdgrp lng="hu">

@@ -75,6 +75,10 @@
       </dif>
       <trd lng="be">&c_a;&c_d;&c_t;&c_u;&c_l;&c_ib;&c_n;&c_a;</trd>
       <trd lng="de">&Ouml;ffnung</trd>
+      <trdgrp lng="en">
+        <trd fnt="AI: dif pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mouth</trd>,
+        <trd fnt="AI: de nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">opening</trd>
+      </trdgrp>
       <trd lng="nl">opening</trd>
       <trd lng="ru">&c_o;&c_t;&c_v;&c_je;&c_r;&c_s;&c_t;&c_i;&c_je;</trd>
     </subsnc>
@@ -127,6 +131,7 @@
         <trd>&c_p;&c_r;&c_o;&c_r;&c_v;&c_a;</trd>
       </trdgrp>
       <trd lng="de">Abgrund</trd>
+      <trd lng="en" fnt="AI: de nl be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abyss</trd>
       <trd lng="id">jurang</trd>
       <trd lng="nl">afgrond</trd>
       <trdgrp lng="ru">

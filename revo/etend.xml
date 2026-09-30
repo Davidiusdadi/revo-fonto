@@ -452,6 +452,7 @@
       <ref cel="kusx.0i">ku&scirc;i</ref>
     </refgrp>
   <trd lng="de">sich <ind>strecken</ind></trd>
+  <trd lng="en" fnt="AI: de dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stretch out</trd>
   <trdgrp lng="id">
     <trd>julur</trd>,
     <trd><baz>julur</baz>menjulur</trd>,
@@ -496,6 +497,10 @@
       <ref cel="fald.mal0igxi">malfaldi&gcirc;i</ref>
     </refgrp>
   <trd lng="de">sich <ind>ausbreiten</ind></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spread out</trd>,
+    <trd fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spread</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>bentang</trd>,
     <trd><baz>bentang</baz>membentang</trd>,
@@ -557,6 +562,7 @@
       </ekz>
     </dif>
     <trd lng="de">sich <ind>verbreiten</ind></trd>
+    <trd lng="en" fnt="AI: de hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spread</trd>
     <trd lng="hu">terjed</trd>
     <trdgrp lng="id">
       <trd><baz>kembang</baz>mengembang</trd>,

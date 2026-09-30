@@ -461,6 +461,10 @@
     <trd>houarnaj</trd>
   </trdgrp>
   <trd lng="de">Eisen<klr>(ware)</klr></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ja zh; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ironware</trd>,
+    <trd fnt="AI: nl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ironwork</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>forja</trd>,
     <trd>herraje</trd>
@@ -517,6 +521,7 @@
   </trdgrp>
   <trd lng="br">houarnajer</trd>
   <trd lng="de">Eisenh&auml;ndler</trd>
+  <trd lng="en" fnt="AI: de nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ironmonger <klr>(British)</klr></trd>
   <trd lng="es">chatarrero</trd>
   <trd lng="fr">ferrailleur</trd>
   <trdgrp lng="hu">

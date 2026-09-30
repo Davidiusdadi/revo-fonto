@@ -496,6 +496,10 @@
       <trd lng="ca">xiular<klr> (mostrant desaprovaci&oacute;,
       burla)</klr></trd>
       <trd lng="de">auf etwas <ind>pfeifen</ind></trd>
+      <trdgrp lng="en">
+        <trd fnt="AI: de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">not give a damn <klr>(colloquial)</klr></trd>,
+        <trd fnt="AI: de fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">couldn't care less <klr>(colloquial)</klr></trd>
+      </trdgrp>
       <trdgrp lng="fr">
         <trd>se <ind>balancer</ind> de</trd>,
         <trd>se <ind>ficher</ind> de</trd>
@@ -515,6 +519,7 @@
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Best&uuml;rzung, Staunen, Furcht durch Pfeifen ausdr&uuml;cken</dif>
       <trd lng="ca">xiular<klr> (mostrant sorpresa, admiraci&oacute;)</klr></trd>
       <trd lng="de" fnt="AI: ca dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">pfeifen</trd>
+      <trd lng="en" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hiss</trd>
     </subsnc>
   </snc>
   <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
@@ -547,6 +552,7 @@
   <trd lng="be">&c_a;&c_s;&c_mol;&c_v;&c_ib;&c_s;&c_t;&c_a;&c_c;&c_mol;</trd>
   <trd lng="ca">xiular<klr> (mostrant desaprovaci&oacute;)</klr></trd>
   <trd lng="de">auspfeifen</trd>
+  <trd lng="en" fnt="AI: de nl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">catcall</trd>
   <trd lng="fr">siffler<klr tip="ind"> (qqn)</klr></trd>
   <trd lng="hu">kif&uuml;ty&uuml;l</trd>
   <trdgrp lng="id">

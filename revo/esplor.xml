@@ -241,6 +241,10 @@
     <trd>Forschungs-</trd>,
     <trd>forschend</trd>
   </trdgrp>
+<trdgrp lng="en">
+  <trd fnt="AI: de be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">investigative</trd>,
+  <trd fnt="AI: de dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">exploratory</trd>
+</trdgrp>
 <trd lng="id">selidik</trd>
 </drv>
 
@@ -393,6 +397,7 @@
       <trd>&c_d;&c_a;&c_p;&c_y;&c_t;&c_l;&c_ib;&c_v;&c_y;</trd>,
       <trd>&c_c;&c_ib;&c_k;&c_a;&c_w;&c_n;&c_y;</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: fr cs dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">searching</trd>
     <trdgrp lng="fr">
       <trd>curieux<klr tip="ind"> (investigateur)</klr></trd>,
       <trd>inquisiteur<klr tip="ind"> (adj.)</klr></trd>,

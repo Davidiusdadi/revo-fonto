@@ -184,6 +184,7 @@
        <trd>t&egrave;nue</trd>,
        <trd>suau</trd>
      </trdgrp>
+     <trd lng="en" fnt="AI: ca id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">light</trd>
      <trdgrp lng="id">
        <trd>lembut</trd>,
        <trd>ringan</trd>
@@ -687,6 +688,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Leicht werden, weniger m&uuml;hsam als zuvor.</dif>
+    <trd lng="en" fnt="AI: fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">become easier</trd>
     <trd lng="fr">devenir <ind>facile</ind></trd>
   </snc>
   <snc mrk="facil.0igxi.malpeze">
@@ -811,6 +813,10 @@
       </ekz>
     </dif>
   <trd lng="de">ernst <klr>(schwer)</klr></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">severe</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">heavy</trd>
+  </trdgrp>
   </snc>
   <trd lng="af">moeilik</trd>
   <trd lng="am">&#x12A0;&#4661;&#4728;&#x130B;&#x122A;</trd>

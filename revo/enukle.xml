@@ -23,6 +23,7 @@
   <trdgrp lng="de">
     <trd>aussch&auml;len</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr cs pt de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">enucleate</trd>
   <trd lng="fr">&eacute;nucl&eacute;er</trd>
   <trdgrp lng="hu">
     <trd>enukle&aacute;l</trd>,
@@ -67,6 +68,7 @@
     <trd>Aussch&auml;len</trd>,
     <trd>Enukleation<klr> [fak]</klr></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr cs pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">enucleation</trd>
   <trd lng="fr">&eacute;nucl&eacute;ation</trd>
   <trd lng="hu">enucleation</trd>
   <trd lng="pl">wy&lstroke;uszczanie</trd>

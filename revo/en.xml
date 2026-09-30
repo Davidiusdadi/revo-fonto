@@ -152,6 +152,7 @@
         <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">innerhalb</trd>,
         <trd fnt="AI: ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">binnen</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: dif ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">within</trd>
       <trd lng="ru">&c_z;&c_a;</trd>
     </subsnc>
     <subsnc mrk="en.0.stata">
@@ -876,6 +877,10 @@
       <trd>hineinschieben</trd>,
       <trd>reintun</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de pl fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">insert</trd>,
+      <trd fnt="AI: de fr es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">put in</trd>
+    </trdgrp>
     <trd lng="he">&lamed;&he;&het;&dalet;&yod;&resh;</trd>
     <trdgrp lng="pl">
       <trd>wk&lstroke;ada&cacute;</trd>,
@@ -1155,6 +1160,10 @@
     <trd>hineingehen</trd>,
     <trd>eindringen</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr he; proponis claude-opus-5-5; kontrolis claude-opus-5-5">penetrate</trd>,
+    <trd fnt="AI: fr pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">enter</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd><ind>meter</ind>se</trd>,
     <trd><ind>introducir</ind>se</trd>
@@ -1281,6 +1290,10 @@
       <ref cel="dorm.en0igxi"><tld/>dormi&gcirc;i</ref>.
     </ekz>
     <trd lng="de" fnt="AI: pl ru es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinein-</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">en-</trd>,
+      <trd fnt="AI: es fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in-</trd>
+    </trdgrp>
     <trdgrp lng="es">
       <trd>en-<klr> (prefijo)</klr></trd>,
       <trd>in-<klr> (prefijo)</klr></trd>,

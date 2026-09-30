@@ -454,6 +454,11 @@
     <trd>p&oacute;dium</trd>
   </trdgrp>
   <trd lng="de">Leitung</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl id hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">management</trd>,
+    <trd fnt="AI: pt pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">leadership</trd>,
+    <trd fnt="AI: fr pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">direction</trd>
+  </trdgrp>
   <trd lng="fr">direction<klr tip="ind"> (action de diriger)</klr></trd>
   <trd lng="he">&dalet;&vav;&#1468;&kaf;&#1464;&fnun;</trd>
   <trdgrp lng="hu">
@@ -773,6 +778,7 @@
     <trd>als Vorstand <ind>einsetzen</ind></trd>,
     <trd>die Leitung <ind>&uuml;bergeben</ind></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">put in charge</trd>
   <trd lng="id"><baz>beri</baz>memberi kuasa</trd>
   <trdgrp lng="pl">
     <trd>czyni&cacute; kogo&sacute; <ind>zwierzchnikiem</ind></trd>,
@@ -928,6 +934,10 @@
     <trd>&c_g;&c_a;&c_r;&c_a;&c_d;&c_z;&c_k;&c_a;&c_ja; <ind>&c_r;&c_a;&c_d;&c_a;</ind></trd>
   </trdgrp>
   <trd lng="de">Stadtrat</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">city council</trd>,
+    <trd fnt="AI: de pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">town council</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd><baz>perintah</baz>pemerintah kota</trd>,
     <trd>pemkot</trd>,

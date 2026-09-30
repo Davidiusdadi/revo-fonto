@@ -442,6 +442,10 @@
     <trd>&c_s;&c_p;&c_e;&c_c;&c_y;&c_ja;&c_l;&c_mol;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="de">Fach-</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl ja be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">specialist</trd>,
+    <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">technical</trd>
+  </trdgrp>
   <trdgrp lng="ja">
     <trd>&#x5C02;&#x9580;&#x306E;  <pr>&#x305B;&#x3093;&#x3082;&#x3093;&#x306E;</pr></trd>,
     <trd>&#x5C02;&#x9580;&#x7684;&#x306A;  <pr>&#x305B;&#x3093;&#x3082;&#x3093;&#x3066;&#x304D;&#x306A;</pr></trd>
@@ -687,6 +691,7 @@
     <trd>sambori</trd>
   </trdgrp>
   <trd lng="de">Himmelhoppe</trd>
+  <trd lng="en" fnt="AI: ref fr de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hopscotch</trd>
   <trd lng="fr">marelle</trd>
   <trdgrp lng="id">
     <trd>engklek</trd>,

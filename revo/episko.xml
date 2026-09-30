@@ -155,6 +155,10 @@
     <trd>biskupstv&iacute;</trd>
   </trdgrp>
   <trd lng="de">Bischofssitz</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: es pt sk ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bishop's palace</trd>,
+    <trd fnt="AI: es ca sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">episcopal palace</trd>
+  </trdgrp>
   <trd lng="es">palacio episcopal</trd>
   <trd lng="fa">&a_A;&a_q;&a_A;&a_m;&a_t;&f_g;&a_A;&a_h; <ind>&a_A;&a_s;&a_q;&a_f;</ind></trd>
   <trd lng="fr">&eacute;v&ecirc;ch&eacute;<klr tip="ind"> (r&eacute;sidence)</klr></trd>
@@ -252,6 +256,10 @@
     <trd fnt="AI: ref cs be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bistum</trd>,
     <trd fnt="AI: ref cs pt sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Di&ouml;zese</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref cs pt sk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">diocese</trd>,
+    <trd fnt="AI: ref be cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bishopric</trd>
+  </trdgrp>
   </snc>
   <snc mrk="episko.0lando.sxtato">
     <uzo tip="fak">POL</uzo>
@@ -279,6 +287,7 @@
       <trd fnt="AI: dif hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;rstbistum</trd>,
       <trd kod="HIS" fnt="AI: dif hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Hochstift <klr>(hist.)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">prince-bishopric</trd>
     <trd lng="hu">p&uuml;sp&ouml;ks&eacute;g<klr tip="amb"> (orsz&aacute;g)</klr></trd>
     <trd lng="ru">&c_je;&c_p;&c_i;&c_s;&c_k;&c_o;&c_p;&c_s;&c_t;&c_v;&c_o;<klr tip="amb">
     (&c_g;&c_o;&c_s;&c_u;&c_d;&c_a;&c_r;&c_s;&c_t;&c_v;&c_o;)</klr>

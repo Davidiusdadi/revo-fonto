@@ -150,6 +150,7 @@
   <trd lng="be">&c_n;&c_a; <ind>&c_e;&c_s;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_a;</ind></trd>
   <trd lng="cs">v esperantu</trd>
   <trd lng="de">auf <ind>Esperanto</ind></trd>
+  <trd lng="en" fnt="AI: de fr es cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">in Esperanto</trd>
   <trd lng="es">en esperanto</trd>
   <trd lng="fr">en Esperanto</trd>
   <trd lng="id"><baz>cara</baz>secara Esperanto</trd>
@@ -228,6 +229,7 @@
     </rim>
   </snc>
   <trd lng="de">&Uuml;bertragung nach Esperanto</trd>
+  <trd lng="en" fnt="AI: es fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Esperantisation</trd>
   <trd lng="es">esperantizaci&oacute;n</trd>
   <trd lng="fr">esp&eacute;rantisation</trd>
   <trdgrp lng="id">
@@ -398,6 +400,7 @@
     <trd>&c_e;&c_s;&c_p;&c_e;&c_r;&c_a;&c_n;&c_t;&c_y;&c_s;&c_t;&c_y;</trd>
   </trdgrp>
   <trd lng="de">Esperantistengemeinschaft</trd>
+  <trd lng="en" fnt="AI: de pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Esperanto community</trd>
   <trd lng="fr">les <ind>esp&eacute;rantistes</ind></trd>
   <trd lng="id">para esperantis</trd>
   <trd lng="it">movimento <ind>esperantista</ind></trd>

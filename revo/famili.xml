@@ -540,6 +540,10 @@
     <trd>Kind und <ind>Kegel</ind></trd>,
     <trd>Anhang <klr>(Verwandschaft)</klr></trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kinsfolk</trd>,
+    <trd fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kin</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="famili.0eco">
@@ -557,6 +561,7 @@
         </fnt>?
       </ekz>
     </dif>
+    <trd lng="en" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kinship</trd>
   </snc>
   <snc mrk="famili.0eco.intimeco">
     <dif>
@@ -572,6 +577,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="en" fnt="AI: ref de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">familiarity</trd>
   </snc>
   <trd lng="de">Familiarit&auml;t</trd>
 </drv>

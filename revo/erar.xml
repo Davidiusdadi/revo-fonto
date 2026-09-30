@@ -100,6 +100,11 @@
       <trd>sich <ind>verirren</ind></trd>,
       <trd>sich <ind>verlaufen</ind></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">go astray</trd>,
+      <trd fnt="AI: ref dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">stray</trd>,
+      <trd fnt="AI: ref de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">lose one's way</trd>
+    </trdgrp>
     <trd lng="hu">elt&eacute;ved</trd>
     <trd lng="id"><baz>sesat</baz>tersesat</trd>
     <trd lng="pl">b&lstroke;&aogonek;dzi&cacute;</trd>
@@ -740,6 +745,7 @@
       <trd>Sinnest&auml;uschung</trd>,
       <trd>Fehlwahrnehmung</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sensory illusion</trd>
     <trdgrp lng="zh">
     <trd>&#22818;&#x5E7B; <pr>m&#xE8;nghu&#xE0;n</pr></trd>,
       <trd>&#22818;&#x5E7B; <pr>m&#xE8;nghu&#xE0;n</pr></trd>

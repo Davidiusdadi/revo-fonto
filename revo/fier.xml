@@ -635,6 +635,7 @@
     <trd>achtbar</trd>,
     <trd>beachtlich</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">creditable</trd>
   <trd lng="es">digno,-a de orgullo</trd>
   <trd lng="fr">remarquable</trd>
   <trd lng="id">patut dibanggakan</trd>
@@ -775,6 +776,10 @@
   </trdgrp>
 </snc>
   <trd lng="be">&c_s;&c_mol;&c_c;&c_ib;&c_p;&c_l;&c_y;</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">humble</trd>,
+    <trd fnt="AI: fr pl de dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">modest</trd>
+  </trdgrp>
   <trd lng="fr">modeste</trd>
   <trdgrp lng="id">
     <trd>rendah diri</trd>,
@@ -824,6 +829,7 @@
    </snc>
    <trd lng="be">&c_b;&c_y;&c_c;&c_mol; <ind>&c_s;&c_mol;&c_c;&c_ib;&c_p;&c_l;&c_y;&c_m;</ind></trd>
    <trd lng="de"><ind>dem&uuml;tig</ind> sein</trd>
+   <trd lng="en" fnt="AI: fr pl ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">be ashamed</trd>
    <trd lng="fr">avoir <ind>honte</ind></trd>
    <trdgrp lng="id">
      <trd>rendah diri</trd>,
@@ -861,6 +867,10 @@
     <trd>dem&uuml;tigen</trd>,
     <trd>besch&auml;men</trd>
   </trdgrp>
+<trdgrp lng="en">
+  <trd fnt="AI: ref de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">humble</trd>,
+  <trd fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">humiliate</trd>
+</trdgrp>
 <trdgrp lng="id">
   <trd><baz>rendah diri</baz>merendahkan diri</trd>,
   <trd><baz>rendah hati</baz>merendahkan hati</trd>
@@ -894,6 +904,7 @@
     <trd>Selbstwertgef&uuml;hl</trd>,
     <trd>Eigenstolz</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">self-esteem</trd>
   <trd lng="fr">conscience de sa valeur</trd>
   <trdgrp lng="id">
     <trd>harga diri</trd>,

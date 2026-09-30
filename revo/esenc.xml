@@ -97,6 +97,7 @@
       <trd>Wesen</trd>,
       <trd>Natur <klr>(Wesen)</klr></trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">nature</trd>
     <trdgrp lng="hu">
       <trd>l&eacute;nyeg</trd>,
       <trd>szubsztancia</trd>
@@ -505,6 +506,7 @@
   </snc>
   <trd lng="be">&c_e;&c_s;&c_e;&c_n;&c_c;&c_y;&c_ja;&c_l;&c_ib;&c_z;&c_m;</trd>
   <trd lng="de">Essentialismus</trd>
+  <trd lng="en" fnt="AI: de fr pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">essentialism</trd>
   <trd lng="fr">essencialisme</trd>
   <trd lng="id">esensialisme</trd>
   <trd lng="pl">esencjalizm</trd>
@@ -561,6 +563,7 @@
     <ref tip="vid" cel="esenc.sam0a.KRI">sam<tld/>a</ref>
     <trd lng="be">&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_a;&c_s;&c_u;&c_t;&c_n;&c_y;</trd>
     <trd lng="de" fnt="AI: ru be hu grc; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">wesens&auml;hnlich</trd>
+    <trd lng="en" fnt="AI: grc hu ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">homoiousian</trd>
     <trd lng="grc">&omikron_densa;&my;&omikron;&jota;&omikron;&ypsilon_acute;&sigma;&jota;&omikron;&sigma_fina;</trd>
     <trdgrp lng="hu">
       <trd>hasonl&oacute; <ind>l&eacute;nyeg&udblac;</ind></trd>,

@@ -619,6 +619,10 @@
     <trd fnt="AI: fr ca id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Kleinigkeit</trd>,
     <trd fnt="AI: ca id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bagatelle</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: ca fr id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">trifle</trd>,
+    <trd fnt="AI: id ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">triviality</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>d&eacute;tail</trd>,
     <trd>rien<klr> (petite chose)</klr></trd>

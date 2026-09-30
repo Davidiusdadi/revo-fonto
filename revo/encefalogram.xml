@@ -22,6 +22,7 @@
 
   <trd lng="be">&c_e;&c_n;&c_c;&c_e;&c_f;&c_a;&c_l;&c_ja;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
   <trd lng="de" fnt="AI: fr pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Enzephalogramm</trd>
+  <trd lng="en" fnt="AI: fr es pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">encephalogram</trd>
   <trd lng="es">encefalograma</trd>
   <trd lng="fr">enc&eacute;phalogramme</trd>
   <trd lng="pl">encefalogram</trd>
@@ -55,6 +56,10 @@
   <trd lng="be">&c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_a;&c_e;&c_n;&c_c;&c_e;&c_f;&c_a;&c_l;&c_ja;&c_g;&c_r;&c_a;&c_m;&c_a;</trd>
   <trdgrp lng="de">
     <trd fnt="AI: fr pl es; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Elektroenzephalogramm</trd>,
+    <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">EEG</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr es pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">electroencephalogram</trd>,
     <trd fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">EEG</trd>
   </trdgrp>
   <trd lng="es">electroencefalograma</trd>

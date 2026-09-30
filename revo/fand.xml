@@ -1036,6 +1036,10 @@
       <trd>&c_z;&c_l;&c_u;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</trd>
     </trdgrp>
     <trd lng="de">Vereinigung</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">merger</trd>,
+      <trd fnt="AI: de pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">amalgamation</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>lebur</baz>peleburan</trd>,
       <trd><baz>padu</baz>pemaduan</trd>,

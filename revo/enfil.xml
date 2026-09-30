@@ -25,6 +25,10 @@
        <trd>mit Feuer bestreichen</trd>,
        <trd>der L&auml;nge nach beschie&szlig;en</trd>
     </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr de ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">enfilade</trd>,
+    <trd fnt="AI: de hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">rake</trd>
+  </trdgrp>
   <trd lng="es">enfilar</trd>
   <trdgrp lng="fr">
       <trd>enfiler<klr tip="ind"> (prendre en enfilade)</klr></trd>,

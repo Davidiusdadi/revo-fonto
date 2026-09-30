@@ -83,6 +83,10 @@
         <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Festgelegte Menge eines Edelmetalls, durch die die Einheit eines Metallw&auml;hrungssystems bestimmt ist.</dif>
         <trd lng="ca">patr&oacute; <klr tip="amb">(economia)</klr></trd>
         <trd lng="de" fnt="AI: dif ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5; serĉo">W&auml;hrungsstandard</trd>
+        <trdgrp lng="en">
+          <trd fnt="AI: ca pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">standard</trd>,
+          <trd fnt="AI: dif ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">monetary standard</trd>
+        </trdgrp>
         <trd lng="pl">parytet</trd>
       </snc>
     <trdgrp lng="be">
@@ -113,6 +117,7 @@
         </refgrp>
       </snc>
       <trd lng="be">&c_e;&c_t;&c_a;&c_l;&c_jo;&c_n;&c_n;&c_y;</trd>
+     <trd lng="en" fnt="AI: pl ru ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">standard</trd>
      <trdgrp lng="pl">
        <trd>wzorcowy</trd>,
        <trd>standardowy</trd>,

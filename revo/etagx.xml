@@ -138,6 +138,10 @@
       <trd>Terasse</trd>,
       <trd>Ebene</trd>
     </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: be ru uk id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tier</trd>,
+    <trd fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">level</trd>
+  </trdgrp>
   <trd lng="id">teras</trd>
   </snc>
   <trdgrp lng="be">
@@ -219,6 +223,10 @@
     <trd kod="ARK" fnt="AI: ref pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Etagere <klr>(veraltet)</klr></trd>,
     <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Regal</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: pl be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">etagere</trd>,
+    <trd fnt="AI: pl be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">whatnot</trd>
+  </trdgrp>
   <trd lng="id">tingkat-tingkat</trd>
   <trd lng="pl">eta&zdot;erka</trd>
 </drv>
@@ -238,6 +246,7 @@
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_c;&c_mol; &c_n;&c_a; <ind>&c_ja;&c_r;&c_u;&c_s;&c_a;&c_h;</ind></trd>
   <trd lng="de" fnt="AI: fr ru pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abstufen</trd>
+  <trd lng="en" fnt="AI: ru pl fr hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">tier</trd>
   <trd lng="es">organizar por nivel de altura</trd>
   <trd lng="fr">&eacute;tager</trd>
   <trdgrp lng="hu">

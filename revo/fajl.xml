@@ -102,6 +102,11 @@
       <trd>&c_u;&c_d;&c_a;&c_s;&c_k;&c_a;&c_n;&c_a;&c_l;&c_mol;&c_v;&c_a;&c_c;&c_mol;</trd>
     </trdgrp>
     <trd lng="de">feilen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: pl ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">polish</trd>,
+      <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">refine</trd>,
+      <trd fnt="AI: de ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hone</trd>
+    </trdgrp>
     <trd lng="hu">csiszol</trd>
     <trdgrp lng="pl">
       <trd>polerowa&cacute;</trd>,

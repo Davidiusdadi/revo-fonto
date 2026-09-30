@@ -589,6 +589,10 @@
   </snc>
   <trd lng="be">&c_z;&c_d;&c_r;&c_a;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trd lng="de"><ind>untreu</ind> werden</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: fr pl ru uk ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">betray</trd>,
+    <trd fnt="AI: de nl hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">be unfaithful</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>abandonner<klr tip="ind"> (renier sa fid&eacute;lit&eacute;
     envers)</klr></trd>,
@@ -684,6 +688,10 @@
       <ref cel="profan.0ulo">profanulo</ref>
     </refgrp>
     <trd lng="de" fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ungl&auml;ubiger</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr ru pl be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">infidel</trd>,
+      <trd fnt="AI: fr id pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">unbeliever</trd>
+    </trdgrp>
     <trd lng="fr">m&eacute;cr&eacute;ant<klr> (subst.)</klr></trd>
     <trdgrp lng="id">
       <trd>orang kafir</trd>,

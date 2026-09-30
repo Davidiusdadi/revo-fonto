@@ -144,6 +144,7 @@
     <trd>&c_z; ... <ind>&c_ch;&c_a;&c_s;&c_t;&c_a;&c_k;</ind></trd>
   </trdgrp>
   <trd lng="de">-teilig</trd>
+  <trd lng="en" fnt="AI: de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">-part</trd>
   <trd lng="pl">-krotny</trd>
 </drv>
 
@@ -186,6 +187,11 @@
     <trd>&c_ch;&c_a;&c_s;&c_t;&c_k;&c_o;&c_v;&c_a;</trd>
   </trdgrp>
   <trd lng="de">st&uuml;ckchenweise</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">bit by bit</trd>,
+    <trd fnt="AI: de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">piecemeal</trd>,
+    <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">little by little</trd>
+  </trdgrp>
   <trdgrp lng="pl">
     <trd>po trochu</trd>,
     <trd>cz&eogonek;&sacute;ciowo</trd>

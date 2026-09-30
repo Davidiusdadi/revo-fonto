@@ -301,6 +301,10 @@
       <trd>Anzeichen</trd>,
       <trd>Manifestation</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">manifestation</trd>,
+      <trd fnt="AI: de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sign</trd>
+    </trdgrp>
   </snc>
   <trd lng="be"> &c_v;&c_ib;&c_d;&c_a;&c_v;&c_o;&c_ch;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol; <klr>(&c_n;&c_je;&c_sh;&c_t;&c_a;)</klr></trd>
   <trd lng="fr">&eacute;vidence</trd>
@@ -416,6 +420,11 @@
     <trd>offenbaren</trd>,
     <trd>aufzeigen</trd>,
     <trd>zeigen <klr>(offenbaren)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">reveal</trd>,
+    <trd fnt="AI: de pl fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">demonstrate</trd>,
+    <trd fnt="AI: de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">show</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>montrer avec &eacute;vidence</trd>,

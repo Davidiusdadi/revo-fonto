@@ -267,6 +267,10 @@
     <trd>&c_d;&c_z;&c_je;&c_j;&c_n;&c_ib;&c_ch;&c_a;&c_c;&c_mol; &c_z; <ind>&c_e;&c_n;&c_t;&c_u;&c_z;&c_ib;&c_ja;&c_z;&c_m;&c_a;&c_m;</ind></trd>
   </trdgrp>
   <trd lng="de"><ind>begeistert</ind> sein</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">enthuse</trd>,
+    <trd fnt="AI: de fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">be enthusiastic</trd>
+  </trdgrp>
   <trd lng="fr">&ecirc;tre <ind>enthousiaste</ind></trd>
   <trdgrp lng="ja">
     <trd>&#x71B1;&#x72C2;&#12375;&#12390;&#12356;&#x308B;  <pr>&#x306D;&#12387;&#x304D;&#12423;&#12358;&#12375;&#12390;&#12356;&#x308B;</pr></trd>,
@@ -397,6 +401,7 @@
     <trd>&c_n;&c_a;&c_h;&c_n;&c_ja;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
   <trd lng="de">sich <ind>begeistern</ind></trd>
+  <trd lng="en" fnt="AI: de fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">become enthusiastic</trd>
   <trd lng="fr">s'<ind>enthousiasmer</ind></trd>
   <trdgrp lng="ja">
     <trd>&#x71B1;&#x72C2;&#12377;&#x308B;  <pr>&#x306D;&#12387;&#x304D;&#12423;&#12358;&#12377;&#x308B;</pr></trd>,

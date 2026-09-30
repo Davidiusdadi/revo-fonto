@@ -234,6 +234,10 @@
   <trd lng="bo">&#3906;&#4018;&#3954;&#3906;&#3851;</trd>
   <trd lng="cs">blahobytn&yacute;</trd>
   <trd lng="de">wohlauf</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">well</trd>,
+    <trd fnt="AI: pl id ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">healthy</trd>
+  </trdgrp>
   <trd lng="fr">en bonne sant&eacute;</trd>
   <trd lng="he">&mem;&resh;&#8503;&yod;&shin; &tet;&vav;&bet;</trd>
   <trdgrp lng="id">
@@ -403,6 +407,10 @@
   <ind>&c_p;&c_a;&c_ch;&c_u;&c_v;&c_a;&c_c;&c_c;&c_a;</ind></trd>
   <trd lng="cs">m&iacute;t se dob&rcaron;e</trd>
   <trd lng="de">gut <ind>gehen</ind></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de pl cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">be well</trd>,
+    <trd fnt="AI: ref cs; proponis claude-opus-5-5; kontrolis claude-opus-5-5">fare well</trd>
+  </trdgrp>
   <trd lng="he">&lamed;&he;&resh;&#8503;&yod;&shin; &tet;&vav;&bet;</trd>
   <trdgrp lng="id">
     <trd><baz>sehat</baz>menyehat</trd>,
