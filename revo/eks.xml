@@ -14,6 +14,7 @@
     <dif>
       Iama, estinta kaj ne plu estanta.
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Former; having existed but no longer existing.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ehemalig, gewesen und nicht mehr bestehend.</dif>
     <subsnc mrk="eks.0.ofico">
       <dif>
@@ -58,6 +59,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Having left a profession or occupation.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der einen Beruf oder eine Besch&auml;ftigung aufgegeben hat.</dif>
       <trdgrp lng="ca">
         <trd>ex-</trd>,
@@ -107,6 +109,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Having left a state.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Der einen Stand aufgegeben hat.</dif>
     </subsnc>
     <subsnc mrk="eks.0.kastro">
@@ -138,6 +141,7 @@
           <trd lng="vo">jojevod</trd>
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A castrated animal.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Kastriertes Tier.</dif>
       <rim>
         Tiu &ccirc;i atribuo de la senco &leftquot;kastrita&rightquot; al la prefikso
@@ -333,6 +337,7 @@
           (hivatal&aacute;b&oacute;l)</klr></trd>
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(someone) To deprive them of an office, function, post, rank or membership.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(jemanden) eines Amtes, einer Funktion, eines Postens, eines Ranges oder einer Mitgliedschaft entheben.</dif>
       <refgrp tip="sub">
         <ref cel="dung.mal0i">maldungi</ref>,
@@ -374,6 +379,7 @@
             <bib>Monato</bib> <lok>2022/04, p. 3</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(a collective body) To remove all the members of a parliament or another collective body in order to enable the election or appointment of its new membership.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(ein Kollektivorgan) Alle Mitglieder eines Parlaments oder eines anderen Kollektivorgans ihres Amtes entheben, um die Wahl oder Ernennung neuer Mitglieder zu erm&ouml;glichen.</dif>
       <ref tip="vid" cel="fond.mal0i.POL">malfondi</ref>
       <trd lng="ca">dissoldre<klr tip="amb"> (un parlament, etc.)</klr></trd>
@@ -394,6 +400,7 @@
           <fnt><bib>EE</bib>, <lok>&ccirc;apitro 7a</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(something) To make it obsolete or no longer used.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(etwas) zu etwas Ehemaligem, nicht mehr Gebrauchtem machen.</dif>
       <refgrp tip="sin">
         <ref cel="for.0igi">forigi</ref>,
@@ -494,6 +501,7 @@
           <fnt><bib>ElektFab</bib> <lok>Kamarado Gaja</lok></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Removal from a previous function.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Enthebung aus der bisherigen Funktion.</dif>
       <trdgrp lng="be">
         <trd>&c_z;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_je;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -544,6 +552,7 @@
             <bib>LOdE</bib></fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The act of dissolving a collective body.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Aufl&ouml;sen eines Kollektivorgans.</dif>
       <trd lng="be">&c_r;&c_o;&c_s;&c_p;&c_u;&c_s;&c_k; <klr
       tip="amb">(&c_a;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_c;&c_y;&c_ib;,
@@ -607,6 +616,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To leave one's office, function, post, rank or membership voluntarily or involuntarily.</dif>
       <refgrp tip="super">
         <ref cel="rezign.0i">rezigni</ref>,
         <ref cel="las.for0i">forlasi</ref>
