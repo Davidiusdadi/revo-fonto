@@ -305,6 +305,10 @@
     <trd>&c_l;&c_ib;&c_sh;&c_n;&c_ib;</trd>
   </trdgrp>
   <trd lng="de">den <ind>gering</ind>sten</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: be ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">additional</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">slight</trd>
+  </trdgrp>
   <trd lng="nl">enig</trd>
 </drv>
 

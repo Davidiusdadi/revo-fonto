@@ -123,6 +123,11 @@
      <trd>-<ind>schaft</ind></trd>,
      <trd>-<ind>t&auml;t</ind></trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">-ness</trd>,
+    <trd fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">-ity</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">-hood</trd>
+  </trdgrp>
   <trdgrp lng="fr">
     <trd>-esse</trd>,
     <trd>-itude</trd>
@@ -303,6 +308,7 @@
     <trd>&c_h;&c_a;&c_r;&c_a;&c_k;&c_t;&c_e;&c_r;&c_n;&c_y;</trd>
   </trdgrp>
   <trd lng="de">-<ind>artig</ind></trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">-like</trd>
   <trd lng="fr">qualitatif</trd>
   <trd lng="id">kualitatif</trd>
   <trd lng="ja">&#24615;&#x8CEA;&#x306E;  <pr>&#x305B;&#12356;&#12375;&#12388;&#x306E;</pr></trd>
@@ -357,6 +363,10 @@
     <trd>Profil <klr>(Eigenschaften)</klr></trd>,
     <trd>Charakter</trd>,
     <trd>Naturell</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">character</trd>,
+    <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">nature</trd>
   </trdgrp>
   <trd lng="id">karakteristik</trd>
   <trdgrp lng="ja">

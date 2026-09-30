@@ -64,6 +64,7 @@
         <trd>gleichm&auml;&szlig;ig</trd>,
         <trd>gleichf&ouml;rmig</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: de pl pt ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">steady</trd>
       <trdgrp lng="pl">
         <trd>taki sam</trd>,
         <trd>r&oacute;wny</trd>
@@ -99,6 +100,7 @@
         </ekz>
       </dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Die gleichen Eigenschaften aufweisend und daher keinen Grund bietend, bevorzugt zu werden, d. h. gleichg&uuml;ltig.</dif>
+      <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">indifferent</trd>
       <trdgrp lng="pl">
         <trd>jednaki</trd>,
         <trd>jednakowy</trd>
@@ -206,6 +208,7 @@
         <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">kongruent</trd>,
         <trd fnt="AI: pl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">deckungsgleich</trd>
       </trdgrp>
+      <trd lng="en" fnt="AI: pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">congruent</trd>
       <trd lng="pl"><klr tip="amb">(figura)
         </klr>przystaj&aogonek;ca</trd>
     </subsnc>
@@ -586,6 +589,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Verschieden, nicht gleich.</dif>
+  <trd lng="en" fnt="AI: ref id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">different</trd>
   <trdgrp lng="id">
     <trd>beda</trd>,
     <trd>lain</trd>,

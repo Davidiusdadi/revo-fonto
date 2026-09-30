@@ -800,6 +800,7 @@
     <trd>&c_d;&c_a;&c_l;&c_je;&c_j;&c_sh;&c_a;&c_je; <ind>&c_w;&c_z;&c_mol;&c_d;&c_z;&c_je;&c_ja;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   </trdgrp>
   <trd lng="de">Nachwirkung</trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">aftereffect</trd>
   <trd lng="es">efecto secundario</trd>
   <trd lng="fr">effet secondaire</trd>
   <trdgrp lng="id">
@@ -912,6 +913,7 @@
   </snc>
   <trd lng="be">&c_e;&c_f;&c_e;&c_k;&c_t; &c_p;&c_l;&c_ja;&c_c;&c_e;&c_b;&c_a;</trd>
   <trd lng="de">Placeboeffekt</trd>
+  <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">placebo effect</trd>
   <trd lng="fr">effet placebo</trd>
   <trd lng="id"><ind>efek</ind> plasebo</trd>
   <trd lng="pl">efekt placebo</trd>
@@ -931,6 +933,7 @@
     <trd>Bewegungsursache</trd>,
     <trd>Wirkursache</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: fr lat de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">efficient cause</trd>
   <trd lng="fr">cause efficiente</trd>
   <trdgrp lng="hu">
     <trd>hat&oacute;ok</trd>,

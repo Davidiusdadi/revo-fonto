@@ -59,6 +59,7 @@
           ref="&WCW;/File:Ephemera_guttulata.jpg">&WCW;/File:Ephemera_guttulata.jpg</url></lok>
         </fnt>
     </bld>
+    <trd lng="en" kod="FAK" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Ephemera <klr>(jargon)</klr></trd>
   </snc>
   <ref tip="hom" cel="efemer.0o">efemero (neda&ubreve;reco)</ref>
   <trdgrp lng="be">
@@ -110,6 +111,7 @@
       kies anoj vivas en matura stato nur plurajn horojn.
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ordnung aus der Klasse der Insekten (Ephemeroptera), deren Angeh&ouml;rige im erwachsenen Zustand nur wenige Stunden leben.</dif>
+    <trd lng="en" kod="FAK" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Ephemeroptera <klr>(jargon)</klr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_w;&c_s;&c_ja;&c_n;&c_ib;&c_k;&c_ib; <klr>(&c_a;&c_t;&c_r;&c_a;&c_d; &c_k;&c_a;&c_z;&c_u;&c_r;&c_a;&c_k;)</klr></trd>,
@@ -117,6 +119,7 @@
   </trdgrp>
   <trd lng="ca">efemer&ograve;pters</trd>
   <trd lng="de">Eintagsfliegen<klr tip="ind"> (Ordnung)</klr></trd>
+  <trd lng="en" fnt="AI: de fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">mayflies</trd>
   <trd lng="fr">&eacute;ph&eacute;m&eacute;ropt&egrave;res</trd>
   <trd lng="hu">k&eacute;r&eacute;szek<klr tip="ind"> (rend)</klr></trd>
   <trd lng="nl">eendagsvliegen<klr tip="ind"> (orde)</klr></trd>
