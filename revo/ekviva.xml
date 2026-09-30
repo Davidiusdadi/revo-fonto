@@ -300,6 +300,10 @@
     <trd>&c_a;&c_d;&c_p;&c_a;&c_v;&c_ja;&c_d;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="de">entsprechen</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be equivalent</trd>,
+    <trd fnt="AI: de pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">correspond</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>equivaler</trd>
     <trd>ser equivalente</trd>

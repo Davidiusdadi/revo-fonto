@@ -906,6 +906,10 @@
       <trd>&c_p;&c_r;&c_a;&c_k;&c_ib;&c_n;&c_u;&c_c;&c_c;&c_a;</trd>
     </trdgrp>
     <trd lng="de">herauskommen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">emerge</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">come out</trd>
+    </trdgrp>
   </snc>
 </drv>
 <drv mrk="ekster.0ulo">
@@ -963,6 +967,7 @@
       <trd>Heimschl&auml;fer</trd>,
       <trd>Externer</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr ca dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">day pupil</trd>
     <trd lng="fr">externe<klr tip="ind"> (subst.)</klr></trd>
     <trdgrp lng="pl">
       <trd>ekstern</trd>,
@@ -1076,6 +1081,7 @@
   </trdgrp>
   <trd lng="ca">extra- <klr>(fora)</klr></trd>
   <trd lng="de" fnt="AI: ca be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">au&szlig;er-</trd>
+  <trd lng="en" fnt="AI: ca be ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">extra-</trd>
 </drv>
 </subart>
 </art>

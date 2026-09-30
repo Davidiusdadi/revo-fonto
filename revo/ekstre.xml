@@ -396,6 +396,10 @@
     <trd>&c_l;&c_ib;&c_m;&c_ib;&c_t;</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ende</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">extremity <klr>(formal)</klr></trd>,
+    <trd fnt="AI: ref be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">end</trd>
+  </trdgrp>
   <trdgrp lng="id">
     <trd>ujung</trd>,
     <trd>puncak</trd>
@@ -514,6 +518,10 @@
     <trd>Spitze</trd>,
     <trd>Ende</trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr es; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">extremity <klr>(formal)</klr></trd>,
+    <trd fnt="AI: de hu ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">end</trd>
+  </trdgrp>
   <trd lng="es">extremo</trd>
   <trd lng="fr">extr&eacute;mit&eacute;</trd>
   <trd lng="he">&#x5E7;&#x5B8;&#x5E6;&#x5B6;&#x5D4;</trd>
@@ -581,6 +589,7 @@
     <trd>&Auml;u&szlig;erstes</trd>,
     <trd>Extrem</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">extremity <klr>(formal)</klr></trd>
   <trd lng="fr">extr&ecirc;me<klr tip="ind"> (subst.)</klr></trd>
   <trd lng="he">&#x5E7;&#x5B8;&#x5E6;&#x5B6;&#x5D4;</trd>
   <trdgrp lng="hu">
@@ -754,6 +763,7 @@
     <trd fnt="AI: ref hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Extremstelle</trd>,
     <trd fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Extremalstelle</trd>
   </trdgrp>
+  <trd lng="en" kod="FAK" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">position of an extremum <klr>(jargon)</klr></trd>
   <trd lng="hu">sz&eacute;ls&odblac;&eacute;rt&eacute;khely</trd>
   <trd lng="id">titik ekstrem</trd>
   <trd lng="sk">bod lok&aacute;lneho extr&eacute;mu funkcie</trd>
