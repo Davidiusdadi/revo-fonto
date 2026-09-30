@@ -219,6 +219,7 @@
       <ref cel="part.0opreni">partopreni</ref>,
       <ref cel="opini.sam0i">samopinii</ref>
     </refgrp>
+    <trd lng="en" fnt="AI: ref hu id pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">share</trd>
     <trd lng="hu">megoszt</trd>
     <trdgrp lng="id">
       <trd><baz>bagi</baz>berbagi</trd>,
@@ -556,6 +557,10 @@
     <trd>Anteil</trd>,
     <trd>Einheit <klr>(Teil)</klr></trd>
   </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">part</trd>,
+    <trd fnt="AI: ref fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">portion</trd>
+  </trdgrp>
   <trd lng="es">divisi&oacute;nr</trd>
   <trdgrp lng="fr">
     <trd>fraction<klr tip="ind"> (part)</klr></trd>,
@@ -602,6 +607,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der teilt</dif>
+    <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">divider</trd>
     <trd lng="pl">dziel&aogonek;cy</trd>
   </snc>
   <snc mrk="divid.0anto.MAT">
@@ -808,6 +814,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Trennen, absondern</dif>
   <trd lng="de" fnt="AI: id ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spalten</trd>
+  <trd lng="en" fnt="AI: ref id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">separate</trd>
   <trdgrp lng="id">
     <trd><baz>pecah belah</baz>memecah belah</trd>,
     <trd><baz>belah</baz>membelah-belah</trd>,

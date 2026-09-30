@@ -111,6 +111,7 @@
       <ref cel="averi.0o">averio</ref>
     </refgrp>
   <trd lng="de" fnt="AI: ref en id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Schaden</trd>
+  <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">damage</trd>
   <trdgrp lng="id">
     <trd><baz>rusak</baz>kerusakan</trd>,
     <trd><baz>rugi</baz>kerugian</trd>
@@ -397,6 +398,11 @@
       <trd><klr>(jemanden)</klr> bedauern</trd>,
       <trd><ind>R&uuml;cksicht</ind> nehmen</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">pity</trd>,
+      <trd fnt="AI: ref de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">spare</trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">have mercy on</trd>
+    </trdgrp>
     <trd lng="es">ser cuidadoso con</trd>
     <trd lng="fr">m&eacute;nager</trd>
     <trdgrp lng="id">
@@ -422,6 +428,10 @@
     <trdgrp lng="de">
       <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sch&auml;digen</trd>,
       <trd fnt="AI: ref id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">besch&auml;digen</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: ref id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">damage</trd>,
+      <trd fnt="AI: ref id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">harm</trd>
     </trdgrp>
     <trd lng="es"><klr>(evitar usar en el sentido de
     da&ntilde;ar)</klr></trd>

@@ -361,6 +361,7 @@
     <trd>rozr&uring;znit</trd>
   </trdgrp>
   <trd lng="de">ausdifferenzieren</trd>
+  <trd lng="en" fnt="AI: de es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">diversify</trd>
   <trd lng="es">diversificar</trd>
   <trd lng="fr">diversifier</trd>
   <trd lng="he">&lamed;&gimel;&vav;&vav;&fnun;</trd>
@@ -427,6 +428,7 @@
     <trd>&c_d;&c_y;&c_v;&c_e;&c_r;&c_s;&c_ib;&c_f;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_c;&c_a;</trd>
   </trdgrp>
   <trd lng="de">sich <ind>ausdifferenzieren</ind></trd>
+<trd lng="en" fnt="AI: de be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">diversify</trd>
 <trd lng="id"><baz>ragam</baz>beragam</trd>
 </drv>
 
@@ -461,6 +463,11 @@
     <trd>&c_a;&c_d;&c_n;&c_o;&c_l;&c_mol;&c_k;&c_a;&c_v;&c_y;</trd>
   </trdgrp>
   <trd lng="de">einheitlich</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de es ro ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">uniform</trd>,
+    <trd fnt="AI: es pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">monotonous</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unvaried</trd>
+  </trdgrp>
   <trdgrp lng="es">
     <trd>uniforme<klr> (sin variedad)</klr></trd>,
     <trd>mon&oacute;tono</trd>,

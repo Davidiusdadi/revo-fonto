@@ -781,6 +781,7 @@
     <trd>&c_v;&c_y;&c_sh;&c_y;&c_n;&c_n;&c_y; <ind>&c_b;&c_u;&c_d;&c_y;&c_n;&c_a;&c_k;</ind></trd>
   </trdgrp>
   <trd lng="de">Hochhaus</trd>
+  <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">high-rise</trd>
   <trdgrp lng="id">
     <trd>gedung tinggi</trd>,
     <trd>menara (gedung)</trd>,
@@ -1023,6 +1024,7 @@
     <trd>Wohnblock</trd>,
     <trd>Mietskaserne</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">block of flats <klr>(British)</klr></trd>
   <trd lng="fr">barre d'immeuble</trd>
   <trdgrp lng="id">
     <trd>rumah susun</trd>,
@@ -1329,6 +1331,7 @@
   <trd lng="be">&c_d;&c_o;&c_m; &c_u; &c_sh;&c_a;&c_r;&c_a;&c_g;&c_o;&c_v;&c_a;&c_j;
   &c_z;&c_a;&c_b;&c_u;&c_d;&c_o;&c_v;&c_je;</trd>
   <trd lng="de">Reihenhaus</trd>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">terraced house <klr>(British)</klr></trd>
   <trd lng="fr">maison en bande</trd>
   <trdgrp lng="id">
     <trd>rumah sambung</trd>,
