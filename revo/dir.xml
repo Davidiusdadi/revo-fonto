@@ -540,6 +540,7 @@
       <trd>Aussage</trd>,
       <trd>Ausdruck</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">statement</trd>
     <trdgrp lng="id">
       <trd>kata</trd>,
       <trd><baz>kata</baz>perkataan</trd>,
@@ -651,6 +652,7 @@
       <trd>Ger&uuml;cht</trd>,
       <trd>Rede <klr>(Ger&uuml;cht)</klr></trd>
     </trdgrp>
+  <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">rumour</trd>
   <trdgrp lng="id">
     <trd>desas-desus</trd>,
     <trd>isu</trd>,
@@ -1187,6 +1189,11 @@
       <trd>&Auml;u&szlig;erung</trd>,
       <trd>Bemerkung</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">statement</trd>,
+      <trd fnt="AI: de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">remark</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">assertion</trd>
+    </trdgrp>
     <trd lng="ru">&c_v;&c_y;&c_s;&c_k;&c_a;&c_z;&c_y;&c_v;&c_a;&c_n;&c_i;&c_je;</trd>
   </snc>
   <snc mrk="dir.el0o.LIN">
@@ -1253,6 +1260,10 @@
       <trd>um die <ind>Wahrheit</ind> zu sagen</trd>,
       <trd>um <ind>genau</ind> zu sein</trd>,
       <trd><ind>genauer</ind> gesagt</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">more precisely</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">or rather</trd>
     </trdgrp>
     <trdgrp lng="zh">
     <trd>&#x8AAA;&#x5BE6;&#x5728;&#x7684; <pr>shu&omacron;sh&iacute;z&agrave;ide</pr></trd>,
@@ -1396,6 +1407,7 @@
        <ref cel="protes.0o">protesto</ref>
     </refgrp>
     <trd lng="de">Einspruch</trd>
+  <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">objection</trd>
   <trdgrp lng="id">
     <trd>bantahan</trd>,
     <trd>sanggahan</trd>,
@@ -1970,6 +1982,7 @@
     <trd lng="be">&c_a;&c_d;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol; <klr>(&c_n;&c_a;
     &c_s;&c_l;&c_o;&c_v;&c_y;)</klr></trd>
     <trd lng="de">erwidern</trd>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">reply</trd>
     <trdgrp lng="id">
      <trd>bantah</trd>,
      <trd><baz>bantah</baz>membantah</trd>,

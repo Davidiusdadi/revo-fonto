@@ -41,6 +41,7 @@
     <trd>Ambulanz f&uuml;r Unbemittelte</trd>,
     <trd>Armenapotheke</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr it nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dispensary</trd>
   <trd lng="fr">dispensaire</trd>
   <trdgrp lng="it">
     <trd>ambulatorio</trd>,

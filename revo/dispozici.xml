@@ -67,6 +67,10 @@
       <trd>Veranlagung</trd>,
       <trd>Neigung <klr>(Med.)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ca es fr pl pt ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">predisposition</trd>,
+      <trd kod="FAK" fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">diathesis <klr>(jargon)</klr></trd>
+    </trdgrp>
     <trd lng="es">predisposici&oacute;n</trd>
     <trd lng="fr">pr&eacute;disposition</trd>
     <trd lng="pl">predyspozycja</trd>
@@ -183,6 +187,10 @@
       dis<ref cel="met.0i.loki">meti</ref>
     </refgrp>
     <trd lng="de">Verteilung <klr>(im Raum)</klr></trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">arrangement</trd>,
+      <trd fnt="AI: de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">distribution</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>dispozice</trd>,

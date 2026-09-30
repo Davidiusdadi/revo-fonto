@@ -115,6 +115,7 @@
     <trd>auseinander-</trd>,
     <trd>zer-</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de id pt dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dis-</trd>
   <trdgrp lng="id">
     <trd>dis-</trd>,
     <trd>des-</trd>
@@ -166,6 +167,10 @@
     <trdgrp lng="de">
       <trd>auseinander</trd>,
       <trd>getrennt</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">scattered</trd>,
+      <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dispersed</trd>
     </trdgrp>
     <trdgrp lng="fr">
       <trd>dispers&eacute;</trd>,
@@ -318,6 +323,11 @@
   <trdgrp lng="cs">
     <trd>rozptyl</trd>,
     <trd>rozpt&yacute;lenost</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">separation</trd>,
+    <trd fnt="AI: de fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">division</trd>,
+    <trd fnt="AI: fr cs dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dispersion</trd>
   </trdgrp>
   <trdgrp lng="fr">
     <trd>dispersion</trd>,

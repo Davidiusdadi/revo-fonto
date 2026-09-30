@@ -402,6 +402,10 @@
       <trd>heraushebend</trd>,
       <trd>unterscheidend</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de id ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">distinctive</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">distinguishing</trd>
+    </trdgrp>
     <trdgrp lng="id">
       <trd><baz>beda</baz>membedakan (adj.)</trd>,
       <trd>distingtif</trd>
@@ -587,6 +591,10 @@
       <ref cel="sign.0i">signi</ref>
     </refgrp>
     <trd lng="de">auszeichnen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr pl ru ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">distinguish</trd>,
+      <trd fnt="AI: pl ru ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">set apart</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>distinguer<klr tip="ind"> (caract&eacute;riser)</klr></trd>,
       <trd>caract&eacute;riser</trd>
@@ -632,6 +640,7 @@
       </ekz>
     </dif>
     <trd lng="de">sich <ind>unterscheiden</ind></trd>
+    <trd lng="en" fnt="AI: de fr id ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">differ</trd>
     <trd lng="fr">se <ind>distinguer</ind><klr tip="ind"> (se
     diff&eacute;rencier)</klr></trd>
     <trd lng="id"><baz>beda</baz>berbeda</trd>
@@ -671,6 +680,10 @@
       <ref cel="kontra8">kontrasti</ref>
     </refgrp>
     <trd lng="de">sich <ind>auszeichnen</ind></trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de id pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">stand out</trd>,
+      <trd fnt="AI: de fr ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">excel</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>se <ind>distinguer</ind><klr tip="ind">
       (s'illustrer)</klr></trd>,
@@ -699,6 +712,7 @@
       </ekz>
     </dif>
     <trd lng="de">sich <ind>abzeichnen</ind></trd>
+    <trd lng="en" fnt="AI: de pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">stand out</trd>
     <trdgrp lng="fr">
       <trd>se <ind>distinguer</ind><klr tip="ind">
       (appara&icirc;tre)</klr></trd>,
@@ -751,6 +765,10 @@
       <trd fnt="AI: ru fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">charakteristisch</trd>,
       <trd fnt="AI: fr; proponis claude-opus-5-5; kontrolis claude-opus-5-5">distinktiv <klr>(gehoben)</klr></trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: fr ru dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">distinctive</trd>,
+      <trd fnt="AI: be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">characteristic</trd>
+    </trdgrp>
     <trd lng="fr">distinctif</trd>
     <trdgrp lng="pl">
       <trd>odr&oacute;&zdot;nialny</trd>,
@@ -792,6 +810,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich als verschieden von den &uuml;brigen zeigend.</dif>
+    <trd lng="en" fnt="AI: fr pl ru ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">distinctive</trd>
     <trd lng="fr">distinctif</trd>
     <trd lng="id"><baz>beda</baz>berbeda</trd>
     <trdgrp lng="pl">
@@ -821,6 +840,10 @@
       <trd fnt="AI: ref pl ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hervorragend</trd>,
       <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">herausragend</trd>,
       <trd fnt="AI: ref ru; proponis claude-opus-5-5; kontrolis claude-opus-5-5">ausgezeichnet</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: id pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">outstanding</trd>,
+      <trd fnt="AI: ru ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">excellent</trd>
     </trdgrp>
     <trd lng="id"><baz>tonjol</baz>menonjol</trd>
     <trdgrp lng="pl">
@@ -1034,6 +1057,10 @@
       <ref cel="krem.0o">kremo</ref>
     </refgrp>
     <trd lng="de" fnt="AI: ja ru dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">W&uuml;rdentr&auml;ger</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: be ja ru ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">notable</trd>,
+      <trd fnt="AI: ja ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dignitary</trd>
+    </trdgrp>
     <trdgrp lng="pl">
       <trd><klr>cz&lstroke;owiek </klr>dystyngowany</trd>,
       <trd><klr>cz&lstroke;owiek </klr>odznaczony</trd>,

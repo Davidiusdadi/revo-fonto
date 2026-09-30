@@ -230,6 +230,7 @@
       </ekz>
     </dif>
     <trd lng="de">Bezirksvorsteher</trd>
+    <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">district head</trd>
   </snc>
 <trdgrp lng="be">
   <trd>&c_g;&c_a;&c_l;&c_a;&c_v;&c_a; <ind>&c_r;&c_a;&c_jo;&c_n;&c_a;</ind></trd>,
@@ -297,6 +298,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gebiet, &uuml;ber dessen Angelegenheiten ein Gericht zu urteilen befugt ist; Gebiet seiner gerichtlichen Zust&auml;ndigkeit.</dif>
     <trd lng="de" fnt="AI: fr be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Gerichtsbezirk</trd>
+    <trd lng="en" fnt="AI: fr ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">judicial district</trd>
     <trd lng="fr">circonscription judiciaire</trd>
   </snc>
 <trd lng="be">&c_s;&c_u;&c_d;&c_o;&c_v;&c_a;&c_ja; <ind>&c_a;&c_k;&c_r;&c_u;&c_g;&c_a;</ind></trd>
@@ -325,6 +327,7 @@
     <trd>&c_p;&c_a;&c_d;&c_a;&c_k;&c_r;&c_u;&c_g;&c_a;</trd>
   </trdgrp>
   <trd lng="de">Kreis</trd>
+  <trd lng="en" fnt="AI: de fr ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">subdistrict</trd>
   <trd lng="fr">arrondissement</trd>
 </drv>
 </art>

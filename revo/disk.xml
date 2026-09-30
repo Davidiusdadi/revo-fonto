@@ -50,6 +50,7 @@
         </ekz>
       </dif>
       <trd lng="de">Diskus</trd>
+      <trd lng="en" fnt="AI: de nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">discus</trd>
       <trd lng="es">disco <klr>(volador)</klr></trd>
       <trd lng="hu">diszkosz</trd>
       <trd lng="nl">discus</trd>
@@ -410,6 +411,7 @@
   </snc>
   <trd lng="be">&c_d;&c_y;&c_s;&c_k; Bluray</trd>
   <trd lng="de" fnt="AI: fr id be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Blu-ray Disc</trd>
+  <trd lng="en" fnt="AI: be fr id dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Blu-ray Disc</trd>
   <trd lng="fr">disque <ind>blu-ray</ind></trd>
 <trd lng="id">cakram blu-ray</trd>
 </drv>

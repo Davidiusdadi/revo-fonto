@@ -116,6 +116,10 @@
     <trd>&c_m;&c_a;&c_r;&c_n;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>
   </trdgrp>
   <trd lng="de">Verschwendung</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">waste</trd>,
+    <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dissipation</trd>
+  </trdgrp>
   <trd lng="fr">dissipation</trd>
 </drv>
 </art>

@@ -169,6 +169,10 @@
     </dif>
     <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_mol;</trd>
     <trd lng="de">verstreuen</trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">scatter</trd>,
+      <trd fnt="AI: fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">disperse</trd>
+    </trdgrp>
     <trdgrp lng="fr">
       <trd>distraire<klr tip="ind"> (s&eacute;parer)</klr></trd>,
       <trd>&eacute;parpiller</trd>,
@@ -586,6 +590,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Sich trennen, auseinandergehen.</dif>
     <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_d;&c_z;&c_ja;&c_l;&c_ja;&c_c;&c_c;&c_a;</trd>
+    <trd lng="en" fnt="AI: fr pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">disperse</trd>
     <trdgrp lng="fr">
       <trd>s'<ind>&eacute;parpiller</ind></trd>,
       <trd>s'<ind>&eacute;gailler</ind></trd>,

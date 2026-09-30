@@ -331,6 +331,7 @@
     <trd fnt="AI: ref be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">streits&uuml;chtig</trd>,
     <trd fnt="AI: be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">z&auml;nkisch</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: ref be id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">quarrelsome</trd>
   <trdgrp lng="id">
     <trd>suka bertengkar</trd>,
     <trd>suka berantem</trd>,
@@ -388,6 +389,11 @@
   </snc>
   <trd lng="cs">nesporn&yacute;</trd>
   <trd lng="de">unbestreitbar</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref de pl cs sk uk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">indisputable</trd>,
+    <trd fnt="AI: ref de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">incontestable</trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unquestionable</trd>
+  </trdgrp>
   <trd lng="id">tidak terbantahkan</trd>
   <trd lng="ja">&#x8A00;&#12356;&#x4E89;&#12358;&#x4F59;&#22320;&#x306E;&#x306A;&#12356;
   <pr>&#12356;&#12356;&#12354;&#12425;&#x305D;&#12358;&#12424;&#12385;&#x306E;&#x306A;&#12356;</pr></trd>
@@ -440,6 +446,10 @@
   <trdgrp lng="de">
     <trd>erw&auml;gen</trd>,
     <trd>besprechen</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: ref fr pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">contest</trd>,
+    <trd fnt="AI: ref be ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dispute</trd>
   </trdgrp>
   <trd lng="fr">contester</trd>
   <trd lng="he">&#x5DC;&#x5D4;&#x5EA;&#x5D5;&#x5D5;&#x5DB;&#x5D7; &#x5E2;&#x5DC;</trd>
