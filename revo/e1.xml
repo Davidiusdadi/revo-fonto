@@ -22,12 +22,14 @@
         </fnt></ekz>,
       uzata i.a. kiel:
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The name of the sixth letter of the Esperanto alphabet, used, among other things, as follows.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Name des sechsten Buchstabens des Esperanto-Alphabets, unter anderem verwendet als.</dif>
     <subsnc>
        <uzo tip="fak">MUZ</uzo>
        <dif> (maj.) nomo de la tria tono de la C-ma&jcirc;ora gamo (330 Hz;
        absolut-solfe&gcirc;a mi): <ekz> <tld lit="E"/> bemola;</ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(capital) Name of the third note of the C major scale (330 Hz; mi in fixed-do solf&egrave;ge).</dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Name des dritten Tons der C-Dur-Tonleiter (330 Hz; in absoluter Solmisation mi).</dif>
        <trd lng="fr">mi</trd>
      </subsnc>
@@ -36,6 +38,7 @@
        <dif> (maj.) simbolo de oriento (eosto):
        <ekz><tld lit="E"/>;</ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(capital) Symbol for east.</dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Symbol f&uuml;r Osten.</dif>
        <trd lng="fr">est</trd>
      </subsnc>
@@ -43,6 +46,7 @@
        <uzo tip="fak">ESP</uzo>
        <dif> (maj.) mallongigo de Esperanto: <ekz><tld lit="E"/>;</ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(capital) Abbreviation for Esperanto.</dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(gro&szlig;) Abk&uuml;rzung f&uuml;r Esperanto.</dif>
        <trd lng="fr">Esp&eacute;ranto</trd>
      </subsnc>
@@ -51,6 +55,7 @@
        <dif> (min.) simbolo por la bazo de la naturaj logaritmoj: <ekz>
        <tld/> = 2,71828182... </ekz>
        </dif>
+       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(lower case) Symbol for the base of the natural logarithms.</dif>
        <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(klein) Symbol f&uuml;r die Basis der nat&uuml;rlichen Logarithmen.</dif>
        <trd lng="fr">logarithme naturel</trd>
     </subsnc>
