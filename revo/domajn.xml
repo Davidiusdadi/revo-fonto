@@ -42,6 +42,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(In a system of network names) a common name component indicating a service, institution or network region; the set of all network nodes reachable under that common name.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(In einem System von Netznamen) gemeinsamer Namensteil, der einen Dienst, eine Institution oder eine Netzregion bezeichnet; die Gesamtheit der unter diesem gemeinsamen Namen erreichbaren Netzknoten</dif>
     <refgrp tip="vid">
        <ref cel="adres.ret0o">retadreso</ref>,
@@ -84,6 +85,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A field of activity, influence or control.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bereich des Wirkens, des Einflusses, der Herrschaft</dif>
     <refgrp tip="vid">
       <ref cel="brancx.0o.FIG">bran&ccirc;o<sncref/></ref>,
@@ -112,6 +114,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">For a mapping, the largest subset of the source set on whose elements the mapping is defined.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bei einer Abbildung die gr&ouml;&szlig;te Teilmenge der Ausgangsmenge, auf deren Elementen die Abbildung definiert ist</dif>
     </subsnc>
     <subsnc mrk="domajn.0o.rilato">
@@ -119,6 +122,7 @@
         Por duloka rilato <frm am="RsubeAxxB">R&#8838;A&#215;B</frm>, la
         aro <frm am="{x in A: (EEy in B)[(x,y)in R]}">{x&#8712;A : (&#8707;y&#8712;B)[(x,y)&#8712;R]}</frm>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">For a binary relation R&#x2286;A&#x00D7;B, the set {x&#x2208;A : (&#x2203;y&#x2208;B)[(x,y)&#x2208;R]}.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;r eine zweistellige Relation R&#x2286;A&#x00D7;B die Menge {x&#x2208;A : (&#x2203;y&#x2208;B)[(x,y)&#x2208;R]}</dif>
     </subsnc>
     <subsnc mrk="domajn.0o.algoritmo">
@@ -127,6 +131,7 @@
         &leftquot;<ref cel="konver.0i.KOMP">konver&gcirc;ejo</ref>&rightquot;,&nbsp;&nbsp;
         <frm am="bb &quot;dom &quot; A={x: A(x)darr}"><g>dom</g>&nbsp;A={x: A(x)&#8595;}</frm>.
       </dif>
+      <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">For an algorithm A, its &#x2018;convergence set&#x2019;, dom A={x: A(x)&#x2193;}.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;r einen Algorithmus A dessen &leftquot;Konvergenzbereich&rightquot;, dom A={x: A(x)&#x2193;}</dif>
    </subsnc>
     <trdgrp lng="de">
