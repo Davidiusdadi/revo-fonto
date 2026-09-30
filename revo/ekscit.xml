@@ -192,6 +192,7 @@
        <ref cel="flam.0igi">flamigi</ref>
     </refgrp>
     <trd lng="de">entfachen</trd>
+    <trd lng="en" fnt="AI: de pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">stoke</trd>
     <trdgrp lng="id">
       <trd><baz>nyala</baz>menyalakan</trd>,
       <trd><baz>kobar</baz>mengobarkan</trd>
@@ -439,6 +440,10 @@
   </trdgrp>
   <trd lng="ca">excitar-se</trd>
   <trd lng="de">sich <ind>erregen</ind></trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de fr es ca; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">become excited</trd>,
+    <trd fnt="AI: de fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">get excited</trd>
+  </trdgrp>
   <trd lng="es">excitarse</trd>
   <trd lng="fr">s'<ind>exciter</ind></trd>
   <trd lng="he">&lamed;&he;&tav;&resh;&gimel;&shin;</trd>
@@ -562,6 +567,7 @@
     <trd>&c_u;&c_z;&c_r;&c_u;&c_sh;&c_l;&c_ib;&c_v;&c_y;</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: be ja id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">erregbar</trd>
+  <trd lng="en" fnt="AI: be fr ja dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">excitable</trd>
   <trd lng="fr">soupe au lait<klr> (adj.)</klr></trd>
   <trd lng="id">mudah bersemangat</trd>
   <trd lng="ja">&#33288;&#x596E;&#12375;&#12420;&#12377;&#12356;  <pr>&#12371;&#12358;&#12405;&#12435;&#12375;&#12420;&#12377;&#12356;</pr></trd>

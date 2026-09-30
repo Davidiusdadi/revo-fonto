@@ -216,6 +216,7 @@
     <trd>abschirmen</trd>,
     <trd>schirmen</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">shield</trd>
   <trd lng="fr">faire <ind>&eacute;cran</ind></trd>
   <trd lng="he">&lamed;&mem;&samekh;&fkaf;</trd>
   <trdgrp lng="hu">
@@ -290,6 +291,7 @@
          <trd fnt="AI: ru be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Wandschirm</trd>,
          <trd fnt="AI: hu ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">spanische Wand</trd>
        </trdgrp>
+       <trd lng="en" fnt="AI: fr hu pl ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">folding screen</trd>
        <trd lng="es">gran pantalla</trd>
     <trd lng="fr">paravent</trd>
     <trdgrp lng="hu">
@@ -335,6 +337,7 @@
     <trd>&c_e;&c_k;&c_r;&c_a;&c_n; &c_z; &c_e;&c_l;&c_je;&c_k;&c_t;&c_r;&c_o;&c_n;&c_n;&c_a;-&c_p;&c_r;&c_a;&c_m;&c_ja;&c_n;&c_jo;&c_v;&c_a;&c_j; &c_t;&c_r;&c_u;&c_b;&c_k;&c_a;&c_j;</trd>
   </trdgrp>
   <trd lng="de">Kathodenstrahlbildschirm</trd>
+  <trd lng="en" fnt="AI: de es fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">CRT display</trd>
   <trd lng="es">monitor de tubos de rayos cat&oacute;dicos</trd>
   <trd lng="fr">&eacute;cran &agrave; tube cathodique</trd>
   <trdgrp lng="pl">
@@ -432,6 +435,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bildschirm, in dem elektrische Impulse Gaszellen in Plasma verwandeln und zum Leuchten bringen.</dif>
     <trd lng="be">&c_p;&c_l;&c_ja;&c_z;&c_m;&c_a;&c_v;&c_y; <ind>&c_e;&c_k;&c_r;&c_a;&c_n;</ind></trd>
+    <trdgrp lng="en">
+      <trd fnt="AI: de es fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">plasma display</trd>,
+      <trd fnt="AI: de es fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">plasma screen</trd>
+    </trdgrp>
     <trd lng="es">pantalla de plasma</trd>
     <trd lng="fr">&eacute;cran &agrave; plasma</trd>
     <trdgrp lng="pl">

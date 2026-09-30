@@ -184,6 +184,7 @@
     <trdgrp lng="de">
       <trd>Sendung</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de ca hu nl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">shipment</trd>
     <trd lng="hu">k&uuml;ldem&eacute;ny</trd>
     <trd lng="nl">zending</trd>
   </snc>
@@ -251,6 +252,7 @@
     <trd>Versandb&uuml;ro</trd>,
     <trd>Expeditionsb&uuml;ro</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de be uk; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">dispatch office</trd>
   <trdgrp lng="pl">
     <trd>ekspedycja</trd>,
     <trd>wysy&lstroke;ka</trd>
@@ -282,6 +284,7 @@
   </snc>
   <trd lng="be">&c_e;&c_k;&c_s;&c_p;&c_e;&c_d;&c_y;&c_t;&c_a;&c_r;</trd>
   <trd lng="de" fnt="AI: pl uk fr ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Spediteur</trd>
+  <trd lng="en" fnt="AI: pl ja dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dispatcher</trd>
   <trdgrp lng="fr">
     <trd>entreprise d'exp&eacute;dition</trd>,
     <trd>entreprise de routage</trd>

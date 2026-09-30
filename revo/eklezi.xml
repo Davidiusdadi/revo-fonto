@@ -124,6 +124,7 @@
       <trd fnt="AI: ref pl id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Klerus</trd>,
       <trd fnt="AI: ref pl; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Geistlichkeit</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: ref pl id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">clergy</trd>
     <trdgrp lng="id">
       <trd>klerus</trd>,
       <trd>imamat</trd>

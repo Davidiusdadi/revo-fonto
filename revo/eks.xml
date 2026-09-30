@@ -347,6 +347,10 @@
         <trd>despatxar</trd>,
         <trd>destituir</trd>
       </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dismiss</trd>,
+        <trd fnt="AI: de es fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">remove</trd>
+      </trdgrp>
       <trdgrp lng="ru">
         <trd>&c_u;&c_v;&c_o;&c_l;&c_i;&c_t;&c_mol; &c_v;
         &c_o;&c_t;&c_s;&c_t;&c_a;&c_v;&c_k;&c_u;</trd>,
@@ -395,6 +399,7 @@
         <ref cel="for.0igi">forigi</ref>,
         <ref cel="nul0.0igi.KOMUNE">nuligi<sncref/></ref>
       </refgrp>
+      <trd lng="en" fnt="AI: dif ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">discontinue</trd>
       <trd lng="ru">&c_o;&c_t;&c_m;&c_je;&c_n;&c_i;&c_t;&c_mol;</trd>
     </snc>
     <trdgrp lng="be">
@@ -502,6 +507,10 @@
       <trdgrp lng="de">
          <trd>Entlassung</trd>,
          <trd>K&uuml;ndigung</trd>
+      </trdgrp>
+      <trdgrp lng="en">
+        <trd fnt="AI: de ca fr pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dismissal</trd>,
+        <trd fnt="AI: de ca pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">removal</trd>
       </trdgrp>
       <trdgrp lng="pl">
         <trd>zwolnienie</trd>,
@@ -745,6 +754,7 @@
        <trd>entlassen</trd>,
        <trd>k&uuml;ndigen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de es ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dismiss</trd>
     <trd lng="es">despedir<klr> (dejar sin trabajo)</klr></trd>
     <trd lng="pl">przep&eogonek;dzi&cacute; z <ind>urz&eogonek;du</ind></trd>
     <trd lng="sk">vyhodi&tcaron; z pr&aacute;ce</trd>

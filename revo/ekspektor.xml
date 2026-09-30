@@ -41,6 +41,7 @@
     <trd fnt="AI: cs sk pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">abhusten</trd>,
     <trd kod="FAK" fnt="AI: fr it pt ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">expektorieren <klr>(fachspr.)</klr></trd>
   </trdgrp>
+  <trd lng="en" kod="FAK" fnt="AI: ca fr it pt dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">expectorate <klr>(jargon)</klr></trd>
   <trd lng="fr">expectorer</trd>
   <trd lng="it">espettorare</trd>
   <trdgrp lng="pl">
