@@ -96,6 +96,7 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch Sinken unter die Wasseroberfl&auml;che Schiffbruch erleiden; in die Tiefe versinken.</dif>
+    <trd lng="en" fnt="AI: de pl hu; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sink</trd>
     <trd lng="hu">els&uuml;llyed</trd>
     <trd lng="id">karam</trd>
     <trd lng="pl">zaton&aogonek;&cacute;</trd>
@@ -170,6 +171,7 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Einsinken und verschwinden oder verloren gehen.</dif>
     <trd lng="de" fnt="AI: pl pt hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versinken</trd>
+    <trd lng="en" fnt="AI: pl pt dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sink</trd>
     <trd lng="hu">elmer&uuml;l</trd>
     <trdgrp lng="id">
       <trd><baz>benam</baz>terbenam</trd>,
@@ -290,6 +292,7 @@
       <trd fnt="AI: sv hu pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">versinken</trd>,
       <trd fnt="AI: hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sich vertiefen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: hu sv dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">be absorbed</trd>
     <trdgrp lng="hu">
       <trd>elm&eacute;lyed</trd>,
       <trd>elmer&uuml;l</trd>

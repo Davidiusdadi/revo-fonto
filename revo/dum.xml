@@ -361,6 +361,11 @@
       <trd fnt="AI: pl hu dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">einstweilig</trd>,
       <trd fnt="AI: pt dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">provisorisch</trd>
     </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: be hu pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">temporary</trd>,
+      <trd fnt="AI: hu dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">interim</trd>,
+      <trd fnt="AI: pt dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">provisional</trd>
+    </trdgrp>
     <trdgrp lng="hu">
       <trd>ideiglenes</trd>,
       <trd>&aacute;tmeneti</trd>

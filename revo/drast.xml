@@ -180,6 +180,10 @@
     <trd>&c_a;&c_b;&c_v;&c_a;&c_s;&c_t;&c_r;&c_a;&c_c;&c_mol;</trd>
   </trdgrp>
   <trd lng="de">versch&auml;rfen</trd>
+  <trdgrp lng="en">
+    <trd fnt="AI: de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">tighten</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">toughen</trd>
+  </trdgrp>
   <trd lng="fr">raidir</trd>
 </drv>
 
@@ -211,6 +215,10 @@
     <trd>allm&auml;hlich</trd>,
     <trd>graduell</trd>,
     <trd>vorsichtig</trd>
+  </trdgrp>
+  <trdgrp lng="en">
+    <trd fnt="AI: de es fr; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">gradual</trd>,
+    <trd fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">moderate</trd>
   </trdgrp>
   <trdgrp lng="es">
     <trd>paulatino</trd>,

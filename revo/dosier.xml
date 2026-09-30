@@ -57,6 +57,7 @@
        <trd>Dossier</trd>,
        <trd>gesammelte schriftliche Unterlagen</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de fr nl pt; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dossier</trd>
     <trd lng="es">archivo<klr> (colecci&oacute;n de
       documentos)</klr></trd>
     <trd lng="fr">dossier<klr tip="ind"> (collection de
@@ -114,6 +115,10 @@
     <trdgrp lng="de">
        <trd>Strafregister</trd>,
        <trd>Akten</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de hu dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">police record</trd>,
+      <trd fnt="AI: de fr nl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">dossier</trd>
     </trdgrp>
     <trd lng="es">expediente</trd>
     <trdgrp lng="fr">
@@ -273,6 +278,7 @@
       <trd>&c_p;&c_a;&c_p;&c_k;&c_a;</trd>
     </trdgrp>
     <trd lng="de">Akten<ind>ordner</ind></trd>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">file folder</trd>
     <trd lng="pl">skoroszyt</trd>
   </snc>
   <snc mrk="dosier.uj0o.KOMP">
@@ -397,6 +403,7 @@
     <trd><ind>aktenkundig</ind> machen</trd>,
     <trd>in einer Akte <ind>vermerken</ind></trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">file</trd>
   <trd lng="fr">classer<klr> (dans un dossier)</klr></trd>
   <trdgrp lng="pl">
     <trd>klasyfikowa&cacute;  <klr>(w folderze)</klr></trd>,

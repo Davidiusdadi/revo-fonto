@@ -424,6 +424,7 @@
     <trd>zweifelnd</trd>,
     <trd>skeptisch</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">sceptical</trd>
   <trd lng="es">indeciso</trd>
   <trd lng="fr">dubitatif</trd>
   <trd lng="id">skeptis</trd>
@@ -463,6 +464,7 @@
     <trd>skepti&ccaron;nost</trd>
   </trdgrp>
   <trd lng="de">Skepsis</trd>
+  <trd lng="en" fnt="AI: de cs be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">scepticism</trd>
   <trd lng="es">desconfianza</trd>
   <trd lng="fr">d&eacute;fiance</trd>
   <trd lng="ja">&#x61D0;&#x7591;  <pr>&#x304B;&#x3044;&#x304E;</pr></trd>
@@ -520,6 +522,7 @@
       <trd>in <ind>Frage</ind> stellen</trd>,
       <trd>anzweifeln</trd>
     </trdgrp>
+    <trd lng="en" fnt="AI: de pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">question</trd>
     <trd lng="hu">k&eacute;ts&eacute;gess&eacute; tesz</trd>
     <trd lng="zh">&#x8CEA;&#x7591; <pr>zh&igrave;y&iacute;</pr></trd>
 </snc>
@@ -867,6 +870,10 @@
     <trdgrp lng="de">
       <trd>Skrupel</trd>,
       <trd>Gewissensbiss</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">pang of conscience</trd>,
+      <trd fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">scruple</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">

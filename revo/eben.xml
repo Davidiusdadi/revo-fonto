@@ -270,6 +270,7 @@
       <ref cel="teras.0o.ebeno">teraso<sncref/></ref>
     </refgrp>
     <trd lng="de">Flachland</trd>
+    <trd lng="en" fnt="AI: ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">plain</trd>
     <trd lng="id">dataran</trd>
     <trdgrp lng="zh">
     <trd>&#x5E73;&#x5DDD; <pr>p&iacute;ngchu&amacron;n</pr></trd>,
@@ -640,6 +641,7 @@
     <trd>vyklepat do roviny</trd>
   </trdgrp>
   <trd lng="de">platt klopfen</trd>
+  <trd lng="en" fnt="AI: de cs pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">beat flat</trd>
   <trd lng="hu">sim&aacute;ra d&ouml;ng&ouml;l</trd>
   <trdgrp lng="id">
     <trd><baz>pukul</baz>memukul dgn pelan</trd>,

@@ -353,6 +353,7 @@
   <trd lng="ca">d'esquena <klr tip="amb">(l'un de l'altre o els uns dels altres)</klr></trd>
   <trd lng="cs">vzadu</trd>
   <trd lng="de" fnt="AI: fr be id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">R&uuml;cken an R&uuml;cken</trd>
+  <trd lng="en" fnt="AI: fr be id; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">back to back</trd>
   <trd lng="fr">dos &agrave; dos<klr> (adv.)</klr></trd>
   <trdgrp lng="id">
     <trd><ind>saling</ind> membelakangi</trd>,
@@ -417,6 +418,7 @@
     <trd>nach hinten</trd>;
     <trd>r&uuml;cklings</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de fr it nl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">backwards</trd>
   <trd lng="fr">en <ind>arri&egrave;re</ind></trd>
   <trd lng="he">&alef;&het;&vav;&resh;&he;</trd>
   <trd lng="hu">h&aacute;trafel&eacute;</trd>
@@ -474,6 +476,7 @@
   <trd lng="be">&c_s;&c_mol;&c_p;&c_ib;&c_n;&c_o;&c_j; &c_d;&c_a;</trd>
 <trd lng="ca">d'esquena a</trd>
   <trd lng="de" fnt="AI: be ca; proponis claude-opus-5-5; kontrolis claude-opus-5-5">mit dem R&uuml;cken zu</trd>
+  <trd lng="en" fnt="AI: be ca dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">with one's back to</trd>
   <trdgrp lng="id">
   <trd>mundur</trd>,
   <trd><ind>ke</ind> belakang</trd>
@@ -508,6 +511,7 @@
     <trd>darrere de</trd>
   </trdgrp>
   <trd lng="de" fnt="AI: fr pl ru hu; proponis claude-opus-5-5; kontrolis claude-opus-5-5">hinter dem R&uuml;cken von</trd>
+  <trd lng="en" fnt="AI: fr it ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">behind</trd>
   <trdgrp lng="fr">
     <trd>dans le <ind>dos</ind> de</trd>,
     <trd>derri&egrave;re</trd>
