@@ -64,6 +64,7 @@
     <trd>Gro&szlig;-</trd>,
     <trd>gro&szlig;-</trd>
   </trdgrp>
+  <trd lng="en" fnt="AI: de pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">augmentative suffix</trd>
   <trdgrp lng="es">
     <trd>-ota</trd>,
     <trd>-azo</trd>,
@@ -305,6 +306,11 @@
     <trdgrp lng="de">
       <trd>Gr&ouml;&szlig;e</trd>,
       <trd>Gewaltigkeit</trd>
+    </trdgrp>
+    <trdgrp lng="en">
+      <trd fnt="AI: de cs pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">enormity</trd>,
+      <trd fnt="AI: ca es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">immensity</trd>,
+      <trd fnt="AI: de cs fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">magnitude</trd>
     </trdgrp>
     <trdgrp lng="es">
       <trd>grandiosidad</trd>,
