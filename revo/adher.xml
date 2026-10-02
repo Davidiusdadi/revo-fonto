@@ -182,6 +182,7 @@
         </trdgrp>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 84%">&#x5177;&#x6709;&#x9ECF;&#x9644;&#x6027;&#x7684;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Such that it adheres.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">So beschaffen, dass es haftet</dif>
     <trdgrp lng="be">
@@ -244,6 +245,7 @@
           a&ubreve; izolita punkto de &gcirc;i.
         </ekz>
       </dif>
+      <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 90%">&#xFF08;&#x6307;&#x62D3;&#x6251;&#x7A7A;&#x95F4;&#x4E2D;&#x76F8;&#x5BF9;&#x4E8E;&#x5176;&#x5B50;&#x96C6; A &#x7684;&#x70B9; x&#xFF09;&#x4F7F; x &#x7684;&#x6BCF;&#x4E2A;&#x90BB;&#x57DF;&#x90FD;&#x5305;&#x542B; A &#x4E2D;&#x7684;&#x70B9;&#x3002;</dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a point x in a topological space, relative to a subset A of that space) Such that every neighbourhood of x contains points in A.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt x in einem topologischen Raum, bezogen auf eine Teilmenge A davon) So beschaffen, dass jede Umgebung von x Punkte aus A enth&auml;lt</dif>
       <rim>
@@ -293,6 +295,7 @@
           <frm am="a">a</frm> kaj <frm am="-a">-a</frm>.
         </ekz>
       </dif>
+      <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 87%">&#xFF08;&#x6307;&#x5EA6;&#x91CF;&#x7A7A;&#x95F4;&#x4E2D;&#x76F8;&#x5BF9;&#x4E8E;&#x67D0;&#x4E2A;&#x5E8F;&#x5217;&#x7684;&#x70B9; b&#xFF09;&#x4F7F;&#x6240;&#x8003;&#x8651;&#x5E8F;&#x5217;&#x7684;&#x67D0;&#x4E2A;&#x5B50;&#x5E8F;&#x5217;&#x6536;&#x655B;&#x4E8E; b&#x3002;</dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">(Of a point b in a metric space, relative to a sequence) Such that a subsequence of the sequence under consideration converges to b.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(z. B. von einem Punkt b in einem metrischen Raum, bezogen auf eine Folge) So beschaffen, dass eine Teilfolge der betrachteten Folge gegen b konvergiert</dif>
       <trdgrp lng="de">
@@ -396,6 +399,7 @@
         mama protezo kaj la apudaj <ref cel="hist.0o">histoj</ref>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 87%">&#x4E24;&#x4E2A;&#x901A;&#x5E38;&#x4E92;&#x4E0D;&#x63A5;&#x89E6;&#x7684;&#x8868;&#x9762;&#x53D1;&#x751F;&#x7684;&#x9ECF;&#x8FDE;&#xFF0C;&#x4E3B;&#x8981;&#x7531;&#x708E;&#x75C7;&#x73B0;&#x8C61;&#x5F15;&#x8D77;&#x3002;</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gelegentlich auftretende Verklebung zweier normalerweise nicht miteinander in Kontakt stehender Oberfl&auml;chen, vor allem infolge einer Entz&uuml;ndung</dif>
     <trdgrp lng="be">
       <trd>&c_s;&c_p;&c_a;&c_j;&c_k;&c_a; <klr>(&c_m;&c_e;&c_d;.)</klr></trd>,
