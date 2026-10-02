@@ -19,7 +19,8 @@ only with its accept, in the checker's wording.
 
 Words go where the proposal put them: under the sense, or under the entry for a whole-word
 translation, at most 3 per place, the checker's order of acceptance being the proposer's order.
-A Chinese word is written in both scripts, each with its pinyin: <trd>漢語 <pr>hànyǔ</pr></trd>.
+A Chinese word is written in both scripts, without pinyin: a model's pinyin is often wrong, and a
+reading can be computed later. The proposal keeps it.
 A place that already has the language is skipped (someone filled it since); a word the entry
 already has elsewhere is not repeated. A definition follows the node's Esperanto <dif>; a node
 that already has one in the language is skipped. Insertion is textual (wikt-enrich/apply.py
@@ -77,9 +78,9 @@ def accepted(lng, holdout=False):
                 continue
             sources = " ".join(dict.fromkeys(pr["sources"]))
             fnt = f"AI: {sources}; proponis {prop['model']}; {checked(check, v)}" + ("; serĉo" if v["searched"] else "")
-            if lng == "zh":                          # both scripts, traditional first, each with its pinyin
-                py, trad = v.get("pinyin") or pr.get("pinyin"), v.get("traditional") or pr.get("traditional")
-                by_node[pr["mrk"]].append([{"word": f, "mark": "", "pr": py, "fnt": fnt}
+            if lng == "zh":                          # both scripts, traditional first, no pinyin
+                trad = v.get("traditional") or pr.get("traditional")
+                by_node[pr["mrk"]].append([{"word": f, "mark": "", "fnt": fnt}
                                            for f in dict.fromkeys(x for x in (trad, pr["word"]) if x)])
             else:
                 by_node[pr["mrk"]].append([{"word": pr["word"], "mark": v["mark"], "fnt": fnt}])
