@@ -26,6 +26,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x9700;&#x6C27;&#x7684; <pr>x&#x016B;y&#x01CE;ng de</pr></trd>
     </subsnc>
     <subsnc mrk="aerobi.0a.KEM">
       <uzo tip="fak">KEM</uzo>
@@ -42,7 +43,9 @@
           </fnt>.
         </ekz>
       </dif>
+      <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x597D;&#x6C27;&#x7684; <pr>h&agrave;oy&#x01CE;ng de</pr></trd>
     </subsnc>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x9700;&#x6C27;&#x7684; <pr>x&#x016B;y&#x01CE;ng de</pr></trd>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>oksigenbezona</ke>, <ke>oksigenuza</ke>.
@@ -97,6 +100,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5C08;&#x6027;&#x53AD;&#x6C27;&#x7684; <pr>zhu&#x0101;nx&igrave;ng y&agrave;ny&#x01CE;ng de</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x4E13;&#x6027;&#x538C;&#x6C27;&#x7684; <pr>zhu&#x0101;nx&igrave;ng y&agrave;ny&#x01CE;ng de</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_t;&c_r;&c_o;&c_g;&c_a; <ind>&c_a;&c_n;&c_a;&c_e;&c_r;&c_o;&c_b;&c_n;&c_y;</ind></trd>,

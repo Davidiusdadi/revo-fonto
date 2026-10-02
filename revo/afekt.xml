@@ -219,6 +219,10 @@
           <trd fnt="Vikt: fr pl; juĝis claude-opus-5">Affektiertheit</trd>,
           <trd fnt="Vikt: fr; juĝis claude-opus-5">Gehabe</trd>
         </trdgrp>
+        <trdgrp lng="zh">
+          <trd fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 80%">&#x77EF;&#x98FE; <pr>ji&#x01CE;osh&igrave;</pr></trd>,
+          <trd fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 80%">&#x77EB;&#x9970; <pr>ji&#x01CE;osh&igrave;</pr></trd>
+        </trdgrp>
       </snc>
   <trdgrp lng="cs">
     <trd>afekt</trd>,

@@ -109,6 +109,10 @@
       <trd>&c_o;&c_b;&c_malmol;&c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
     </trdgrp>
     <trd lng="sk">plag&aacute;t</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x6D77;&#x5831; <pr>h&#x01CE;ib&agrave;o</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x6D77;&#x62A5; <pr>h&#x01CE;ib&agrave;o</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="afisx.0o.komp">
     <uzo tip="fak">KOMP</uzo>
@@ -250,6 +254,10 @@
     </trdgrp>
     <trd lng="ru">&c_d;&c_a;&c_t;&c_mol;
     <ind>&c_o;&c_b;&c_malmol;&c_ja;&c_v;&c_l;&c_je;&c_n;&c_i;&c_je;</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5F35;&#x8CBC; <pr>zh&#x0101;ngti&#x0113;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5F20;&#x8D34; <pr>zh&#x0101;ngti&#x0113;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="afisx.0i.fiksi">
     <uzo tip="klr">(abs.)</uzo>
@@ -289,6 +297,10 @@
     <trd lng="pl">plakatowa&cacute;</trd>
     <trd lng="ru">&c_k;&c_l;&c_je;&c_i;&c_t;&c_mol;
     <ind>&c_a;&c_f;&c_i;&c_sh;&c_i;</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x5F35;&#x8CBC; <pr>zh&#x0101;ngti&#x0113;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x5F20;&#x8D34; <pr>zh&#x0101;ngti&#x0113;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="afisx.0i.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -397,6 +409,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x85DD;&#x8853;&#x6D77;&#x5831; <pr>y&igrave;sh&ugrave; h&#x01CE;ib&agrave;o</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x827A;&#x672F;&#x6D77;&#x62A5; <pr>y&igrave;sh&ugrave; h&#x01CE;ib&agrave;o</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_l;&c_ja;&c_k;&c_a;&c_t;</trd>,

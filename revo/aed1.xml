@@ -49,6 +49,10 @@
       <trd><ind>zanzara</ind> tigre egiziana</trd>
     </trdgrp>
     <trd lng="pl">komar</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x4F0A;&#x868A;&#x5C6C; <pr>y&#x012B;w&eacute;n sh&#x01D4;</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x4F0A;&#x868A;&#x5C5E; <pr>y&#x012B;w&eacute;n sh&#x01D4;</pr></trd>
+    </trdgrp>
    </snc>
   <trd lng="be">&c_a;&c_e;&c_d;&c_e;&c_s; <klr>(&c_r;&c_o;&c_d; &c_k;&c_a;&c_m;&c_a;&c_r;&c_o;&c_w;)</klr></trd>
   <trd lng="uk">&c_a;&c_je;&c_d;</trd>

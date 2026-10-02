@@ -189,6 +189,7 @@
       <trd fnt="Vikt: fr ku ru; juĝis claude-opus-5">verwaltend</trd>
     </trdgrp>
     <trd lng="en" fnt="Vikt: en fr ku pl ru; juĝis claude-opus-5">administrative</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x884C;&#x653F;&#x7684; <pr>x&iacute;ngzh&egrave;ng de</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_m;&c_ib;&c_n;&c_ib;&c_s;&c_t;&c_r;&c_a;&c_c;&c_y;&c_j;&c_n;&c_y;</trd>,
@@ -338,6 +339,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An administrative task, procedure or formality.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de fr ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x884C;&#x653F;&#x624B;&#x7E8C; <pr>x&iacute;ngzh&egrave;ng sh&#x01D2;ux&ugrave;</pr></trd>,
+      <trd fnt="AI: de fr ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x884C;&#x653F;&#x624B;&#x7EED; <pr>x&iacute;ngzh&egrave;ng sh&#x01D2;ux&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_m;&c_ib;&c_n;&c_ib;&c_s;&c_t;&c_r;&c_a;&c_c;&c_y;&c_j;&c_n;&c_a;&c_ja; &c_p;&c_r;&c_a;&c_c;&c_e;&c_d;&c_u;&c_r;&c_a;</trd>
   <trd lng="de">Verwaltungsangelegenheit</trd>

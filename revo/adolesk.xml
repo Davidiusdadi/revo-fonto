@@ -99,6 +99,7 @@
       <trd fnt="Vikt: en; juĝis claude-opus-5">adolescent</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">teenage</trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x9752;&#x6625;&#x671F;&#x7684; <pr>q&#x012B;ngch&#x016B;nq&#x012B; de</pr></trd>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_d;&c_l;&c_je;&c_t;&c_k;&c_a;&c_v;&c_y;</trd>
   <trdgrp lng="de">
@@ -134,6 +135,10 @@
       </ekz>
     </dif>
     <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">adolesce</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x7D93;&#x6B77;&#x9752;&#x6625;&#x671F; <pr>j&#x012B;ngl&igrave; q&#x012B;ngch&#x016B;nq&#x012B;</pr></trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x7ECF;&#x5386;&#x9752;&#x6625;&#x671F; <pr>j&#x012B;ngl&igrave; q&#x012B;ngch&#x016B;nq&#x012B;</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Anka&#365; eblas diri <ke>plenkresk(-ad)-i</ke>, (seks&#183;e) <ke>maturi&#285;i</ke> , <ke>juni</ke>.

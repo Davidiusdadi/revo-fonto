@@ -182,6 +182,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf das Weggehen bezogen; das Weggehen anzeigend, einleitend.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x544A;&#x5225;&#x7684; <pr>g&agrave;obi&eacute; de</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x544A;&#x522B;&#x7684; <pr>g&agrave;obi&eacute; de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -366,6 +370,10 @@
     </trdgrp>
     <trd lng="de">aufgeben <klr>(Hoffnung, Geist etc.)</klr></trd>
     <trd lng="en">abandon</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x653E;&#x68C4; <pr>f&agrave;ngq&igrave;</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x653E;&#x5F03; <pr>f&agrave;ngq&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="adiaux.0i.komp">
     <uzo tip="fak">KOMP</uzo>
@@ -407,6 +415,7 @@
     <trd lng="ru">&c_v;&c_y;&c_j;&c_t;&c_i;</trd>
     <trd lng="sk">odhl&aacute;si&tcaron; sa</trd>
     <trd lng="sv"><ind>logga</ind> ut</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x9000;&#x51FA; <pr>tu&igrave;ch&#x016B;</pr></trd>
   </snc>
   <trd lng="uk">&c_p;&c_r;&c_o;&c_shch;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
 </drv>
@@ -480,6 +489,10 @@
       <trd lng="fr"><ind>adieu</ind>x</trd>
     </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x9053;&#x5225; <pr>d&agrave;obi&eacute;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x9053;&#x522B; <pr>d&agrave;obi&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_v;&c_ib;&c_t;&c_a;&c_c;&c_c;&c_a;</trd>
   <trdgrp lng="ca">
