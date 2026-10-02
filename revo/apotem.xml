@@ -31,6 +31,10 @@
     <trd lng="de">Apothema</trd>
     <trd lng="en">apothem</trd>
     <trd lng="hu">apot&eacute;ma</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 91%">&#x908A;&#x5FC3;&#x8DDD; <pr>bi&#x0101;nx&#x012B;nj&ugrave;</pr></trd>,
+      <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 91%">&#x8FB9;&#x5FC3;&#x8DDD; <pr>bi&#x0101;nx&#x012B;nj&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="apotem.0o.konuso">
     <dif>
@@ -50,6 +54,7 @@
       <trd>slant height</trd>
     </trdgrp>
     <trd lng="hu">oldalmagass&aacute;g<klr tip="amb"> (g&uacute;la)</klr></trd>
+    <trd lng="zh" fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 86%">&#x659C;&#x9AD8; <pr>xi&eacute;g&#x0101;o</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_p;&c_a;&c_t;&c_e;&c_m;&c_a;</trd>,

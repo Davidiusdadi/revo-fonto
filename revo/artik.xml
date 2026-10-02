@@ -324,6 +324,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zwei Gelenkknochen eines Gliedes so verschieben, dass sie sich nicht mehr normal bewegen.</dif>
   <trd lng="en">dislocate <klr tip="amb">(a joint)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x4F7F;&#x812B;&#x81FC; <pr>sh&#x01D0; tu&#x014D;ji&ugrave;</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x4F7F;&#x8131;&#x81FC; <pr>sh&#x01D0; tu&#x014D;ji&ugrave;</pr></trd>
+  </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_b;&c_ib;&c_c;&c_mol; <klr>(&c_z; &c_s;&c_u;&c_s;&c_t;&c_a;&c_v;&c_a;)</klr></trd>,
@@ -374,6 +378,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus der normalen Gelenkstellung gleiten.</dif>
   <trd lng="en">become <ind>dislocated</ind> <klr>(a joint)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x812B;&#x81FC; <pr>tu&#x014D;ji&ugrave;</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x8131;&#x81FC; <pr>tu&#x014D;ji&ugrave;</pr></trd>
+  </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_b;&c_ib;&c_c;&c_c;&c_a; <klr>(&c_z; &c_s;&c_u;&c_s;&c_t;&c_a;&c_v;&c_a;)</klr></trd>,
@@ -506,6 +514,10 @@
       pozicio.
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Stelle oder Position, an der ein Laut artikuliert wird.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x767C;&#x97F3;&#x90E8;&#x4F4D; <pr>f&#x0101;y&#x012B;n b&ugrave;w&egrave;i</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x53D1;&#x97F3;&#x90E8;&#x4F4D; <pr>f&#x0101;y&#x012B;n b&ugrave;w&egrave;i</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_je;&c_s;&c_c;&c_a; <ind>&c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_ja;&c_c;&c_y;&c_ib;</ind></trd>
   <trd lng="ca">punt d'articulaci&oacute;</trd>

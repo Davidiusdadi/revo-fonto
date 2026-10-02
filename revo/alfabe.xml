@@ -162,6 +162,10 @@
       </ekz>
     </dif>
     <trd lng="de" fnt="Vikt: de cs en es fr pl ru; juĝis claude-opus-5">alphabetisch</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 85%">&#x6309;&#x5B57;&#x6BCD;&#x9806;&#x5E8F;&#x7684; <pr>&agrave;n z&igrave;m&#x01D4; sh&ugrave;nx&ugrave; de</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 85%">&#x6309;&#x5B57;&#x6BCD;&#x987A;&#x5E8F;&#x7684; <pr>&agrave;n z&igrave;m&#x01D4; sh&ugrave;nx&ugrave; de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_f;&c_a;&c_b;&c_e;&c_t;&c_n;&c_y;</trd>
   <trd lng="cs">abecedn&iacute;</trd>
@@ -235,6 +239,10 @@
       <trd lng="pl">ustawia&cacute; w porz&aogonek;dku  <ind>alfabetycznym</ind></trd>
       <trd lng="ro">s&abreve; fie &icirc;n ordine  <ind>alfabetic&abreve;</ind></trd>
       <trd lng="ru">&c_r;&c_a;&c_s;&c_p;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_mol; &c_p;&c_o; &c_a;&c_l;&c_f;&c_a;&c_v;&c_i;&c_t;&c_u;</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: de es; proponis gpt-5.6-luna; taksis Jev 89%">&#x6309;&#x5B57;&#x6BCD;&#x9806;&#x5E8F;&#x6392;&#x5217; <pr>&agrave;n z&igrave;m&#x01D4; sh&ugrave;nx&ugrave; p&aacute;ili&egrave;</pr></trd>,
+        <trd fnt="AI: de es; proponis gpt-5.6-luna; taksis Jev 89%">&#x6309;&#x5B57;&#x6BCD;&#x987A;&#x5E8F;&#x6392;&#x5217; <pr>&agrave;n z&igrave;m&#x01D4; sh&ugrave;nx&ugrave; p&aacute;ili&egrave;</pr></trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="alfabe.0igi.literigi">
       <dif>
@@ -345,6 +353,10 @@
       <trd>&c_n;&c_a;&c_v;&c_ch;&c_a;&c_t;&c_i; &c_g;&c_r;&c_a;&c_m;&c_o;&c_t;&c_i;</trd>,
       <trd>&c_n;&c_a;&c_v;&c_ch;&c_a;&c_t;&c_i; &c_ch;&c_i;&c_t;&c_a;&c_t;&c_i;</trd>
      </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: fr en; proponis gpt-5.6-luna; taksis Jev 84%">&#x6383;&#x76F2; <pr>s&#x01CE;om&aacute;ng</pr></trd>,
+      <trd fnt="AI: fr en; proponis gpt-5.6-luna; taksis Jev 84%">&#x626B;&#x76F2; <pr>s&#x01CE;om&aacute;ng</pr></trd>
+    </trdgrp>
     </snc>
     <trd lng="en">alphabetize</trd>
     <trdgrp lng="ja">
@@ -414,6 +426,10 @@
       <ref cel="libr.aboco0o">abocolibro</ref>,
       <ref cel="aboc.0o.alfabeto">aboco <sncref/></ref>.
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 89%">&#x8B58;&#x5B57;&#x8AB2;&#x672C; <pr>sh&iacute;z&igrave; k&egrave;b&ecaron;n</pr></trd>,
+      <trd fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 89%">&#x8BC6;&#x5B57;&#x8BFE;&#x672C; <pr>sh&iacute;z&igrave; k&egrave;b&ecaron;n</pr></trd>
+    </trdgrp>
   </snc>
 <trdgrp lng="be">
     <trd>&c_l;&c_je;&c_m;&c_a;&c_n;&c_t;&c_a;&c_r;</trd>,

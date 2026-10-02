@@ -135,6 +135,10 @@
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_v;</trd>
   <trd lng="sk">arch&iacute;v</trd>
   <trd lng="uk">&c_a;&c_r;&c_h;&c_ib;&c_v;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 92%">&#x6A94;&#x6848; <pr>d&agrave;ng'&agrave;n</pr></trd>,
+    <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 92%">&#x6863;&#x6848; <pr>d&agrave;ng'&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arhxiv.0i">
@@ -215,6 +219,10 @@
   <trd lng="he">&#x5D0;&#x5E8;&#x5DB;&#x5D9;&#x5D5;&#x5DF;</trd>
   <trd lng="nl">archivering</trd>
   <trd lng="pl">archiwizacja</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 93%">&#x6B78;&#x6A94; <pr>gu&#x012B;d&agrave;ng</pr></trd>,
+    <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 93%">&#x5F52;&#x6863; <pr>gu&#x012B;d&agrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arhxiv.0ajxo">
@@ -258,6 +266,10 @@
     <trd>archiefstuk</trd>
   </trdgrp>
   <trd lng="pl">zarchiwizowany  <ind>dokument</ind></trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x6A94;&#x6848;&#x6587;&#x4EF6; <pr>d&agrave;ng'&agrave;n w&eacute;nji&agrave;n</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x6863;&#x6848;&#x6587;&#x4EF6; <pr>d&agrave;ng'&agrave;n w&eacute;nji&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arhxiv.0ejo">

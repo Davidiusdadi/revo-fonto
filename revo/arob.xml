@@ -28,6 +28,10 @@
       <ref cel="helik.0o.ascii">heliko<sncref/></ref>,
       <ref cel="po.0_signo">po-signo</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 86%">&#x963F;&#x7F85;&#x5DF4; <pr>&#x0100;lu&oacute;b&#x0101;</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 86%">&#x963F;&#x7F57;&#x5DF4; <pr>&#x0100;lu&oacute;b&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_o;&c_b;&c_a; <klr>(&c_a;&c_d;&c_z;&c_ib;&c_n;&c_k;&c_a; &c_v;&c_a;&c_g;&c_ib;)</klr></trd>
   <trd lng="cs">arroba</trd>

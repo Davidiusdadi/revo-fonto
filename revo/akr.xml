@@ -52,6 +52,10 @@
     </trdgrp>
     <trd lng="ru">&c_o;&c_s;&c_t;&c_r;&c_y;&c_j;</trd>
     <trd lng="th">&#3588;&#3617;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x92D2;&#x5229; <pr>f&#x0113;ngl&igrave;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x950B;&#x5229; <pr>f&#x0113;ngl&igrave;</pr></trd>
+    </trdgrp>
   </subsnc>
   <subsnc mrk="akr.0a.akuta">
     <dif>
@@ -163,7 +167,15 @@
       <trd>&c_z;&c_a;&c_o;&c_s;&c_t;&c_r;&c_jo;&c_n;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
     <trd lng="th">&#3649;&#3627;&#3621;&#3617;&#3588;&#3617;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x5C16;&#x92B3; <pr>ji&#x0101;nru&igrave;</pr></trd>,
+      <trd fnt="AI: en ref dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x5C16;&#x9510; <pr>ji&#x0101;nru&igrave;</pr></trd>
+    </trdgrp>
   </subsnc>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x92D2;&#x5229; <pr>f&#x0113;ngl&igrave;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x950B;&#x5229; <pr>f&#x0113;ngl&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="akr.0a.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -351,7 +363,15 @@
       (&c_p;&c_je;&c_r;&c_je;&c_n;.)</klr></trd>,
       <trd>&c_o;&c_s;&c_t;&c_r;&c_y;&c_j;</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x56B4;&#x53B2; <pr>y&aacute;nl&igrave;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x4E25;&#x5389; <pr>y&aacute;nl&igrave;</pr></trd>
+    </trdgrp>
   </subsnc>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x5C16;&#x92B3; <pr>ji&#x0101;nru&igrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x5C16;&#x9510; <pr>ji&#x0101;nru&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="akr.0a.penetranta">
     <uzo tip="klr">(io)</uzo>
@@ -579,6 +599,7 @@
       <trd>fio</trd>
     </trdgrp>
     <trd lng="ru">&c_l;&c_je;&c_z;&c_v;&c_i;&c_je;</trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x5200;&#x5203; <pr>d&#x0101;or&egrave;n</pr></trd>
   </snc>
   <snc mrk="akr.0ajxo.akuta">
     <dif>
@@ -884,6 +905,7 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">A person who sharpens blades, knives, etc. professionally.</dif>
     <trd lng="de">Messerschleifer</trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x78E8;&#x5200;&#x5320; <pr>m&oacute;d&#x0101;oji&agrave;ng</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_a;&c_s;&c_t;&c_r;&c_y;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_k;</trd>,
@@ -932,6 +954,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Scharf, schneidend, intensiv werden.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x8B8A;&#x92D2;&#x5229; <pr>bi&agrave;nf&#x0113;ngl&igrave;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x53D8;&#x950B;&#x5229; <pr>bi&agrave;nf&#x0113;ngl&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_a;&c_s;&c_t;&c_r;&c_e;&c_c;&c_mol;</trd>
   <trdgrp lng="de">
@@ -967,6 +993,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x78E8;&#x53BB; <pr>m&oacute;q&ugrave;</pr></trd>
   </snc>
   <trd lng="be">&c_z;&c_v;&c_o;&c_s;&c_t;&c_r;&c_y;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="de">
@@ -1122,6 +1149,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">To become blunt, to lose its sharpness.</dif>
     <trd lng="de"><ind>stumpf</ind> werden</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8B8A;&#x920D; <pr>bi&agrave;nd&ugrave;n</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x53D8;&#x949D; <pr>bi&agrave;nd&ugrave;n</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_t;&c_u;&c_p;&c_ib;&c_c;&c_c;&c_a;</trd>,

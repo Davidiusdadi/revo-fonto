@@ -83,6 +83,7 @@
     <trd lng="de">Ainu-</trd>
     <trd lng="fr">a&iuml;nou<klr> (adj.)</klr></trd>
     <trd lng="ja">&#x30A2;&#x30A4;&#x30CC;&#x306E; <pr>&#12354;&#12356;&#x306C;&#x306E;</pr></trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x963F;&#x4F0A;&#x52AA;&#x7684; <pr>&#x0100;y&#x012B;n&uacute; de</pr></trd>
   </snc>
   <snc mrk="ain.0a.lingvo">
     <dif>
@@ -108,6 +109,10 @@
       <trd>Aino<klr tip="ind"> (taal)</klr></trd>,
       <trd>Ainoe<klr tip="ind"> (taal)</klr></trd>,
       <trd>Ainu<klr tip="ind"> (taal)</klr></trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ja dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x963F;&#x4F0A;&#x52AA;&#x8A9E; <pr>&#x0100;y&#x012B;n&uacute;y&#x01D4;</pr></trd>,
+      <trd fnt="AI: ja dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x963F;&#x4F0A;&#x52AA;&#x8BED; <pr>&#x0100;y&#x012B;n&uacute;y&#x01D4;</pr></trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_j;&c_n;&c_s;&c_k;&c_ib;</trd>

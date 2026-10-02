@@ -172,6 +172,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teil der Biologie, der den K&ouml;rperbau verschiedener Arten untersucht und vergleicht und dabei ihre Verwandtschaft und ihre Anpassung an die Umwelt beurteilt.</dif>
     <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">comparative anatomy</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: fr dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x6BD4;&#x8F03;&#x89E3;&#x5256;&#x5B78; <pr>b&#x01D0;ji&agrave;o ji&ecaron;p&#x014D;uxu&eacute;</pr></trd>,
+      <trd fnt="AI: fr dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x6BD4;&#x8F83;&#x89E3;&#x5256;&#x5B66; <pr>b&#x01D0;ji&agrave;o ji&ecaron;p&#x014D;uxu&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="de" fnt="AI: fr dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">vergleichende Anatomie</trd>
   <trd lng="fr">anatomie compar&eacute;e</trd>

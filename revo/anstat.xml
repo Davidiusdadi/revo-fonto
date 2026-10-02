@@ -270,6 +270,10 @@
     <trd>&c_z;&c_a;&c_m;&c_ib;&c_shch;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 93%">&#x4EE3;&#x66FF; <pr>d&agrave;it&igrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x53D6;&#x4EE3; <pr>q&#x01D4;d&agrave;i</pr></trd>
+    </trdgrp>
 </drv>
 
 <drv mrk="anstat.0o">
@@ -315,6 +319,10 @@
      </trdgrp>
       <trd lng="pt">substituto <klr tip="amb"> (pessoa ou coisa)</klr>
       </trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 92%">&#x66FF;&#x4EE3;&#x54C1; <pr>t&igrave;d&agrave;ip&#x01D0;n</pr></trd>,
+        <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x66FF;&#x4EE3;&#x8005; <pr>t&igrave;d&agrave;izh&ecaron;</pr></trd>
+      </trdgrp>
     </snc>
     <snc mrk="anstat.0o.ago">
       <fnt><bib>VdE</bib></fnt>
@@ -598,6 +606,10 @@ remplacer)</klr></trd>,
         <ref cel="deleg.0ito">delegito</ref>
       </refgrp>
       <ref tip="vid" cel="reprezent.0i">reprezenti</ref>
+      <trdgrp lng="zh">
+        <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x66FF;&#x4EE3;&#x8005; <pr>t&igrave;d&agrave;izh&ecaron;</pr></trd>,
+        <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x4EE3;&#x7406;&#x4EBA; <pr>d&agrave;il&#x01D0;r&eacute;n</pr></trd>
+      </trdgrp>
     </snc>
     <trdgrp lng="be">
       <trd>&c_v;&c_y;&c_k;&c_a;&c_n;&c_a;&c_w;&c_c;&c_a;
@@ -826,6 +838,7 @@ remplacer)</klr></trd>,
     <trd>nieodzowny</trd>
   </trdgrp>
   <trd lng="pt">insubstitu&iacute;vel</trd>
+  <trd lng="zh" fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 96%">&#x4E0D;&#x53EF;&#x66FF;&#x4EE3;&#x7684; <pr>b&ugrave;k&ecaron; t&igrave;d&agrave;i de</pr></trd>
 </drv>
 
 <drv mrk="anstat.0ilo">
@@ -852,6 +865,7 @@ remplacer)</klr></trd>,
         <ref cel="garant.0ajxo">garantia&jcirc;o</ref>,
         <ref cel="kauxci.0o">ka&ubreve;cio</ref>
       </refgrp>
+      <trd lng="zh" fnt="AI: ref en; proponis gpt-5.6-luna; taksis Jev 95%">&#x66FF;&#x4EE3;&#x54C1; <pr>t&igrave;d&agrave;ip&#x01D0;n</pr></trd>
     </snc>
       <trdgrp lng="be">
         <trd>&c_z;&c_a;&c_m;&c_je;&c_n;&c_mol;&c_n;&c_ib;&c_k;</trd>,

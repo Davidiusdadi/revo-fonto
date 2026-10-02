@@ -1499,6 +1499,10 @@
   <trd
   lng="th">&#xE41;&#xE1A;&#xE1A;&#xE25;&#xE07;&#xE17;&#xE30;&#xE40;&#xE1A;&#xE35;&#xE22;&#xE19;</trd>
   <trd lng="uk">&c_a;&c_n;&c_k;&c_je;&c_t;&c_a; &c_u;&c_ch;&c_a;&c_s;&c_n;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 88%">&#x7533;&#x8ACB;&#x8868; <pr>sh&#x0113;nq&#x01D0;ngbi&#x01CE;o</pr></trd>,
+    <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 88%">&#x7533;&#x8BF7;&#x8868; <pr>sh&#x0113;nq&#x01D0;ngbi&#x01CE;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="al.re0igxi">
@@ -1569,6 +1573,7 @@
       </ekz>
     </dif>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">unsubscribe</trd>
+    <trd lng="zh" fnt="AI: de fr pl; proponis gpt-5.6-luna; taksis Jev 86%">&#x9000;&#x51FA; <pr>tu&igrave;ch&#x016B;</pr></trd>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_a;&c_s;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_u;&c_d;&c_z;&c_je;&c_l;</ind></trd>
   <trdgrp lng="de">
@@ -1585,6 +1590,7 @@
     <trd>wycofa&cacute; si&eogonek;</trd>,
     <trd>wymeldowa&cacute; si&eogonek;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="AI: de fr pl; proponis gpt-5.6-luna; taksis Jev 87%">&#x9000;&#x51FA; <pr>tu&igrave;ch&#x016B;</pr></trd>
 </drv>
 </subart>
 

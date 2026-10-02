@@ -139,6 +139,7 @@
       <ref cel="glaci.0o">glacio</ref>,
       <ref cel="vapor.0o.KOMUNE">vaporo</ref>
     </refgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x6C34; <pr>shu&#x01D0;</pr></trd>
   </snc>
   <snc mrk="akv.0o.simila">
     <dif>
@@ -372,6 +373,7 @@
     <trd lng="nl">waterig</trd>
     <trd lng="ru">&c_v;&c_o;&c_d;&c_ja;&c_n;&c_o;&c_j;</trd>
     <trd lng="sv">vatten-</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x6C34;&#x7684; <pr>shu&#x01D0;de</pr></trd>
   </snc>
   <snc mrk="akv.0a.funkcianta">
     <dif>
@@ -452,6 +454,7 @@
     <trd lng="id">akuatik</trd>
     <trd lng="nl">water-</trd>
     <trd lng="ru">&c_v;&c_o;&c_d;&c_n;&c_y;&c_j;</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x6C34;&#x751F;&#x7684; <pr>shu&#x01D0;sh&#x0113;ngde</pr></trd>
   </snc>
   <snc mrk="akv.0a.rilata">
     <dif>
@@ -486,6 +489,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">In anderer Weise auf Wasser bezogen.</dif>
   <trd lng="en">water</trd>
   <trd lng="id">akuatik</trd>
+  <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x6C34;&#x7684; <pr>shu&#x01D0;de</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_o;&c_d;&c_n;&c_y;</trd>,
@@ -728,6 +732,7 @@
         rivi&egrave;res</trd>
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 96%">&#x6C34;&#x6EF4; <pr>shu&#x01D0;d&#x012B;</pr></trd>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_o;&c_p;&c_l;&c_ja; &c_v;&c_a;&c_d;&c_y;</trd>
   <trdgrp lng="ca">
@@ -1296,6 +1301,7 @@
        <ref cel="merg.0igxi">mergi&gcirc;i</ref>,
        <ref cel="plongx.0i.SPO">plon&gcirc;i<sncref/></ref>
     </refgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x5165;&#x6C34; <pr>r&ugrave;shu&#x01D0;</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_p;&c_u;&c_s;&c_mol;&c_c;&c_ib;&c_c;&c_c;&c_a; &c_w; &c_v;&c_a;&c_d;&c_u;</trd>,
@@ -1369,6 +1375,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x812B;&#x6C34; <pr>tu&#x014D;shu&#x01D0;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x8131;&#x6C34; <pr>tu&#x014D;shu&#x01D0;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="de">
     <trd>entw&auml;ssern</trd>,
@@ -1656,6 +1666,10 @@
     <trd lng="de" fnt="AI: nl id th; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Tauchen</trd>
     <trd lng="en" fnt="AI: nl dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">diving</trd>
     <trd lng="th">&#3585;&#3634;&#3619;&#3604;&#3635;&#3609;&#3657;&#3635;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x6F5B;&#x6C34; <pr>qi&aacute;nshu&#x01D0;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x6F5C;&#x6C34; <pr>qi&aacute;nshu&#x01D0;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_p;&c_u;&c_s;&c_k;&c_a;&c_n;&c_mol;&c_n;&c_je; <klr>(&c_u;
   &c_v;&c_a;&c_d;&c_u;)</klr></trd>
@@ -1703,6 +1717,10 @@
     <trdgrp lng="th">
       <trd>&#3609;&#3633;&#3585;&#3611;&#3619;&#3632;&#3604;&#3634;&#3609;&#3657;&#3635;</trd>,
       <trd>&#3609;&#3633;&#3585;&#3604;&#3635;&#3609;&#3657;&#3635;</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x6F5B;&#x6C34;&#x54E1; <pr>qi&aacute;nshu&#x01D0;yu&aacute;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x6F5C;&#x6C34;&#x5458; <pr>qi&aacute;nshu&#x01D0;yu&aacute;n</pr></trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_y;&c_r;&c_e;&c_c; <klr
@@ -2035,6 +2053,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x4E0B;&#x6C34; <pr>xi&agrave;shu&#x01D0;</pr></trd>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_v;&c_ib;&c_c;&c_mol; &c_n;&c_a;
   <ind>&c_v;&c_a;&c_d;&c_u;</ind></trd>
@@ -2506,6 +2525,7 @@
       <ref cel="limona.0o">limonado</ref>,
       <ref cel="sirop.0o">siropo</ref>
     </refgrp>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x8702;&#x871C;&#x9152; <pr>f&#x0113;ngm&igrave;ji&#x01D4;</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_je;&c_d;&c_a;&c_v;&c_u;&c_h;&c_a;</trd>,
@@ -2689,6 +2709,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Wasser aus der Destillation von Rosenbl&uuml;tenbl&auml;ttern, je nach Sorte als Duftstoff oder als Aroma f&uuml;r S&uuml;&szlig;speisen verwendet.</dif>
     <trd
     lng="th">&#3609;&#3657;&#3635;&#3604;&#3629;&#3585;&#3652;&#3617;&#3657;&#3648;&#3607;&#3624;</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x73AB;&#x7470;&#x6C34; <pr>m&eacute;igu&#x012B;shu&#x01D0;</pr></trd>
   </snc>
   <trd lng="be">&c_r;&c_u;&c_zh;&c_a;&c_v;&c_a;&c_ja; <ind>&c_v;&c_a;&c_d;&c_a;</ind></trd>
   <trd lng="bg">&c_r;&c_o;&c_z;&c_o;&c_v;&c_a;
@@ -2772,6 +2793,10 @@
       <trd>pica d'aigua beneita</trd>
     </trdgrp>
     <trd lng="fr">b&eacute;nitier</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x8056;&#x6C34;&#x76C6; <pr>sh&egrave;ngshu&#x01D0;p&eacute;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x5723;&#x6C34;&#x76C6; <pr>sh&egrave;ngshu&#x01D0;p&eacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_r;&c_a;&c_p;&c_ib;&c_l;&c_mol;&c_n;&c_ib;&c_c;&c_a;</trd>
   <trdgrp lng="cs">
@@ -2817,6 +2842,7 @@
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Drink made of water containing bubbles of carbon dioxide.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Getr&auml;nk aus Wasser, das Kohlendioxidbl&auml;schen enth&auml;lt.</dif>
     <trd lng="th">&#3650;&#3595;&#3604;&#3634;</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x6C7D;&#x6C34; <pr>q&igrave;shu&#x01D0;</pr></trd>
   </snc>
   <trd lng="be">&c_s;&c_o;&c_d;&c_a;&c_v;&c_a;&c_ja; <ind>&c_v;&c_a;&c_d;&c_a;</ind></trd>
   <trdgrp lng="ca">
@@ -3039,6 +3065,10 @@
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Specialist in hydrology; hydrologist.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fachmann f&uuml;r Hydrologie; Hydrologe.</dif>
     <trd lng="th">&#3609;&#3633;&#3585;&#3629;&#3640;&#3607;&#3585;&#3623;&#3636;&#3607;&#3618;&#3634;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x6C34;&#x6587;&#x5B78;&#x5BB6; <pr>shu&#x01D0;w&eacute;nxu&eacute;ji&#x0101;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x6C34;&#x6587;&#x5B66;&#x5BB6; <pr>shu&#x01D0;w&eacute;nxu&eacute;ji&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_g;&c_ib;&c_d;&c_r;&c_o;&c_l;&c_ja;&c_g;</trd>
   <trd lng="ca">hidr&ograve;leg</trd>

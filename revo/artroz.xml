@@ -74,6 +74,10 @@
     <trd>artrose i kne</trd>,
     <trd>gonartrose</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x819D;&#x95DC;&#x7BC0;&#x9AA8;&#x95DC;&#x7BC0;&#x708E; <pr>x&#x012B; gu&#x0101;nji&eacute; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x819D;&#x5173;&#x8282;&#x9AA8;&#x5173;&#x8282;&#x708E; <pr>x&#x012B; gu&#x0101;nji&eacute; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="artroz.koks0o">
@@ -115,6 +119,10 @@
     <trd>coxartrose</trd>
   </trdgrp>
   <trd lng="sk">koxartr&oacute;za</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x9AD6;&#x95DC;&#x7BC0;&#x9AA8;&#x95DC;&#x7BC0;&#x708E; <pr>ku&#x0101;n gu&#x0101;nji&eacute; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x9ACB;&#x5173;&#x8282;&#x9AA8;&#x5173;&#x8282;&#x708E; <pr>ku&#x0101;n gu&#x0101;nji&eacute; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="artroz.lumb0o">
@@ -146,6 +154,10 @@
     <trd>lumbartrose</trd>
   </trdgrp>
   <trd lng="no">artrose i korsryggen</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x8170;&#x690E;&#x9AA8;&#x95DC;&#x7BC0;&#x708E; <pr>y&#x0101;ozhu&#x012B; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x8170;&#x690E;&#x9AA8;&#x5173;&#x8282;&#x708E; <pr>y&#x0101;ozhu&#x012B; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="artroz.nuk0o">
@@ -179,6 +191,10 @@
   </trdgrp>
   <trd lng="no">artrose i nakken</trd>
   <trd lng="uk">&c_a;&c_r;&c_t;&c_r;&#x43E;&c_z; &#x43F;&#x43E;&c_t;&c_i;&#x43B;&c_i;&c_ch;&#x43D;&c_i;&c_h; &c_h;&c_r;&c_je;&c_b;&c_c;&c_ib;&c_v;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x9838;&#x690E;&#x9AA8;&#x95DC;&#x7BC0;&#x708E; <pr>j&#x01D0;ngzhu&#x012B; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x9888;&#x690E;&#x9AA8;&#x5173;&#x8282;&#x708E; <pr>j&#x01D0;ngzhu&#x012B; g&#x01D4; gu&#x0101;nji&eacute; y&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="artroz.poli0o">

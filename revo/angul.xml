@@ -125,6 +125,7 @@
         <ref cel="later.sam0a.angulo">samlateraj</ref>,
         <ref cel="suplem.0a.angulo">suplementaj</ref>.
       </refgrp>
+      <trd lng="zh" fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x89D2; <pr>ji&#x01CE;o</pr></trd>
     </subsnc>
     <subsnc mrk="angul.0o.afina">
       <uzo tip="klr">(afina geometrio)</uzo>
@@ -141,6 +142,7 @@
       </dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A pair of rays (its sides) with a common origin (its vertex).</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Paar von Halbgeraden (seine Schenkel) mit gemeinsamem Ursprung (sein Scheitel).</dif>
+      <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x89D2; <pr>ji&#x01CE;o</pr></trd>
     </subsnc>
     <subsnc mrk="angul.0o.solida">
       <ref tip="vid" cel="angul.solida0o">solida <tld/>o</ref>
@@ -217,6 +219,7 @@
       <trd>col&#539;</trd>,
       <trd>unghi</trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x89D2; <pr>ji&#x01CE;o</pr></trd>
   </snc>
   <snc mrk="angul.0o.malvasta">
     <uzo tip="stl">FIG</uzo>
@@ -267,6 +270,7 @@
     <trd lng="oc">canton</trd>
     <trd lng="pl">naro&zdot;nik</trd>
     <trd lng="sk">k&uacute;t</trd>
+    <trd lng="zh" fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 86%">&#x89D2;&#x843D; <pr>ji&#x01CE;olu&ograve;</pr></trd>
   </snc>
   <trd lng="af">hoek</trd>
   <trd lng="am">&#4901;&#4877;</trd>
@@ -424,6 +428,7 @@
   </trdgrp>
   <trd lng="ru">&c_k;&c_o;&c_n;&c_f;&c_o;&c_r;&c_m;&c_n;&c_o;&c_je;<klr tip="amb">
   (&c_p;&c_r;&c_je;&c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;&c_a;&c_n;&c_i;&c_je;)</klr></trd>
+  <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x4FDD;&#x89D2;&#x7684; <pr>b&#x01CE;oji&#x01CE;o de</pr></trd>
 </drv>
 
 <drv mrk="angul.akut0a">
@@ -457,6 +462,10 @@
   <trd lng="ro">cu unghi ascu&#539;it</trd>
   <trd lng="ru">&c_o;&c_s;&c_t;&c_r;&c_o;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">ostrouhl&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x92B3;&#x89D2;&#x4E09;&#x89D2;&#x5F62;&#x7684; <pr>ru&igrave;ji&#x01CE;o s&#x0101;nji&#x01CE;ox&iacute;ng de</pr></trd>,
+    <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x9510;&#x89D2;&#x4E09;&#x89D2;&#x5F62;&#x7684; <pr>ru&igrave;ji&#x01CE;o s&#x0101;nji&#x01CE;ox&iacute;ng de</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.lip0o">
@@ -512,6 +521,7 @@
   <trd lng="de">Mundwinkel</trd>
   <trd lng="en">corner of the mouth</trd>
   <trd lng="fr">le coin des l&egrave;vres</trd>
+  <trd lng="zh" fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x5634;&#x89D2; <pr>zu&#x01D0;ji&#x01CE;o</pr></trd>
 </drv>
 
 <drv mrk="angul.mult0a">
@@ -557,6 +567,7 @@
     <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_k;&c_u;&c_t;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_b;&c_a;&c_g;&c_a;&c_t;&c_o;&c_k;&c_u;&c_t;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x591A;&#x89D2;&#x7684; <pr>du&#x014D;ji&#x01CE;o de</pr></trd>
 </drv>
 
 <drv mrk="angul.obtuz0a">
@@ -593,6 +604,10 @@
   <trd lng="ro">unghi obtuz</trd>
   <trd lng="ru">&c_t;&c_u;&c_p;&c_o;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">tupouhl&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x920D;&#x89D2;&#x4E09;&#x89D2;&#x5F62;&#x7684; <pr>d&ugrave;nji&#x01CE;o s&#x0101;nji&#x01CE;ox&iacute;ng de</pr></trd>,
+    <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x949D;&#x89D2;&#x4E09;&#x89D2;&#x5F62;&#x7684; <pr>d&ugrave;nji&#x01CE;o s&#x0101;nji&#x01CE;ox&iacute;ng de</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.okul0o">
@@ -624,6 +639,7 @@
   <trd lng="de">Augenwinkel</trd>
   <trd lng="en">corner of the eye</trd>
   <trd lng="fr">le coin de l'&oelig;il</trd>
+  <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x773C;&#x89D2; <pr>y&#x01CE;nji&#x01CE;o</pr></trd>
 </drv>
 
 <drv mrk="angul.ort0o">
@@ -1129,6 +1145,7 @@
   <trd lng="id">Triangulum Australe <klr>(konstelasi)</klr></trd>
   <trd lng="pl">Tr&oacute;jk&aogonek;t Po&lstroke;udniowy  <klr>(gwiazdozbi&oacute;r)</klr></trd>
   <trd lng="ro">Triunghiul Austral  <klr>(constela&#539;ie)</klr></trd>
+  <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 95%">&#x5357;&#x4E09;&#x89D2;&#x5EA7; <pr>N&aacute;n S&#x0101;nji&#x01CE;ozu&ograve;</pr></trd>
 </drv>
 
 <drv mrk="angul.centra0o">
@@ -1171,6 +1188,10 @@
   <trdgrp lng="sk">
     <trd>stredov&yacute; <ind>uhol</ind></trd>,
     <trd>stredov&yacute; uhol</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 97%">&#x5713;&#x5FC3;&#x89D2; <pr>yu&aacute;nx&#x012B;nji&#x01CE;o</pr></trd>,
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 97%">&#x5706;&#x5FC3;&#x89D2; <pr>yu&aacute;nx&#x012B;nji&#x01CE;o</pr></trd>
   </trdgrp>
 </drv>
 
@@ -1222,6 +1243,10 @@
     <trd>obvodov&yacute; <ind>uhol</ind></trd>,
     <trd>obvodov&yacute; uhol</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 95%">&#x5713;&#x5468;&#x89D2; <pr>yu&aacute;nzh&#x014D;uji&#x01CE;o</pr></trd>,
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 95%">&#x5706;&#x5468;&#x89D2; <pr>yu&aacute;nzh&#x014D;uji&#x01CE;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.ebena0o">
@@ -1267,6 +1292,7 @@
   <trd lng="ro">unghi plan</trd>
   <trd lng="ru">&c_p;&c_l;&c_o;&c_s;&c_k;&c_i;&c_j; <ind>&c_u;&c_g;&c_o;&c_l;</ind></trd>
   <trd lng="sk">rovinn&yacute; uhol</trd>
+  <trd lng="zh" fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 85%">&#x5E73;&#x9762;&#x89D2; <pr>p&iacute;ngmi&agrave;nji&#x01CE;o</pr></trd>
 </drv>
 
 <drv mrk="angul.paskalatri0o">
@@ -1328,6 +1354,7 @@
   &c_t;&c_r;&c_je;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_i;&c_k; &c_P;&c_a;&c_s;&c_k;&c_a;&c_l;&c_ja;</trd>
   <trd lng="sk">Pascalov <ind>trojuholn&iacute;k</ind></trd>
   <trd lng="sk">Pascalov trojuholn&iacute;k</trd>
+  <trd lng="zh" fnt="AI: en fr ref; proponis gpt-5.6-luna; taksis Jev 96%">&#x5E15;&#x65AF;&#x5361;&#x4E09;&#x89D2;&#x5F62; <pr>P&agrave;s&#x012B;k&#x01CE; s&#x0101;nji&#x01CE;ox&iacute;ng</pr></trd>
 </drv>
 
 <drv mrk="angul.polusa0o">
@@ -1385,6 +1412,10 @@
   <trd lng="ro">amplitudine  <klr tip="ind"> (coordonate polare)</klr></trd>
   <trd lng="ru">&c_p;&c_o;&c_l;&c_ja;&c_r;&c_n;&c_y;&c_j; <ind>&c_u;&c_g;&c_o;&c_l;</ind></trd>
   <trd lng="sk">pol&aacute;rny uhol</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 85%">&#x6975;&#x89D2; <pr>j&iacute;ji&#x01CE;o</pr></trd>,
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 85%">&#x6781;&#x89D2; <pr>j&iacute;ji&#x01CE;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.solida0o">

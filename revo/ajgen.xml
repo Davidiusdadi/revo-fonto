@@ -41,6 +41,10 @@
       <ref cel="baz.kanona0o">kanona bazo</ref>
       de <frm am="bb K^n"><g>K</g><sup>n</sup></frm> &gcirc;i estas.
     </rim>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x7279;&#x5FB5;&#x503C; <pr>t&egrave;zh&#x0113;ngzh&iacute;</pr></trd>,
+      <trd fnt="AI: de en fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x7279;&#x5F81;&#x503C; <pr>t&egrave;zh&#x0113;ngzh&iacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_u;&c_l;&c_a;&c_s;&c_n;&c_a;&c_je; <ind>&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
   <trd lng="cs">vlastn&iacute; <klr>(charakteristick&aacute;)</klr> hodnota
@@ -110,6 +114,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Skalar &lambda;, bezogen auf einen Endomorphismus f eines Vektorraums) So beschaffen, dass f einen vom Nullvektor verschiedenen Vektor x auf &lambda;&middot;x abbildet; anders gesagt: so, dass der Kern von f-&lambda;&middot;idE nicht gleich {0} ist</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x7279;&#x5FB5;&#x7684; <pr>t&egrave;zh&#x0113;ng de</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x7279;&#x5F81;&#x7684; <pr>t&egrave;zh&#x0113;ng de</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="ajgen.0a.subspaco">
     <dif>
@@ -183,6 +191,10 @@
   <fnt><bib>EKV</bib><lok>&para;6</lok></fnt>
   <snc>
     <ref tip="dif" cel="ajgen.0o">ajgeno.</ref>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x7279;&#x5FB5;&#x503C; <pr>t&egrave;zh&#x0113;ngzh&iacute;</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x7279;&#x5F81;&#x503C; <pr>t&egrave;zh&#x0113;ngzh&iacute;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_u;&c_l;&c_a;&c_s;&c_n;&c_a;&c_je; <ind>&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
 <trd lng="de" fnt="AI: en be ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Eigenwert</trd>
@@ -200,6 +212,10 @@
       rilate
       al &gcirc;i.
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 96%">&#x7279;&#x5FB5;&#x5411;&#x91CF; <pr>t&egrave;zh&#x0113;ng xi&agrave;ngli&agrave;ng</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 96%">&#x7279;&#x5F81;&#x5411;&#x91CF; <pr>t&egrave;zh&#x0113;ng xi&agrave;ngli&agrave;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_u;&c_l;&c_a;&c_s;&c_n;&c_y; <ind>&c_v;&c_e;&c_k;&c_t;&c_a;&c_r;</ind></trd>
   <trdgrp lng="cs">
@@ -235,6 +251,10 @@
         estas &ccirc;iam <ref cel="rekt.0a.sumo">rekta</ref>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x7279;&#x5FB5;&#x5B50;&#x7A7A;&#x9593; <pr>t&egrave;zh&#x0113;ng z&#x01D0; k&#x014D;ngji&#x0101;n</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x7279;&#x5F81;&#x5B50;&#x7A7A;&#x95F4; <pr>t&egrave;zh&#x0113;ng z&#x01D0; k&#x014D;ngji&#x0101;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_u;&c_l;&c_a;&c_s;&c_n;&c_a;&c_ja; <ind>&c_p;&c_a;&c_d;&c_p;&c_r;&c_a;&c_s;&c_t;&c_o;&c_r;&c_a;</ind></trd>
   <trdgrp lng="cs">

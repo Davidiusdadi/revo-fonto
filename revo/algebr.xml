@@ -108,6 +108,10 @@
       <ref cel="frakci.algebra0o"><tld/>a frakcio</ref>,
       <ref cel="strukt.algebra0o"><tld/>a strukturo</ref>.
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x4EE3;&#x6578;&#x7684; <pr>d&agrave;ish&ugrave; de</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x4EE3;&#x6570;&#x7684; <pr>d&agrave;ish&ugrave; de</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="algebr.0a.speciale">
     <subsnc mrk="algebr.0a.rilate_subkorpon">
@@ -138,6 +142,10 @@
         </ekz>
       </dif>
       <ref tip="ant" cel="transc.0a.rilate_subkorpon">transcenda.</ref>
+      <trdgrp lng="zh">
+        <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 84%">&#x4EE3;&#x6578;&#x7684; <pr>d&agrave;ish&ugrave; de</pr></trd>,
+        <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 84%">&#x4EE3;&#x6570;&#x7684; <pr>d&agrave;ish&ugrave; de</pr></trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="algebr.0a.nombro">
       <fnt><bib>MatTerm</bib><lok>p. 8</lok></fnt>
@@ -171,6 +179,10 @@
           racionaloj.
         </ekz>
       </dif>
+      <trdgrp lng="zh">
+        <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 82%">&#x4EE3;&#x6578;&#x7684; <pr>d&agrave;ish&ugrave; de</pr></trd>,
+        <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 82%">&#x4EE3;&#x6570;&#x7684; <pr>d&agrave;ish&ugrave; de</pr></trd>
+      </trdgrp>
     </subsnc>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_g;&c_je;&c_b;&c_r;&c_a;&c_ib;&c_ch;&c_n;&c_y;</trd>
@@ -202,6 +214,10 @@
     <refgrp tip="vid">
       <ref cel="banahx.0o">Bana&hcirc;o</ref>.
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 95%">&#x5DF4;&#x62FF;&#x8D6B;&#x4EE3;&#x6578; <pr>B&#x0101;n&aacute;ch&egrave; d&agrave;ish&ugrave;</pr></trd>,
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 95%">&#x5DF4;&#x62FF;&#x8D6B;&#x4EE3;&#x6570; <pr>B&#x0101;n&aacute;ch&egrave; d&agrave;ish&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_n;&c_a;&c_h;&c_a;&c_v;&c_a;
   <ind>&c_a;&c_l;&c_mol;&c_g;&c_je;&c_b;&c_r;&c_a;</ind></trd>
@@ -260,6 +276,10 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Algebraische Struktur (A,&#x2228;,&#x2227;,f), wobei f eine Involution (Komplement genannt) ist, derart dass (1) beide Operationen assoziativ und kommutativ sind; (2) f&uuml;r jede Operation ein neutrales Element existiert (bezeichnet mit 0 f&uuml;r &#x2228; und 1 f&uuml;r &#x2227;); (3) jede Operation distributiv bez&uuml;glich der anderen ist; (4) x&#x2227;x = x&#x2228;x = x, x&#x2228;f(x) = 1 und x&#x2227;f(x) = 0 f&uuml;r jedes x&#x2208;A; (5) f(x&#x2228;y) = f(x)&#x2227;f(y) und f(x&#x2227;y) = f(x)&#x2228;f(y) f&uuml;r alle x,y&#x2208;A.</dif>
     <trd lng="nl">Booleaanse <ind>algebra</ind></trd>
     <trd lng="pl">algebra Boole'a</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 97%">&#x5E03;&#x723E;&#x4EE3;&#x6578; <pr>b&ugrave;'&ecaron;r d&agrave;ish&ugrave;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 97%">&#x5E03;&#x5C14;&#x4EE3;&#x6570; <pr>b&ugrave;'&ecaron;r d&agrave;ish&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <refgrp tip="vid">
     <ref cel="bule1.0o">Buleo</ref>.
@@ -374,6 +394,10 @@
       <ctl>okazalgebrao</ctl>, sed kun mal&gcirc;usta difino kaj
       mal&gcirc;usta franca traduko.
     </rim>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 86%">&#x4E8B;&#x4EF6;&#x4EE3;&#x6578; <pr>sh&igrave;ji&agrave;n d&agrave;ish&ugrave;</pr></trd>,
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 86%">&#x4E8B;&#x4EF6;&#x4EE3;&#x6570; <pr>sh&igrave;ji&agrave;n d&agrave;ish&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_l;&c_mol;&c_g;&c_je;&c_b;&c_r;&c_a;
   &c_p;&c_a;&c_d;&c_z;&c_je;&c_ja;&c_w;</trd>
@@ -435,6 +459,10 @@
       terminon,
       sed sub formo <ctl>sigma-algebrao</ctl>.
     </rim>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 94%">&sigma;&#x4EE3;&#x6578; <pr>sigma d&agrave;ish&ugrave;</pr></trd>,
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 94%">&sigma;&#x4EE3;&#x6570; <pr>sigma d&agrave;ish&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&sigma;-&c_a;&c_l;&c_mol;&c_g;&c_je;&c_b;&c_r;&c_a;</trd>,
@@ -484,6 +512,10 @@
     <refgrp tip="vid">
       <ref cel="borel.0o">Borelo</ref>.
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 95%">&#x535A;&#x96F7;&#x723E;&sigma;&#x4EE3;&#x6578; <pr>B&oacute;l&eacute;i'&ecaron;r sigma d&agrave;ish&ugrave;</pr></trd>,
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 95%">&#x535A;&#x96F7;&#x5C14;&sigma;&#x4EE3;&#x6570; <pr>B&oacute;l&eacute;i'&ecaron;r sigma d&agrave;ish&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_a;&c_r;&c_e;&c_l;&c_je;&c_v;&c_a;

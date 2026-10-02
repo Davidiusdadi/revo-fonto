@@ -33,6 +33,10 @@
         </trdgrp>
         <trd lng="nl">offeraltaar</trd>
         <trd lng="ru">&c_zh;&c_je;&c_r;&c_t;&c_v;&c_je;&c_n;&c_n;&c_i;&c_k;</trd>
+        <trdgrp lng="zh">
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x796D;&#x81FA; <pr>j&igrave;t&aacute;i</pr></trd>,
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x796D;&#x53F0; <pr>j&igrave;t&aacute;i</pr></trd>
+        </trdgrp>
       </snc>
       <snc mrk="altar.0o.KRI">
         <uzo tip="fak">KRI</uzo>
@@ -57,6 +61,10 @@
         <trd lng="nl">altaar</trd>
         <trd lng="ru">&c_p;&c_r;&c_je;&c_s;&c_t;&c_o;&c_l;<klr tip="amb">
             (&c_v; &c_a;&c_l;&c_t;&c_a;&c_r;&c_je;)</klr></trd>
+        <trdgrp lng="zh">
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x796D;&#x58C7; <pr>j&igrave;t&aacute;n</pr></trd>,
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x796D;&#x575B; <pr>j&igrave;t&aacute;n</pr></trd>
+        </trdgrp>
       </snc>
       <snc mrk="altar.0o.eklezio">
         <uzo tip="stl">FIG</uzo>
@@ -184,6 +192,10 @@
           PIV2 difinante <ctl>sanktejo</ctl>n mem).
           <aut>Sergio Pokrovskij</aut>
         </rim>
+        <trdgrp lng="zh">
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x796D;&#x58C7;&#x5340; <pr>j&igrave;t&aacute;nq&#x016B;</pr></trd>,
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x796D;&#x575B;&#x533A; <pr>j&igrave;t&aacute;nq&#x016B;</pr></trd>
+        </trdgrp>
       </snc>
   <trd lng="be">&c_a;&c_l;&c_t;&c_a;&c_r;</trd>
   <trdgrp lng="cs">

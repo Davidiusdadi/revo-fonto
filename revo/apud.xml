@@ -274,6 +274,10 @@
           <fnt><bib>MT</bib> <lok>&Jug; 3:19</lok></fnt>.
         </ekz>
       </dif>
+      <trdgrp lng="zh">
+        <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x5F9E;&#x65C1;&#x908A; <pr>c&oacute;ng p&aacute;ngbi&#x0101;n</pr></trd>,
+        <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x4ECE;&#x65C1;&#x8FB9; <pr>c&oacute;ng p&aacute;ngbi&#x0101;n</pr></trd>
+      </trdgrp>
     </snc>
     <trdgrp lng="de">
       <trd>von <ind>neben</ind></trd>,
@@ -334,6 +338,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x4E26;&#x6392; <pr>b&igrave;ngp&aacute;i</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x5E76;&#x6392; <pr>b&igrave;ngp&aacute;i</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_d;&c_z;&c_ib;&c_n; &c_k;&c_a;&c_l;&c_ja; &c_a;&c_d;&c_n;&c_a;&c_g;&c_o;</trd>
   <trd lng="de">nebeneinander</trd>

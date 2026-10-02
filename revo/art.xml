@@ -140,6 +140,10 @@
       <trdgrp lng="pl">
         <trd>sztuka</trd>
       </trdgrp>
+      <trdgrp lng="zh">
+        <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x7F8E;&#x8853; <pr>m&ecaron;ish&ugrave;</pr></trd>,
+        <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x7F8E;&#x672F; <pr>m&ecaron;ish&ugrave;</pr></trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="art.0o.artefaro">
       <dif>
@@ -174,6 +178,10 @@
       <trdgrp lng="pl">
         <trd>sztuka</trd>,
         <trd>kunszt</trd>
+      </trdgrp>
+      <trdgrp lng="zh">
+        <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x6280;&#x85DD; <pr>j&igrave;y&igrave;</pr></trd>,
+        <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x6280;&#x827A; <pr>j&igrave;y&igrave;</pr></trd>
       </trdgrp>
     </subsnc>
     <lstref lst="voko:artoj"><tld/>oj</lstref>
@@ -443,6 +451,10 @@
         <trd fnt="Vikt: en; taksis Jev 83%">&#x4EBA;&#x4E3A; <pr>r&eacute;nw&eacute;i</pr></trd>
       </trdgrp>
     </subsnc>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x85DD;&#x8853;&#x7684; <pr>y&igrave;sh&ugrave;de</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x827A;&#x672F;&#x7684; <pr>y&igrave;sh&ugrave;de</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_u;&c_m;&c_je;&c_l;&c_y;</trd>,
@@ -605,6 +617,10 @@
       <trd lng="ru">&c_p;&c_r;&c_o;&c_i;&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_je;
       &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_a;</trd>
       <trd lng="sk">umeleck&eacute; <ind>dielo</ind></trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x85DD;&#x8853;&#x54C1; <pr>y&igrave;sh&ugrave;p&#x01D0;n</pr></trd>,
+        <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x827A;&#x672F;&#x54C1; <pr>y&igrave;sh&ugrave;p&#x01D0;n</pr></trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="art.0ajxo.artefaritajxo">
       <dif>
@@ -717,6 +733,10 @@
       &c_i;&c_s;&c_k;&c_u;&c_s;&c_s;&c_t;&c_v;&c_a;</trd>
     </trdgrp>
     <trd lng="sk">jemnocit pre kr&aacute;su</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x85DD;&#x8853;&#x611F; <pr>y&igrave;sh&ugrave;g&#x01CE;n</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x827A;&#x672F;&#x611F; <pr>y&igrave;sh&ugrave;g&#x01CE;n</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="art.0ismo.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -844,6 +864,10 @@
       <trd>artist</trd>,
       <trd>konstn&auml;r</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x85DD;&#x8853;&#x5BB6; <pr>y&igrave;sh&ugrave;ji&#x0101;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x827A;&#x672F;&#x5BB6; <pr>y&igrave;sh&ugrave;ji&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="art.0isto.akrobato">
     <uzo tip="stl">ARK</uzo>
@@ -939,6 +963,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">One of the arts by which objects of ordinary life, such as fabrics, vessels, furniture and rooms, are made beautiful.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jede der K&uuml;nste, mit denen man sch&ouml;ne Gegenst&auml;nde des allt&auml;glichen Lebens herstellt: Stoffe, Gef&auml;&szlig;e, M&ouml;bel, R&auml;ume ...</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x61C9;&#x7528;&#x85DD;&#x8853; <pr>y&igrave;ngy&ograve;ngy&igrave;sh&ugrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x5E94;&#x7528;&#x827A;&#x672F; <pr>y&igrave;ngy&ograve;ngy&igrave;sh&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="de">
     <trd fnt="AI: fr id; proponis claude-opus-5-5; kontrolis claude-opus-5-5">angewandte Kunst</trd>,
@@ -1018,6 +1046,10 @@
       </ekz>
     </dif>
     <trd lng="en" fnt="Vikt: pl; juĝis claude-opus-5">artistic</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x85DD;&#x8853;&#x7684; <pr>y&igrave;sh&ugrave;de</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x827A;&#x672F;&#x7684; <pr>y&igrave;sh&ugrave;de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_k;&c_ib;</trd>
   <trd lng="ca">art&iacute;stic</trd>
@@ -1168,6 +1200,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A fine art consisting of rhythmic bodily movement, usually to music.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x821E;&#x8E48;&#x85DD;&#x8853; <pr>w&#x01D4;d&#x01CE;oy&igrave;sh&ugrave;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x821E;&#x8E48;&#x827A;&#x672F; <pr>w&#x01D4;d&#x01CE;oy&igrave;sh&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_t;&c_a;&c_n;&c_c;&c_a;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_a;&c_je;
   <ind>&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</ind></trd>
@@ -1423,6 +1459,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The fine art of making jewellery from metal, gemstones and other materials.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x73E0;&#x5BF6;&#x5DE5;&#x85DD; <pr>zh&#x016B;b&#x01CE;og&#x014D;ngy&igrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x73E0;&#x5B9D;&#x5DE5;&#x827A; <pr>zh&#x016B;b&#x01CE;og&#x014D;ngy&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_ju;&c_v;&c_e;&c_l;&c_ib;&c_r;&c_n;&c_a;&c_je;
   <ind>&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</ind></trd>
@@ -1462,6 +1502,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The fine art of making music with the voice.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x6B4C;&#x5531;&#x85DD;&#x8853; <pr>g&#x0113;ch&agrave;ngy&igrave;sh&ugrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x6B4C;&#x5531;&#x827A;&#x672F; <pr>g&#x0113;ch&agrave;ngy&igrave;sh&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_p;&c_je;&c_w;&c_n;&c_a;&c_je;
   <ind>&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</ind></trd>
@@ -1576,6 +1620,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x5EFA;&#x7BC9;&#x5B78; <pr>ji&agrave;nzh&ugrave;xu&eacute;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x5EFA;&#x7B51;&#x5B66; <pr>ji&agrave;nzh&ugrave;xu&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_h;&c_ib;&c_t;&c_e;&c_k;&c_t;&c_u;&c_r;&c_a;</trd>
   <trd lng="cs">stavitelstv&iacute;</trd>
@@ -1627,6 +1675,10 @@
           </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x70F9;&#x98EA;&#x7684; <pr>p&#x0113;ngr&egrave;nde</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x70F9;&#x996A;&#x7684; <pr>p&#x0113;ngr&egrave;nde</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_u;&c_l;&c_ib;&c_n;&c_a;&c_r;&c_n;&c_y;</trd>
   <trd lng="ca">culinari</trd>
@@ -1918,6 +1970,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">One of the fine arts that produce or decorate objects for the home or everyday use, such as ceramics, textile art and miniatures.</dif>
     <ref tip="vid" cel="dekora.0i">dekoracii</ref>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x88DD;&#x98FE;&#x85DD;&#x8853; <pr>zhu&#x0101;ngsh&igrave;y&igrave;sh&ugrave;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x88C5;&#x9970;&#x827A;&#x672F; <pr>zhu&#x0101;ngsh&igrave;y&igrave;sh&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_d;&c_e;&c_k;&c_a;&c_r;&c_a;&c_t;&c_y;&c_w;&c_n;&c_a;&c_je;
   <ind>&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;</ind></trd>
@@ -1981,6 +2037,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FEE;&#x8FAD;&#x5B78; <pr>xi&#x016B;c&iacute;xu&eacute;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FEE;&#x8F9E;&#x5B66; <pr>xi&#x016B;c&iacute;xu&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_y;&c_t;&c_o;&c_r;&c_y;&c_k;&c_a;</trd>
   <trd lng="cs">&rcaron;e&ccaron;nictv&iacute;</trd>
@@ -2126,6 +2186,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The art of mounting a horse or another riding animal and guiding it.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x99AC;&#x8853; <pr>m&#x01CE;sh&ugrave;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x9A6C;&#x672F; <pr>m&#x01CE;sh&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_s;&c_t;&c_a;&c_c;&c_t;&c_v;&c_a;
   &c_v;&c_je;&c_r;&c_h;&c_a;&c_v;&c_o;&c_j; &c_ja;&c_z;&c_d;&c_y;</trd>

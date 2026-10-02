@@ -45,6 +45,7 @@
     <trd lng="de">versichern</trd>
     <trd lng="id"><baz>asuransi</baz>mengasuransikan</trd>
     <trd lng="sk">poisti&tcaron;</trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x6295;&#x4FDD; <pr>t&oacute;ub&#x01CE;o</pr></trd>
   </snc>
   <snc mrk="asekur.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -359,6 +360,10 @@
       </ekz>
     </dif>
     <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">insurance</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FDD;&#x96AA;&#x7684; <pr>b&#x01CE;oxi&#x01CE;n de</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FDD;&#x9669;&#x7684; <pr>b&#x01CE;oxi&#x01CE;n de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_y;</trd>
   <trdgrp lng="cs">
@@ -421,6 +426,10 @@
     <dif>
       La tuto de asekurkontraktoj.
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x4FDD;&#x96AA;&#x5408;&#x540C;&#x5F59;&#x7DE8; <pr>b&#x01CE;oxi&#x01CE;n h&eacute;t&oacute;ng hu&igrave;bi&#x0101;n</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x4FDD;&#x9669;&#x5408;&#x540C;&#x6C47;&#x7F16; <pr>b&#x01CE;oxi&#x01CE;n h&eacute;t&oacute;ng hu&igrave;bi&#x0101;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_y; <ind>&c_p;&c_a;&c_r;&c_t;&c_f;&c_e;&c_l;&c_mol;</ind></trd>
   <trd lng="cs">soupis pojistek</trd>

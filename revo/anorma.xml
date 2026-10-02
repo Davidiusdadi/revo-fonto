@@ -27,6 +27,10 @@
     <refgrp tip="sin">
       <ref cel="anomal.0a">anomalia</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x7570;&#x5E38;&#x7684; <pr>y&igrave;ch&aacute;ng de</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x5F02;&#x5E38;&#x7684; <pr>y&igrave;ch&aacute;ng de</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke><ref cel="normal.ne0a">nenormala</ref></ke>.

@@ -19,6 +19,10 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Gattung aus der Familie der Korbbl&uuml;tler (Cynara).</dif>
     <trd lng="en" fnt="AI: fr la; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Cynara</trd>
     <trd lng="fr">Cynara</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x83DC;&#x858A;&#x5C6C; <pr>c&agrave;ij&igrave; sh&#x01D4;</pr></trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x83DC;&#x84DF;&#x5C5E; <pr>c&agrave;ij&igrave; sh&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="artisx.0o.specio">
     <uzo tip="fak">KUI</uzo>

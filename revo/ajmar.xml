@@ -22,6 +22,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">S&uuml;damerikanischer Indianer aus einem Volk, das vor allem rund um den Titicacasee in Peru und Bolivien lebt.</dif>
   <trd lng="en">Aymara</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x827E;&#x99AC;&#x62C9;&#x4EBA; <pr>&Agrave;im&#x01CE;l&#x0101; r&eacute;n</pr></trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x827E;&#x9A6C;&#x62C9;&#x4EBA; <pr>&Agrave;im&#x01CE;l&#x0101; r&eacute;n</pr></trd>
+  </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_j;&c_m;&c_a;&c_r;&c_a;</trd>
   <trd lng="de">Aymara</trd>

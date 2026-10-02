@@ -86,6 +86,10 @@
     <trd><baz>serasi</baz>keserasian</trd>,
     <trd>harmoni</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x5354;&#x8ABF; <pr>xi&eacute;ti&aacute;o</pr></trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x534F;&#x8C03; <pr>xi&eacute;ti&aacute;o</pr></trd>
+  </trdgrp>
   </snc>
   <snc mrk="akord.0o.samopinieco">
     <dif>
@@ -306,6 +310,10 @@
     <trd>pakta</trd>,
     <trd>traktat</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x5354;&#x8B70; <pr>xi&eacute;y&igrave;</pr></trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x534F;&#x8BAE; <pr>xi&eacute;y&igrave;</pr></trd>
+  </trdgrp>
   </snc>
   <snc mrk="akord.0o.GRA">
     <uzo tip="fak">GRA</uzo>
@@ -491,6 +499,7 @@
       <trd>serasi</trd>,
       <trd>harmonis</trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x4E00;&#x81F4;&#x7684; <pr>y&iacute;zh&igrave; de</pr></trd>
     </subsnc>
     <subsnc mrk="akord.0a.samopinieco" ref="akord.0o.samopinieco">
       <dif>
@@ -541,6 +550,10 @@
       <trd>sepakat</trd>,
       <trd>mufakat</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x548C;&#x8AE7;&#x7684; <pr>h&eacute;xi&eacute; de</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x548C;&#x8C10;&#x7684; <pr>h&eacute;xi&eacute; de</pr></trd>
+    </trdgrp>
     </subsnc>
     <subsnc mrk="akord.0a.MUZ" ref="akord.0o.MUZ">
       <dif>
@@ -573,6 +586,10 @@
   <trdgrp lng="de">
     <trd>in <ind>&Uuml;bereinstimmung</ind></trd>,
     <trd>im <ind>Konsens</ind></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x5354;&#x8ABF;&#x7684; <pr>xi&eacute;ti&aacute;o de</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x534F;&#x8C03;&#x7684; <pr>xi&eacute;ti&aacute;o de</pr></trd>
   </trdgrp>
   </snc>
   <snc mrk="akord.0a.lauxtakta">
@@ -766,6 +783,7 @@
       <trd lng="fr">s'<ind>accorder</ind><klr tip="ind">
       (gramm.)</klr></trd>
     <trd lng="id"><baz>suai</baz>sesuai</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 81%">&#x4E00;&#x81F4; <pr>y&iacute;zh&igrave;</pr></trd>
     </subsnc>
     <trdgrp lng="zh">
     <trd>&#19968;&#36011;&#22320; <pr>y&imacron;gu&agrave;nde</pr></trd>,
@@ -909,6 +927,7 @@
       <klr>(&c_d;&c_je;&c_j;&c_s;&c_t;&c_v;&c_i;&c_ja;)</klr></trd>
     </trdgrp>
     <trd lng="sk">zladi&tcaron;</trd>
+    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x4F7F;&#x4E00;&#x81F4; <pr>sh&#x01D0; y&iacute;zh&igrave;</pr></trd>
   </snc>
   <trdgrp lng="ca">
     <trd>posar d&#8217;<ind>acord</ind></trd>,
@@ -983,6 +1002,10 @@
       </ekz>
     </dif>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">reconcilable</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x53EF;&#x5354;&#x8ABF;&#x7684; <pr>k&ecaron; xi&eacute;ti&aacute;o de</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x53EF;&#x534F;&#x8C03;&#x7684; <pr>k&ecaron; xi&eacute;ti&aacute;o de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_u;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -1102,6 +1125,10 @@
       <trd><baz>sepakat</baz>bersepakat</trd>,
       <trd><baz>mufakat</baz>bermufakat</trd>,
       <trd><baz>tuju</baz>setuju</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x9054;&#x6210;&#x4E00;&#x81F4; <pr>d&aacute;ch&eacute;ng y&iacute;zh&igrave;</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x8FBE;&#x6210;&#x4E00;&#x81F4; <pr>d&aacute;ch&eacute;ng y&iacute;zh&igrave;</pr></trd>
     </trdgrp>
     </subsnc>
     <subsnc ref="akord.0o.GRA">
@@ -1640,6 +1667,10 @@
       </ekz>
     </dif>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">irreconcilable</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E0D;&#x53EF;&#x8ABF;&#x548C;&#x7684; <pr>b&ugrave;k&ecaron; ti&aacute;oh&eacute; de</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E0D;&#x53EF;&#x8C03;&#x548C;&#x7684; <pr>b&ugrave;k&ecaron; ti&aacute;oh&eacute; de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_s;&c_u;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -1778,6 +1809,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">That cannot be brought into agreement.</dif>
     <ref tip="sin" cel="akord.mal0igebla">mal<tld/>igebla</ref>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0D;&#x53EF;&#x8ABF;&#x548C;&#x7684; <pr>b&ugrave;k&ecaron; ti&aacute;oh&eacute; de</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0D;&#x53EF;&#x8C03;&#x548C;&#x7684; <pr>b&ugrave;k&ecaron; ti&aacute;oh&eacute; de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_s;&c_u;&c_m;&c_ja;&c_sh;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
   <trdgrp lng="ca">
@@ -1855,6 +1890,10 @@
       <ref cel="harmon1.0a">harmonia</ref>,
       <ref cel="konkor.0a">konkorda</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x548C;&#x8AE7;&#x7684; <pr>h&eacute;xi&eacute; de</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x548C;&#x8C10;&#x7684; <pr>h&eacute;xi&eacute; de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="de">eintr&auml;chtig</trd>
   <trd lng="en">harmonious</trd>
@@ -1904,6 +1943,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">According to a shared feeling, shared intention or shared manner; consistent with, in conformity with.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8207;&#x2026;&#x2026;&#x4E00;&#x81F4; <pr>y&#x01D4; y&iacute;zh&igrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E0E;&#x2026;&#x2026;&#x4E00;&#x81F4; <pr>y&#x01D4; y&iacute;zh&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_g;&c_o;&c_d;&c_n;&c_a; &c_z;</trd>
   <trdgrp lng="ca">
@@ -1950,6 +1993,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Discordantly; inconsistent with, in contrast to.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x8207;&#x2026;&#x2026;&#x4E0D;&#x4E00;&#x81F4; <pr>y&#x01D4; b&ugrave; y&iacute;zh&igrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x4E0E;&#x2026;&#x2026;&#x4E0D;&#x4E00;&#x81F4; <pr>y&#x01D4; b&ugrave; y&iacute;zh&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_ja;&c_z;&c_g;&c_o;&c_d;&c_n;&c_a; &c_z;</trd>
   <trd lng="ca">en <ind>disconformitat</ind></trd>

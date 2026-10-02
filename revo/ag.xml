@@ -105,6 +105,10 @@ fontoj...?
       <trd>obrar</trd>
     </trdgrp>
     <trd lng="th">&#xE01;&#xE23;&#xE30;&#xE17;&#xE33;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x884C;&#x52D5; <pr>x&iacute;ngd&ograve;ng</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x884C;&#x52A8; <pr>x&iacute;ngd&ograve;ng</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="ag.0i.trakti">
     <dif>
@@ -387,6 +391,10 @@ fontoj...?
       <trd><baz>tindak</baz>tindakan</trd>
     </trdgrp>
     <trd lng="th">&#xE01;&#xE32;&#xE23;&#xE01;&#xE23;&#xE30;&#xE17;&#xE33;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x884C;&#x70BA; <pr>x&iacute;ngw&eacute;i</pr></trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x884C;&#x4E3A; <pr>x&iacute;ngw&eacute;i</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="ag.0o.efiko">
     <dif>
@@ -645,6 +653,10 @@ fontoj...?
       <ref cel="mov.0igi">movigi</ref>,
       <ref cel="vigl.0igi">vigligi</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x4F7F;&#x884C;&#x52D5; <pr>sh&#x01D0;x&iacute;ngd&ograve;ng</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x4F7F;&#x884C;&#x52A8; <pr>sh&#x01D0;x&iacute;ngd&ograve;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="de">
     <trd>zum <ind>Handeln</ind> bringen</trd>,
@@ -1179,6 +1191,10 @@ fontoj...?
       <ref cel="far.mis0i">misfari</ref>
     </refgrp>
   <trd lng="en">make a <ind>mistake</ind></trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x505A;&#x932F; <pr>zu&ograve;cu&ograve;</pr></trd>,
+    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x505A;&#x9519; <pr>zu&ograve;cu&ograve;</pr></trd>
+  </trdgrp>
   </snc>
   <trd lng="be">&c_ch;&c_y;&c_n;&c_ib;&c_c;&c_mol; &c_z;&c_l;&c_o;</trd>
   <trdgrp lng="de">
@@ -1239,6 +1255,10 @@ fontoj...?
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x932F;&#x8AA4;&#x884C;&#x70BA; <pr>cu&ograve;w&ugrave;x&iacute;ngw&eacute;i</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x9519;&#x8BEF;&#x884C;&#x4E3A; <pr>cu&ograve;w&ugrave;x&iacute;ngw&eacute;i</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="de">
     <trd>Fehltritt</trd>,
@@ -1502,6 +1522,7 @@ fontoj...?
       </ekz>
     </dif>
     <trd lng="fr">op&eacute;ration financi&egrave;re</trd>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x4EA4;&#x6613; <pr>ji&#x0101;oy&igrave;</pr></trd>
   </snc>
   <snc mrk="ag.trans0o.KOMP">
     <uzo tip="fak">KOMP</uzo>
@@ -1570,6 +1591,7 @@ fontoj...?
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x7531; <pr>y&oacute;u</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z; <ind>&c_b;&c_o;&c_k;&c_u;</ind></trd>,

@@ -147,6 +147,7 @@
         <trd>bijdrage</trd>,
         <trd>stuk</trd>
       </trdgrp>
+      <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x6587;&#x7AE0; <pr>w&eacute;nzh&#x0101;ng</pr></trd>
     </subsnc>
     <subsnc mrk="artiko.0o.sekcio">
       <dif>
@@ -204,6 +205,10 @@
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A section, chapter or paragraph in a law, dictionary, contract, resolution, etc.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Abschnitt, Kapitel oder Paragraf in einem Gesetz, W&ouml;rterbuch, Vertrag, einer Resolution usw.</dif>
       <trd lng="br">mellad</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x689D;&#x6B3E; <pr>ti&aacute;oku&#x01CE;n</pr></trd>,
+        <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x6761;&#x6B3E; <pr>ti&aacute;oku&#x01CE;n</pr></trd>
+      </trdgrp>
     </subsnc>
     <trd lng="be">&c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;</trd>
     <trd lng="id">artikel</trd>
@@ -295,6 +300,7 @@
       <ref cel="kompen.0o">kompendio</ref>,
       <ref cel="kresto.0o">krestomatio</ref>
     </refgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x6587;&#x96C6; <pr>w&eacute;nj&iacute;</pr></trd>
   </snc>
   <trd lng="be">&c_z;&c_b;&c_o;&c_r;&c_n;&c_ib;&c_k;
   &c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_a;&c_w;</trd>
@@ -347,6 +353,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Publish an article or articles.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x767C;&#x8868;&#x6587;&#x7AE0; <pr>f&#x0101;bi&#x01CE;o w&eacute;nzh&#x0101;ng</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x53D1;&#x8868;&#x6587;&#x7AE0; <pr>f&#x0101;bi&#x01CE;o w&eacute;nzh&#x0101;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_u;&c_b;&c_l;&c_ib;&c_k;&c_a;&c_v;&c_a;&c_c;&c_mol; <ind>&c_a;&c_r;&c_t;&c_y;&c_k;&c_u;&c_l;&c_y;</ind></trd>
   <trd lng="de">Artikel <ind>schreiben</ind></trd>

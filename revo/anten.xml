@@ -69,6 +69,10 @@
     </trdgrp>
     <trd lng="sk">tykadlo</trd>
     <trd lng="sv">antenn</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 96%">&#x89F8;&#x89D2; <pr>ch&ugrave;ji&#x01CE;o</pr></trd>,
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 96%">&#x89E6;&#x89D2; <pr>ch&ugrave;ji&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="anten.0o.MAR">
     <uzo tip="fak">MAR</uzo>
@@ -102,6 +106,7 @@
       <trd>&c_r;&c_je;&c_ja;</trd>
     </trdgrp>
     <trd lng="sk">rahno</trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x5E06;&#x6841; <pr>f&#x0101;ngh&eacute;ng</pr></trd>
   </snc>
   <snc mrk="anten.0o.ELE">
     <uzo tip="fak">ELE</uzo>
@@ -183,6 +188,10 @@
     <trd lng="ru">&c_a;&c_n;&c_t;&c_je;&c_n;&c_n;&c_a;</trd>
     <trd lng="sk">ant&eacute;na</trd>
     <trd lng="sv">antenn</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 96%">&#x5929;&#x7DDA; <pr>ti&#x0101;nxi&agrave;n</pr></trd>,
+      <trd fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 96%">&#x5929;&#x7EBF; <pr>ti&#x0101;nxi&agrave;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="cs">tykadlo hmyzu</trd>
   <trd lng="fr">antenne</trd>

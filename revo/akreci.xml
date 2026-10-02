@@ -41,6 +41,10 @@
       <ref cel="ekskre.0o.FIZL">ekskrecio</ref>,
       <ref cel="sekrec.0o.FIZL">sekrecio</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5438;&#x7A4D; <pr>x&#x012B;j&#x012B;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5438;&#x79EF; <pr>x&#x012B;j&#x012B;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_k;&c_r;&c_e;&c_c;&c_y;&c_ja;</trd>
   <trd lng="ca">acreci&oacute;</trd>

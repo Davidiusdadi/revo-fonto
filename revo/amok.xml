@@ -35,6 +35,10 @@
     <trd lng="fr">amok</trd>
     <trd lng="pl">amok</trd>
     <trd lng="ru">&c_a;&c_m;&c_o;&c_k;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x760B;&#x72C2;&#x6BBA;&#x4EBA; <pr>f&#x0113;ngku&aacute;ng sh&#x0101;r&eacute;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x75AF;&#x72C2;&#x6740;&#x4EBA; <pr>f&#x0113;ngku&aacute;ng sh&#x0101;r&eacute;n</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="id">amuk<klr> (sindrom)</klr></trd>
 </drv>

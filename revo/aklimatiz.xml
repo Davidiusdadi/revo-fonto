@@ -26,6 +26,10 @@
       <trd fnt="AI: pl be uk he ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">acclimatize</trd>,
       <trd fnt="AI: pl uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">acclimate <klr>(US)</klr></trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x4F7F;&#x9069;&#x61C9;&#x6C23;&#x5019; <pr>sh&#x01D0; sh&igrave;y&igrave;ng q&igrave;h&ograve;u</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x4F7F;&#x9002;&#x5E94;&#x6C14;&#x5019; <pr>sh&#x01D0; sh&igrave;y&igrave;ng q&igrave;h&ograve;u</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>alklimatigi</ke>, <ke>alkutimigi</ke>.

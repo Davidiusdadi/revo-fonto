@@ -34,6 +34,10 @@
   <trd lng="it">assirologia</trd>
   <trd lng="pl">asyriologia</trd>
   <trd lng="sk">as&yacute;riol&oacute;gia</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de fr it pl cs sk; proponis gpt-5.6-luna; taksis Jev 94%">&#x4E9E;&#x8FF0;&#x5B78; <pr>Y&agrave;sh&ugrave;xu&eacute;</pr></trd>,
+    <trd fnt="AI: en de fr it pl cs sk; proponis gpt-5.6-luna; taksis Jev 94%">&#x4E9A;&#x8FF0;&#x5B66; <pr>Y&agrave;sh&ugrave;xu&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="asiriologi.0isto">
@@ -54,6 +58,10 @@
   <trd lng="fr">assyriologue</trd>
   <trd lng="it">assirologo</trd>
   <trd lng="pl">asyriolog</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de fr it pl; proponis gpt-5.6-luna; taksis Jev 94%">&#x4E9E;&#x8FF0;&#x5B78;&#x5BB6; <pr>Y&agrave;sh&ugrave;xu&eacute;ji&#x0101;</pr></trd>,
+    <trd fnt="AI: en de fr it pl; proponis gpt-5.6-luna; taksis Jev 94%">&#x4E9A;&#x8FF0;&#x5B66;&#x5BB6; <pr>Y&agrave;sh&ugrave;xu&eacute;ji&#x0101;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

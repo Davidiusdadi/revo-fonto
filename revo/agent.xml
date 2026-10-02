@@ -331,6 +331,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 96%">&#x96D9;&#x91CD;&#x9593;&#x8ADC; <pr>shu&#x0101;ngch&oacute;ng ji&agrave;ndi&eacute;</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 96%">&#x53CC;&#x91CD;&#x95F4;&#x8C0D; <pr>shu&#x0101;ngch&oacute;ng ji&agrave;ndi&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_d;&c_v;&c_a;&c_j;&c_n;&c_y; <ind>&c_a;&c_g;&c_je;&c_n;&c_t;</ind></trd>
   <trd lng="de">Doppelagent</trd>
@@ -395,6 +399,7 @@
       Peranto, kiu faras kontraktojn la&ubreve; komisio kaj je konto
       de aliuloj sub sia propra nomo a&ubreve; sub tiu de sia firmao.
     </dif>
+    <trd lng="zh" fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 92%">&#x4F63;&#x91D1;&#x4EE3;&#x7406;&#x4EBA; <pr>y&ograve;ngj&#x012B;n d&agrave;il&#x01D0;r&eacute;n</pr></trd>
   </snc>
   <trd lng="be">&c_k;&c_a;&c_m;&c_ib;&c_s;&c_ib;&c_ja;&c_n;&c_e;&c_r;</trd>
   <trd lng="de">Kommission&auml;r</trd>

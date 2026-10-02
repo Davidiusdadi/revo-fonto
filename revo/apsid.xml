@@ -65,6 +65,12 @@
       <trd>absyda</trd>
     </trdgrp>
     <trd lng="pt">&aacute;bside</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x5F8C;&#x6BBF; <pr>h&ograve;udi&agrave;n</pr></trd>,
+      <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x540E;&#x6BBF; <pr>h&ograve;udi&agrave;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x534A;&#x5713;&#x5BA4; <pr>b&agrave;nyu&aacute;nsh&igrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x534A;&#x5706;&#x5BA4; <pr>b&agrave;nyu&aacute;nsh&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="apsid.0o.AST">
     <uzo tip="fak">AST</uzo>
@@ -100,6 +106,10 @@
     <trd lng="hu">apszispont</trd>
     <trd lng="pl">apsyda</trd>
     <trd lng="pt">apside</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x62F1;&#x9EDE; <pr>g&#x01D2;ngdi&#x01CE;n</pr></trd>,
+      <trd fnt="AI: en de dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x62F1;&#x70B9; <pr>g&#x01D2;ngdi&#x01CE;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="cs">apsidy</trd>
   <trd lng="de">Apside</trd>

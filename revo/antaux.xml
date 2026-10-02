@@ -66,6 +66,7 @@
     <trd lng="no">foran</trd>
     <trd lng="pl">przed</trd>
     <trd lng="vo">bif</trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x524D;&#x9762; <pr>qi&aacute;nmi&agrave;n</pr></trd>
   </snc>
   <snc mrk="antaux.0.rigardate">
     <dif>
@@ -114,6 +115,7 @@
     <trd lng="no">foran</trd>
     <trd lng="pl">przed</trd>
     <trd lng="vo">bif</trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x9762;&#x524D; <pr>mi&agrave;nqi&aacute;n</pr></trd>
   </snc>
   <snc mrk="antaux.0.tempe">
     <dif>
@@ -602,6 +604,10 @@
   <trd lng="nl">van voor</trd>
   <trd lng="pl">z przed</trd>
   <trd lng="ru">&c_o;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x5F9E;&#x524D;&#x9762; <pr>c&oacute;ngqi&aacute;nmi&agrave;n</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x4ECE;&#x524D;&#x9762; <pr>c&oacute;ngqi&aacute;nmi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="antaux.mal0">
@@ -762,6 +768,10 @@
   <trd lng="xh">ngemva</trd>
   <trd lng="yi">&he;&yod;&nun;&tet;&ayin;&resh;</trd>
   <trd lng="yo">sile</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x5F8C;&#x9762; <pr>h&ograve;umi&agrave;n</pr></trd>,
+    <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x540E;&#x9762; <pr>h&ograve;umi&agrave;n</pr></trd>
+  </trdgrp>
   <trd lng="zu">ngemuva</trd>
 </drv>
 
@@ -822,6 +832,10 @@
   <trd lng="ru">&c_z;&c_a;<klr tip="amb">
   (&c_o; &c_n;&c_a;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_i;)
   </klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x5411;&#x5F8C; <pr>xi&agrave;ngh&ograve;u</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x5411;&#x540E; <pr>xi&agrave;ngh&ograve;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="antaux.demal0">
@@ -871,6 +885,10 @@
   <trd lng="ru">&c_i;&c_z;-&c_z;&c_a;<klr tip="amb">
   (&c_o; &c_n;&c_a;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_i;,
   &c_m;&c_je;&c_s;&c_t;&c_je;)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5F9E;&#x5F8C;&#x9762; <pr>c&oacute;ngh&ograve;umi&agrave;n</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x4ECE;&#x540E;&#x9762; <pr>c&oacute;ngh&ograve;umi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="antaux.elmal0">
@@ -909,6 +927,10 @@
   <trd lng="ru">&c_i;&c_z;-&c_z;&c_a;<klr tip="amb">
   (&c_o; &c_n;&c_a;&c_p;&c_r;&c_a;&c_v;&c_l;&c_je;&c_n;&c_i;&c_i;,
   &c_m;&c_je;&c_s;&c_t;&c_je;)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x5F9E;&#x5F8C;&#x9762; <pr>c&oacute;ngh&ograve;umi&agrave;n</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x4ECE;&#x540E;&#x9762; <pr>c&oacute;ngh&ograve;umi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 </subart>
@@ -1604,6 +1626,7 @@
       <trd>&c_p;&c_r;&c_je;&c_d;&c_y;&c_d;&c_u;&c_shch;&c_je;&c_je;
       </trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x4EE5;&#x524D; <pr>y&#x01D0;qi&aacute;n</pr></trd>
   </snc>
   <trd lng="he">&qof;&dalet;&mem;&he;</trd>
 </drv>
@@ -1874,6 +1897,7 @@
       </trd>,
       <trd>&c_p;&c_r;&c_o;&c_sh;&c_l;&c_o;&c_je;</trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x5148;&#x524D;&#x7684;&#x4E8B; <pr>xi&#x0101;nqi&aacute;ndesh&igrave;</pr></trd>
   </snc>
   <trd lng="he">&mem;&qof;&dalet;&yod;&fmem;</trd>
 </drv>
@@ -2028,6 +2052,10 @@
   </trdgrp>
   <trd lng="he">&ayin;&#x5B2;&dalet;&#x5B4;&yod;&pe;&vav;&#x5BC;&tav;</trd>
 <trd lng="id">prioritas</trd>
+<trdgrp lng="zh">
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x5148;&#x5F8C;&#x95DC;&#x4FC2; <pr>xi&#x0101;nh&ograve;ugu&#x0101;nx&igrave;</pr></trd>,
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x5148;&#x540E;&#x5173;&#x7CFB; <pr>xi&#x0101;nh&ograve;ugu&#x0101;nx&igrave;</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="antaux.0enema">
@@ -2100,6 +2128,10 @@
 <trdgrp lng="id">
   <trd>progresif</trd>,
   <trd><baz>pikir</baz>berpikir maju</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x9032;&#x53D6;&#x7684; <pr>j&igrave;nq&#x01D4;de</pr></trd>,
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8FDB;&#x53D6;&#x7684; <pr>j&igrave;nq&#x01D4;de</pr></trd>
 </trdgrp>
 </drv>
 
@@ -2350,6 +2382,10 @@
     <trd>&c_v;&c_y;&c_s;&c_t;&c_u;&c_p;&c_a;&c_t;&c_mol;
     <klr tip="amb"> (&c_i;&c_z; &c_ch;&c_je;&c_g;&c_o;-&c_l;.)</klr>
     </trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x63D0;&#x524D;&#x5230;&#x9054; <pr>t&iacute;qi&aacute;nd&agrave;od&aacute;</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x63D0;&#x524D;&#x5230;&#x8FBE; <pr>t&iacute;qi&aacute;nd&agrave;od&aacute;</pr></trd>
   </trdgrp>
   <adm>
     En la PV-a redakto estis du sencoj: la unua, senekzempla, tekstis
@@ -2675,6 +2711,10 @@
     <trd>wstecz</trd>
   </trdgrp>
   <trd lng="ru">&c_n;&c_a;&c_z;&c_a;&c_d;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5411;&#x5F8C; <pr>xi&agrave;ngh&ograve;u</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5411;&#x540E; <pr>xi&agrave;ngh&ograve;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="antaux.mal0igxi">
@@ -2712,6 +2752,10 @@
   </trdgrp>
   <trd lng="en">stay behind</trd>
 <trd lng="id"><baz>tinggal</baz>tertinggal</trd>
+<trdgrp lng="zh">
+  <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x843D;&#x5F8C; <pr>lu&ograve;h&ograve;u</pr></trd>,
+  <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x843D;&#x540E; <pr>lu&ograve;h&ograve;u</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="antaux.mal0o">
@@ -2834,6 +2878,10 @@
   <trd lng="de">nicht <ind>vor</ind></trd>
   <trd lng="en">not <ind>before</ind></trd>
 <trd lng="id">tidak sebelum</trd>
+<trdgrp lng="zh">
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E0D;&#x65E9;&#x65BC; <pr>b&ugrave;z&#x01CE;oy&uacute;</pr></trd>,
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E0D;&#x65E9;&#x4E8E; <pr>b&ugrave;z&#x01CE;oy&uacute;</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="antaux.0cxio">
@@ -2930,6 +2978,7 @@
     <trd>przed tym</trd>,
     <trd>wcze&sacute;niej</trd>
   </trdgrp>
+  <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x5728;&#x2026;&#x2026;&#x4E4B;&#x524D; <pr>z&agrave;izh&#x012B;qi&aacute;n</pr></trd>
 </drv>
 
 <drv mrk="antaux.0ol">
@@ -3017,6 +3066,7 @@
           </refgrp>
         </ekz>
       </dif>
+      <trd lng="zh" fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x524D; <pr>qi&aacute;n</pr></trd>
     </subsnc>
     <subsnc>
       <dif>
@@ -3054,6 +3104,7 @@
         </ekz>
       </dif>
     </subsnc>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x524D; <pr>qi&aacute;n</pr></trd>
   </snc>
   <snc>
     <dif>

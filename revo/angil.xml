@@ -58,6 +58,10 @@
           ref="&WCW;/File:Anguilla-anguilla_1.jpg">&WCW;/File:Anguilla-anguilla_1.jpg</url></lok>
         </fnt>
     </bld>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x9C3B;&#x9C7A; <pr>m&aacute;nl&iacute;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x9CD7;&#x9CA1; <pr>m&aacute;nl&iacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_u;&c_g;&c_a;&c_r;</trd>
   <trd lng="bg">&c_z;&c_m;&c_i;&c_o;&c_r;&c_k;&c_a;</trd>
@@ -106,6 +110,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An order of bony fish (Anguilliformes), without pectoral fins.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Ordnung der Knochenfische ohne Brustflossen.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x9C3B;&#x9C7A;&#x76EE; <pr>m&aacute;nl&iacute;m&ugrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x9CD7;&#x9CA1;&#x76EE; <pr>m&aacute;nl&iacute;m&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_u;&c_g;&c_r;&c_a;&c_p;&c_a;&c_d;&c_o;&c_b;&c_n;&c_y;&c_ja; <klr>(&c_a;&c_t;&c_r;&c_a;&c_d;)</klr></trd>
   <trd lng="ca">anguil&middot;liformes</trd>

@@ -53,6 +53,10 @@
       <trd>&c_a;&c_l;&c_mol;&c_p;&c_i;&c_j;&c_s;&c_k;&c_i;&c_j; &c_l;&c_u;&c_g;</trd>
     </trdgrp>
     <trd lng="sk">vysokohorsk&aacute; pastvina</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x9AD8;&#x5C71;&#x7267;&#x5834; <pr>g&#x0101;osh&#x0101;n m&ugrave;ch&#x01CE;ng</pr></trd>,
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x9AD8;&#x5C71;&#x7267;&#x573A; <pr>g&#x0101;osh&#x0101;n m&ugrave;ch&#x01CE;ng</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="alp.0o.GEOG">
     <fnt><bib>PIV1</bib></fnt>
@@ -334,6 +338,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Franz&ouml;sisches D&eacute;partement an der italienischen Grenze, s&uuml;dwestlich von Turin.</dif>
   <trd lng="en">Haute-Alpes</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 87%">&#x4E0A;&#x963F;&#x723E;&#x5351;&#x65AF;&#x7701; <pr>Sh&agrave;ng &#x0100;'&ecaron;rb&#x0113;is&#x012B; Sh&ecaron;ng</pr></trd>,
+    <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 87%">&#x4E0A;&#x963F;&#x5C14;&#x5351;&#x65AF;&#x7701; <pr>Sh&agrave;ng &#x0100;'&ecaron;rb&#x0113;is&#x012B; Sh&ecaron;ng</pr></trd>
+  </trdgrp>
   </snc>
   <trd lng="be">&c_V;&c_je;&c_r;&c_h;&c_n;&c_ib;&c_ja; <ind>&c_A;&c_l;&c_mol;&c_p;&c_y;</ind></trd>
   <trd lng="de">Hautes-Alpes</trd>
@@ -356,6 +364,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 94%">&#x6731;&#x5229;&#x5B89;&#x963F;&#x723E;&#x5351;&#x65AF;&#x5C71; <pr>Zh&#x016B;l&igrave;'&#x0101;n &#x0100;'&ecaron;rb&#x0113;is&#x012B; Sh&#x0101;n</pr></trd>,
+      <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 94%">&#x6731;&#x5229;&#x5B89;&#x963F;&#x5C14;&#x5351;&#x65AF;&#x5C71; <pr>Zh&#x016B;l&igrave;'&#x0101;n &#x0100;'&ecaron;rb&#x0113;is&#x012B; Sh&#x0101;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_Ju;&c_l;&c_ib;&c_j;&c_s;&c_k;&c_ib;&c_ja; <ind>&c_A;&c_l;&c_mol;&c_p;&c_y;</ind></trd>
   <trd lng="de">Julische Alpen</trd>
@@ -385,6 +397,10 @@
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">D&eacute;partement im S&uuml;dwesten Frankreichs am Mittelmeer.</dif>
   <trd lng="en">Alpes-Maritimes</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 90%">&#x6FF1;&#x6D77;&#x963F;&#x723E;&#x5351;&#x65AF;&#x7701; <pr>B&#x012B;nh&#x01CE;i &#x0100;'&ecaron;rb&#x0113;is&#x012B; Sh&ecaron;ng</pr></trd>,
+    <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 90%">&#x6EE8;&#x6D77;&#x963F;&#x5C14;&#x5351;&#x65AF;&#x7701; <pr>B&#x012B;nh&#x01CE;i &#x0100;'&ecaron;rb&#x0113;is&#x012B; Sh&ecaron;ng</pr></trd>
+  </trdgrp>
   </snc>
   <trd lng="be">&c_P;&c_r;&c_y;&c_m;&c_o;&c_r;&c_s;&c_k;&c_ib;&c_ja; <ind>&c_A;&c_l;&c_mol;&c_p;&c_y;</ind></trd>
   <trd lng="de">Alpes-Maritimes</trd>

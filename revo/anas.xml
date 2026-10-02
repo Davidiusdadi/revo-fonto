@@ -120,6 +120,10 @@
         </fnt>
     </bld>
   <trd lng="id">Anas (genus)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x9D28;&#x5C6C; <pr>y&#x0101;sh&#x01D4;</pr></trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x9E2D;&#x5C5E; <pr>y&#x0101;sh&#x01D4;</pr></trd>
+  </trdgrp>
   </snc>
   <trd lng="af">eend</trd>
   <trd lng="am">&#4851;&#4781;&#4844;</trd>
@@ -222,6 +226,10 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Schar zusammenlebender Enten.</dif>
     <ref tip="super" cel="greg.0o.ZOO">grego</ref>
     <trd lng="de" fnt="AI: dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Entenschwarm</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x9D28;&#x7FA4; <pr>y&#x0101;q&uacute;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x9E2D;&#x7FA4; <pr>y&#x0101;q&uacute;n</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_ch;&c_a;&c_r;&c_a;&c_d;&c_a; <ind>&c_k;&c_a;&c_ch;&c_a;&c_k;</ind></trd>
 <trdgrp lng="id">
@@ -318,6 +326,10 @@
     <trd lng="fr"><ind>sarcelle</ind> &agrave; ailes bleues</trd>
     <trd lng="pl">cyranka modroskrzyd&lstroke;a</trd>
     <trd lng="sv">bl&aring;vingad <ind>&aring;rta</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 88%">&#x85CD;&#x7FC5;&#x9D28; <pr>l&aacute;nch&igrave;y&#x0101;</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 88%">&#x84DD;&#x7FC5;&#x9E2D; <pr>l&aacute;nch&igrave;y&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">xarxet alablau</trd>
   <trd lng="es">cerceta aliazul</trd>
@@ -845,6 +857,10 @@
     <trd lng="ru">&c_h;&c_o;&c_h;&c_l;&c_a;&c_t;&c_a;&c_ja;
     &c_ch;&c_je;&c_r;&c_n;&c_je;&c_t;&c_mol;</trd>
   <trd lng="sv">vigg</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x9CF3;&#x982D;&#x6F5B;&#x9D28; <pr>f&egrave;ngt&oacute;u qi&aacute;ny&#x0101;</pr></trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x51E4;&#x5934;&#x6F5C;&#x9E2D; <pr>f&egrave;ngt&oacute;u qi&aacute;ny&#x0101;</pr></trd>
+  </trdgrp>
   </snc>
   <trdgrp lng="id">
     <trd>kambangan hitam</trd>,
@@ -884,6 +900,10 @@
     <trd lng="id">Somateria (genus)</trd>
     <trd lng="nl">eidereend</trd>
     <trd lng="sv">ejder</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 84%">&#x7D68;&#x9D28;&#x5C6C; <pr>r&oacute;ngy&#x0101;sh&#x01D4;</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 84%">&#x7ED2;&#x9E2D;&#x5C5E; <pr>r&oacute;ngy&#x0101;sh&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="anas.mol0o.ZOO">
     <uzo tip="fak">ZOO</uzo>
@@ -1164,6 +1184,10 @@
     <trd lng="fr"><ind>canard</ind> pilet</trd>
     <trd lng="pl">ro&zdot;eniec</trd>
     <trd lng="sv">stj&auml;rt<ind>and</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 92%">&#x91DD;&#x5C3E;&#x9D28; <pr>zh&#x0113;nw&ecaron;i y&#x0101;</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 92%">&#x9488;&#x5C3E;&#x9E2D; <pr>zh&#x0113;nw&ecaron;i y&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_sh;&c_y;&c_l;&c_a;&c_h;&c_v;&c_o;&c_s;&c_t;&c_k;&c_a;</trd>
   <trdgrp lng="ca">
@@ -1222,6 +1246,10 @@
     <trd lng="fr"><ind>eider</ind> &agrave; t&ecirc;te grise</trd>
     <trd lng="pl">turkan</trd>
     <trd lng="sv">praktejder</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 80%">&#x738B;&#x7D68;&#x9D28; <pr>w&aacute;ng r&oacute;ngy&#x0101;</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 80%">&#x738B;&#x7ED2;&#x9E2D; <pr>w&aacute;ng r&oacute;ngy&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_g;&c_a;-&c_g;&c_r;&c_a;&c_b;&c_ja;&c_n;&c_u;&c_sh;&c_k;&c_a;</trd>
   <trd lng="ca">&egrave;ider reial</trd>
@@ -1323,6 +1351,10 @@
     <trd lng="ru">&c_h;&c_o;&c_h;&c_l;&c_a;&c_t;&c_a;&c_ja;
     &c_ch;&c_je;&c_r;&c_n;&c_je;&c_t;&c_mol;</trd>
     <trd lng="sv">vigg</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x9CF3;&#x982D;&#x6F5B;&#x9D28; <pr>f&egrave;ngt&oacute;u qi&aacute;ny&#x0101;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x51E4;&#x5934;&#x6F5C;&#x9E2D; <pr>f&egrave;ngt&oacute;u qi&aacute;ny&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">morell de plomall</trd>
   <trdgrp lng="id">

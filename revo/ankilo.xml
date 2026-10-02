@@ -44,6 +44,10 @@
       <trd>Ankylose</trd>,
       <trd>Gelenkversteifung</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 94%">&#x95DC;&#x7BC0;&#x5F37;&#x76F4; <pr>gu&#x0101;nji&eacute; qi&aacute;ngzh&iacute;</pr></trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 94%">&#x5173;&#x8282;&#x5F3A;&#x76F4; <pr>gu&#x0101;nji&eacute; qi&aacute;ngzh&iacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_n;&c_k;&c_ib;&c_l;&c_o;&c_z;</trd>
   <trd lng="bg">&c_a;&c_n;&c_k;&c_i;&c_l;&c_o;&c_z;</trd>

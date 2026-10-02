@@ -551,6 +551,10 @@
       <trd>&c_k;&c_o;&c_m;&c_p;&c_o;&c_n;&c_o;&c_v;&c_k;&c_a;</trd>,
       <trd>&c_f;&c_o;&c_r;&c_m;&c_a;&c_t;</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x4F48;&#x5C40; <pr>b&ugrave;j&uacute;</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x5E03;&#x5C40; <pr>b&ugrave;j&uacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="he">&mem;&#x5B7;&ayin;&#x5B2;&resh;&#x5B8;&fkaf;</trd>
   <trdgrp lng="ja">
@@ -689,6 +693,7 @@
     <trd lng="ru">&c_r;&c_a;&c_z;&c_m;&c_je;&c_shch;&c_je;&c_n;&c_i;&c_je;<klr tip="amb">
     (&c_i;&c_z; n &c_p;&c_o; p)</klr></trd>
     <trd lng="sk">usporiadanie</trd>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x6392;&#x5217; <pr>p&aacute;ili&egrave;</pr></trd>
   </snc>
   <trd lng="he">&he;&#x5B6;&samekh;&dalet;&#x5B5;&resh;</trd>
   <trd lng="uk">&c_p;&c_r;&c_i;&c_s;&c_t;&c_r;&c_ib;&c_j;</trd>
@@ -776,6 +781,10 @@
        <ref cel="scen.en0igisto">enscenigisto</ref>,
        <ref cel="organi2.0ado">organizado</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x7D44;&#x7E54;&#x8005; <pr>z&#x01D4;zh&#x012B;zh&ecaron;</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x7EC4;&#x7EC7;&#x8005; <pr>z&#x01D4;zh&#x012B;zh&ecaron;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_g;&c_a;&c_n;&c_ib;&c_z;&c_a;&c_t;&c_a;&c_r;</trd>
   <trdgrp lng="de">
@@ -880,6 +889,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x9810;&#x5148;&#x5B89;&#x6392; <pr>y&ugrave;xi&#x0101;n &#x0101;np&aacute;i</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x9884;&#x5148;&#x5B89;&#x6392; <pr>y&ugrave;xi&#x0101;n &#x0101;np&aacute;i</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_y;&c_h;&c_t;&c_a;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -987,6 +1000,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The way in which the elements of a sentence are arranged.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8A9E;&#x5E8F; <pr>y&#x01D4;x&ugrave;</pr></trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8BED;&#x5E8F; <pr>y&#x01D4;x&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="de">
     <trd>Satzstellung</trd>,
@@ -1192,6 +1209,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A composition of dance movements by one or more dancers for a stage performance; choreography.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x7DE8;&#x821E; <pr>bi&#x0101;nw&#x01D4;</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x7F16;&#x821E; <pr>bi&#x0101;nw&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="de">Choreographie</trd>
   <trd lng="en" fnt="AI: de ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">choreography</trd>
@@ -1223,6 +1244,7 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A decorative arrangement of flowers, whether in a vase, in a function room or in a flower bed.</dif>
     <ref tip="sub" cel="buked.0o.fasko">bukedo</ref>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x63D2;&#x82B1; <pr>ch&#x0101;hu&#x0101;</pr></trd>
   </snc>
   <trdgrp lng="de">
     <trd>Blumenarrangement</trd>,
@@ -1318,6 +1340,10 @@
       </ekz>
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An event featuring cultural activities (music, art, cultural exchange, etc.).</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6587;&#x5316;&#x6D3B;&#x52D5; <pr>w&eacute;nhu&agrave; hu&oacute;d&ograve;ng</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6587;&#x5316;&#x6D3B;&#x52A8; <pr>w&eacute;nhu&agrave; hu&oacute;d&ograve;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="de">kulturelle <ind>Veranstaltung</ind></trd>
   <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">cultural event</trd>
@@ -1351,6 +1377,10 @@
       <trd>Bearbeitung <klr>(Musikst&uuml;ck)</klr></trd>
     </trdgrp>
     <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">arrangement</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x7DE8;&#x66F2; <pr>bi&#x0101;nq&#x01D4;</pr></trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x7F16;&#x66F2; <pr>bi&#x0101;nq&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="arangx.muzik0o.evento">
     <dif>
@@ -1385,6 +1415,10 @@
         <trd lng="de">Spaltensatz</trd>
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x7248;&#x9762;&#x4F48;&#x5C40; <pr>b&#x01CE;nmi&agrave;n b&ugrave;j&uacute;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x7248;&#x9762;&#x5E03;&#x5C40; <pr>b&#x01CE;nmi&agrave;n b&ugrave;j&uacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="de">Seitenlayout</trd>
   <trd lng="en">page layout</trd>
@@ -1430,6 +1464,7 @@
       <ref cel="fason.0o.TEK">fasono<sncref/></ref>,
       <ref cel="tipogr.0o">tipografio</ref>
     </refgrp>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x6392;&#x7248; <pr>p&aacute;ib&#x01CE;n</pr></trd>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_k;&c_je;&c_t; <klr>(&c_t;&c_e;&c_k;&c_s;&c_t;&c_u;)</klr></trd>
   <trd lng="de">Tekstformatierung</trd>

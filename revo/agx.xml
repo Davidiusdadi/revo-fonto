@@ -261,6 +261,10 @@
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">To have reached the age of.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Alter von &#x2026; erreicht haben.</dif>
     <trd lng="th">&#3617;&#3637;&#3629;&#3634;&#3618;&#3640;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x9054;&#x5230;&#x2026;&#x2026;&#x6B72; <pr>d&aacute;d&agrave;o su&igrave;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x8FBE;&#x5230;&#x2026;&#x2026;&#x5C81; <pr>d&aacute;d&agrave;o su&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_je;&c_c;&c_mol; <klr>(&c_g;&c_a;&c_d;&c_o;&c_w; &c_v;&c_je;&c_k;&c_u;)</klr></trd>,
@@ -399,6 +403,7 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Age of flowering, of flourishing youth.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Alter der Bl&uuml;te, der gedeihenden Jugend.</dif>
+    <trd lng="zh" fnt="AI: fr dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x9752;&#x6625;&#x76DB;&#x5E74; <pr>q&#x012B;ngch&#x016B;nsh&egrave;ngni&aacute;n</pr></trd>
   </snc>
   <trd lng="be">&c_u;&c_z;&c_r;&c_o;&c_s;&c_t; &c_r;&c_o;&c_s;&c_k;&c_v;&c_ib;&c_t;&c_u;</trd>
   <trd lng="ca">flor de la vida</trd>
@@ -665,6 +670,7 @@
    <trd lng="ru">&c_ch;&c_je;&c_l;&c_o;&c_v;&c_je;&c_k; &c_s;&c_r;&c_je;&c_d;&c_n;&c_je;&c_g;&c_o;
    &c_v;&c_o;&c_z;&c_r;&c_a;&c_s;&c_t;&c_a;</trd>
    <trd lng="sv">medel&aring;lders person</trd>
+   <trd lng="zh" fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 96%">&#x4E2D;&#x5E74;&#x4EBA; <pr>zh&#x014D;ngni&aacute;nr&eacute;n</pr></trd>
 </drv>
 
 <drv mrk="agx.mond0o">
@@ -933,6 +939,10 @@ Betra&hcirc;</lok></fnt>.
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">&Auml;lter werden, altern.</dif>
     <trd
     lng="th">&#3617;&#3637;&#3629;&#3634;&#3618;&#3640;&#3617;&#3634;&#3585;&#3586;&#3638;&#3657;&#3609;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x8B8A;&#x8001; <pr>bi&agrave;nl&#x01CE;o</pr></trd>,
+      <trd fnt="AI: en ref dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x53D8;&#x8001; <pr>bi&agrave;nl&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_a;&c_n;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a;
   <ind>&c_s;&c_t;&c_a;&c_r;&c_e;&c_j;&c_sh;&c_y;&c_m;</ind></trd>
@@ -1015,6 +1025,10 @@ Betra&hcirc;</lok></fnt>.
          <fnt><bib>NT</bib>, <lok>&Gen; 25:8</lok></fnt>.
        </ekz>
      </dif>
+     <trdgrp lng="zh">
+       <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9AD8;&#x9F61;&#x7684; <pr>g&#x0101;ol&iacute;ng de</pr></trd>,
+       <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9AD8;&#x9F84;&#x7684; <pr>g&#x0101;ol&iacute;ng de</pr></trd>
+     </trdgrp>
    </snc>
    <trd lng="be">&c_s;&c_t;&c_a;&c_r;&c_y; <klr>(&c_g;&c_l;&c_y;&c_b;&c_o;&c_k;&c_a;)</klr></trd>
    <trd lng="br">er maez a <ind>oad</ind></trd>

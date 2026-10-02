@@ -46,6 +46,7 @@
       </dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A previous legal matter involving a person.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Rechtsangelegenheit, die jemand fr&uuml;her einmal erlebt hat.</dif>
+      <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x524D;&#x79D1; <pr>qi&aacute;nk&#x0113;</pr></trd>
     </subsnc>
     <subsnc mrk="antecedent.0o.MED">
       <uzo tip="fak">MED</uzo>
@@ -64,6 +65,7 @@
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A previous health-related event in a patient's life.</dif>
       <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Fr&uuml;heres gesundheitliches Ereignis im Leben eines Patienten.</dif>
       <trd lng="de" fnt="Vikt: fr; juĝis claude-opus-5">Vorgeschichte</trd>
+      <trd lng="zh" fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x75C5;&#x53F2; <pr>b&igrave;ngsh&#x01D0;</pr></trd>
     </subsnc>
     <subsnc mrk="antecedent.0o.FIL">
       <uzo tip="fak">FIL</uzo>
@@ -83,7 +85,9 @@
         <trd fnt="AI: fa dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Vordersatz</trd>
       </trdgrp>
       <trd lng="fa">&a_m;&a_q;&a_d;&a_m;<klr tip="ind"> (&a_m;&a_n;&a_T;&a_q;)</klr></trd>
+      <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x524D;&#x4EF6; <pr>qi&aacute;nji&agrave;n</pr></trd>
     </subsnc>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x5148;&#x4F8B; <pr>xi&#x0101;nl&igrave;</pr></trd>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>anta&#365;a&#309;o</ke>, <ke>vivhistorio</ke>.

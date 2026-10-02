@@ -671,6 +671,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x52A9;&#x884C;&#x8ECA; <pr>zh&ugrave;x&iacute;ngch&#x0113;</pr></trd>,
+      <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x52A9;&#x884C;&#x8F66; <pr>zh&ugrave;x&iacute;ngch&#x0113;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_r;&c_a;&c_l;&c_ja;&c_t;&c_a;&c_r;</trd>,
@@ -716,6 +720,10 @@
       <ref cel="steg.0o">stego</ref>,
       <ref cel="transv.0ajxo">transversa&jcirc;o</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x659C;&#x6490; <pr>xi&eacute;ch&#x0113;ng</pr></trd>,
+      <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x659C;&#x6491; <pr>xi&eacute;ch&#x0113;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_s;&c_p;&c_o;&c_r;&c_k;&c_a;</trd>
   <trd lng="de">Strebe</trd>

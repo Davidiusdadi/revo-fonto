@@ -111,6 +111,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A male wild boar.</dif>
     <trd lng="de">Keiler</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de; proponis gpt-5.6-luna; taksis Jev 92%">&#x516C;&#x91CE;&#x8C6C; <pr>g&#x014D;ng y&ecaron;zh&#x016B;</pr></trd>,
+      <trd fnt="AI: de; proponis gpt-5.6-luna; taksis Jev 92%">&#x516C;&#x91CE;&#x732A; <pr>g&#x014D;ng y&ecaron;zh&#x016B;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_r;&c_s;&c_ju;&c_k; <klr>(&c_d;&c_z;&c_ib;&c_k;&c_ib;)</klr></trd>,
@@ -188,6 +192,10 @@
       <trd>warchlak</trd>
       <trd>prosi&eogonek; <ind>dzika</ind></trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de fr en; proponis gpt-5.6-luna; taksis Jev 89%">&#x91CE;&#x8C6C;&#x5E7C;&#x5D3D; <pr>y&ecaron;zh&#x016B; y&ograve;uz&#x01CE;i</pr></trd>,
+      <trd fnt="AI: de fr en; proponis gpt-5.6-luna; taksis Jev 89%">&#x91CE;&#x732A;&#x5E7C;&#x5D3D; <pr>y&ecaron;zh&#x016B; y&ograve;uz&#x01CE;i</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="en">piglet <klr>(of a boar)</klr></trd>
 <trd lng="id">anak celeng</trd>
@@ -264,6 +272,10 @@
           ref="&WCW;/File:Facocero_com%C3%BAn_(Phacochoerus_africanus),_parque_nacional_de_Zambeze,_Zimbabue,_2018-07-28,_DD_01.jpg">&WCW;/File:Facocero_com&uacute;n_(Phacochoerus_africanus),_parque_nacional_de_Zambeze,_Zimbabue,_2018-07-28,_DD_01.jpg</url></lok>
         </fnt>
     </bld>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref en; proponis gpt-5.6-luna; taksis Jev 96%">&#x75A3;&#x8C6C; <pr>y&oacute;uzh&#x016B;</pr></trd>,
+      <trd fnt="AI: ref en; proponis gpt-5.6-luna; taksis Jev 96%">&#x75A3;&#x732A; <pr>y&oacute;uzh&#x016B;</pr></trd>
+    </trdgrp>
   </snc>
       <trdgrp lng="be">
       <trd>&c_b;&c_a;&c_r;&c_o;&c_d;&c_a;&c_v;&c_a;&c_ch;&c_n;&c_ib;&c_k;</trd>,

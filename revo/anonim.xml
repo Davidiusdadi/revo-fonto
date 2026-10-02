@@ -152,6 +152,7 @@
       <trd fnt="Vikt: en de fr ko pt ru; juĝis claude-opus-5">anonymity</trd>,
       <trd fnt="Vikt: de; juĝis claude-opus-5">anonymousness</trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x533F;&#x540D;&#x6027; <pr>n&igrave;ngm&iacute;ngx&igrave;ng</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_n;&c_a;&c_n;&c_ib;&c_m;&c_n;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,
@@ -194,6 +195,7 @@
       <ref cel="inkogn.0o.ulo">inkognito<sncref/></ref>,
       <ref cel="kon.ne0ato.KOMUNE">nekonato<sncref/></ref>
     </refgrp>
+    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x533F;&#x540D;&#x8005; <pr>n&igrave;ngm&iacute;ngzh&ecaron;</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_n;&c_a;&c_n;&c_ib;&c_m;</trd>,
