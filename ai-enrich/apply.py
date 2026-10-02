@@ -15,6 +15,7 @@ only with its accept, in the checker's wording.
   <trd lng="de" fnt="AI: pl fr ru; proponis M; kontrolis C">Teilstaat</trd>
   <trd lng="de" kod="ARK" fnt="AI: ...; serĉo">Haupt <klr>(veraltet)</klr></trd>
   <dif lng="de" fnt="AI: eo; tradukis M; kontrolis C">Ein Staat innerhalb eines Bundesstaats.</dif>
+  <trd lng="zh" fnt="AI: en de; proponis M; taksis Jev 84%">…</trd>    (checked by Jev, jev.py)
 
 Words go where the proposal put them: under the sense, or under the entry for a whole-word
 translation, at most 3 per place, the checker's order of acceptance being the proposer's order.
@@ -46,6 +47,13 @@ def load(path):
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def checked(check, verdict):
+    """The fnt step for the check: a model's verdict, or Jev's score (jev.py), kept for a later review."""
+    if check["model"] == "jev-latest":
+        return f"taksis Jev {round(verdict['jev'] * 100)}%"
+    return f"kontrolis {check['model']}"
+
+
 def accepted(lng, holdout=False):
     """-> (word decisions, definition decisions, skipped counts), per article."""
     base = HERE / "out" / lng / ("holdout" if holdout else "")
@@ -68,7 +76,7 @@ def accepted(lng, holdout=False):
             if not v or not v["accept"]:
                 continue
             sources = " ".join(dict.fromkeys(pr["sources"]))
-            fnt = f"AI: {sources}; proponis {prop['model']}; kontrolis {check['model']}" + ("; serĉo" if v["searched"] else "")
+            fnt = f"AI: {sources}; proponis {prop['model']}; {checked(check, v)}" + ("; serĉo" if v["searched"] else "")
             if lng == "zh":                          # both scripts, traditional first, each with its pinyin
                 py, trad = v.get("pinyin") or pr.get("pinyin"), v.get("traditional") or pr.get("traditional")
                 by_node[pr["mrk"]].append([{"word": f, "mark": "", "pr": py, "fnt": fnt}
@@ -85,7 +93,7 @@ def accepted(lng, holdout=False):
                 if text.endswith((":", "：")):       # copied from an Esperanto dif that examples follow
                     text = text[:-1].rstrip() + ("。" if lng == "zh" else ".")
                 difs[article].append({"drv": drv_of[d["mrk"]], "node": d["mrk"], "text": text,
-                                      "fnt": f"AI: eo; tradukis {prop['model']}; kontrolis {check['model']}"})
+                                      "fnt": f"AI: eo; tradukis {prop['model']}; {checked(check, d)}"})
     return words, difs, skipped
 
 
