@@ -53,6 +53,7 @@
     </trdgrp>
     <trd lng="pt">absolver</trd>
     <trd lng="ru">&c_o;&c_t;&c_p;&c_u;&c_s;&c_t;&c_i;&c_t;&c_mol; &c_g;&c_r;&c_je;&c_h;&c_i;</trd>
+    <trd lng="zh" fnt="AI: ref en de pl ru; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x8D66;&#x7F6A; <pr>sh&egrave;zu&igrave;</pr></trd>
   </snc>
   <snc mrk="absolv.0i.JUR">
     <uzo tip="fak">JUR</uzo>
@@ -123,6 +124,10 @@
       <trd>&c_o;&c_p;&c_r;&c_a;&c_v;&c_d;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
     <trd lng="sk">oslobodi&tcaron; <klr>(ob&zcaron;alovan&eacute;ho)</klr></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif de it ru be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x5BA3;&#x544A;&#x7121;&#x7F6A; <pr>xu&#x0101;ng&agrave;ow&uacute;zu&igrave;</pr></trd>,
+      <trd fnt="AI: dif de it ru be; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x5BA3;&#x544A;&#x65E0;&#x7F6A; <pr>xu&#x0101;ng&agrave;ow&uacute;zu&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">absoldre</trd>
   <trd lng="cs">prohl&aacute;sit nevinn&yacute;m</trd>

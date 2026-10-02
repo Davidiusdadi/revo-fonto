@@ -69,6 +69,7 @@
       <trd>&c_n;&c_je;
       <ind>&c_u;&c_d;&c_a;&c_t;&c_mol;&c_s;&c_ja;</ind></trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x592D;&#x6298; <pr>y&#x0101;ozh&eacute;</pr></trd>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Anka&ubreve; eblas diri <ke>misnaski</ke>;
@@ -217,6 +218,10 @@
   <trd lng="pt">aborto</trd>
   <trd lng="ru">&c_v;&c_y;&c_k;&c_i;&c_d;&c_y;&c_sh;</trd>
   <trd lng="sk">nedonosenec</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: de ja; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x6D41;&#x7522;&#x5152; <pr>li&uacute;ch&#x01CE;n'&eacute;r</pr></trd>,
+    <trd fnt="AI: de ja; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x6D41;&#x4EA7;&#x513F; <pr>li&uacute;ch&#x01CE;n'&eacute;r</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abort.0igi">
@@ -274,6 +279,10 @@
       &c_a;&c_b;&c_o;&c_r;&c_t;</trd>
     <trd lng="sk">zapr&iacute;&ccaron;ini&tcaron;</trd>
     <trd lng="sv">g&ouml;ra abort</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x58AE;&#x80CE; <pr>du&ograve;t&#x0101;i</pr></trd>,
+      <trd fnt="AI: en de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x5815;&#x80CE; <pr>du&ograve;t&#x0101;i</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="abort.0igi.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -367,6 +376,10 @@
   <trd lng="de">Abtreibungsmittel</trd>
   <trd lng="en">abortifacient agent</trd>
   <trd lng="fr">abortif</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x58AE;&#x80CE;&#x85E5; <pr>du&ograve;t&#x0101;iy&agrave;o</pr></trd>,
+    <trd fnt="AI: en de; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x5815;&#x80CE;&#x836F; <pr>du&ograve;t&#x0101;iy&agrave;o</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

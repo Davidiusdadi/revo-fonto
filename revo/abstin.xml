@@ -60,6 +60,10 @@
       <ind>enthalten</ind></trd>
     </trdgrp>
     <trd lng="it">mangiar di <ind>magro</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif de it; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x5B88;&#x5C0F;&#x9F4B; <pr>sh&#x01D2;uxi&#x01CE;ozh&#x0101;i</pr></trd>,
+      <trd fnt="AI: dif de it; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x5B88;&#x5C0F;&#x658B; <pr>sh&#x01D2;uxi&#x01CE;ozh&#x0101;i</pr></trd>
+    </trdgrp>
     <adm>
       &ccirc;u tiu speciale katolika senco ekzistas en Eo?
       <aut>WD</aut>
@@ -312,6 +316,10 @@
   <trdgrp lng="pl">
     <trd>abstynent</trd>,
     <trd>niepij&aogonek;cy</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif de fr ja; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x7981;&#x617E;&#x8005; <pr>j&igrave;ny&ugrave;zh&ecaron;</pr></trd>,
+    <trd fnt="AI: dif de fr ja; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x7981;&#x6B32;&#x8005; <pr>j&igrave;ny&ugrave;zh&ecaron;</pr></trd>
   </trdgrp>
 </drv>
 </art>

@@ -50,6 +50,10 @@
     <trd>skroba&cacute;</trd>
   </trdgrp>
   <trd lng="sk">vymlie&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x640D; <pr>m&oacute;s&#x01D4;n</pr></trd>,
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x635F; <pr>m&oacute;s&#x01D4;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abrazi.0o">
@@ -86,6 +90,7 @@
       </dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Scraping away of tissue, whether through injury or for a medical purpose.</dif>
     <trd lng="de">Ausschabung</trd>
+    <trd lng="zh" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x522E;&#x9664; <pr>gu&#x0101;ch&uacute;</pr></trd>
     </subsnc>
     <ref tip="vid" cel="ablaci.0o">ablacio</ref>
   </snc>
@@ -97,6 +102,10 @@
   <trdgrp lng="uk">
     <trd>&c_a;&c_b;&c_r;&c_a;&c_z;&c_ib;&c_ja;</trd>,
     <trd>&c_v;&c_i;&c_s;&c_k;&c_r;&c_ib;&c_b;&c_a;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x8755; <pr>m&oacute;sh&iacute;</pr></trd>,
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x8680; <pr>m&oacute;sh&iacute;</pr></trd>
   </trdgrp>
 </drv>
 </art>

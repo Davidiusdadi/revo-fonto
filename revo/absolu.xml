@@ -166,6 +166,10 @@
         <trd>&c_s;&c_a;&c_m;&c_o;&c_d;&c_je;&c_r;&c_zh;&c_a;&c_v;&c_n;&c_y;&c_j;</trd>
       </trdgrp>
       <trd lng="sk">absol&uacute;tny</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7D55;&#x5C0D; <pr>ju&eacute;du&igrave;</pr></trd>,
+        <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7EDD;&#x5BF9; <pr>ju&eacute;du&igrave;</pr></trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="absolu.0a.SCI">
       <uzo tip="fak">SCI</uzo>
@@ -211,6 +215,10 @@
       <ref tip="ant" cel="relati.0a.kompare">relativa</ref>
       <trd lng="de">absolut</trd>
       <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j;</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7D55;&#x5C0D; <pr>ju&eacute;du&igrave;</pr></trd>,
+        <trd fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7EDD;&#x5BF9; <pr>ju&eacute;du&igrave;</pr></trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="absolu.0a.LIN">
       <uzo tip="fak">LIN</uzo>
@@ -234,6 +242,10 @@
       <trd lng="de">absolut</trd>
       <trd lng="hu">abszol&uacute;t</trd>
       <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j;</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7368;&#x7ACB; <pr>d&uacute;l&igrave;</pr></trd>,
+        <trd fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x72EC;&#x7ACB; <pr>d&uacute;l&igrave;</pr></trd>
+      </trdgrp>
     </subsnc>
     <refgrp tip="vid">
       <ref cel="katego1.0a">kategoria</ref>,
@@ -255,6 +267,12 @@
       <trd>adev&abreve;rat</trd>
     </trdgrp>
     <trd lng="ru">&c_a;&c_b;&c_s;&c_o;&c_l;&c_ju;&c_t;&c_n;&c_y;&c_j;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7D55;&#x5C0D; <pr>ju&eacute;du&igrave;</pr></trd>,
+      <trd fnt="AI: en ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7EDD;&#x5BF9; <pr>ju&eacute;du&igrave;</pr></trd>,
+      <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7121;&#x689D;&#x4EF6; <pr>w&uacute;ti&aacute;oji&agrave;n</pr></trd>,
+      <trd fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x65E0;&#x6761;&#x4EF6; <pr>w&uacute;ti&aacute;oji&agrave;n</pr></trd>
+    </trdgrp>
   </snc>
   <snc>
     <uzo tip="stl">EVI</uzo>
@@ -449,6 +467,10 @@
   <trd lng="pl">absolutyzm o&sacute;wiecony</trd>
   <trd lng="ro">absolutism luminat</trd>
   <trd lng="ru">&c_p;&c_r;&c_o;&c_s;&c_v;&c_je;&c_shch;&c_jo;&c_n;&c_n;&c_a;&c_ja; &c_m;&c_o;&c_n;&c_a;&c_r;&c_h;&c_i;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x958B;&#x660E;&#x5C08;&#x5236; <pr>k&#x0101;im&iacute;ngzhu&#x0101;nzh&igrave;</pr></trd>,
+    <trd fnt="AI: en de fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x5F00;&#x660E;&#x4E13;&#x5236; <pr>k&#x0101;im&iacute;ngzhu&#x0101;nzh&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

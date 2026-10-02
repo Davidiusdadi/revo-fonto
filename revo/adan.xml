@@ -41,6 +41,10 @@
     <trd lng="hy">&#1329;&#1380;&#1377;&#1398;&#1377;</trd>
     <trd lng="pl">Adana</trd>
     <trd lng="tr">Adana</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en tr ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x963F;&#x9054;&#x7D0D; <pr>&#x0100;d&aacute;n&agrave;</pr></trd>,
+      <trd fnt="AI: de en tr ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">&#x963F;&#x8FBE;&#x7EB3; <pr>&#x0100;d&aacute;n&agrave;</pr></trd>
+    </trdgrp>
   </snc>
 </drv>
   </art>
