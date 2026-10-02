@@ -12,6 +12,7 @@
     <dif>
       Forigo de materialo.
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x6750;&#x6599;&#x7684;&#x53BB;&#x9664;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Removal of material.</dif>
     <subsnc mrk="ablaci.0o.GEOL">
       <uzo tip="fak">GEOL</uzo>
@@ -25,6 +26,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x8868;&#x9762;&#x4FB5;&#x8680;&#x3002;</dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Surface erosion.</dif>
       <ref tip="vid" cel="abrazi.0o">abrazio</ref>
       <trd lng="de">Abschmelzen</trd>
@@ -51,6 +53,7 @@
           </fnt>.
         </ekz>
       </dif>
+      <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x5916;&#x79D1;&#x5207;&#x9664;&#x3002;</dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Surgical removal.</dif>
       <rim>
         La&#365; <fnt><bib>BL</bib></fnt>: (en operacio) prefere diru <ke>forigo</ke>, <ke>fortran&#265;o</ke>.
@@ -64,6 +67,7 @@
         <ref tip="vid" cel="erozi.0o">Erozio</ref> a&ubreve; elvapori&gcirc;o
         pro frotado tra la atmosfero a&ubreve; radiado.
       </dif>
+      <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x7531;&#x4E8E;&#x7A7F;&#x8D8A;&#x5927;&#x6C14;&#x5C42;&#x65F6;&#x7684;&#x6469;&#x64E6;&#x6216;&#x8F90;&#x5C04;&#x9020;&#x6210;&#x7684;&#x4FB5;&#x8680;&#x6216;&#x84B8;&#x53D1;&#x3002;</dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Erosion or evaporation caused by friction during passage through the atmosphere, or by radiation.</dif>
     </subsnc>
   </snc>
@@ -109,6 +113,7 @@
       Tempoda&ubreve;ro ekde la fandi&gcirc;o de la vitra surfaco de
       aer&scirc;tono pro &gcirc;ia enirado tra la atmosfero.
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x4ECE;&#x9668;&#x77F3;&#x56E0;&#x8FDB;&#x5165;&#x5927;&#x6C14;&#x5C42;&#x800C;&#x4F7F;&#x5176;&#x73BB;&#x7483;&#x8D28;&#x8868;&#x9762;&#x7194;&#x5316;&#x65F6;&#x8D77;&#x7B97;&#x7684;&#x4E00;&#x6BB5;&#x65F6;&#x95F4;&#x3002;</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Zeitdauer seit dem Schmelzen der glasigen Oberfl&auml;che eines Meteoriten bei seinem Eintritt in die Atmosph&auml;re.</dif>
   </snc>
   <trd lng="be">&c_t;&c_e;&c_r;&c_m;&c_ib;&c_n; <ind>&c_a;&c_b;&c_l;&c_ja;&c_c;&c_y;&c_ib;</ind></trd>
