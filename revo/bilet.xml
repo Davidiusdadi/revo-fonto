@@ -143,6 +143,10 @@
     <trd lng="en" fnt="AI: ref be pl; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">banknote</trd>
     <trd lng="id">uang kertas</trd>
     <trd lng="pl">banknot</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: pl ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x9214;&#x7968; <pr>ch&#x0101;opi&agrave;o</pr></trd>,
+      <trd fnt="AI: pl ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x949E;&#x7968; <pr>ch&#x0101;opi&agrave;o</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="bo">&#xF4A;&t_gigu;&t_tsheg;&t_ka;&t_tsheg;&t_sa;&t_gigu;&t_tsheg;</trd>
   <trd lng="cs">l&iacute;stek <klr>(vstupenka| j&iacute;zdenka)</klr></trd>
@@ -182,6 +186,12 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A person who sells or checks tickets, for example on public transport or at the entrance to an entertainment venue.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Person, die Karten verkauft oder kontrolliert, zum Beispiel in einem &ouml;ffentlichen Verkehrsmittel, am Eingang einer Auff&uuml;hrungsst&auml;tte usw.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: fr ja id; proponis gpt-5.6-luna; taksis Jev 82%">&#x552E;&#x7968;&#x54E1; <pr>sh&ograve;upi&agrave;oyu&aacute;n</pr></trd>,
+      <trd fnt="AI: fr ja id; proponis gpt-5.6-luna; taksis Jev 82%">&#x552E;&#x7968;&#x5458; <pr>sh&ograve;upi&agrave;oyu&aacute;n</pr></trd>,
+      <trd fnt="AI: fr ja uk; proponis gpt-5.6-luna; taksis Jev 83%">&#x6AA2;&#x7968;&#x54E1; <pr>ji&#x01CE;npi&agrave;oyu&aacute;n</pr></trd>,
+      <trd fnt="AI: fr ja uk; proponis gpt-5.6-luna; taksis Jev 83%">&#x68C0;&#x7968;&#x5458; <pr>ji&#x01CE;npi&agrave;oyu&aacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_ib;&c_l;&c_je;&c_t;&c_e;&c_r;</trd>,
@@ -441,6 +451,7 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A person who has entered a place without a valid ticket, contrary to the rules.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Jemand, der ohne berechtigende Karte, also regelwidrig, irgendwo hineingelangt ist.</dif>
+    <trd lng="zh" fnt="AI: fr pl de; proponis gpt-5.6-luna; taksis Jev 93%">&#x9003;&#x7968;&#x8005; <pr>t&aacute;opi&agrave;ozh&ecaron;</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_b;&c_je;&c_z;&c_mol;&c_b;&c_ib;&c_l;&c_je;&c_t;&c_n;&c_ib;&c_k;</trd>,

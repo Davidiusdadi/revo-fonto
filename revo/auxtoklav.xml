@@ -26,6 +26,10 @@
     <trd lng="en">autoclave</trd>
     <trd lng="fr">autoclave</trd>
     <trd lng="ru">&c_a;&c_v;&c_t;&c_o;&c_k;&c_l;&c_a;&c_v;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en fr dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x9AD8;&#x58D3;&#x6EC5;&#x83CC;&#x5668; <pr>g&#x0101;oy&#x0101; mi&egrave;j&#x016B;nq&igrave;</pr></trd>,
+      <trd fnt="AI: en fr dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x9AD8;&#x538B;&#x706D;&#x83CC;&#x5668; <pr>g&#x0101;oy&#x0101; mi&egrave;j&#x016B;nq&igrave;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_k;&c_l;&c_ja;&c_w;</trd>
 </drv>

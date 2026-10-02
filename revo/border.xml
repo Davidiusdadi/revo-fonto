@@ -40,6 +40,10 @@
         <trd>lamowa&cacute;</trd>
       </trdgrp>
       <trd lng="pt">bordar</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: es pl pt; proponis gpt-5.6-luna; taksis Jev 80%">&#x9472;&#x908A; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>,
+        <trd fnt="AI: es pl pt; proponis gpt-5.6-luna; taksis Jev 80%">&#x9576;&#x8FB9; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>
+      </trdgrp>
     </subsnc>
     <subsnc mrk="border.0i.nesxtofon">
       <dif>
@@ -62,6 +66,10 @@
         <trd>obramowywa&cacute;</trd>,
         <trd>bramowa&cacute;</trd>,
         <trd>obr&eogonek;bia&cacute;</trd>
+      </trdgrp>
+      <trdgrp lng="zh">
+        <trd fnt="AI: pl; proponis gpt-5.6-luna; taksis Jev 87%">&#x9472;&#x908A; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>,
+        <trd fnt="AI: pl; proponis gpt-5.6-luna; taksis Jev 87%">&#x9576;&#x8FB9; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>
       </trdgrp>
     </subsnc>
     <subsnc mrk="border.0i.orli">
@@ -101,6 +109,10 @@
       <ref tip="super" cel="ornam.0i.io">ornami</ref>
       <trdgrp lng="pl">
         <trd>obr&eogonek;bia&cacute;</trd>
+      </trdgrp>
+      <trdgrp lng="zh">
+        <trd fnt="AI: pl dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x9472;&#x908A; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>,
+        <trd fnt="AI: pl dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x9576;&#x8FB9; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>
       </trdgrp>
     </subsnc>
     <subsnc mrk="border.0i.randi">
@@ -258,6 +270,10 @@
     <trd>obruba</trd>,
     <trd>ob&scaron;&iacute;vka</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: de en fr ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x908A;&#x98FE; <pr>bi&#x0101;nsh&igrave;</pr></trd>,
+    <trd fnt="AI: de en fr ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x8FB9;&#x9970; <pr>bi&#x0101;nsh&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="border.0ajxo">
@@ -302,6 +318,10 @@
   <trdgrp lng="uk">
     <trd>&c_b;&#x43E;&c_r;&c_d;&#x44E;&c_r;</trd>,
     <trd>&#x43E;&c_b;&#x43B;&#x44F;&#x43C;&c_ib;&c_v;&#x43A;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x9472;&#x908A; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>,
+    <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x9576;&#x8FB9; <pr>xi&#x0101;ngbi&#x0101;n</pr></trd>
   </trdgrp>
 </drv>
 

@@ -542,6 +542,11 @@
       <ref cel="relati.0igi">relativigi</ref>,
       <ref cel="taks.sub0i">subtaksi</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x8F15;&#x8996; <pr>q&#x012B;ngsh&igrave;</pr></trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x8F7B;&#x89C6; <pr>q&#x012B;ngsh&igrave;</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x6DE1;&#x5316; <pr>d&agrave;nhu&agrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_n;&c_ib;&c_zh;&c_a;&c_c;&c_mol; &c_v;&c_a;&c_r;&c_t;&c_a;&c_s;&c_mol;&c_c;&c_mol;</trd>,

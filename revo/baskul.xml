@@ -221,6 +221,12 @@
       <trd fnt="Vikt: fr; juĝis claude-opus-5">flip</trd>,
       <trd fnt="Vikt: fr; juĝis claude-opus-5">switch</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x64FA;&#x52D5; <pr>b&#x01CE;id&ograve;ng</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x6446;&#x52A8; <pr>b&#x01CE;id&ograve;ng</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x6416;&#x64FA; <pr>y&aacute;ob&#x01CE;i</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x6447;&#x6446; <pr>y&aacute;ob&#x01CE;i</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_g;&c_a;&c_j;&c_d;&c_a;&c_c;&c_c;&c_a;</trd>,

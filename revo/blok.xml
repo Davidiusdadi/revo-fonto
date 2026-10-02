@@ -204,6 +204,10 @@
     <trd lng="de">Textblock</trd>
     <trd lng="id">blok teks</trd>
     <trd lng="nl">tekstblok</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 90%">&#x6587;&#x672C;&#x584A; <pr>w&eacute;nb&ecaron;nku&agrave;i</pr></trd>,
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 90%">&#x6587;&#x672C;&#x5757; <pr>w&eacute;nb&ecaron;nku&agrave;i</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="blok.0o.POL">
     <uzo tip="fak">POL</uzo>
@@ -234,6 +238,10 @@
   <trd lng="de" fnt="AI: ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">B&uuml;ndnis</trd>
   <trd lng="en" fnt="AI: de ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">bloc</trd>
   <trd lng="id">koalisi</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x96C6;&#x5718; <pr>j&iacute;tu&aacute;n</pr></trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x96C6;&#x56E2; <pr>j&iacute;tu&aacute;n</pr></trd>
+  </trdgrp>
   </snc>
   <trd lng="af">blok</trd>
   <trd lng="am">&#4709;&#x120E;&#x12AD;</trd>
@@ -381,6 +389,10 @@
     <trd><baz>rintang</baz>merintangi</trd>,
     <trd><baz>kepung</baz>mengepung</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x963B;&#x64CB; <pr>z&#x01D4;d&#x01CE;ng</pr></trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x963B;&#x6321; <pr>z&#x01D4;d&#x01CE;ng</pr></trd>
+  </trdgrp>
   </snc>
   <snc mrk="blok.0i.blokadi">
     <dif>
@@ -465,6 +477,7 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Remove obstructing blocks or an obstacle; clear.</dif>
     <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">entblocken</trd>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x758F;&#x901A; <pr>sh&#x016B;t&#x014D;ng</pr></trd>
   </snc>
   <trd lng="en" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">unblock</trd>
   <trd lng="fr">d&eacute;bloquer</trd>
@@ -472,6 +485,7 @@
   <trd><baz>buka</baz>membuka blokade</trd>,
   <trd><baz>buka</baz>membuka blokir</trd>
 </trdgrp>
+<trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x89E3;&#x5C01; <pr>ji&ecaron;f&#x0113;ng</pr></trd>
 </drv>
 
 <drv mrk="blok.dom0o">
@@ -551,11 +565,19 @@
     </dif>
     <trd lng="de" fnt="Vikt: de; juĝis claude-opus-5">Notizblock</trd>
     <trd lng="en" fnt="Vikt: de; juĝis claude-opus-5">note pad</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x4FBF;&#x7B8B;&#x672C; <pr>bi&agrave;nji&#x0101;nb&ecaron;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x4FBF;&#x7B3A;&#x672C; <pr>bi&agrave;nji&#x0101;nb&ecaron;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="fr">bloc-note</trd>
 <trdgrp lng="id">
   <trd>buku catatan</trd>,
   <trd>bloknot</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x4FBF;&#x7B8B;&#x672C; <pr>bi&agrave;nji&#x0101;nb&ecaron;n</pr></trd>,
+  <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x4FBF;&#x7B3A;&#x672C; <pr>bi&agrave;nji&#x0101;nb&ecaron;n</pr></trd>
 </trdgrp>
 </drv>
 
@@ -580,6 +602,10 @@
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A part of a mechanism consisting of one or more rollers or wheels together with their bearing.</dif>
     <trd lng="de">Rollenblock</trd>
     <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">roller assembly</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x6EFE;&#x8F2A;&#x7D44;&#x4EF6; <pr>g&#x01D4;nl&uacute;nz&#x01D4;ji&agrave;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x6EDA;&#x8F6E;&#x7EC4;&#x4EF6; <pr>g&#x01D4;nl&uacute;nz&#x01D4;ji&agrave;n</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="blok.rul0o.MAR">
     <uzo tip="fak">MAR</uzo>
@@ -645,6 +671,10 @@
     </trdgrp>
     <trd lng="sv">block<klr tip="amb"> (hissanordning)</klr></trd>
     <trd lng="uk">&c_b;&c_l;&c_o;&c_k; <klr>(&c_m;&c_o;&c_r;&c_s;&c_mol;&c_k;&c_a; &c_s;&c_p;&c_r;&c_a;&c_v;&c_a;)</klr></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x6ED1;&#x8F2A;&#x7D44; <pr>hu&aacute;l&uacute;nz&#x01D4;</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x6ED1;&#x8F6E;&#x7EC4; <pr>hu&aacute;l&uacute;nz&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="id">blok katrol</trd>
 </drv>
@@ -678,6 +708,7 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A pad of paper for sketching and drawing.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Block aus Papierbl&auml;ttern zum Skizzieren und Zeichnen.</dif>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x7D20;&#x63CF;&#x672C; <pr>s&ugrave;mi&aacute;ob&ecaron;n</pr></trd>
   </snc>
   <trdgrp lng="de">
     <trd fnt="AI: fr id dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Skizzenblock</trd>,
@@ -689,6 +720,7 @@
   </trdgrp>
   <trd lng="fr">bloc &agrave; dessin</trd>
 <trd lng="id">buku gambar</trd>
+<trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x7D20;&#x63CF;&#x672C; <pr>s&ugrave;mi&aacute;ob&ecaron;n</pr></trd>
 </drv>
 
 <drv mrk="blok.sxton0o">

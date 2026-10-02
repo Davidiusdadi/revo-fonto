@@ -434,6 +434,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A medium-sized bird living in moist forests of north-eastern and south-eastern Australia, known for the male building a bower of branches decorated mainly with blue objects for mating; a genus of the bowerbird family (Ptilonorhynchus).</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Mittelgro&szlig;er Vogel, der in feuchten W&auml;ldern im Nordosten und S&uuml;dosten Australiens lebt, bekannt daf&uuml;r, dass das M&auml;nnchen zur Paarung eine Laube aus Zweigen baut, die vor allem mit blauen Gegenst&auml;nden geschm&uuml;ckt ist; Gattung (Ptilonorhynchus) aus der Familie der Laubenv&ouml;gel.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 86%">&#x7DDE;&#x85CD;&#x5712;&#x4E01;&#x9CE5; <pr>du&agrave;nl&aacute;n yu&aacute;nd&#x012B;ngni&#x01CE;o</pr></trd>,
+      <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 86%">&#x7F0E;&#x84DD;&#x56ED;&#x4E01;&#x9E1F; <pr>du&agrave;nl&aacute;n yu&aacute;nd&#x012B;ngni&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_l;&c_a;&c_sh;&c_n;&c_ib;&c_k;</trd>
   <trd lng="ca">jardiner setinat</trd>
@@ -577,6 +581,10 @@
     <ref tip="sin" cel="paradize.0o">paradizeo</ref>
     <trd lng="de" fnt="Vikt: nl; juĝis claude-opus-5">Paradiesvogel</trd>
     <trd lng="en" fnt="Vikt: nl; juĝis claude-opus-5">bird of paradise</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 91%">&#x5929;&#x5802;&#x9CE5; <pr>ti&#x0101;nt&aacute;ngni&#x01CE;o</pr></trd>,
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 91%">&#x5929;&#x5802;&#x9E1F; <pr>ti&#x0101;nt&aacute;ngni&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="bird.paradiz0o.fenikso">
     <dif>

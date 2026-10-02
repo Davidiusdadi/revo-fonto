@@ -25,6 +25,10 @@
     <trd lng="fr">allit&eacute;ration<klr tip="ind"> (de voyelles)</klr></trd>
     <trd lng="hu">mag&aacute;nhangz&oacute;s <ind>alliter&aacute;ci&oacute;</ind></trd>
     <trd lng="ru">&c_a;&c_l;&c_l;&c_i;&c_t;&c_je;&c_r;&c_a;&c_c;&c_i;&c_ja; &c_g;&c_l;&c_a;&c_s;&c_n;&c_y;&c_h;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en fr hu ru; proponis gpt-5.6-luna; taksis Jev 82%">&#x5143;&#x97F3;&#x548C;&#x8AE7; <pr>yu&aacute;ny&#x012B;n h&eacute;xi&eacute;</pr></trd>,
+      <trd fnt="AI: en fr hu ru; proponis gpt-5.6-luna; taksis Jev 82%">&#x5143;&#x97F3;&#x548C;&#x8C10; <pr>yu&aacute;ny&#x012B;n h&eacute;xi&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="asonan.0o.rimo">
     <uzo tip="fak">POE</uzo>
@@ -43,6 +47,10 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Unreiner Reim, in dem nur die Vokale &uuml;bereinstimmen.</dif>
     <ref tip="vid" cel="rimoid.0o">rimoido</ref>
     <trd lng="fr">assonance</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: fr; proponis gpt-5.6-luna; taksis Jev 91%">&#x5143;&#x97F3;&#x62BC;&#x97FB; <pr>yu&aacute;ny&#x012B;n y&#x0101;y&ugrave;n</pr></trd>,
+      <trd fnt="AI: fr; proponis gpt-5.6-luna; taksis Jev 91%">&#x5143;&#x97F3;&#x62BC;&#x97F5; <pr>yu&aacute;ny&#x012B;n y&#x0101;y&ugrave;n</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&#365; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>sonsimileco</ke>, <ke>kvaza&#365;rimo</ke>, <ke>sonripetado</ke>.

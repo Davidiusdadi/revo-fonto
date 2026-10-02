@@ -83,6 +83,10 @@
         <trd>vol&eacute;e<klr tip="ind"> (troupe d'oiseaux en vol)</klr></trd>
       </trdgrp>
       <trd lng="ru">&c_s;&c_t;&c_a;&c_ja;</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: en fr ru dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x7378;&#x7FA4; <pr>sh&ograve;uq&uacute;n</pr></trd>,
+        <trd fnt="AI: en fr ru dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x517D;&#x7FA4; <pr>sh&ograve;uq&uacute;n</pr></trd>
+      </trdgrp>
     </subsnc>
     <trdgrp lng="be">
       <trd>&c_g;&c_r;&c_u;&c_p;&c_a;</trd>,
@@ -467,6 +471,10 @@
         <trd>cz&lstroke;onek <ind>paczki</ind></trd>
       </trdgrp>
     </subsnc>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x5E6B;&#x6D3E;&#x6210;&#x54E1; <pr>b&#x0101;ngp&agrave;i ch&eacute;ngyu&aacute;n</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x5E2E;&#x6D3E;&#x6210;&#x5458; <pr>b&#x0101;ngp&agrave;i ch&eacute;ngyu&aacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">membre</trd>
   <trdgrp lng="cs">
@@ -510,6 +518,10 @@
         <fnt><bib>MkM</bib>, <lok>&ccirc;apitro 5a, p. 52a</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x7235;&#x58EB;&#x6A02;&#x968A; <pr>ju&eacute;sh&igrave; yu&egrave;du&igrave;</pr></trd>,
+      <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x7235;&#x58EB;&#x4E50;&#x961F; <pr>ju&eacute;sh&igrave; yu&egrave;du&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_zh;&c_a;&c_z;&c_a;&c_v;&c_y;

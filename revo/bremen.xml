@@ -77,6 +77,10 @@
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The smallest of Germany's federal states, whose capital and largest city is Bremen and whose second-largest city is Bremerhaven.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das kleinste der Bundesl&auml;nder Deutschlands, mit der Hauptstadt und gr&ouml;&szlig;ten Stadt Bremen und der zweitgr&ouml;&szlig;ten Stadt Bremerhaven.</dif>
     <trd lng="de"><klr>(Stadtstaat) </klr>Bremen</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0D;&#x4F86;&#x6885; <pr>B&ugrave;l&aacute;im&eacute;i</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0D;&#x6765;&#x6885; <pr>B&ugrave;l&aacute;im&eacute;i</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_B;&c_r;&c_e;&c_m;&c_e;&c_n;</trd>
   <trd lng="bg">&c_B;&c_r;&c_je;&c_m;&c_je;&c_n;</trd>
@@ -98,6 +102,10 @@
       Civitano de Bremeno.
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A citizen of Bremen.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x4E0D;&#x4F86;&#x6885;&#x4EBA; <pr>B&ugrave;l&aacute;im&eacute;ir&eacute;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x4E0D;&#x6765;&#x6885;&#x4EBA; <pr>B&ugrave;l&aacute;im&eacute;ir&eacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_r;&c_e;&c_m;&c_e;&c_n;&c_je;&c_c;</trd>
   <trd lng="de">Bremer</trd>

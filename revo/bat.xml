@@ -236,6 +236,7 @@
       <trd>zbi&cacute;</trd>,
       <trd>pobi&cacute;</trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x75DB;&#x6253; <pr>t&ograve;ngd&#x01CE;</pr></trd>
   </snc>
   <trd lng="af">klop</trd>
   <trd lng="am">&#x12F5;&#4709;&#x12F0;&#4707;</trd>
@@ -399,6 +400,7 @@
     <trd>&#xA1;paf!</trd>
   </trdgrp>
   <trd lng="fr">paf !</trd>
+  <trd lng="zh" fnt="AI: de es fr; proponis gpt-5.6-luna; taksis Jev 85%">&#x7830; <pr>p&#x0113;ng</pr></trd>
 </drv>
 
 <drv mrk="bat.0o">
@@ -928,6 +930,10 @@
       <trd>desfer</trd>,
       <trd>aixafar</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x64CA;&#x6F70; <pr>j&#x012B;ku&igrave;</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x51FB;&#x6E83; <pr>j&#x012B;ku&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_mol;&c_b;&c_ib;&c_v;&c_a;&c_c;&c_mol;</trd>
   <trdgrp lng="cs">
@@ -1204,6 +1210,10 @@
     <trd><baz>tarung</baz>pertarungan</trd>,
     <trd><baz>tengkar</baz>pertengkaran</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E92;&#x6BC6; <pr>h&ugrave;&#x014D;u</pr></trd>,
+    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E92;&#x6BB4; <pr>h&ugrave;&#x014D;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bat.kun0i">
@@ -1326,6 +1336,10 @@
     <trdgrp lng="de">
       <trd>zur&uuml;ck <ind>geben</ind></trd>,
       <trd>erwidern</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x53CD;&#x99C1; <pr>f&#x01CE;nb&oacute;</pr></trd>,
+      <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x53CD;&#x9A73; <pr>f&#x01CE;nb&oacute;</pr></trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -1711,6 +1725,7 @@
   <trd lng="en" kod="HIS" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">battledore <klr>(historical)</klr></trd>
   <trd lng="es">pala de limpieza<klr tip="amb"> (para sacudir trapos)</klr></trd>
   <trd lng="fr">battoir<klr> (&agrave; linge)</klr></trd>
+  <trd lng="zh" fnt="AI: en de fr dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x6D17;&#x8863;&#x68D2; <pr>x&#x01D0;y&#x012B;b&agrave;ng</pr></trd>
 </drv>
 
 <drv mrk="bat.mort0i">
@@ -1761,6 +1776,7 @@
     <trd>zabi&tcaron; <klr>(&uacute;derom)</klr></trd>
   </trdgrp>
   <trd lng="sv">sl&aring; ihj&auml;l</trd>
+  <trd lng="zh" fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 91%">&#x6253;&#x6B7B; <pr>d&#x01CE;s&#x01D0;</pr></trd>
 </drv>
 
 <drv mrk="bat.pied0i">
@@ -1994,6 +2010,7 @@
   <trd lng="fr">&eacute;tourdir</trd>
   <trd lng="id"><baz>pukul</baz>memukul (hingga pingsan)</trd>
   <trd lng="ru">&c_o;&c_g;&c_l;&c_u;&c_sh;&c_i;&c_t;&c_mol;</trd>
+  <trd lng="zh" fnt="AI: en de fr dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x6253;&#x660F; <pr>d&#x01CE;h&#x016B;n</pr></trd>
 </drv>
 
 <drv mrk="bat.vango0o">

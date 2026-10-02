@@ -143,6 +143,7 @@
     <ref tip="ant" cel="distin.0a.iga">distinga<sncref/></ref>
     <trd lng="de">mit einem <ind>Brett</ind> vorm Kopf</trd>
     <trd lng="pl">&sacute;lepy</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x76F2;&#x76EE;&#x7684; <pr>m&aacute;ngm&ugrave;de</pr></trd>
   </snc>
   <snc mrk="blind.0a.FIG_netravidebla">
     <uzo tip="stl">FIG</uzo>
@@ -260,6 +261,7 @@
       <trd>na <ind>&sacute;lepo</ind></trd>,
       <trd>po <ind>omacku</ind></trd>
     </trdgrp>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x76F2;&#x76EE;&#x5730; <pr>m&aacute;ngm&ugrave;de</pr></trd>
   </snc>
   <snc mrk="blind.0e.FIG">
     <dif>
@@ -322,6 +324,7 @@
     <trd lng="fr">aveugl&eacute;ment</trd>
     <trd lng="id"><baz>babi</baz>membabi buta</trd>
     <trd lng="pl">&sacute;lepo</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x76F2;&#x76EE;&#x5730; <pr>m&aacute;ngm&ugrave;de</pr></trd>
   </snc>
   <trd lng="be">&c_s;&c_mol;&c_l;&c_je;&c_p;&c_a;</trd>
   <trd lng="br">evel un <ind>dall</ind></trd>
@@ -342,6 +345,7 @@
     <trd>slepota</trd>
   </trdgrp>
   <trd lng="sv">blint</trd>
+  <trd lng="zh" fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 95%">&#x76F2;&#x76EE;&#x5730; <pr>m&aacute;ngm&ugrave;de</pr></trd>
 </drv>
 
 <drv mrk="blind.0eco">
@@ -929,6 +933,7 @@
   </snc>
   <trd lng="de">blenden <klr>(irritieren)</klr></trd>
   <trd lng="en">dazzle</trd>
+  <trd lng="zh" fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 87%">&#x4F7F;&#x76EE;&#x7729; <pr>sh&#x01D0;m&ugrave;xu&agrave;n</pr></trd>
 </drv>
 
 <drv mrk="blind.vort0a">

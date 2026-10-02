@@ -82,6 +82,10 @@
     <trd lng="pl">blu&zacute;ni&cacute;</trd>
     <trd lng="ro">blestema</trd>
     <trd lng="ru">&c_b;&c_o;&c_g;&c_o;&c_h;&c_u;&c_l;&c_mol;&c_s;&c_t;&c_v;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x893B;&#x7006; <pr>xi&egrave;d&uacute;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4EB5;&#x6E0E; <pr>xi&egrave;d&uacute;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="blasfe.0i.ion">
     <dif>
@@ -296,6 +300,10 @@
         <fnt><bib>Far1</bib>, <lok>&ccirc;ap.12</lok></fnt>!
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x893B;&#x7006;&#x8005; <pr>xi&egrave;d&uacute;zh&ecaron;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x4EB5;&#x6E0E;&#x8005; <pr>xi&egrave;d&uacute;zh&ecaron;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_l;&c_ju;&c_z;&c_mol;&c_n;&c_je;&c_r;</trd>
   <trd lng="cs">rouha&ccaron;</trd>

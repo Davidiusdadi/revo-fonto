@@ -32,6 +32,10 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A family in the order Lepidoptera (Bombycidae), some species of which produce silk thread (see silkworm).</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Familie aus der Ordnung der Schmetterlinge (Bombycidae), von der einige Arten einen Seidenfaden erzeugen.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8836;&#x86FE;&#x79D1; <pr>c&aacute;n'&eacute; k&#x0113;</pr></trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8695;&#x86FE;&#x79D1; <pr>c&aacute;n'&eacute; k&#x0113;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_sh;&c_a;&c_w;&c_k;&c_a;&c_p;&c_r;&c_a;&c_d;&c_y; <klr tip="amb">(&c_s;&c_ja;&c_m;'&c_ja;)</klr></trd>
   <trd lng="de">Echte Spinner</trd>

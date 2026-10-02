@@ -146,6 +146,10 @@
   <trd
   lng="ru">&c_n;&c_je;&c_z;&c_a;&c_k;&c_o;&c_n;&c_n;&c_o;&c_r;&c_o;&c_zh;&c_d;&c_je;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   <trd lng="sk">nepodarenos&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: de fr ja; proponis gpt-5.6-luna; taksis Jev 88%">&#x79C1;&#x751F;&#x5B50;&#x8EAB;&#x5206; <pr>s&#x012B; sh&#x0113;ng z&#x01D0; sh&#x0113;n f&egrave;n</pr></trd>,
+    <trd fnt="AI: de fr ja; proponis gpt-5.6-luna; taksis Jev 88%">&#x79C1;&#x751F;&#x5B50;&#x8EAB;&#x4EFD; <pr>s&#x012B; sh&#x0113;ng z&#x01D0; sh&#x0113;n f&egrave;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

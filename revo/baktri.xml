@@ -52,6 +52,10 @@
         <trd lng="hu">Baktria</trd>
         <trd lng="pl">Baktria</trd>
         <trd lng="ru">&c_B;&c_a;&c_k;&c_t;&c_r;&c_i;&c_ja;</trd>
+        <trdgrp lng="zh">
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x5DF4;&#x514B;&#x7279;&#x91CC;&#x4E9E; <pr>b&#x0101;k&egrave;t&egrave;l&#x01D0;y&agrave;</pr></trd>,
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x5DF4;&#x514B;&#x7279;&#x91CC;&#x4E9A; <pr>b&#x0101;k&egrave;t&egrave;l&#x01D0;y&agrave;</pr></trd>
+        </trdgrp>
       </snc>
       <trd lng="he">&het;&yod;&yod;&dalet;&qof;</trd>
   <trd lng="ja">&#12496;&#12463;&#12488;&#12522;&#12450;</trd>
@@ -83,6 +87,10 @@
         <trdgrp lng="pl">
           <trd>baktrian</trd>,
           <trd>wielb&lstroke;&aogonek;d dwugrabny</trd>
+        </trdgrp>
+        <trdgrp lng="zh">
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x96D9;&#x5CF0;&#x99F1;&#x99DD; <pr>shu&#x0101;ngf&#x0113;ng lu&ograve;tuo</pr></trd>,
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 96%">&#x53CC;&#x5CF0;&#x9A86;&#x9A7C; <pr>shu&#x0101;ngf&#x0113;ng lu&ograve;tuo</pr></trd>
         </trdgrp>
       </snc>
     <trd lng="en">Bactrian <ind>camel</ind></trd>

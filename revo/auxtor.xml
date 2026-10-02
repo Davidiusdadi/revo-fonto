@@ -160,6 +160,7 @@
       </ekz>
     </dif>
     <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">authorial</trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x4F5C;&#x8005;&#x7684; <pr>zu&ograve;zh&ecaron; de</pr></trd>
   </snc>
   <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_r;&c_s;&c_k;&c_ib;</trd>
   <trdgrp lng="de">
@@ -255,6 +256,10 @@
       <ref tip="sin" cel="refere.0o.bibliografia">referenco<sncref/></ref>.
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A sign indicating the author of a passage of text; a reference.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x4F5C;&#x8005;&#x6A19;&#x8A18; <pr>zu&ograve;zh&ecaron; bi&#x0101;oj&igrave;</pr></trd>,
+      <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x4F5C;&#x8005;&#x6807;&#x8BB0; <pr>zu&ograve;zh&ecaron; bi&#x0101;oj&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_z;&c_n;&c_a;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je; <ind>&c_a;&c_w;&c_t;&c_a;&c_r;&c_a;</ind></trd>
   <trdgrp lng="de">

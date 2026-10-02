@@ -27,6 +27,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Held eines titellosen Epos in angels&auml;chsischer Sprache.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x8C9D;&#x5967;&#x6B66;&#x592B; <pr>B&egrave;i'&agrave;ow&#x01D4;f&#x016B;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x8D1D;&#x5965;&#x6B66;&#x592B; <pr>B&egrave;i'&agrave;ow&#x01D4;f&#x016B;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="beovulf.0o.BELE">
     <uzo tip="fak">BELE</uzo>
@@ -36,6 +40,10 @@
       <tld/>o mem, konata sub &ccirc;i tiu titolo.
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das Epos &uuml;ber Beowulf selbst, das unter diesem Titel bekannt ist.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x8C9D;&#x5967;&#x6B66;&#x592B; <pr>B&egrave;i'&agrave;ow&#x01D4;f&#x016B;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x8D1D;&#x5965;&#x6B66;&#x592B; <pr>B&egrave;i'&agrave;ow&#x01D4;f&#x016B;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_B;&c_e;&c_a;&c_v;&c_u;&c_l;&c_mol;&c_f;</trd>
   <trd lng="de" fnt="AI: en fr it nl pl pt; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Beowulf</trd>

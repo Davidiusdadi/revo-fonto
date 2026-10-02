@@ -167,6 +167,7 @@
     <trd lng="pl">dzioba&cacute;</trd>
     <trd lng="ru">&c_k;&c_l;&c_je;&c_v;&c_a;&c_t;&c_mol;</trd>
     <trd lng="sk">zoba&tcaron;</trd>
+    <trd lng="zh" fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 93%">&#x5544; <pr>zhu&oacute;</pr></trd>
   </snc>
   <snc>
     <gra><vspec>ntr</vspec></gra>
@@ -180,6 +181,7 @@
     </dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">To do something with the beak.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Etwas mit dem Schnabel tun.</dif>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x5544; <pr>zhu&oacute;</pr></trd>
   </snc>
   <trdgrp lng="cs">
     <trd>kr&aacute;korat <klr>(o pt&aacute;c&iacute;ch i p&rcaron;en.)</klr></trd>,
@@ -235,6 +237,7 @@
     <trd lng="nl">bekken<klr tip="ind"> (v.vogels)</klr></trd>
     <trd lng="pl">dzioba&cacute; si&eogonek;</trd>
     <trd lng="ru">&c_k;&c_l;&c_je;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb"> (&c_m;&c_je;&c_zh;&c_d;&c_u; &c_s;&c_o;&c_b;&c_o;&c_j;)</klr></trd>
+    <trd lng="zh" fnt="AI: fr de; proponis gpt-5.6-luna; taksis Jev 91%">&#x4E92;&#x5544; <pr>h&ugrave;zhu&oacute;</pr></trd>
   </snc>
   <snc mrk="bek.kun0igxi.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -262,6 +265,10 @@
       <trd>snauwen</trd>
     </trdgrp>
     <trd lng="ru">&c_p;&c_i;&c_k;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;&c_s;&c_ja;<klr tip="amb"> (&c_s;&c_s;&c_o;&c_r;&c_i;&c_t;&c_mol;&c_s;&c_ja;)</klr></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en fr dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x722D;&#x5435; <pr>zh&#x0113;ngch&#x01CE;o</pr></trd>,
+      <trd fnt="AI: en fr dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x4E89;&#x5435; <pr>zh&#x0113;ngch&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="br">en em <ind>vegata</ind></trd>
   <trd lng="en">peck</trd>
@@ -455,6 +462,10 @@
         ref="&WCW;/File:Shoebill_(su_neko).jpg">&WCW;/File:Shoebill_(su_neko).jpg</url></lok>
       </fnt>
     </bld>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de fr ru; proponis gpt-5.6-luna; taksis Jev 95%">&#x9BE8;&#x982D;&#x9E1B; <pr>j&#x012B;ngt&oacute;ugu&agrave;n</pr></trd>,
+      <trd fnt="AI: en de fr ru; proponis gpt-5.6-luna; taksis Jev 95%">&#x9CB8;&#x5934;&#x9E73; <pr>j&#x012B;ngt&oacute;ugu&agrave;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="af">skoenbekooievaar</trd>
   <trdgrp lng="be">

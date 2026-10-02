@@ -47,6 +47,10 @@
     <trd lng="fr">Bithynie</trd>
     <trd lng="grc">&Beta;&jota;&theta;&ypsilon;&ny;&jota_ton;&alfa;</trd>
     <trd lng="pl">Bitynia</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de fr pl; proponis gpt-5.6-luna; taksis Jev 94%">&#x6BD4;&#x63D0;&#x5C3C;&#x4E9E; <pr>B&#x01D0;t&iacute; n&iacute;y&agrave;</pr></trd>,
+      <trd fnt="AI: en de fr pl; proponis gpt-5.6-luna; taksis Jev 94%">&#x6BD4;&#x63D0;&#x5C3C;&#x4E9A; <pr>B&#x01D0;t&iacute; n&iacute;y&agrave;</pr></trd>
+    </trdgrp>
   </snc>
 </drv>
   </art>

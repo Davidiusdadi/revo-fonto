@@ -53,6 +53,7 @@
     kod="M521x545S14701467x523S2ff00482x476S36d00479x520S3770a467x521S20500456x533S20500456x533">b@11*</trd>
     <trd lng="sk">pa&zcaron;a</trd>
     <trd lng="sv">arm</trd>
+    <trd lng="zh" fnt="AI: de nl pt ru; proponis gpt-5.6-luna; taksis Jev 92%">&#x624B;&#x81C2; <pr>sh&#x01D2;ub&igrave;</pr></trd>
   </snc>
   <snc mrk="brak.0o.sxultro_gxis_kubuto">
     <uzo tip="fak">ANA</uzo>
@@ -251,6 +252,10 @@
       <ref cel="manik.0o">maniko</ref>,
       <ref cel="sxelk.0o">&scirc;elko</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en fr id pl; proponis gpt-5.6-luna; taksis Jev 91%">&#x80A9;&#x5E36; <pr>ji&#x0101;nd&agrave;i</pr></trd>,
+      <trd fnt="AI: en fr id pl; proponis gpt-5.6-luna; taksis Jev 91%">&#x80A9;&#x5E26; <pr>ji&#x0101;nd&agrave;i</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_l;&c_ja;&c_m;&c_k;&c_a;</trd>,
@@ -646,6 +651,7 @@
       <trd>prendere in braccio</trd>
     </trdgrp>
     <trd lng="pl">bra&cacute; na <ind>r&eogonek;ce</ind></trd>
+    <trd lng="zh" fnt="AI: fr it pl ca; proponis gpt-5.6-luna; taksis Jev 90%">&#x62B1;&#x8D77; <pr>b&agrave;oq&#x01D0;</pr></trd>
   </snc>
   <trd lng="cs">obejmout</trd>
   <trd lng="de">in die <ind>Arm</ind>e nehmen</trd>

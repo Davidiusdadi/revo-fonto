@@ -96,6 +96,10 @@
     <trd lng="it">anima</trd>
     <trd lng="pl">dusza</trd>
     <trd lng="ro">duhul</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x9748;&#x9B42; <pr>l&iacute;ngh&uacute;n</pr></trd>,
+      <trd fnt="AI: de en fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x7075;&#x9B42; <pr>l&iacute;ngh&uacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="anim.0o.sentaro">
     <dif>
@@ -179,6 +183,10 @@
     <trd lng="it">animo</trd>
     <trd lng="pl">dusza</trd>
     <trd lng="ro">duhul</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x5FC3;&#x9748; <pr>x&#x012B;nl&iacute;ng</pr></trd>,
+      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x5FC3;&#x7075; <pr>x&#x012B;nl&iacute;ng</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="anim.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -614,6 +622,10 @@
     <trd>&c_b;&c_a;&c_j;&c_d;&c_u;&c_zh;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_b;&c_a;&c_j;&c_d;&c_u;&c_zh;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x5FC3;&#x5E73;&#x6C23;&#x548C; <pr>x&#x012B;np&iacute;ngq&igrave;h&eacute;</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x5FC3;&#x5E73;&#x6C14;&#x548C; <pr>x&#x012B;np&iacute;ngq&igrave;h&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anim.egal0eco">
@@ -684,6 +696,10 @@
   <trdgrp lng="sk">
     <trd>vyrovnanie mysle</trd>,
     <trd>vyrovnanos&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x5FC3;&#x5E73;&#x6C23;&#x548C; <pr>x&#x012B;np&iacute;ngq&igrave;h&eacute;</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x5FC3;&#x5E73;&#x6C14;&#x548C; <pr>x&#x012B;np&iacute;ngq&igrave;h&eacute;</pr></trd>
   </trdgrp>
 </drv>
 
@@ -978,6 +994,10 @@
         <trd lng="ro">nep&abreve;sare</trd>
         <trd lng="ru">&c_l;&c_je;&c_g;&c_k;&c_o;&c_m;&c_y;&c_s;&c_l;&c_je;&c_n;&c_n;&c_y;&c_j;
         &c_p;&c_o;&c_s;&c_t;&c_u;&c_p;&c_o;&c_k;</trd>
+        <trdgrp lng="zh">
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x8F15;&#x7387;&#x884C;&#x70BA; <pr>q&#x012B;ngshu&agrave;ix&iacute;ngw&eacute;i</pr></trd>,
+          <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x8F7B;&#x7387;&#x884C;&#x4E3A; <pr>q&#x012B;ngshu&agrave;ix&iacute;ngw&eacute;i</pr></trd>
+        </trdgrp>
 </drv>
 
 <drv mrk="anim.facil0eco">
@@ -1227,6 +1247,7 @@
     <trd>&c_p;&c_o;&c_d;&c_l;&c_je;&c_c;</trd>,
     <trd>&c_p;&c_o;&c_sh;&c_l;&c_ja;&c_k;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x5351;&#x9119;&#x5C0F;&#x4EBA; <pr>b&#x0113;ib&#x01D0;xi&#x01CE;or&eacute;n</pr></trd>
 </drv>
 
 <drv mrk="anim.largx0a">
@@ -1333,6 +1354,10 @@
     <trd>&c_n;&c_je;&c_p;&c_r;&c_je;&c_d;&c_u;&c_b;&c_je;&c_zh;&c_d;&c_jo;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_je;&c_p;&c_r;&c_je;&c_d;&c_v;&c_z;&c_ja;&c_t;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x601D;&#x60F3;&#x958B;&#x653E; <pr>s&#x012B;xi&#x01CE;ngk&#x0101;if&agrave;ng</pr></trd>,
+    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x601D;&#x60F3;&#x5F00;&#x653E; <pr>s&#x012B;xi&#x01CE;ngk&#x0101;if&agrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anim.pur0a">
@@ -1384,6 +1409,10 @@
      <trd>suci</trd>
   </trdgrp>
   <trd lng="pl">niewinny</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x7D14;&#x6F54; <pr>ch&uacute;nji&eacute;</pr></trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x7EAF;&#x6D01; <pr>ch&uacute;nji&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anim.rekt0a">

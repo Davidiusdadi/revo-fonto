@@ -71,6 +71,10 @@
       <trd>Barbar</trd>
     </trdgrp>
     <trd lng="pl">barbarzy&nacute;ca</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x91CE;&#x883B;&#x4EBA; <pr>y&ecaron;m&aacute;nr&eacute;n</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x91CE;&#x86EE;&#x4EBA; <pr>y&ecaron;m&aacute;nr&eacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="barbar.0o.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -232,6 +236,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x91CE;&#x883B;&#x884C;&#x70BA; <pr>y&ecaron;m&aacute;n x&iacute;ngw&eacute;i</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x91CE;&#x86EE;&#x884C;&#x4E3A; <pr>y&ecaron;m&aacute;n x&iacute;ngw&eacute;i</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_r;&c_b;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="ca">barbaritat</trd>
@@ -289,6 +297,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x91CE;&#x883B; <pr>y&ecaron;m&aacute;n</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x91CE;&#x86EE; <pr>y&ecaron;m&aacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_r;&c_b;&c_a;&c_r;&c_s;&c_t;&c_v;&c_a;</trd>
   <trd lng="ca">barb&agrave;rie</trd>

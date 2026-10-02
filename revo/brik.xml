@@ -155,6 +155,10 @@
       <trd>&c_b;&c_r;&c_u;&c_s;&c_o;&c_k;</trd>
     </trdgrp>
     <trd lng="sk">tehla</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x78DA;&#x584A; <pr>zhu&#x0101;nku&agrave;i</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x7816;&#x5757; <pr>zhu&#x0101;nku&agrave;i</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="cs">cihla</trd>
   <trd lng="fr">brique</trd>
@@ -219,6 +223,10 @@
       <trd>&c_k;&c_i;&c_r;&c_p;&c_i;&c_ch;&c_i;&c_k;</trd>
     </trdgrp>
     <trd lng="sk">briketa</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x5C0F;&#x78DA;&#x584A; <pr>xi&#x01CE;o zhu&#x0101;nku&agrave;i</pr></trd>,
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x5C0F;&#x7816;&#x5757; <pr>xi&#x01CE;o zhu&#x0101;nku&agrave;i</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="cs">briketa</trd>
   <trd lng="he">&qof;&vav;&bet;&yod;&he;</trd>

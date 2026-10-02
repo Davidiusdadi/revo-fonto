@@ -788,6 +788,10 @@
     <refgrp tip="vid">
       <ref cel="ornam.0ajxo">ornama&jcirc;o</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x88DD;&#x98FE;&#x54C1; <pr>zhu&#x0101;ngsh&igrave;p&#x01D0;n</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x88C5;&#x9970;&#x54C1; <pr>zhu&#x0101;ngsh&igrave;p&#x01D0;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_z;&c_d;&c_o;&c_b;&c_a;</trd>
   <trd lng="br">kinkladur</trd>

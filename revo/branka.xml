@@ -117,6 +117,10 @@
       <ref cel="sanita.0isto.sukuristo">sanitaristo<sncref/></ref>,
       <ref cel="sukur.0isto">sukuristo</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 95%">&#x64D4;&#x67B6;&#x54E1; <pr>d&#x0101;nji&agrave;yu&aacute;n</pr></trd>,
+      <trd fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 95%">&#x62C5;&#x67B6;&#x5458; <pr>d&#x0101;nji&agrave;yu&aacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_a;&c_n;&c_ib;&c_t;&c_a;&c_r;-&c_n;&c_a;&c_s;&c_ib;&c_l;&c_mol;&c_sh;&c_ch;&c_y;&c_k;</trd>
   <trd lng="de">Krankentr&auml;ger</trd>

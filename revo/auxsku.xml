@@ -346,6 +346,10 @@
       <trd lng="it">ascoltatore</trd>
       <trd lng="nl">luisteraar</trd>
       <trd lng="no">lytter</trd>
+      <trdgrp lng="zh">
+        <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x807D;&#x773E; <pr>t&#x012B;ngzh&ograve;ng</pr></trd>,
+        <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x542C;&#x4F17; <pr>t&#x012B;ngzh&ograve;ng</pr></trd>
+      </trdgrp>
     </subsnc>
     <trd lng="de">Zuh&ouml;rer</trd>
     <trdgrp lng="zh">
@@ -467,6 +471,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x807D;&#x8A3A; <pr>t&#x012B;ngzh&ecaron;n</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x542C;&#x8BCA; <pr>t&#x012B;ngzh&ecaron;n</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_s;&c_l;&c_u;&c_h;&c_v;&c_a;&c_c;&c_mol;</trd>,

@@ -44,6 +44,12 @@
   <trd lng="hu">sz&ouml;v&odblac;lepke</trd>
   <trd lng="pl">jedwabnik</trd>
   <trd lng="ru">&c_sh;&c_je;&c_l;&c_k;&c_o;&c_p;&c_r;&c_ja;&c_d;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x8836; <pr>c&aacute;n</pr></trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x8695; <pr>c&aacute;n</pr></trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x6851;&#x8836; <pr>s&#x0101;ngc&aacute;n</pr></trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 84%">&#x6851;&#x8695; <pr>s&#x0101;ngc&aacute;n</pr></trd>
+  </trdgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>bourec</trd>,

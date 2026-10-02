@@ -120,6 +120,10 @@
       <trd>felesleges teher</trd>
     </trdgrp>
     <trd lng="pl">balast</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x7D2F;&#x8D05; <pr>l&eacute;izhu&igrave;</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x7D2F;&#x8D58; <pr>l&eacute;izhu&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_l;&c_ja;&c_s;&c_t;</trd>
   <trdgrp lng="ca">
@@ -195,6 +199,10 @@
       <ref cel="gxen.0a">&gcirc;ena</ref>,
       <ref cel="ted.0a">teda</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x591A;&#x9918;&#x7684; <pr>du&#x014D;y&uacute; de</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x591A;&#x4F59;&#x7684; <pr>du&#x014D;y&uacute; de</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_je;&c_p;&c_a;&c_t;&c_r;&c_e;&c_b;&c_n;&c_y;</trd>,
@@ -398,6 +406,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seinen Ballast loswerden, sich einer Last oder eines Hindernisses entledigen; leichter werden.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x64FA;&#x812B;&#x7D2F;&#x8D05; <pr>b&#x01CE;itu&#x014D; l&eacute;izhu&igrave;</pr></trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6446;&#x8131;&#x7D2F;&#x8D58; <pr>b&#x01CE;itu&#x014D; l&eacute;izhu&igrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_z;&c_b;&c_a;&c_v;&c_ib;&c_c;&c_c;&c_a; <ind>&c_b;&c_a;&c_l;&c_ja;&c_s;&c_t;&c_u;</ind></trd>,

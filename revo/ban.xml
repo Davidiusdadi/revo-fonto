@@ -205,6 +205,7 @@
    <trdgrp lng="pl">
      <trd>k&aogonek;pa&cacute;</trd>
    </trdgrp>
+   <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x6D78;&#x6CE1; <pr>j&igrave;np&agrave;o</pr></trd>
   </snc>
   <refgrp tip="vid">
     <ref cel="satur.0i">saturi</ref>,
@@ -574,6 +575,10 @@
       </ekz>
     </dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Bediensteter in einer Badeanstalt, der die Badenden betreut.</dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x6D74;&#x5834;&#x670D;&#x52D9;&#x54E1; <pr>y&ugrave;ch&#x01CE;ng f&uacute;w&ugrave;yu&aacute;n</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x6D74;&#x573A;&#x670D;&#x52A1;&#x5458; <pr>y&ugrave;ch&#x01CE;ng f&uacute;w&ugrave;yu&aacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_l;&c_a;&c_z;&c_je;&c_n;&c_sh;&c_ch;&c_y;&c_k;</trd>,
@@ -720,6 +725,7 @@
       &Hcirc;emia solva&jcirc;o, uzata por igi fotografa&jcirc;on
       nedifektebla de la lumo.
     </dif>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x5B9A;&#x5F71;&#x6DB2; <pr>d&igrave;ngy&#x01D0;ngy&egrave;</pr></trd>
   </snc>
   <trd lng="be">&c_f;&c_ib;&c_k;&c_s;&c_a;&c_zh;</trd>
   <trd lng="br">stabilaer<klr tip="ind"> (luc'hskeudennerezh)</klr>
@@ -777,6 +783,10 @@
       <ref cel="brun.sun0igi">sunbrunigi</ref>,
 <ref cel="sun.0umi">sunumi</ref>
     </refgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x66EC;&#x592A;&#x967D; <pr>sh&agrave;i t&agrave;iy&aacute;ng</pr></trd>,
+      <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x6652;&#x592A;&#x9633; <pr>sh&agrave;i t&agrave;iy&aacute;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_y;&c_m;&c_a;&c_c;&c_mol; &c_s;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_y;&c_ja; <ind>&c_v;&c_a;&c_n;&c_n;&c_y;</ind></trd>,
@@ -812,6 +822,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x65E5;&#x5149;&#x6D74; <pr>r&igrave;gu&#x0101;ngy&ugrave;</pr></trd>
   </snc>
   <trd lng="be">&c_s;&c_o;&c_n;&c_je;&c_ch;&c_n;&c_a;&c_ja; <ind>&c_v;&c_a;&c_n;&c_n;&c_a;</ind></trd>
   <trd lng="br">heoliadenn</trd>
@@ -864,6 +875,7 @@
     <refgrp tip="vid">
       <ref cel="sauxn.0o">sa&ubreve;no</ref>
     </refgrp>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x6851;&#x62FF; <pr>s&#x0101;ngn&aacute;</pr></trd>
   </snc>
   <adm>
     Kial &ccirc;i tio nomi&gcirc;as "bano"?  Temas pri &scirc;vitado
@@ -926,6 +938,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x84B8;&#x6C7D;&#x6D74;&#x5BA4; <pr>zh&#x0113;ngq&igrave; y&ugrave;sh&igrave;</pr></trd>
   </snc>
   <rim>
     Kiel evidentas el la ekzemplo, la Fundamenta
@@ -977,6 +990,7 @@
         </lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x84B8;&#x6C7D;&#x6D74; <pr>zh&#x0113;ngq&igrave;y&ugrave;</pr></trd>
   </snc>
   <adm>
     Kial &ccirc;i tio nomi&gcirc;as "bano"?  Temas pri &scirc;vitado

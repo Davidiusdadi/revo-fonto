@@ -65,6 +65,10 @@
     </trdgrp>
     <trd lng="hu">b&aacute;stya</trd>
     <trd lng="pl">bastion</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de ru ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x5821;&#x58D8; <pr>b&#x01CE;o l&ecaron;i</pr></trd>,
+      <trd fnt="AI: de ru ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x5821;&#x5792; <pr>b&#x01CE;o l&ecaron;i</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="bastio.0o.FIG">
     <uzo tip="stl">FIG</uzo>

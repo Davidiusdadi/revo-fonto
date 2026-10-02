@@ -72,6 +72,10 @@
   <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_t;&c_y;&c_k;</trd>
   <trd lng="en" fnt="AI: fr dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">control engineer</trd>
   <trd lng="fr">automaticien</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: fr dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x81EA;&#x52D5;&#x5316;&#x5C08;&#x5BB6; <pr>z&igrave;d&ograve;nghu&agrave; zhu&#x0101;nji&#x0101;</pr></trd>,
+    <trd fnt="AI: fr dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x81EA;&#x52A8;&#x5316;&#x4E13;&#x5BB6; <pr>z&igrave;d&ograve;nghu&agrave; zhu&#x0101;nji&#x0101;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

@@ -29,6 +29,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x81EA;&#x540C;&#x69CB; <pr>z&igrave;t&oacute;ngg&ograve;u</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x81EA;&#x540C;&#x6784; <pr>z&igrave;t&oacute;ngg&ograve;u</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_r;&c_f;&c_ib;&c_z;&c_m;</trd>
   <trd lng="de">Automorphismus</trd>
@@ -55,6 +59,10 @@
       por iu <frm am="a"><k>a</k></frm>.
     </dif>
     <ref tip="vid" cel="konjug.0ita.subgrupo">konjugita.</ref>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 96%">&#x5167;&#x81EA;&#x540C;&#x69CB; <pr>n&egrave;i z&igrave;t&oacute;ngg&ograve;u</pr></trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 96%">&#x5185;&#x81EA;&#x540C;&#x6784; <pr>n&egrave;i z&igrave;t&oacute;ngg&ograve;u</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_u;&c_n;&c_u;&c_t;&c_r;&c_a;&c_n;&c_y; <ind>&c_a;&c_w;&c_t;&c_a;&c_m;&c_a;&c_r;&c_f;&c_ib;&c_z;&c_m;</ind></trd>
   <trd lng="de">innerer <ind>Automorphismus</ind></trd>

@@ -52,6 +52,7 @@
        <trd lng="fr">bore</trd>
        <trd lng="nl">boor<klr> (chemisch element)</klr></trd>
        <trd lng="pl">bor</trd>
+       <trd lng="zh" fnt="AI: fr nl pl dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x787C; <pr>p&eacute;ng</pr></trd>
      </subsnc>
      <subsnc>
        <uzo tip="fak">FIZ</uzo>
@@ -63,6 +64,7 @@
        <trd lng="en" fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">magnetic flux density</trd>
        <trd lng="fr">densit&eacute; de flux <ind>magn&eacute;tique</ind></trd>
        <trd lng="pl">g&eogonek;sto&sacute;&cacute; strumienia  <ind>magnetycznego</ind></trd>
+       <trd lng="zh" fnt="AI: fr pl dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x78C1;&#x901A;&#x5BC6;&#x5EA6; <pr>c&iacute;t&#x014D;ng m&igrave;d&ugrave;</pr></trd>
     </subsnc>
     <ref tip="hom" cel="bo">bo- (prefikso)</ref>
     <trd lng="de">Be <klr>(Buchstabe)</klr></trd>

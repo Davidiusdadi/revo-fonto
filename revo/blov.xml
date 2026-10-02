@@ -166,6 +166,7 @@
       <trd>d&aogonek;&cacute;<klr> w co&sacute;</klr></trd>
     </trdgrp>
     <trd lng="sk">f&uacute;ka&tcaron;</trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5439; <pr>chu&#x012B;</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_d;&c_z;&c_mol;&c_m;&c_u;&c_c;&c_mol;</trd>,
@@ -236,6 +237,10 @@
     <trdgrp lng="de">
       <trd fnt="Vikt: fr ru; juĝis claude-opus-5">Hauch</trd>,
       <trd fnt="Vikt: fr ru; juĝis claude-opus-5">Lufthauch</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x5439;&#x6C23; <pr>chu&#x012B;q&igrave;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x5439;&#x6C14; <pr>chu&#x012B;q&igrave;</pr></trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -470,6 +475,7 @@
         paradizo</lok></fnt>.
       </ekz>
     </dif>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 80%">&#x5439;&#x904D; <pr>chu&#x012B;bi&agrave;n</pr></trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_b;&c_d;&c_u;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -742,6 +748,10 @@
         la tra<tld/>oj estas &ccirc;iam dan&gcirc;eraj por la sano.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x7A7F;&#x5802;&#x98A8; <pr>chu&#x0101;nt&aacute;ngf&#x0113;ng</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x7A7F;&#x5802;&#x98CE; <pr>chu&#x0101;nt&aacute;ngf&#x0113;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_k;&c_r;&c_a;&c_z;&c_mol;&c_n;&c_ja;&c_k;</trd>
   <trd lng="br">avel-sil</trd>
@@ -801,6 +811,10 @@
         <fnt><bib>Fab2</bib>, <lok>Poligono</lok></fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5439;&#x8139; <pr>chu&#x012B;zh&agrave;ng</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5439;&#x80C0; <pr>chu&#x012B;zh&agrave;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_n;&c_a;&c_d;&c_z;&c_ib;&c_m;&c_a;&c_c;&c_mol;</trd>,
@@ -970,6 +984,10 @@
         </fnt>.
       </ekz>
     </dif>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x5439;&#x6EC5; <pr>chu&#x012B;mi&egrave;</pr></trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x5439;&#x706D; <pr>chu&#x012B;mi&egrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_z;&c_a;&c_d;&c_z;&c_mol;&c_m;&c_u;&c_c;&c_mol;</trd>,

@@ -156,6 +156,10 @@
       <trd fnt="Vikt: fr; juĝis claude-opus-5">burmesisch</trd>
     </trdgrp>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">Burmese</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x7DEC;&#x7538;&#x7684; <pr>Mi&#x01CE;ndi&agrave;n de</pr></trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x7F05;&#x7538;&#x7684; <pr>Mi&#x01CE;ndi&agrave;n de</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_ib;&c_r;&c_m;&c_a;&c_n;&c_s;&c_k;&c_ib;</trd>
   <trd lng="pl">birma&nacute;ski</trd>

@@ -344,6 +344,10 @@
     <trd>p&abreve;dure</trd>
   </trdgrp>
   <trd lng="uk">&c_d;&c_je;&c_r;&c_je;&c_v;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x6A39;&#x6728;&#x7684; <pr>sh&ugrave;m&ugrave;de</pr></trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x6811;&#x6728;&#x7684; <pr>sh&ugrave;m&ugrave;de</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arb.0ajxo">
@@ -640,6 +644,10 @@
     <trd lng="nl">boompje</trd>
     <trd lng="pl">drzewko</trd>
     <trd lng="ru">&c_d;&c_je;&c_r;&c_je;&c_v;&c_c;&c_je;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 81%">&#x5C0F;&#x6A39; <pr>xi&#x01CE;osh&ugrave;</pr></trd>,
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 81%">&#x5C0F;&#x6811; <pr>xi&#x01CE;osh&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="arb.0eto.arbusto">
     <uzo tip="fak">BOT</uzo>
@@ -1444,6 +1452,10 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
       <trd>wyr&aogonek;b</trd>,
       <trd>wycinka <ind>drzew</ind></trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="AI: en fr es; proponis gpt-5.6-luna; taksis Jev 85%">&#x6BC0;&#x6797; <pr>hu&#x01D0;l&iacute;n</pr></trd>,
+      <trd fnt="AI: en fr es; proponis gpt-5.6-luna; taksis Jev 85%">&#x6BC1;&#x6797; <pr>hu&#x01D0;l&iacute;n</pr></trd>
+    </trdgrp>
   </snc>
 <trdgrp lng="id">
   <trd><baz>buka</baz>pembukaan hutan</trd>,
@@ -1522,6 +1534,10 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
           ref="&WCW;/File:Ballerina_Schnurbaum_2j%C3%A4hrig.jpg">&WCW;/File:Ballerina_Schnurbaum_2j&auml;hrig.jpg</url></lok>
         </fnt>
     </bld>
+    <trdgrp lng="zh">
+      <trd fnt="AI: de pl dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x7D21;&#x9318;&#x5F62;&#x679C;&#x6A39; <pr>f&#x01CE;ngchu&iacute;x&iacute;ng gu&#x01D2;sh&ugrave;</pr></trd>,
+      <trd fnt="AI: de pl dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x7EBA;&#x9524;&#x5F62;&#x679C;&#x6811; <pr>f&#x01CE;ngchu&iacute;x&iacute;ng gu&#x01D2;sh&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="de">Spindelbusch</trd>
   <trd lng="pl">drzewo wrzecionowe</trd>

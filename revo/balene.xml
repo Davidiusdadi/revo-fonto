@@ -32,6 +32,10 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Familie aus der Ordnung der Wale mit sehr gro&szlig;em Kopf (ein Drittel der K&ouml;rperl&auml;nge) und langen Barten</dif>
     <ref tip="prt" cel="balen.0o.genro">baleno<sncref/></ref>
     <trd lng="en" kod="FAK" fnt="AI: de la dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">balaenid <klr>(jargon)</klr></trd>
+    <trdgrp lng="zh">
+      <trd fnt="AI: la dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x9B1A;&#x9BE8;&#x79D1; <pr>x&#x016B;j&#x012B;ng k&#x0113;</pr></trd>,
+      <trd fnt="AI: la dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x987B;&#x9CB8;&#x79D1; <pr>x&#x016B;j&#x012B;ng k&#x0113;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_ib;&c_t;&c_o;&c_v;&c_y;&c_ja; <klr>(&c_s;&c_ja;&c_m;&#8217;&c_ja;)</klr></trd>
   <trd lng="ca">bal&egrave;nids</trd>
