@@ -66,6 +66,7 @@
         </fnt>;
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 89%">&#x80FD;&#x591F;&#x81EA;&#x884C;&#x63A7;&#x5236;&#x5168;&#x90E8;&#x6216;&#x81F3;&#x5C11;&#x90E8;&#x5206;&#x529F;&#x80FD;&#x7684;&#x673A;&#x5668;&#x3002;</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Maschine, die alle oder zumindest einige ihrer Funktionen selbst steuern kann.</dif>
     <ref tip="sub" cel="robot.0o">roboto</ref>
     <trd lng="en">automat</trd>
@@ -141,6 +142,7 @@
         <trd lng="sk">Turingov stroj</trd>
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 80%">&#xFF08;&#x8BA1;&#x7B97;&#x673A;&#x7406;&#x8BBA;&#x4E2D;&#xFF09;&#x4E00;&#x79CD;&#x62BD;&#x8C61;&#x673A;&#x5236;&#xFF0C;&#x5177;&#x6709;&#x6709;&#x9650;&#x6570;&#x91CF;&#x7684;&rightquot;&#x72B6;&#x6001;&#x201D;&#x548C;&rightquot;&#x5916;&#x90E8;&#x5B58;&#x50A8;&#x5668;&#x201D;&#xFF0C;&#x5176;&#x8FD0;&#x884C;&#x53D7;&#x6709;&#x9650;&#x89C4;&#x5219;&#x96C6;&#x63A7;&#x5236;&#x3002;</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(In der theoretischen Informatik:) Abstrakter Mechanismus mit einer endlichen Anzahl von &leftquot;Zust&auml;nden&rightquot;, einem &leftquot;externen Speicher&rightquot; und einer Arbeitsweise, die von einer endlichen Menge von &leftquot;Regeln&rightquot; gesteuert wird.</dif>
     <trd lng="en">automaton</trd>
     <trdgrp lng="it">
@@ -393,6 +395,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 86%">&#x4EE5;&#x81EA;&#x52A8;&#x7684;&#x3001;&#x673A;&#x68B0;&#x7684;&#x65B9;&#x5F0F;&#x3002;</dif>
     <refgrp tip="vid">
       <ref cel="masxin.0e">ma&scirc;ine</ref>,
       <ref cel="tuj.0.tempe">tuj</ref>
