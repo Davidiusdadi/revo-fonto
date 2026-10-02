@@ -14,6 +14,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
+HOLDOUT = False                                     # set by --holdout
 
 PREAMBLE = """You are one agent in a pipeline, running non-interactively: nobody can answer a question, so decide.
 Use the shell only to read the files named below and to run `python3 ai-enrich/ask.py`. Change no file:
@@ -23,7 +24,7 @@ Where the instructions name WebSearch/WebFetch, that means your own web search t
 
 
 def task(stage, lng, run, model, out, articles):
-    base = f"{out}/{lng}"
+    base = f"{out}/{lng}" + ("/holdout" if HOLDOUT else "")
     lines = [PREAMBLE.format(search="" if stage == "check" else " (you have none: the proposer does not search)"),
              f"Read {ROOT}/ai-enrich/prompt-{stage}.md and follow it exactly.",
              f"Target language: {lng}. Run tag: {run}. Model: {model}.",
@@ -33,7 +34,7 @@ def task(stage, lng, run, model, out, articles):
         lines.append(f"- {a}: work file {base}/work/{a}.json"
                      + (f", proposals {base}/results/{a}.propose.json" if stage == "check" else "")
                      + f"; save with `cd {ROOT} && AI_OUT={out} python3 ai-enrich/ask.py save {stage} {lng} {a}"
-                       f" --run {run} --model {model} <<'JSON'`")
+                       f" --run {run} --model {model}{' --holdout' if HOLDOUT else ''} <<'JSON'`")
     lines.append("End with one line per article: saved, or not saved and why.")
     return "\n".join(lines)
 
@@ -52,7 +53,7 @@ def codex(prompt, model, effort, search, log):
 def saved(out, lng, stage, run, articles):
     ok = []
     for a in articles:
-        f = Path(out) / lng / "results" / f"{a}.{stage}.json"
+        f = Path(out) / lng / ("holdout" if HOLDOUT else "") / "results" / f"{a}.{stage}.json"
         if f.exists() and json.loads(f.read_text())["run"] == run:
             ok.append(a)
     return ok
@@ -69,6 +70,8 @@ def bundle(i, articles, a):
         print(f"bundle {i}: propose rc={rc} {dt:.0f}s", flush=True)
     prop = saved(a.out, a.lng, "propose", a.run, articles)
     print(f"bundle {i}: proposals saved {len(prop)}/{len(articles)}", flush=True)
+    if a.propose_only:
+        return articles, prop
     if not prop:
         return articles, []
     todo = [x for x in prop if x not in saved(a.out, a.lng, "check", a.run, prop)]
@@ -87,13 +90,18 @@ def main():
     ap.add_argument("--out", default=str(HERE / "out")); ap.add_argument("--parallel", type=int, default=8)
     ap.add_argument("--propose-model", default="gpt-5.6-sol"); ap.add_argument("--propose-effort", default="medium")
     ap.add_argument("--check-model", default="gpt-5.6-sol"); ap.add_argument("--check-effort", default="high")
+    ap.add_argument("--propose-only", action="store_true", help="no checker; the proposals are scored elsewhere (Jev)")
+    ap.add_argument("--holdout", action="store_true", help="the holdout work files (gaps.py --holdout)")
     a = ap.parse_args()
+    global HOLDOUT
+    HOLDOUT = a.holdout
     bundles = json.loads(Path(a.slice).read_text())["bundles"]
     with cf.ThreadPoolExecutor(a.parallel) as ex:
         res = list(ex.map(lambda ib: bundle(ib[0], ib[1], a), enumerate(bundles, 1)))
     done = [x for _, c in res for x in c]
     missing = [x for arts, c in res for x in arts if x not in c]
-    print(f"DONE {a.run}: checked {len(done)}/{sum(map(len, bundles))}; not checked: {missing or 'none'}")
+    what = "proposed" if a.propose_only else "checked"
+    print(f"DONE {a.run}: {what} {len(done)}/{sum(map(len, bundles))}; not {what}: {missing or 'none'}")
 
 
 if __name__ == "__main__":

@@ -141,7 +141,8 @@ def save(a):
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(result, ensure_ascii=False, indent=1), encoding="utf-8")
     counts = {k: len(v) for k, v in result.items() if isinstance(v, list)}
-    return f"Saved {out.relative_to(HERE)}: " + ", ".join(f"{k} {n}" for k, n in counts.items())
+    shown = out.relative_to(HERE) if out.is_relative_to(HERE) else out
+    return f"Saved {shown}: " + ", ".join(f"{k} {n}" for k, n in counts.items())
 
 
 def main():
