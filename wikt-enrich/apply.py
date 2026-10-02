@@ -136,7 +136,8 @@ def plan_file(path, decisions, ents, p, kods, node_only=False):
         def trd(w, lng=None):
             attrs = (f' lng="{lng}"' if lng else "") + (f' kod="{kods[w["mark"]]}"' if kods.get(w["mark"]) else "")
             klr = f' <klr>{encode(w["mark"], ents)}</klr>' if w["mark"] else ""
-            return f'<trd{attrs} fnt="{w["fnt"]}">{encode(w["word"], ents)}{klr}</trd>'
+            pr = f' <pr>{encode(w["pr"], ents)}</pr>' if w.get("pr") else ""     # Chinese: pinyin (zh.py)
+            return f'<trd{attrs} fnt="{w["fnt"]}">{encode(w["word"], ents)}{pr}{klr}</trd>'
         if len(ws) == 1:
             new = [f'{indent}{trd(ws[0], d["lng"])}\n']
         else:
