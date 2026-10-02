@@ -75,11 +75,11 @@ def main():
                                      f"{name.lower()}_word": forms},
                            "questions": {"ok": {"type": "noul", "instructions": WORD_Q.format(name=name)}}}
         for d in prop["definitions"]:
-            eo, dif, _ = node(work, d["mrk"])
-            i = f'{work["sha"]}|{d["mrk"]}|d|{d["text"]}'
+            eo, dif, ws = node(work, d["mrk"])          # the words show what an Esperanto-only definition means
+            i = f'{work["sha"]}|{d["mrk"]}|d2|{d["text"]}'
             if i not in cache:
                 todo[i] = {"state": {"esperanto_word": eo, "esperanto_definition": dif,
-                                     f"{name.lower()}_definition": d["text"]},
+                                     "translations_in_other_languages": ws, f"{name.lower()}_definition": d["text"]},
                            "questions": {"ok": {"type": "noul", "instructions": DEF_Q.format(name=name)}}}
     key, failed = zh.jev_key() if todo else None, 0
     with open(cache_f, "a", encoding="utf-8") as f, cf.ThreadPoolExecutor(12) as ex:
@@ -99,7 +99,7 @@ def main():
             verdicts.append({"mrk": p["mrk"], "word": p["word"], "accept": s is not None and s >= a.threshold,
                              "jev": s, "mark": "", "searched": False})
         for d in prop["definitions"]:
-            s = cache.get(f'{work["sha"]}|{d["mrk"]}|d|{d["text"]}')
+            s = cache.get(f'{work["sha"]}|{d["mrk"]}|d2|{d["text"]}')
             complete &= s is not None
             defs.append({"mrk": d["mrk"], "accept": s is not None and s >= a.threshold, "jev": s, "text": d["text"]})
         if not complete:
