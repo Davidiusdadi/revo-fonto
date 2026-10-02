@@ -15,6 +15,7 @@
        Traduki el <tld/>a programlingvo en
        <ref tip="vid" cel="lingv.masxin0o">ma&scirc;inan lingvon</ref>.
      </dif>
+     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 93%">&#x5C06;&#x6C47;&#x7F16;&#x7A0B;&#x5E8F;&#x8BED;&#x8A00;&#x7FFB;&#x8BD1;&#x6210;&#x673A;&#x5668;&#x8BED;&#x8A00;&#x3002;</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Aus einer Assemblersprache in Maschinensprache &uuml;bersetzen.</dif>
      <trd lng="en">to <ind>assemble</ind> <klr>(a
      program)</klr></trd>
@@ -71,6 +72,7 @@
         </fnt>.
       </ekz>
      </dif>
+     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 87%">&#x6C47;&#x7F16;&#x8BED;&#x8A00;&#x7684;&#x7FFB;&#x8BD1;&#x5668;&#x3002;</dif>
      <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Programm, das aus einer Assemblersprache &uuml;bersetzt.</dif>
      <trd lng="en">assembler</trd>
      <trdgrp lng="es">

@@ -175,6 +175,7 @@
         </fnt>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 94%">&#x4E0E;&#x5206;&#x6790;&#x6709;&#x5173;&#x7684;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Relating to analysis.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Auf die Analyse bezogen.</dif>
     <refgrp tip="vid">
@@ -223,6 +224,7 @@
         <tld/>a verbotempo, superlativo, komparativo.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 82%">&#x4F7F;&#x7528;&#x72EC;&#x7ACB;&#x8BCD;&#x8BED;&#x8868;&#x793A;&#x8BED;&#x6CD5;&#x529F;&#x80FD;&#xFF1B;&#x7528;&#x591A;&#x4E2A;&#x8BCD;&#x8868;&#x8FBE;&#x5C48;&#x6298;&#x53D8;&#x5316;&#x7684;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Using a separate word for a grammatical function; expressing inflections in multiple words.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">F&uuml;r eine grammatische Funktion ein eigenes Wort verwendend; Flexionen durch mehrere W&ouml;rter ausdr&uuml;ckend.</dif>
     <trd lng="fr">analytique</trd>
@@ -338,6 +340,7 @@
         <ind>sintaksa analizilo</ind>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 88%">&#x7528;&#x4E8E;&#x67E5;&#x627E;&#x6570;&#x636E;&#x7684;&#x5C5E;&#x6027;&#x6216;&#x7EC4;&#x6210;&#x90E8;&#x5206;&#x7684;&#x8F6F;&#x4EF6;&#x6216;&#x786C;&#x4EF6;&#x5DE5;&#x5177;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A software or hardware tool for finding attributes or components of data.</dif>
   <trd lng="de">Parser</trd>
   <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x5206;&#x6790;&#x5668; <pr>f&#x0113;nx&#x012B; q&igrave;</pr></trd>

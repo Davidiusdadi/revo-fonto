@@ -29,6 +29,7 @@
         matrico &gcirc;i estas rilate al iu bazo.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 80%">&#xFF08;&#x5728;&#x7EBF;&#x6027;&#x7A7A;&#x95F4;&#x4E0A;&#x7684;&#x81EA;&#x540C;&#x6001;&#xFF09;&#x5173;&#x4E8E;&#x8BE5;&#x81EA;&#x540C;&#x6001;&#x7684;&#x7279;&#x5F81;&#x503C;&#x3002;</dif>
     <refgrp tip="vid">
       <ref cel="polino.karakteriza0o">karakteriza polinomo</ref>,
       <ref cel="spektr.0o.ajgeno">spektro</ref>.
@@ -113,6 +114,7 @@
           &lambda;*f<sub>&lambda;</sub></frm> )</klr>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 90%">&#xFF08;&#x5173;&#x4E8E;&#x5411;&#x91CF;&#x7A7A;&#x95F4;&#x4E2D;&#x81EA;&#x540C;&#x6001; f &#x7684;&#x6807;&#x91CF; &lambda;&#xFF09;&#x4F7F; f &#x5C06;&#x67D0;&#x4E2A;&#x975E;&#x96F6;&#x5411;&#x91CF; x &#x6620;&#x5C04;&#x4E3A; &lambda;&middot;x&#xFF1B;&#x6362;&#x8A00;&#x4E4B;&#xFF0C;&#x4F7F; f&#x2212;&lambda;&middot;idE &#x7684;&#x6838;&#x4E0D;&#x7B49;&#x4E8E; {0}&#x3002;</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Skalar &lambda;, bezogen auf einen Endomorphismus f eines Vektorraums) So beschaffen, dass f einen vom Nullvektor verschiedenen Vektor x auf &lambda;&middot;x abbildet; anders gesagt: so, dass der Kern von f-&lambda;&middot;idE nicht gleich {0} ist</dif>
     <trdgrp lng="zh">
       <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x7279;&#x5FB5;&#x7684; <pr>t&egrave;zh&#x0113;ng de</pr></trd>,
@@ -137,6 +139,7 @@
         <ref cel="komple1.0a.vektorasubspaco">komplementaj</ref>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 85%">&#xFF08;&#x5173;&#x4E8E;&#x5411;&#x91CF;&#x7A7A;&#x95F4; E &#x4E2D;&#x7684;&#x81EA;&#x540C;&#x6001; f &#x7684;&#x5411;&#x91CF;&#x5B50;&#x7A7A;&#x95F4;&#xFF09;&#x5BF9;&#x4E8E;&#x67D0;&#x4E2A;&#x7279;&#x5F81;&#x503C;&#x6807;&#x91CF; &lambda;&#xFF0C;&#x5B83;&#x7B49;&#x4E8E; f&#x2212;&lambda;&middot;idE &#x7684;&#x6838;&#x3002;</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">(Von einem Unterraum eines Vektorraums E, bezogen auf einen Endomorphismus f darin) Gleich dem Kern von f-&lambda;&middot;idE f&uuml;r einen Eigenwert &lambda;</dif>
   </snc>
   <snc mrk="ajgen.0a.vektoro">

@@ -102,6 +102,7 @@
         <ind>&c_f;&c_o;&c_r;&c_m;&c_a;</ind></trd>
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 91%">&#x4E0E;&#x4EE3;&#x6570;&#x6709;&#x5173;&#x7684;&#x3002;</dif>
     <refgrp tip="vid">
       <ref cel="dual.algebra0o"><tld/>a dualo</ref>,
       algebra <ref cel="ekvaci.0o">ekvacio</ref>,
@@ -164,6 +165,7 @@
           fermitan, numereblan subkorpon de la korpo de kompleksoj.
         </ekz>
       </dif>
+      <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 83%">&#xFF08;&#x7279;&#x6307;&#x5B9E;&#x6570;&#x6216;&#x590D;&#x6570;&#xFF09;&#x5728;&#x6709;&#x7406;&#x6570;&#x57DF;&#x4E0A;&#x662F;&#x4EE3;&#x6570;&#x7684;&#x3002;</dif>
       <ref tip="ant" cel="transc.0a.nombro">transcenda.</ref>
     </subsnc>
     <subsnc mrk="algebr.0a.superkorpo">
@@ -211,6 +213,7 @@
       <ref cel="komple2.0a.spaco">kompleta</ref>
       <ref cel="algebr.lineara0o.strukturo">lineara <tld/>o</ref>.
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 87%">&#x5B8C;&#x5907;&#x8D4B;&#x8303;&#x7EBF;&#x6027;&#x4EE3;&#x6570;&#x3002;</dif>
     <refgrp tip="vid">
       <ref cel="banahx.0o">Bana&hcirc;o</ref>.
     </refgrp>
@@ -241,6 +244,7 @@
       kiu okupi&gcirc;as pri logika rezonado kaj trovas aplikon en
       komputiloj.
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 90%">&#x7814;&#x7A76;&#x903B;&#x8F91;&#x63A8;&#x7406;&#x5E76;&#x5E94;&#x7528;&#x4E8E;&#x8BA1;&#x7B97;&#x673A;&#x7684;&#x4EE3;&#x6570;&#x5206;&#x652F;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Branch of algebra that deals with logical reasoning and finds application in computers.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Teilgebiet der Algebra, das sich mit logischem Schlie&szlig;en befasst und Anwendung in Computern findet.</dif>
     <trdgrp lng="zh">
@@ -272,6 +276,7 @@
       f(x)&#8744;f(y)</frm>,
       kiuj ajn estas <frm am="x,y &#8712; bb A">x,y&#8712;<g>A</g></frm>.
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 91%">&#x4E00;&#x79CD;&#x8FD9;&#x6837;&#x7684;&#x4EE3;&#x6570;&#x7ED3;&#x6784;&#xFF08;A&#xFF0C;&#x2228;&#xFF0C;&#x2227;&#xFF0C;f&#xFF09;&#xFF0C;&#x5176;&#x4E2D; f &#x662F;&#x5BF9;&#x5408;&#xFF08;&#x79F0;&#x4E3A;&#x8865;&#xFF09;&#xFF0C;&#x6EE1;&#x8DB3;&#xFF1A;&#xFF08;1&#xFF09;&#x4E24;&#x4E2A;&#x8FD0;&#x7B97;&#x90FD;&#x6EE1;&#x8DB3;&#x7ED3;&#x5408;&#x5F8B;&#x548C;&#x4EA4;&#x6362;&#x5F8B;&#xFF1B;&#xFF08;2&#xFF09;&#x6BCF;&#x4E2A;&#x8FD0;&#x7B97;&#x90FD;&#x6709;&#x4E2D;&#x6027;&#x5143;&#x7D20;&#xFF08;&#x2228; &#x7684;&#x4E2D;&#x6027;&#x5143;&#x7D20;&#x8BB0;&#x4E3A; 0&#xFF0C;&#x2227; &#x7684;&#x4E2D;&#x6027;&#x5143;&#x7D20;&#x8BB0;&#x4E3A; 1&#xFF09;&#xFF1B;&#xFF08;3&#xFF09;&#x6BCF;&#x4E2A;&#x8FD0;&#x7B97;&#x76F8;&#x5BF9;&#x4E8E;&#x53E6;&#x4E00;&#x4E2A;&#x8FD0;&#x7B97;&#x90FD;&#x662F;&#x5206;&#x914D;&#x7684;&#xFF1B;&#xFF08;4&#xFF09;&#x5BF9;&#x4EFB;&#x610F; x&#x2208;A&#xFF0C;x&#x2227;x&#xFF1D;x&#x2228;x&#xFF1D;x&#xFF0C;x&#x2228;f&#xFF08;x&#xFF09;&#xFF1D;1 &#x4E14; x&#x2227;f&#xFF08;x&#xFF09;&#xFF1D;0&#xFF1B;&#xFF08;5&#xFF09;&#x5BF9;&#x4EFB;&#x610F; x&#xFF0C;y&#x2208;A&#xFF0C;f&#xFF08;x&#x2228;y&#xFF09;&#xFF1D;f&#xFF08;x&#xFF09;&#x2227;f&#xFF08;y&#xFF09;&#x4E14; f&#xFF08;x&#x2227;y&#xFF09;&#xFF1D;f&#xFF08;x&#xFF09;&#x2228;f&#xFF08;y&#xFF09;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">An algebraic structure (A,&#x2228;,&#x2227;,f), where f is an involution (called complement), such that (1) both operations are associative and commutative; (2) there is a neutral element for each operation (denoted by 0 for &#x2228; and 1 for &#x2227;); (3) each operation is distributive over the other; (4) x&#x2227;x = x&#x2228;x = x, x&#x2228;f(x) = 1 and x&#x2227;f(x) = 0 for any x&#x2208;A; (5) f(x&#x2228;y) = f(x)&#x2227;f(y) and f(x&#x2227;y) = f(x)&#x2228;f(y) for any x,y&#x2208;A.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Algebraische Struktur (A,&#x2228;,&#x2227;,f), wobei f eine Involution (Komplement genannt) ist, derart dass (1) beide Operationen assoziativ und kommutativ sind; (2) f&uuml;r jede Operation ein neutrales Element existiert (bezeichnet mit 0 f&uuml;r &#x2228; und 1 f&uuml;r &#x2227;); (3) jede Operation distributiv bez&uuml;glich der anderen ist; (4) x&#x2227;x = x&#x2228;x = x, x&#x2228;f(x) = 1 und x&#x2227;f(x) = 0 f&uuml;r jedes x&#x2208;A; (5) f(x&#x2228;y) = f(x)&#x2227;f(y) und f(x&#x2227;y) = f(x)&#x2228;f(y) f&uuml;r alle x,y&#x2208;A.</dif>
     <trd lng="nl">Booleaanse <ind>algebra</ind></trd>
@@ -311,6 +316,7 @@
       <ref cel="spac.vektora0o">vektoraj spacoj</ref> kaj
       iliaj <ref cel="homomo.0o">homomorfioj</ref>.
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 89%">&#x7814;&#x7A76;&#x6A21;&#x3001;&#x5411;&#x91CF;&#x7A7A;&#x95F4;&#x53CA;&#x5176;&#x540C;&#x6001;&#x7684;&#x4EE3;&#x6570;&#x5206;&#x652F;&#x3002;</dif>
     <ref tip="vid" cel="linear.0a.gxenerala">lineara.</ref>
     <trd lng="ca">&agrave;lgebra lineal</trd>
     <trd lng="de">lineare <ind>Algebra</ind></trd>
@@ -352,6 +358,7 @@
         &gcirc;i.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 82%">&#xFF08;&#x5728;&#x57DF;&#xFF08;K&#xFF0C;&#xFF0B;&#xFF0C;&#x00D7;&#xFF09;&#x4E0A;&#xFF09;&#x8FD9;&#x6837;&#x4E00;&#x79CD;&#x4EE3;&#x6570;&#x7ED3;&#x6784;&#xFF08;A&#xFF0C;&#xFF0B;&#xFF0C;&#x00D7;&#xFF0C;&middot;&#xFF09;&#xFF0C;&#x5176;&#x4E2D;&#xFF08;A&#xFF0C;&#xFF0B;&#xFF0C;&#x00D7;&#xFF09;&#x662F;&#x73AF;&#xFF0C;&#xFF08;A&#xFF0C;&#xFF0B;&#xFF0C;&middot;&#xFF09;&#x662F;&#x5728; K &#x4E0A;&#x7684;&#x5411;&#x91CF;&#x7A7A;&#x95F4;&#xFF0C;&#x5E76;&#x4E14;&#x4E09;&#x4E2A;&#x76F8;&#x5173;&#x7684;&#x4E58;&#x6CD5;&#x6EE1;&#x8DB3;&#xFF1A;&#x5BF9;&#x4EFB;&#x610F;&#x6807;&#x91CF; &alfa;&#x3001;&beta; &#x548C;&#x5411;&#x91CF; x&#x3001;y&#xFF0C;(&alfa;&middot;x)&#x00D7;(&beta;&middot;y)&#xFF1D;(&alfa;&#x00D7;&beta;)&middot;(x&#x00D7;y)&#x3002;</dif>
     <adm>
       Malfacilas trovi fontojn. MatVort konas iun strangan
       "lineara asocieca algebro" kaj "vektora algebro", sed
@@ -388,6 +395,7 @@
       La <ref tip="super" cel="algebr.sigma0o">&sigma;-<tld/>o</ref>
       <frm am="bb A"><g>A</g></frm>.
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 92%">&#xFF08;&#x5728;&#x67D0;&#x4E2A;&#x6982;&#x7387;&#x7A7A;&#x95F4;&#xFF08;&Omega;&#xFF0C;A&#xFF0C;P&#xFF09;&#x7684;&#x6846;&#x67B6;&#x5185;&#xFF09;&sigma;-&#x4EE3;&#x6570; A&#x3002;</dif>
     <rim>
       La termino trovi&gcirc;as en
       <fnt><bib>EKV</bib><lok>&para;306</lok></fnt>, sub la formo
@@ -453,6 +461,7 @@
         &ccirc;iuj &sigma;-<tld/>oj &gcirc;in inkluzivantaj)</klr>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 90%">&#xFF08;&#x5728;&#x96C6;&#x5408; &Omega; &#x4E0A;&#xFF09;&Omega; &#x7684;&#x5B50;&#x96C6;&#x7EC4;&#x6210;&#x7684;&#x4E00;&#x4E2A;&#x975E;&#x7A7A;&#x96C6;&#x5408;&#xFF0C;&#x5B83;&#x5305;&#x542B;&#x5176;&#x6BCF;&#x4E2A;&#x5143;&#x7D20;&#x7684;&#x8865;&#x96C6;&#x4EE5;&#x53CA;&#x5176;&#x6BCF;&#x4E2A;&#x53EF;&#x6570;&#x5B50;&#x96C6;&#x7684;&#x5E76;&#x96C6;&#x3002;</dif>
     <rim>
       Reiers&oslash;l
       <fnt><bib>MatStokTerm</bib><lok>p. 49</lok></fnt> konas la
@@ -509,6 +518,7 @@
         <ref cel="interv.0o.MAT">intervalojn</ref>.
       </ekz>
     </dif>
+    <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 88%">&#xFF08;&#x5728;&#x62D3;&#x6251;&#x7A7A;&#x95F4;&#x4E0A;&#xFF09;&#x7531;&#x5F00;&#x5B50;&#x96C6;&#x7684;&#x96C6;&#x5408;&#x751F;&#x6210;&#x7684; &sigma;-&#x4EE3;&#x6570;&#x3002;</dif>
     <refgrp tip="vid">
       <ref cel="borel.0o">Borelo</ref>.
     </refgrp>
