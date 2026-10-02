@@ -62,6 +62,10 @@
   <trd lng="nl">Bosni&euml;</trd>
   <trd lng="pl">Bo&sacute;nia</trd>
   <trd lng="uk">&c_B;&c_o;&c_s;&c_n;&c_ib;&c_ja;&nbsp;(&c_r;&c_je;&c_gu;&c_ib;&c_o;&c_n;)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x6CE2;&#x65AF;&#x5C3C;&#x4E9E; <pr>B&#x014D;s&#x012B;n&iacute;y&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x6CE2;&#x65AF;&#x5C3C;&#x4E9A; <pr>B&#x014D;s&#x012B;n&iacute;y&agrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bosni.B0oHercegovino">
@@ -102,6 +106,13 @@
    <pr>&#12412;&#12377;&#12395;&#12354;&#12539;&#12408;&#12427;&#12388;&#12359;&#12372;&#12403;&#12394;</pr></trd>
   <trd lng="nl">Bosni&euml; en Herzegovina</trd>
   <trd lng="pl">Bo&sacute;nia i Hercegowina</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en es fr ja nl pl pt ru; taksis Jev 94%">&#x6CE2;&#x65AF;&#x5C3C;&#x4E9E;&#x548C;&#x9ED1;&#x585E;&#x54E5;&#x7DAD;&#x90A3; <pr>B&#x014D;s&#x012B;n&iacute;y&agrave; h&eacute; H&#x0113;is&agrave;ig&#x0113;w&eacute;in&agrave;</pr></trd>,
+    <trd fnt="Vikt: zh en es fr ja nl pl pt ru; taksis Jev 94%">&#x6CE2;&#x65AF;&#x5C3C;&#x4E9A;&#x548C;&#x9ED1;&#x585E;&#x54E5;&#x7EF4;&#x90A3; <pr>B&#x014D;s&#x012B;n&iacute;y&agrave; h&eacute; H&#x0113;is&agrave;ig&#x0113;w&eacute;in&agrave;</pr></trd>,
+    <trd fnt="Vikt: de en ja pl; taksis Jev 84%">&#x6CE2;&#x9ED1; <pr>B&#x014D;h&#x0113;i</pr></trd>,
+    <trd fnt="Vikt: zh ru; taksis Jev 92%">&#x6CE2;&#x58EB;&#x5C3C;&#x4E9E;&#x8207;&#x8D6B;&#x585E;&#x54E5;&#x7DAD;&#x7D0D; <pr>B&#x014D;sh&igrave;n&iacute;y&agrave; y&#x01D4; H&egrave;s&egrave;g&#x0113;w&eacute;in&agrave;</pr></trd>,
+    <trd fnt="Vikt: zh ru; taksis Jev 92%">&#x6CE2;&#x58EB;&#x5C3C;&#x4E9A;&#x8207;&#x8D6B;&#x585E;&#x54E5;&#x7EF4;&#x7EB3; <pr>B&#x014D;sh&igrave;n&iacute;y&agrave; y&#x01D4; H&egrave;s&egrave;g&#x0113;w&eacute;in&agrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

@@ -58,6 +58,12 @@
       <trd>bajt</trd>,
       <trd>byte</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en fr ku pt; taksis Jev 96%">&#x5B57;&#x7BC0; <pr>z&igrave;ji&eacute;</pr></trd>,
+      <trd fnt="Vikt: zh en fr ku pt; taksis Jev 96%">&#x5B57;&#x8282; <pr>z&igrave;ji&eacute;</pr></trd>,
+      <trd fnt="Vikt: en fr ku; taksis Jev 90%">&#x4F4D;&#x5143;&#x7D44; <pr>w&egrave;iyu&aacute;nz&#x01D4;</pr></trd>,
+      <trd fnt="Vikt: en fr ku; taksis Jev 90%">&#x4F4D;&#x5143;&#x7EC4; <pr>w&egrave;iyu&aacute;nz&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>bitoko</ke>.

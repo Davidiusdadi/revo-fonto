@@ -756,6 +756,10 @@
     <trd>&c_p;&c_o;&c_ch;&c_i;&c_n;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
     <trd>&c_r;&c_o;&c_z;&c_p;&c_o;&c_ch;&c_i;&c_n;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x958B;&#x59CB; <pr>k&#x0101;ish&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x5F00;&#x59CB; <pr>k&#x0101;ish&#x01D0;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komenc.0igxo">
@@ -945,6 +949,12 @@
   </trdgrp>
   <trd lng="ca">tornar a comen&ccedil;ar<klr tip="amb"> (trans.)</klr></trd>
   <trd lng="en">resume</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 71%">&#x6062;&#x5FA9; <pr>hu&#x012B;f&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 71%">&#x6062;&#x590D; <pr>hu&#x012B;f&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x91CD;&#x65B0;&#x958B;&#x59CB; <pr>ch&oacute;ngx&#x012B;nk&#x0101;ish&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x91CD;&#x65B0;&#x5F00;&#x59CB; <pr>ch&oacute;ngx&#x012B;nk&#x0101;ish&#x01D0;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="komenc.eterna0anto">

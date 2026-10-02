@@ -310,6 +310,14 @@
     <trd>&scaron;tvanie</trd>
   </trdgrp>
   <trd lng="uk">&c_p;&c_r;&c_o;&c_v;&c_o;&c_k;&c_a;&c_c;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ru; taksis Jev 93%">&#x6311;&#x91C1; <pr>ti&#x01CE;ox&igrave;n</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 93%">&#x6311;&#x8845; <pr>ti&#x01CE;ox&igrave;n</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 47%">&#x6FC0;&#x767C; <pr>j&#x012B;f&#x0101;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 47%">&#x6FC0;&#x53D1; <pr>j&#x012B;f&#x0101;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 36%">&#x6FC0;&#x767C;&#x53CD;&#x61C9; <pr>j&#x012B;f&#x0101;f&#x01CE;ny&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 36%">&#x6FC0;&#x53D1;&#x53CD;&#x5E94; <pr>j&#x012B;f&#x0101;f&#x01CE;ny&igrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="provok.0isto">
@@ -371,6 +379,10 @@
     <trd>&scaron;tv&aacute;&ccaron;</trd>
   </trdgrp>
   <trd lng="uk">&c_p;&c_r;&c_o;&c_v;&c_o;&c_k;&c_a;&c_t;&c_o;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x6311;&#x91C1;&#x8005; <pr>ti&#x01CE;ox&igrave;nzh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x6311;&#x8845;&#x8005; <pr>ti&#x01CE;ox&igrave;nzh&ecaron;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

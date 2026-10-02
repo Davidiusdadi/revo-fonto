@@ -52,6 +52,10 @@
     <trd lng="ru">&c_G;&c_a;&c_l;&c_i;&c_c;&c_i;&c_ja;</trd>
     <trd lng="uk">&c_G;&c_a;&c_l;&c_i;&c_ch;&c_i;&c_n;&c_a;</trd>
     <trd lng="yi">&gimel;&alef;&#1463;&lamed;&yod;&tsadi;&yod;&ayin;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: fr; taksis Jev 92%">&#x52A0;&#x5229;&#x897F;&#x4E9E; <pr>Ji&#x0101;l&igrave;x&#x012B;y&agrave;</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 92%">&#x52A0;&#x5229;&#x897F;&#x4E9A; <pr>Ji&#x0101;l&igrave;x&#x012B;y&agrave;</pr></trd>
+    </trdgrp>
   </snc>
 </drv>
 </art>

@@ -184,6 +184,14 @@
     <trd>bringa ur fattningen</trd>,
     <trd>g&ouml;ra best&ouml;rt</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 63%">&#x5687;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 63%">&#x5413;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 43%">&#x5687;&#x4E86;&#x4E00;&#x8DF3;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 43%">&#x5413;&#x4E86;&#x4E00;&#x8DF3;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 41%">&#x5687;&#x552C; <pr>xi&agrave;hu</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 41%">&#x5413;&#x552C; <pr>xi&agrave;hu</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konste1.0a">
@@ -251,6 +259,10 @@
   <trdgrp lng="ja">
     <trd>&#20208;&#22825;&#12373;&#12379;&#12427;  <pr>&#12366;&#12423;&#12358;&#12390;&#12435;&#12373;&#12379;&#12427;</pr></trd>,
     <trd>&#39514;&#12367;&#12409;&#12365;  <pr>&#12362;&#12393;&#12429;&#12367;&#12409;&#12365;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 9%">&#x5C37;&#x5C2C; <pr>g&#x0101;ng&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 8%">&#x5C34;&#x5C2C;</trd>
   </trdgrp>
 </drv>
 

@@ -55,6 +55,12 @@
   <trd lng="pl">kruk</trd>
   <trd lng="pt">corvo</trd>
   <trd lng="ru">&c_v;&c_o;&c_r;&c_o;&c_n;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 86%">&#x6E21;&#x9D09; <pr>d&ugrave;y&#x0101;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 86%">&#x6E21;&#x9E26; <pr>d&ugrave;y&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en pl; taksis Jev 83%">&#x70CF;&#x9D09; <pr>w&#x016B;y&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en pl; taksis Jev 83%">&#x4E4C;&#x9E26; <pr>w&#x016B;y&#x0101;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

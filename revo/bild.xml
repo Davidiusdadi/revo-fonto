@@ -841,6 +841,7 @@
   <trd lng="cs">inverzn&iacute; obraz</trd>
   <trd lng="id"><ind>gambar</ind>an terbalik</trd>
   <trd lng="sk">inverzn&yacute; obraz</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 71%">&#x539F;&#x50CF; <pr>yu&aacute;nxi&agrave;ng</pr></trd>
 </drv>
 
 <drv mrk="bild.bit0o">
@@ -1179,6 +1180,10 @@
   <trdgrp lng="sk">
     <trd>sveton&aacute;h&lcaron;ad</trd>,
     <trd>sveton&aacute;zor</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 94%">&#x4E16;&#x754C;&#x89C0; <pr>sh&igrave;ji&egrave;gu&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 94%">&#x4E16;&#x754C;&#x89C2; <pr>sh&igrave;ji&egrave;gu&#x0101;n</pr></trd>
   </trdgrp>
 </drv>
 

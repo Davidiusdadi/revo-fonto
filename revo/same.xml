@@ -69,6 +69,10 @@
   <trd lng="tok">jan pi ma Sami</trd>
   <trd lng="uk">&#x43B;&c_a;&#x43F;&#x43B;&c_a;&#x43D;&c_d;&c_je;&c_c;&#x44C;</trd>
   <trd lng="vo">Samiy&auml;nan</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x85A9;&#x7C73;&#x4EBA; <pr>s&agrave;m&#x01D0;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x8428;&#x7C73;&#x4EBA; <pr>s&agrave;m&#x01D0;r&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="same.0a">
@@ -185,6 +189,10 @@
   <trd lng="se">S&aacute;pmi</trd>
   <trd lng="tok">ma Sami</trd>
   <trd lng="vo">Samiy&auml;n</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 76%">&#x62C9;&#x666E;&#x862D;</trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 76%">&#x62C9;&#x666E;&#x5170;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -81,6 +81,12 @@
   <trd lng="pt">alegro</trd>
   <trd lng="ru">&c_a;&c_l;&c_l;&c_je;&c_g;&c_r;&c_o;</trd>
   <trd lng="sk">allegro</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ko ru; taksis Jev 29%">&#x5FEB; <pr>ku&agrave;i</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 21%">&#x6025;&#x901F; <pr>j&iacute;s&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 16%">&#x8D95;&#x5FEB; <pr>g&#x01CE;nku&agrave;i</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 16%">&#x8D76;&#x5FEB; <pr>g&#x01CE;nku&agrave;i</pr></trd>
+  </trdgrp>
 </drv>
 <drv mrk="alegr.0eto">
   <kap><tld/>eto</kap>

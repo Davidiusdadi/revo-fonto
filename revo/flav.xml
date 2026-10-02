@@ -225,6 +225,10 @@
   <trd lng="pt">amarelo</trd>
   <trd lng="ru">&c_zh;&c_je;&c_l;&c_t;&c_i;&c_z;&c_n;&c_a;</trd>
   <trd lng="sk">&zcaron;l&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 92%">&#x9EC3;&#x8272; <pr>hu&aacute;ngs&egrave;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 92%">&#x9EC4;&#x8272; <pr>hu&aacute;ngs&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flav.0eta">

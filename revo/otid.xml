@@ -98,6 +98,10 @@
     <trd lng="pl">drop wielki</trd>
     <trd lng="ro">dropie</trd>
     <trd lng="sv">stortrapp</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: ru; taksis Jev 91%">&#x5927;&#x9D07; <pr>d&agrave;b&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 91%">&#x5927;&#x9E28; <pr>d&agrave;b&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_d;&c_r;&c_o;&c_p;-&c_d;&c_u;&c_d;&c_a;&c_k;</trd>
 </drv>

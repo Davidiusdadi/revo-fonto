@@ -25,6 +25,10 @@
     <trd lng="fr">censeur</trd>
     <trd lng="it">censore</trd>
     <trd lng="pl">cenzor</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: ru; taksis Jev 43%">&#x6AA2;&#x67E5;&#x54E1; <pr>ji&#x01CE;nch&aacute;yu&aacute;n</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 43%">&#x68C0;&#x67E5;&#x5458; <pr>ji&#x01CE;nch&aacute;yu&aacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="cs">
     <trd>censor</trd>,

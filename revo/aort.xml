@@ -50,6 +50,14 @@
   <trd lng="ru">&c_a;&c_o;&c_r;&c_t;&c_a;</trd>
   <trd lng="sk">aorta</trd>
   <trd lng="uk">&#x430;&#x43E;&#x440;&#x442;&#x430;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku pt ru; taksis Jev 97%">&#x4E3B;&#x52D5;&#x8108; <pr>zh&#x01D4;d&ograve;ngm&agrave;i</pr></trd>,
+    <trd fnt="Vikt: zh en ku pt ru; taksis Jev 97%">&#x4E3B;&#x52A8;&#x8109; <pr>zh&#x01D4;d&ograve;ngm&agrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 97%">&#x5927;&#x52D5;&#x8108; <pr>d&agrave;d&ograve;ngm&agrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 97%">&#x5927;&#x52A8;&#x8109; <pr>d&agrave;d&ograve;ngm&agrave;i</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 8%">&#x9EC3;&#x5589; <pr>hu&aacute;ngh&oacute;u</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 8%">&#x9EC4;&#x5589; <pr>hu&aacute;ngh&oacute;u</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

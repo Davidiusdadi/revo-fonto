@@ -35,6 +35,10 @@
     <trd lng="en">Bishkek</trd>
     <trd lng="fr">Bichkek</trd>
     <trd lng="pl">Biszkek</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh el en fr pt; taksis Jev 94%">&#x6BD4;&#x4EC0;&#x51F1;&#x514B; <pr>B&#x01D0;sh&iacute;k&#x01CE;ik&egrave;</pr></trd>,
+      <trd fnt="Vikt: zh el en fr pt; taksis Jev 94%">&#x6BD4;&#x4EC0;&#x51EF;&#x514B; <pr>B&#x01D0;sh&iacute;k&#x01CE;ik&egrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_B;&c_ib;&c_sh;&c_k;&c_je;&c_k;</trd>
   <trd lng="ja">&#x30D3;&#x30B7;&#x30E5;&#x30B1;&#x30AF;</trd>

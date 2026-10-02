@@ -1478,6 +1478,10 @@
   <trd lng="en">bookmark</trd>
   <trd lng="fr">marque-page</trd>
   <trd lng="ru">&c_z;&c_a;&c_k;&c_l;&c_a;&c_d;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku; taksis Jev 95%">&#x66F8;&#x7C64; <pr>sh&#x016B;qi&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: zh en ku; taksis Jev 95%">&#x4E66;&#x7B7E; <pr>sh&#x016B;qi&#x0101;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sign.man0i">
@@ -2287,6 +2291,12 @@
   </trdgrp>
   <trd lng="id"><baz>markah</baz>markah jalan</trd>
   <trd lng="pl">znak drogowy</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 93%">&#x8DEF;&#x6A19; <pr>l&ugrave;bi&#x0101;o</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 93%">&#x8DEF;&#x6807; <pr>l&ugrave;bi&#x0101;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x4EA4;&#x901A;&#x6A19;&#x8A8C; <pr>ji&#x0101;ot&#x014D;ng bi&#x0101;ozh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x4EA4;&#x901A;&#x6807;&#x5FD7; <pr>ji&#x0101;ot&#x014D;ng bi&#x0101;ozh&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sign.0obildo">
@@ -2327,6 +2337,7 @@
     </trdgrp>
     <trd lng="id">glif</trd>
     <trd lng="ru">&c_n;&c_a;&c_ch;&c_je;&c_r;&c_t;&c_a;&c_n;&c_i;&c_je;</trd>
+    <trd lng="zh" fnt="Vikt: en; taksis Jev 88%">&#x5B57;&#x5F62; <pr>z&igrave;x&iacute;ng</pr></trd>
   </snc>
   <snc mrk="sign.0obildo.TIP">
     <uzo tip="fak">TIP</uzo>
@@ -2360,6 +2371,10 @@
   <trd lng="sk">obraz znaku</trd>
   <trd lng="uk">&c_g;&c_r;&c_a;&c_f;&c_ib;&c_ch;&c_n;&c_i;&c_j; &c_v;&c_i;&c_g;&c_l;&c_ja;&c_d;
   &c_z;&c_n;&c_a;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x5B57;&#x9AD4; <pr>z&igrave;t&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x5B57;&#x4F53; <pr>z&igrave;t&#x01D0;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sign.optika0orekono">

@@ -906,6 +906,11 @@
     <trd lng="ru">&c_a;&c_v;&c_o;&c_s;&c_mol;&c_k;&c_a;</trd>
     <trd lng="sk">sie&tcaron;ovka</trd>
     <trd lng="uk">&c_s;&c_ib;&c_t;&c_k;&c_a; <klr>(&c_d;&c_l;&c_ja; &c_p;&c_r;&c_o;&c_d;&c_u;&c_k;&c_t;&c_ib;&c_v;)</klr></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: ru; taksis Jev 23%">&#x63D0;&#x5305; <pr>t&iacute;b&#x0101;o</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 90%">&#x7DB2;&#x515C; <pr>w&#x01CE;ngd&#x014D;u</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 90%">&#x7F51;&#x515C; <pr>w&#x01CE;ngd&#x014D;u</pr></trd>
+    </trdgrp>
   </snc>
 </drv>
 

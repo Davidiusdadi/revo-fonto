@@ -195,6 +195,10 @@
     </trdgrp>
     <trd lng="it">fidanzata</trd>
     <trd lng="pl">narzeczona</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 17%">&#x8A02;&#x5A5A;&#x4E86;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 17%">&#x8BA2;&#x5A5A;&#x4E86;</trd>
+    </trdgrp>
   </snc>
   <snc mrk="fiancx.0ino.eventuala">
     <dif>
@@ -241,6 +245,7 @@
   <trd lng="nl">verloofde<klr tip="ind"> (vr.)</klr></trd>
   <trd lng="ru">&c_n;&c_je;&c_v;&c_je;&c_s;&c_t;&c_a;</trd>
   <trd lng="uk">&#x43D;&c_a;&c_r;&c_je;&c_ch;&c_je;&#x43D;&c_a;</trd>
+  <trd lng="zh" fnt="Vikt: zh en ku; taksis Jev 90%">&#x672A;&#x5A5A;&#x59BB; <pr>w&egrave;ih&#x016B;nq&#x012B;</pr></trd>
 </drv>
 
 <drv mrk="fiancx.0igi">

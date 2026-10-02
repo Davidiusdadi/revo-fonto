@@ -85,6 +85,11 @@
     <trd>&c_a;&c_b;&c_a;&c_t;</trd>,
     <trd>&c_ib;&c_g;&c_u;&#x43C;&c_je;&#x43D;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 62%">&#x4F4F;&#x6301; <pr>zh&ugrave;ch&iacute;</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 79%">&#x65B9;&#x4E08; <pr>f&#x0101;ngzh&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 91%">&#x7537;&#x4FEE;&#x9053;&#x9662;&#x957F; <pr>n&aacute;nxi&#x016B;d&agrave;oyu&agrave;nzh&#x01CE;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abat.0ino">
@@ -139,6 +144,11 @@
   <trdgrp lng="uk">
     <trd>&c_a;&c_b;&c_a;&c_t;&c_i;&c_s;&c_a;</trd>,
     <trd>&c_ib;&c_g;&c_u;&#x43C;&c_je;&#x43D;&#x44F;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 95%">&#x5973;&#x4FEE;&#x9053;&#x9662;&#x9577;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 95%">&#x5973;&#x4FEE;&#x9053;&#x9662;&#x957F;</trd>,
+    <trd fnt="Vikt: fr; taksis Jev 96%">&#x5973;&#x4FEE;&#x9053;&#x9662;&#x9662;&#x957F;</trd>
   </trdgrp>
 </drv>
 
@@ -224,6 +234,11 @@ abbaye<klr tip="ind"> (de moines)</klr></trd>
   <trd lng="sk">op&aacute;tstvo</trd>
   <trd lng="sl">opatija</trd>
   <trd lng="uk">&c_a;&c_b;&c_a;&c_t;&c_s;&c_t;&c_v;&#x43E;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de el en es fr ko pt ru; taksis Jev 55%">&#x4FEE;&#x9053;&#x9662; <pr>xi&#x016B;d&agrave;oyu&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 3%">&#x4FEE;&#x9053;&#x58EB; <pr>xi&#x016B;d&agrave;osh&igrave;</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 60%">&#x5927;&#x5BFA;&#x9662;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abat.0inejo">
@@ -275,6 +290,11 @@ abbaye<klr tip="ind"> (de moines)</klr></trd>
     <klr tip="amb">
     (&c_zh;&c_je;&c_n;&c_s;&c_k;&c_o;&c_je;)
     </klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ko ru; taksis Jev 3%">&#x4FEE;&#x9053;&#x58EB; <pr>xi&#x016B;d&agrave;osh&igrave;</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 59%">&#x4FEE;&#x9053;&#x9662; <pr>xi&#x016B;d&agrave;oyu&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 29%">&#x5927;&#x5BFA;&#x9662;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -230,6 +230,14 @@
   <trd lng="xh">eniyivayo</trd>
   <trd lng="yi">&he;&ayin;&resh;&fnun;</trd>
   <trd lng="yo">gb&#7885;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr ja ku pl pt; taksis Jev 92%">&#x807D;&#x898B; <pr>t&#x012B;ngji&agrave;n</pr></trd>,
+    <trd fnt="Vikt: fr ja ku pl pt; taksis Jev 92%">&#x542C;&#x89C1; <pr>t&#x012B;ngji&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en fr ko pl; taksis Jev 93%">&#x807D; <pr>y&#x01D0;n</pr></trd>,
+    <trd fnt="Vikt: en fr ko pl; taksis Jev 93%">&#x542C; <pr>y&#x01D0;n</pr></trd>,
+    <trd fnt="Vikt: ja pl; taksis Jev 94%">&#x807D;&#x5230; <pr>t&#x012B;ngd&agrave;o</pr></trd>,
+    <trd fnt="Vikt: ja pl; taksis Jev 94%">&#x542C;&#x5230; <pr>t&#x012B;ngd&agrave;o</pr></trd>
+  </trdgrp>
   <trd lng="zu">zwa</trd>
 </drv>
 
@@ -292,6 +300,10 @@
   <trd lng="pl">s&lstroke;uch</trd>
   <trd lng="ro">auz</trd>
   <trd lng="ru">&c_s;&c_l;&c_u;&c_h;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el; taksis Jev 78%">&#x807D;&#x89BA; <pr>t&#x012B;ngju&eacute;</pr></trd>,
+    <trd fnt="Vikt: el; taksis Jev 78%">&#x542C;&#x89C9; <pr>t&#x012B;ngju&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="auxd.0a">
@@ -348,6 +360,11 @@
   <trd lng="ro">auditiv</trd>
   <trd lng="ru">&c_s;&c_l;&c_u;&c_h;&c_o;&c_v;&c_o;&c_j;</trd>
   <trd lng="tok">kute</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 54%">&#x8033;&#x6735;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x807D;&#x89BA;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x542C;&#x89C9;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="auxd.0ado">
@@ -399,6 +416,13 @@
   <trd lng="pl">s&lstroke;uch</trd>
   <trd lng="ro">auz</trd>
   <trd lng="uk">&c_s;&c_l;&c_u;&c_h;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 4%">&#x8033;&#x6735; <pr>&ecaron;rduo</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x807D;&#x529B; <pr>t&#x012B;ngl&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x542C;&#x529B; <pr>t&#x012B;ngl&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x807D;&#x89BA; <pr>t&#x012B;ngju&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x542C;&#x89C9; <pr>t&#x012B;ngju&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="auxd.0igi">

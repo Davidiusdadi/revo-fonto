@@ -652,6 +652,14 @@
     <trd>&c_p;&c_r;&c_i;&c_m;&c_u;&c_s;&c_o;&c_v;&c_i;&c_j;</trd>,
     <trd>&c_o;&c_b;&c_o;&c_v;&#8217;&c_ja;&c_z;&c_k;&c_o;&c_v;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x5F37;&#x5236; <pr>qi&aacute;ngzh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x5F3A;&#x5236; <pr>qi&aacute;ngzh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x5F3A;&#x5236; <pr>qi&#x01CE;ngzh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x5F37;&#x5236; <pr>qi&#x01CE;ngzh&igrave;</pr></trd>,
+    <trd fnt="Vikt: zh; taksis Jev 84%">&#x7FA9;&#x52D9; <pr>y&igrave;w&ugrave;</pr></trd>,
+    <trd fnt="Vikt: zh; taksis Jev 84%">&#x4E49;&#x52A1; <pr>y&igrave;w&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dev.0igi">
@@ -1045,6 +1053,12 @@
   </trdgrp>
   <trd lng="sk">vyn&uacute;ti&tcaron;</trd>
   <trd lng="uk">&c_d;&c_o;&c_m;&c_a;&c_g;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x57F7;&#x884C; <pr>zh&iacute;x&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x6267;&#x884C; <pr>zh&iacute;x&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x5BE6;&#x65BD; <pr>sh&iacute;sh&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x5B9E;&#x65BD; <pr>sh&iacute;sh&#x012B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dev.sen0igi">

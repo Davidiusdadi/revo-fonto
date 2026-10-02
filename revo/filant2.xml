@@ -73,6 +73,10 @@
   </trdgrp>
   <trd lng="sk">&lcaron;udomilnos&tcaron;</trd>
   <trd lng="uk">&c_f;&c_ib;&c_l;&c_a;&c_n;&c_t;&c_r;&c_o;&c_p;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x535A;&#x611B;&#x7CBE;&#x795E; <pr>b&oacute;'&agrave;ij&#x012B;ngsh&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x535A;&#x7231;&#x7CBE;&#x795E; <pr>b&oacute;'&agrave;ij&#x012B;ngsh&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="filant2.0a">
@@ -129,6 +133,10 @@
   <trd lng="id">filantropis</trd>
   <trd lng="pl">dobroczynny</trd>
   <trd lng="sk">&lcaron;udomiln&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x4EC1;&#x6148;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x535A;&#x7231;&#x7684;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

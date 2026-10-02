@@ -865,6 +865,10 @@
     <trd lng="de" fnt="Vikt: en; juĝis claude-opus-5">Nasenring</trd>
     <trd lng="en">nose <ind>ring</ind></trd>
     <trd lng="id">cincin hidung</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 91%">&#x9F3B;&#x74B0; <pr>b&iacute;hu&aacute;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 91%">&#x9F3B;&#x73AF; <pr>b&iacute;hu&aacute;n</pr></trd>
+    </trdgrp>
 </drv>
 
 <drv mrk="ring.orel0o">
@@ -1048,6 +1052,12 @@
   </trdgrp>
   <trd lng="pl">uszczelka</trd>
   <trd lng="ru">&c_u;&c_p;&c_l;&c_o;&c_t;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je; &c_k;&c_o;&c_l;&c_mol;&c_c;&c_o;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 53%">&#x588A;&#x5708; <pr>di&agrave;nqu&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 53%">&#x57AB;&#x5708; <pr>di&agrave;nqu&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 38%">&#x588A;&#x7247; <pr>di&agrave;npi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 38%">&#x57AB;&#x7247; <pr>di&agrave;npi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -37,6 +37,12 @@
     <trd lng="en">Daedalus</trd>
     <trd lng="fr">D&eacute;dale</trd>
     <trd lng="grc">&Delta;&alfa;&jota_ton;&delta;&alfa;&lambda;&omikron;&sigma_fina;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: fr; taksis Jev 94%">&#x4EE3;&#x9054;&#x6D1B;&#x65AF; <pr>D&agrave;id&aacute;lu&ograve;s&#x012B;</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 94%">&#x4EE3;&#x8FBE;&#x6D1B;&#x65AF; <pr>D&agrave;id&aacute;lu&ograve;s&#x012B;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 95%">&#x4EE3;&#x9054;&#x7F85;&#x65AF; <pr>D&agrave;id&aacute;lu&oacute;s&#x012B;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 95%">&#x4EE3;&#x8FBE;&#x7F57;&#x65AF; <pr>D&agrave;id&aacute;lu&oacute;s&#x012B;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_D;&c_e;&c_d;&c_a;&c_l;</trd>
 </drv>

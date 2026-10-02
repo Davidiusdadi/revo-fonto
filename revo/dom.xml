@@ -457,6 +457,11 @@
   </trdgrp>
   <trd lng="sv">ruckel</trd>
   <trd lng="uk"> &c_h;&c_a;&c_l;&c_u;&c_p;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 21%">&#x5BEE; <pr>li&aacute;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 32%">&#x68DA;&#x5B50; <pr>p&eacute;ngzi</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 72%">&#x68DA;&#x5C4B; <pr>p&eacute;ngw&#x016B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dom.0ano">
@@ -639,6 +644,12 @@
   <trd lng="ro">cl&abreve;dire</trd>
   <trd lng="sw">jumba</trd>
   <trd lng="tr">bina</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 54%">&#x516C;&#x9928; <pr>g&#x014D;nggu&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 54%">&#x516C;&#x9986; <pr>g&#x014D;nggu&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 53%">&#x5B85;&#x7B2C; <pr>zh&aacute;id&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 45%">&#x8C6A;&#x5B85; <pr>h&aacute;ozh&aacute;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dom.0estro">
@@ -1178,6 +1189,7 @@
     <trd>&c_d;&c_a;&c_ch;&c_a;</trd>,
     <trd>&c_l;&c_ib;&c_t;&c_n;&c_ib;&c_j; &c_b;&c_u;&c_d;&c_i;&c_n;&c_o;&c_ch;&c_o;&c_k;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 81%">&#x907F;&#x6691;&#x522B;&#x5885; <pr>b&igrave;sh&#x01D4;bi&eacute;sh&ugrave;</pr></trd>
 </drv>
 
 <drv mrk="dom.staci0o">

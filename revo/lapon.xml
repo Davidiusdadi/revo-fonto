@@ -44,6 +44,10 @@
   <trd lng="fr">lapon<klr> (subst.)</klr></trd>
   <trd lng="ja">&#x30E9;&#x30C3;&#x30D7;&#x4EBA;  <pr>&#x30E9;&#x30C3;&#x30D7;&#x3058;&#x3093;</pr></trd>
   <trd lng="uk">&c_l;&c_a;&c_p;&c_l;&c_a;&c_n;&c_d;&c_je;&c_c;&c_mol;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x85A9;&#x7C73;&#x4EBA; <pr>s&agrave;m&#x01D0;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x8428;&#x7C73;&#x4EBA; <pr>s&agrave;m&#x01D0;r&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lapon.0a">
@@ -106,6 +110,7 @@
     </dif>
   <trd lng="de" fnt="Vikt: de fr pl; juĝis claude-opus-5">Lappland</trd>
   <trd lng="en">Lapland</trd>
+  <trd lng="zh" fnt="Vikt: fr; taksis Jev 86%">&#x62C9;&#x666E;&#x5170;</trd>
   </snc>
   <trd lng="fr">Laponie</trd>
 </drv>

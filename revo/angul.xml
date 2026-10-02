@@ -684,6 +684,11 @@
     <trd>pravouholn&iacute;k</trd>
   </trdgrp>
   <trd lng="uk">&c_p;&c_r;&c_ja;&c_m;&c_o;&c_k;&c_u;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x77E9;&#x5F62; <pr>j&#x01D4;x&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 95%">&#x9577;&#x65B9;&#x5F62; <pr>ch&aacute;ngf&#x0101;ngx&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 95%">&#x957F;&#x65B9;&#x5F62; <pr>ch&aacute;ngf&#x0101;ngx&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.ort0a">
@@ -716,6 +721,7 @@
   <trd lng="ro">dreptunghiular</trd>
   <trd lng="ru">&c_p;&c_r;&c_ja;&c_m;&c_o;&c_u;&c_g;&c_o;&c_l;&c_mol;&c_n;&c_y;&c_j;</trd>
   <trd lng="sk">pravouhl&yacute;</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 70%">&#x77E9;&#x5F62;&#x7684;</trd>
 </drv>
 
 <drv mrk="angul.plur0o">
@@ -759,6 +765,11 @@
     <trd>&c_m;&c_n;&c_o;&c_g;&c_o;&c_k;&c_u;&c_t;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_b;&c_a;&c_g;&c_a;&c_t;&c_o;&c_k;&c_u;&c_t;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en fr ko pt ru; taksis Jev 85%">&#x591A;&#x908A;&#x5F62; <pr>du&#x014D;bi&#x0101;nx&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: zh en fr ko pt ru; taksis Jev 85%">&#x591A;&#x8FB9;&#x5F62; <pr>du&#x014D;bi&#x0101;nx&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: el en ru; taksis Jev 85%">&#x591A;&#x89D2;&#x5F62; <pr>du&#x014D;ji&#x01CE;ox&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.rekt0o">
@@ -795,6 +806,11 @@
   <trd lng="sk">pravouholn&iacute;k</trd>
   <trd lng="sv">rektangel</trd>
   <trd lng="uk">&c_p;&c_r;&c_ja;&c_m;&c_o;&c_k;&c_u;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 90%">&#x77E9;&#x5F62; <pr>j&#x01D4;x&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 89%">&#x9577;&#x65B9;&#x5F62; <pr>ch&aacute;ngf&#x0101;ngx&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 89%">&#x957F;&#x65B9;&#x5F62; <pr>ch&aacute;ngf&#x0101;ngx&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.strat0o">
@@ -830,6 +846,10 @@
   </trdgrp>
   <trd lng="sk">n&aacute;ro&zcaron;ie ul&iacute;c</trd>
   <trd lng="uk">&c_r;&c_ib;&c_g; (&c_v;&c_u;&c_l;&c_i;&c_c;&c_ib;)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 94%">&#x8857;&#x89D2; <pr>ji&#x0113;ji&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 64%">&#x89D2;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angul.tri0a">
@@ -1044,6 +1064,12 @@
   <trd lng="xh">unxantathu</trd>
   <trd lng="yi">&dalet;&resh;&yod;&yod;&#1463;&ayin;&qof;</trd>
   <trd lng="yo">onigun m&#7865;ta</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en fr it ja ko ku pt ru; taksis Jev 95%">&#x4E09;&#x89D2;&#x5F62; <pr>s&#x0101;nji&#x01CE;ox&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en fr it ja ko ku ru; taksis Jev 88%">&#x4E09;&#x89D2; <pr>s&#x0101;nji&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: zh en fr; taksis Jev 23%">&#x4E09;&#x89D2;&#x9435; <pr>s&#x0101;nji&#x01CE;oti&ecaron;</pr></trd>,
+    <trd fnt="Vikt: zh en fr; taksis Jev 23%">&#x4E09;&#x89D2;&#x94C1; <pr>s&#x0101;nji&#x01CE;oti&ecaron;</pr></trd>
+  </trdgrp>
   <trd lng="zu">calantsatfu</trd>
 </drv>
 
@@ -1073,6 +1099,7 @@
   <trd lng="ja">&#12373;&#12435;&#12363;&#12367;&#24231;  <pr>&#12373;&#12435;&#12363;&#12367;&#12374;</pr></trd>
   <trd lng="pl">Tr&oacute;jk&aogonek;t  <klr>(gwiazdozbi&oacute;r)</klr></trd>
   <trd lng="ro">Triunghiul  <klr>(constela&#539;ie)</klr></trd>
+  <trd lng="zh" fnt="Vikt: el en pt; taksis Jev 84%">&#x4E09;&#x89D2;&#x5EA7; <pr>s&#x0101;nji&#x01CE;ozu&ograve;</pr></trd>
 </drv>
 
 <drv mrk="angul.auxstralaTri0o">
@@ -1402,6 +1429,10 @@
   <trd lng="ro">unghi solid </trd>
   <trd lng="ru">&c_t;&c_je;&c_l;&c_je;&c_s;&c_n;&c_y;&c_j; <ind>&c_u;&c_g;&c_o;&c_l;</ind></trd>
   <trd lng="sk">priestorov&yacute; uhol</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 96%">&#x7ACB;&#x9AD4;&#x89D2; <pr>l&igrave;t&#x01D0;ji&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 96%">&#x7ACB;&#x4F53;&#x89D2; <pr>l&igrave;t&#x01D0;ji&#x01CE;o</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

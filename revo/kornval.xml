@@ -42,6 +42,12 @@
     <trd lng="en">Cornwall</trd>
     <trd lng="fr">Cornouailles</trd>
     <trd lng="pl">Kornwalia</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en ru; taksis Jev 94%">&#x5EB7;&#x6C83;&#x723E; <pr>K&#x0101;ngw&ograve;'&ecaron;r</pr></trd>,
+      <trd fnt="Vikt: zh en ru; taksis Jev 94%">&#x5EB7;&#x6C83;&#x5C14; <pr>K&#x0101;ngw&ograve;'&ecaron;r</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 94%">&#x5EB7;&#x6C83;&#x723E;&#x90E1; <pr>K&#x0101;ngw&ograve;'&ecaron;rj&ugrave;n</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 94%">&#x5EB7;&#x6C83;&#x5C14;&#x90E1; <pr>K&#x0101;ngw&ograve;'&ecaron;rj&ugrave;n</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_K;&c_o;&c_r;&c_n;&c_w;&c_a;&c_l;</trd>
 </drv>

@@ -377,6 +377,7 @@
     <trd>&c_p;&c_s;&c_ja;&c_ch;&c_i;&c_j;</trd>
   </trdgrp>
   <trd lng="vo">dogik</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 78%">&#x72D7;&#x7684;</trd>
 </drv>
 
 <drv mrk="hund.0aro">
@@ -406,6 +407,11 @@
   <trd lng="en">pack <klr>(of dogs)</klr></trd>
   <trd lng="fr">meute</trd>
   <trd lng="ru">&c_sh;&c_a;&c_j;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x4E00;&#x7FA3; <pr>y&#x012B;q&uacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x4E00;&#x7FA4; <pr>y&#x012B;q&uacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 68%">&#x7FA4; <pr>q&uacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hund.0ido">
@@ -511,6 +517,11 @@
   <trd lng="ro">c&abreve;&#539;ea</trd>
   <trd lng="uk">&c_s;&c_u;&c_k;&c_a;</trd>
   <trd lng="vo">jidog</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh de en fr ku nl pl; taksis Jev 96%">&#x6BCD;&#x72D7; <pr>m&#x01D4;g&#x01D2;u</pr></trd>,
+    <trd fnt="Vikt: en ko ku; taksis Jev 15%">&#x72AC; <pr>qu&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en ko ku; taksis Jev 9%">&#x72D7; <pr>g&#x01D2;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hund.0ejo">
@@ -752,6 +763,11 @@
     <trd>&c_s;&c_o;&c_b;&c_a;&c_k;&c_a; (&c_s;&c_a;&c_m;&c_je;&c_c;&c_mol;)</trd>
   </trdgrp>
   <trd lng="vo">hidog</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ko; taksis Jev 11%">&#x72AC; <pr>qu&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 9%">&#x72D7; <pr>g&#x01D2;u</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 8%">&#x7352; <pr>&aacute;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hund.dom0o">
@@ -818,6 +834,11 @@
   <trd lng="pl">brytan</trd>
   <trd lng="ro">dog</trd>
   <trd lng="sk">str&aacute;&zcaron;ny pes</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x770B;&#x9580;&#x72D7; <pr>k&#x0101;nm&eacute;ng&#x01D2;u</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x770B;&#x95E8;&#x72D7; <pr>k&#x0101;nm&eacute;ng&#x01D2;u</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x770B;&#x5BB6;&#x72D7; <pr>k&#x0101;nji&#x0101;g&#x01D2;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="hund.lepor0o">

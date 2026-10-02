@@ -98,6 +98,12 @@
     <trd>&c_zh;&c_je;</trd>,
     <trd>&c_zh;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de en; taksis Jev 3%">&#x6240;&#x4EE5; <pr>su&#x01D2;y&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x56E0;&#x6B64; <pr>y&#x012B;nc&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x65BC;&#x662F; <pr>y&uacute;sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x4E8E;&#x662F; <pr>y&uacute;sh&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

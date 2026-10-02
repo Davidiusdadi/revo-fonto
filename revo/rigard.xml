@@ -970,6 +970,10 @@
     <trd>spojrze&cacute;</trd>,
     <trd>zajrze&cacute;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x770B;&#x4E00;&#x4E0B;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 59%">&#x770B;&#x4E00;&#x770B;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rigard.ek0o">
@@ -1242,6 +1246,7 @@
     <trd>&c_v;&c_d;&c_i;&c_v;&c_l;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
     <trd>&c_r;&c_o;&c_z;&c_g;&c_l;&c_ja;&c_d;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 21%">&#x5077;&#x770B; <pr>t&#x014D;uk&agrave;n</pr></trd>
 </drv>
 
 <drv mrk="rigard.fiks0i">
@@ -1425,6 +1430,10 @@
     <trd>postrzeganie &sacute;wiata</trd>
   </trdgrp>
   <trd lng="uk">&c_s;&c_v;&c_ib;&c_t;&c_o;&c_g;&c_l;&c_ja;&c_d;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 94%">&#x4E16;&#x754C;&#x89C0; <pr>sh&igrave;ji&egrave;gu&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 94%">&#x4E16;&#x754C;&#x89C2; <pr>sh&igrave;ji&egrave;gu&#x0101;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="rigard.post0i">

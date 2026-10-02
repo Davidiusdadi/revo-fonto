@@ -500,6 +500,14 @@
     <trd>&c_p;&c_o;&c_m;&c_i;&c_l;&c_k;&c_a;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_m;&c_a;&c_h;</trd>
   </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: ru; taksis Jev 80%">&#x8AA4; <pr>w&ugrave;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 80%">&#x8BEF; <pr>w&ugrave;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 81%">&#x932F;</trd>,
+      <trd fnt="Vikt: ru; taksis Jev 81%">&#x9519;</trd>,
+      <trd fnt="Vikt: ru; taksis Jev 90%">&#x932F;&#x8AA4; <pr>cu&ograve;w&ugrave;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 90%">&#x9519;&#x8BEF; <pr>cu&ograve;w&ugrave;</pr></trd>
+    </trdgrp>
 </drv>
 </subart>
 </art>

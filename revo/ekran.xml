@@ -315,6 +315,12 @@
     <trd>&#x5C4F;&#x98A8;  <pr>&#12403;&#12423;&#12358;&#12406;</pr></trd>
   </trdgrp>
   <trd lng="sk">&scaron;panielska stena</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 22%">&#x570D;&#x5C4F; <pr>w&eacute;ip&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 22%">&#x56F4;&#x5C4F; <pr>w&eacute;ip&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 23%">&#x5C4F;&#x98A8; <pr>p&iacute;ngf&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 23%">&#x5C4F;&#x98CE; <pr>p&iacute;ngf&#x0113;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ekran.katodradia0o">
@@ -598,6 +604,10 @@
     <trd>screenshot</trd>
   </trdgrp>
   <trd lng="pl">zrzut <ind>ekranu</ind></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 96%">&#x622A;&#x5716; <pr>ji&eacute;t&uacute;</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 96%">&#x622A;&#x56FE; <pr>ji&eacute;t&uacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

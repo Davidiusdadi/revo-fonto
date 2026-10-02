@@ -382,6 +382,14 @@
       <trd>&c_k;&c_o;&c_n;&c_malmol;&c_ju;&c_n;&c_k;&c_c;&c_i;&c_ja;</trd>
   </trdgrp>
   <trd lng="uk">&c_k;&c_o;&c_n;&#8217;&c_ju;&c_n;&c_k;&c_c;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 2%">&#x78BC;&#x982D; <pr>m&#x01CE;tou</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 2%">&#x7801;&#x5934; <pr>m&#x01CE;tou</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x57E0;&#x982D; <pr>b&ugrave;tou</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x57E0;&#x5934; <pr>b&ugrave;tou</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x6708;&#x81FA; <pr>yu&egrave;t&aacute;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x6708;&#x53F0; <pr>yu&egrave;t&aacute;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kaj.mal0o">
@@ -506,6 +514,10 @@
   <trdgrp lng="pt">
     <trd>"<ind>ampersand</ind>"</trd>,
     <trd>E comercial</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 77%">&#x548C;&#x865F;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 77%">&#x548C;&#x53F7;</trd>
   </trdgrp>
 </drv>
 

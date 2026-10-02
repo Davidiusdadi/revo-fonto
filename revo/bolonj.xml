@@ -46,6 +46,10 @@
     <trd lng="fr">Bologne</trd>
     <trd lng="it">Bologna</trd>
     <trd lng="pl">Bolonia</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: it; taksis Jev 94%">&#x535A;&#x6D1B;&#x5C3C;&#x4E9E; <pr>B&oacute;lu&ograve;n&iacute;y&agrave;</pr></trd>,
+      <trd fnt="Vikt: it; taksis Jev 94%">&#x535A;&#x6D1B;&#x5C3C;&#x4E9A; <pr>B&oacute;lu&ograve;n&iacute;y&agrave;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_B;&c_a;&c_l;&c_jo;&c_n;&c_mol;&c_ja;</trd>
 </drv>

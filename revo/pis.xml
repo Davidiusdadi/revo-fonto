@@ -271,6 +271,14 @@
     <trd>se urina</trd>,
     <trd>face pipi</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 53%">&#x6EFE; <pr>g&#x01D4;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 53%">&#x6EDA; <pr>g&#x01D4;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 11%">&#x6EFE;&#x7403; <pr>g&#x01D4;nqi&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 11%">&#x6EDA;&#x7403; <pr>g&#x01D4;nqi&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 44%">&#x6EFE;&#x958B; <pr>g&#x01D4;nk&#x0101;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 44%">&#x6EDA;&#x5F00; <pr>g&#x01D4;nk&#x0101;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pis.0poto">
@@ -313,6 +321,10 @@
   <ind>&c_g;&c_o;&c_r;&c_sh;&c_o;&c_k;</ind></trd>
   <trd lng="sk">no&ccaron;n&iacute;k</trd>
   <trd lng="uk">&c_n;&c_ib;&c_ch;&c_n;&c_i;&c_j; &c_g;&c_o;&c_r;&c_shch;&c_o;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pt; taksis Jev 26%">&#x99AC;&#x6876; <pr>m&#x01CE;t&#x01D2;ng</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 26%">&#x9A6C;&#x6876; <pr>m&#x01CE;t&#x01D2;ng</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

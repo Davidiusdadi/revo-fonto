@@ -64,6 +64,12 @@
     <trd lng="pl">elipsa</trd>
     <trd lng="pt">elipse</trd>
     <trd lng="ru">&c_e;&c_l;&c_l;&c_i;&c_p;&c_s;&c_i;&c_s;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en fr pt ru; taksis Jev 6%">&#x6A62;&#x5713; <pr>tu&#x01D2;yu&aacute;n</pr></trd>,
+      <trd fnt="Vikt: zh en fr pt ru; taksis Jev 6%">&#x692D;&#x5706; <pr>tu&#x01D2;yu&aacute;n</pr></trd>,
+      <trd fnt="Vikt: zh; taksis Jev 6%">&#x6A62;&#x5713;&#x5F62; <pr>tu&#x01D2;yu&aacute;nx&iacute;ng</pr></trd>,
+      <trd fnt="Vikt: zh; taksis Jev 6%">&#x692D;&#x5706;&#x5F62; <pr>tu&#x01D2;yu&aacute;nx&iacute;ng</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: (en literaturo) prefere diru <ke>(vorto-)ellaso</ke>.

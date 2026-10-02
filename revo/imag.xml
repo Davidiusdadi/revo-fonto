@@ -555,6 +555,11 @@
     <trd>&c_u;&c_ja;&c_v;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_m;&c_n;&c_i;&c_m;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x5E7B;&#x60F3; <pr>hu&agrave;nxi&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 91%">&#x60F3;&#x50CF;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 90%">&#x60F3;&#x8C61;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="imag.0ado">
@@ -767,6 +772,7 @@
   <trd lng="pt">imagin&aacute;vel</trd>
   <trd lng="sk">predstavite&lcaron;n&yacute;</trd>
   <trd lng="uk">&c_ja;&c_k;&c_i;&c_j; &c_m;&c_o;&c_zh;&c_n;&c_a; &c_u;&c_ja;&c_v;&c_i;&c_t;&c_i;</trd>
+  <trd lng="zh" fnt="Vikt: en pt; taksis Jev 94%">&#x53EF;&#x4EE5;&#x60F3;&#x50CF;&#x7684;</trd>
 </drv>
 
 <drv mrk="imag.0ema">

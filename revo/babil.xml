@@ -317,6 +317,11 @@
     <trd>cengkerama</trd>
   </trdgrp>
   <trd lng="ja">&#x96D1;&#x8AC7;  <pr>&#12374;&#12388;&#12384;&#12435;</pr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 82%">&#x804A;&#x5929; <pr>li&aacute;oti&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x8AC7;&#x8A71; <pr>t&aacute;nhu&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x8C08;&#x8BDD; <pr>t&aacute;nhu&agrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="babil.0ajxo">
@@ -632,6 +637,7 @@
       <trd>pogaw&eogonek;dka</trd>
     </trdgrp>
     <trd lng="sv">chatt</trd>
+    <trd lng="zh" fnt="Vikt: en; taksis Jev 87%">&#x804A;&#x5929;&#x5BA4; <pr>li&aacute;oti&#x0101;nsh&igrave;</pr></trd>
   </snc>
 <trd lng="id">ruang obrolan</trd>
 </drv>

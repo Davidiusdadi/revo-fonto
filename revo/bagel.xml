@@ -44,6 +44,12 @@
     <trd lng="id">bagel</trd>
     <trd lng="ru">&c_b;&c_je;&c_j;&c_g;&c_l;</trd>
     <trd lng="yi">&bet;&#1522;&#8503;&lamed;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en; taksis Jev 95%">&#x8C9D;&#x679C; <pr>b&egrave;igu&#x01D2;</pr></trd>,
+      <trd fnt="Vikt: zh en; taksis Jev 95%">&#x8D1D;&#x679C; <pr>b&egrave;igu&#x01D2;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 84%">&#x57F9;&#x679C;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 86%">&#x7119;&#x679C;</trd>
+    </trdgrp>
 
   </snc>
   <trd lng="ca">bagel</trd>

@@ -393,6 +393,12 @@
     <trd>&c_b;&c_ib;&c_zh;&c_u;&c_ch;&c_i;&c_j;</trd>,
     <trd>&c_p;&c_o;&c_t;&c_o;&c_ch;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 33%">&#x6D3B;&#x671F; <pr>hu&oacute;q&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 72%">&#x73FE;&#x5728;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 72%">&#x73B0;&#x5728;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 21%">&#x901A;&#x7528; <pr>t&#x014D;ngy&ograve;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kur.0o">
@@ -526,6 +532,13 @@
     &c_m;&c_o;&c_ch;&c_i;</trd>,
     <trd>&c_m;&c_ch;&c_a;&c_t;&c_mol;&c_s;&c_ja; &c_v;&c_o; &c_v;&c_s;&c_ju;
     &c_p;&c_r;&c_y;&c_t;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x75BE;&#x99B3; <pr>j&iacute;ch&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x75BE;&#x9A70; <pr>j&iacute;ch&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x98DB;&#x99B3; <pr>f&#x0113;ich&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x98DE;&#x9A70; <pr>f&#x0113;ich&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x75BE;&#x8DD1;</trd>
   </trdgrp>
 </drv>
 
@@ -1707,6 +1720,10 @@
   <trd lng="it">pista di ghiaccio</trd>
   <trd lng="nl">ijspiste</trd>
   <trd lng="ro">patinoar</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 96%">&#x6E9C;&#x51B0;&#x5834; <pr>li&#x016B;b&#x012B;ngch&aacute;ng</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 96%">&#x6E9C;&#x51B0;&#x573A; <pr>li&#x016B;b&#x012B;ngch&aacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kur.ski0i">
@@ -1750,6 +1767,7 @@
   <trd lng="de"><ind>Skilanglauf</ind> betreiben</trd>
   <trd lng="en">do cross-country <ind>skiing</ind></trd>
 <trd lng="id"><baz>main</baz>bermain ski lintas alam</trd>
+<trd lng="zh" fnt="Vikt: en; taksis Jev 44%">&#x6ED1;&#x96EA; <pr>hu&aacute;xu&ecaron;</pr></trd>
 </drv>
 
 <drv mrk="kur.vet0o">

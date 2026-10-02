@@ -355,6 +355,13 @@
     <trd>dopasowanie</trd>,
     <trd>przystosowanie</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ko; taksis Jev 57%">&#x8ABF;&#x6574; <pr>ti&aacute;ozh&ecaron;ng</pr></trd>,
+    <trd fnt="Vikt: en ko; taksis Jev 57%">&#x8C03;&#x6574; <pr>ti&aacute;ozh&ecaron;ng</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 72%">&#x9002;&#x5E94; <pr>sh&igrave;y&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 78%">&#x9069;&#x61C9; <pr>sh&igrave;y&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 78%">&#x9069;&#x5E94; <pr>sh&igrave;y&igrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="adapt.0ebla">
@@ -609,6 +616,10 @@
     <trd>&c_p;&c_a;&c_t;&c_r;&c_u;&c_b;&c_o;&c_k;</trd>,
     <trd>&c_n;&c_ib;&c_p;&c_je;&c_l;&c_mol;</trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_h;&c_ib;&c_d;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x9069;&#x914D;&#x5668; <pr>sh&igrave;p&egrave;iq&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x9002;&#x914D;&#x5668; <pr>sh&igrave;p&egrave;iq&igrave;</pr></trd>
   </trdgrp>
 </drv>
 </art>

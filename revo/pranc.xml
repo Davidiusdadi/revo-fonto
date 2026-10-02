@@ -52,6 +52,11 @@
     <trd lng="de">t&auml;nzeln</trd>
     <trd lng="en">prance</trd>
     <trd lng="fr">caracoler</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 60%">&#x9A30;&#x8E8D; <pr>t&eacute;ngy&agrave;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 60%">&#x9A30;&#x8DC3; <pr>t&eacute;ngy&agrave;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 49%">&#x817E;&#x8DC3; <pr>x&uacute;nzhu&oacute;</pr></trd>
+    </trdgrp>
 <!-- tradukoj kontrolendaj post reverko:
 
     <trd lng="hu">&aacute;gaskodik</trd>

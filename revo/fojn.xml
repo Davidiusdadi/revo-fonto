@@ -220,6 +220,13 @@
   <trd lng="ru">&c_s;&c_je;&c_n;&c_o;&c_v;&c_a;&c_l;</trd>
   <trd lng="sk">senn&iacute;k</trd>
   <trd lng="uk">&c_s;&c_ib;&c_n;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x4E7E;&#x8349;&#x5009; <pr>g&#x0101;nc&#x01CE;oc&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x5E72;&#x8349;&#x5009; <pr>g&#x0101;nc&#x01CE;oc&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x5E72;&#x8349;&#x4ED3; <pr>g&#x0101;nc&#x01CE;oc&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x4E7E;&#x8349;&#x68DA; <pr>g&#x0101;nc&#x01CE;op&eacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x5E72;&#x8349;&#x68DA; <pr>g&#x0101;nc&#x01CE;op&eacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fojn.post0o">
@@ -258,6 +265,14 @@
     <trd>otava</trd>
   </trdgrp>
   <trd lng="uk">&c_o;&c_t;&c_a;&c_v;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 4%">&#x5F8C;&#x679C; <pr>h&ograve;ugu&#x01D2;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 4%">&#x540E;&#x679C; <pr>h&ograve;ugu&#x01D2;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x7D50;&#x679C; <pr>ji&eacute;gu&#x01D2;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x7ED3;&#x679C; <pr>ji&eacute;gu&#x01D2;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 7%">&#x9918;&#x6CE2; <pr>y&uacute;b&#x014D;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 7%">&#x4F59;&#x6CE2; <pr>y&uacute;b&#x014D;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

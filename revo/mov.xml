@@ -521,6 +521,10 @@
     <trd>&c_r;&c_u;&c_h;&c_o;&c_v;&c_i;&c_j;</trd>,
     <trd>&c_r;&c_u;&c_sh;&c_ib;&c_j;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pl; taksis Jev 38%">&#x6D3B;&#x52D5; <pr>hu&oacute;d&ograve;ng</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 38%">&#x6D3B;&#x52A8; <pr>hu&oacute;d&ograve;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mov.0ado">
@@ -1641,6 +1645,7 @@
     <trd>&c_r;&c_u;&c_h;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
     <trd>&c_l;&c_je;&c_g;&c_k;&c_i;&c_j;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 91%">&#x654F;&#x6377; <pr>m&#x01D0;nji&eacute;</pr></trd>
 </drv>
 
 <drv mrk="mov.facil0eco">

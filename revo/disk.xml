@@ -506,6 +506,10 @@
     <trd>&#x30D5;&#x30EA;&#x30B9;&#x30D3;&#x30FC;</trd>,
     <trd>&#x30D5;&#x30E9;&#x30A4;&#x30F3;&#x30B0;&#x30C7;&#x30A3;&#x30B9;&#x30AF;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 94%">&#x98DB;&#x76E4; <pr>f&#x0113;ip&aacute;n</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 94%">&#x98DE;&#x76D8; <pr>f&#x0113;ip&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="disk.kompakta0o">
@@ -584,6 +588,12 @@
   <trdgrp lng="sk">
     <trd>CD</trd>,
     <trd>kompaktn&yacute; disk</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 75%">&#x5149;&#x76E4; <pr>gu&#x0101;ngp&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 75%">&#x5149;&#x76D8; <pr>gu&#x0101;ngp&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 76%">&#x5149;&#x789F; <pr>gu&#x0101;ngdi&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x6FC0;&#x5149;&#x5531;&#x7247; <pr>j&#x012B;gu&#x0101;ng ch&agrave;ngpi&agrave;n</pr></trd>
   </trdgrp>
 </drv>
 
@@ -691,6 +701,12 @@
     <trd>kompaktn&yacute; disk</trd>
   </trdgrp>
   <trd lng="uk">&#x43A;&#x43E;&#x43C;&#x43F;&c_a;&#x43A;&c_t;-&c_d;&c_i;&c_s;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x5149;&#x76E4; <pr>gu&#x0101;ngp&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x5149;&#x76D8; <pr>gu&#x0101;ngp&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x5149;&#x789F; <pr>gu&#x0101;ngdi&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x789F;&#x7247; <pr>di&eacute;pi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="disk.lum0ego">

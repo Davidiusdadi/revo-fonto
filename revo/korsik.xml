@@ -34,6 +34,11 @@
     <trd lng="en">Corsica</trd>
     <trd lng="fr">Corse</trd>
     <trd lng="pl">Korsyka</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en fr ku pt ru; taksis Jev 96%">&#x79D1;&#x897F;&#x5609;&#x5CF6; <pr>k&#x0113;x&#x012B;ji&#x0101;d&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en fr ku pt ru; taksis Jev 96%">&#x79D1;&#x897F;&#x5609;&#x5C9B; <pr>k&#x0113;x&#x012B;ji&#x0101;d&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en ru; taksis Jev 95%">&#x79D1;&#x897F;&#x5609; <pr>K&#x0113;x&#x012B;ji&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_K;&c_o;&c_r;&c_s;&c_ib;&c_k;&c_a;</trd>,
@@ -92,6 +97,7 @@
   <trd lng="be">&c_k;&c_a;&c_r;&c_s;&c_ib;&c_k;&c_a;&c_n;&c_je;&c_c;</trd>
   <trd lng="de">Korse</trd>
   <trd lng="pl">Korsykanin</trd>
+  <trd lng="zh" fnt="Vikt: ru; taksis Jev 95%">&#x79D1;&#x897F;&#x5609;&#x4EBA; <pr>K&#x0113;x&#x012B;ji&#x0101;r&eacute;n</pr></trd>
 </drv>
 
 <drv mrk="korsik.Sud_0o">

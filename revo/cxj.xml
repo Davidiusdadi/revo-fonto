@@ -191,6 +191,13 @@
     <trd>dziadzio</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_d;&c_u;&c_sh;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de; taksis Jev 41%">&#x5916;&#x516C; <pr>w&agrave;ig&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: de; taksis Jev 87%">&#x723A;&#x723A; <pr>y&eacute;ye</pr></trd>,
+    <trd fnt="Vikt: de; taksis Jev 87%">&#x7237;&#x7237; <pr>y&eacute;ye</pr></trd>,
+    <trd fnt="Vikt: de; taksis Jev 58%">&#x8001;&#x723A; <pr>l&#x01CE;oye</pr></trd>,
+    <trd fnt="Vikt: de; taksis Jev 58%">&#x8001;&#x7237; <pr>l&#x01CE;oye</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cxj.o0o">
@@ -250,6 +257,11 @@
     <trd>&c_s;&c_t;&c_a;&c_r;&c_i;&c_k;</trd>,
     <trd>&c_d;&c_r;&c_u;&c_zh;&c_o;&c_k;</trd>,
     <trd>&c_b;&c_r;&c_a;&c_t;&c_u;&c_h;&c_a; (&c_u; &c_z;&c_v;&c_je;&c_r;&c_t;&c_a;&c_n;&c_n;&c_ib; &c_m;&c_ib;&c_zh; &c_d;&c_r;&c_u;&c_z;&c_ja;&c_m;&c_i;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pt; taksis Jev 47%">&#x4F2F;&#x4F2F; <pr>b&oacute;bo</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 40%">&#x4F2F;&#x7236; <pr>b&oacute;f&ugrave;</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 57%">&#x53D4;&#x53D4; <pr>sh&#x016B;shu</pr></trd>
   </trdgrp>
 </drv>
 

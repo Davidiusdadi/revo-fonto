@@ -221,6 +221,14 @@
       <trd>&c_p;&c_o;&c_sh;&c_jo;&c_l;!</trd>
     </trdgrp>
     <trd lng="vo">suso</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 61%">&#x5FEB;&#x9EDE; <pr>ku&agrave;idi&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 61%">&#x5FEB;&#x70B9; <pr>ku&agrave;idi&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 30%">&#x6293;&#x7DCA;&#x6642;&#x9593; <pr>zhu&#x0101;j&#x01D0;nsh&iacute;ji&#x0101;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 30%">&#x6293;&#x7D27;&#x65F6;&#x95F4; <pr>zhu&#x0101;j&#x01D0;nsh&iacute;ji&#x0101;n</pr></trd>,
+      <trd fnt="Vikt: pl; taksis Jev 23%">&#x8D77;&#x98DB; <pr>q&#x01D0;f&#x0113;i</pr></trd>,
+      <trd fnt="Vikt: pl; taksis Jev 23%">&#x8D77;&#x98DE; <pr>q&#x01D0;f&#x0113;i</pr></trd>
+    </trdgrp>
   </drv>
 
   <drv mrk="ek.0ede">
@@ -480,6 +488,10 @@ lng="ml">&#xD06;&#xD30;&#xD02;&#xD2D;&#xD3F;&#xD15;&#xD4D;&#xD15;&#xD41;&#xD28;&
     <trd>spusti&tcaron;</trd>,
     <trd>vyvola&tcaron;</trd>,
     <trd>zah&aacute;ji&tcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh; taksis Jev 36%">&#x89F8;&#x767C; <pr>ch&ugrave;f&#x0101;</pr></trd>,
+    <trd fnt="Vikt: zh; taksis Jev 36%">&#x89E6;&#x53D1; <pr>ch&ugrave;f&#x0101;</pr></trd>
   </trdgrp>
 </drv>
 </subart>

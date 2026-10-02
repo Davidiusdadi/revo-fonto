@@ -483,6 +483,10 @@
   <trd lng="xh">bulela</trd>
   <trd lng="yi">&dalet;&alef;&#x5B7;&nun;&qof;&ayin;&fnun;</trd>
   <trd lng="yo">dup&#x1EB9;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pl; taksis Jev 89%">&#x611F;&#x8B1D; <pr>g&#x01CE;nxi&egrave;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 89%">&#x611F;&#x8C22; <pr>g&#x01CE;nxi&egrave;</pr></trd>
+  </trdgrp>
   <trd lng="zu">ngiyabonga</trd>
 </drv>
 
@@ -585,6 +589,11 @@
   </trdgrp>
   <trd lng="uk">&c_v;&c_d;&c_ja;&c_ch;&c_n;&c_i;&c_j;</trd>
   <trd lng="vo">danik</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x611F;&#x6FC0; <pr>g&#x01CE;nj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x611F;&#x8B1D; <pr>g&#x01CE;nxi&egrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x611F;&#x8C22; <pr>g&#x01CE;nxi&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dank.0e">
@@ -783,6 +792,11 @@
     <trd>v&dcaron;a&ccaron;n&yacute;</trd>
   </trdgrp>
   <trd lng="uk">&c_v;&c_d;&c_ja;&c_ch;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x611F;&#x6FC0; <pr>g&#x01CE;nj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 85%">&#x611F;&#x8B1D; <pr>g&#x01CE;nxi&egrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 85%">&#x611F;&#x8C22; <pr>g&#x01CE;nxi&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dank.0emo">
@@ -1312,6 +1326,14 @@
   <trdgrp lng="nl">
     <trd>geen <ind>dank</ind></trd>,
     <trd>graag gedaan</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr ru; taksis Jev 93%">&#x4E0D;&#x7528;&#x8B1D; <pr>b&ugrave;y&ograve;ngxi&egrave;</pr></trd>,
+    <trd fnt="Vikt: en fr ru; taksis Jev 93%">&#x4E0D;&#x7528;&#x8C22; <pr>b&ugrave;y&ograve;ngxi&egrave;</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 93%">&#x4E0D;&#x5BA2;&#x6C23; <pr>b&ugrave; k&egrave;qi</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 93%">&#x4E0D;&#x5BA2;&#x6C14; <pr>b&ugrave; k&egrave;qi</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 7%">&#x4E0D;&#x6703; <pr>b&ugrave;hu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 7%">&#x4E0D;&#x4F1A; <pr>b&ugrave;hu&igrave;</pr></trd>
   </trdgrp>
 </drv>
 

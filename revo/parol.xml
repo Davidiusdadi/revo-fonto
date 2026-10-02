@@ -1406,6 +1406,11 @@ lingvo en la vortaron:
     <trd>&c_z;&c_v;&c_je;&c_r;&c_t;&c_a;&c_t;&c_i;&c_s;&c_ja; (&c_z;&c_ib;
     &c_s;&c_l;&c_o;&c_v;&c_a;&c_m;&c_i;)</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 12%">&#x547C;&#x5401;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 14%">&#x547C;&#x7C72; <pr>h&#x016B;y&ugrave;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 19%">&#x8BF4;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parol.antaux0i">
@@ -1824,6 +1829,14 @@ lingvo en la vortaron:
   <trdgrp lng="id">
     <trd><baz>kata</baz>berkata kasar</trd>,
     <trd><baz>kata</baz>berkata kotor</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x5492;&#x7F75; <pr>zh&ograve;um&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x5492;&#x9A82; <pr>zh&ograve;um&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x7F75;&#x4EBA; <pr>m&agrave;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x9A82;&#x4EBA; <pr>m&agrave;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 40%">&#x919C;&#x8A46; <pr>ch&#x01D2;ud&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 40%">&#x4E11;&#x8BCB; <pr>ch&#x01D2;ud&#x01D0;</pr></trd>
   </trdgrp>
 </drv>
 
@@ -2798,6 +2811,10 @@ lingvo en la vortaron:
     <trd>&c_v;&c_i;&c_r;&c_a;&c_z;&c_n;&c_i;&c_k; &c_ch;&c_i;&c_jeu;&c_ji;&c_s;&c_mol;
     &c_d;&c_u;&c_m;&c_k;&c_i;</trd>,
     <trd>&c_a;&c_d;&c_v;&c_o;&c_k;&c_a;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku; taksis Jev 73%">&#x767C;&#x8A00;&#x4EBA; <pr>f&#x0101;y&aacute;nr&eacute;n</pr></trd>,
+    <trd fnt="Vikt: zh en ku; taksis Jev 73%">&#x53D1;&#x8A00;&#x4EBA; <pr>f&#x0101;y&aacute;nr&eacute;n</pr></trd>
   </trdgrp>
 </drv>
 

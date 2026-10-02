@@ -29,6 +29,10 @@
     <trd lng="en" fnt="Vikt: en fr ko nl ru; juĝis claude-opus-5">glaciology</trd>
     <trd lng="fr">glaciologie</trd>
     <trd lng="pl">glacjologia</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en ko nl ru; taksis Jev 94%">&#x51B0;&#x5DDD;&#x5B78; <pr>b&#x012B;ngchu&#x0101;nxu&eacute;</pr></trd>,
+      <trd fnt="Vikt: en ko nl ru; taksis Jev 94%">&#x51B0;&#x5DDD;&#x5B66; <pr>b&#x012B;ngchu&#x0101;nxu&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="uk">&c_g;&#x43B;&#x44F;&c_c;&c_ib;&#x43E;&#x43B;&#x43E;&c_g;&c_ib;&#x44F;</trd>
 </drv>

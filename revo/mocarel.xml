@@ -43,6 +43,10 @@
     <trd lng="fr">mozarella</trd>
     <trd lng="pl">mozzarella</trd>
     <trd lng="ru">&c_m;&c_o;&c_c;&c_a;&c_r;&c_je;&c_l;&c_l;&c_a;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en fr; taksis Jev 95%">&#x99AC;&#x8607;&#x91CC;&#x62C9; <pr>m&#x01CE;s&#x016B;l&#x01D0;l&#x0101;</pr></trd>,
+      <trd fnt="Vikt: en fr; taksis Jev 95%">&#x9A6C;&#x82CF;&#x91CC;&#x62C9; <pr>m&#x01CE;s&#x016B;l&#x01D0;l&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_a;&c_c;&c_a;&c_r;&c_e;&c_l;&c_a;</trd>
 </drv>

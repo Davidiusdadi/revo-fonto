@@ -90,6 +90,11 @@
   <trd lng="sv">aktie</trd>
   <trd lng="tr">hisse senedi</trd>
   <trd lng="uk">&c_a;&c_k;&c_c;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh de en; taksis Jev 86%">&#x80A1;&#x4EFD; <pr>g&#x01D4;f&egrave;n</pr></trd>,
+    <trd fnt="Vikt: de en; taksis Jev 95%">&#x80A1;&#x7968; <pr>g&#x01D4;pi&agrave;o</pr></trd>,
+    <trd fnt="Vikt: nl; taksis Jev 83%">&#x80A1; <pr>g&#x01D4;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akci.0ulo">
@@ -152,6 +157,10 @@
     <trd>majite&lcaron; akci&iacute;</trd>
   </trdgrp>
   <trd lng="uk">&c_a;&c_k;&c_c;&c_ib;&c_o;&c_n;&c_je;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ru; taksis Jev 96%">&#x80A1;&#x6771; <pr>g&#x01D4;d&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: zh en ru; taksis Jev 96%">&#x80A1;&#x4E1C; <pr>g&#x01D4;d&#x014D;ng</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

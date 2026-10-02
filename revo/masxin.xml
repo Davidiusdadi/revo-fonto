@@ -681,6 +681,14 @@
     <trd>&c_l;&c_ib;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a; &c_m;&c_a;&c_sh;&c_i;&c_n;&c_a;</trd>,
     <trd>&c_l;&c_ib;&c_t;&c_a;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ko ku nl pl; taksis Jev 94%">&#x98DB;&#x6A5F; <pr>f&#x0113;ij&#x012B;</pr></trd>,
+    <trd fnt="Vikt: zh en ko ku nl pl; taksis Jev 94%">&#x98DE;&#x673A; <pr>f&#x0113;ij&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en ko ku; taksis Jev 94%">&#x98DB;&#x884C;&#x6A5F; <pr>f&#x0113;ix&iacute;ngj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en ko ku; taksis Jev 94%">&#x98DE;&#x884C;&#x673A; <pr>f&#x0113;ix&iacute;ngj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 29%">&#x98DB;&#x9F8D;&#x6A5F; <pr>f&#x0113;ix&iacute;ngj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 29%">&#x98DE;&#x9F99;&#x673A; <pr>f&#x0113;ix&iacute;ngj&#x012B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="masxin.il0o">
@@ -1115,6 +1123,10 @@
   <trd lng="pl">samowar</trd>
   <trd lng="ro">samovar</trd>
   <trd lng="uk">&c_s;&c_a;&c_m;&c_o;&c_v;&c_a;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 71%">&#x85A9;&#x6469;&#x74E6;&#x723E; <pr>s&agrave;m&oacute;w&#x01CE;'&ecaron;r</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 71%">&#x8428;&#x6469;&#x74E6;&#x5C14; <pr>s&agrave;m&oacute;w&#x01CE;'&ecaron;r</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="masxin.vapor0o">

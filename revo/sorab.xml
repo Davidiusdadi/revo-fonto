@@ -63,6 +63,12 @@
     <trd lng="de" fnt="AI: pl be uk; proponis claude-opus-5-5; kontrolis claude-opus-5-5">sorbisch</trd>
     <trd lng="pl">&lstroke;u&zdot;ycki</trd>
     <trd lng="uk">&#x43B;&c_u;&c_zh;&c_i;&c_c;&#x44C;&#x43A;&c_i;&c_j;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: de; taksis Jev 69%">&#x5362;&#x8428;&#x65AF;&#x585E;&#x5C14;&#x7EF4;&#x4E9A;&#x8BED;</trd>,
+      <trd fnt="Vikt: es; taksis Jev 60%">&#x7D22;&#x5E03;&#x8A9E; <pr>Su&#x01D2;b&ugrave;y&#x01D4;</pr></trd>,
+      <trd fnt="Vikt: es; taksis Jev 60%">&#x7D22;&#x5E03;&#x8BED; <pr>Su&#x01D2;b&ugrave;y&#x01D4;</pr></trd>,
+      <trd fnt="Vikt: de; taksis Jev 30%">&#x7D22;&#x6BD4;&#x4E9A;&#x4EBA;</trd>
+    </trdgrp>
 </drv>
 </art>
 

@@ -283,6 +283,11 @@
     <trd>ub&oacute;j</trd>,
     <trd>rze&zacute;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 87%">&#x5C60;&#x6BBA; <pr>t&uacute;sh&#x0101;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 87%">&#x5C60;&#x6740; <pr>t&uacute;sh&#x0101;</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 21%">&#x727A;&#x7272; <pr>x&#x012B;sh&#x0113;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bucx.0ejo">
@@ -523,6 +528,10 @@
     <trd>rze&zacute;nia</trd>,
     <trd>ka&zacute;nia</trd>,
     <trd>masakra</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x5C60;&#x6BBA; <pr>t&uacute;sh&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x5C60;&#x6740; <pr>t&uacute;sh&#x0101;</pr></trd>
   </trdgrp>
 </drv>
 </art>

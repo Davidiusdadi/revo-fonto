@@ -51,6 +51,11 @@ pro la graso, la
   </trdgrp>  <trd lng="ru">&c_a;&c_m;&c_b;&c_r;&c_a;</trd>
   <trd lng="sk">ambra</trd>
   <trd lng="uk">&c_a;&c_m;&c_b;&c_r;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh el en fr ku; taksis Jev 93%">&#x9F8D;&#x6D8E;&#x9999; <pr>l&oacute;ngxi&aacute;nxi&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: zh el en fr ku; taksis Jev 93%">&#x9F99;&#x6D8E;&#x9999; <pr>l&oacute;ngxi&aacute;nxi&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: de; taksis Jev 12%">&#x7425;&#x73C0; <pr>h&#x01D4;p&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

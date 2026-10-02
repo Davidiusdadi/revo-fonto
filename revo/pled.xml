@@ -135,6 +135,7 @@
     <trd>&c_z;&c_a;&c_h;&c_i;&c_shch;&c_a;&c_t;&c_i; &#x43D;&c_a; &c_s;&c_u;&c_d;&c_ib;</trd>,
     <trd>&c_v;&c_i;&c_s;&c_t;&c_u;&#x43F;&c_a;&c_t;&c_i; &#x44F;&#x43A; &c_a;&c_d;&c_v;&#x43E;&#x43A;&c_a;&c_t;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 82%">&#x8FA9;&#x62A4;</trd>
 </drv>
 
 <drv mrk="pled.0o">
@@ -158,6 +159,12 @@
   <trdgrp lng="fr">
     <trd>plaidoirie</trd>,
     <trd>plaidoyer</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 32%">&#x61C7;&#x6C42; <pr>k&ecaron;nqi&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 32%">&#x6073;&#x6C42; <pr>k&ecaron;nqi&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 28%">&#x8ACB;&#x6C42; <pr>q&#x01D0;ngqi&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 28%">&#x8BF7;&#x6C42; <pr>q&#x01D0;ngqi&uacute;</pr></trd>
   </trdgrp>
 </drv>
 

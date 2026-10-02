@@ -275,6 +275,12 @@
     <trd>&c_s;&c_a;&c_n;&c_k;&c_c;&c_ib;&c_o;&c_n;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_s;&c_h;&c_v;&c_a;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x540C;&#x610F; <pr>t&oacute;ngy&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 82%">&#x6279;&#x51C6; <pr>p&#x012B;zh&#x01D4;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x8A8D;&#x53EF; <pr>r&egrave;nk&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x8BA4;&#x53EF; <pr>r&egrave;nk&ecaron;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sankci.0umo">
@@ -334,6 +340,12 @@
     <trd>&c_k;&c_a;&c_r;&c_a;&c_l;&c_mol;&c_n;&c_a; &c_s;&c_a;&c_n;&c_k;&c_c;&c_ib;&c_ja;</trd>,
     <trd>&c_p;&c_o;&c_k;&c_a;&c_r;&c_a;&c_n;&c_n;&c_ja;</trd>
     <trd>&c_k;&c_a;&c_r;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x5211;&#x7F70; <pr>x&iacute;ngf&aacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x5211;&#x7F5A; <pr>x&iacute;ngf&aacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x88FD;&#x88C1; <pr>zh&igrave;c&aacute;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x5236;&#x88C1; <pr>zh&igrave;c&aacute;i</pr></trd>
   </trdgrp>
 </drv>
 </art><!--

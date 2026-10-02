@@ -47,6 +47,12 @@
     <trd lng="en">Oslo</trd>
     <trd lng="pl">Oslo</trd>
     <trd lng="ro">Oslo</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en ja ru; taksis Jev 95%">&#x5967;&#x65AF;&#x9678; <pr>&Agrave;os&#x012B;l&ugrave;</pr></trd>,
+      <trd fnt="Vikt: zh en ja ru; taksis Jev 95%">&#x5965;&#x65AF;&#x9678; <pr>&Agrave;os&#x012B;l&ugrave;</pr></trd>,
+      <trd fnt="Vikt: en fr ru; taksis Jev 95%">&#x5965;&#x65AF;&#x9646; <pr>&Agrave;os&#x012B;l&ugrave;</pr></trd>,
+      <trd fnt="Vikt: en fr ru; taksis Jev 95%">&#x5967;&#x65AF;&#x9646; <pr>&Agrave;os&#x012B;l&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ja">&#x30AA;&#x30B9;&#x30ED;</trd>
   <trd lng="uk">&#x41E;&c_s;&#x43B;&#x43E; (&c_s;&c_t;&#x43E;&#x43B;&c_i;&c_c;&#x44F;)</trd>

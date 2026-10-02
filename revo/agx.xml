@@ -376,6 +376,10 @@
    <trd lng="ru">&c_i;&c_m;&c_je;&c_ju;&c_shch;&c_i;&c_j;
   <ind>&c_v;&c_o;&c_z;&c_r;&c_a;&c_s;&c_t;</ind></trd>
   <trd lng="tr">ya&scedil;l&inodot;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 38%">&#x6B72; <pr>su&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 38%">&#x5C81; <pr>su&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="agx.flor0o">
@@ -453,6 +457,11 @@
      <trd>&c_s;&c_t;&c_a;&c_r;&c_sh;&c_i;&c_j;</trd>,
      <trd>&c_l;&c_ib;&c_t;&c_n;&c_ib;&c_j;&nbsp;(&c_p;&c_r;&c_o; &c_v;&c_ib;&c_k;)</trd>
    </trdgrp>
+   <trdgrp lng="zh">
+     <trd fnt="Vikt: en ku; taksis Jev 77%">&#x8001; <pr>l&#x01CE;o</pr></trd>,
+     <trd fnt="Vikt: en ku; taksis Jev 88%">&#x5E74;&#x8001;&#x7684;</trd>,
+     <trd fnt="Vikt: en ku; taksis Jev 84%">&#x8001;&#x5E74;&#x7684;</trd>
+   </trdgrp>
 </drv>
 
 <drv mrk="agx.grand0ulo">
@@ -489,6 +498,11 @@
    <trd lng="tr">ya&scedil;l&inodot; ki&scedil;i</trd>
   <trd lng="uk">&c_s;&c_t;&c_a;&c_r;&c_sh;&c_a;/&c_l;&c_ib;&c_t;&c_n;&c_ja;
   &c_l;&c_ju;&c_d;&c_i;&c_n;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 34%">&#x5143;&#x8001; <pr>yu&aacute;nl&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 40%">&#x8001;&#x8CC7;&#x683C; <pr>l&#x01CE;oz&#x012B;g&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 40%">&#x8001;&#x8D44;&#x683C; <pr>l&#x01CE;oz&#x012B;g&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="agx.infan0o">
@@ -619,6 +633,7 @@
 <ind>&c_v;&c_o;&c_z;&c_r;&c_a;&c_s;&c_t;&c_a;</ind></trd>
    <trd lng="sv">medel&aring;lders</trd>
    <trd lng="tr">orta ya&scedil;</trd>
+   <trd lng="zh" fnt="Vikt: en; taksis Jev 94%">&#x4E2D;&#x5E74;&#x7684;</trd>
 </drv>
 
 <drv mrk="agx.mez0ulo">
@@ -785,6 +800,7 @@ Betra&hcirc;</lok></fnt>.
    <trd
    lng="ru">&c_n;&c_je;&c_s;&c_o;&c_v;&c_je;&c_r;&c_sh;&c_je;&c_n;&c_n;&c_o;&c_l;&c_je;&c_t;&c_n;&c_i;&c_j;</trd>
   <trd lng="uk">&c_n;&c_je;&c_p;&c_o;&c_v;&c_n;&c_o;&c_l;&c_ib;&c_t;&c_n;&c_ib;&c_j;</trd>
+  <trd lng="zh" fnt="Vikt: zh en; taksis Jev 92%">&#x672A;&#x6210;&#x5E74; <pr>w&egrave;ich&eacute;ngni&aacute;n</pr></trd>
 </drv>
 
 <drv mrk="agx.plej0ulo">
@@ -1053,6 +1069,11 @@ Betra&hcirc;</lok></fnt>.
    </trdgrp>
    <trd lng="pl">cz&lstroke;owiek w podesz&lstroke;ym <ind>wieku</ind></trd>
    <trd lng="ru">&c_s;&c_t;&c_a;&c_r;&c_i;&c_k;</trd>
+   <trdgrp lng="zh">
+     <trd fnt="Vikt: en; taksis Jev 59%">&#x5143;&#x8001; <pr>yu&aacute;nl&#x01CE;o</pr></trd>,
+     <trd fnt="Vikt: en; taksis Jev 73%">&#x8001;&#x8CC7;&#x683C; <pr>l&#x01CE;oz&#x012B;g&eacute;</pr></trd>,
+     <trd fnt="Vikt: en; taksis Jev 73%">&#x8001;&#x8D44;&#x683C; <pr>l&#x01CE;oz&#x012B;g&eacute;</pr></trd>
+   </trdgrp>
 </drv>
 
 <drv mrk="agx.sam0ulo">
@@ -1175,6 +1196,10 @@ Betra&hcirc;</lok></fnt>.
     <trd>&c_p;&c_je;&c_r;&c_ib;&c_o;&c_d;</trd>,
     <trd>&c_je;&c_p;&c_o;&c_h;&c_a;</trd>,
     <trd>&c_v;&c_ib;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x6642;&#x4EE3; <pr>sh&iacute;d&agrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x65F6;&#x4EE3; <pr>sh&iacute;d&agrave;i</pr></trd>
   </trdgrp>
 </drv>
 </art>

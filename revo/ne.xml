@@ -623,6 +623,14 @@
     &c_o;&c_t;&c_v;&c_je;&c_t;</trd>
   </trdgrp>
   <trd lng="sk">z&aacute;por</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ru; taksis Jev 70%">&#x5426;&#x5B9A; <pr>f&#x01D2;ud&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 70%">&#x6B79;&#x5B9A; <pr>f&#x01D2;ud&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 78%">&#x5426;&#x8A8D; <pr>f&#x01D2;ur&egrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 78%">&#x5426;&#x8BA4; <pr>f&#x01D2;ur&egrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 67%">&#x5426;&#x8BA4; <pr>f&#x01D2;ur&egrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 67%">&#x6B79;&#x8BA4; <pr>f&#x01D2;ur&egrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ne.0igi">
@@ -945,6 +953,12 @@
   <trdgrp lng="en">
     <trd>non-</trd>,
     <trd>un-<klr tip="amb"> (negative)</klr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en pl; taksis Jev 70%">&#x4E0D;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x7121;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x65E0;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 78%">&#x975E; <pr>f&#x0113;i</pr></trd>
   </trdgrp>
 </drv>
 </subart>

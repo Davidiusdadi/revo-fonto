@@ -407,6 +407,12 @@
     </dif>
     <trd lng="de" fnt="Vikt: en fr pl; juĝis claude-opus-5">Lesen</trd>
     <trd lng="en" fnt="Vikt: en fr pl; juĝis claude-opus-5">reading</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en pl; taksis Jev 83%">&#x8B80;&#x66F8; <pr>d&uacute;sh&#x016B;</pr></trd>,
+      <trd fnt="Vikt: en pl; taksis Jev 83%">&#x8BFB;&#x4E66; <pr>d&uacute;sh&#x016B;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x95B1;&#x8B80; <pr>yu&egrave;d&uacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x9605;&#x8BFB; <pr>yu&egrave;d&uacute;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="id"><baz>baca</baz>pembacaan</trd>
 </drv>

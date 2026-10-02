@@ -775,6 +775,10 @@
   </trdgrp>
   <trd lng="sv">p&aring;minna</trd>
   <trd lng="uk">&c_n;&c_a;&c_g;&c_a;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pl; taksis Jev 55%">&#x8A18;&#x5F97; <pr>j&igrave;de</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 55%">&#x8BB0;&#x5F97; <pr>j&igrave;de</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="memor.0igajxo">
@@ -1069,6 +1073,12 @@
   <trdgrp lng="uk">
     <trd>&c_p;&c_a;&c_m;&#8217;&c_ja;&c_t;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_d;&c_o;&c_s;&c_t;&c_o;&c_p;&c_a;&c_m;&#8217;&c_ja;&c_t;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x503C;&#x5F97;&#x7D00;&#x5FF5;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x503C;&#x5F97;&#x7EAA;&#x5FF5;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x96E3;&#x5FD8; <pr>n&aacute;nw&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x96BE;&#x5FD8; <pr>n&aacute;nw&agrave;ng</pr></trd>
   </trdgrp>
 </drv>
 
@@ -1642,6 +1652,7 @@
   <trd lng="ru">&c_n;&c_a;&c_p;&c_o;&c_m;&c_n;&c_i;&c_t;&c_mol;</trd>
   <trd lng="sk">pripomen&uacute;&tcaron;</trd>
   <trd lng="uk">&c_p;&c_r;&c_i;&c_g;&c_a;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i; (&c_k;&c_o;&c_m;&c_u;-&c_n;.)</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 91%">&#x63D0;&#x9192; <pr>t&iacute;x&#x01D0;ng</pr></trd>
 </drv>
 
 <drv mrk="memor.kar0a">
@@ -1709,6 +1720,7 @@
     <trd>blahej</trd>,
     <trd>drahej pam&auml;ti</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 20%">&#x5DF2;&#x6545; <pr>y&#x01D0;g&ugrave;</pr></trd>
 </drv>
 
 <drv mrk="memor.0povo">

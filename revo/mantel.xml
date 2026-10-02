@@ -355,6 +355,7 @@
   <trd lng="fr">froc</trd>
   <trd lng="id">jubah kapucin</trd>
   <trd lng="pl">p&lstroke;aszcz z kapturem</trd>
+  <trd lng="zh" fnt="Vikt: fr; taksis Jev 74%">&#x6597;&#x7BF7; <pr>d&#x01D2;up&eacute;ng</pr></trd>
 </drv>
 
 <drv mrk="mantel.pelto0o">
@@ -481,6 +482,10 @@
   <trd lng="id">mantel bumi</trd>
   <trd lng="pl">p&lstroke;aszcz <klr>ziemski</klr></trd>
   <trd lng="sk">zemsk&yacute; pl&aacute;&scaron;&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 96%">&#x5730;&#x5E54; <pr>d&igrave;m&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x5730;&#x51FD; <pr>d&igrave;h&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

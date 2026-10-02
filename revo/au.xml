@@ -290,6 +290,12 @@
    <trd lng="xh">okanye</trd>
   <trd lng="yi">&alef;&#1464;&dalet;&ayin;&resh;</trd>
   <trd lng="yo">tabi</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh cs en fr ja ko ku nl pl pt; taksis Jev 89%">&#x6216;&#x8005; <pr>hu&ograve;zh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: cs en ja ko ku nl pl pt; taksis Jev 87%">&#x6216; <pr>hu&ograve;</pr></trd>,
+    <trd fnt="Vikt: en fr ko ku nl pt; taksis Jev 68%">&#x9084;&#x662F; <pr>h&aacute;ish&igrave;</pr></trd>,
+    <trd fnt="Vikt: en fr ko ku nl pt; taksis Jev 68%">&#x8FD8;&#x662F; <pr>h&aacute;ish&igrave;</pr></trd>
+  </trdgrp>
   <trd lng="zu">noma</trd>
 </drv>
 

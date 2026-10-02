@@ -187,6 +187,14 @@
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">pit</trd>
   </snc>
   <trd lng="de">Graben</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x7AA9;&#x9748;&#x8C93; <pr>w&#x014D;l&iacute;ngm&#x0101;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x7A9D;&#x7075;&#x732B; <pr>w&#x014D;l&iacute;ngm&#x0101;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 4%">&#x7A9D;&#x7075;&#x732B; <pr>w&#x014D;l&iacute;ngm&#x0101;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 4%">&#x7A9D;&#x7075;&#x8C93; <pr>w&#x014D;l&iacute;ngm&#x0101;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x96B1;&#x809B;&#x72F8; <pr>y&#x01D0;ng&#x0101;ngl&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x9690;&#x809B;&#x72F8; <pr>y&#x01D0;ng&#x0101;ngl&iacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fos.0ado">
@@ -1171,6 +1179,14 @@
   <trdgrp lng="uk">
     <trd>&c_k;&c_i;&c_r;&c_k;&c_a;</trd>,
     <trd>&c_k;&c_a;&c_j;&c_l;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x93AC;&#x982D; <pr>g&#x01CE;otou</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x9550;&#x5934; <pr>g&#x01CE;otou</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x9DB4;&#x5634;&#x92E4; <pr>h&egrave;zu&#x01D0;ch&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x9E64;&#x5634;&#x9504; <pr>h&egrave;zu&#x01D0;ch&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x9DB4;&#x5634;&#x93AC; <pr>h&aacute;ozu&#x01D0;g&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x9E64;&#x5634;&#x9550; <pr>h&aacute;ozu&#x01D0;g&#x01CE;o</pr></trd>
   </trdgrp>
 </drv>
 

@@ -674,6 +674,14 @@
       <trd fnt="Vikt: de el fr it ku; juĝis claude-opus-5">Father Christmas</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">Father Frost</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh de el en fr it ku; taksis Jev 79%">&#x8056;&#x8A95;&#x8001;&#x4EBA; <pr>Sh&egrave;ngd&agrave;n L&#x01CE;or&eacute;n</pr></trd>,
+      <trd fnt="Vikt: zh de el en fr it ku; taksis Jev 79%">&#x5723;&#x8BDE;&#x8001;&#x4EBA; <pr>Sh&egrave;ngd&agrave;n L&#x01CE;or&eacute;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 76%">&#x8036;&#x8A95;&#x8001;&#x4EBA; <pr>Y&#x0113;d&agrave;n L&#x01CE;or&eacute;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 76%">&#x8036;&#x8BDE;&#x8001;&#x4EBA; <pr>Y&#x0113;d&agrave;n L&#x01CE;or&eacute;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 53%">&#x56B4;&#x5BD2;&#x8001;&#x4EBA; <pr>Y&aacute;nh&aacute;n L&#x01CE;or&eacute;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 53%">&#x4E25;&#x5BD2;&#x8001;&#x4EBA; <pr>Y&aacute;nh&aacute;n L&#x01CE;or&eacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="fr">P&egrave;re No&euml;l</trd>
 </drv>

@@ -421,6 +421,12 @@
     <trd>&c_s;&c_t;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_ib;&c_d;&c_t;&c_v;&c_je;&c_r;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 65%">&#x540C;&#x610F; <pr>t&oacute;ngy&igrave;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 38%">&#x65B7;&#x8A00; <pr>du&agrave;ny&aacute;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 38%">&#x65AD;&#x8A00; <pr>du&agrave;ny&aacute;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 75%">&#x80AF;&#x5B9A; <pr>k&ecaron;nd&igrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="jes.0o">
@@ -484,6 +490,10 @@
     <trd>s&uacute;hlas</trd>
   </trdgrp>
   <trd lng="sv">jakande svar</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: tr; taksis Jev 61%">&#x662F; <pr>sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 54%">&#x540C;&#x610F; <pr>t&oacute;ngy&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="jes.0igi">
@@ -773,6 +783,10 @@
     &c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_ju;</trd>,
     <trd>&c_k;&c_i;&c_v;&c_a;&c_t;&c_i; &c_g;&c_o;&c_l;&c_o;&c_v;&c_o;&c_ju; &c_n;&c_a;
     &c_z;&c_n;&c_a;&c_k; &c_z;&c_g;&c_o;&c_d;&c_i;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ko; taksis Jev 95%">&#x9EDE;&#x982D; <pr>di&#x01CE;nt&oacute;u</pr></trd>,
+    <trd fnt="Vikt: zh en ko; taksis Jev 95%">&#x70B9;&#x5934; <pr>di&#x01CE;nt&oacute;u</pr></trd>
   </trdgrp>
 </drv>
 

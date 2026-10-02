@@ -869,6 +869,11 @@
     <trd lng="fr">tablette</trd>
     <trd lng="pl">komputer przeno&sacute;ny</trd>
     <trd lng="ro">calculatoare portabile</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 84%">&#x5E73;&#x677F; <pr>p&iacute;ngb&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 91%">&#x5E73;&#x677F;&#x96FB;&#x8166; <pr>p&iacute;ngb&#x01CE;n di&agrave;nn&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 91%">&#x5E73;&#x677F;&#x7535;&#x8111; <pr>p&iacute;ngb&#x01CE;n di&agrave;nn&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
   <trd
   lng="ja">&#x30BF;&#x30D6;&#x30EC;&#x30C3;&#x30C8;&#x30B3;&#x30F3;&#x30D4;&#x30E5;&#x30FC;&#x30BF;</trd>

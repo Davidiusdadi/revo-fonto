@@ -156,6 +156,10 @@
   <trd lng="de">javanisch</trd>
   <trd lng="id">... <ind>Jawa</ind></trd>
   <trd lng="pl">jawajski</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: es; taksis Jev 81%">&#x722A;&#x54C7;&#x8A9E; <pr>Zh&#x01CE;ow&#x0101;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: es; taksis Jev 81%">&#x722A;&#x54C7;&#x8BED; <pr>Zh&#x01CE;ow&#x0101;y&#x01D4;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="jav.0ano">
@@ -172,6 +176,7 @@
   <trd lng="de">Javanese</trd>
   <trd lng="id">orang Jawa</trd>
   <trd lng="pl">Jawajczyk</trd>
+  <trd lng="zh" fnt="Vikt: ru; taksis Jev 94%">&#x722A;&#x54C7;&#x4EBA; <pr>zh&#x01CE;ow&#x0101;r&eacute;n</pr></trd>
 </drv>
 </art>
 

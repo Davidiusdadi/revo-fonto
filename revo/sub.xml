@@ -1186,6 +1186,10 @@
   <trd lng="ru">&c_p;&c_o;&c_d;&c_ch;&c_i;&c_n;&c_jo;&c_n;&c_n;&c_y;&c_j; <klr>(&c_s;&c_u;&c_shch;.)</klr></trd>
   <trd lng="sk">podriaden&yacute; &ccaron;lovek</trd>
   <trd lng="uk">&c_p;&c_ib;&c_d;&c_l;&c_je;&c_g;&c_l;&c_i;&c_j; (&c_u; &c_z;&c_n;&c_a;&c_ch;.&c_ib;&c_m;.)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 20%">&#x5B50;&#x6C11; <pr>z&#x01D0;m&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 44%">&#x81E3;&#x6C11; <pr>ch&eacute;nm&iacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sub.cxi0a">
@@ -1603,6 +1607,7 @@
   <trd lng="id">sub-</trd>
   <trd lng="pl">pod- </trd>
   <trd lng="ru">&c_p;&c_o;&c_d;-</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 31%">&#x526F;</trd>
 </drv>
 </subart>
 </art>

@@ -36,6 +36,10 @@
     <trd lng="fr">cryptologie</trd>
     <trd lng="pl">kryptologia</trd>
     <trd lng="ru">&c_k;&c_r;&c_i;&c_p;&c_t;&c_o;&c_l;&c_o;&c_g;&c_i;&c_ja;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: ru; taksis Jev 95%">&#x5BC6;&#x78BC;&#x5B78; <pr>m&igrave;m&#x01CE;xu&eacute;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 95%">&#x5BC6;&#x7801;&#x5B66; <pr>m&igrave;m&#x01CE;xu&eacute;</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     La&ubreve; <fnt><bib>BL</bib></fnt>: Prefere diru <ke>&ccirc;ifroscienco</ke>.

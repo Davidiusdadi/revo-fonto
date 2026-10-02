@@ -67,6 +67,10 @@
     <trd lng="nl">fries</trd>
     <trd lng="pl">fryz</trd>
     <trd lng="pt">sanefa</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: nl; taksis Jev 3%">&#x5F17;&#x91CC;&#x897F;&#x4E9E;&#x8A9E; <pr>f&uacute;l&#x01D0;x&#x012B;y&agrave;y&#x01D4;</pr></trd>,
+      <trd fnt="Vikt: nl; taksis Jev 3%">&#x5F17;&#x91CC;&#x897F;&#x4E9A;&#x8BED; <pr>f&uacute;l&#x01D0;x&#x012B;y&agrave;y&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="fris.0o.TEA">
     <uzo tip="fak">TEA</uzo>
@@ -104,6 +108,12 @@
   <trd lng="ru">&c_f;&c_r;&c_i;&c_z;</trd>
   <trd lng="sk">vlys</trd>
   <trd lng="uk">&c_f;&c_r;&c_i;&c_z;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 45%">&#x8170;&#x7DDA; <pr>y&#x0101;oxi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 45%">&#x8170;&#x7EBF; <pr>y&#x0101;oxi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 4%">&#x5F17;&#x91CC;&#x897F;&#x4E9E;&#x4EBA; <pr>f&uacute;l&#x01D0;x&#x012B;y&agrave;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 4%">&#x5F17;&#x91CC;&#x897F;&#x4E9A;&#x4EBA; <pr>f&uacute;l&#x01D0;x&#x012B;y&agrave;r&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

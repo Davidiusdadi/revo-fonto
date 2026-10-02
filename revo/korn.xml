@@ -485,6 +485,10 @@
   <trd lng="ro">claxon</trd>
   <trd lng="uk">&c_s;&c_i;&c_gu;&c_n;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;
   &c_r;&c_ib;&c_zh;&c_o;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 88%">&#x5587;&#x53ED; <pr>l&#x01CE;ba</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 93%">&#x6C7D;&#x8F66;&#x5587;&#x53ED; <pr>q&igrave;ch&#x0113;l&#x01CE;ba</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="korn.cxas0o">
@@ -592,6 +596,7 @@
   <trd lng="nl">accent aigu</trd>
   <trd lng="pl">akcent ostry </trd>
   <trd lng="ro">accent ascu&#539;it</trd>
+  <trd lng="zh" fnt="Vikt: en fr; taksis Jev 86%">&#x5C16;&#x97F3;&#x7B26; <pr>ji&#x0101;ny&#x012B;nf&uacute;</pr></trd>
 </drv>
 
 <drv mrk="korn.du0o">
@@ -636,6 +641,11 @@
     <trd>odwr&oacute;cony  <ind>cyrkumfleks</ind></trd>
   </trdgrp>
   <trd lng="ro">caron  <klr>(diacritic)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x5012;&#x6298;&#x97F3;&#x7B26;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x63DA;&#x6291;&#x7B26; <pr>y&aacute;ngy&igrave;f&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x626C;&#x6291;&#x7B26; <pr>y&aacute;ngy&igrave;f&uacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="korn.du0ulo">
@@ -703,6 +713,7 @@
     <trd>gravis</trd>,
     <trd>accent grav</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en fr; taksis Jev 83%">&#x91CD;&#x97F3;&#x7B26; <pr>zh&ograve;ngy&#x012B;nf&uacute;</pr></trd>
 </drv>
 
 <drv mrk="korn.paper0eto">
@@ -801,6 +812,10 @@
     <trd>&c_r;&c_ib;&c_zh;&c_o;&c_k; &c_d;&c_l;&c_ja; &c_v;&c_z;&c_u;&c_t;&c_t;&c_ja;</trd>,
     <trd>&c_l;&c_o;&c_zh;&c_k;&c_a; &c_d;&c_l;&c_ja; &c_v;&c_z;&c_u;&c_t;&c_t;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja; taksis Jev 95%">&#x978B;&#x62D4;&#x5B50; <pr>xi&eacute;b&aacute;zi</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x978B;&#x62D4; <pr>xi&eacute;b&aacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="korn.unu0ulo">
@@ -882,6 +897,7 @@
   <trd lng="ja">&#12356;&#12387;&#12363;&#12367;&#12376;&#12421;&#12358;&#24231;  <pr>&#12356;&#12387;&#12363;&#12367;&#12376;&#12421;&#12358;&#12374;</pr></trd>
   <trd lng="pl">Jednoro&zdot;ec  <klr>(gwiazdozbi&oacute;r)</klr></trd>
   <trd lng="ro">Licornul  <klr>(constela&#539;ie)</klr></trd>
+  <trd lng="zh" fnt="Vikt: el; taksis Jev 17%">&#x9E92;&#x9E9F;&#x5EA7; <pr>q&iacute;l&iacute;nzu&ograve;</pr></trd>
 </drv>
 
 <drv mrk="korn.0o_de_afriko">
@@ -906,6 +922,7 @@
   <trd lng="en">Horn of Africa</trd>
   <trd lng="fr">Corne de l'Afrique</trd>
   <trd lng="it">Corno d'Africa</trd>
+  <trd lng="zh" fnt="Vikt: zh en fr; taksis Jev 95%">&#x975E;&#x6D32;&#x4E4B;&#x89D2; <pr>F&#x0113;izh&#x014D;u zh&#x012B; Ji&#x01CE;o</pr></trd>
 </drv>
 </art>
 <!--

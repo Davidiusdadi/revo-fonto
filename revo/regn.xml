@@ -307,6 +307,11 @@
     <trd>&scaron;t&aacute;tny pr&iacute;slu&scaron;n&iacute;k</trd>
   </trdgrp>
   <trd lng="uk">&c_p;&c_ib;&c_d;&c_d;&c_a;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ko; taksis Jev 86%">&#x516C;&#x6C11; <pr>g&#x014D;ngm&iacute;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 89%">&#x570B;&#x6C11; <pr>gu&oacute;m&iacute;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 89%">&#x56FD;&#x6C11; <pr>gu&oacute;m&iacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="regn.0estro">
@@ -388,6 +393,10 @@
   </trdgrp>
   <trd lng="ja">&#x52D5;&#x7269;&#x754C;  <pr>&#x3069;&#x3046;&#x3076;&#x3064;&#x304B;&#x3044;</pr></trd>
   <trd lng="pl">kr&oacute;lestwo zwierz&aogonek;t</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x52D5;&#x7269;&#x754C; <pr>d&ograve;ngw&ugrave;ji&egrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x52A8;&#x7269;&#x754C; <pr>d&ograve;ngw&ugrave;ji&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="regn.Hungara_0o">

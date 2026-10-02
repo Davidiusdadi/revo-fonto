@@ -627,6 +627,10 @@
     <trd>Autor</trd>
   </trdgrp>
   <trd lng="en">author</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x4F5C;&#x5BB6; <pr>zu&ograve;ji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x4F5C;&#x8005; <pr>zu&ograve;zh&ecaron;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="verk.0isto">
@@ -1022,6 +1026,11 @@
   </trdgrp>
   <trd lng="pl">arcydzie&lstroke;o</trd>
   <trd lng="uk">&c_sh;&c_je;&c_d;&c_je;&c_v;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en fr; taksis Jev 94%">&#x5091;&#x4F5C; <pr>ji&eacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: zh en fr; taksis Jev 94%">&#x6770;&#x4F5C; <pr>ji&eacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x540D;&#x4F5C; <pr>m&iacute;ngzu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="verk.dram0isto">
@@ -1155,6 +1164,11 @@
   <trd>mahakarya</trd>,
   <trd>adikarya</trd>,
   <trd>karya agung</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en fr ko; taksis Jev 66%">&#x5091;&#x4F5C; <pr>ji&eacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: zh en fr ko; taksis Jev 66%">&#x6770;&#x4F5C; <pr>ji&eacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x540D;&#x4F5C; <pr>m&iacute;ngzu&ograve;</pr></trd>
   </trdgrp>
 </drv>
 

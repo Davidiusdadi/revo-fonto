@@ -422,6 +422,12 @@
     <trd>prawa strona</trd>,
     <trd>prawica</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 68%">&#x53F3; <pr>y&ograve;u</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 67%">&#x53F3;&#x65B9; <pr>y&ograve;uf&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 61%">&#x53F3;&#x908A; <pr>y&ograve;ubi&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 61%">&#x53F3;&#x8FB9; <pr>y&ograve;ubi&#x0101;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dekstr.0ano">
@@ -1251,6 +1257,14 @@
     <trdgrp lng="pl">
       <trd>lewoskr&eogonek;tny</trd>,
       <trd>lewostronny</trd>
+    </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en; taksis Jev 93%">&#x9006;&#x6642;&#x91DD; <pr>n&igrave;sh&iacute;zh&#x0113;n</pr></trd>,
+      <trd fnt="Vikt: zh en; taksis Jev 93%">&#x9006;&#x65F6;&#x9488; <pr>n&igrave;sh&iacute;zh&#x0113;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 93%">&#x53CD;&#x6642;&#x91DD;&#x65B9;&#x5411;&#x7684;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 93%">&#x53CD;&#x65F6;&#x9488;&#x65B9;&#x5411;&#x7684;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 95%">&#x9006;&#x6642;&#x91DD;&#x7684;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 95%">&#x9006;&#x65F6;&#x9488;&#x7684;</trd>
     </trdgrp>
   </snc>
   <snc mrk="dekstr.mal0uma.bazo">

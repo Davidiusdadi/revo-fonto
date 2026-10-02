@@ -35,6 +35,11 @@
     <trd lng="en">Lucerne</trd>
     <trd lng="fr">Lucerne</trd>
     <trd lng="it">Lucerna</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en; taksis Jev 95%">&#x76E7;&#x585E;&#x6069; <pr>L&uacute;s&agrave;i'&#x0113;n</pr></trd>,
+      <trd fnt="Vikt: en fr; taksis Jev 95%">&#x5362;&#x585E;&#x6069; <pr>L&uacute;s&agrave;i'&#x0113;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 94%">&#x7409;&#x68EE; <pr>Li&uacute;s&#x0113;n</pr></trd>
+    </trdgrp>
   </snc>
   <ref tip="hom" cel="lucern.0o">lucerno (lumilo)</ref>
 <trd lng="be">&c_L;&c_ju;&c_c;&c_e;&c_r;&c_n;</trd>

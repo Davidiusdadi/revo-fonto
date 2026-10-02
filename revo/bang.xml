@@ -35,6 +35,10 @@
     <trd lng="en">Bangui</trd>
     <trd lng="fr">Bangui</trd>
     <trd lng="pl">Bangi</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: de; taksis Jev 86%">&#x73ED;&#x5409; <pr>B&#x0101;nj&iacute;</pr></trd>,
+      <trd fnt="Vikt: de; taksis Jev 83%">&#x73ED;&#x57FA; <pr>B&#x0101;nj&#x012B;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="uk">&c_B;&c_a;&#x43D;&c_gu;&c_ib;</trd>
 </drv>

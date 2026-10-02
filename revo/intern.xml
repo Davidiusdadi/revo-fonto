@@ -399,6 +399,13 @@
    </trdgrp>
    <trd lng="ru">&c_v;&c_n;&c_u;&c_t;&c_r;&c_i;</trd>
   <trd lng="uk">&c_u;&c_s;&c_je;&c_r;&c_je;&c_d;&c_i;&c_n;&c_ib;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x88E1;&#x908A; <pr>l&#x01D0;bian</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 75%">&#x88E1;&#x8FB9; <pr>l&#x01D0;bian</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 68%">&#x91CC;&#x8FB9;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x88CF;&#x9762; <pr>l&#x01D0;mi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x88E1;&#x9762; <pr>l&#x01D0;mi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="intern.0ede">
@@ -461,6 +468,7 @@
   <trd lng="pt">dentro de</trd>
   <trd lng="ru">&c_v;&c_n;&c_u;&c_t;&c_r;&c_i;</trd>
   <trd lng="sk">vn&uacute;tri</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 55%">&#x5728;</trd>
 </drv>
 
 <drv mrk="intern.0o">
@@ -586,6 +594,10 @@
     <trd>&c_ib;&c_n;&c_t;&c_je;&c_r;&#8217;&c_jeu;&c_r;</trd>,
     <trd>&c_v;&c_n;&c_u;&c_t;&c_r;&c_ib;&c_sh;&c_n;&c_ib;&c_j; &c_s;&c_v;&c_ib;&c_t;</trd>,
     <trd>&c_d;&c_u;&c_sh;&c_a;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x5167;&#x90E8; <pr>n&egrave;ib&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x5185;&#x90E8; <pr>n&egrave;ib&ugrave;</pr></trd>
   </trdgrp>
 </drv>
 

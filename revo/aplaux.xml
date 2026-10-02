@@ -201,6 +201,10 @@
     <trd>&c_a;&c_p;&c_l;&c_o;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_l;&c_je;&c_s;&c_k;&c_a;&c_t;&c_i;;&nbsp;&c_p;&c_je;&c_r;&c_je;&c_n;.&nbsp;&c_s;&c_h;&c_v;&c_a;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;; &c_v;&c_ib;&c_t;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ko; taksis Jev 93%">&#x9F13;&#x638C; <pr>g&#x01D4;zh&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: en ko; taksis Jev 90%">&#x62CD;&#x624B; <pr>p&#x0101;ish&#x01D2;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="aplaux.0o">
@@ -275,6 +279,12 @@
     <trd>brawo</trd>,
     <trd>aplauz</trd>,
     <trd>owacja</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de en; taksis Jev 90%">&#x9F13;&#x638C; <pr>g&#x01D4;zh&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 78%">&#x62CD;&#x624B; <pr>p&#x0101;ish&#x01D2;u</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x638C;&#x8072; <pr>zh&#x01CE;ngsh&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x638C;&#x58F0; <pr>zh&#x01CE;ngsh&#x0113;ng</pr></trd>
   </trdgrp>
 </drv>
 </art>

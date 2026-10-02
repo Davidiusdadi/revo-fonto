@@ -138,6 +138,12 @@
   </trdgrp>
   <trd lng="sv">schack</trd>
   <trd lng="uk">&c_sh;&c_a;&c_h;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr ja ko ku pl pt; taksis Jev 11%">&#x570B;&#x969B;&#x8C61;&#x68CB; <pr>gu&oacute;j&igrave; xi&agrave;ngq&iacute;</pr></trd>,
+    <trd fnt="Vikt: en fr ja ko ku pl pt; taksis Jev 11%">&#x56FD;&#x9645;&#x8C61;&#x68CB; <pr>gu&oacute;j&igrave; xi&agrave;ngq&iacute;</pr></trd>,
+    <trd fnt="Vikt: en ku nl pt; taksis Jev 12%">&#x8C61;&#x68CB; <pr>xi&agrave;ngq&iacute;</pr></trd>,
+    <trd fnt="Vikt: el ja ko; taksis Jev 8%">&#x68CB;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sxak.0ludo">
@@ -265,6 +271,10 @@
   &c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</trd>
   <trd lng="sv">schackpj&auml;s</trd>
   <trd lng="uk">&c_sh;&c_a;&c_h;&c_o;&c_v;&c_a; &c_f;&c_ib;&c_gu;&c_u;&c_r;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x68CB;&#x5B50; <pr>q&iacute;z&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 38%">&#x8C61;&#x68CB;&#x5B50; <pr>xi&agrave;ngq&iacute;z&#x01D0;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sxak.0tabulo">

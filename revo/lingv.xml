@@ -1738,6 +1738,12 @@
   <trd lng="ro">protolimb&abreve;</trd>
   <trd lng="ru">&c_p;&c_r;&c_a;&c_ja;&c_z;&c_y;&c_k;</trd>
   <trd lng="sk">prajazyk</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x7956;&#x8A9E; <pr>z&#x01D4;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x7956;&#x8BED; <pr>z&#x01D4;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x539F;&#x59CB;&#x8A9E; <pr>yu&aacute;nsh&#x01D0;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x539F;&#x59CB;&#x8BED; <pr>yu&aacute;nsh&#x01D0;y&#x01D4;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lingv.program0o">
@@ -2246,6 +2252,10 @@
   <trd lng="en">formal language</trd>
   <trd lng="id">bahasa formal</trd>
   <trd lng="ru">&c_f;&c_o;&c_r;&c_m;&c_a;&c_l;&c_mol;&c_n;&c_y;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x5F62;&#x5F0F;&#x8A9E;&#x8A00; <pr>x&iacute;ngsh&igrave;y&#x01D4;y&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x5F62;&#x5F0F;&#x8BED;&#x8A00; <pr>x&iacute;ngsh&igrave;y&#x01D4;y&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

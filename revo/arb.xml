@@ -582,6 +582,11 @@
   <trd lng="xh">ihlathi</trd>
   <trd lng="yi">&vav;&vav;&alef;&#1463;&lamed;&dalet;</trd>
   <trd lng="yo">igbo</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh de el en fr ja ko ku pt ru; taksis Jev 94%">&#x68EE;&#x6797; <pr>s&#x0113;nl&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en ku pt; taksis Jev 85%">&#x6797; <pr>l&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 65%">&#x6797;&#x5730; <pr>l&iacute;nd&igrave;</pr></trd>
+  </trdgrp>
   <trd lng="zu">ihlathi</trd>
 </drv>
 
@@ -878,6 +883,10 @@
     <trd>kierz<klr> (dawn.)</klr></trd>
    </trdgrp>
   <trd lng="ru"><ofc>*</ofc>&c_k;&c_u;&c_s;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: es fr ku; taksis Jev 95%">&#x704C;&#x6728; <pr>gu&agrave;nm&ugrave;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 88%">&#x704C;&#x6728;&#x4E1B; <pr>gu&agrave;nm&ugrave;c&oacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arb.drak0o">
@@ -981,6 +990,10 @@
   <trdgrp lng="pl">
     <trd>choinka</trd>,
     <trd>drzewko bo&zdot;onarodzeniowe</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ja; taksis Jev 97%">&#x8056;&#x8A95;&#x6A39; <pr>sh&egrave;ngd&agrave;nsh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ja; taksis Jev 97%">&#x5723;&#x8BDE;&#x6811; <pr>sh&egrave;ngd&agrave;nsh&ugrave;</pr></trd>
   </trdgrp>
 </drv>
 
@@ -1098,6 +1111,10 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
   <trd lng="id">Hutan Hitam</trd>
   <trd lng="nl">Zwarte Woud</trd>
   <trd lng="pl">Schwarzwald</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en fr; taksis Jev 93%">&#x9ED1;&#x68EE;&#x6797; <pr>H&#x0113;i S&#x0113;nl&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x9ED1;&#x6797;&#x5C71; <pr>h&#x0113;il&iacute;nsh&#x0101;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arb.pan0o">
@@ -1318,6 +1335,11 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
     <trd>las pierwotny</trd>
   </trdgrp>
   <trd lng="ru">&c_d;&c_je;&c_v;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_y;&c_j; &c_l;&c_je;&c_s;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x539F;&#x59CB;&#x68EE;&#x6797; <pr>yu&aacute;nsh&#x01D0; s&#x0113;nl&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x8655;&#x5973;&#x6797; <pr>ch&#x01D4;n&#x01DA;l&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x5904;&#x5973;&#x6797; <pr>ch&#x01D4;n&#x01DA;l&iacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arb.sen0ejo">
@@ -1350,6 +1372,10 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
   <trdgrp lng="pl">
     <trd>por&eogonek;ba</trd>,
     <trd>trzebie&zdot;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 19%">&#x8349;&#x5730; <pr>c&#x01CE;od&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 16%">&#x8349;&#x576A; <pr>c&#x01CE;op&iacute;ng</pr></trd>
   </trdgrp>
 </drv>
 
@@ -1540,6 +1566,7 @@ km&quadrat;, &gcirc;i longas 160&#8239;km,
     <trd>ved&lcaron;aj&scaron;&iacute; strom</trd>
   </trdgrp>
   <trd lng="sv">deltr&auml;d</trd>
+  <trd lng="zh" fnt="Vikt: ru; taksis Jev 95%">&#x5B50;&#x6811;</trd>
 </drv>
 </art>
 <!--

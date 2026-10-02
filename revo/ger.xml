@@ -29,6 +29,13 @@
     <trd lng="en">Gerah</trd>
     <trd lng="he">&gimel;&resh;&he;</trd>
     <trd lng="pl">gera</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en es; taksis Jev 1%">&#x8499;&#x53E4;&#x5305; <pr>m&ecaron;ngg&#x01D4;b&#x0101;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 5%">&#x6C08;&#x5305; <pr>zh&#x0101;nb&#x0101;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 5%">&#x6BE1;&#x5305; <pr>zh&#x0101;nb&#x0101;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 2%">&#x6C08;&#x5E33; <pr>zh&#x0101;nzh&agrave;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 2%">&#x6BE1;&#x5E33; <pr>zh&#x0101;nzh&agrave;ng</pr></trd>
+    </trdgrp>
   </snc>
 </drv>
   </art>

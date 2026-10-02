@@ -2113,6 +2113,7 @@
   <trd lng="de">Schnellimbiss</trd>
   <trd lng="en">fast food restaurant</trd>
   <trd lng="fr">restauration rapide</trd>
+  <trd lng="zh" fnt="Vikt: de fr; taksis Jev 78%">&#x5FEB;&#x9910; <pr>ku&agrave;ic&#x0101;n</pr></trd>
 </drv>
 
 <drv mrk="mangx.sat0i">
@@ -2629,6 +2630,11 @@
     <trd lng="ro">prigorie</trd>
     <trd lng="ru">&c_o;&c_s;&c_o;&c_je;&c_d;</trd>
     <trd lng="sv">bi&auml;tare</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 14%">&#x8702;&#x864E;&#x79D1;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 86%">&#x98DF;&#x8702;&#x9CE5; <pr>sh&iacute;f&#x0113;ngni&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 86%">&#x98DF;&#x8702;&#x9E1F; <pr>sh&iacute;f&#x0113;ngni&#x01CE;o</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">abellerol</trd>
   <trd lng="id">kirik-kirik</trd>

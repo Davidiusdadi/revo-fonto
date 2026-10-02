@@ -237,6 +237,11 @@
     <trd>bevallen<klr tip="ind"> (zn.)</klr></trd>
   </trdgrp>
   <trd lng="pl">por&oacute;d</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 51%">&#x51FA;&#x751F; <pr>ch&#x016B;sh&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x5206;&#x5A29; <pr>f&#x0113;nmi&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 73%">&#x5A29;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akusx.0ejo">
@@ -278,6 +283,13 @@
   <trdgrp lng="pl">
     <trd>oddzia&lstroke; po&lstroke;o&zdot;niczy szpitala</trd>,
     <trd>porod&oacute;wka</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 27%">&#x7522;&#x79D1; <pr>ch&#x01CE;nk&#x0113;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 27%">&#x4EA7;&#x79D1; <pr>ch&#x01CE;nk&#x0113;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 85%">&#x7522;&#x9662; <pr>ch&#x01CE;nyu&agrave;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 85%">&#x4EA7;&#x9662; <pr>ch&#x01CE;nyu&agrave;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 76%">&#x5987;&#x4EA7;&#x533B;&#x9662; <pr>f&ugrave;ch&#x01CE;ny&#x012B;yu&agrave;n</pr></trd>
   </trdgrp>
 </drv>
 
@@ -348,6 +360,10 @@
   <trd lng="pt">partejar</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_n;&c_i;&c_m;&c_a;&c_t;&c_mol;
   <ind>&c_r;&c_o;&c_d;&c_y;</ind></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 23%">&#x751F;</trd>,
+    <trd fnt="Vikt: fr; taksis Jev 11%">&#x751F;&#x80B2; <pr>sh&#x0113;ngy&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akusx.0ilo">
@@ -439,6 +455,13 @@
     <trd>obstetriz</trd>
   </trdgrp>
   <trd lng="ru">&c_a;&c_k;&c_u;&c_sh;&c_je;&c_r;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 89%">&#x63A5;&#x751F;&#x5A46; <pr>ji&#x0113;sh&#x0113;ngp&oacute;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 95%">&#x52A9;&#x7522;&#x58EB; <pr>zh&ugrave;ch&#x01CE;nsh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 95%">&#x52A9;&#x4EA7;&#x58EB; <pr>zh&ugrave;ch&#x01CE;nsh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 93%">&#x63A5;&#x751F;&#x54E1; <pr>ji&#x0113;sh&#x0113;ngyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 93%">&#x63A5;&#x751F;&#x5458; <pr>ji&#x0113;sh&#x0113;ngyu&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akusx.0istino">
@@ -674,6 +697,10 @@
   <trd lng="id">kontraksi</trd>
   <trd lng="it">travaglio</trd>
   <trd lng="pl">wysi&lstroke;ek  <ind>porodowy</ind></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 16%">&#x751F;&#x7522; <pr>sh&#x0113;ngch&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 16%">&#x751F;&#x4EA7; <pr>sh&#x0113;ngch&#x01CE;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

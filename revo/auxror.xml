@@ -321,6 +321,12 @@
   <trd lng="it"><ind>aurora</ind> australe</trd>
   <trd lng="pl"><ind>zorza</ind> po&lstroke;udniowa<klr tip="amb">
   (polarna)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ja; taksis Jev 94%">&#x5357;&#x6975;&#x5149; <pr>n&aacute;nj&iacute;gu&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: ja; taksis Jev 94%">&#x5357;&#x6781;&#x5149; <pr>n&aacute;nj&iacute;gu&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 70%">&#x6975;&#x5149; <pr>j&iacute;gu&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 70%">&#x6781;&#x5149; <pr>j&iacute;gu&#x0101;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="auxror.arkta0o">
@@ -355,6 +361,10 @@
   <trd lng="it"><ind>aurora</ind> boreale</trd>
   <trd lng="pl"><ind>zorza</ind> p&oacute;&lstroke;nocna<klr tip="amb">
   (polarna)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ja; taksis Jev 94%">&#x5317;&#x6975;&#x5149; <pr>b&ecaron;ij&iacute;gu&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: zh en ja; taksis Jev 94%">&#x5317;&#x6781;&#x5149; <pr>b&ecaron;ij&iacute;gu&#x0101;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="auxror.polusa0o">

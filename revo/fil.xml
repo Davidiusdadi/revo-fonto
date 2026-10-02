@@ -178,6 +178,12 @@
     <trd>&c_u;&c_s;&c_i;&c_n;&c_o;&c_v;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_u;&c_s;&c_i;&c_n;&c_o;&c_v;&c_l;&c_ja;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 94%">&#x6536;&#x990A; <pr>sh&#x014D;uy&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 94%">&#x6536;&#x517B; <pr>sh&#x014D;uy&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 94%">&#x9818;&#x990A; <pr>l&#x01D0;ngy&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 94%">&#x9886;&#x517B; <pr>l&#x01D0;ngy&#x01CE;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fil.0ino">
@@ -437,6 +443,12 @@
   </trdgrp>
   <trd lng="tr">damat</trd>
   <trd lng="uk">&c_p;&c_a;&c_s;&c_i;&c_n;&c_o;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 75%">&#x7E7C;&#x5B50; <pr>j&igrave;z&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 75%">&#x7EE7;&#x5B50; <pr>j&igrave;z&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 46%">&#x7E7C; <pr>j&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 46%">&#x7EE7; <pr>j&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fil.duon0ino">

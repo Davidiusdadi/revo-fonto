@@ -55,6 +55,12 @@
   <trd lng="sk">jase&ncaron;</trd>
   <trd lng="cs">jasan</trd>
   <trd lng="uk">&c_ja;&c_s;&c_je;&c_n;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja ru; taksis Jev 91%">&#x68A3; <pr>c&eacute;n</pr></trd>,
+    <trd fnt="Vikt: ja ko; taksis Jev 6%">&#x6849;&#x6A39; <pr>&#x0101;nsh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ja ko; taksis Jev 6%">&#x6849;&#x6811; <pr>&#x0101;nsh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 90%">&#x767D;&#x8721;&#x6811; <pr>b&aacute;il&agrave;sh&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

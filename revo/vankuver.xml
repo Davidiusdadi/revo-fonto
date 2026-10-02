@@ -34,6 +34,12 @@
     <trd lng="de">Vancouver</trd>
     <trd lng="en">Vancouver</trd>
     <trd lng="fr">Vancouver</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en fr; taksis Jev 95%">&#x6E29;&#x54E5;&#x534E; <pr>w&#x0113;ng&#x0113;hu&aacute;</pr></trd>,
+      <trd fnt="Vikt: en fr; taksis Jev 95%">&#x6EAB;&#x54E5;&#x534E; <pr>w&#x0113;ng&#x0113;hu&aacute;</pr></trd>,
+      <trd fnt="Vikt: de en; taksis Jev 93%">&#x6EAB;&#x54E5;&#x83EF; <pr>w&#x0113;ng&#x0113;hu&aacute;</pr></trd>,
+      <trd fnt="Vikt: de en; taksis Jev 93%">&#x6E29;&#x54E5;&#x534E; <pr>w&#x0113;ng&#x0113;hu&aacute;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_V;&c_a;&c_n;&c_k;&c_u;&c_v;&c_e;&c_r;</trd>
 </drv>

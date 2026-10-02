@@ -89,6 +89,11 @@
   </trdgrp>
   <trd lng="sv">analfabet</trd>
   <trd lng="uk">&c_n;&c_je;&c_p;&c_i;&c_s;&c_mol;&c_m;&c_je;&c_n;&c_n;&c_i;&c_j;&nbsp;(&c_ib;&c_m;.)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh de en; taksis Jev 96%">&#x6587;&#x76F2; <pr>w&eacute;nm&aacute;ng</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 78%">&#x4E0D;&#x8B58;&#x4E00;&#x4E01; <pr>b&ugrave;sh&iacute;y&#x012B;d&#x012B;ng</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 78%">&#x4E0D;&#x8BC6;&#x4E00;&#x4E01; <pr>b&ugrave;sh&iacute;y&#x012B;d&#x012B;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="analfa.0a">
@@ -134,6 +139,7 @@
   <trd lng="fr">analphab&egrave;te<klr> (adj.)</klr></trd>
   <trd lng="pl">analfabetyczny</trd>
   <trd lng="sk">negramotn&yacute;</trd>
+  <trd lng="zh" fnt="Vikt: en fr; taksis Jev 92%">&#x6587;&#x76F2; <pr>w&eacute;nm&aacute;ng</pr></trd>
 </drv>
 
 

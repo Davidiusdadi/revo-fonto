@@ -1041,6 +1041,11 @@
   <trd lng="xh">ndibhekise</trd>
   <trd lng="yi">&tsadi;&vav;</trd>
   <trd lng="yo">si</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja ko pl ru; taksis Jev 69%">&#x5230; <pr>d&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 55%">&#x5F80;</trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 47%">&#x671D;</trd>
+  </trdgrp>
   <trd lng="zu">bubheke</trd>
 </drv>
 </subart>
@@ -1533,6 +1538,14 @@
     <trd>spe&lstroke;nia&cacute; si&eogonek;</trd>
   </trdgrp>
   <trd lng="uk">&c_z;&c_d;&c_ib;&c_j;&c_s;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ko; taksis Jev 7%">&#x5BE6;&#x73FE; <pr>sh&iacute;xi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 7%">&#x5B9E;&#x73B0; <pr>sh&iacute;xi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 7%">&#x61C9;&#x9A57; <pr>y&igrave;ngy&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 7%">&#x5E94;&#x9A8C; <pr>y&igrave;ngy&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 7%">&#x6210;&#x771E; <pr>ch&eacute;ngzh&#x0113;n</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 7%">&#x6210;&#x771F; <pr>ch&eacute;ngzh&#x0113;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="al.mal0igxi">

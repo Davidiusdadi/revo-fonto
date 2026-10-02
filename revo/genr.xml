@@ -229,6 +229,7 @@
   <trd lng="pl">rodzaj nijaki</trd>
   <trd lng="pt">g&ecirc;nero</trd>
   <trd lng="ru">&c_n;&c_je;&c_o;&c_d;&c_u;&c_sh;&c_je;&c_v;&c_l;&c_jo;&c_n;&c_n;&c_y;&c_j; &c_r;&c_o;&c_d;</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 77%">&#x4E2D;&#x6027; <pr>zh&#x014D;ngx&igrave;ng</pr></trd>
 </drv>
 
 <drv mrk="genr.in0o">
@@ -326,6 +327,10 @@
   <trd lng="nl">mannelijk <ind>geslacht</ind></trd>
   <trd lng="pl">rodzaj m&eogonek;ski</trd>
   <trd lng="ru">&c_m;&c_u;&c_zh;&c_s;&c_k;&c_o;&c_j; &c_r;&c_o;&c_d;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 77%">&#x967D;&#x6027; <pr>y&aacute;ngx&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 77%">&#x9633;&#x6027; <pr>y&aacute;ngx&igrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="genr.cis0a">
@@ -388,6 +393,10 @@
     <trd>cisg&ecirc;nero</trd>
   </trdgrp>
   <trd lng="ru">&c_c;&c_i;&c_s;&c_g;&c_je;&c_n;&c_d;&c_je;&c_r;&c_n;&c_y;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x9806;&#x6027;&#x5225; <pr>sh&ugrave;nx&igrave;ngbi&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x987A;&#x6027;&#x522B; <pr>sh&ugrave;nx&igrave;ngbi&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="genr.cis0ulo">
@@ -428,6 +437,10 @@
   <trd lng="nl">cisgender persoon</trd>
   <trd lng="pl">cisp&lstroke;ciowiec</trd>
   <trd lng="sv">cisperson</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x9806;&#x6027;&#x5225;&#x8005; <pr>sh&ugrave;nx&igrave;ngbi&eacute;zh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x987A;&#x6027;&#x522B;&#x8005; <pr>sh&ugrave;nx&igrave;ngbi&eacute;zh&ecaron;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="genr.trans0a">
@@ -559,6 +572,10 @@
   <trd lng="nl">transgender persoon</trd>
   <trd lng="pl">osoba  <ind>transp&lstroke;ciowa</ind></trd>
   <trd lng="sv">transperson</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 91%">&#x8DE8;&#x6027;&#x5225;&#x8005; <pr>ku&agrave;x&igrave;ngbi&eacute;zh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 91%">&#x8DE8;&#x6027;&#x522B;&#x8005; <pr>ku&agrave;x&igrave;ngbi&eacute;zh&ecaron;</pr></trd>
+  </trdgrp>
 </drv>
   <adm>
     Tiu artikolo levas demandojn senrespondajn. Ekz-e

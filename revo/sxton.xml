@@ -1316,6 +1316,11 @@
     <trd>&eacute;coin&ccedil;on</trd>
   </trdgrp>
 <trd lng="id">batu penjuru</trd>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: fr; taksis Jev 82%">&#x57FA;&#x77F3; <pr>j&#x012B;sh&iacute;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 25%">&#x57FA;&#x790E; <pr>j&#x012B;ch&#x01D4;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 25%">&#x57FA;&#x7840; <pr>j&#x012B;ch&#x01D4;</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="sxton.fajro0o">
@@ -1977,6 +1982,7 @@
     <trd>&c_v;&c_a;&c_l;&c_u;&c_n;</trd>,
     <trd>&c_g;&c_a;&c_l;&c_mol;&c_k;&c_a;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: fr; taksis Jev 91%">&#x5375;&#x77F3; <pr>lu&#x01CE;nsh&iacute;</pr></trd>
 </drv>
 
 <drv mrk="sxton.sal0o">

@@ -172,6 +172,10 @@
     <trd>anielski</trd>,
     <trd>czysty jak <ind>anio&lstroke;</ind></trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pl; taksis Jev 17%">&#x5929;&#x4F7F; <pr>ti&#x0101;nsh&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 89%">&#x5929;&#x4F7F;&#x822C;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angxel.cxef0o">
@@ -259,6 +263,10 @@
   <trd lng="ja">&#x5B88;&#x8B77;&#22825;&#x4F7F;  <pr>&#12375;&#12421;&#12372;&#12390;&#12435;&#12375;</pr></trd>
   <trd lng="pl">anio&lstroke; str&oacute;&zdot;</trd>
   <trd lng="uk">&c_a;&c_n;&c_g;&c_je;&c_l;-&c_h;&c_o;&c_r;&c_o;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en fr; taksis Jev 96%">&#x5B88;&#x8B77;&#x5929;&#x4F7F; <pr>sh&#x01D2;uh&ugrave; ti&#x0101;nsh&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: el en fr; taksis Jev 96%">&#x5B88;&#x62A4;&#x5929;&#x4F7F; <pr>sh&#x01D2;uh&ugrave; ti&#x0101;nsh&#x01D0;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

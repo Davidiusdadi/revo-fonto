@@ -772,6 +772,10 @@
     <trd lng="de">Firewall</trd>
     <trd lng="fr">pare-feu<klr> (informatique)</klr></trd>
   </snc>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en fr; taksis Jev 39%">&#x9632;&#x706B;&#x7246; <pr>f&aacute;nghu&#x01D2;qi&aacute;ng</pr></trd>,
+    <trd fnt="Vikt: zh en fr; taksis Jev 39%">&#x9632;&#x706B;&#x5899; <pr>f&aacute;nghu&#x01D2;qi&aacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sxirm.faldo0ilo">
@@ -1044,6 +1048,10 @@
     <trd>&#x65E5;&#12424;&#12369;  <pr>&#12402;&#12424;&#12369;</pr></trd>
   </trdgrp>
   <trd lng="uk">&c_a;&c_b;&c_a;&c_zh;&c_u;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr ru; taksis Jev 42%">&#x71C8;&#x7F69; <pr>d&#x0113;ngzh&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en fr ru; taksis Jev 42%">&#x706F;&#x7F69; <pr>d&#x0113;ngzh&agrave;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="sxirm.okul0ilo">

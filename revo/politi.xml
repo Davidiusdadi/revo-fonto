@@ -200,6 +200,10 @@
   <trd lng="pl">polityka j&eogonek;zykowa</trd>
   <trd lng="ro">politic&abreve; lingvistic&abreve;</trd>
   <trd lng="uk">&c_m;&c_o;&c_v;&c_n;&c_a; &c_p;&c_o;&c_l;&c_ib;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x8A9E;&#x8A00;&#x653F;&#x7B56; <pr>y&#x01D4;y&aacute;nzh&egrave;ngc&egrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x8BED;&#x8A00;&#x653F;&#x7B56; <pr>y&#x01D4;y&aacute;nzh&egrave;ngc&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="politi.ne0a">
@@ -336,6 +340,10 @@
   </snc>
   <trd lng="de" fnt="AI: en; proponis claude-opus-5-5; kontrolis claude-opus-5-5">gesellschaftspolitisch</trd>
   <trd lng="en">socio-political</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x793E;&#x6703;&#x653F;&#x6CBB;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x793E;&#x4F1A;&#x653F;&#x6CBB;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 </art>

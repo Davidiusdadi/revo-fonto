@@ -88,6 +88,13 @@
     <trd>&c_z;&c_r;&c_a;&c_d;&c_zh;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_ch;&c_u;&c_zh;&c_o;&c_l;&c_o;&c_zh;&c_i;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 44%">&#x4E0D;&#x5FE0; <pr>b&ugrave;zh&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x51FA;&#x8ECC; <pr>ch&#x016B;gu&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x51FA;&#x8F68; <pr>ch&#x016B;gu&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 57%">&#x811A;&#x8E0F;&#x4E24;&#x6761;&#x8239; <pr>ji&#x01CE;o t&agrave; li&#x01CE;ng ti&aacute;o chu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 57%">&#x8173;&#x8E0F;&#x4E24;&#x6761;&#x8239; <pr>ji&#x01CE;o t&agrave; li&#x01CE;ng ti&aacute;o chu&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="adult.0o">
@@ -159,6 +166,13 @@ conjoint)</klr></trd>,
     <trd>&c_p;&c_je;&c_r;&c_je;&c_l;&c_ju;&c_b;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_a;&c_d;&c_ju;&c_l;&c_mol;&c_t;&c_je;&c_r;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en es ku pt; taksis Jev 69%">&#x901A;&#x59E6; <pr>t&#x014D;ngji&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: en es ku pt; taksis Jev 69%">&#x901A;&#x5978; <pr>t&#x014D;ngji&#x0101;n</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 65%">&#x5916;&#x9047; <pr>w&agrave;iy&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 59%">&#x59E6;&#x60C5; <pr>ji&#x0101;nq&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 59%">&#x5978;&#x60C5; <pr>ji&#x0101;nq&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="adult.0a">
@@ -222,6 +236,7 @@ conjoint)</klr></trd>,
   <trd lng="pl">cudzo&lstroke;o&zdot;ny</trd>
   <trd lng="sk">cudzolo&zcaron;n&yacute;</trd>
   <trd lng="sv">otrogen</trd>
+  <trd lng="zh" fnt="Vikt: fr; taksis Jev 53%">&#x79C1;&#x901A; <pr>s&#x012B;t&#x014D;ng</pr></trd>
 </drv>
 
 <drv mrk="adult.0ado">
@@ -415,6 +430,10 @@ l'adult&egrave;re)</klr></trd>
   <trd lng="ru">&c_p;&c_r;&c_je;&c_l;&c_ju;&c_b;&c_o;&c_d;&c_je;&c_j;</trd>
   <trd lng="sk">cudzolo&zcaron;nica</trd>
   <trd lng="uk">&c_p;&c_je;&c_r;&c_je;&c_l;&c_ju;&c_b;&c_je;&c_c;&c_mol;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x59E6;&#x592B; <pr>ji&#x0101;nf&#x016B;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x5978;&#x592B; <pr>ji&#x0101;nf&#x016B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="adult.sang0o">
@@ -471,6 +490,13 @@ l'adult&egrave;re)</klr></trd>
   <trdgrp lng="uk">
     <trd>&c_k;&c_r;&c_o;&c_v;&c_o;&c_z;&c_m;&c_ib;&c_sh;&c_je;&c_n;&c_n;&c_ja;</trd>,
     <trd>&c_ib;&c_n;&c_c;&c_je;&c_s;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja; taksis Jev 94%">&#x4E82;&#x502B; <pr>lu&agrave;nl&uacute;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 94%">&#x4E71;&#x4F26; <pr>lu&agrave;nl&uacute;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 94%">&#x8FD1;&#x89AA;&#x76F8;&#x59E6;</trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 94%">&#x8FD1;&#x4EB2;&#x76F8;&#x5978;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 56%">&#x9AA8;&#x79D1; <pr>g&#x01D4;k&#x0113;</pr></trd>
   </trdgrp>
 </drv>
 </art>

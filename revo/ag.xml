@@ -328,6 +328,12 @@ fontoj...?
   <trd lng="xh">isenzo</trd>
   <trd lng="yi">&alef;&#x5B7;&qof;&tet;</trd>
   <trd lng="yo">igbese</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 65%">&#x4F5C;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 65%">&#x505A; <pr>zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x884C;&#x52D5; <pr>x&iacute;ngd&ograve;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x884C;&#x52A8; <pr>x&iacute;ngd&ograve;ng</pr></trd>
+  </trdgrp>
   <trd lng="zu">isenzo</trd>
 </drv>
 
@@ -480,6 +486,13 @@ fontoj...?
     <trd>hareket</trd>,
     <trd>davran&inodot;&scedil;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku ru; taksis Jev 90%">&#x884C;&#x70BA; <pr>x&iacute;ngw&eacute;i</pr></trd>,
+    <trd fnt="Vikt: en ku ru; taksis Jev 90%">&#x884C;&#x4E3A; <pr>x&iacute;ngw&eacute;i</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 88%">&#x884C;&#x52D5; <pr>x&iacute;ngd&ograve;ng</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 88%">&#x884C;&#x52A8; <pr>x&iacute;ngd&ograve;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 54%">&#x4F5C;&#x7528; <pr>zu&ograve;y&ograve;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ag.0ema">
@@ -583,6 +596,14 @@ fontoj...?
     <trd>&c_d;&c_ib;&c_j;&c_o;&c_v;&c_i;&c_j;</trd>,
     <trd>&c_d;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_a;&c_k;&c_t;&c_i;&c_v;&c_n;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x7A4D;&#x6975; <pr>j&#x012B;j&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x79EF;&#x6781; <pr>j&#x012B;j&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x80FD;&#x52D5; <pr>n&eacute;ngd&ograve;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x80FD;&#x52A8; <pr>n&eacute;ngd&ograve;ng</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 6%">&#x55A7;&#x9B27;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 6%">&#x55A7;&#x95F9;&#x7684;</trd>
   </trdgrp>
 </drv>
 
@@ -1457,6 +1478,10 @@ fontoj...?
     <trd>&ccedil;al&scedil;mazl&inodot;k</trd>
   </trdgrp>
   <trd lng="uk">&c_b;&c_je;&c_z;&c_d;&c_ib;&c_ja;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x4E0D;&#x4F5C;&#x70BA; <pr>b&ugrave;zu&ograve;w&eacute;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x4E0D;&#x4F5C;&#x4E3A; <pr>b&ugrave;zu&ograve;w&eacute;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ag.trans0o">

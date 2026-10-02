@@ -51,6 +51,14 @@
       <trd>&#2327;&#2306;&#2327;&#2366;</trd>,
       <trd>&#2327;&#2329;&#2381;&#2327;&#2366;</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: de en ru; taksis Jev 95%">&#x6052;&#x6CB3; <pr>h&eacute;ngh&eacute;</pr></trd>,
+      <trd fnt="Vikt: de en ru; taksis Jev 95%">&#x6046;&#x6CB3; <pr>h&eacute;ngh&eacute;</pr></trd>,
+      <trd fnt="Vikt: en ru; taksis Jev 90%">&#x6046;&#x4F3D; <pr>H&eacute;ngg&#x0101;</pr></trd>,
+      <trd fnt="Vikt: en ru; taksis Jev 90%">&#x6052;&#x4F3D; <pr>H&eacute;ngg&#x0101;</pr></trd>,
+      <trd fnt="Vikt: en ru; taksis Jev 83%">&#x6052;&#x4F3D; <pr>H&eacute;ngg&#x0101;</pr></trd>,
+      <trd fnt="Vikt: en ru; taksis Jev 83%">&#x6046;&#x4F3D; <pr>H&eacute;ngg&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <ref tip="hom" cel="gang.0o">gango (de erco)</ref>
 <trd lng="be">&c_G;&c_a;&c_n;&c_g;</trd>

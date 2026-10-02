@@ -74,6 +74,12 @@
     <trd>pami&eogonek;tnik internetowy</trd>
   </trdgrp>
   <trd lng="pt">blogue</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de en fr ko; taksis Jev 94%">&#x535A;&#x5BA2; <pr>b&oacute;k&egrave;</pr></trd>,
+    <trd fnt="Vikt: en fr ko; taksis Jev 89%">&#x90E8;&#x843D;&#x683C; <pr>b&ugrave;lu&ograve;g&eacute;</pr></trd>,
+    <trd fnt="Vikt: en fr ko; taksis Jev 91%">&#x7DB2;&#x8A8C; <pr>w&#x01CE;ngzh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en fr ko; taksis Jev 91%">&#x7F51;&#x5FD7; <pr>w&#x01CE;ngzh&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="blog.0ajxo">
@@ -148,6 +154,7 @@
   <trd lng="en"><ind>blog</ind> server</trd>
   <trd lng="es">conjunto de blogs en un mismo servidor</trd>
   <trd lng="hu">bloggy&udblac;jtem&eacute;ny</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 46%">&#x535A;&#x5BA2;&#x5708; <pr>b&oacute;k&egrave;qu&#x0101;n</pr></trd>
 </drv>
 
 <drv mrk="blog.0ero">

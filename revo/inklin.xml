@@ -442,6 +442,12 @@
   </trdgrp>
   <trd lng="sk">n&aacute;chylnos&tcaron;</trd>
   <trd lng="uk">&c_s;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja; taksis Jev 42%">&#x8DA8;&#x52E2; <pr>q&#x016B;sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 42%">&#x8D8B;&#x52BF; <pr>q&#x016B;sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 61%">&#x50BE;&#x5411; <pr>q&#x012B;ngxi&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 61%">&#x503E;&#x5411; <pr>q&#x012B;ngxi&agrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="inklin.0igi">
@@ -840,6 +846,10 @@
     <trd>&c_n;&c_je;&c_h;&c_ib;&c_t;&c_mol;</trd>,
     <trd>&c_n;&c_je;&c_p;&c_r;&c_i;&c_h;&c_i;&c_l;&c_mol;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_p;&c_je;&c_r;&c_je;&c_d;&c_zh;&c_je;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de; taksis Jev 85%">&#x538C;&#x6076; <pr>y&agrave;nwu</pr></trd>,
+    <trd fnt="Vikt: de; taksis Jev 84%">&#x53CD;&#x611F; <pr>f&#x01CE;ng&#x01CE;n</pr></trd>
   </trdgrp>
 </drv>
 

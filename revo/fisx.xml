@@ -658,6 +658,10 @@
   <trd lng="pl">ryba lataj&aogonek;ca</trd>
   <trd lng="ro">pe&#537;te zbur&abreve;tor</trd>
   <trd lng="uk">&c_l;&c_ib;&c_t;&c_a;&c_ju;&c_ch;&c_a; &c_r;&c_i;&c_b;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x98DB;&#x9B5A; <pr>f&#x0113;iy&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x98DE;&#x9C7C; <pr>f&#x0113;iy&uacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fisx.Flug0o">
@@ -687,6 +691,10 @@
   <trd lng="ja">&#12392;&#12403;&#12358;&#12362;&#24231;  <pr>&#12392;&#12403;&#12358;&#12362;&#12374;</pr></trd>
   <trd lng="pl">Ryba Lataj&aogonek;ca  <klr>(gwiazdozbi&oacute;r)</klr></trd>
   <trd lng="ro">Pe&#537;tele Zbur&abreve;tor  <klr>(constela&#539;ie)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el; taksis Jev 67%">&#x98DB;&#x9B5A;&#x5EA7; <pr>F&#x0113;iy&uacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: el; taksis Jev 67%">&#x98DE;&#x9C7C;&#x5EA7; <pr>F&#x0113;iy&uacute;zu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fisx.kartilago0o">
@@ -865,6 +873,10 @@
   <trd lng="id">Dorado <klr>(konstelasi)</klr></trd>
   <trd lng="pl">Z&lstroke;ota <ind>Ryba</ind>  <klr>(gwiazdozbi&oacute;r)</klr></trd>
   <trd lng="ro">Pe&#537;tele de Aur<klr>(constela&#539;ie)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el; taksis Jev 63%">&#x528D;&#x9B5A;&#x5EA7; <pr>Ji&agrave;ny&uacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: el; taksis Jev 63%">&#x5251;&#x9C7C;&#x5EA7; <pr>Ji&agrave;ny&uacute;zu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="fisx.osto0oj">
@@ -1035,6 +1047,10 @@
   <trd lng="id">Piscis Austrinus <klr>(konstelasi)</klr></trd>
   <trd lng="pl">Ryba Po&lstroke;udniowa  <klr>(gwiazdozbi&oacute;r)</klr></trd>
   <trd lng="ro">Pe&#537;tele Austral  <klr>(constela&#539;ie)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el; taksis Jev 91%">&#x5357;&#x9B5A;&#x5EA7; <pr>n&aacute;ny&uacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: el; taksis Jev 91%">&#x5357;&#x9C7C;&#x5EA7; <pr>n&aacute;ny&uacute;zu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

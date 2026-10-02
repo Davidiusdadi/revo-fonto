@@ -28,6 +28,12 @@
     <trd lng="en">Martinique</trd>
     <trd lng="fr">Martinique</trd>
     <trd lng="pl">Martynika</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en fr; taksis Jev 93%">&#x99AC;&#x63D0;&#x5C3C;&#x514B; <pr>M&#x01CE;t&iacute;n&iacute;k&egrave;</pr></trd>,
+      <trd fnt="Vikt: zh en fr; taksis Jev 93%">&#x9A6C;&#x63D0;&#x5C3C;&#x514B; <pr>M&#x01CE;t&iacute;n&iacute;k&egrave;</pr></trd>,
+      <trd fnt="Vikt: zh; taksis Jev 88%">&#x99AC;&#x4E01;&#x5C3C;&#x514B; <pr>M&#x01CE;d&#x012B;ngn&iacute;k&egrave;</pr></trd>,
+      <trd fnt="Vikt: zh; taksis Jev 88%">&#x9A6C;&#x4E01;&#x5C3C;&#x514B; <pr>M&#x01CE;d&#x012B;ngn&iacute;k&egrave;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_M;&c_a;&c_r;&c_t;&c_y;&c_n;&c_ib;&c_k;&c_a;</trd>
 </drv>

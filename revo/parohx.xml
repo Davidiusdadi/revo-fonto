@@ -61,6 +61,12 @@
     <trd>&#x43F;&c_a;&c_r;&c_a;&c_f;&c_ib;&#x44F;</trd>,
     <trd>&#x43F;&c_a;&c_r;&#x43E;&c_h;&c_ib;&#x44F;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 68%">&#x6559;&#x5340; <pr>ji&agrave;oq&#x016B;</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 68%">&#x6559;&#x533A; <pr>ji&agrave;oq&#x016B;</pr></trd>,
+    <trd fnt="Vikt: zh fr; taksis Jev 92%">&#x5802;&#x5340; <pr>t&aacute;ngq&#x016B;</pr></trd>,
+    <trd fnt="Vikt: zh fr; taksis Jev 92%">&#x5802;&#x533A; <pr>t&aacute;ngq&#x016B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parohx.0ano">
@@ -94,6 +100,10 @@
   <trd lng="ro">enorie</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_h;&c_o;&c_zh;&c_a;&c_n;&c_i;&c_n;</trd>
   <trd lng="uk">&#x43F;&c_a;&c_r;&c_a;&c_f;&c_ib;&#x44F;&#x43D;&c_i;&#x43D;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ru; taksis Jev 75%">&#x6559;&#x5340;&#x5C45;&#x6C11; <pr>ji&agrave;oq&#x016B;j&#x016B;m&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 75%">&#x6559;&#x533A;&#x5C45;&#x6C11; <pr>ji&agrave;oq&#x016B;j&#x016B;m&iacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parohx.0anaro">
@@ -129,6 +139,10 @@
   <trd lng="pl">wsp&oacute;lnota parafialna</trd>
   <trd lng="ro">comunitatea parohial&abreve;</trd>
   <trd lng="ru">&c_p;&c_r;&c_i;&c_h;&c_o;&c_zh;&c_a;&c_n;&c_je;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x6703;&#x773E; <pr>hu&igrave;zh&ograve;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x4F1A;&#x4F17; <pr>hu&igrave;zh&ograve;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="parohx.0estro">

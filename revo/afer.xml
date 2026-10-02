@@ -966,6 +966,11 @@
     <trd>spr&aacute;vca majetku</trd>
   </trdgrp>
   <trd lng="tr">i&scedil; adam&inodot;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 63%">&#x4F01;&#x696D;&#x5BB6; <pr>q&#x01D0;y&egrave;ji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 63%">&#x4F01;&#x4E1A;&#x5BB6; <pr>q&#x01D0;y&egrave;ji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x5546;&#x4EBA; <pr>sh&#x0101;ngr&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="afer.am0o">
@@ -1051,6 +1056,13 @@
   <trd lng="pl">sprawa mi&lstroke;osna</trd>
   <trd lng="sk">milostn&aacute; z&aacute;le&zcaron;itos&tcaron;</trd>
   <trd lng="tr">macera<klr>(a&scedil;k)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x5077;&#x9999;&#x7ACA;&#x7389; <pr>t&#x014D;uxi&#x0101;ngqi&egrave;y&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 52%">&#x5077;&#x9999;&#x7A83;&#x7389; <pr>t&#x014D;uxi&#x0101;ngqi&egrave;y&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 55%">&#x5916;&#x9047; <pr>w&agrave;iy&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 51%">&#x6200;&#x611B; <pr>li&agrave;n'&agrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 51%">&#x604B;&#x7231; <pr>li&agrave;n'&agrave;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="afer.cxef0o">
@@ -1204,6 +1216,12 @@
       <trd lng="pl">sprawa s&aogonek;dowa</trd>
       <trd lng="ru">&c_s;&c_u;&c_d;&c_je;&c_b;&c_n;&c_o;&c_je; &c_d;&c_je;&c_l;&c_o;</trd>
       <trd lng="uk">&c_s;&c_u;&c_d;&c_o;&c_v;&c_i;&c_j; &c_p;&c_r;&c_o;&c_c;&c_je;&c_s;</trd>
+      <trdgrp lng="zh">
+        <trd fnt="Vikt: zh en; taksis Jev 89%">&#x6848;&#x4EF6; <pr>&agrave;nji&agrave;n</pr></trd>,
+        <trd fnt="Vikt: en; taksis Jev 82%">&#x5B98;&#x53F8; <pr>gu&#x0101;ns&#x012B;</pr></trd>,
+        <trd fnt="Vikt: en; taksis Jev 84%">&#x8A34;&#x8A1F; <pr>s&ugrave;s&ograve;ng</pr></trd>,
+        <trd fnt="Vikt: en; taksis Jev 84%">&#x8BC9;&#x8BBC; <pr>s&ugrave;s&ograve;ng</pr></trd>
+      </trdgrp>
 </drv>
 
     <drv mrk="afer.havi0onkun">

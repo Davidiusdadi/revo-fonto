@@ -223,6 +223,7 @@
   <trd lng="ja">&#29983;&#29289;&#23398;&#30340;  <pr>&#12379;&#12356;&#12406;&#12388;&#12364;&#12367;&#12390;&#12365;</pr></trd>
   <trd lng="pl">biologiczny</trd>
   <trd lng="ro">biologic</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 12%">&#x751F;&#x7269; <pr>sh&#x0113;ngw&ugrave;</pr></trd>
 </drv>
 
 <drv mrk="biolog1.0isto">
@@ -262,6 +263,10 @@
   <trd lng="ru">&c_b;&c_i;&c_o;&c_l;&c_o;&c_g;</trd>
   <trd lng="sk">biol&oacute;g</trd>
   <trd lng="sv">biolog</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en pt; taksis Jev 97%">&#x751F;&#x7269;&#x5B78;&#x5BB6; <pr>sh&#x0113;ngw&ugrave;xu&eacute;ji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en pt; taksis Jev 97%">&#x751F;&#x7269;&#x5B66;&#x5BB6; <pr>sh&#x0113;ngw&ugrave;xu&eacute;ji&#x0101;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="biolog1.astro0o">
@@ -295,6 +300,11 @@
   <trd lng="id">astrobiologi</trd>
   <trd lng="pl">astrobiologia</trd>
   <trd lng="sk">astrol&oacute;gia</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 87%">&#x5730;&#x5916;&#x751F;&#x7269;&#x5B66;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 82%">&#x5916;&#x7A7A;&#x751F;&#x7269;&#x5B66;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 86%">&#x5B87;&#x5B99;&#x751F;&#x7269;&#x5B66; <pr>y&#x01D4;zh&ograve;ush&#x0113;ngw&ugrave;xu&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="biolog1.molekula0o">
@@ -325,6 +335,10 @@
   <trd lng="ja">&#20998;&#23376;&#29983;&#29289;&#23398;  <pr>&#12406;&#12435;&#12375;&#12379;&#12356;&#12406;&#12388;&#12364;&#12367;</pr></trd>
   <trd lng="pl">biologia molekularna</trd>
   <trd lng="ro">biologie molecular&abreve;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: it ru; taksis Jev 96%">&#x5206;&#x5B50;&#x751F;&#x7269;&#x5B78; <pr>f&#x0113;nz&#x01D0; sh&#x0113;ngw&ugrave;xu&eacute;</pr></trd>,
+    <trd fnt="Vikt: it ru; taksis Jev 96%">&#x5206;&#x5B50;&#x751F;&#x7269;&#x5B66; <pr>f&#x0113;nz&#x01D0; sh&#x0113;ngw&ugrave;xu&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="biolog1.nervo0o">

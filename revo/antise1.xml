@@ -117,6 +117,10 @@
   <trd lng="ru">&c_a;&c_n;&c_t;&c_i;&c_s;&c_je;&c_p;&c_t;&c_i;&c_ch;&c_je;&c_s;&c_k;&c_i;&c_j;</trd>
   <trd lng="sk">antiseptick&yacute;</trd>
   <trd lng="uk">&c_a;&c_n;&c_t;&c_i;&c_s;&c_je;&c_p;&c_t;&c_i;&c_ch;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 50%">&#x9632;&#x8150; <pr>f&aacute;ngf&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 66%">&#x6297;&#x83CC; <pr>k&agrave;ngj&#x016B;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="antise1.0ajxo">
@@ -152,6 +156,12 @@
   <trdgrp lng="uk">
     <trd>&c_a;&c_n;&c_t;&c_i;&c_s;&c_je;&c_p;&c_t;&c_i;&c_k;</trd>,
     <trd>&c_a;&c_n;&c_t;&c_i;&c_s;&c_je;&c_p;&c_t;&c_i;&c_ch;&c_n;&c_i;&c_j; &c_z;&c_a;&c_s;&c_ib;&c_b;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 47%">&#x6297;&#x83CC;&#x5291; <pr>k&agrave;ngj&#x016B;nj&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 47%">&#x6297;&#x83CC;&#x5242; <pr>k&agrave;ngj&#x016B;nj&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 28%">&#x9632;&#x8150;&#x5291; <pr>f&aacute;ngf&ugrave;j&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 28%">&#x9632;&#x8150;&#x5242; <pr>f&aacute;ngf&ugrave;j&igrave;</pr></trd>
   </trdgrp>
 </drv>
 </art>

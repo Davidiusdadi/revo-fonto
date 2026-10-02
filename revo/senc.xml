@@ -499,6 +499,13 @@
     <trd>wyra&zdot;enie dwuznaczne</trd>,
     <trd>dwuznaczno&sacute;&cacute;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 76%">&#x6709;&#x6B67;&#x7FA9;&#x7684;&#x8A5E;&#x53E5;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 76%">&#x6709;&#x6B67;&#x4E49;&#x7684;&#x8A5E;&#x53E5;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 77%">&#x6709;&#x6B67;&#x4E49;&#x7684;&#x8BCD;&#x53E5;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x6A21;&#x68F1;&#x5169;&#x53EF;&#x7684;&#x8A5E;&#x53E5;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x6A21;&#x7A1C;&#x4E24;&#x53EF;&#x7684;&#x8A5E;&#x53E5;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="senc.iu0e">
@@ -759,6 +766,13 @@
   <trdgrp lng="pl">
     <trd>wieloznaczny</trd>,
     <trd>niejednoznaczny</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 80%">&#x4E0D;&#x660E;&#x78BA;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 80%">&#x4E0D;&#x660E;&#x786E;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 76%">&#x542B;&#x7CCA;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 92%">&#x6A21;&#x68F1;&#x4E24;&#x53EF;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 92%">&#x6A21;&#x7A1C;&#x4E24;&#x53EF;&#x7684;</trd>
   </trdgrp>
 </drv>
 
@@ -1209,6 +1223,12 @@
   <trd lng="de">eindeutig</trd>
   <trd lng="fr">univoque</trd>
   <trd lng="pl">jednoznaczny</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 90%">&#x4E0D;&#x542B;&#x7CCA;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 91%">&#x660E;&#x78BA;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 91%">&#x660E;&#x786E;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 73%">&#x6E05;&#x695A;&#x7684;</trd>
+  </trdgrp>
  </drv>
 </art>
 <!--

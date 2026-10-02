@@ -89,6 +89,11 @@
   <trd lng="sk">ropucha</trd>
   <trd lng="sv">padda</trd>
   <trd lng="uk">&c_r;&c_o;&c_p;&c_u;&c_h;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh de en es fr; taksis Jev 93%">&#x87FE;&#x870D; <pr>ch&aacute;nch&uacute;</pr></trd>,
+    <trd fnt="Vikt: en es fr ru; taksis Jev 87%">&#x765E;&#x86E4;&#x87C6; <pr>n&#x01CE;nh&aacute;ma</pr></trd>,
+    <trd fnt="Vikt: en es; taksis Jev 69%">&#x75A5;&#x86E4;&#x87C6; <pr>ji&egrave;h&aacute;ma</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

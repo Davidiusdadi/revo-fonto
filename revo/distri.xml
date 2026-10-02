@@ -324,6 +324,13 @@
     <trd>&c_r;&c_o;&c_z;&c_p;&c_o;&c_d;&c_ib;&c_l;</trd>,
     <trd>&c_r;&c_o;&c_z;&c_p;&c_o;&c_v;&c_s;&c_ju;&c_d;&c_zh;&c_je;&c_n;&c_n;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr ru; taksis Jev 83%">&#x5206;&#x914D; <pr>f&#x0113;np&egrave;i</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 85%">&#x5206;&#x767C; <pr>f&#x0113;nf&#x0101;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 85%">&#x5206;&#x53D1; <pr>f&#x0113;nf&#x0101;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 88%">&#x5206;&#x4F48; <pr>f&#x0113;nb&ugrave;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 88%">&#x5206;&#x5E03; <pr>f&#x0113;nb&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="distri.0ajxo">
@@ -346,6 +353,10 @@
     <trd lng="pl">dystrybucja</trd>
     <trd lng="pt">distribui&ccedil;&atilde;o</trd>
     <trd lng="ru">&c_d;&c_i;&c_s;&c_t;&c_r;&c_i;&c_b;&c_u;&c_t;&c_i;&c_v;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x767C;&#x884C;&#x7248; <pr>f&#x0101;x&iacute;ngb&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x53D1;&#x884C;&#x7248; <pr>f&#x0101;x&iacute;ngb&#x01CE;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">distribuci&oacute; <klr tip="amb">(inform.)</klr></trd>
   <trd lng="id">distribusi</trd>

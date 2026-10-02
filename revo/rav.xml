@@ -167,6 +167,7 @@
     <trd>&c_z;&c_a;&c_ch;&c_a;&c_r;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_r;&c_i;&c_v;&c_o;&c_d;&c_i;&c_t;&c_i; &c_v; &c_z;&c_a;&c_h;&c_v;&c_a;&c_t;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 39%">&#x4F7F;&#x76EE;&#x7729;</trd>
 </drv>
 
 <drv mrk="rav.0a">
@@ -207,6 +208,7 @@
       <trd>bezaubernd</trd>
     </trdgrp>
     <trd lng="en">delightful</trd>
+    <trd lng="zh" fnt="Vikt: en; taksis Jev 51%">&#x5AF5;&#x5A9A; <pr>w&#x01D4;m&egrave;i</pr></trd>
   </snc>
   <snc mrk="rav.0a.ravita">
     <dif>
@@ -246,6 +248,12 @@
   <trd><baz>pikat</baz>memikat</trd>,
   <trd><baz>tarik</baz>menarik hati</trd>,
   <trd><baz>pesona</baz>memesonakan</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: ru; taksis Jev 80%">&#x4EE4;&#x4EBA;&#x7740;&#x8FF7; <pr>l&igrave;ngr&eacute;nzh&aacute;om&iacute;</pr></trd>,
+  <trd fnt="Vikt: ru; taksis Jev 80%">&#x4EE4;&#x4EBA;&#x8457;&#x8FF7; <pr>l&igrave;ngr&eacute;nzh&aacute;om&iacute;</pr></trd>,
+  <trd fnt="Vikt: ru; taksis Jev 78%">&#x4EE4;&#x4EBA;&#x8457;&#x8FF7; <pr>l&igrave;ngr&eacute;nzh&aacute;om&iacute;</pr></trd>,
+  <trd fnt="Vikt: ru; taksis Jev 78%">&#x4EE4;&#x4EBA;&#x7740;&#x8FF7; <pr>l&igrave;ngr&eacute;nzh&aacute;om&iacute;</pr></trd>
 </trdgrp>
 </drv>
 

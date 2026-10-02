@@ -50,6 +50,13 @@
   <trd lng="ru">&c_b;&c_o;&c_r;&c_shch;</trd>
   <trd lng="sk">bor&scaron;&ccaron;</trd>
   <trd lng="uk">&c_b;&c_o;&c_r;&c_shch;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ko pt; taksis Jev 83%">&#x7F85;&#x5B8B;&#x6E6F; <pr>lu&oacute;s&ograve;ngt&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: zh en ko pt; taksis Jev 83%">&#x7F57;&#x5B8B;&#x6C64; <pr>lu&oacute;s&ograve;ngt&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 13%">&#x83DC;&#x6C64; <pr>c&agrave;id&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 17%">&#x6E6F; <pr>d&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 17%">&#x6C64; <pr>d&agrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

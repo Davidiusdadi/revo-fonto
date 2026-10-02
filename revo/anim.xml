@@ -288,6 +288,13 @@
   <trd lng="th">&#3592;&#3636;&#3605;&#3651;&#3592;</trd>
   <trd lng="tok">kon</trd>
   <trd lng="uk">&c_d;&c_u;&c_sh;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh el en fr ja ko ku pl pt tr; taksis Jev 81%">&#x9748;&#x9B42; <pr>l&iacute;ngh&uacute;n</pr></trd>,
+    <trd fnt="Vikt: zh el en fr ja ko ku pl pt tr; taksis Jev 81%">&#x7075;&#x9B42; <pr>l&iacute;ngh&uacute;n</pr></trd>,
+    <trd fnt="Vikt: en ko ku; taksis Jev 62%">&#x9B42;&#x9B44; <pr>h&uacute;np&ograve;</pr></trd>,
+    <trd fnt="Vikt: en pt tr; taksis Jev 76%">&#x5FC3;&#x9748; <pr>x&#x012B;nl&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en pt tr; taksis Jev 76%">&#x5FC3;&#x7075; <pr>x&#x012B;nl&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anim.0i">
@@ -1281,6 +1288,13 @@
     <ind>&c_p;&c_r;&c_je;&c_d;&c_u;&c_b;&c_je;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_j;</ind></trd>,
     <trd>&c_n;&c_je;&c_p;&c_r;&c_je;&c_d;&c_v;&c_z;&c_ja;&c_t;&c_y;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 13%">&#x660E;&#x6717; <pr>m&iacute;ngl&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 47%">&#x865B;&#x5FC3; <pr>x&#x016B;x&#x012B;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 47%">&#x865A;&#x5FC3; <pr>x&#x016B;x&#x012B;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x8C41;&#x9054; <pr>hu&ograve;d&aacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x8C41;&#x8FBE; <pr>hu&ograve;d&aacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anim.largx0eco">
@@ -1582,6 +1596,7 @@
     <trd>&c_o;&c_d;&c_n;&c_o;&c_s;&c_t;&c_a;&c_j;&c_n;&c_o;</trd>,
     <trd>&c_o;&c_d;&c_n;&c_o;&c_g;&c_o;&c_l;&c_o;&c_s;&c_n;&c_o;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 95%">&#x4E00;&#x81F4;&#x5730;</trd>
 </drv>
 
 <drv mrk="anim.unu0eco">
@@ -1633,6 +1648,7 @@
   <trd lng="en">unanimity</trd>
   <trd lng="es">unanimidad</trd>
   <trd lng="fr">unanimit&eacute;</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 81%">&#x4E00;&#x81F4; <pr>y&#x012B;zh&igrave;</pr></trd>
 </drv>
 
 </art>

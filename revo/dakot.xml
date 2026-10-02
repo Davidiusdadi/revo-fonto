@@ -38,6 +38,12 @@
   <trd lng="es">Dakota del Norte</trd>
   <trd lng="fr">Dakota du Nord</trd>
   <trd lng="pl">Dakota P&oacute;&lstroke;nocna</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x5317;&#x9054;&#x79D1;&#x4ED6; <pr>B&ecaron;i-D&aacute;k&#x0113;t&#x0101;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x5317;&#x8FBE;&#x79D1;&#x4ED6; <pr>B&ecaron;i-D&aacute;k&#x0113;t&#x0101;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 95%">&#x5317;&#x9054;&#x79D1;&#x4ED6;&#x5DDE; <pr>B&ecaron;i-D&aacute;k&#x0113;t&#x0101;zh&#x014D;u</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 95%">&#x5317;&#x8FBE;&#x79D1;&#x4ED6;&#x5DDE; <pr>B&ecaron;i-D&aacute;k&#x0113;t&#x0101;zh&#x014D;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dakot.suda0o">
@@ -73,6 +79,12 @@
   <trd lng="es">Dakota del Sur</trd>
   <trd lng="fr">Dakota du Sud</trd>
   <trd lng="pl">Dakota Po&lstroke;udniowa</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x5357;&#x9054;&#x79D1;&#x4ED6;&#x5DDE; <pr>N&aacute;n-D&aacute;k&#x0113;t&#x0101;zh&#x014D;u</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x5357;&#x8FBE;&#x79D1;&#x4ED6;&#x5DDE; <pr>N&aacute;n-D&aacute;k&#x0113;t&#x0101;zh&#x014D;u</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x5357;&#x9054;&#x79D1;&#x4ED6; <pr>N&aacute;n-D&aacute;k&#x0113;t&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x5357;&#x8FBE;&#x79D1;&#x4ED6; <pr>N&aacute;n-D&aacute;k&#x0113;t&#x0101;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

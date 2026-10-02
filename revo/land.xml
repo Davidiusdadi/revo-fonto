@@ -458,6 +458,10 @@
     <trd>panovn&iacute;k</trd>,
     <trd>zemep&aacute;n</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 52%">&#x9818;&#x4E3B; <pr>l&#x01D0;ngzh&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 52%">&#x9886;&#x4E3B; <pr>l&#x01D0;ngzh&#x01D4;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="land.0ido">
@@ -1112,6 +1116,14 @@
 <trdgrp lng="id">
   <trd>negeri kelahiran</trd>,
   <trd>tanah air</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: en; taksis Jev 90%">&#x6545;&#x570B; <pr>g&ugrave;gu&oacute;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 90%">&#x6545;&#x56FD; <pr>g&ugrave;gu&oacute;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 91%">&#x6545;&#x9109; <pr>g&ugrave;xi&#x0101;ng</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 91%">&#x6545;&#x4E61; <pr>g&ugrave;xi&#x0101;ng</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 89%">&#x7956;&#x570B; <pr>z&#x01D4;gu&oacute;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 89%">&#x7956;&#x56FD; <pr>z&#x01D4;gu&oacute;</pr></trd>
 </trdgrp>
 </drv>
 

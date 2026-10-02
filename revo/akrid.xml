@@ -129,6 +129,12 @@
     <trd>saran&ccaron;a</trd>
   </trdgrp>
   <trd lng="uk">&c_s;&c_a;&c_r;&c_a;&#x43D;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku pt tr; taksis Jev 84%">&#x86B1;&#x8722; <pr>zh&agrave;m&ecaron;ng</pr></trd>,
+    <trd fnt="Vikt: zh en pt tr; taksis Jev 82%">&#x8757;&#x87F2; <pr>hu&aacute;ngch&oacute;ng</pr></trd>,
+    <trd fnt="Vikt: zh en pt tr; taksis Jev 82%">&#x8757;&#x866B; <pr>hu&aacute;ngch&oacute;ng</pr></trd>,
+    <trd fnt="Vikt: en ku nl; taksis Jev 82%">&#x879E;&#x86B1; <pr>m&agrave;zha</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

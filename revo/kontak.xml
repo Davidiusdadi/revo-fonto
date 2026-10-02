@@ -601,6 +601,10 @@
       <klr>&c_i; &c_t;.&c_p;.</klr></trd>
     </trdgrp>
     <trd lng="sk">obj&iacute;mka <klr>(el. tech)</klr></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en ru; taksis Jev 74%">&#x63D2;&#x5EA7; <pr>ch&#x0101;zu&ograve;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 75%">&#x63D2;&#x5B54; <pr>ch&#x0101;k&#x01D2;ng</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="kontak.0ingo.sxtopilingo">
     <uzo tip="stl">EVI</uzo>

@@ -574,6 +574,11 @@
   </trdgrp>
   <trd lng="sgn"
   kod="M552x562S14a58482x547S14a50505x547S20500496x537S1ef20523x529S2ff00482x483S36d00479x527S22104521x520">e@34,F@10*</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 82%">&#x5747;&#x7B49; <pr>j&#x016B;nd&ecaron;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 94%">&#x5E73;&#x7B49; <pr>p&iacute;ngd&ecaron;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 56%">&#x516C;&#x5E73; <pr>g&#x014D;ngp&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="egal.mal0a">
@@ -718,6 +723,7 @@
     <trd><baz>timpang</baz>ketimpangan</trd>
   </trdgrp>
   <trd lng="ja">&#x4E0D;&#x5E73;&#x7B49;  <pr>&#12405;&#12403;&#12423;&#12358;&#12393;&#12358;</pr></trd>
+  <trd lng="zh" fnt="Vikt: en ku; taksis Jev 93%">&#x4E0D;&#x5E73;&#x7B49; <pr>b&ugrave;p&iacute;ngd&ecaron;ng</pr></trd>
 </drv>
 
 <drv mrk="egal.ne0ajxo">

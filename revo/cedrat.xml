@@ -61,6 +61,12 @@
     <trd>s&ouml;tcitron</trd>
   </trdgrp>
   <trd lng="uk">&c_c;&c_je;&c_d;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el ja ko nl; taksis Jev 38%">&#x6AB8;&#x6AAC; <pr>n&iacute;ngm&eacute;ng</pr></trd>,
+    <trd fnt="Vikt: el ja ko nl; taksis Jev 38%">&#x67E0;&#x6AAC; <pr>n&iacute;ngm&eacute;ng</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 84%">&#x67B8;&#x6A7C; <pr>j&#x01D4;yu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x67B8;&#x6ADE; <pr>j&#x01D4;yu&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cedrat.0ujo">
@@ -116,6 +122,10 @@
   <trd lng="pt">cidreira</trd>
   <trd lng="sk">cedr&aacute;t</trd>
   <trd lng="sv">cedrattr&auml;d</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 38%">&#x4F5B;&#x624B; <pr>f&oacute;sh&#x01D2;u</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 61%">&#x4F5B;&#x624B;&#x67D1; <pr>f&oacute;sh&#x01D2;ug&#x0101;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

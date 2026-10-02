@@ -117,6 +117,10 @@
     <trd>&c_a;&c_f;&c_ib;&#x43A;&c_s;</trd>,
     <trd>&c_s;&#x43B;&#x43E;&c_v;&#x43E;&c_t;&c_v;&#x43E;&c_r;&c_ch;&c_a; &c_ch;&c_a;&c_s;&c_t;&#x43A;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x8A5E;&#x7DB4; <pr>c&iacute;zhu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x8BCD;&#x7F00; <pr>c&iacute;zhu&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="afiks.antaux0o">
@@ -218,6 +222,11 @@
     <trd>cyrkumfiks</trd>
   </trdgrp>
   <trd lng="ro">circumfix</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x74B0;&#x7DB4; <pr>hu&aacute;nzhu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x73AF;&#x7DB4; <pr>hu&aacute;nzhu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x73AF;&#x7F00; <pr>hu&aacute;nzhu&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="afiks.en0o">
@@ -254,6 +263,10 @@
     <trd>wrostek</trd>
   </trdgrp>
   <trd lng="ro">&icirc;nfix</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku; taksis Jev 95%">&#x4E2D;&#x7DB4; <pr>zh&#x014D;ngzhu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x4E2D;&#x7F00; <pr>zh&#x014D;ngzhu&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="afiks.post0o">

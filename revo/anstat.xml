@@ -441,6 +441,10 @@ remplacer)</klr></trd>,
     <trd lng="ru">
     &c_z;&c_a;&c_m;&c_je;&c_n;&c_ja;&c_ju;&c_shch;&c_i;&c_j;</trd>
     <trd lng="sk">n&aacute;hradn&yacute;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 16%">&#x9078;&#x9805; <pr>xu&#x01CE;nxi&agrave;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 16%">&#x9009;&#x9879; <pr>xu&#x01CE;nxi&agrave;ng</pr></trd>
+    </trdgrp>
 </drv>
 
 <drv mrk="anstat.0e">
@@ -492,6 +496,10 @@ remplacer)</klr></trd>,
     </trdgrp>
     <trd lng="ru">&c_v;&c_z;&c_a;&c_m;&c_je;&c_n;</trd>
     <trd lng="sk">namiesto</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 71%">&#x4EE3;&#x66FF; <pr>d&agrave;it&igrave;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 27%">&#x62B5;&#x4F5C;</trd>
+    </trdgrp>
 </drv>
 
 <drv mrk="anstat.0ajxo">
@@ -551,6 +559,7 @@ remplacer)</klr></trd>,
     <trd lng="pt">substituto</trd>
     <trd lng="ru">
     &c_z;&c_a;&c_m;&c_je;&c_n;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+    <trd lng="zh" fnt="Vikt: zh; taksis Jev 93%">&#x66FF;&#x4EE3;&#x54C1; <pr>t&igrave;d&agrave;ip&#x01D0;n</pr></trd>
 </drv>
 
 <drv mrk="anstat.0anto">
@@ -948,6 +957,7 @@ remplacer)</klr></trd>,
     <trd lng="pt">substituto</trd>
     <trd lng="ru">
     &c_z;&c_a;&c_m;&c_je;&c_s;&c_t;&c_i;&c_t;&c_je;&c_l;&c_mol;</trd>
+    <trd lng="zh" fnt="Vikt: en; taksis Jev 82%">&#x4EE3;&#x7406; <pr>d&agrave;il&#x01D0;</pr></trd>
   </drv>
 </subart>
 </art>

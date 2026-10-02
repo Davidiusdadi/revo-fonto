@@ -306,6 +306,11 @@
   <trd><baz>cara</baz>secara mendadak</trd>,
   <trd><baz>cara</baz>secara terbata-bata</trd>
 </trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: en; taksis Jev 74%">&#x5510;&#x7A81;&#x5730;</trd>,
+  <trd fnt="Vikt: en; taksis Jev 79%">&#x610F;&#x5916;&#x5730;</trd>,
+  <trd fnt="Vikt: ko; taksis Jev 92%">&#x7A81;&#x7136; <pr>t&#x016B;r&aacute;n</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="abrupt.0i">
@@ -434,6 +439,12 @@
 <trdgrp lng="id">
   <trd><baz>tahap</baz>bertahap</trd>,
   <trd>sedikit demi sedikit</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: en; taksis Jev 91%">&#x5E73;&#x7DE9;&#x7684;</trd>,
+  <trd fnt="Vikt: en; taksis Jev 91%">&#x5E73;&#x7F13;&#x7684;</trd>,
+  <trd fnt="Vikt: en; taksis Jev 90%">&#x9010;&#x6F38;&#x7684;</trd>,
+  <trd fnt="Vikt: en; taksis Jev 90%">&#x9010;&#x6E10;&#x7684;</trd>
 </trdgrp>
 </drv>
 </art>

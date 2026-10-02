@@ -102,6 +102,11 @@
     <trd lng="pl">przedrostek okre&sacute;laj&aogonek;cy przeciwie&nacute;stwo</trd>
     <trd lng="pt">prefixo formador de <ind>ant&ocirc;nimos</ind></trd>
     <trd lng="ro">prefix opus</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en pl; taksis Jev 54%">&#x4E0D;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 29%">&#x7121;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 29%">&#x65E0;</trd>
+    </trdgrp>
 </drv>
 </subart>
 
@@ -426,6 +431,10 @@ Samsignifa memstara vortero.
   <trd>kontras</trd>,
   <trd><baz>selisih</baz>perselisihan</trd>,
   <trd><baz>beda</baz>perbedaan pendapat</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: ru; taksis Jev 85%">&#x5BF9;&#x7ACB;&#x6027; <pr>du&igrave;l&igrave;x&igrave;ng</pr></trd>,
+  <trd fnt="Vikt: ru; taksis Jev 88%">&#x76F8;&#x53CD;&#x6027; <pr>xi&#x0101;ngf&#x01CE;nx&igrave;ng</pr></trd>
 </trdgrp>
 </drv>
 

@@ -61,6 +61,12 @@
   <trd lng="sk">anan&aacute;s</trd>
   <trd lng="sv">ananas</trd>
   <trd lng="uk">&c_a;&#x43D;&c_a;&#x43D;&c_a;&c_s;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en es fr ja tr; taksis Jev 96%">&#x83E0;&#x841D; <pr>b&#x014D;lu&oacute;</pr></trd>,
+    <trd fnt="Vikt: zh el en fr ja tr; taksis Jev 96%">&#x9CF3;&#x68A8; <pr>f&egrave;ngl&iacute;</pr></trd>,
+    <trd fnt="Vikt: zh el en fr ja tr; taksis Jev 96%">&#x51E4;&#x68A8; <pr>f&egrave;ngl&iacute;</pr></trd>,
+    <trd fnt="Vikt: en ja tr; taksis Jev 96%">&#x83E0;&#x863F; <pr>b&#x014D;lu&oacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ananas.0ujo">
@@ -99,6 +105,12 @@
   <trd lng="ru">&c_a;&c_n;&c_a;&c_n;&c_a;&c_s; <klr tip="amb">(&c_r;&c_a;&c_s;&c_t;&c_je;&c_n;&c_i;&c_je;)</klr></trd>
   <trd lng="sk">anan&aacute;s</trd>
   <trd lng="uk">&c_a;&#x43D;&c_a;&#x43D;&c_a;&c_s;&#xA0;(&c_r;&#x43E;&c_s;&#x43B;&c_i;&#x43D;&c_a;)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ja; taksis Jev 80%">&#x9CF3;&#x68A8; <pr>f&egrave;ngl&iacute;</pr></trd>,
+    <trd fnt="Vikt: zh en ja; taksis Jev 80%">&#x51E4;&#x68A8; <pr>f&egrave;ngl&iacute;</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 73%">&#x83E0;&#x841D; <pr>b&#x014D;lu&oacute;</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 70%">&#x83E0;&#x863F; <pr>b&#x014D;lu&oacute;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

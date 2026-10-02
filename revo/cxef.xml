@@ -774,6 +774,11 @@ malakceptis.
   <trd lng="xh">enkulu</trd>
   <trd lng="yi">&he;&vav;&yod;&pe;&#x5BC;&tet;</trd>
   <trd lng="yo">pataki</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja ru; taksis Jev 66%">&#x91CD;&#x8981; <pr>zh&ograve;ngy&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en ja ru; taksis Jev 84%">&#x9996;&#x8981; <pr>sh&#x01D2;uy&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x4E3B;&#x8981; <pr>zh&#x01D4;y&agrave;o</pr></trd>
+  </trdgrp>
   <trd lng="zu">ezinkulu</trd>
 </drv>
 
@@ -836,6 +841,11 @@ malakceptis.
     &c_v;&c_s;&c_je;&c_g;&c_o;</trd>
   </trdgrp>
   <trd lng="sk">najm&auml;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x4E3B;&#x8981;&#x5730; <pr>zh&#x01D4;y&agrave;ode</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 34%">&#x6700;&#x91CD;&#x8981;&#x7684;</trd>,
+    <trd fnt="Vikt: pt; taksis Jev 62%">&#x9996;&#x5148; <pr>sh&#x01D2;uxi&#x0101;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cxef.0i">
@@ -1017,6 +1027,11 @@ malakceptis.
     <trd>&c_n;&c_a;&c_ch;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_g;&c_l;&c_a;&c_v;&c_a;</trd>,
     <trd>&c_v;&c_o;&c_zh;&c_d;&c_mol;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 78%">&#x4E3B;&#x7BA1; <pr>zh&#x01D4;gu&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x8001;&#x95C6; <pr>l&#x01CE;ob&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x8001;&#x677F; <pr>l&#x01CE;ob&#x01CE;n</pr></trd>
   </trdgrp>
 </drv>
 

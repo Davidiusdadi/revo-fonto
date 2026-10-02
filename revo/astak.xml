@@ -55,6 +55,11 @@
   <trd lng="ru">&c_r;&c_je;&c_ch;&c_n;&c_o;&c_j; <ind>&c_r;&c_a;&c_k;</ind> <klr tip="amb">(&c_r;&c_o;&c_d;)</klr></trd>
   <trd lng="sk">rak <klr>(rie&ccaron;ny)</klr></trd>
   <trd lng="uk">&#x440;&#x430;&#x43A;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ru; taksis Jev 82%">&#x5C0F;&#x9F8D;&#x8766; <pr>xi&#x01CE;ol&oacute;ngxi&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 82%">&#x5C0F;&#x9F99;&#x867E; <pr>xi&#x01CE;ol&oacute;ngxi&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x8772;&#x86C4; <pr>l&agrave;g&#x016B;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

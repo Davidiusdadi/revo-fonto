@@ -219,6 +219,11 @@
   <trd lng="xh">iatom</trd>
   <trd lng="yi">&alef;&#1463;&tet;&alef;&#1464;&fmem;</trd>
   <trd lng="yo">atomu</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh de en es fr pl pt ru; taksis Jev 96%">&#x539F;&#x5B50; <pr>yu&aacute;nz&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: tr; taksis Jev 36%">&#x812D;&#x9885;&#x8133;&#x812B;</trd>,
+    <trd fnt="Vikt: tr; taksis Jev 36%">&#x812D;&#x9885;&#x8133;&#x8131;</trd>
+  </trdgrp>
   <trd lng="zu">athomu</trd>
 </drv>
 
@@ -293,6 +298,10 @@
   <trd lng="pl">atomizm</trd>
   <trd lng="ru">&c_a;&c_t;&c_o;&c_m;&c_i;&c_z;&c_m;</trd>
   <trd lng="sk">atomizmus</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pt; taksis Jev 95%">&#x539F;&#x5B50;&#x8AD6; <pr>yu&aacute;nz&#x01D0;l&ugrave;n</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 95%">&#x539F;&#x5B50;&#x8BBA; <pr>yu&aacute;nz&#x01D0;l&ugrave;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

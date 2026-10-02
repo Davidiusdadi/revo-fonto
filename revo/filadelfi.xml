@@ -51,6 +51,12 @@
     <trd lng="nl">Philadelphia</trd>
     <trd lng="pl">Filadelfia</trd>
     <trd lng="ro">Philadelphia</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en fr; taksis Jev 93%">&#x8CBB;&#x57CE; <pr>F&egrave;ich&eacute;ng</pr></trd>,
+      <trd fnt="Vikt: zh en fr; taksis Jev 93%">&#x8D39;&#x57CE; <pr>F&egrave;ich&eacute;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 95%">&#x8CBB;&#x62C9;&#x5FB7;&#x723E;&#x83F2;&#x4E9E;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 95%">&#x8D39;&#x62C9;&#x5FB7;&#x5C14;&#x83F2;&#x4E9A;</trd>
+    </trdgrp>
   </snc>
   <trd lng="ja">&#x30D5;&#x30A3;&#x30E9;&#x30C7;&#x30EB;&#x30D5;&#x30A3;&#x30A2;</trd>
   <trd lng="uk">&c_F;&c_ib;&#x43B;&c_a;&c_d;&c_je;&#x43B;&#x44C;&c_f;&c_ib;&#x44F; (&c_sh;&c_t;&c_a;&c_t;)</trd>

@@ -175,6 +175,7 @@
       <trd>samiec</trd>
     </trdgrp>
     <trd lng="tok">mije</trd>
+    <trd lng="zh" fnt="Vikt: en; taksis Jev 55%">&#x96C4; <pr>xi&oacute;ng</pr></trd>
   </drv>
 
   <drv mrk="icx.0a">
@@ -216,6 +217,11 @@
     <trd lng="pl">m&eogonek;ski</trd>
     <trd lng="tok">mije</trd>
     <trd lng="vo">manik</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 73%">&#x516C; <pr>g&#x014D;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 71%">&#x7537; <pr>n&aacute;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 74%">&#x96C4; <pr>xi&oacute;ng</pr></trd>
+    </trdgrp>
   </drv>
 </subart>
 </art>

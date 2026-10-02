@@ -253,6 +253,11 @@
     <trd>&c_v;&c_i;&c_t;&c_ib;&c_v;&c_k;&c_i;</trd>,
     <trd>&c_p;&c_u;&c_s;&c_t;&c_o;&c_shch;&c_ib;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja; taksis Jev 87%">&#x60E1;&#x4F5C;&#x5287; <pr>&egrave;zu&ograve;j&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 87%">&#x60E1;&#x4F5C;&#x5267; <pr>&egrave;zu&ograve;j&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x6076;&#x4F5C;&#x5267; <pr>&egrave;zu&ograve;j&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="petol.0ema">
@@ -444,6 +449,12 @@
     <trd>&c_p;&c_u;&c_s;&c_t;&c_u;&c_n;</trd>,
     <trd>&c_sh;&c_t;&c_u;&c_k;&c_a;&c_r;</trd>,
     <trd>&c_sh;&c_i;&c_b;&c_je;&c_n;&c_i;&c_k;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x8ABF;&#x76AE;&#x9B3C; <pr>di&agrave;op&iacute;gu&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x8C03;&#x76AE;&#x9B3C; <pr>di&agrave;op&iacute;gu&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 24%">&#x9B27;&#x4E8B;&#x8005; <pr>n&agrave;osh&igrave;zh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 24%">&#x95F9;&#x4E8B;&#x8005; <pr>n&agrave;osh&igrave;zh&ecaron;</pr></trd>
   </trdgrp>
 </drv>
 </art>

@@ -53,6 +53,13 @@
     <trd lng="fr">&Eacute;pire</trd>
     <trd lng="pl">Epir</trd>
     <trd lng="ru">&c_E;&c_p;&c_i;&c_r;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en; taksis Jev 94%">&#x4F0A;&#x5E87;&#x9B6F;&#x65AF; <pr>Y&#x012B;b&igrave;l&#x01D4;s&#x012B;</pr></trd>,
+      <trd fnt="Vikt: zh en; taksis Jev 94%">&#x4F0A;&#x5E87;&#x9C81;&#x65AF; <pr>Y&#x012B;b&igrave;l&#x01D4;s&#x012B;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 87%">&#x4F0A;&#x5E87;&#x9B6F;&#x65AF;&#x5927;&#x5340; <pr>Y&#x012B;b&igrave;l&#x01D4;s&#x012B;d&agrave;q&#x016B;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 87%">&#x4F0A;&#x5E87;&#x9C81;&#x65AF;&#x5927;&#x533A; <pr>Y&#x012B;b&igrave;l&#x01D4;s&#x012B;d&agrave;q&#x016B;</pr></trd>,
+      <trd fnt="Vikt: el; taksis Jev 93%">&#x4F0A;&#x76AE;&#x9C81;&#x65AF; <pr>y&#x012B;p&iacute;l&#x016B;s&#x012B;</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_E;&c_p;&c_ib;&c_r;</trd>
 </drv>

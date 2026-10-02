@@ -65,6 +65,10 @@
   <trd lng="tok">jan Pesije</trd>
   <trd lng="uk">&c_b;&c_je;&c_l;&c_mol;&c_g;&c_ib;&c_jeu;&c_c;&c_mol;</trd>
   <trd lng="vo">Belg&auml;nan</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh el en ku; taksis Jev 96%">&#x6BD4;&#x5229;&#x6642;&#x4EBA; <pr>b&#x01D0;l&igrave;sh&iacute;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: zh el en ku; taksis Jev 96%">&#x6BD4;&#x5229;&#x65F6;&#x4EBA; <pr>b&#x01D0;l&igrave;sh&iacute;r&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="belg.0a">
@@ -124,6 +128,13 @@
   <trd lng="sk">Belgick&yacute;</trd>
   <trd lng="uk">&c_b;&c_je;&c_l;&c_mol;&c_g;&c_ib;&c_j;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>
   <trd lng="vo">Belg&auml;nik</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pl; taksis Jev 45%">&#x6BD4;&#x5229;&#x6642; <pr>B&#x01D0;l&igrave;sh&iacute;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 45%">&#x6BD4;&#x5229;&#x65F6; <pr>B&#x01D0;l&igrave;sh&iacute;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 22%">&#x6BD4;&#x5229;&#x6642;&#x4EBA; <pr>b&#x01D0;l&igrave;sh&iacute;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 22%">&#x6BD4;&#x5229;&#x65F6;&#x4EBA; <pr>b&#x01D0;l&igrave;sh&iacute;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 94%">&#x6BD4;&#x5229;&#x65F6;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="belg.B0ujo">
@@ -211,6 +222,10 @@
   <trd lng="tok">ma Pesije</trd>
   <trd lng="tr">Bel&ccedil;ika</trd>
   <trd lng="vo">Belg&auml;n</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en es fr it ja ku nl pl ru; taksis Jev 96%">&#x6BD4;&#x5229;&#x6642; <pr>B&#x01D0;l&igrave;sh&iacute;</pr></trd>,
+    <trd fnt="Vikt: zh en es fr it ja ku nl pl ru; taksis Jev 96%">&#x6BD4;&#x5229;&#x65F6; <pr>B&#x01D0;l&igrave;sh&iacute;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

@@ -245,6 +245,14 @@
   <trd lng="xh">bobabini</trd>
   <trd lng="yi">&bet;&yod;&yod;&dalet;&ayin;</trd>
   <trd lng="yo">mejeeji</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku pl; taksis Jev 75%">&#x5169;</trd>,
+    <trd fnt="Vikt: en ku pl; taksis Jev 75%">&#x4E24;</trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 80%">&#x5006;</trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 80%">&#x4FE9;</trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 86%">&#x96D9;&#x65B9; <pr>shu&#x0101;ngf&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 86%">&#x53CC;&#x65B9; <pr>shu&#x0101;ngf&#x0101;ng</pr></trd>
+  </trdgrp>
   <trd lng="zu">kokubili</trd>
 </drv>
 </subart>

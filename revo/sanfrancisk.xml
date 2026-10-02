@@ -49,6 +49,13 @@
     <trd lng="en">San Francisco </trd>
     <trd lng="fr">San Francisco </trd>
     <trd lng="pl">San Francisco</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 91%">&#x4E09;&#x85E9;&#x5E02; <pr>S&#x0101;nf&#x0101;nsh&igrave;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 91%">&#x8056;&#x5F17;&#x6717;&#x897F;&#x65AF;&#x79D1; <pr>Sh&egrave;ng F&uacute;l&#x01CE;ngx&#x012B;s&#x012B;k&#x0113;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 91%">&#x5723;&#x5F17;&#x6717;&#x897F;&#x65AF;&#x79D1; <pr>Sh&egrave;ng F&uacute;l&#x01CE;ngx&#x012B;s&#x012B;k&#x0113;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x820A;&#x91D1;&#x5C71; <pr>ji&ugrave;j&#x012B;nsh&#x0101;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x65E7;&#x91D1;&#x5C71; <pr>ji&ugrave;j&#x012B;nsh&#x0101;n</pr></trd>
+    </trdgrp>
   </snc>
      <trd lng="be">&c_S;&c_a;&c_n;-&c_F;&c_r;&c_a;&c_n;&c_c;&c_y;&c_s;&c_k;&c_a;</trd>
 </drv>

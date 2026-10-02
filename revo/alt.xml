@@ -1182,6 +1182,12 @@
     <trd>&c_p;&c_ib;&c_d;&c_v;&c_i;&c_shch;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
     <trd>&c_p;&c_ib;&c_d;&c_n;&c_ib;&c_m;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 91%">&#x4E0A;&#x6607; <pr>sh&agrave;ngsh&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 91%">&#x4E0A;&#x5347; <pr>sh&agrave;ngsh&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 78%">&#x8D77;&#x4F86; <pr>q&#x01D0;l&aacute;i</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 78%">&#x8D77;&#x6765; <pr>q&#x01D0;l&aacute;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="alt.mal0a">
@@ -1657,6 +1663,13 @@
     <trd>obni&zdot;y&cacute; si&eogonek;</trd>,
     <trd>spuszcza&cacute; si&eogonek;</trd>,
     <trd>zni&zdot;a&cacute; si&eogonek;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku; taksis Jev 31%">&#x6E1B;&#x5C11; <pr>ji&#x01CE;nsh&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: zh en ku; taksis Jev 31%">&#x51CF;&#x5C11; <pr>ji&#x01CE;nsh&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 92%">&#x4E0B;&#x964D; <pr>xi&agrave;ji&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 33%">&#x51CF;&#x5C11; <pr>ji&#x01CE;nsh&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 33%">&#x6E1B;&#x5C11; <pr>ji&#x01CE;nsh&#x01CE;o</pr></trd>
   </trdgrp>
 </drv>
 </art>

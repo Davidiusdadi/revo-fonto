@@ -308,6 +308,7 @@
     <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
     <trd>&c_o;&c_p;&c_ib;&c_k;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: zh; taksis Jev 52%">&#x8D0A;&#x52A9; <pr>z&agrave;nzh&ugrave;</pr></trd>
 </drv>
 
 <drv mrk="patron.0ado">
@@ -518,6 +519,12 @@
   <trdgrp lng="uk">
     <trd>&c_z;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_i;&c_c;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_o;&c_p;&c_ib;&c_k;&c_u;&c_n;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 74%">&#x5E87;&#x8B77; <pr>b&igrave;h&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 74%">&#x5E87;&#x62A4; <pr>b&igrave;h&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 45%">&#x8D0A;&#x52A9; <pr>z&agrave;nzh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 43%">&#x8D5E;&#x52A9; <pr>z&agrave;nzh&ugrave;</pr></trd>
   </trdgrp>
 </drv>
 </art>

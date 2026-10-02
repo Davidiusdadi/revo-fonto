@@ -228,6 +228,12 @@
   <trd lng="xh">ingozi</trd>
   <trd lng="yi">&gimel;&ayin;&pe;&alef;&#x5B7;&resh;</trd>
   <trd lng="yo">ijamba</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr ku pt; taksis Jev 96%">&#x5371;&#x96AA; <pr>w&#x0113;ixi&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en fr ku pt; taksis Jev 96%">&#x5371;&#x9669; <pr>w&#x0113;ixi&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x98A8;&#x96AA; <pr>f&#x0113;ngxi&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x98CE;&#x9669; <pr>f&#x0113;ngxi&#x01CE;n</pr></trd>
+  </trdgrp>
   <trd lng="zu">ingozi</trd>
 </drv>
 
@@ -706,6 +712,11 @@
     <trd>&c_b;&c_je;&c_z;&c_p;&c_je;&c_ch;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_n;&c_je;&c_sh;&c_k;&c_ib;&c_d;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x7121;&#x5BB3; <pr>w&uacute;h&agrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x65E0;&#x5BB3; <pr>w&uacute;h&agrave;i</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 91%">&#x5B89;&#x5168; <pr>&#x0101;nqu&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dangxe.sen0igi">
@@ -812,6 +823,10 @@
     <trd>nieszkodliwo&sacute;&cacute;</trd>
   </trdgrp>
   <trd lng="uk">&c_b;&c_je;&c_z;&c_p;&c_je;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pl; taksis Jev 88%">&#x5B89;&#x5168; <pr>&#x0101;nqu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 79%">&#x5E73;&#x5B89; <pr>p&iacute;ng'&#x0101;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="dangxe.okazo_de_0o">

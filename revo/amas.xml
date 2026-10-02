@@ -517,6 +517,12 @@
     <trd>skupia&cacute; si&eogonek;</trd>,
     <trd>g&eogonek;stnie&cacute;<klr> (o t&lstroke;umie)</klr></trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x805A;&#x96C6; <pr>j&ugrave;j&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 66%">&#x96C6;&#x5408; <pr>j&iacute;h&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 58%">&#x7A4D;&#x7D2F; <pr>j&#x012B;l&ecaron;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 58%">&#x79EF;&#x7D2F; <pr>j&#x012B;l&ecaron;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="amas.0igxo">
@@ -587,6 +593,7 @@
     <trd>&c_s;&c_k;&c_u;&c_p;&c_ch;&c_je;&c_n;&c_n;&c_ja; (&c_n;&c_a;&c_r;&c_o;&c_d;&c_u;)</trd>,
     <trd>&c_ju;&c_r;&c_b;&c_a;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: pl; taksis Jev 12%">&#x4F1A;</trd>
 </drv>
 
 <drv mrk="amas.hom0o">
@@ -933,6 +940,14 @@
   <trd lng="ja">&#x30DE;&#x30B9;&#x30B3;&#x30DF;  <pr>&#x307E;&#12377;&#12371;&#x307F;</pr></trd>
   <trd lng="pl">informacja  <ind>masowa</ind></trd>
   <trd lng="th">&#xE2A;&#xE37;&#xE48;&#xE2D;&#xE21;&#xE27;&#xE25;&#xE0A;&#xE19;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ru; taksis Jev 78%">&#x5927;&#x773E;&#x5A92;&#x9AD4; <pr>d&agrave;zh&ograve;ng m&eacute;it&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 78%">&#x5927;&#x4F17;&#x5A92;&#x4F53; <pr>d&agrave;zh&ograve;ng m&eacute;it&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 75%">&#x50B3;&#x5A92; <pr>chu&aacute;nm&eacute;i</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 75%">&#x4F20;&#x5A92; <pr>chu&aacute;nm&eacute;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x50B3;&#x64AD;&#x5A92;&#x4ECB; <pr>chu&aacute;nb&#x014D; m&eacute;iji&egrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x4F20;&#x64AD;&#x5A92;&#x4ECB; <pr>chu&aacute;nb&#x014D; m&eacute;iji&egrave;</pr></trd>
+  </trdgrp>
  </drv>
 </art>
 <!--

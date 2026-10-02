@@ -375,6 +375,12 @@
   </trdgrp>
   <trd lng="de">Studium</trd>
   <trd lng="en">study <klr>(action)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en pl; taksis Jev 87%">&#x5B78;&#x7FD2; <pr>xu&eacute;x&iacute;</pr></trd>,
+    <trd fnt="Vikt: en pl; taksis Jev 87%">&#x5B66;&#x4E60; <pr>xu&eacute;x&iacute;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 73%">&#x7814;&#x7A76; <pr>y&aacute;nji&#x016B;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 7%">&#x5927;&#x5B66; <pr>t&agrave;ixu&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stud.0ajxo">
@@ -464,6 +470,10 @@
     <trd>&c_d;&c_a;&c_s;&c_mol;&c_l;&c_je;&c_d;&c_ch;&c_y;&c_k;</trd>
   </trdgrp>
   <trd lng="de">Studierender</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh ja ko; taksis Jev 95%">&#x5B78;&#x751F; <pr>xu&eacute;sh&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: zh ja ko; taksis Jev 95%">&#x5B66;&#x751F; <pr>xu&eacute;sh&#x0113;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stud.0ejo">
@@ -508,6 +518,12 @@
     <trd>&c_l;&c_ja;&c_b;&c_a;&c_r;&c_a;&c_t;&c_o;&c_r;&c_y;&c_ja;</trd>
   </trdgrp>
   <trd lng="de">Studierzimmer</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x66F8;&#x623F; <pr>sh&#x016B;f&aacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x4E66;&#x623F; <pr>sh&#x016B;f&aacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x66F8;&#x9F4B; <pr>sh&#x016B;zh&#x0101;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x4E66;&#x658B; <pr>sh&#x016B;zh&#x0101;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="stud.0inda">

@@ -1413,6 +1413,12 @@
       <trd fnt="Vikt: en de ja ko zh; juĝis claude-opus-5">future</trd>,
       <trd fnt="Vikt: de; juĝis claude-opus-5">futurity</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh de en ko ku; taksis Jev 92%">&#x672A;&#x4F86; <pr>w&egrave;il&aacute;i</pr></trd>,
+      <trd fnt="Vikt: zh de en ko ku; taksis Jev 92%">&#x672A;&#x6765; <pr>w&egrave;il&aacute;i</pr></trd>,
+      <trd fnt="Vikt: en ku; taksis Jev 88%">&#x5C07;&#x4F86; <pr>ji&#x0101;ngl&aacute;i</pr></trd>,
+      <trd fnt="Vikt: en ku; taksis Jev 88%">&#x5C06;&#x6765; <pr>ji&#x0101;ngl&aacute;i</pr></trd>
+    </trdgrp>
   </snc>
   <rim mrk="est.0onto.LR">
     En
@@ -1621,6 +1627,12 @@
     <trd>&c_p;&c_r;&c_i;&c_s;&c_u;&c_t;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_u;&c_ch;&c_a;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x51FA;&#x5E2D; <pr>ch&#x016B;x&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 24%">&#x5B58;&#x5728; <pr>c&uacute;nz&agrave;i</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 55%">&#x51FA;&#x73FE; <pr>ch&#x016B;xi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 55%">&#x51FA;&#x73B0; <pr>ch&#x016B;xi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="est.cxie0o">
@@ -1651,6 +1663,7 @@
   <trd lng="pl">wsz&eogonek;dobylstwo</trd>
   <trd lng="ro">ubicuitate</trd>
   <trd lng="tr">ayn&inodot; anda her yerde bulunma</trd>
+  <trd lng="zh" fnt="Vikt: fr; taksis Jev 66%">&#x666E;&#x904D;&#x6027; <pr>p&#x01D4;bi&agrave;nx&igrave;ng</pr></trd>
 </drv>
 
 <drv mrk="est.ek0i">

@@ -271,6 +271,7 @@
     <trd lng="fr"><ind>macreuse</ind> brune</trd>
     <trd lng="pl">uhla</trd>
     <trd lng="sv">sv&auml;rta</trd>
+    <trd lng="zh" fnt="Vikt: nl; taksis Jev 55%">&#x6591;&#x8138;&#x6D77;&#x756A;&#x9E2D;</trd>
   </snc>
   <trd lng="ca">&agrave;nec fosc eurasi&agrave;tic</trd>
 <trdgrp lng="id">
@@ -363,6 +364,7 @@
     <trd lng="fr"><ind>fuligule</ind> milouin</trd>
     <trd lng="pl">g&lstroke;owienka</trd>
     <trd lng="sv">brun<ind>and</ind></trd>
+    <trd lng="zh" fnt="Vikt: en; taksis Jev 57%">&#x7EA2;&#x5934;&#x6F5C;&#x9E2D;</trd>
   </snc>
   <trdgrp lng="ca">
     <trd>morell cap-roig</trd>,
@@ -531,6 +533,7 @@
   <trd lng="es">&aacute;nade friso</trd>
   <trd lng="id">itik bahu-merah</trd>
   <trd lng="sk">ka&ccaron;ica chrip&lcaron;avka</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 47%">&#x8D64;&#x8180;&#x9E2D;</trd>
 </drv>
 
 <drv mrk="anas.kuler0o">
@@ -679,6 +682,7 @@
     <trd lng="nl">zomertaling</trd>
     <trd lng="pl">cyranka</trd>
     <trd lng="sv">&aring;rta</trd>
+    <trd lng="zh" fnt="Vikt: en; taksis Jev 65%">&#x767D;&#x7709;&#x9E2D;</trd>
   </snc>
   <trdgrp lng="ca">
     <trd>xarrasclet</trd>,
@@ -792,6 +796,10 @@
   <trd lng="es">pato mandar&iacute;n</trd>
   <trd lng="id">itik mandarin</trd>
   <trd lng="sk">ka&ccaron;i&ccaron;ka mandar&iacute;nska</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en fr; taksis Jev 92%">&#x9D1B;&#x9D26; <pr>yu&#x0101;ny&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: zh en fr; taksis Jev 92%">&#x9E33;&#x9E2F; <pr>yu&#x0101;ny&#x0101;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anas.merg0o">
@@ -1107,6 +1115,11 @@
     <trd lng="pl"><klr>kaczka</klr> krzy&zdot;&oacute;wka</trd>
     <trd lng="ru">&c_k;&c_r;&c_ja;&c_k;&c_v;&c_a;</trd>
     <trd lng="sv">gr&auml;a<ind>and</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: fr; taksis Jev 37%">&#x51EB; <pr>f&uacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 72%">&#x7DA0;&#x982D;&#x9D28; <pr>l&#x01DC;t&oacute;uy&#x0101;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 72%">&#x7EFF;&#x5934;&#x9E2D; <pr>l&#x01DC;t&oacute;uy&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ca">&agrave;nec collverd</trd>
   <trdgrp lng="es">

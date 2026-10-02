@@ -175,6 +175,10 @@
   <trd lng="sk">lev</trd>
   <trd lng="sv">Lejonet</trd>
   <trd lng="tr">Aslan</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh el en fr it pt; taksis Jev 85%">&#x7345;&#x5B50;&#x5EA7; <pr>Sh&#x012B;zizu&ograve;</pr></trd>,
+    <trd fnt="Vikt: zh el en fr it pt; taksis Jev 85%">&#x72EE;&#x5B50;&#x5EA7; <pr>Sh&#x012B;zizu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 <drv mrk="leon.MalgrandaL0o">
   <kap>Malgranda <tld lit="L"/>o
@@ -256,6 +260,10 @@
   &c_z;&c_je;&c_v;</trd>
   <trd lng="sv">lejongap</trd>
   <trd lng="uk">&c_r;&c_o;&c_t;&c_i;&c_k;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 66%">&#x91D1;&#x9B5A;&#x8349; <pr>j&#x012B;ny&uacute;c&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 66%">&#x91D1;&#x9C7C;&#x8349; <pr>j&#x012B;ny&uacute;c&#x01CE;o</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

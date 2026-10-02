@@ -306,6 +306,11 @@
     <trd>&c_d;&c_z;&c_v;&c_je;&c_n;&c_ib;&c_t;&c_i; <klr>(&c_n;-&c_d;, &c_p;&c_r;&c_o;
     &c_sh;&c_i;&c_b;&c_i;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 9%">&#x62CD;&#x624B; <pr>p&#x0101;ish&#x01D2;u</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x9F13;&#x638C; <pr>g&#x01D4;zh&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 15%">&#x53D1;&#x53EE;&#x5F53;&#x58F0;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="klak.0">
@@ -428,6 +433,10 @@
     <trd>klik</trd>,
     <trd>klekot</trd>,
     <trd>stuk</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 51%">&#x9EDE;&#x64CA; <pr>di&#x01CE;nj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 51%">&#x70B9;&#x51FB; <pr>di&#x01CE;nj&#x012B;</pr></trd>
   </trdgrp>
 </drv>
 

@@ -249,6 +249,10 @@
   </trdgrp>
   <trd lng="de">Pr&auml;sident</trd>
 <trd lng="id">presiden</trd>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: pl; taksis Jev 94%">&#x7E3D;&#x7D71; <pr>z&#x01D2;ngt&#x01D2;ng</pr></trd>,
+  <trd fnt="Vikt: pl; taksis Jev 94%">&#x603B;&#x7EDF; <pr>z&#x01D2;ngt&#x01D2;ng</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="respub.0ismo">
@@ -275,6 +279,11 @@
   <trd lng="de">Republikanismus</trd>
 <trd lng="en" fnt="Vikt: en pl ru; juĝis claude-opus-5">republicanism</trd>
 <trd lng="id">republikanisme</trd>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: en ru; taksis Jev 95%">&#x5171;&#x548C;&#x4E3B;&#x7FA9; <pr>g&ograve;ngh&eacute; zh&#x01D4;y&igrave;</pr></trd>,
+  <trd fnt="Vikt: en ru; taksis Jev 95%">&#x5171;&#x548C;&#x4E3B;&#x4E49; <pr>g&ograve;ngh&eacute; zh&#x01D4;y&igrave;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 28%">&#x5171;&#x548C; <pr>g&ograve;ngh&eacute;</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="respub.0isto">
@@ -363,6 +372,13 @@
       <trd>Republika <ind>Dominika&nacute;ska</ind></trd>
     </trdgrp>
     <trd lng="pt">Rep&uacute;blica Dominicana</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en es ru; taksis Jev 96%">&#x591A;&#x7C73;&#x5C3C;&#x52A0;&#x5171;&#x548C;&#x570B; <pr>Du&#x014D;m&#x01D0;n&iacute;ji&#x0101; G&ograve;ngh&eacute;gu&oacute;</pr></trd>,
+      <trd fnt="Vikt: zh en es ru; taksis Jev 96%">&#x591A;&#x7C73;&#x5C3C;&#x52A0;&#x5171;&#x548C;&#x56FD; <pr>Du&#x014D;m&#x01D0;n&iacute;ji&#x0101; G&ograve;ngh&eacute;gu&oacute;</pr></trd>,
+      <trd fnt="Vikt: zh nl pt; taksis Jev 62%">&#x591A;&#x660E;&#x5C3C;&#x52A0; <pr>Du&#x014D;m&iacute;ngn&iacute;ji&#x0101;</pr></trd>,
+      <trd fnt="Vikt: zh en fr; taksis Jev 96%">&#x591A;&#x660E;&#x5C3C;&#x52A0;&#x5171;&#x548C;&#x570B; <pr>Du&#x014D;m&iacute;ngn&iacute;ji&#x0101; G&ograve;ngh&eacute;gu&oacute;</pr></trd>,
+      <trd fnt="Vikt: zh en fr; taksis Jev 96%">&#x591A;&#x660E;&#x5C3C;&#x52A0;&#x5171;&#x548C;&#x56FD; <pr>Du&#x014D;m&iacute;ngn&iacute;ji&#x0101; G&ograve;ngh&eacute;gu&oacute;</pr></trd>
+    </trdgrp>
 </drv>
 
    </art>

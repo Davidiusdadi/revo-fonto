@@ -288,6 +288,7 @@
   <trd lng="en"><ind>flock</ind> of birds</trd>
   <trd lng="es">bandada</trd>
   <trd lng="pl">ptactwo</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 81%">&#x7FA4; <pr>q&uacute;n</pr></trd>
 </drv>
 
 <drv mrk="bird.0ido">
@@ -338,6 +339,13 @@
     <trd>ptasz&aogonek;tko</trd>
   </trdgrp>
   <trd lng="ru">&c_p;&c_t;&c_je;&c_n;&c_je;&c_c;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x5C0F;&#x96DB;&#x5152; <pr>xi&#x01CE;och&uacute;r</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x5C0F;&#x96CF;&#x513F; <pr>xi&#x01CE;och&uacute;r</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 89%">&#x96CF;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x96DB;&#x9CE5; <pr>ch&uacute;ni&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x96CF;&#x9E1F; <pr>ch&uacute;ni&#x01CE;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bird.korto0o">

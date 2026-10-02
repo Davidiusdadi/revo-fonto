@@ -1351,6 +1351,10 @@
   <trd lng="sk">krstn&eacute; meno</trd>
   <trd lng="sv">f&ouml;rnamn</trd>
   <trd lng="uk">&c_h;&c_r;&c_je;&c_s;&c_n;&c_je; &c_ib;&c_m;&#8217;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ja; taksis Jev 89%">&#x6559;&#x540D; <pr>ji&agrave;om&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 38%">&#x540D;&#x5B57; <pr>m&iacute;ngzi</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nom.famili0o">
@@ -1794,6 +1798,13 @@
     <trd>reducerea numelui</trd>
   </trdgrp>
   <trd lng="sk">zdrobnenina <klr>(mena)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x5C0F;&#x540D; <pr>xi&#x01CE;om&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x611B;&#x7A31; <pr>&agrave;ich&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x7231;&#x79F0; <pr>&agrave;ich&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x6635;&#x7A31; <pr>n&igrave;ch&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x6635;&#x79F0; <pr>n&igrave;ch&#x0113;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="nom.kasx0o">
@@ -2195,6 +2206,11 @@
     <trd>&c_o;&c_d;&c_n;&c_o;&c_f;&c_a;&c_m;&c_ib;&c_l;&c_je;&c_c;&c_mol;</trd>,
     <trd>&c_o;&c_d;&c_n;&c_o;&c_f;&c_a;&c_m;&c_ib;&c_l;&c_mol;&c_n;&c_i;&c_k;</trd>,
     <trd>&c_t;&c_je;&c_z;&c_k;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 77%">&#x540C;&#x540D; <pr>t&oacute;ngm&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 93%">&#x540C;&#x540D;&#x4EBA; <pr>t&oacute;ngm&iacute;ngr&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x540C;&#x540D;&#x7684;&#x4EBA;</trd>
   </trdgrp>
 </drv>
 
@@ -2654,6 +2670,12 @@
   <trd lng="fr">nom propre</trd>
   <trd lng="pl">nazwa w&lstroke;asna</trd>
   <trd lng="ru">&c_i;&c_m;&c_ja; &c_s;&c_o;&c_b;&c_s;&c_t;&c_v;&c_je;&c_n;&c_n;&c_o;&c_je;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ja ko pt; taksis Jev 94%">&#x5C08;&#x6709;&#x540D;&#x8A5E; <pr>zhu&#x0101;ny&#x01D2;u m&iacute;ngc&iacute;</pr></trd>,
+    <trd fnt="Vikt: zh en ja ko pt; taksis Jev 94%">&#x4E13;&#x6709;&#x540D;&#x8A5E; <pr>zhu&#x0101;ny&#x01D2;u m&iacute;ngc&iacute;</pr></trd>,
+    <trd fnt="Vikt: en ja ko; taksis Jev 95%">&#x4E13;&#x6709;&#x540D;&#x8BCD; <pr>zhu&#x0101;ny&#x01D2;u m&iacute;ngc&iacute;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 94%">&#x56FA;&#x6709;&#x540D;&#x8A5E; <pr>g&ugrave;y&#x01D2;u m&iacute;ngc&iacute;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -647,6 +647,10 @@
   <trd lng="pl">figura geometryczna</trd>
   <trd lng="ru">&c_f;&c_i;&c_g;&c_u;&c_r;&c_a;</trd>
   <trd lng="sk">geometrick&yacute; &uacute;tvar</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 92%">&#x5E7E;&#x4F55;&#x5716;&#x5F62; <pr>j&#x01D0;h&eacute; t&uacute;x&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 92%">&#x51E0;&#x4F55;&#x56FE;&#x5F62; <pr>j&#x01D0;h&eacute; t&uacute;x&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="figur.mis0igi">
@@ -774,6 +778,7 @@
     <trd>re&ccaron;n&iacute;cka ozdoba</trd>,
     <trd>&scaron;tylistick&yacute; &uacute;tvar</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: de; taksis Jev 90%">&#x4FEE;&#x8F9E;&#x624B;&#x6CD5; <pr>xi&#x016B;c&iacute;sh&#x01D2;uf&#x01CE;</pr></trd>
 </drv>
 
 <drv mrk="figur.trans0igxo">

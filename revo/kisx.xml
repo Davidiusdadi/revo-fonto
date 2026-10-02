@@ -45,6 +45,13 @@
       <trd>tarte</trd>
     </trdgrp>
     <trd lng="pl">quiche</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 36%">&#x4EC0;&#x9326;&#x70D8;&#x9905; <pr>sh&iacute;j&#x01D0;nh&#x014D;ngb&#x01D0;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 36%">&#x4EC0;&#x9526;&#x70D8;&#x997C; <pr>sh&iacute;j&#x01D0;nh&#x014D;ngb&#x01D0;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 85%">&#x57FA;&#x5207;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 87%">&#x6CD5;&#x5F0F;&#x9E79;&#x6D3E; <pr>f&#x01CE;sh&igrave; xi&aacute;p&agrave;i</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 87%">&#x6CD5;&#x5F0F;&#x54B8;&#x6D3E; <pr>f&#x01CE;sh&igrave; xi&aacute;p&agrave;i</pr></trd>
+    </trdgrp>
   </snc>
    <trd lng="be">&c_k;&c_ib;&c_sh; <klr>(&c_p;&c_ib;&c_r;&c_o;&c_g;)</klr></trd>
  </drv>

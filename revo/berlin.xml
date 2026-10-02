@@ -45,6 +45,7 @@
     <trd lng="pt">Berlim</trd>
     <trd lng="ru">&c_B;&c_je;&c_r;&c_l;&c_i;&c_n;</trd>
     <trd lng="sk">Berl&iacute;n</trd>
+    <trd lng="zh" fnt="Vikt: zh de el en es fr ja ku nl pl ru; taksis Jev 96%">&#x67CF;&#x6797; <pr>B&oacute;l&iacute;n</pr></trd>
   </snc>
   <trd lng="ja">&#12505;&#12523;&#12522;&#12531;  <pr>&#12409;&#12427;&#12426;&#12435;</pr></trd>
   <trd lng="uk">&c_B;&c_je;&c_r;&c_l;&c_ib;&c_n;</trd>
@@ -91,6 +92,7 @@
   <trd lng="pl">Berli&nacute;czyk</trd>
   <trd lng="ru">&c_b;&c_je;&c_r;&c_l;&c_i;&c_n;&c_je;&c_c;</trd>
   <trd lng="sk">Berl&iacute;n&ccaron;an</trd>
+  <trd lng="zh" fnt="Vikt: el en ru; taksis Jev 96%">&#x67CF;&#x6797;&#x4EBA; <pr>B&oacute;l&iacute;nr&eacute;n</pr></trd>
 </drv>
 
 <drv mrk="berlin.b0anino">
@@ -148,6 +150,10 @@
   <trd lng="ja">&#12505;&#12523;&#12522;&#12531;&#12398;&#22721;  <pr>&#12505;&#12523;&#12522;&#12531;&#12398;&#12363;&#12409;</pr></trd>
   <trd lng="nl">Berlijnse Muur</trd>
   <trd lng="pl">Mur Berli&nacute;ski</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de; taksis Jev 97%">&#x67CF;&#x6797;&#x570D;&#x7246; <pr>B&oacute;l&iacute;n W&eacute;iqi&aacute;ng</pr></trd>,
+    <trd fnt="Vikt: de; taksis Jev 97%">&#x67CF;&#x6797;&#x56F4;&#x5899; <pr>B&oacute;l&iacute;n W&eacute;iqi&aacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

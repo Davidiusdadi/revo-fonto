@@ -398,6 +398,7 @@
       <trd lng="fr">organiseur</trd>
       <trd lng="hu">organizer</trd>
       <trd lng="nl">organizer</trd>
+      <trd lng="zh" fnt="Vikt: en; taksis Jev 57%">&#x6574;&#x7406;&#x5668; <pr>zh&ecaron;ngl&#x01D0;q&igrave;</pr></trd>
     </subsnc>
   <trd lng="de">Planer</trd>
   <trd lng="id"><baz>rencana</baz>perencana</trd>
@@ -619,6 +620,11 @@
     <trd>contingency plan</trd>,
     <trd>alternate plan</trd>,
     <trd>fallback</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x61C9;&#x6025;&#x8A08;&#x5283; <pr>y&igrave;ngj&iacute;j&igrave;hu&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x5E94;&#x6025;&#x8BA1;&#x5283; <pr>y&igrave;ngj&iacute;j&igrave;hu&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x5E94;&#x6025;&#x8BA1;&#x5212;</trd>
   </trdgrp>
 </drv>
 

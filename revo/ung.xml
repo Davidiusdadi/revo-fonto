@@ -184,6 +184,11 @@
       <trd fnt="Vikt: ko pl; juĝis claude-opus-5">scratch</trd>,
       <trd fnt="Vikt: en; juĝis claude-opus-5">claw</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: ko; taksis Jev 75%">&#x5212; <pr>hu&aacute;</pr></trd>,
+      <trd fnt="Vikt: ko; taksis Jev 90%">&#x6293; <pr>zhu&#x0101;</pr></trd>,
+      <trd fnt="Vikt: ko; taksis Jev 87%">&#x6414;</trd>
+    </trdgrp>
   </snc>
   <trd lng="fr">griffer</trd>
 </drv>

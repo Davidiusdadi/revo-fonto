@@ -36,6 +36,13 @@
     <trd lng="en">B&eacute;chamel sauce</trd>
     <trd lng="fr">sauce <ind>b&eacute;chamel</ind></trd>
     <trd lng="pl">sos beszamelowy</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 82%">&#x767D;&#x6C41; <pr>b&aacute;izh&#x012B;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 83%">&#x767D;&#x91AC;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 83%">&#x767D;&#x9171;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 93%">&#x8C9D;&#x590F;&#x5A9A;&#x91AC;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 93%">&#x8D1D;&#x590F;&#x5A9A;&#x9171;</trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_b;&c_e;&c_sh;&c_a;&c_m;&c_e;&c_l;&c_mol;</trd>
 </drv>

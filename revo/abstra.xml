@@ -218,6 +218,7 @@
     <trd lng="pl">abstrakt</trd>
     <trd lng="ro">abstract</trd>
     <trd lng="ru">&c_a;&c_b;&c_s;&c_t;&c_r;&c_a;&c_k;&c_c;&c_i;&c_ja;</trd>
+    <trd lng="zh" fnt="Vikt: fr; taksis Jev 88%">&#x62BD;&#x8C61; <pr>ch&#x014D;uxi&agrave;ng</pr></trd>
   </snc>
   <trd lng="cs">abstraktno</trd>
   <trd lng="de">Abstraktion</trd>
@@ -257,6 +258,10 @@
     <trd>&c_o;&c_t;&c_v;&c_l;&c_je;&c_ch;&c_jo;&c_n;&c_n;&c_o;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
   <trd lng="sk">abstraktnos&tcaron;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 94%">&#x62BD;&#x8C61;&#x6027; <pr>ch&#x014D;uxi&agrave;ngx&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 60%">&#x62BD;&#x8C61; <pr>ch&#x014D;uxi&agrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abstra.0igi">
@@ -497,6 +502,10 @@
     <trd>&#x62BD;&#x8C61;&#x6D3E;  <pr>&#x3061;&#x3085;&#x3046;&#x3057;&#x3087;&#x3046;&#x306F;</pr></trd>
   </trdgrp>
   <trd lng="ru">&c_a;&c_b;&c_s;&c_t;&c_r;&c_a;&c_k;&c_c;&c_i;&c_o;&c_n;&c_i;&c_z;&c_m;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 93%">&#x62BD;&#x8C61;&#x4E3B;&#x7FA9; <pr>ch&#x014D;uxi&agrave;ngzh&#x01D4;y&igrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 93%">&#x62BD;&#x8C61;&#x4E3B;&#x4E49; <pr>ch&#x014D;uxi&agrave;ngzh&#x01D4;y&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <rim>

@@ -522,6 +522,12 @@
     <trd>&c_s;&c_t;&c_o;&c_m;&c_l;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>,
     <trd>&c_z;&c_m;&c_u;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en pl; taksis Jev 85%">&#x7D2F;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x52DE;&#x7D2F; <pr>l&aacute;ol&egrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x52B3;&#x7D2F; <pr>l&aacute;ol&egrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 68%">&#x75B2;&#x5026; <pr>p&iacute;ju&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="lac.mal0a">
@@ -569,6 +575,7 @@
     <trd>munter</trd>
   </trdgrp>
   <trd lng="en">alert</trd>
+  <trd lng="zh" fnt="Vikt: en ku; taksis Jev 80%">&#x8B66;&#x60D5; <pr>j&#x01D0;ngt&igrave;</pr></trd>
 </drv>
 
 <drv mrk="lac.mal0igi">

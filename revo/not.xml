@@ -875,6 +875,14 @@
       <trd fnt="Vikt: cs fr pl; juĝis claude-opus-5">bill <klr>(US)</klr></trd>,
       <trd fnt="Vikt: pl; juĝis claude-opus-5">bank note</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: cs en fr pl; taksis Jev 95%">&#x7D19;&#x5E63; <pr>zh&#x01D0;b&igrave;</pr></trd>,
+      <trd fnt="Vikt: cs en fr pl; taksis Jev 95%">&#x7EB8;&#x5E01; <pr>zh&#x01D0;b&igrave;</pr></trd>,
+      <trd fnt="Vikt: zh cs en fr; taksis Jev 94%">&#x9214;&#x7968; <pr>ch&#x0101;opi&agrave;o</pr></trd>,
+      <trd fnt="Vikt: zh cs en fr; taksis Jev 94%">&#x949E;&#x7968; <pr>ch&#x0101;opi&agrave;o</pr></trd>,
+      <trd fnt="Vikt: cs en fr; taksis Jev 34%">&#x5E84;&#x7968; <pr>zhu&#x0101;ngpi&agrave;o</pr></trd>,
+      <trd fnt="Vikt: cs en fr; taksis Jev 34%">&#x838A;&#x7968; <pr>zhu&#x0101;ngpi&agrave;o</pr></trd>
+    </trdgrp>
   </snc>
 <!-- ne traduku EVI -->
 </drv>

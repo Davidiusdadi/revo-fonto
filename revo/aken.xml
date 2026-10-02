@@ -57,6 +57,11 @@
     <trd lng="nl">Aken</trd>
     <trd lng="pl">Akwizgran</trd>
     <trd lng="ru">&c_A;&c_h;&c_je;&c_n;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh de en fr ru; taksis Jev 90%">&#x963F;&#x4EA8; <pr>&#x0100;h&#x0113;ng</pr></trd>,
+      <trd fnt="Vikt: zh en; taksis Jev 93%">&#x4E9E;&#x741B; <pr>Y&agrave;ch&#x0113;n</pr></trd>,
+      <trd fnt="Vikt: zh en; taksis Jev 93%">&#x4E9A;&#x741B; <pr>Y&agrave;ch&#x0113;n</pr></trd>
+    </trdgrp>
   </snc>
   <ref tip="hom" cel="aken1.0o">akeno (fruktoformo)</ref>
   <trd lng="ja">&#x30A2;&#x30FC;&#x30D8;&#x30F3;</trd>

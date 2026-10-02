@@ -114,6 +114,11 @@
     <trd>&c_b;&c_a;&c_j;&c_d;&c_u;&c_zh;&c_n;&c_ib;&c_s;&c_t;&c_mol;</trd>,
     <trd>&c_b;&c_a;&c_j;&c_d;&c_u;&c_zh;&c_ib;&c_s;&c_t;&c_mol;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de en fr; taksis Jev 88%">&#x51B7;&#x6F20; <pr>l&ecaron;ngm&ograve;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 39%">&#x7121;&#x60C5; <pr>w&uacute;q&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 39%">&#x65E0;&#x60C5; <pr>w&uacute;q&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="apati.0a">
@@ -158,6 +163,7 @@
   <trd lng="de">apathisch</trd>
   <trd lng="en">apathetic</trd>
   <trd lng="fr">apathique</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 79%">&#x6F20;&#x7136; <pr>m&ograve;r&aacute;n</pr></trd>
 </drv>
 
 </art>

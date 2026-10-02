@@ -161,6 +161,12 @@
     <trd lng="ru">&c_k;&c_a;&c_p;&c_u;&c_s;&c_t;&c_a;</trd>
     <trd lng="sk">kapusta</trd>
     <trd lng="sv">k&aring;l</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: es ku ru tr; taksis Jev 23%">&#x5305;&#x5FC3;&#x83DC; <pr>b&#x0101;ox&#x012B;nc&agrave;i</pr></trd>,
+      <trd fnt="Vikt: en ku nl ru; taksis Jev 28%">&#x6372;&#x5FC3;&#x83DC; <pr>ju&#x01CE;nx&#x012B;nc&agrave;i</pr></trd>,
+      <trd fnt="Vikt: en ku nl ru; taksis Jev 28%">&#x5377;&#x5FC3;&#x83DC; <pr>ju&#x01CE;nx&#x012B;nc&agrave;i</pr></trd>,
+      <trd fnt="Vikt: ku ru; taksis Jev 23%">&#x6D0B;&#x767D;&#x83DC; <pr>y&aacute;ngb&aacute;ic&agrave;i</pr></trd>
+    </trdgrp>
   </snc>
   <trd
   lng="bo">&t_la;&t_naro;&t_nga;&t_tsheg;&t_ka;&t_naro;&t_ra;&t_tsheg;&t_pa;&t_da;&t_tsheg;&t_tsha;&t_la;&t_tsheg;</trd>
@@ -389,6 +395,10 @@
   <trd lng="fr">chou fris&eacute;</trd>
   <trd lng="hu">kelk&aacute;poszta</trd>
 <trd lng="id">kale</trd>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: de en nl; taksis Jev 77%">&#x7FBD;&#x8863;&#x7518;&#x85CD; <pr>y&#x01D4;y&#x012B; g&#x0101;nl&aacute;n</pr></trd>,
+  <trd fnt="Vikt: de en nl; taksis Jev 77%">&#x7FBD;&#x8863;&#x7518;&#x84DD; <pr>y&#x01D4;y&#x012B; g&#x0101;nl&aacute;n</pr></trd>
+</trdgrp>
 </drv>
 
 <drv mrk="brasik.tigo0o">
@@ -525,6 +535,11 @@
   <trd lng="id">sauerkraut</trd>
   <trd lng="ja">&#12470;&#12454;&#12450;&#12540;&#12463;&#12521;&#12454;&#12488;</trd>
   <trd lng="nl">zuurkool</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x5FB7;&#x570B;&#x9178;&#x83DC; <pr>D&eacute;gu&oacute;su&#x0101;nc&agrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x5FB7;&#x56FD;&#x9178;&#x83DC; <pr>D&eacute;gu&oacute;su&#x0101;nc&agrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x9178;&#x83DC; <pr>su&#x0101;nc&agrave;i</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

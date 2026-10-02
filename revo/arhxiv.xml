@@ -170,6 +170,12 @@
   <trd lng="fy">argivearje</trd>
   <trd lng="nl">archiveren</trd>
   <trd lng="pl">archiwizowa&cacute;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 15%">&#x6A94;&#x6848; <pr>d&agrave;ng'&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 12%">&#x6863;&#x6848; <pr>d&agrave;ng'&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x6B78;&#x6A94; <pr>gu&#x012B;d&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x5F52;&#x6A94; <pr>gu&#x012B;d&agrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arhxiv.0ado">
@@ -305,6 +311,11 @@
   <trd lng="ru">&c_a;&c_r;&c_h;&c_i;&c_v;</trd>
   <trd lng="sk">arch&iacute;v</trd>
   <trd lng="uk">&c_a;&c_r;&c_h;&c_ib;&c_v;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 26%">&#x5377;&#x5B97; <pr>ju&agrave;nz&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 15%">&#x5B58;&#x6A94; <pr>c&uacute;nd&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 84%">&#x6A94;&#x6848; <pr>d&agrave;ng'&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="arhxiv.0isto">
@@ -355,6 +366,7 @@
   </trdgrp>
   <trd lng="sk">archiv&aacute;r</trd>
   <trd lng="uk">&c_a;&c_r;&c_h;&c_ib;&c_v;&c_a;&c_r;&c_ib;&c_u;&c_s;</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 93%">&#x6863;&#x6848;&#x5458;</trd>
 </drv>
 </art>
 

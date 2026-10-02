@@ -266,6 +266,10 @@
   </trdgrp>
   <trd lng="id">koleksi film</trd>
   <trd lng="pl">film&oacute;w kolekcja</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 13%">&#x96FB;&#x5F71; <pr>di&agrave;ny&#x01D0;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 13%">&#x7535;&#x5F71; <pr>di&agrave;ny&#x01D0;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="film.0ejo">
@@ -388,6 +392,13 @@
   <trdgrp lng="pl">
     <trd>filmik</trd>,
     <trd>klip</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en; taksis Jev 83%">&#x77ED;&#x7247; <pr>du&#x01CE;npi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x77ED;&#x8996;&#x983B; <pr>du&#x01CE;nsh&igrave;p&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x77ED;&#x89C6;&#x9891; <pr>du&#x01CE;nsh&igrave;p&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 19%">&#x8996;&#x983B; <pr>sh&igrave;p&iacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 19%">&#x89C6;&#x9891; <pr>sh&igrave;p&iacute;n</pr></trd>
   </trdgrp>
 </drv>
 

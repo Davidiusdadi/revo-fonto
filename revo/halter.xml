@@ -108,6 +108,12 @@
   <trd lng="pl">sztanga</trd>
   <trd lng="ru">&c_sh;&c_t;&c_a;&c_n;&c_g;&c_a;<klr tip="amb">
   (&c_s;&c_p;&c_o;&c_r;&c_t;.)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 96%">&#x69D3;&#x9234; <pr>g&agrave;ngl&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 96%">&#x6760;&#x94C3; <pr>g&agrave;ngl&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x6760;&#x94C3; <pr>g&agrave;ngl&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x69D3;&#x94C3; <pr>g&agrave;ngl&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 </art>

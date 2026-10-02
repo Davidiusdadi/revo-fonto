@@ -75,6 +75,12 @@
     <trd lng="pl">beta  <klr>(litera)</klr></trd>
     <trd lng="ro">beta  <klr>(liter&abreve;)</klr></trd>
     <trd lng="uk"> &c_b;&c_e;&c_t;&c_a;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en fr pl ru; taksis Jev 4%">&#x751C;&#x83DC; <pr>ti&aacute;nc&agrave;i</pr></trd>,
+      <trd fnt="Vikt: en fr; taksis Jev 3%">&#x751C;&#x83DC;&#x6839; <pr>ti&aacute;nc&agrave;ig&#x0113;n</pr></trd>,
+      <trd fnt="Vikt: zh en; taksis Jev 89%">&#x8C9D;&#x5854; <pr>b&egrave;it&#x01CE;</pr></trd>,
+      <trd fnt="Vikt: zh en; taksis Jev 89%">&#x8D1D;&#x5854; <pr>b&egrave;it&#x01CE;</pr></trd>
+    </trdgrp>
   </snc>
   <rim>
     Kp <ref tip="hom" cel="bet.0o">beto</ref> (radika legomo).

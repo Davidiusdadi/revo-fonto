@@ -182,6 +182,14 @@
       <trd fnt="Vikt: en fr; juĝis claude-opus-5">on time</trd>
     </trdgrp>
     <trd lng="es">puntual</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 86%">&#x5B88;&#x6642; <pr>sh&#x01D2;ush&iacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 86%">&#x5B88;&#x65F6; <pr>sh&#x01D2;ush&iacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 76%">&#x53CA;&#x6642; <pr>j&iacute;sh&iacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 76%">&#x53CA;&#x65F6; <pr>j&iacute;sh&iacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 87%">&#x6E96;&#x6642; <pr>zh&#x01D4;nsh&iacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 87%">&#x51C6;&#x65F6; <pr>zh&#x01D4;nsh&iacute;</pr></trd>
+    </trdgrp>
   </snc>
   <snc mrk="akurat.0a.ekzakta">
     <uzo tip="stl">EVI</uzo>

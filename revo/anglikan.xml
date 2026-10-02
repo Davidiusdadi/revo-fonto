@@ -36,6 +36,12 @@
   </trdgrp>
   <trd lng="sk">anglik&aacute;n</trd>
   <trd lng="uk">&c_a;&#x43D;&c_g;&#x43B;&c_ib;&#x43A;&c_a;&#x43D;&c_je;&c_c;&#x44C;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x8056;&#x516C;&#x6703;&#x6559;&#x5F92; <pr>sh&egrave;ngg&#x014D;nghu&igrave;ji&agrave;ot&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x5723;&#x516C;&#x4F1A;&#x6559;&#x5F92; <pr>sh&egrave;ngg&#x014D;nghu&igrave;ji&agrave;ot&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x82F1;&#x570B;&#x570B;&#x6559;&#x5F92; <pr>Y&#x012B;nggu&oacute;gu&oacute;ji&agrave;ot&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x82F1;&#x56FD;&#x56FD;&#x6559;&#x5F92; <pr>Y&#x012B;nggu&oacute;gu&oacute;ji&agrave;ot&uacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anglikan.0ismo">
@@ -67,6 +73,12 @@
     <pr>&#12356;&#12435;&#12368;&#12425;&#12435;&#12393;&#12371;&#12387;&#x304D;&#12423;&#12358;&#x304B;&#12356;&#x306E;&#x304D;&#12423;&#12358;&#x304E;</pr></trd>
   </trdgrp>
   <trd lng="sk">anglikanizmus</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en; taksis Jev 86%">&#x8056;&#x516C;&#x5B97; <pr>sh&egrave;ngg&#x014D;ngz&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: el en; taksis Jev 86%">&#x5723;&#x516C;&#x5B97; <pr>sh&egrave;ngg&#x014D;ngz&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 65%">&#x8056;&#x516C;&#x6703; <pr>sh&egrave;ngg&#x014D;nghu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 65%">&#x5723;&#x516C;&#x4F1A; <pr>sh&egrave;ngg&#x014D;nghu&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

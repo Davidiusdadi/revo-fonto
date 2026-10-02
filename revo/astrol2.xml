@@ -66,6 +66,13 @@
     <trd>ve&scaron;tenie z hviezd</trd>
   </trdgrp>
   <trd lng="uk">&c_a;&c_s;&c_t;&c_r;&#1086;&#1083;&#1086;&c_g;&c_ib;&#1103;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku ru; taksis Jev 93%">&#x5360;&#x661F;&#x5B78; <pr>zh&#x0101;nx&#x012B;ngxu&eacute;</pr></trd>,
+    <trd fnt="Vikt: en ku ru; taksis Jev 93%">&#x5360;&#x661F;&#x5B66; <pr>zh&#x0101;nx&#x012B;ngxu&eacute;</pr></trd>,
+    <trd fnt="Vikt: en ku ru; taksis Jev 86%">&#x661F;&#x76F8; <pr>x&#x012B;ngxi&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: de fr ru; taksis Jev 95%">&#x5360;&#x661F;&#x672F; <pr>zh&#x0101;nx&#x012B;ngsh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: de fr ru; taksis Jev 95%">&#x4F54;&#x661F;&#x672F; <pr>zh&#x0101;nx&#x012B;ngsh&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="astrol2.0isto">
@@ -102,6 +109,14 @@
   <trdgrp lng="sk">
     <trd>astrol&oacute;g</trd>,
     <trd>astrol&oacute;g</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en pt; taksis Jev 95%">&#x5360;&#x661F;&#x5BB6; <pr>zh&#x0101;nx&#x012B;ngji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: zh en pt; taksis Jev 95%">&#x4F54;&#x661F;&#x5BB6; <pr>zh&#x0101;nx&#x012B;ngji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 95%">&#x5360;&#x661F;&#x5E2B; <pr>zh&#x0101;nx&#x012B;ngsh&#x012B;</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 95%">&#x4F54;&#x661F;&#x5E08; <pr>zh&#x0101;nx&#x012B;ngsh&#x012B;</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 93%">&#x661F;&#x76F8;&#x5E2B; <pr>x&#x012B;ngxi&agrave;ngsh&#x012B;</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 93%">&#x661F;&#x76F8;&#x5E08; <pr>x&#x012B;ngxi&agrave;ngsh&#x012B;</pr></trd>
   </trdgrp>
 </drv>
 </art>

@@ -133,6 +133,11 @@
   <trd lng="pl">botanik</trd>
   <trd lng="ru">&c_b;&c_o;&c_t;&c_a;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">botanik</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x690D;&#x7269;&#x5B78;&#x5BB6; <pr>zh&iacute;w&ugrave;xu&eacute;ji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x690D;&#x7269;&#x5B66;&#x5BB6; <pr>zh&iacute;w&ugrave;xu&eacute;ji&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x690D;&#x7269;&#x5B66;&#x8005; <pr>zh&iacute;w&ugrave;xu&eacute;zh&ecaron;</pr></trd>
+  </trdgrp>
   </snc>
   <trd lng="cs">botanik</trd>
   <trd lng="he">&bet;&#1468;&vav;&#1465;&tet;&#1464;&nun;&#1463;&alef;&#1460;&yod;</trd>

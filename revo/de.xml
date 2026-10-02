@@ -1076,6 +1076,12 @@
   <trd lng="xh">ye</trd>
   <trd lng="yi">&pe;&vav;&fnun;</trd>
   <trd lng="yo">ti aw&#x1ECD;n</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja pl; taksis Jev 69%">&#x5F9E;</trd>,
+    <trd fnt="Vikt: en ja pl; taksis Jev 69%">&#x4ECE;</trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 33%">&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 55%">&#x7531; <pr>y&oacute;u</pr></trd>
+  </trdgrp>
 </drv>
 
   <drv mrk="de.dis0">
@@ -1176,6 +1182,13 @@
   <trdgrp lng="sk">
     <trd>od</trd>,
     <trd>z</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 43%">&#x51FA;&#x65BC; <pr>ch&#x016B;y&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 43%">&#x51FA;&#x4E8E; <pr>ch&#x016B;y&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 60%">&#x5F9E;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 60%">&#x4ECE;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 44%">&#x7531; <pr>y&oacute;u</pr></trd>
   </trdgrp>
 </drv>
 
@@ -1404,6 +1417,13 @@
   <trd lng="xh">ukususela</trd>
   <trd lng="yi">&zayin;&yod;&nun;&tet;</trd>
   <trd lng="yo">niwon</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x5F9E;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x4ECE;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x81EA;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x81EA;&#x5F9E; <pr>z&igrave;c&oacute;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x81EA;&#x4ECE; <pr>z&igrave;c&oacute;ng</pr></trd>
+  </trdgrp>
   <trd lng="zu">kusukela</trd>
 </drv>
 

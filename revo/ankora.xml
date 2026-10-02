@@ -324,6 +324,12 @@
   <trd lng="xh">nangoku</trd>
   <trd lng="yi">&nun;&alef;&#x5B8;&fkaf;</trd>
   <trd lng="yo">si tun</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku pl pt; taksis Jev 80%">&#x9084;</trd>,
+    <trd fnt="Vikt: en ku pl pt; taksis Jev 80%">&#x8FD8;</trd>,
+    <trd fnt="Vikt: en pt ru; taksis Jev 71%">&#x4ECD;&#x7136; <pr>r&eacute;ngr&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en fr ku; taksis Jev 64%">&#x4F9D;&#x7136; <pr>y&#x012B;r&aacute;n</pr></trd>
+  </trdgrp>
   <trd lng="zu">namanje</trd>
 </drv>
 
@@ -436,6 +442,12 @@
 <trdgrp lng="id">
   <trd>belum</trd>,
   <trd>masih tidak</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: en; taksis Jev 92%">&#x5C1A;&#x672A; <pr>sh&agrave;ngw&egrave;i</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 79%">&#x672A; <pr>w&egrave;i</pr></trd>,
+  <trd fnt="Vikt: fr; taksis Jev 50%">&#x6CA1;&#x6709; <pr>m&eacute;iy&#x01D2;u</pr></trd>,
+  <trd fnt="Vikt: fr; taksis Jev 50%">&#x6C92;&#x6709; <pr>m&eacute;iy&#x01D2;u</pr></trd>
 </trdgrp>
 </drv>
 

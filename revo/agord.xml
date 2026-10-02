@@ -814,6 +814,12 @@
         <klr>(&c_p;&c_r;&c_i;&c_l;&c_o;&c_zh;&c_je;&c_n;&c_i;&c_j;
         &c_M;&c_a;&c_j;&c_k;&c_r;&c_o;&c_s;&c_o;&c_f;&c_t;)</klr></trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en ja; taksis Jev 61%">&#x56AE;&#x5C0E; <pr>xi&agrave;ngd&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en ja; taksis Jev 61%">&#x5411;&#x5BFC; <pr>xi&agrave;ngd&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en ja; taksis Jev 66%">&#x7CBE;&#x9748; <pr>j&#x012B;ngl&iacute;ng</pr></trd>,
+      <trd fnt="Vikt: en ja; taksis Jev 66%">&#x7CBE;&#x7075; <pr>j&#x012B;ngl&iacute;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_r;&c_o;&c_d;&c_a;&c_k; <ind>&c_n;&c_a;&c_l;&c_a;&c_d;&c_k;&c_ib;</ind></trd>,
@@ -823,6 +829,7 @@
     <trd>&#x8ABF;&#x5F8B;&#x30CF;&#x30F3;&#x30DE;&#x30FC;  <pr>&#x3061;&#x3087;&#x3046;&#x308A;&#x3064;&#x30CF;&#x30F3;&#x30DE;&#x30FC;</pr></trd>,
     <trd>&#x30C1;&#x30E5;&#x30FC;&#x30CA;&#x30FC;  <pr>&#x3061;&#x3085;&#x30FC;&#x306A;&#x30FC;</pr></trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 52%">&#x97F3;&#x53C9; <pr>y&#x012B;nch&#x0101;</pr></trd>
 </drv>
 
 <drv mrk="agord.0isto">
@@ -861,6 +868,10 @@
   <trd lng="ro">acordor</trd>
   <trd lng="ru">&c_n;&c_a;&c_s;&c_t;&c_r;&c_o;&c_j;&c_shch;&c_i;&c_k;</trd>
   <trd lng="sk">ladi&ccaron;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x8ABF;&#x97F3;&#x5E2B; <pr>ti&aacute;oy&#x012B;nsh&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 96%">&#x8C03;&#x97F3;&#x5E08; <pr>ti&aacute;oy&#x012B;nsh&#x012B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="agord.anim0o">

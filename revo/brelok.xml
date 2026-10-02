@@ -54,6 +54,12 @@
   <trd lng="ru">&c_b;&c_r;&c_je;&c_l;&c_o;&c_k;</trd>
   <trd lng="sk">pr&iacute;vesok <klr>(na retiazke k hodin&aacute;m ap.)</klr></trd>
   <trd lng="uk">&#1073;&#1088;&#1077;&#1083;&#1086;&#1082;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 53%">&#x540A;&#x589C; <pr>di&agrave;ozhu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 77%">&#x540A;&#x5760; <pr>di&agrave;ozhu&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x5782;&#x98FE; <pr>chu&iacute;sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x5782;&#x9970; <pr>chu&iacute;sh&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -47,6 +47,13 @@
       <trd>cheque-mate</trd>
     </trdgrp>
     <trd lng="ru">&c_m;&c_a;&c_t; <klr tip="amb">(&c_sh;&c_a;&c_h;&c_m;.)</klr></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: cs de fr; taksis Jev 91%">&#x5C07;&#x6B7B; <pr>ji&#x0101;ngs&#x01D0;</pr></trd>,
+      <trd fnt="Vikt: cs de fr; taksis Jev 91%">&#x5C06;&#x6B7B; <pr>ji&#x0101;ngs&#x01D0;</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 91%">&#x5C07;&#x6BBA; <pr>ji&#x0101;ngsh&#x0101;</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 91%">&#x5C06;&#x6740; <pr>ji&#x0101;ngsh&#x0101;</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 55%">&#x6740;</trd>
+    </trdgrp>
   </snc>
   <ref tip="hom" cel="mat.0o">mato (tapi&scirc;o)</ref>
   <trd lng="bo">&#3906;&#3921;&#3923;&#3851;</trd>

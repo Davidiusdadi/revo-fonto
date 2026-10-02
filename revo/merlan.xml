@@ -73,6 +73,14 @@ centimetroj,
     <trd>&c_m;&c_je;&c_r;&c_l;&c_a;&c_n;&c_g;</trd>,
     <trd>&c_ch;&c_o;&c_r;&c_n;&c_o;&c_m;&c_o;&c_r;&c_s;&c_mol;&c_k;&c_a; &c_p;&c_ib;&c_k;&c_sh;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 58%">&#x7259;&#x9C48; <pr>y&aacute;xu&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 58%">&#x7259;&#x9CD5; <pr>y&aacute;xu&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 32%">&#x96EA;&#x9B5A; <pr>xu&ecaron;y&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 32%">&#x96EA;&#x9C7C; <pr>xu&ecaron;y&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 22%">&#x9C48;&#x9B5A; <pr>xu&ecaron;y&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 22%">&#x9CD5;&#x9C7C; <pr>xu&ecaron;y&uacute;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -1463,6 +1463,12 @@
     <trd>para <klr>(dw&oacute;jka)</klr></trd>,
     <trd>dw&oacute;jka <klr>(np. kajak, &lstroke;&oacute;d&zacute;)</klr></trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 34%">&#x4E8C;&#x91CD;&#x5531; <pr>&egrave;rch&oacute;ngch&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 68%">&#x4E8C;&#x91CD;&#x594F; <pr>&egrave;rch&oacute;ngz&ograve;u</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 82%">&#x4E00;&#x5C0D; <pr>y&#x012B;du&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 82%">&#x4E00;&#x5BF9; <pr>y&#x012B;du&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
  <drv mrk="du.0oniganto">
@@ -1627,6 +1633,13 @@
     <trd>niebinarny</trd>,
     <trd>genderqueer</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 89%">&#x975E;&#x4E8C;&#x5143; <pr>f&#x0113;i'&egrave;ryu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x975E;&#x4E8C;&#x9032;&#x5236; <pr>f&#x0113;i&egrave;rj&igrave;nzh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x975E;&#x4E8C;&#x8FDB;&#x5236; <pr>f&#x0113;i&egrave;rj&igrave;nzh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x6027;&#x5225;&#x9177;&#x5152; <pr>x&igrave;ngbi&eacute; k&ugrave;'&eacute;r</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x6027;&#x522B;&#x9177;&#x513F; <pr>x&igrave;ngbi&eacute; k&ugrave;'&eacute;r</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="du.ne0umulo">
@@ -1653,6 +1666,7 @@
     <trd>enby</trd>
   </trdgrp>
   <trd lng="pl">osobnik <ind>niebinarny</ind></trd>
+  <trd lng="zh" fnt="Vikt: de; taksis Jev 78%">&#x4E2D;&#x6027;&#x4EBA; <pr>zh&#x014D;ngx&igrave;ngr&eacute;n</pr></trd>
 </drv>
 
 <drv mrk="du.jar0ono">

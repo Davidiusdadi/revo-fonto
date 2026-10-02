@@ -242,6 +242,11 @@
   </trdgrp>
   <trd lng="pl">podb&oacute;j</trd>
   <trd lng="sk">dob&yacute;vanie</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ru; taksis Jev 86%">&#x5F81;&#x670D; <pr>zh&#x0113;ngf&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 64%">&#x6230;&#x52DD; <pr>zh&agrave;nsh&egrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 64%">&#x6218;&#x80DC; <pr>zh&agrave;nsh&egrave;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="konker.0into">
@@ -293,6 +298,13 @@
   <trd lng="es">conquistador</trd>
   <trd lng="fr">conqu&eacute;rant</trd>
   <trd lng="ru">&c_z;&c_a;&c_v;&c_o;&c_je;&c_v;&c_a;&c_t;&c_je;&c_l;&c_mol;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 96%">&#x5F81;&#x670D;&#x8005; <pr>zh&#x0113;ngf&uacute;zh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 73%">&#x4F54;&#x9818;&#x8005; <pr>zh&agrave;nl&#x01D0;ngzh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 73%">&#x5360;&#x9886;&#x8005; <pr>zh&agrave;nl&#x01D0;ngzh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x5360;&#x9886;&#x8005; <pr>zh&agrave;nl&#x01D0;ngzh&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x4F54;&#x9886;&#x8005; <pr>zh&agrave;nl&#x01D0;ngzh&ecaron;</pr></trd>
+  </trdgrp>
 </drv>
 
   </art>

@@ -473,6 +473,12 @@
   <trd lng="fr">industrie l&eacute;g&egrave;re</trd>
   <trd lng="id">industri ringan</trd>
   <trd lng="pl">przemys&lstroke; lekki</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ru; taksis Jev 95%">&#x8F15;&#x5DE5;&#x696D; <pr>q&#x012B;ngg&#x014D;ngy&egrave;</pr></trd>,
+    <trd fnt="Vikt: zh en ru; taksis Jev 95%">&#x8F7B;&#x5DE5;&#x4E1A; <pr>q&#x012B;ngg&#x014D;ngy&egrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x8F15;&#x5DE5; <pr>q&#x012B;ngg&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x8F7B;&#x5DE5; <pr>q&#x012B;ngg&#x014D;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="indust.nutrajx0o">
@@ -529,6 +535,10 @@
   <trd lng="fr">industrie lourde</trd>
   <trd lng="id">industri berat</trd>
   <trd lng="pl">przemys&lstroke; ci&eogonek;&zdot;ki</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ru; taksis Jev 95%">&#x91CD;&#x5DE5;&#x696D; <pr>zh&ograve;ngg&#x014D;ngy&egrave;</pr></trd>,
+    <trd fnt="Vikt: en ru; taksis Jev 95%">&#x91CD;&#x5DE5;&#x4E1A; <pr>zh&ograve;ngg&#x014D;ngy&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="indust.sxtof0o">

@@ -91,6 +91,7 @@
   <trd lng="tr">s&uuml;nnet etmek</trd>
   <trd lng="uk">&c_r;&#x43E;&c_b;&c_i;&c_t;&c_i; &#x43E;&c_b;&c_r;&c_ib;&c_z;&c_a;&#x43D;&#x43D;&#x44F;</trd>
   <trd lng="yi">&yod;&yod;&#x5B4;&dalet;&yod;&shin;&fnun;</trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 64%">&#x5272;&#x5305;&#x76AE; <pr>g&#x0113; b&#x0101;op&iacute;</pr></trd>
 </drv>
 
 <drv mrk="cirkum.0o">
@@ -137,6 +138,13 @@
   <trd lng="sk">obriezka</trd>
   <trd lng="tr">s&uuml;nnet</trd>
   <trd lng="uk">&#x43E;&c_b;&c_r;&c_ib;&c_z;&c_a;&#x43D;&#x43D;&#x44F; (&#x43E;&c_b;&c_r;&#x44F;&c_d;)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr; taksis Jev 94%">&#x5272;&#x79AE; <pr>g&#x0113;l&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en fr; taksis Jev 94%">&#x5272;&#x793C; <pr>g&#x0113;l&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 63%">&#x5272;&#x5305;&#x76AE; <pr>g&#x0113; b&#x0101;op&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x5305;&#x76AE;&#x74B0;&#x5207;&#x8853; <pr>b&#x0101;op&iacute; hu&aacute;nqi&#x0113;sh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x5305;&#x76AE;&#x73AF;&#x5207;&#x672F; <pr>b&#x0101;op&iacute; hu&aacute;nqi&#x0113;sh&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

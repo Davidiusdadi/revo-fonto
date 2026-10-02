@@ -187,6 +187,10 @@
     <trd>&c_p;&c_je;&c_r;&c_je;&c_k;&c_o;&c_n;&c_l;&c_i;&c_v;&c_i;&c_j;</trd>,
     <trd>&c_v;&c_a;&c_g;&c_o;&c_m;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x6709;&#x8AAA;&#x670D;&#x529B;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x6709;&#x8BF4;&#x670D;&#x529B;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="persva.0o">
@@ -235,6 +239,12 @@
     <trd>&c_u;&c_v;&c_je;&c_shch;&c_a;&c_n;&c_i;&c_je;</trd>,
     <trd>&c_u;&c_b;&c_je;&c_zh;&c_d;&c_je;&c_n;&c_i;&c_je;<klr> (&c_p;&c_r;&c_o;&c_c;&c_je;&c_s;&c_s;)</klr></trd>
     <trd>&c_u;&c_g;&c_o;&c_v;&c_o;&c_r;&c_y;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x52F8;&#x8AAA; <pr>qu&agrave;nshu&#x014D;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x529D;&#x8BF4; <pr>qu&agrave;nshu&#x014D;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x8AAA;&#x670D; <pr>shu&#x014D;f&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x8BF4;&#x670D; <pr>shu&#x014D;f&uacute;</pr></trd>
   </trdgrp>
 </drv>
 </art>

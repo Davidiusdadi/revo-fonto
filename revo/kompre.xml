@@ -1134,6 +1134,11 @@
     <trd>&c_p;&c_o;&c_ja;&c_s;&c_n;&c_i;&c_t;&c_i;</trd>,
     <trd>&c_d;&c_a;&c_t;&c_i; &c_z;&c_r;&c_o;&c_z;&c_u;&c_m;&c_ib;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ko; taksis Jev 88%">&#x8AAA;&#x660E; <pr>shu&#x014D;m&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: ko; taksis Jev 88%">&#x8BF4;&#x660E; <pr>shu&#x014D;m&iacute;ng</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 37%">&#x9646;&#x8292;&#x8122;&#x8125;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kompre.0igxi">
@@ -1238,6 +1243,7 @@
     <trd>be <ind>comprehended</ind></trd>
   </trdgrp>
   <trd lng="ja">&#29702;&#x89E3;&#12373;&#x308C;&#x308B;  <pr>&#x308A;&#x304B;&#12356;&#12373;&#x308C;&#x308B;</pr></trd>
+  <trd lng="zh" fnt="Vikt: de; taksis Jev 27%">&#x660E;&#x767D; <pr>m&iacute;ngbai</pr></trd>
 </drv>
 
 <drv mrk="kompre.0ilo0igxilo">

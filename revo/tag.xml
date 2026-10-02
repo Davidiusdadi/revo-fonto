@@ -305,6 +305,7 @@
     <trd lng="ru">&c_d;&c_n;&c_je;&c_v;&c_n;&c_o;&c_j;</trd>
     <trd lng="sk">denn&yacute;</trd>
     <trd lng="tr">g&uuml;nd&uuml;z</trd>
+    <trd lng="zh" fnt="Vikt: pl; taksis Jev 63%">&#x767D;&#x5929; <pr>b&aacute;iti&#x0101;n</pr></trd>
   </snc>
   <snc mrk="tag.0a.tempo">
     <dif>
@@ -353,6 +354,10 @@
     <trd>&#x4E00;&#x65E5;&#x306E;  <pr>&#12402;&#12392;&#x306B;&#12385;&#x306E;</pr></trd>
   </trdgrp>
   <trd lng="uk">&c_d;&c_je;&c_n;&c_n;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 82%">&#x65E5;&#x9593;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 82%">&#x65E5;&#x95F4;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tag.0e">
@@ -476,6 +481,13 @@
     <trd>&c_d;&c_n;&c_ib;&c_t;&c_i;</trd>,
     <trd>&c_r;&c_o;&c_z;&c_v;&c_i;&c_d;&c_n;&c_ja;&c_t;&c_i;&c_s;&c_ja;</trd>,
     <trd>&c_r;&c_o;&c_z;&c_v;&c_i;&c_d;&c_n;&c_ju;&c_v;&c_a;&c_t;&c_i;&c_s;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 85%">&#x62C2;&#x66C9; <pr>f&uacute;xi&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 85%">&#x62C2;&#x6653; <pr>f&uacute;xi&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x7834;&#x66C9; <pr>p&ograve;xi&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x7834;&#x6653; <pr>p&ograve;xi&#x01CE;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 74%">&#x9ECE;&#x660E; <pr>l&iacute;m&iacute;ng</pr></trd>
   </trdgrp>
 </drv>
 
@@ -808,6 +820,10 @@
     <trd>intercalary day</trd>
   </trdgrp>
   <trd lng="fr">jour intercalaire</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x958F;&#x65E5; <pr>r&ugrave;nr&igrave;</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 95%">&#x95F0;&#x65E5; <pr>r&ugrave;nr&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tag.Danko0o">

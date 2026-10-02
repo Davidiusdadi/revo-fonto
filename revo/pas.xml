@@ -597,6 +597,12 @@
     <trd>&#x7D4C;&#x904E;  <pr>&#12369;&#12356;&#x304B;</pr></trd>
   </trdgrp>
   <trd lng="pt">passagem</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 74%">&#x901A;&#x904E; <pr>t&#x014D;nggu&ograve;</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 74%">&#x901A;&#x8FC7; <pr>t&#x014D;nggu&ograve;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 76%">&#x7D93;&#x904E; <pr>j&#x012B;nggu&ograve;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 76%">&#x7ECF;&#x8FC7; <pr>j&#x012B;nggu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pas.0ado">
@@ -649,6 +655,11 @@
   <trdgrp lng="uk">
     <trd>&c_p;&c_r;&c_o;&c_h;&c_ib;&c_d;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_h;&c_o;&c_d;&c_zh;&c_je;&c_n;&c_n;&c_ja;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 8%">&#x51CC;&#x65E5; <pr>l&iacute;ngr&igrave;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 87%">&#x7D93;&#x904E; <pr>j&#x012B;nggu&ograve;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 87%">&#x7ECF;&#x8FC7; <pr>j&#x012B;nggu&ograve;</pr></trd>
   </trdgrp>
 </drv>
 
@@ -1369,6 +1380,10 @@
   <trd lng="pt">passado</trd>
   <trd lng="ro">trecut</trd>
   <trd lng="uk">&c_m;&c_i;&c_n;&c_u;&c_l;&c_je; (&c_p;&c_r;&c_o; &c_ch;&c_a;&c_s;)</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en pl; taksis Jev 95%">&#x904E;&#x53BB; <pr>gu&ograve;q&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en pl; taksis Jev 95%">&#x8FC7;&#x53BB; <pr>gu&ograve;q&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pas.0into">

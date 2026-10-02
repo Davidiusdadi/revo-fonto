@@ -265,6 +265,14 @@
   <trd lng="xh">le</trd>
   <trd lng="yi">&dalet;&yod;</trd>
   <trd lng="yo">aw&#x1ECD;n</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh ja; taksis Jev 1%">&#x5F5E;&#x65CF; <pr>Y&iacute;z&uacute;</pr></trd>,
+    <trd fnt="Vikt: zh ja; taksis Jev 1%">&#x5F5D;&#x65CF; <pr>Y&iacute;z&uacute;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 3%">&#x5FB7;&#x8A9E; <pr>d&eacute;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 3%">&#x5FB7;&#x8BED; <pr>d&eacute;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 1%">&#x6377;&#x514B;&#x8A9E; <pr>Ji&eacute;k&egrave;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 1%">&#x6377;&#x514B;&#x8BED; <pr>Ji&eacute;k&egrave;y&#x01D4;</pr></trd>
+  </trdgrp>
   <trd lng="zu">lo</trd>
 </drv>
 </art>

@@ -96,6 +96,10 @@
     <trd>&#x6D88;&#x3057;&#x70AD;  <pr>&#x3051;&#x3057;&#x305A;&#x307F;</pr></trd>
   </trdgrp>
   <trd lng="uk">&c_zh;&c_a;&c_r;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 82%">&#x9918;&#x71FC; <pr>y&uacute;j&igrave;n</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 82%">&#x4F59;&#x70EC; <pr>y&uacute;j&igrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bragx.0ujo">
@@ -130,6 +134,7 @@
     <trd>&c_o;&c_ch;&c_a;&c_g;</trd>,
     <trd>&c_zh;&c_a;&c_r;&c_o;&c_v;&c_n;&c_ja;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 81%">&#x706B;&#x76C6; <pr>hu&#x01D2;p&eacute;n</pr></trd>
 </drv>
 </art>
 <!--

@@ -191,6 +191,10 @@
   <trd lng="tok">meli pi ma Ukawina</trd>
   <trd lng="uk">&c_u;&c_k;&c_r;&c_a;&c_ji;&c_n;&c_k;&c_a;</trd>
   <trd lng="vo">ji-Lukray&auml;nan</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 40%">&#x70CF;&#x514B;&#x862D;&#x4EBA; <pr>w&#x016B;k&egrave;l&aacute;nr&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 40%">&#x4E4C;&#x514B;&#x5170;&#x4EBA; <pr>w&#x016B;k&egrave;l&aacute;nr&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ukrajn.0a">
@@ -263,6 +267,14 @@
   <trd lng="tok">pi ma Ukawina</trd>
   <trd lng="uk">&c_u;&c_k;&c_r;&c_a;&c_ji;&c_n;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>
   <trd lng="vo">Lukray&auml;nik</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en pl; taksis Jev 90%">&#x70CF;&#x514B;&#x862D;&#x7684;</trd>,
+    <trd fnt="Vikt: en pl; taksis Jev 90%">&#x4E4C;&#x514B;&#x5170;&#x7684;</trd>,
+    <trd fnt="Vikt: pl; taksis Jev 59%">&#x70CF;&#x514B;&#x862D; <pr>W&#x016B;k&egrave;l&aacute;n</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 59%">&#x4E4C;&#x514B;&#x5170; <pr>W&#x016B;k&egrave;l&aacute;n</pr></trd>,
+    <trd fnt="Vikt: es; taksis Jev 66%">&#x70CF;&#x514B;&#x862D;&#x8A9E; <pr>W&#x016B;k&egrave;l&aacute;ny&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: es; taksis Jev 66%">&#x4E4C;&#x514B;&#x5170;&#x8BED; <pr>W&#x016B;k&egrave;l&aacute;ny&#x01D4;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ukrajn.U0ujo">

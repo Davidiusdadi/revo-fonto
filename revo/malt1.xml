@@ -142,6 +142,13 @@
   <trd lng="de" fnt="AI: fr ca pt be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">maltesisch</trd>
   <trd lng="fr">maltais<klr> (adj.)</klr></trd>
   <trd lng="pt">malt&ecirc;s <klr tip="ind"> (adj.)</klr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: es; taksis Jev 72%">&#x99AC;&#x723E;&#x4ED6;&#x8A9E; <pr>M&#x01CE;'&ecaron;rt&#x0101;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: es; taksis Jev 72%">&#x9A6C;&#x5C14;&#x4ED6;&#x8BED; <pr>M&#x01CE;'&ecaron;rt&#x0101;y&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 50%">&#x99AC;&#x8033;&#x4ED6; <pr>M&#x01CE;'&ecaron;rt&#x0101;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 50%">&#x9A6C;&#x8033;&#x4ED6; <pr>M&#x01CE;'&ecaron;rt&#x0101;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 93%">&#x9A6C;&#x8033;&#x4ED6;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="malt1.0ano">

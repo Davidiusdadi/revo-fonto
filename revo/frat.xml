@@ -400,6 +400,7 @@
     <trd>blodik</trd>,
     <trd>higemik</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: ru; taksis Jev 15%">&#x5144;&#x5F1F; <pr>xi&#x014D;ngdi</pr></trd>
 </drv>
 
 <drv mrk="frat.0aro">
@@ -543,6 +544,10 @@
   <trdgrp lng="uk">
     <trd>&c_b;&c_r;&c_a;&c_t;&c_je;&c_r;&c_s;&c_t;&c_v;&c_o;</trd>,
     <trd>&c_b;&c_r;&c_a;&c_t;&c_s;&c_t;&c_v;&c_o;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 37%">&#x54E5;&#x5011;&#x7FA9;&#x6C23; <pr>g&#x0113;meny&igrave;q&igrave;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 37%">&#x54E5;&#x4EEC;&#x4E49;&#x6C14; <pr>g&#x0113;meny&igrave;q&igrave;</pr></trd>
   </trdgrp>
 </drv>
 
@@ -1159,6 +1164,10 @@
   <trd lng="pl">brat przyrodni</trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_d;&c_n;&c_y;&c_j; &c_b;&c_r;&c_a;&c_t;</trd>
   <trd lng="uk">&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_i;&c_j; &c_b;&c_r;&c_a;&c_t;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 84%">&#x7E7C;&#x5144;&#x5F1F; <pr>j&igrave;xi&#x014D;ngd&igrave;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 84%">&#x7EE7;&#x5144;&#x5F1F; <pr>j&igrave;xi&#x014D;ngd&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frat.vic0ino">
@@ -1186,6 +1195,10 @@
   <trd lng="pl">siostra przyrodnia</trd>
   <trd lng="ru">&c_s;&c_v;&c_o;&c_d;&c_n;&c_a;&c_ja; &c_s;&c_je;&c_s;&c_t;&c_r;&c_a;</trd>
   <trd lng="uk">&c_z;&c_v;&c_je;&c_d;&c_je;&c_n;&c_a; &c_s;&c_je;&c_s;&c_t;&c_r;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x7E7C;&#x59CA;&#x59B9; <pr>j&igrave;z&#x01D0;m&egrave;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x7EE7;&#x59CA;&#x59B9; <pr>j&igrave;z&#x01D0;m&egrave;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frat.ge0oj">
@@ -1337,6 +1350,11 @@
   <trd lng="tr">karde&scedil;</trd>
   <trd lng="tt">&c_k;&c_a;&c_r;&c_d;&#1241;&c_sh;</trd>
   <trd lng="vo">gem</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 33%">&#x5144;&#x5F1F; <pr>xi&#x014D;ngdi</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 83%">&#x5144;&#x5F1F;&#x59D0;&#x59B9; <pr>xi&#x014D;ngd&igrave; ji&ecaron;m&egrave;i</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 80%">&#x540C;&#x80DE; <pr>t&oacute;ngb&#x0101;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="frat.hom0o">

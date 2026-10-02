@@ -176,6 +176,10 @@
     <trd>&scaron;por&aacute;k</trd>
   </trdgrp>
   <trd lng="uk">&c_p;&c_ib;&c_ch;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en; taksis Jev 87%">&#x5929;&#x7210;&#x5EA7; <pr>Ti&#x0101;nl&uacute;zu&ograve;</pr></trd>,
+    <trd fnt="Vikt: el en; taksis Jev 87%">&#x5929;&#x7089;&#x5EA7; <pr>Ti&#x0101;nl&uacute;zu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="forn.0ego">
@@ -241,6 +245,10 @@
     </dif>
     <trd lng="de" fnt="Vikt: de en fr ru; juĝis claude-opus-5">Hochofen</trd>
     <trd lng="en" fnt="Vikt: en de fr ru; juĝis claude-opus-5">blast furnace</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 84%">&#x9AD8;&#x7210; <pr>g&#x0101;ol&uacute;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 84%">&#x9AD8;&#x7089; <pr>g&#x0101;ol&uacute;</pr></trd>
+    </trdgrp>
   </snc>
   <!-- ne traduku EVI
   <trd lng="cs">vysok&aacute; pec</trd>

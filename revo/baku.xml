@@ -43,6 +43,12 @@
     <trd lng="fr">Bakou</trd>
     <trd lng="nl">Bakoe</trd>
     <trd lng="pl">Baku</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh el en ku ru; taksis Jev 95%">&#x5DF4;&#x5EAB; <pr>B&#x0101;k&ugrave;</pr></trd>,
+      <trd fnt="Vikt: zh el en ku ru; taksis Jev 95%">&#x5DF4;&#x5E93; <pr>B&#x0101;k&ugrave;</pr></trd>,
+      <trd fnt="Vikt: el; taksis Jev 2%">&#x5DF4;&#x99AC;&#x79D1; <pr>B&#x0101;m&#x01CE;k&#x0113;</pr></trd>,
+      <trd fnt="Vikt: el; taksis Jev 2%">&#x5DF4;&#x9A6C;&#x79D1; <pr>B&#x0101;m&#x01CE;k&#x0113;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_B;&c_a;&c_k;&c_u;</trd>
   <trd lng="ja">&#x30D0;&#x30AF;&#x30FC;  <pr>&#12400;&#x304F;&#x30FC;</pr></trd>

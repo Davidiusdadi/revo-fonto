@@ -40,6 +40,10 @@
     <trd lng="pl">b&lstroke;otniak</trd>
     <trd lng="pt">tartaranh&atilde;o</trd>
     <trd lng="sv">(k&auml;rr)h&ouml;k</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en fr ru; taksis Jev 80%">&#x9DC2;</trd>,
+      <trd fnt="Vikt: en fr ru; taksis Jev 80%">&#x9E5E;</trd>
+    </trdgrp>
   </snc>
   <trd lng="uk">&c_l;&c_u;&c_n;&c_mol;</trd>
 </drv>

@@ -35,6 +35,14 @@
     <trd lng="en">photodiode</trd>
     <trd lng="fr">photodiode</trd>
     <trd lng="ru">&c_f;&c_o;&c_t;&c_o;&c_d;&c_i;&c_o;&c_d;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 96%">&#x5149;&#x96FB;&#x4E8C;&#x6975;&#x7BA1; <pr>gu&#x0101;ngdi&agrave;n&egrave;rj&iacute;gu&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 96%">&#x5149;&#x7535;&#x4E8C;&#x6781;&#x7BA1; <pr>gu&#x0101;ngdi&agrave;n&egrave;rj&iacute;gu&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 96%">&#x5149;&#x96FB;&#x4E8C;&#x6975;&#x9AD4; <pr>gu&#x0101;ngdi&agrave;n&egrave;rj&iacute;t&#x01D0;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 96%">&#x5149;&#x7535;&#x4E8C;&#x6781;&#x4F53; <pr>gu&#x0101;ngdi&agrave;n&egrave;rj&iacute;t&#x01D0;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 57%">&#x654F;&#x4E8C;&#x6975;&#x7BA1; <pr>m&#x01D0;n&egrave;rj&iacute;gu&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 57%">&#x654F;&#x4E8C;&#x6781;&#x7BA1; <pr>m&#x01D0;n&egrave;rj&iacute;gu&#x01CE;n</pr></trd>
+    </trdgrp>
   </snc>
 </drv>
 

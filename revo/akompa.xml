@@ -392,6 +392,11 @@
     <trd>sprievodca</trd>
   </trdgrp>
   <trd lng="uk">&c_s;&c_u;&c_p;&c_r;&c_o;&c_v;&c_ib;&c_d;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 88%">&#x5925;&#x4F34; <pr>hu&#x01D2;b&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 88%">&#x4F19;&#x4F34; <pr>hu&#x01D2;b&agrave;n</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 89%">&#x540C;&#x4F34; <pr>t&oacute;ngb&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="akompa.0antaro">
@@ -484,6 +489,14 @@
     <trd>mengiringi</trd>,
     <trd>berteman</trd>
   </trdgrp>
+   <trdgrp lng="zh">
+     <trd fnt="Vikt: en; taksis Jev 86%">&#x96A8;&#x5F9E; <pr>su&iacute;c&oacute;ng</pr></trd>,
+     <trd fnt="Vikt: en; taksis Jev 86%">&#x968F;&#x4ECE; <pr>su&iacute;c&oacute;ng</pr></trd>,
+     <trd fnt="Vikt: en; taksis Jev 78%">&#x96A8;&#x54E1; <pr>su&iacute;yu&aacute;n</pr></trd>,
+     <trd fnt="Vikt: en; taksis Jev 78%">&#x968F;&#x5458; <pr>su&iacute;yu&aacute;n</pr></trd>,
+     <trd fnt="Vikt: fr; taksis Jev 17%">&#x904A;&#x884C;&#x968A;&#x4F0D; <pr>y&oacute;ux&iacute;ngdu&igrave;w&#x01D4;</pr></trd>,
+     <trd fnt="Vikt: fr; taksis Jev 17%">&#x6E38;&#x884C;&#x961F;&#x4F0D; <pr>y&oacute;ux&iacute;ngdu&igrave;w&#x01D4;</pr></trd>
+   </trdgrp>
 </drv>
 </art>
 <!--

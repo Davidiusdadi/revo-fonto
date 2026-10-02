@@ -74,6 +74,10 @@
   </trdgrp>
   <trd lng="sw">mahesabu</trd>
   <trd lng="uk">&c_a;&c_r;&c_i;&c_f;&c_m;&c_je;&c_t;&c_i;&c_k;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr ku ru; taksis Jev 73%">&#x7B97;&#x8853; <pr>su&agrave;nsh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en fr ku ru; taksis Jev 73%">&#x7B97;&#x672F; <pr>su&agrave;nsh&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="aritme.0a">
@@ -203,6 +207,10 @@
     <trd>&c_A;&c_L;&c_U;</trd>
   </trdgrp>
   <trd lng="sk">aritmeticko logick&aacute; jednotka</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 80%">&#x7B97;&#x8853;&#x908F;&#x8F2F;&#x55AE;&#x5143; <pr>su&agrave;nsh&ugrave; lu&oacute;j&iacute; d&#x0101;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 80%">&#x7B97;&#x672F;&#x903B;&#x8F91;&#x5355;&#x5143; <pr>su&agrave;nsh&ugrave; lu&oacute;j&iacute; d&#x0101;nyu&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

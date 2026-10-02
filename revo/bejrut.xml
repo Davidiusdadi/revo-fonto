@@ -49,6 +49,10 @@
     <trd lng="en">Beirut</trd>
     <trd lng="fr">Beyrouth</trd>
     <trd lng="pl">Bejrut</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh el en fr ko ku nl; taksis Jev 96%">&#x8C9D;&#x9B6F;&#x7279; <pr>B&egrave;il&#x01D4;t&egrave;</pr></trd>,
+      <trd fnt="Vikt: zh el en fr ko ku nl; taksis Jev 96%">&#x8D1D;&#x9C81;&#x7279; <pr>B&egrave;il&#x01D4;t&egrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="ja">&#x30D9;&#x30A4;&#x30EB;&#x30FC;&#x30C8;  <pr>&#12409;&#12356;&#x308B;&#x30FC;&#12392;</pr></trd>
   <trd lng="uk">&c_B;&c_je;&c_j;&c_r;&c_u;&c_t;</trd>

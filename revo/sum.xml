@@ -584,6 +584,7 @@
     <trd>&c_p;&c_ib;&c_d;&c_s;&c_u;&c_m;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_p;&c_ib;&c_d;&c_b;&c_i;&c_v;&c_a;&c_t;&c_i; &c_p;&c_ib;&c_d;&c_s;&c_u;&c_m;&c_o;&c_k;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: de; taksis Jev 87%">&#x52A0; <pr>ji&#x0101;</pr></trd>
 </drv>
 
 <drv mrk="sum.re0i">
@@ -610,6 +611,13 @@
     <trd>reasumowa&cacute;</trd>,
     <trd>streszcza&cacute;</trd>,
     <trd>rekapitulowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 67%">&#x7E3D;&#x7D50; <pr>z&#x01D2;ngji&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 67%">&#x603B;&#x7ED3; <pr>z&#x01D2;ngji&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 50%">&#x532F;&#x7E3D; <pr>hu&igrave;z&#x01D2;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 50%">&#x532F;&#x603B; <pr>hu&igrave;z&#x01D2;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 51%">&#x6C47;&#x603B; <pr>hu&igrave;z&#x01D2;ng</pr></trd>
   </trdgrp>
 </drv>
 

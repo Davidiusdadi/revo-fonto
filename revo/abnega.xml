@@ -96,6 +96,11 @@
     <trd>&c_v;&c_ib;&c_d;&#x43C;&#x43E;&c_v;&c_a;</trd>,
     <trd>&c_s;&c_a;&#x43C;&#x43E;&c_z;&c_r;&c_je;&c_ch;&c_je;&#x43D;&#x43D;&#x44F;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 77%">&#x5FD8;&#x6211;&#x7CBE;&#x795E; <pr>w&agrave;ngw&#x01D2;j&#x012B;ngsh&eacute;n</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 77%">&#x7121;&#x79C1; <pr>w&uacute;s&#x012B;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 77%">&#x65E0;&#x79C1; <pr>w&uacute;s&#x012B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abnega.0i">
@@ -171,6 +176,11 @@
   <trd lng="hu">&aacute;ldozatk&eacute;sz</trd>
   <trd lng="pl">oddany</trd>
   <trd lng="sk">odriekav&yacute;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 89%">&#x5FD8;&#x6211;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 93%">&#x7121;&#x79C1;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 93%">&#x65E0;&#x79C1;&#x7684;</trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

@@ -49,6 +49,10 @@
     <trd lng="en">pectin</trd>
     <trd lng="fr">pectine</trd>
     <trd lng="pl">pektyna</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en ru; taksis Jev 95%">&#x679C;&#x81A0; <pr>gu&#x01D2;ji&#x0101;o</pr></trd>,
+      <trd fnt="Vikt: zh en ru; taksis Jev 95%">&#x679C;&#x80F6; <pr>gu&#x01D2;ji&#x0101;o</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_p;&c_e;&c_k;&c_t;&c_y;&c_n;</trd>
 </drv>

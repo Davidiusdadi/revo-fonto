@@ -576,6 +576,12 @@
     <trd lng="pl">czajnik</trd>
     <trd lng="ro">ceainic</trd>
     <trd lng="ru">&c_ch;&c_a;&c_j;&c_n;&c_i;&c_k;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en fr ku; taksis Jev 89%">&#x6C34;&#x58FA; <pr>shu&#x01D0;h&uacute;</pr></trd>,
+      <trd fnt="Vikt: en fr ku; taksis Jev 89%">&#x6C34;&#x58F6; <pr>shu&#x01D0;h&uacute;</pr></trd>,
+      <trd fnt="Vikt: en ku; taksis Jev 81%">&#x58FA; <pr>h&uacute;</pr></trd>,
+      <trd fnt="Vikt: en ku; taksis Jev 81%">&#x58F6; <pr>h&uacute;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_ch;&c_a;&c_j;&c_n;&c_ib;&c_k;</trd>
   <trd lng="bg">&c_ch;&c_a;&c_j;&c_n;&c_i;&c_k;</trd>

@@ -122,6 +122,12 @@
   <trd lng="xh">intsika</trd>
   <trd lng="yi">&zayin;&yod;&yod;&#1463;&lamed;</trd>
   <trd lng="yo">iwe</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en es fr ku; taksis Jev 8%">&#x67F1;</trd>,
+    <trd fnt="Vikt: en fr ku ru; taksis Jev 7%">&#x67F1;&#x5B50; <pr>zh&ugrave;zi</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 6%">&#x6881;&#x67F1; <pr>li&aacute;ngzh&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 6%">&#x6A11;&#x67F1; <pr>li&aacute;ngzh&ugrave;</pr></trd>
+  </trdgrp>
   <trd lng="zu">ikholomu</trd>
 </drv>
 </art>

@@ -497,6 +497,11 @@
     <trd>zwiastun</trd>,
     <trd>wywo&lstroke;ywacz</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en; taksis Jev 85%">&#x4FE1;&#x4F7F; <pr>x&igrave;nsh&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 58%">&#x4F3B; <pr>b&#x0113;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 85%">&#x4F7F;&#x8005; <pr>sh&#x01D0;zh&ecaron;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="anonc.0isto">
@@ -607,6 +612,13 @@
   <trdgrp lng="sk">
     <trd>ohlasovate&lcaron;</trd>,
     <trd>oznamovate&lcaron;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja; taksis Jev 30%">&#x4E3B;&#x6301;&#x4EBA; <pr>zh&#x01D4;ch&iacute;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 58%">&#x64AD;&#x97F3;&#x54E1; <pr>b&ograve;y&#x012B;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 58%">&#x64AD;&#x97F3;&#x5458; <pr>b&ograve;y&#x012B;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 69%">&#x5831;&#x5E55;&#x54E1; <pr>b&agrave;om&ugrave;yu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 69%">&#x62A5;&#x5E55;&#x5458; <pr>b&agrave;om&ugrave;yu&aacute;n</pr></trd>
   </trdgrp>
 </drv>
 

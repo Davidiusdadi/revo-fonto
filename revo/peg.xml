@@ -204,6 +204,10 @@
     <trd lng="en"><klr>european </klr>green <ind>woodpecker</ind></trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; zielony</trd>
     <trd lng="sv">gr&ouml;ng&ouml;ling</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x7DA0;&#x5544;&#x6728;&#x9CE5;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x7EFF;&#x5544;&#x6728;&#x9E1F;</trd>
+    </trdgrp>
   </snc>
 <trdgrp lng="en">
   <trd><ind>Picus</ind> viridis <klr>(species)</klr></trd>,
@@ -324,6 +328,12 @@
     <trd lng="de" fnt="Vikt: en fr; juĝis claude-opus-5">Buntspecht</trd>
     <trd lng="pl">dzi&eogonek;cio&lstroke; du&zdot;y</trd>
     <trd lng="sv">st&ouml;rre <ind>hackspett</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 23%">&#x5544;&#x6728;&#x51A0; <pr>zhu&oacute;m&ugrave;gu&agrave;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 89%">&#x5927;&#x6591;&#x5544;&#x6728;&#x9CE5; <pr>d&agrave;b&#x0101;n zhu&oacute;m&ugrave;ni&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 89%">&#x5927;&#x6591;&#x5544;&#x6728;&#x9E1F; <pr>d&agrave;b&#x0101;n zhu&oacute;m&ugrave;ni&#x01CE;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 55%">&#x82B1;&#x5544;&#x6728; <pr>hu&#x0101;zhu&oacute;m&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
 <trdgrp lng="en">
   <trd><ind>Dendrocopos</ind> major <klr>(species)</klr></trd>,

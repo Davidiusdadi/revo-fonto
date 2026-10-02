@@ -154,6 +154,14 @@
    <trd lng="sk">f&iacute;nsky</trd>
    <trd lng="uk">&c_f;&c_ib;&c_n;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>
    <trd lng="vo">Suomiy&auml;nik</trd>
+   <trdgrp lng="zh">
+     <trd fnt="Vikt: en pl; taksis Jev 93%">&#x82AC;&#x862D;&#x7684;</trd>,
+     <trd fnt="Vikt: en pl; taksis Jev 93%">&#x82AC;&#x5170;&#x7684;</trd>,
+     <trd fnt="Vikt: en; taksis Jev 80%">&#x82AC;&#x862D;&#x8A9E;&#x7684;</trd>,
+     <trd fnt="Vikt: en; taksis Jev 80%">&#x82AC;&#x5170;&#x8BED;&#x7684;</trd>,
+     <trd fnt="Vikt: pl; taksis Jev 47%">&#x82AC;&#x862D; <pr>F&#x0113;nl&aacute;n</pr></trd>,
+     <trd fnt="Vikt: pl; taksis Jev 47%">&#x82AC;&#x5170; <pr>F&#x0113;nl&aacute;n</pr></trd>
+   </trdgrp>
  </drv>
 
 <drv mrk="finn.0alingvo">
@@ -209,6 +217,10 @@
   <trd lng="ru">&c_f;&c_i;&c_n;&c_s;&c_k;&c_i;&c_j; &c_ja;&c_z;&c_y;&c_k;</trd>
   <trd lng="tok">toki Sumi</trd>
   <trd lng="vo">Suomiy&auml;nap&uuml;k</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en fr; taksis Jev 96%">&#x82AC;&#x862D;&#x8A9E; <pr>F&#x0113;nl&aacute;ny&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: zh en fr; taksis Jev 96%">&#x82AC;&#x5170;&#x8BED; <pr>F&#x0113;nl&aacute;ny&#x01D4;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="finn.F0lando">

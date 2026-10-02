@@ -151,6 +151,11 @@
     <trd>&c_b;&c_je;&c_z;&c_g;&#x43B;&c_u;&c_z;&c_d;&c_i;&c_j;</trd>,
     <trd>&#x43D;&c_ib;&c_s;&c_je;&#x43D;&c_ib;&c_t;&#x43D;&c_i;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru tr; taksis Jev 87%">&#x4E0D;&#x5408;&#x7406;&#x7684;</trd>,
+    <trd fnt="Vikt: ru tr; taksis Jev 94%">&#x8352;&#x8C2C;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 60%">&#x6BEB;&#x65E0;&#x610F;&#x4E49;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="absurd.0ajxo">
@@ -224,6 +229,14 @@
   <trd lng="he">&#x5D0;&#x5B7;&#x5D1;&#x5BC;&#x5E1;&#x5D5;&#x5BC;&#x5E8;&#x5D3;&#x5B4;</trd>
   <trd lng="id">hal absurd</trd>
   <trd lng="ja">&#x4E0D;&#26465;&#29702;  <pr>&#12405;&#12376;&#12423;&#12358;&#x308A;</pr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 77%">&#x7121;&#x610F;&#x7FA9; <pr>w&uacute;y&igrave;y&igrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 77%">&#x65E0;&#x610F;&#x4E49; <pr>w&uacute;y&igrave;y&igrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 86%">&#x8352;&#x8B2C; <pr>hu&#x0101;ngmi&ugrave;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 86%">&#x8352;&#x8C2C; <pr>hu&#x0101;ngmi&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x5EE2;&#x8A71; <pr>f&egrave;ihu&agrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 69%">&#x5E9F;&#x8BDD; <pr>f&egrave;ihu&agrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="absurd.0eco">
@@ -261,6 +274,11 @@
 <trdgrp lng="id">
   <trd>absurditas</trd>,
   <trd><baz>absurd</baz>keabsurdan</trd>
+</trdgrp>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: ru; taksis Jev 22%">&#x611A;&#x8822; <pr>y&uacute;ch&#x01D4;n</pr></trd>,
+  <trd fnt="Vikt: ru; taksis Jev 92%">&#x8352;&#x8B2C; <pr>hu&#x0101;ngmi&ugrave;</pr></trd>,
+  <trd fnt="Vikt: ru; taksis Jev 92%">&#x8352;&#x8C2C; <pr>hu&#x0101;ngmi&ugrave;</pr></trd>
 </trdgrp>
 </drv>
 </art>

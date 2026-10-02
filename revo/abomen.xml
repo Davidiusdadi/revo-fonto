@@ -157,6 +157,11 @@
     <trd>&c_v;&c_ib;&c_d;&c_ch;&c_u;&c_v;&c_a;&c_t;&c_i; &c_o;&c_g;&c_i;&c_d;&c_u;/&c_v;&c_ib;&c_d;&c_r;&c_a;&c_z;&c_u;</trd>,
     <trd>&c_s;&c_t;&c_a;&c_v;&c_i;&c_t;&c_i;&c_s;&c_ja; &c_z; &c_v;&c_ib;&c_d;&c_r;&c_a;&c_z;&c_o;&c_ju;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de en pt; taksis Jev 46%">&#x75DB;&#x6068; <pr>t&ograve;ngh&egrave;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 29%">&#x618E;&#x6068; <pr>z&#x0113;ngh&egrave;n</pr></trd>,
+    <trd fnt="Vikt: en ja; taksis Jev 89%">&#x53AD;&#x60E1; <pr>y&agrave;nw&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abomen.0a">
@@ -268,6 +273,11 @@
     <trd>&c_o;&c_g;&c_i;&c_d;&c_n;&c_i;&c_j;</trd>,
     <trd>&c_g;&c_i;&c_d;&c_k;&c_i;&c_j;</trd>,
     <trd>&c_p;&c_l;&c_ju;&c_g;&c_a;&c_v;&c_i;&c_j;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x53EF;&#x60E1; <pr>k&ecaron;w&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x53EF;&#x6076; <pr>k&ecaron;w&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 25%">&#x618E;&#x60E1; <pr>z&#x0113;ngw&ugrave;</pr></trd>
   </trdgrp>
 </drv>
 
@@ -392,6 +402,10 @@
     <trd>&c_v;&c_ib;&c_d;&c_r;&c_a;&c_z;&c_a;</trd>,
     <trd>&c_o;&c_g;&c_i;&c_d;&c_a;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x53AD;&#x60E1; <pr>y&agrave;nw&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 91%">&#x538C;&#x6076; <pr>y&agrave;nwu</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abomen.0ajxo">
@@ -470,6 +484,11 @@
   <trd lng="ja">&#24524;&#12414;&#12431;&#12375;&#12356;&#12418;&#12398;  <pr>&#12356;&#12414;&#12431;&#12375;&#12356;&#12418;&#12398;</pr></trd>
   <trd lng="pl">obrzydliwo&sacute;&cacute;</trd>
   <trd lng="ro">detestare</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 28%">&#x53AD;&#x60E1; <pr>y&agrave;nw&ugrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 37%">&#x538C;&#x6076; <pr>y&agrave;nwu</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 14%">&#x602A;&#x7269; <pr>gu&agrave;iwu</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="abomen.0igi">
@@ -667,6 +686,11 @@
   </trdgrp>
   <trd lng="sv">avskyv&auml;rd</trd>
 <trd lng="th">&#3609;&#3656;&#3634;&#3619;&#3633;&#3591;&#3648;&#3585;&#3637;&#3618;&#3592;</trd>
+<trdgrp lng="zh">
+  <trd fnt="Vikt: en; taksis Jev 22%">&#x618E;&#x60E1; <pr>z&#x0113;ngw&ugrave;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 20%">&#x618E;&#x6076; <pr>z&#x0113;ngw&ugrave;</pr></trd>,
+  <trd fnt="Vikt: en; taksis Jev 81%">&#x53EF;&#x60E1; <pr>k&ecaron;w&ugrave;</pr></trd>
+</trdgrp>
 </drv>
 </art>
 <!--

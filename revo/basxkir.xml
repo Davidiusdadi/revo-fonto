@@ -23,6 +23,10 @@
     <trd lng="de">Baschkire</trd>
     <trd lng="en" fnt="Vikt: fr pt ru; juĝis claude-opus-5">Bashkir</trd>
     <trd lng="pl">Baszkir</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: pt; taksis Jev 95%">&#x5DF4;&#x4EC0;&#x57FA;&#x723E;&#x4EBA; <pr>b&#x0101;sh&iacute;j&#x012B;'&ecaron;rr&eacute;n</pr></trd>,
+      <trd fnt="Vikt: pt; taksis Jev 95%">&#x5DF4;&#x4EC0;&#x57FA;&#x5C14;&#x4EBA; <pr>b&#x0101;sh&iacute;j&#x012B;'&ecaron;rr&eacute;n</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_b;&c_a;&c_sh;&c_k;&c_ib;&c_r;</trd>
 </drv>
@@ -77,6 +81,10 @@
     <trd>Republika Baszkortostan</trd>
   </trdgrp>
   <trd lng="ru">&c_B;&c_a;&c_sh;&c_k;&c_o;&c_r;&c_t;&c_o;&c_s;&c_t;&c_a;&c_n;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 91%">&#x5DF4;&#x4EC0;&#x79D1;&#x723E;&#x6258;&#x65AF;&#x5766; <pr>B&#x0101;sh&iacute;k&#x0113;'&ecaron;rtu&#x014D;s&#x012B;t&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 91%">&#x5DF4;&#x4EC0;&#x79D1;&#x5C14;&#x6258;&#x65AF;&#x5766; <pr>B&#x0101;sh&iacute;k&#x0113;'&ecaron;rtu&#x014D;s&#x012B;t&#x01CE;n</pr></trd>
+  </trdgrp>
  </drv>
 </art>
 

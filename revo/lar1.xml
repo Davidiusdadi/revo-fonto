@@ -36,6 +36,11 @@
     <trd lng="de">Lar</trd>
     <trd lng="en">Lar</trd>
     <trd lng="fr">Lar</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh cs en; taksis Jev 5%">&#x6D77;&#x9DD7; <pr>h&#x01CE;i'&#x014D;u</pr></trd>,
+      <trd fnt="Vikt: cs en; taksis Jev 6%">&#x6D77;&#x9E25; <pr>h&#x01CE;i'&#x014D;u</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 8%">&#x9E25;</trd>
+    </trdgrp>
   </snc>
   <refgrp tip="hom">
     <ref cel="lar.0o">laro</ref>

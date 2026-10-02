@@ -157,6 +157,11 @@
     <trd>saloperie !</trd>,
     <trd>zut !</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en es; taksis Jev 29%">&#x5509;</trd>,
+    <trd fnt="Vikt: en es; taksis Jev 66%">&#x5478; <pr>p&#x0113;i</pr></trd>,
+    <trd fnt="Vikt: en es; taksis Jev 41%">&#x54CE; <pr>&#x0101;i</pr></trd>
+  </trdgrp>
 </drv>
 <drv mrk="acx.0a">
   <kap><tld/>a</kap>
@@ -578,6 +583,13 @@
     <trd>genial</trd>,
     <trd>estupendo</trd>,
     <trd>guay</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x51B7;&#x975C; <pr>l&ecaron;ngj&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x51B7;&#x9759; <pr>l&ecaron;ngj&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 6%">&#x51B7;&#x9759; <pr>l&ecaron;ngj&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 6%">&#x51B7;&#x975C; <pr>l&ecaron;ngj&igrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x68D2; <pr>b&agrave;ng</pr></trd>
   </trdgrp>
 </drv>
 </subart>

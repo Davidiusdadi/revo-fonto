@@ -273,6 +273,14 @@
   <trd lng="sk">po&lcaron;sk&yacute;</trd>
   <trd lng="uk">&c_p;&c_o;&c_l;&c_mol;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>
   <trd lng="vo">Pol&auml;nik</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku pl; taksis Jev 89%">&#x6CE2;&#x862D;&#x7684;</trd>,
+    <trd fnt="Vikt: en ku pl; taksis Jev 89%">&#x6CE2;&#x5170;&#x7684;</trd>,
+    <trd fnt="Vikt: pl; taksis Jev 61%">&#x6CE2;&#x862D; <pr>B&#x014D;l&aacute;n</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 61%">&#x6CE2;&#x5170; <pr>B&#x014D;l&aacute;n</pr></trd>,
+    <trd fnt="Vikt: it; taksis Jev 66%">&#x6CE2;&#x862D;&#x8A9E; <pr>B&#x014D;l&aacute;ny&#x01D4;</pr></trd>,
+    <trd fnt="Vikt: it; taksis Jev 66%">&#x6CE2;&#x5170;&#x8BED; <pr>B&#x014D;l&aacute;ny&#x01D4;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="pol.P0ujo">
@@ -552,6 +560,10 @@
     <trd lng="pl">Polak</trd>
     <trd lng="tok">jan Posuka</trd>
     <trd lng="vo">Pol&auml;nan</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: pl; taksis Jev 83%">&#x6CE2;&#x862D;&#x4EBA; <pr>b&#x014D;l&aacute;nr&eacute;n</pr></trd>,
+      <trd fnt="Vikt: pl; taksis Jev 83%">&#x6CE2;&#x5170;&#x4EBA; <pr>b&#x014D;l&aacute;nr&eacute;n</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_a;&c_l;&c_ja;&c_k;</trd>,

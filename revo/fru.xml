@@ -192,6 +192,10 @@
   <trd lng="xh">kusasa</trd>
   <trd lng="yi">&pe;&resh;&yod;</trd>
   <trd lng="yo">tete</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ko ku; taksis Jev 90%">&#x65E9;</trd>,
+    <trd fnt="Vikt: de; taksis Jev 27%">&#x8FD1;&#x671F; <pr>j&igrave;nq&#x012B;</pr></trd>
+  </trdgrp>
   <trd lng="zu">zakuqala</trd>
 </drv>
 
@@ -654,6 +658,13 @@ v&eacute;g&eacute;tation)</klr></trd>,
   <trd lng="xh">kade</trd>
   <trd lng="yi">&shin;&pe;&#x5BC;&ayin;&tet;</trd>
   <trd lng="yo">p&#x1EB9;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: de en ku pl; taksis Jev 85%">&#x665A; <pr>w&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 86%">&#x9072;</trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 86%">&#x8FDF;</trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 46%">&#x9072;&#x5230; <pr>ch&iacute;d&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 46%">&#x8FDF;&#x5230; <pr>ch&iacute;d&agrave;o</pr></trd>
+  </trdgrp>
   <trd lng="zu">sekwephuzile</trd>
 </drv>
 
@@ -818,6 +829,12 @@ v&eacute;g&eacute;tation)</klr></trd>,
     <trd>&c_p;&c_ib;&c_z;&c_n;&c_i;&c_t;&c_i;</trd>,
     <trd>&c_v;&c_ib;&c_d;&c_s;&c_t;&c_a;&c_v;&c_a;&c_t;&c_i; (&c_p;&c_r;&c_o;
     &c_g;&c_o;&c_d;&c_i;&c_n;&c_n;&c_i;&c_k;)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x4F86;&#x665A; <pr>l&aacute;iw&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x6765;&#x665A; <pr>l&aacute;iw&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x9072;&#x5230; <pr>ch&iacute;d&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x8FDF;&#x5230; <pr>ch&iacute;d&agrave;o</pr></trd>
   </trdgrp>
 </drv>
 

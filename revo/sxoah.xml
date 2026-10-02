@@ -52,6 +52,10 @@
     <trd lng="en" kod="HIS" fnt="Vikt: en; juĝis claude-opus-5">Holocaust <klr>(historical)</klr></trd>
     <trd lng="fr">Shoah</trd>
     <trd lng="he">&he;&#x5B7;&shin;&#x5BC;&#x5C1;&vav;&#x5B9;&alef;&#x5B8;&he;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 90%">&#x7336;&#x592A;&#x4EBA;&#x5927;&#x5C60;&#x6BBA; <pr>Y&oacute;ut&agrave;ir&eacute;n D&agrave;t&uacute;sh&#x0101;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 90%">&#x72B9;&#x592A;&#x4EBA;&#x5927;&#x5C60;&#x6740; <pr>Y&oacute;ut&agrave;ir&eacute;n D&agrave;t&uacute;sh&#x0101;</pr></trd>
+    </trdgrp>
   </snc>
 </drv>
 

@@ -606,6 +606,12 @@
     <trd>in&eacute;</trd>,
     <trd>nie&ccaron;o in&eacute;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 80%">&#x5176;&#x4ED6; <pr>q&iacute;t&#x0101;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 9%">&#x518D;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 60%">&#x5225; <pr>bi&eacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 60%">&#x522B; <pr>bi&eacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="ali.0igi">
@@ -870,6 +876,14 @@
   <trdgrp lng="uk">
     <trd>&c_ib;&c_n;&c_sh;&c_i;&c_j;</trd>,
     <trd>&c_ib;&c_n;&c_a;&c_k;&c_sh;&c_i;&c_j; (&c_ib;&c_m;.)</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x5225;&#x7684;&#x4EBA; <pr>bi&eacute; der&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 93%">&#x522B;&#x7684;&#x4EBA; <pr>bi&eacute; der&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x53E6;&#x5916;&#x4E00;&#x500B;&#x4EBA; <pr>l&igrave;ngw&agrave;iy&#x012B;g&egrave;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x53E6;&#x5916;&#x4E00;&#x4E2A;&#x4EBA; <pr>l&igrave;ngw&agrave;iy&#x012B;g&egrave;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x53E6;&#x5916;&#x4E00;&#x4E2A;&#x4EBA; <pr>l&igrave;ngw&agrave;iy&#x012B;g&egrave;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 94%">&#x53E6;&#x5916;&#x4E00;&#x500B;&#x4EBA; <pr>l&igrave;ngw&agrave;iy&#x012B;g&egrave;r&eacute;n</pr></trd>
   </trdgrp>
 </drv>
 

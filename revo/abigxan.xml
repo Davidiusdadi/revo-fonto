@@ -45,6 +45,11 @@
     <trd lng="fr">Abidjan</trd>
     <trd lng="nl">Abidjan</trd>
     <trd lng="pl">Abid&zdot;an</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh de el en ko ru; taksis Jev 93%">&#x963F;&#x6BD4;&#x8B93; <pr>&#x0100;b&#x01D0;r&agrave;ng</pr></trd>,
+      <trd fnt="Vikt: zh de el en ko ru; taksis Jev 93%">&#x963F;&#x6BD4;&#x8BA9; <pr>&#x0100;b&#x01D0;r&agrave;ng</pr></trd>,
+      <trd fnt="Vikt: en ko; taksis Jev 85%">&#x963F;&#x5FC5;&#x5C1A;</trd>
+    </trdgrp>
   </snc>
 <trd lng="id">Abidjan</trd>
 </drv>

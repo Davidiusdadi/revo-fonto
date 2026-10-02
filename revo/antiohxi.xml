@@ -48,6 +48,11 @@
     <trd lng="fr">Antioche</trd>
     <trd lng="grc">&Alfa_psili;&ny;&tau;&jota;&omikron_ton;&chi;&epsilon;&jota;&alfa; <klr>(&eta_densa; &epsilon_psili;&pi;&jota_grave; &Omikron_psili;&rho;&omikron_ton;&ny;&tau;&omikron;&ypsilon;)</klr> </trd>
     <trd lng="pl">Antiochia</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 89%">&#x5B89;&#x63D0;&#x963F; <pr>&#x0100;nt&iacute;'&#x0101;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x5B89;&#x689D;&#x514B; <pr>&#x0101;nti&aacute;ok&egrave;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 92%">&#x5B89;&#x6761;&#x514B; <pr>&#x0101;nti&aacute;ok&egrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="uk">&c_A;&#x43D;&c_t;&c_ib;&#x43E;&c_h;&c_ib;&#x44F;</trd>
 </drv>

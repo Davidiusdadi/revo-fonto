@@ -437,6 +437,11 @@
   <trd lng="xh">ukukhanya</trd>
   <trd lng="yi">&shin;&yod;&yod;&#x5B7;&nun;&ayin;&fnun;</trd>
   <trd lng="yo">im&#x1ECD;l&#x1EB9;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pt tr; taksis Jev 81%">&#x5149;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x8F1D;&#x5149; <pr>hu&#x012B;gu&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x8F89;&#x5149; <pr>hu&#x012B;gu&#x0101;ng</pr></trd>
+  </trdgrp>
   <trd lng="zu">inkazimulo</trd>
 </drv>
 
@@ -623,6 +628,11 @@
     <trd>ligotav&yacute;</trd>,
     <trd>skvel&yacute;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 43%">&#x4EAE;</trd>,
+    <trd fnt="Vikt: pt; taksis Jev 36%">&#x5149;&#x4EAE; <pr>gu&#x0101;ngli&agrave;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 38%">&#x660E; <pr>m&iacute;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bril.0eto">
@@ -764,6 +774,10 @@
   <trdgrp lng="pl">
     <trd>u&sacute;wietnia&cacute;</trd>,
     <trd>glansowa&cacute;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 35%">&#x9583;&#x5149; <pr>sh&#x01CE;ngu&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 35%">&#x95EA;&#x5149; <pr>sh&#x01CE;ngu&#x0101;ng</pr></trd>
   </trdgrp>
 </drv>
 
@@ -942,6 +956,10 @@
   <trd lng="de">aufleuchten</trd>
   <trd lng="en">flash</trd>
   <trd lng="fr">s'&eacute;panouir</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x9583;&#x73FE; <pr>sh&#x01CE;nxi&agrave;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x95EA;&#x73B0; <pr>sh&#x01CE;nxi&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bril.re0i">
@@ -1069,6 +1087,10 @@
   <trd lng="de">Sonnenschein</trd>
   <trd lng="en">sunshine</trd>
   <trd lng="pl">blask s&lstroke;o&nacute;ca</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 91%">&#x967D;&#x5149; <pr>y&aacute;nggu&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 91%">&#x9633;&#x5149; <pr>y&aacute;nggu&#x0101;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bril.trem0i">

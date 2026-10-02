@@ -150,6 +150,13 @@
     <trd>&c_b;&c_o;&c_m;&c_b;&c_i;&c_t;&c_i;</trd>,
     <trd>&c_b;&c_o;&c_m;&c_b;&c_a;&c_r;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ko pt; taksis Jev 92%">&#x8F5F;&#x70B8; <pr>h&#x014D;ngzh&agrave;</pr></trd>,
+    <trd fnt="Vikt: en pt; taksis Jev 52%">&#x70AE;&#x64CA; <pr>p&agrave;oj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en pt; taksis Jev 52%">&#x70AE;&#x51FB; <pr>p&agrave;oj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en pt; taksis Jev 89%">&#x8F5F;&#x64CA; <pr>h&#x014D;ngj&#x012B;</pr></trd>,
+    <trd fnt="Vikt: en pt; taksis Jev 89%">&#x8F5F;&#x51FB; <pr>h&#x014D;ngj&#x012B;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bomb.0ado">
@@ -282,6 +289,10 @@
   <trd lng="ja">&#x539F;&#x5B50;&#x7206;&#x5F3E;  <pr>&#x3052;&#x3093;&#x3057;&#x3070;&#x304F;&#x3060;&#x3093;</pr></trd>
   <trd lng="pl">bomba atomowa</trd>
   <trd lng="uk">&c_a;&c_t;&c_o;&c_m;&c_n;&c_a; &c_b;&c_o;&c_m;&c_b;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ja; taksis Jev 97%">&#x539F;&#x5B50;&#x5F48; <pr>yu&aacute;nz&#x01D0;d&agrave;n</pr></trd>,
+    <trd fnt="Vikt: zh en ja; taksis Jev 97%">&#x539F;&#x5B50;&#x5F39; <pr>yu&aacute;nz&#x01D0;d&agrave;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="bomb.horlogx0o">

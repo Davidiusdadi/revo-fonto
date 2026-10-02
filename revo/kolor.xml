@@ -659,6 +659,12 @@
     <trd>&c_f;&c_a;&c_r;&c_b;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_z;&c_a;&c_f;&c_a;&c_r;&c_b;&c_o;&c_v;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 86%">&#x4E0A;&#x8272; <pr>sh&agrave;ngs&egrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 83%">&#x586B;&#x8272;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x8457;&#x8272; <pr>zhu&oacute;s&egrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 88%">&#x7740;&#x8272; <pr>zhu&oacute;s&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolor.0igilo">
@@ -1061,6 +1067,7 @@
   <trd lng="pl">malarz<klr> pokojowy</klr></trd>
   <trd lng="ru">&c_m;&c_a;&c_l;&c_ja;&c_r;</trd>
   <trd lng="tr">boyac&inodot;</trd>
+  <trd lng="zh" fnt="Vikt: tr; taksis Jev 5%">&#x67D3;&#x623F; <pr>r&#x01CE;nf&#x0101;ng</pr></trd>
 </drv>
 
 <drv mrk="kolor.0nuanco">
@@ -1100,6 +1107,11 @@
   <trd lng="be">&c_a;&c_d;&c_c;&c_je;&c_n;&c_mol;&c_n;&c_je; &c_k;&c_o;&c_l;&c_je;&c_r;&c_u;</trd>
   <trd lng="en">tint</trd>
   <trd lng="pl">odcie&nacute; <ind>koloru</ind></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 20%">&#x8272;&#x5F69; <pr>s&egrave;c&#x01CE;i</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 57%">&#x8272;&#x8ABF; <pr>s&egrave;di&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 57%">&#x8272;&#x8C03; <pr>s&egrave;di&agrave;o</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kolor.mult0a">
@@ -1435,6 +1447,7 @@
   </trdgrp>
   <trd lng="id">triwarna</trd>
   <trd lng="pl">tr&oacute;jkolorowy</trd>
+  <trd lng="zh" fnt="Vikt: en fr; taksis Jev 84%">&#x4E09;&#x8272;&#x65D7; <pr>s&#x0101;ns&egrave;q&iacute;</pr></trd>
 </drv>
 
 <drv mrk="kolor.vaks0a">

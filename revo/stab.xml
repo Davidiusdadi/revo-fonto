@@ -126,6 +126,14 @@
     <trd>&scaron;t&aacute;b</trd>
   </trdgrp>
   <trd lng="uk">&c_sh;&c_t;&c_a;&c_b;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 10%">&#x4EBA;&#x54E1; <pr>r&eacute;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 10%">&#x4EBA;&#x5458; <pr>r&eacute;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x54E1;&#x5DE5; <pr>yu&aacute;ng&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 5%">&#x5458;&#x5DE5; <pr>yu&aacute;ng&#x014D;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 19%">&#x5DE5;&#x4F5C;&#x4EBA;&#x54E1; <pr>g&#x014D;ngzu&ograve; r&eacute;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 19%">&#x5DE5;&#x4F5C;&#x4EBA;&#x5458; <pr>g&#x014D;ngzu&ograve; r&eacute;nyu&aacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 

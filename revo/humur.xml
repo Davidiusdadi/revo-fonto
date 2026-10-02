@@ -268,6 +268,11 @@
   <trd lng="de">Humorist</trd>
   <trd lng="id">humoris</trd>
   <trd lng="pl">humorysta</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 12%">&#x559C;&#x5287;&#x6F14;&#x54E1; <pr>x&#x01D0;j&ugrave; y&#x01CE;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 12%">&#x559C;&#x5267;&#x6F14;&#x5458; <pr>x&#x01D0;j&ugrave; y&#x01CE;nyu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 36%">&#x7B11;&#x661F; <pr>xi&agrave;ox&#x012B;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="humur.nigra0o">
@@ -313,6 +318,7 @@
   <trd lng="ja">&#12502;&#12521;&#12483;&#12463;&#12518;&#12540;&#12514;&#12450;</trd>
   <trd lng="nl">zwarte humor</trd>
   <trd lng="pl">czarny <ind>humor</ind></trd>
+  <trd lng="zh" fnt="Vikt: ru; taksis Jev 96%">&#x9ED1;&#x8272;&#x5E7D;&#x9ED8; <pr>h&#x0113;is&egrave; y&#x014D;um&ograve;</pr></trd>
 </drv>
 </art>
 <!--

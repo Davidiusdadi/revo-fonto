@@ -30,6 +30,10 @@
     <trd lng="en">B&eacute;arnaise sauce</trd>
     <trd lng="fr">sauce b&eacute;arnaise</trd>
     <trd lng="pl">sos bearne&nacute;ski</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: fr; taksis Jev 6%">&#x86CB;&#x9EC3;&#x91AC; <pr>d&agrave;nhu&aacute;ngji&agrave;ng</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 6%">&#x86CB;&#x9EC4;&#x9171; <pr>d&agrave;nhu&aacute;ngji&agrave;ng</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_b;&c_e;&c_a;&c_r;&c_n;&c_s;&c_k;&c_ib; <ind>&c_s;&c_o;&c_w;&c_s;</ind></trd>
 </drv>

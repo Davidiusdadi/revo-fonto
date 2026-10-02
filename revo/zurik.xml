@@ -128,6 +128,10 @@
   <trd lng="war">Z&uuml;rich</trd>
   <trd lng="wo">Zurich</trd>
   <trd lng="yi">&tsadi;&yod;&resh;&yod;&fkaf;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en fr pt ru; taksis Jev 95%">&#x8607;&#x9ECE;&#x4E16; <pr>s&#x016B;l&iacute;sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: en fr pt ru; taksis Jev 95%">&#x82CF;&#x9ECE;&#x4E16; <pr>s&#x016B;l&iacute;sh&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
   </art>

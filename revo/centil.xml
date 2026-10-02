@@ -41,6 +41,10 @@
     <trd lng="ru">&c_s;&c_a;&c_n;&c_t;&c_i;&c_l;&c_i;&c_t;&c_r;</trd>
     <trd lng="sk">centiliter</trd>
     <trd lng="sv">centiliter</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 95%">&#x5398;&#x5347; <pr>l&iacute;sh&#x0113;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 94%">&#x91D0;&#x5347; <pr>l&iacute;sh&#x0113;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="cs">centilitr</trd>
   <trd lng="he">&#x5E1;&#x5E0;&#x5D8;&#x5D9;&#x5DC;&#x5D9;&#x5D8;&#x5E8;</trd>

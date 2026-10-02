@@ -1186,6 +1186,10 @@
     <trd>obustronnie</trd>,
     <trd>po obu <ind>stronach</ind></trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 14%">&#x4E92;&#x76F8; <pr>h&ugrave;xi&#x0101;ng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 17%">&#x76F8;&#x4E92; <pr>xi&#x0101;ngh&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flank.de0igxi">
@@ -1784,6 +1788,11 @@
   <trd lng="de">vielseitig</trd>
   <trd lng="en">many-<ind>side</ind>d</trd>
   <trd lng="pl">wielostronny</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 61%">&#x591A;&#x624D;&#x591A;&#x85DD;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 61%">&#x591A;&#x624D;&#x591A;&#x827A;&#x7684;</trd>,
+    <trd fnt="Vikt: ru; taksis Jev 93%">&#x591A;&#x65B9;&#x9762;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="flank.patrin0a">

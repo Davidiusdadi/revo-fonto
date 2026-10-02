@@ -1374,6 +1374,11 @@
     <trd>einschlie&szlig;en</trd>
   </trdgrp>
   <trd lng="en"><ind>put</ind> in</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 36%">&#x63D2;&#x4E0A;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x63D2;&#x5165; <pr>ch&#x0101;r&ugrave;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 64%">&#x653E;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="met.for0i">
@@ -2748,6 +2753,11 @@
   <trd lng="ro">aliment</trd>
   <trd lng="ru">&c_p;&c_je;&c_r;&c_je;&c_m;&c_je;&c_n;&c_a;
   &c_b;&c_l;&c_ju;&c_d;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pl; taksis Jev 38%">&#x4EFD; <pr>f&egrave;n</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 57%">&#x83DC; <pr>c&agrave;i</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 6%">&#x98DF;&#x7269; <pr>sh&iacute;w&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

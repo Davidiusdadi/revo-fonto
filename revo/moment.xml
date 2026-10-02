@@ -554,6 +554,10 @@
       <trd>ara mateix</trd>
     </trdgrp>
     <trd lng="de">momentan</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 61%">&#x523B;&#x6B63; <pr>k&egrave;zh&egrave;ng</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 88%">&#x6B64;&#x523B; <pr>c&#x01D0;k&egrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_m;&c_a;&c_m;&c_e;&c_n;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_a;</trd>,
@@ -581,6 +585,7 @@
     <trd>&c_m;&c_i;&c_t;&c_t;&c_ju;</trd>,
     <trd>&c_z;&c_a; &c_h;&c_v;&c_i;&c_l;&c_i;&c_n;&c_u;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: ru; taksis Jev 66%">&#x4E00;&#x7728;&#x773C; <pr>y&#x012B;zh&#x01CE;y&#x01CE;n</pr></trd>
 </drv>
 
 <drv mrk="moment.cxi_0e">

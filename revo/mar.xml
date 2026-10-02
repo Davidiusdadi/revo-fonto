@@ -790,6 +790,7 @@
   <trd lng="id">Laut Putih</trd>
   <trd lng="pl">Morze <ind>Bia&lstroke;e</ind></trd>
   <trd lng="ru">&c_B;&c_je;&c_l;&c_o;&c_je; &c_m;&c_o;&c_r;&c_je;</trd>
+  <trd lng="zh" fnt="Vikt: fr ru; taksis Jev 95%">&#x767D;&#x6D77; <pr>B&aacute;ih&#x01CE;i</pr></trd>
 </drv>
 
 <drv mrk="mar.CXukcxaM0o">
@@ -1006,6 +1007,7 @@
     <trd>Laut Timur</trd>
   </trdgrp>
   <trd lng="pl">Morze <ind>Japo&nacute;skie</ind></trd>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 93%">&#x65E5;&#x672C;&#x6D77; <pr>r&igrave;b&ecaron;nh&#x01CE;i</pr></trd>
 </drv>
 
 <drv mrk="mar.KaraaM0o">
@@ -1304,6 +1306,10 @@
   <trd lng="fr">mer de Marmara</trd>
   <trd lng="id">Laut Marmara</trd>
   <trd lng="pl">Morze <ind>Marmara</ind></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: fr; taksis Jev 96%">&#x99AC;&#x723E;&#x99AC;&#x62C9;&#x6D77; <pr>m&#x01CE;'&ecaron;rm&#x01CE;l&#x0101;h&#x01CE;i</pr></trd>,
+    <trd fnt="Vikt: fr; taksis Jev 96%">&#x9A6C;&#x5C14;&#x9A6C;&#x62C9;&#x6D77; <pr>m&#x01CE;'&ecaron;rm&#x01CE;l&#x0101;h&#x01CE;i</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="mar.MezM0o">
@@ -1724,6 +1730,7 @@
   <trd lng="fr">mer tyrrh&eacute;nienne</trd>
   <trd lng="id">Laut Tirenia</trd>
   <trd lng="pl">Morze <ind>Tyrre&nacute;skie</ind></trd>
+  <trd lng="zh" fnt="Vikt: de; taksis Jev 96%">&#x7B2C;&#x52D2;&#x5C3C;&#x5B89;&#x6D77; <pr>d&igrave;l&egrave;n&iacute;'&#x0101;nh&#x01CE;i</pr></trd>
 </drv>
 </art>
   <!--

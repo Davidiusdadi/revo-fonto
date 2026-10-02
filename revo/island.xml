@@ -79,6 +79,10 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
     <trd>Islandaise<klr> (subst.)</klr></trd>
   </trdgrp>
   <trd lng="pl">Islandczyk</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x51B0;&#x5CF6;&#x4EBA; <pr>b&#x012B;ngd&#x01CE;or&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 95%">&#x51B0;&#x5C9B;&#x4EBA; <pr>b&#x012B;ngd&#x01CE;or&eacute;n</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="island.0a">
@@ -114,6 +118,10 @@ Informo 12</url>, Listo de Rekomendataj Landnomoj</vrk></fnt>
     <trd lng="en">Icelandic<klr> (language)</klr></trd>
     <trd lng="fr">islandais<klr> (langue)</klr></trd>
     <trd lng="pl">j&eogonek;zyk <ind>islandzki</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en ko; taksis Jev 94%">&#x51B0;&#x5CF6;&#x8A9E; <pr>B&#x012B;ngd&#x01CE;oy&#x01D4;</pr></trd>,
+      <trd fnt="Vikt: en ko; taksis Jev 94%">&#x51B0;&#x5C9B;&#x8BED; <pr>B&#x012B;ngd&#x01CE;oy&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_ib;&c_s;&c_mol;&c_l;&c_ja;&c_n;&c_d;&c_z;&c_k;&c_a;&c_ja;
   &c_m;&c_o;&c_v;&c_a;</trd>

@@ -57,6 +57,13 @@
     <trd>&#12459;&#12494;&#12531;</trd>
   </trdgrp>
   <trd lng="pl">kanon</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: cs en ko ku ru; taksis Jev 3%">&#x70AE;</trd>,
+    <trd fnt="Vikt: cs en ku; taksis Jev 12%">&#x52A0;&#x8FB2; <pr>ji&#x0101;n&oacute;ng</pr></trd>,
+    <trd fnt="Vikt: cs en ku; taksis Jev 12%">&#x52A0;&#x519C; <pr>ji&#x0101;n&oacute;ng</pr></trd>,
+    <trd fnt="Vikt: en ku pt; taksis Jev 3%">&#x52A0;&#x8FB2;&#x70AE; <pr>ji&#x0101;n&oacute;ngp&agrave;o</pr></trd>,
+    <trd fnt="Vikt: en ku pt; taksis Jev 3%">&#x52A0;&#x519C;&#x70AE; <pr>ji&#x0101;n&oacute;ngp&agrave;o</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 

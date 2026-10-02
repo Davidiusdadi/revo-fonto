@@ -226,6 +226,7 @@
   <trd lng="en">hundred</trd>
   <trd lng="fr">centaine</trd>
   </snc>
+  <trd lng="zh" fnt="Vikt: pl; taksis Jev 92%">&#x767E;</trd>
 </drv>
 
 <drv mrk="cent.el0o">
@@ -402,6 +403,11 @@
       <trd>&#3648;&#3611;&#3629;&#3619;&#3660;&#3648;&#3595;&#3655;&#3609;&#3605;&#3660;</trd>,
       <trd>&#3619;&#3657;&#3629;&#3618;&#3621;&#3632;</trd>
     </trdgrp>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 64%">&#x5DF4;&#x4ED9; <pr>b&#x0101;xi&#x0101;n</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 53%">&#x8DB4; <pr>p&#x0101;</pr></trd>,
+      <trd fnt="Vikt: ku; taksis Jev 58%">&#x767E;&#x5206;&#x4E4B; <pr>b&#x01CE;if&#x0113;nzh&#x012B;</pr></trd>
+    </trdgrp>
   </snc>
 <!-- ne traduku evetindajn...
   <trdgrp lng="be">
@@ -483,6 +489,10 @@ lng="th">&#3648;&#3588;&#3619;&#3639;&#3656;&#3629;&#3591;&#3627;&#3617;&#3634;&
   <trd lng="ru">&c_s;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>
   <trd lng="sk">stotn&iacute;k</trd>
   <trd lng="uk">&c_s;&c_o;&c_t;&c_n;&c_i;&c_k;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 93%">&#x767E;&#x592B;&#x9577; <pr>b&#x01CE;if&#x016B;zh&#x01CE;ng</pr></trd>,
+    <trd fnt="Vikt: zh en; taksis Jev 93%">&#x767E;&#x592B;&#x957F; <pr>b&#x01CE;if&#x016B;zh&#x01CE;ng</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="cent.0ono">

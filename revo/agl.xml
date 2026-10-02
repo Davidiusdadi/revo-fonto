@@ -400,6 +400,11 @@
     </trdgrp>
     <trd lng="ro">codalb </trd>
     <trd lng="sv">havs<ind>&ouml;rn</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 93%">&#x767D;&#x5C3E;&#x6D77;&#x96D5;</trd>,
+      <trd fnt="Vikt: fr; taksis Jev 68%">&#x6D77;&#x9DF9; <pr>h&#x01CE;iy&#x012B;ng</pr></trd>,
+      <trd fnt="Vikt: fr; taksis Jev 68%">&#x6D77;&#x9E70; <pr>h&#x01CE;iy&#x012B;ng</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_l;&c_a;&c_n;-&c_b;&c_je;&c_l;&c_a;&c_h;&c_v;&c_o;&c_s;&c_t;</trd>
   <trd lng="id">elang ekor putih</trd>
@@ -435,6 +440,11 @@
     <trd lng="pl">orze&lstroke; przedni</trd>
     <trd lng="ro">acvil&abreve; de munte</trd>
     <trd lng="sv">kungs<ind>&ouml;rn</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en ko; taksis Jev 78%">&#x91D1;&#x96D5; <pr>j&#x012B;ndi&#x0101;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 39%">&#x72D7;&#x9DF2; <pr>g&#x01D2;uji&ugrave;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 39%">&#x72D7;&#x9E6B; <pr>g&#x01D2;uji&ugrave;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="id">elang emas</trd>
   <trd lng="ja">&#x30A4;&#x30CC;&#x30EF;&#x30B7;</trd>
@@ -742,6 +752,11 @@
     <trd lng="pl">gado&zdot;er</trd>
     <trd lng="ro">&#537;erpar</trd>
     <trd lng="sv">orm<ind>&ouml;rn</ind></trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: fr; taksis Jev 14%">&#x79D8;&#x4E66;&#x9E1F;</trd>,
+      <trd fnt="Vikt: fr; taksis Jev 85%">&#x98DF;&#x86C7;&#x9E70;</trd>,
+      <trd fnt="Vikt: fr; taksis Jev 22%">&#x9E6D;&#x9E70;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_r;&c_o;&c_l;-&c_v;&c_u;&c_zh;&c_a;&c_je;&c_d;</trd>,

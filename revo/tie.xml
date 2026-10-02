@@ -562,6 +562,12 @@
   <trd
   lng="th"><klr>(&#xE40;&#xE04;&#xE25;&#xE37;&#xE48;&#xE2D;&#xE19;&#xE17;&#xE35;&#xE48;&#xE40;&#xE02;&#xE49;&#xE32;&#xE44;&#xE1B;)</klr>&#xE43;&#xE19;&#xE17;&#xE35;&#xE48;&#xE19;&#xE31;&#xE49;&#xE19;</trd>
   <trd lng="uk">&c_t;&c_u;&c_d;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ja ku; taksis Jev 44%">&#x90A3;&#x88E1; <pr>n&agrave;l&#x01D0;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 73%">&#x90A3;&#x5152; <pr>n&agrave;r</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 73%">&#x90A3;&#x513F; <pr>n&agrave;r</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x5230;&#x90A3;&#x88E1; <pr>d&agrave;on&agrave;l&#x01D0;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tie.cxi0n">
@@ -605,6 +611,11 @@
   <trd lng="no">hit</trd>
   <trd lng="pl">tutaj <klr>(w to miejsce, w tym kierunku)</klr></trd>
   <trd lng="uk">&c_s;&c_ju;&c_d;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ku; taksis Jev 86%">&#x5230;&#x9019;&#x5152; <pr>d&agrave;ozh&egrave;r</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 86%">&#x5230;&#x9019;&#x513F; <pr>d&agrave;ozh&egrave;r</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 87%">&#x5230;&#x8FD9;&#x513F; <pr>d&agrave;ozh&egrave;r</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="tie.0ulo">

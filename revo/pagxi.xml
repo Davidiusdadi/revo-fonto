@@ -40,6 +40,7 @@
     <trd lng="pl">pa&zacute;</trd>
     <trd lng="pt">pajem</trd>
     <trd lng="ru">&c_p;&c_a;&c_zh;</trd>
+    <trd lng="zh" fnt="Vikt: fr; taksis Jev 57%">&#x5C0F;&#x53AE; <pr>xi&#x01CE;os&#x012B;</pr></trd>
   </snc>
   <snc mrk="pagxi.0o.karto">
     <uzo tip="fak">SPO</uzo>
@@ -65,6 +66,12 @@
   <trdgrp lng="uk">
     <trd>&#x43F;&c_a;&c_zh;</trd>,
     <trd>&c_v;&c_a;&#x43B;&c_je;&c_t;</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x7537;&#x4ED4;&#x4F8D;&#x5F9E;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 84%">&#x7537;&#x4ED4;&#x4F8D;&#x4ECE;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x9264; <pr>g&#x014D;u</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 3%">&#x94A9; <pr>g&#x014D;u</pr></trd>
   </trdgrp>
 </drv>
 </art>

@@ -87,6 +87,7 @@
     <trd>&c_zh;&c_i;&c_t;&c_t;&c_jeu;&c_v;&c_i;&c_j;</trd>,
     <trd>&c_v;&c_ib;&c_t;&c_a;&c_l;&c_mol;&c_n;&c_i;&c_j;</trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 87%">&#x751F;&#x547D;&#x7684;</trd>
 </drv>
 
 <drv mrk="vital.0ismo">
@@ -114,6 +115,10 @@
   <trd lng="ru">&c_v;&c_i;&c_t;&c_a;&c_l;&c_i;&c_z;&c_m;</trd>
   <trd lng="sk">vitalizmus</trd>
   <trd lng="uk">&c_v;&c_ib;&c_t;&c_a;&c_l;&c_ib;&c_z;&c_m;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pt; taksis Jev 94%">&#x6D3B;&#x529B;&#x8AD6; <pr>hu&oacute;l&igrave;l&uacute;n</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 94%">&#x6D3B;&#x529B;&#x8BBA; <pr>hu&oacute;l&igrave;l&uacute;n</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

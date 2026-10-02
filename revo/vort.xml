@@ -473,6 +473,10 @@
       <trd>s&lstroke;owny</trd>
     </trdgrp>
     <trd lng="ru">&c_s;&c_l;&c_o;&c_v;&c_je;&c_s;&c_n;&c_y;&c_j;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: en; taksis Jev 85%">&#x8A5E;&#x7684;</trd>,
+      <trd fnt="Vikt: en; taksis Jev 87%">&#x8BCD;&#x7684;</trd>
+    </trdgrp>
   </snc>
   <trdgrp lng="be">
     <trd>&c_s;&c_l;&c_o;&c_w;&c_n;&c_y;</trd>,
@@ -811,6 +815,10 @@
   <trd lng="pt">morfema</trd>
   <trd lng="sk">nesamostatn&aacute; &ccaron;astica</trd>
   <trd lng="uk">&c_ch;&c_a;&c_s;&c_t;&c_i;&c_n;&c_a; &c_s;&c_l;&c_o;&c_v;&c_a;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: pt; taksis Jev 82%">&#x8A9E;&#x7D20; <pr>y&#x01D4;s&ugrave;</pr></trd>,
+    <trd fnt="Vikt: pt; taksis Jev 82%">&#x8BED;&#x7D20; <pr>y&#x01D4;s&ugrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="vort.0igi">

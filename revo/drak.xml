@@ -208,6 +208,10 @@
     <trd>&c_d;&c_r;&c_a;&c_k;&c_o;&c_n;</trd>,
     <trd>&c_z;&c_m;&c_ib;&c_j;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en pt; taksis Jev 93%">&#x5929;&#x9F8D;&#x5EA7; <pr>ti&#x0101;nl&oacute;ngzu&ograve;</pr></trd>,
+    <trd fnt="Vikt: el en pt; taksis Jev 93%">&#x5929;&#x9F99;&#x5EA7; <pr>ti&#x0101;nl&oacute;ngzu&ograve;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="drak.flug0o">
@@ -257,6 +261,13 @@
   <trd
   lng="uk">&c_p;&c_a;&c_p;&c_je;&c_r;&c_o;&c_v;&c_i;&c_j;/&c_p;&c_o;&c_v;&c_ib;&c_t;&c_r;&c_ja;&c_n;&c_i;&c_j;
   &c_z;&c_m;&c_ib;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en pt; taksis Jev 92%">&#x98A8;&#x7B8F; <pr>f&#x0113;ngzheng</pr></trd>,
+    <trd fnt="Vikt: zh en pt; taksis Jev 92%">&#x98CE;&#x7B5D; <pr>f&#x0113;ngzheng</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 2%">&#x72C2;&#x5439;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 7%">&#x7C50;&#x725B; <pr>t&eacute;ngni&uacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 7%">&#x85E4;&#x725B; <pr>t&eacute;ngni&uacute;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--

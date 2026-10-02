@@ -29,6 +29,11 @@
     <trd lng="en">Guadeloupe</trd>
     <trd lng="fr">Guadeloupe</trd>
     <trd lng="pl">Gwadelupa</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: zh en fr ru; taksis Jev 92%">&#x74DC;&#x5FB7;&#x7F85;&#x666E; <pr>Gu&#x0101;d&eacute;lu&oacute;p&#x01D4;</pr></trd>,
+      <trd fnt="Vikt: zh en fr ru; taksis Jev 92%">&#x74DC;&#x5FB7;&#x7F57;&#x666E; <pr>Gu&#x0101;d&eacute;lu&oacute;p&#x01D4;</pr></trd>,
+      <trd fnt="Vikt: zh; taksis Jev 87%">&#x74DC;&#x5730;&#x6D1B;&#x666E; <pr>Gu&#x0101;d&igrave;lu&ograve;p&#x01D4;</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_G;&c_v;&c_a;&c_d;&c_e;&c_l;&c_ju;&c_p;&c_a;</trd>
 </drv>

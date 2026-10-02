@@ -922,6 +922,14 @@
     <trd>&c_gu;&c_ib;&c_d;</trd>,
     <trd>&c_p;&c_r;&c_o;&c_v;&c_ib;&c_d;&c_n;&c_i;&c_k;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en ko ru; taksis Jev 79%">&#x5BFC;&#x6E38; <pr>d&#x01CE;oy&oacute;u</pr></trd>,
+    <trd fnt="Vikt: en ko ru; taksis Jev 79%">&#x5BFC;&#x904A; <pr>d&#x01CE;oy&oacute;u</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 58%">&#x8B1B;&#x89E3;&#x54E1; <pr>ji&#x01CE;ngji&ecaron;yu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: ko ru; taksis Jev 58%">&#x8BB2;&#x89E3;&#x5458; <pr>ji&#x01CE;ngji&ecaron;yu&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 77%">&#x5C0E;&#x904A; <pr>d&#x01CE;oy&oacute;u</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 77%">&#x5BFC;&#x6E38; <pr>d&#x01CE;oy&oacute;u</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="gvid.mis0a">
@@ -973,6 +981,14 @@
   <trdgrp lng="pl">
     <trd>mylny</trd>,
     <trd>zwodniczy</trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 63%">&#x4F7F;&#x4EBA;&#x7522;&#x751F;&#x8AA4;&#x89E3; <pr>sh&#x01D0;r&eacute;nch&#x01CE;nsh&#x0113;ngw&ugrave;ji&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 63%">&#x4F7F;&#x4EBA;&#x4EA7;&#x751F;&#x8BEF;&#x89E3; <pr>sh&#x01D0;r&eacute;nch&#x01CE;nsh&#x0113;ngw&ugrave;ji&ecaron;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 73%">&#x6613;&#x8AA4;&#x89E3;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 73%">&#x6613;&#x8BEF;&#x89E3;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 17%">&#x865B;&#x5E7B;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 17%">&#x865A;&#x5E7B;&#x7684;</trd>
   </trdgrp>
 </drv>
 

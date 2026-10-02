@@ -38,6 +38,12 @@
     <trd lng="es">vernissage</trd>
     <trd lng="fr">vernissage</trd>
     <trd lng="pl">wernisa&zdot;</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: ru; taksis Jev 65%">&#x958B;&#x5E55;&#x5F0F; <pr>k&#x0101;im&ugrave;sh&igrave;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 65%">&#x5F00;&#x5E55;&#x5F0F; <pr>k&#x0101;im&ugrave;sh&igrave;</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 38%">&#x9810;&#x5C55; <pr>y&ugrave;zh&#x01CE;n</pr></trd>,
+      <trd fnt="Vikt: ru; taksis Jev 43%">&#x9884;&#x5C55; <pr>y&ugrave;zh&#x01CE;n</pr></trd>
+    </trdgrp>
   </snc>
   <trd lng="be">&c_v;&c_e;&c_r;&c_n;&c_ib;&c_s;&c_a;&c_zh;</trd>
 </drv>

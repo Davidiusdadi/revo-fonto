@@ -38,6 +38,10 @@
     <trd lng="en">software</trd>
     <trd lng="fr">logiciel</trd>
     <trd lng="pl">software</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: de; taksis Jev 95%">&#x8EDF;&#x4EF6; <pr>ru&#x01CE;nji&agrave;n</pr></trd>,
+      <trd fnt="Vikt: de; taksis Jev 95%">&#x8F6F;&#x4EF6; <pr>ru&#x01CE;nji&agrave;n</pr></trd>
+    </trdgrp>
   </snc>
 <trd lng="be">&c_p;&c_r;&c_a;&c_g;&c_r;&c_a;&c_m;&c_n;&c_a;&c_je; <ind>&c_z;&c_a;&c_b;&c_je;&c_s;&c_mol;&c_p;&c_ja;&c_ch;&c_e;&c_n;&c_mol;&c_n;&c_je;</ind></trd>
 </drv>

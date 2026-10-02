@@ -72,6 +72,14 @@
       <trd>&c_m;&c_o;&c_shch;&c_n;&c_o;&c_s;&c_t;&c_mol;<klr tip="ind"> (&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_a;)</klr></trd>
     </trdgrp>
     <trd lng="sk">kardin&aacute;lne &ccaron;&iacute;slo</trd>
+    <trdgrp lng="zh">
+      <trd fnt="Vikt: es pt; taksis Jev 3%">&#x6A1E;&#x6A5F; <pr>sh&#x016B;j&#x012B;</pr></trd>,
+      <trd fnt="Vikt: es pt; taksis Jev 3%">&#x67A2;&#x673A; <pr>sh&#x016B;j&#x012B;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 93%">&#x57FA;&#x6578; <pr>j&#x012B;sh&ugrave;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 93%">&#x57FA;&#x6570; <pr>j&#x012B;sh&ugrave;</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 2%">&#x6A1E;&#x6A5F;&#x4E3B;&#x6559; <pr>sh&#x016B;j&#x012B; zh&#x01D4;ji&agrave;o</pr></trd>,
+      <trd fnt="Vikt: en; taksis Jev 2%">&#x67A2;&#x673A;&#x4E3B;&#x6559; <pr>sh&#x016B;j&#x012B; zh&#x01D4;ji&agrave;o</pr></trd>
+    </trdgrp>
   </snc>
   <ref tip="hom" cel="kardin.0o.KAT">kardinalo <klr>(katolika)</klr></ref>
 </drv>

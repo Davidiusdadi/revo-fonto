@@ -214,6 +214,11 @@
     <trd>r&iacute;&scaron;sky</trd>
   </trdgrp>
   <trd lng="uk">&c_ib;&c_m;&c_p;&c_je;&c_r;&c_s;&c_mol;&c_k;&c_i;&c_j;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x5E1D;&#x570B;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 92%">&#x5E1D;&#x56FD;&#x7684;</trd>,
+    <trd fnt="Vikt: en; taksis Jev 81%">&#x7687;&#x5E1D;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="imperi.0i">
@@ -643,6 +648,12 @@
     <trd><baz>kaisar</baz>Kekaisaran Romawi Timur</trd>
   </trdgrp>
   <trd lng="pl">Cesarstwo Bizanty&nacute;skie</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x62DC;&#x5360;&#x5EAD;&#x5E1D;&#x56FD; <pr>B&agrave;izh&agrave;nt&iacute;ng D&igrave;gu&oacute;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x62DC;&#x4F54;&#x5EAD;&#x5E1D;&#x56FD; <pr>B&agrave;izh&agrave;nt&iacute;ng D&igrave;gu&oacute;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x62DC;&#x5360;&#x5EAD;&#x5E1D;&#x570B; <pr>B&agrave;izh&agrave;nt&iacute;ng D&igrave;gu&oacute;</pr></trd>,
+    <trd fnt="Vikt: ru; taksis Jev 96%">&#x62DC;&#x5360;&#x5EAD;&#x5E1D;&#x56FD; <pr>B&agrave;izh&agrave;nt&iacute;ng D&igrave;gu&oacute;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="imperi.Inkaa_0o">

@@ -296,6 +296,11 @@
     <trd>wiedza</trd>,
     <trd>znajomo&sacute;&cacute;</trd>
   </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el; taksis Jev 80%">&#x77E5;&#x8B58; <pr>zh&#x012B;sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: el; taksis Jev 80%">&#x77E5;&#x8BC6; <pr>zh&#x012B;sh&igrave;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 68%">&#x8BA4;&#x8BC6;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="kon.0ato">
@@ -1211,6 +1216,12 @@
     <trd>&#x8A8D;&#x8B58;&#12377;&#x308B;  <pr>&#x306B;&#12435;&#12375;&#x304D;&#12377;&#x308B;</pr></trd>,
     <trd>&#x77E5;&#x308A;&#21512;&#12358;  <pr>&#12375;&#x308A;&#12354;&#12358;</pr></trd>,
     <trd>&#x8B58;&#21029;&#12377;&#x308B;  <pr>&#12375;&#x304D;&#12409;&#12388;&#12377;&#x308B;</pr></trd>
+  </trdgrp>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 62%">&#x7D50;&#x8B58; <pr>ji&eacute;sh&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 62%">&#x7ED3;&#x8BC6; <pr>ji&eacute;sh&iacute;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x8A8D;&#x8B58; <pr>r&egrave;nshi</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 79%">&#x8BA4;&#x8BC6; <pr>r&egrave;nshi</pr></trd>
   </trdgrp>
 </drv>
 

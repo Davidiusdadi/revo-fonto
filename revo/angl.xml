@@ -92,6 +92,14 @@
   <trd lng="tok">jan pi ma Inli</trd>
   <trd lng="uk">&c_a;&c_n;&c_g;&c_l;&c_ib;&c_jeu;&c_c;&c_mol;</trd>
   <trd lng="vo">Lingl&auml;nan</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: el en es fr ko ku ru; taksis Jev 87%">&#x82F1;&#x570B;&#x4EBA; <pr>Y&#x012B;nggu&oacute;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: el en es fr ko ku ru; taksis Jev 87%">&#x82F1;&#x56FD;&#x4EBA; <pr>Y&#x012B;nggu&oacute;r&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x82F1;&#x683C;&#x862D;&#x4EBA; <pr>Y&#x012B;ngg&eacute;l&aacute;nr&eacute;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 90%">&#x82F1;&#x683C;&#x5170;&#x4EBA; <pr>Y&#x012B;ngg&eacute;l&aacute;nr&eacute;n</pr></trd>,
+    <trd fnt="Vikt: es; taksis Jev 15%">&#x82F1;&#x683C;&#x862D;&#x7684;</trd>,
+    <trd fnt="Vikt: es; taksis Jev 15%">&#x82F1;&#x683C;&#x5170;&#x7684;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angl.0a">
@@ -286,6 +294,13 @@
   <trd lng="sv">England</trd>
   <trd lng="tok">ma Inli</trd>
   <trd lng="vo">Lingl&auml;n</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku nl pl; taksis Jev 94%">&#x82F1;&#x683C;&#x862D; <pr>Y&#x012B;ngg&eacute;l&aacute;n</pr></trd>,
+    <trd fnt="Vikt: zh en ku nl pl; taksis Jev 94%">&#x82F1;&#x683C;&#x5170; <pr>Y&#x012B;ngg&eacute;l&aacute;n</pr></trd>,
+    <trd fnt="Vikt: en ku nl pl; taksis Jev 23%">&#x82F1;&#x570B; <pr>Y&#x012B;nggu&oacute;</pr></trd>,
+    <trd fnt="Vikt: en ku nl pl; taksis Jev 23%">&#x82F1;&#x56FD; <pr>Y&#x012B;nggu&oacute;</pr></trd>,
+    <trd fnt="Vikt: pl; taksis Jev 48%">&#x82F1;</trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="angl.pra0a">

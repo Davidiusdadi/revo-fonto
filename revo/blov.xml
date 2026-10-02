@@ -656,6 +656,10 @@
     <trd>tchn&aogonek;&cacute;</trd>
   </trdgrp>
   <trd lng="uk">&c_v;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: en; taksis Jev 33%">&#x5145;&#x6C23; <pr>ch&#x014D;ngq&igrave;</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 33%">&#x5145;&#x6C14; <pr>ch&#x014D;ngq&igrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="blov.for0i">
@@ -945,6 +949,7 @@
     <trd>&c_r;&c_o;&c_z;&c_d;&c_u;&c_v;&c_a;&c_t;&c_i;</trd>,
     <trd>&c_r;&c_o;&c_z;&c_d;&c_m;&c_u;&c_h;&c_u;&c_v;&c_a;&c_t;&c_i; <klr>(&c_v;&c_o;&c_g;&c_o;&c_n;&c_mol;)</klr></trd>
   </trdgrp>
+  <trd lng="zh" fnt="Vikt: en; taksis Jev 48%">&#x6FC0;&#x8D77; <pr>j&#x012B;q&#x01D0;</pr></trd>
 </drv>
 
 <drv mrk="blov.0estingi">

@@ -74,6 +74,11 @@
   <trd lng="ru">&c_a;&c_m;&c_n;&c_i;&c_s;&c_t;&c_i;&c_ja;</trd>
   <trd lng="sk">amnestia</trd>
   <trd lng="uk">&c_a;&c_m;&c_n;&c_ib;&c_s;&c_t;&c_ib;&c_ja;</trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en ku; taksis Jev 94%">&#x5927;&#x8D66; <pr>d&agrave;sh&egrave;</pr></trd>,
+    <trd fnt="Vikt: de es pt; taksis Jev 51%">&#x7279;&#x8D66; <pr>t&egrave;sh&egrave;</pr></trd>,
+    <trd fnt="Vikt: en ku; taksis Jev 87%">&#x6069;&#x8D66; <pr>&#x0113;nsh&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 
 <drv mrk="amnest.0i">
@@ -129,6 +134,10 @@
     <trd>gr&acirc;cier</trd>
   </trdgrp>
   <trd lng="ja">&#22823;&#36198;&#12377;&#12427;  <pr>&#12384;&#12356;&#12375;&#12419;&#12377;&#12427;</pr></trd>
+  <trdgrp lng="zh">
+    <trd fnt="Vikt: zh en; taksis Jev 80%">&#x8D66;&#x514D; <pr>sh&egrave;mi&#x01CE;n</pr></trd>,
+    <trd fnt="Vikt: en; taksis Jev 60%">&#x5927;&#x8D66; <pr>d&agrave;sh&egrave;</pr></trd>
+  </trdgrp>
 </drv>
 </art>
 <!--
