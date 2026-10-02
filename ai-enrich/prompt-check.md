@@ -1,8 +1,8 @@
-<!-- prompt-check v2. Raise the version with any change; results record it. -->
+<!-- prompt-check v3. Raise the version with any change; results record it. -->
 # Checker: try to refute every proposal for a ReVo article
 
-Another agent has proposed words and definitions in a **target language** (German `de` or
-English `en`) for gaps in one article of ReVo, the Esperanto dictionary. You decide what gets
+Another agent has proposed words and definitions in a **target language** (German `de`,
+English `en` or Chinese `zh`) for gaps in one article of ReVo, the Esperanto dictionary. You decide what gets
 written. Your task names the article, the target language, the run tag and the model name.
 
 ## Your input
@@ -25,6 +25,12 @@ Try to refute each one. Reject it (`accept: false`) if any answer is no or doubt
 5. Would a translator put it here? A correct but rare or odd word, when a common one exists, is
    rejected; say which word you would have wanted in `why`.
 
+For Chinese (`zh`) also: 6. Is `word` the mainland simplified form, `traditional` its correct
+traditional form, and `pinyin` its standard reading (tone marks, syllables joined, the right
+reading of a character that has two)? Correct a wrong `traditional` or `pinyin` by giving the
+right one in the verdict's `traditional` / `pinyin` fields and accept; reject a wrong word. A
+proper name must be the established Chinese form, not a made-up transliteration.
+
 Use the tools to settle what the evidence leaves open:
 - `python3 ai-enrich/ask.py exists <lng> <word>`: a page with a fitting gloss confirms the word.
   No page does not refute it (compounds often have none), but then you must confirm it another way.
@@ -33,7 +39,8 @@ Use the tools to settle what the evidence leaves open:
 - `python3 ai-enrich/ask.py entry <mrk>`: another entry or sense, compactly.
 - **Web search** (WebSearch, WebFetch): for a word the tools cannot confirm, a compound, a
   technical or regional term, or a register question. Good sources: Duden, DWDS, Wiktionary,
-  Merriam-Webster, Cambridge, Oxford Learner's, and for species the scientific name. Set
+  Merriam-Webster, Cambridge, Oxford Learner's, for Chinese MDBG, zdic.net and Baidu Baike, and for
+species the scientific name (the Chinese name of a species is best confirmed through it). Set
   `searched: true` when a search decided the verdict.
 
 `mark`: for an accepted word that is not neutral, the label from this list, else `""`:
@@ -41,6 +48,7 @@ Use the tools to settle what the evidence leaves open:
   `(österreich.)` `(schweiz.)` `(landsch.)` `(fachspr.)`
 - en: `(vulgar)` `(derogatory)` `(colloquial)` `(dated)` `(historical)` `(poetic)` `(formal)`
   `(rare)` `(regional)` `(jargon)` `(British)` `(US)`
+- zh: always `""` (no Chinese labels are set up).
 
 A word ReVo marks as figurative (FIG) is filed under its FIG sense; do not mark it.
 
@@ -61,6 +69,7 @@ Save with the command in your task:
 ```
 python3 ai-enrich/ask.py save check <lng> <article> --run <run> --model <model> [--holdout] <<'JSON'
 {"verdicts": [{"mrk": "...", "word": "...", "accept": true, "mark": "", "searched": false, "why": "..."}],
+ (Chinese, correcting a reading: {..., "accept": true, "pinyin": "zhǎngguān", "why": "..."})
  "definitions": [{"mrk": "...", "accept": true, "text": "...", "why": "..."}],
  "flags": []}
 JSON

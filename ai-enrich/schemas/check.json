@@ -12,7 +12,9 @@
         "accept": {"type": "boolean"},
         "mark": {"type": "string", "description": "a register label from marks.toml, or empty for a neutral word"},
         "searched": {"type": "boolean", "description": "the verdict rests on a web search"},
-        "why": {"type": "string"}}}},
+        "why": {"type": "string"},
+        "traditional": {"type": "string", "description": "zh only: the corrected traditional form, when the proposal's is wrong"},
+        "pinyin": {"type": "string", "description": "zh only: the corrected pinyin, when the proposal's is wrong"}}}},
     "definitions": {"type": "array", "items": {
       "type": "object", "required": ["mrk", "accept", "text"], "additionalProperties": false,
       "properties": {

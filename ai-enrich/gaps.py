@@ -30,7 +30,8 @@ HERE = Path(__file__).resolve().parent
 sys.path.insert(0, str(HERE.parent / "wikt-enrich"))
 from packets import REVO, parser, flat, context  # noqa: E402
 
-TARGETS = ("de", "en")
+TARGETS = ("de", "en", "zh")
+OTHER = {"de": "en", "en": "de", "zh": "en"}   # the strongest single source for each target
 SKIP_TRD = ("klr", "pr", "baz", "ofc")
 
 
@@ -218,7 +219,7 @@ def main():
     ap.add_argument("--holdout", type=int, metavar="N", help="N entries that have the language, hidden")
     ap.add_argument("--out", type=Path, default=HERE / "out")
     a = ap.parse_args()
-    lng, other = a.lng, next(t for t in TARGETS if t != a.lng)
+    lng, other = a.lng, OTHER[a.lng]
     p = parser()
     arts = {}
     for path in sorted(REVO.glob("*.xml")):

@@ -18,6 +18,7 @@ only with its accept, in the checker's wording.
 
 Words go where the proposal put them: under the sense, or under the entry for a whole-word
 translation, at most 3 per place, the checker's order of acceptance being the proposer's order.
+A Chinese word is written in both scripts, each with its pinyin: <trd>漢語 <pr>hànyǔ</pr></trd>.
 A place that already has the language is skipped (someone filled it since); a word the entry
 already has elsewhere is not repeated. A definition follows the node's Esperanto <dif>; a node
 that already has one in the language is skipped. Insertion is textual (wikt-enrich/apply.py
@@ -68,16 +69,21 @@ def accepted(lng, holdout=False):
                 continue
             sources = " ".join(dict.fromkeys(pr["sources"]))
             fnt = f"AI: {sources}; proponis {prop['model']}; kontrolis {check['model']}" + ("; serĉo" if v["searched"] else "")
-            by_node[pr["mrk"]].append({"word": pr["word"], "mark": v["mark"], "fnt": fnt})
+            if lng == "zh":                          # both scripts, traditional first, each with its pinyin
+                py, trad = v.get("pinyin") or pr.get("pinyin"), v.get("traditional") or pr.get("traditional")
+                by_node[pr["mrk"]].append([{"word": f, "mark": "", "pr": py, "fnt": fnt}
+                                           for f in dict.fromkeys(x for x in (trad, pr["word"]) if x)])
+            else:
+                by_node[pr["mrk"]].append([{"word": pr["word"], "mark": v["mark"], "fnt": fnt}])
         for mrk, ws in by_node.items():
             drv = drv_of[mrk]
             words[article].append({"file": f"{article}.xml", "drv": drv, "eo": eo_of[drv], "lng": lng,
-                                   "node": None if mrk == drv else mrk, "words": ws[:MAX_WORDS]})
+                                   "node": None if mrk == drv else mrk, "words": [w for g in ws[:MAX_WORDS] for w in g]})
         for d in check["definitions"]:
             if d["accept"] and d["text"].strip():
                 text = " ".join(d["text"].split())
-                if text.endswith(":"):               # copied from an Esperanto dif that examples follow
-                    text = text[:-1].rstrip() + "."
+                if text.endswith((":", "：")):       # copied from an Esperanto dif that examples follow
+                    text = text[:-1].rstrip() + ("。" if lng == "zh" else ".")
                 difs[article].append({"drv": drv_of[d["mrk"]], "node": d["mrk"], "text": text,
                                       "fnt": f"AI: eo; tradukis {prop['model']}; kontrolis {check['model']}"})
     return words, difs, skipped
@@ -119,7 +125,7 @@ def plan_difs(lines, root, decisions, lng, ents):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--lng", required=True, choices=("de", "en"))
+    ap.add_argument("--lng", required=True, choices=("de", "en", "zh"))
     ap.add_argument("--write", action="store_true")
     ap.add_argument("--only", choices=("words", "definitions"))
     ap.add_argument("--holdout", action="store_true")

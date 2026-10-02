@@ -1,8 +1,8 @@
-<!-- prompt-propose v2. Raise the version with any change; results record it. -->
+<!-- prompt-propose v3. Raise the version with any change; results record it. -->
 # Proposer: definitions and words for a ReVo article
 
-You fill gaps in ReVo, the Esperanto dictionary, for one **target language** (German `de` or
-English `en`). Your task names the article, the target language, the run tag and the model name.
+You fill gaps in ReVo, the Esperanto dictionary, for one **target language** (German `de`,
+English `en` or Chinese `zh`). Your task names the article, the target language, the run tag and the model name.
 A second agent checks everything you propose; nothing is written on your word alone.
 
 ## Your input
@@ -12,10 +12,11 @@ Read the work file your task names (`ai-enrich/out/…/work/<article>.json`). It
   - `dif`, `ekz`, `uzo`, `ref`: the Esperanto definition, examples, usage tags (field or style
     codes such as BOT, FIG, ARK) and cross-references.
   - `whole_words` (the entry) and `words` (a sense): ReVo's own translations per language. These
-    are your evidence. `other` in the file names the other target language (`en` for `de`), which
-    is the strongest single source. Belarusian (`be`) is on nearly every entry and weak alone.
+    are your evidence. `other` in the file names the strongest single source (`en` for `de` and
+    for `zh`, `de` for `en`). Belarusian (`be`) is on nearly every entry and weak alone.
   - `whole_supplied` / `supplied`: words an earlier Wiktionary run added, unchecked. **Not
-    evidence.** If one looks wrong, flag it (kind `ours`).
+    evidence.** If one looks wrong, flag it (kind `ours`). Chinese ones carry a score from a
+    cheap classifier ("taksis Jev 87%"); it orders human review and settles nothing.
   - `ref_words`: the two target languages' words of the entries a reference points to: a synonym
     (`sin`), a broader term (`super`), a "see" (`vid`), a defining reference (`dif`) and so on. A
     synonym's word is often the right word here too, but a broader or narrower term's is not.
@@ -35,6 +36,8 @@ House style, so that separately written definitions agree: ReVo's "(maj.)" and "
 "(capital)" and "(lower case)" in English, "(groß)" and "(klein)" in German.
 English is spelt the British way (standardise, colour, centre). End a definition with a full stop,
 also where the Esperanto one ends in ":" because examples follow.
+Chinese: simplified characters, standard written Mandarin, full-width punctuation (，。；（）),
+ending in 。; "(maj.)" and "(min.)" become "（大写）" and "（小写）"; a Latin taxon name stays in Latin.
 
 ## Step 2: words
 - **Entry with gap A**: propose words. Put each where it belongs: under the sense it translates
@@ -50,6 +53,14 @@ also where the Esperanto one ends in ":" because examples follow.
     for (-o noun, -a adjective, -i verb, -e adverb);
   - a short, established phrase only where the language has no single word;
   - the word alone: no register label, no explanation. The checker adds any label.
+- **Chinese (`zh`)**: `word` is the simplified form used in mainland China; `traditional` the
+  same word in traditional characters (identical where the characters do not differ); `pinyin`
+  its standard Mandarin reading with tone marks, syllables joined, an apostrophe before a syllable
+  starting with a, e or o (`hànyǔ`, `Xī'ān`), a proper name capitalised (`Bōgēdà`). Mind
+  characters with two readings (行 xíng/háng, 长 cháng/zhǎng). Propose a word, not a phrase or a
+  description: no 的 tacked onto a noun for an adjective unless that is how the language says it,
+  no classifier, no Taiwan- or Hong Kong-only word where the mainland has its own. A proper name
+  in its established Chinese form (e.g. Xinhua usage), never a transliteration of your own.
 - `sources`: the language codes whose ReVo words your proposal rests on. Use `ref` when it rests
   on `ref_words`, `dif` when on the definition alone. `why`: one short sentence.
 - **When unsure, leave it out.** A missing word costs nothing; a wrong one is an error in the
@@ -79,6 +90,7 @@ Save your result with the command in your task, the JSON after it:
 python3 ai-enrich/ask.py save propose <lng> <article> --run <run> --model <model> [--holdout] <<'JSON'
 {"definitions": [{"mrk": "...", "text": "..."}],
  "proposals": [{"mrk": "...", "word": "...", "sources": ["pl", "fr"], "why": "..."}],
+ (Chinese: {"mrk": "...", "word": "汉语", "traditional": "漢語", "pinyin": "hànyǔ", "sources": [...], "why": "..."})
  "covered": [{"mrk": "...", "by": "..."}],
  "flags": [{"mrk": "...", "lng": "de", "kind": "wrong-sense", "text": "...", "note": "...", "suggestion": "..."}]}
 JSON

@@ -13,7 +13,7 @@ and the one write, their result.
 results in another folder than out/, so a second model can run the same articles apart. Every answer is a few lines,
 so a question costs little and cannot flood an agent's context.
 """
-import argparse, json, os, sqlite3, sys, time
+import argparse, json, os, re, sqlite3, sys, time, unicodedata
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -59,6 +59,8 @@ def exists(lng, word):
     out = [f"«{word}» in the {lng} Wiktionary:"]
     for w, pos, tags, gloss in rows:
         out.append(f"- {w} ({pos})" + (f" [{tags}]" if tags else "") + (f": {gloss}" if gloss else ""))
+    if lng == "zh" and all(pos == "soft-redirect" for _, pos, _, _ in rows):
+        out.append("(a simplified form whose page points to the traditional one: ask for that)")
     return "\n".join(out)
 
 
@@ -109,6 +111,15 @@ def save(a):
              *result.get("verdicts", [])]
     errors += [f"mrk {x['mrk']} is not in the work file" for x in items if isinstance(x, dict)
                and x.get("mrk") not in known and x.get("mrk") != a.article]
+    if a.lng == "zh":                           # ReVo writes both scripts, each with its pinyin
+        for x in [*result.get("proposals", []), *result.get("verdicts", [])]:
+            if not isinstance(x, dict):
+                continue
+            if a.stage == "propose" and not (x.get("pinyin") and x.get("traditional")):
+                errors.append(f"{x.get('mrk')} «{x.get('word')}»: a Chinese word needs traditional and pinyin")
+            bare = "".join(c for c in unicodedata.normalize("NFD", x.get("pinyin") or "") if not unicodedata.combining(c))
+            if x.get("pinyin") and not re.fullmatch(r"[a-zA-Z' ]+", bare):
+                errors.append(f"{x.get('mrk')} «{x.get('word')}»: pinyin «{x['pinyin']}» is not pinyin with tone marks")
     if a.stage == "check":
         prop = base / "results" / f"{a.article}.propose.json"
         if not prop.exists():

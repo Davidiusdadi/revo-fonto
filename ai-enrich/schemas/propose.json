@@ -13,7 +13,9 @@
         "mrk": {"type": "string", "description": "a sense's mrk, or the entry's for a whole-word translation"},
         "word": {"type": "string", "minLength": 1},
         "sources": {"type": "array", "items": {"type": "string"}, "minItems": 1},
-        "why": {"type": "string"}}}},
+        "why": {"type": "string"},
+        "traditional": {"type": "string", "description": "zh only: the word in traditional characters, the same as word where they do not differ"},
+        "pinyin": {"type": "string", "description": "zh only: standard Mandarin pinyin with tone marks, syllables joined (hànyǔ)"}}}},
     "covered": {"type": "array", "items": {
       "type": "object", "required": ["mrk", "by"], "additionalProperties": false,
       "properties": {"mrk": {"type": "string"}, "by": {"type": "string"}}}},
