@@ -99,7 +99,7 @@
       <trd>dyrka</trd>,
       <trd>tillbedja</trd>
     </trdgrp>
-    <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 91%">&#x5D07;&#x62DC; <pr>ch&oacute;ngb&agrave;i</pr></trd>
+    <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 91%">&#x5D07;&#x62DC;</trd>
   </snc>
   <snc mrk="ador.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -197,7 +197,7 @@
       <trd>dyrka</trd>,
       <trd>avguda</trd>
     </trdgrp>
-    <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 87%">&#x5D07;&#x62DC; <pr>ch&oacute;ngb&agrave;i</pr></trd>
+    <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 87%">&#x5D07;&#x62DC;</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>adorovat</trd>,
@@ -355,8 +355,8 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Das, was jemand anbetet.</dif>
   <trd lng="id"><baz>sembah</baz>sesembahan</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x5D07;&#x62DC;&#x5C0D;&#x8C61; <pr>ch&oacute;ngb&agrave;i du&igrave;xi&agrave;ng</pr></trd>,
-    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x5D07;&#x62DC;&#x5BF9;&#x8C61; <pr>ch&oacute;ngb&agrave;i du&igrave;xi&agrave;ng</pr></trd>
+    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x5D07;&#x62DC;&#x5C0D;&#x8C61;</trd>,
+    <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x5D07;&#x62DC;&#x5BF9;&#x8C61;</trd>
   </trdgrp>
   </snc>
   <snc mrk="ador.0ajxo.FIG">

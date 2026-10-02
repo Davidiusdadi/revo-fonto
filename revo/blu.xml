@@ -370,7 +370,7 @@
       <trd><ind>blauw</ind>e vlek</trd>,
       <trd>hematoom</trd>
     </trdgrp>
-    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x7600;&#x9752; <pr>y&#x016B;q&#x012B;ng</pr></trd>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x7600;&#x9752;</trd>
   </snc>
   <trdgrp lng="ja">
     <trd>&#38738;&#33394;&#12398;&#29289;  <pr>&#12354;&#12362;&#12356;&#12429;&#12398;&#12406;&#12388;</pr></trd>,
@@ -464,8 +464,8 @@
   </trdgrp>
   <trd lng="pl">jasnoniebieski</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x6DFA;&#x85CD;&#x8272; <pr>qi&#x01CE;nl&aacute;ns&egrave;</pr></trd>,
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x6D45;&#x84DD;&#x8272; <pr>qi&#x01CE;nl&aacute;ns&egrave;</pr></trd>
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x6DFA;&#x85CD;&#x8272;</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x6D45;&#x84DD;&#x8272;</trd>
   </trdgrp>
 </drv>
 </art>

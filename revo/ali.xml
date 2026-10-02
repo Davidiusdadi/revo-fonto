@@ -163,8 +163,8 @@
      <trd lng="pl">drugi</trd>
      <trd lng="pt">outro</trd>
      <trdgrp lng="zh">
-       <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 85%">&#x53E6;&#x4E00;&#x500B; <pr>l&igrave;ng y&iacute; g&egrave;</pr></trd>,
-       <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 85%">&#x53E6;&#x4E00;&#x4E2A; <pr>l&igrave;ng y&iacute; g&egrave;</pr></trd>
+       <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 85%">&#x53E6;&#x4E00;&#x500B;</trd>,
+       <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 85%">&#x53E6;&#x4E00;&#x4E2A;</trd>
      </trdgrp>
   </snc>
   <snc mrk="ali.0a.pron">
@@ -381,7 +381,7 @@
        <trd>&#3629;&#3618;&#3656;&#3634;&#3591;&#3629;&#3639;&#3656;&#3609;</trd>
      </trdgrp>
      <trd lng="tok">ante</trd>
-     <trd lng="zh" fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 92%">&#x4EE5;&#x4E0D;&#x540C;&#x7684;&#x65B9;&#x5F0F; <pr>y&#x01D0; b&ugrave;t&oacute;ng de f&#x0101;ngsh&igrave;</pr></trd>
+     <trd lng="zh" fnt="AI: en de fr; proponis gpt-5.6-luna; taksis Jev 92%">&#x4EE5;&#x4E0D;&#x540C;&#x7684;&#x65B9;&#x5F0F;</trd>
    </snc>
    <snc mrk="ali.0e.kontraue">
      <dif>

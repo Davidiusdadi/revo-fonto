@@ -1062,8 +1062,8 @@
       <trd>&c_o;&c_t;&c_g;&c_o;&c_r;&c_a;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x9694;&#x958B; <pr>g&eacute;k&#x0101;i</pr></trd>,
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x9694;&#x5F00; <pr>g&eacute;k&#x0101;i</pr></trd>
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x9694;&#x958B;</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x9694;&#x5F00;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="cs">
@@ -1113,7 +1113,7 @@
       <trd>&c_r;&c_a;&c_z;&c_g;&c_o;&c_r;&c_o;&c_d;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_r;&c_a;&c_z;&c_g;&c_o;&c_r;&c_a;&c_zh;&c_i;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
-    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x5206;&#x9694; <pr>f&#x0113;ng&eacute;</pr></trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x5206;&#x9694;</trd>
   </snc>
   <trd lng="cs">odhradit <klr>(&ccaron;&iacute;m| co)</klr></trd>
   <trdgrp lng="de">
@@ -1192,7 +1192,7 @@
       <ref cel="konduk.en0i.enirigi">enkonduki<sncref/></ref>,
       <ref cel="invit.0i.ien">inviti</ref>
     </refgrp>
-    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x6392;&#x9664; <pr>p&aacute;ich&uacute;</pr></trd>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x6392;&#x9664;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_g;&c_a;&c_r;&c_o;&c_d;&c_zh;&c_v;&c_a;&c_c;&c_mol;</trd>,
@@ -1311,7 +1311,7 @@
   <trd lng="en" fnt="AI: fr pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">clear</trd>
   <trd lng="fr">lib&eacute;rer<klr> (le passage etc.)</klr></trd>
   <trd lng="pl">usuwa&cacute; <klr>(przeszkod&eogonek;)</klr></trd>
-  <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x6E05;&#x969C; <pr>q&#x012B;ngzh&agrave;ng</pr></trd>
+  <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 82%">&#x6E05;&#x969C;</trd>
 </drv>
 
 <drv mrk="bar.sen0a">
@@ -1364,8 +1364,8 @@
       <ref cel="lim.sen0a">senlima</ref>
     </refgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x7121;&#x963B;&#x7919; <pr>w&uacute;z&#x01D4;'&agrave;i</pr></trd>,
-      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x65E0;&#x963B;&#x788D; <pr>w&uacute;z&#x01D4;'&agrave;i</pr></trd>
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x7121;&#x963B;&#x7919;</trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x65E0;&#x963B;&#x788D;</trd>
     </trdgrp>
   </snc>
   <trd lng="de">unbeschr&auml;nkt</trd>
@@ -1474,8 +1474,8 @@
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 90%">&#x963B;&#x6B62;&#x672A;&#x7ECF;&#x8BB8;&#x53EF;&#x8BBF;&#x95EE;&#x7F51;&#x7EDC;&#x7684;&#x8BA1;&#x7B97;&#x673A;&#x7A0B;&#x5E8F;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A computer program that blocks unauthorised access to a network.</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x9632;&#x706B;&#x7246; <pr>f&aacute;nghu&#x01D2;qi&aacute;ng</pr></trd>,
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x9632;&#x706B;&#x5899; <pr>f&aacute;nghu&#x01D2;qi&aacute;ng</pr></trd>
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x9632;&#x706B;&#x7246;</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 95%">&#x9632;&#x706B;&#x5899;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_m;&c_ib;&c_zh;&c_s;&c_je;&c_t;&c_k;&c_a;&c_v;&c_y;
@@ -1602,8 +1602,8 @@
        <ref cel="kluz.0o.MAR">kluzo<sncref/></ref>
     </refgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6C34;&#x58E9; <pr>shu&#x01D0;b&agrave;</pr></trd>,
-      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6C34;&#x575D; <pr>shu&#x01D0;b&agrave;</pr></trd>
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6C34;&#x58E9;</trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6C34;&#x575D;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -1663,7 +1663,7 @@
     </trdgrp>
     <trd lng="ru">&c_n;&c_i;&c_zh;&c_n;&c_ja;&c_ja;
     <ind>&c_g;&c_r;&c_a;&c_n;&c_mol;</ind></trd>
-    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0B;&#x754C; <pr>xi&agrave;ji&egrave;</pr></trd>
+    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0B;&#x754C;</trd>
   </snc>
   <trd lng="be">&c_m;&c_ja;&c_zh;&c_a; &c_n;&c_ib;&c_zh;&c_n;&c_ja;&c_ja;</trd>
   <trd lng="ca">fita inferior</trd>
@@ -1728,7 +1728,7 @@
     </trdgrp>
     <trd lng="ru">&c_v;&c_je;&c_r;&c_h;&c_n;&c_ja;&c_ja;
     <ind>&c_g;&c_r;&c_a;&c_n;&c_mol;</ind></trd>
-    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0A;&#x754C; <pr>sh&agrave;ngji&egrave;</pr></trd>
+    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0A;&#x754C;</trd>
   </snc>
   <trd lng="be">&c_m;&c_ja;&c_zh;&c_a; &c_v;&c_je;&c_r;&c_h;&c_n;&c_ja;&c_ja;</trd>
   <trd lng="ca">fita superior</trd>

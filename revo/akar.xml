@@ -65,10 +65,10 @@
   <trd lng="de" fnt="AI: en la fr be; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Milben</trd>
   <trd lng="en">Acari <klr>(historical subclass for mites)</klr></trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x87CE; <pr>m&#x01CE;n</pr></trd>,
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x87A8; <pr>m&#x01CE;n</pr></trd>,
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x87CE;&#x87F2; <pr>m&#x01CE;nch&oacute;ng</pr></trd>,
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x87A8;&#x866B; <pr>m&#x01CE;nch&oacute;ng</pr></trd>
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x87CE;</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x87A8;</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x87CE;&#x87F2;</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x87A8;&#x866B;</trd>
   </trdgrp>
   </snc>
   <trd lng="be">&c_k;&c_l;&c_ja;&c_sh;&c_ch;&c_y; <klr tip="amb">(&c_p;&c_a;&c_d;&c_k;&c_l;&c_ja;&c_s;)</klr></trd>

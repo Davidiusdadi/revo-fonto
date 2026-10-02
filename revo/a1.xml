@@ -52,7 +52,7 @@
        <trd lng="nl">la<klr> (muzieknoot)</klr></trd>
        <trd lng="pl">la</trd>
        <trd lng="ro">la</trd>
-       <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">A&#x97F3; <pr>&#x0113;iy&#x012B;n</pr></trd>
+       <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">A&#x97F3;</trd>
      </subsnc>
      <subsnc>
        <uzo tip="fak">KEM</uzo>
@@ -70,8 +70,8 @@
        <trd lng="no">argon</trd>
        <trd lng="pl">argon do 1957</trd>
        <trdgrp lng="zh">
-         <trd fnt="AI: fr nl no dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x6C2C; <pr>y&agrave;</pr></trd>,
-         <trd fnt="AI: fr nl no dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x6C29; <pr>y&agrave;</pr></trd>
+         <trd fnt="AI: fr nl no dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x6C2C;</trd>,
+         <trd fnt="AI: fr nl no dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x6C29;</trd>
        </trdgrp>
      </subsnc>
      <subsnc>
@@ -89,7 +89,7 @@
        <trd lng="fr">Amp&egrave;re</trd>
        <trd lng="pl">A amper</trd>
        <trd lng="ro">A amper</trd>
-       <trd lng="zh" fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x5B89;&#x57F9; <pr>&#x0101;np&eacute;i</pr></trd>
+       <trd lng="zh" fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x5B89;&#x57F9;</trd>
      </subsnc>
      <subsnc>
        <uzo tip="fak">TIP</uzo>
@@ -108,7 +108,7 @@
        <trd lng="no">A4</trd>
        <trd lng="pl">A4</trd>
        <trd lng="ro">A4</trd>
-       <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">A&#x7CFB;&#x5217; <pr>&#x0113;ix&igrave;li&egrave;</pr></trd>
+       <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">A&#x7CFB;&#x5217;</trd>
      </subsnc>
      <subsnc>
        <uzo tip="fak">GEOG</uzo>
@@ -128,8 +128,8 @@
        <trd lng="pl">ar</trd>
        <trd lng="ro">ar</trd>
        <trdgrp lng="zh">
-         <trd fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x516C;&#x755D; <pr>g&#x014D;ngm&#x01D4;</pr></trd>,
-         <trd fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x516C;&#x4EA9; <pr>g&#x014D;ngm&#x01D4;</pr></trd>
+         <trd fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x516C;&#x755D;</trd>,
+         <trd fnt="AI: fr es dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x516C;&#x4EA9;</trd>
        </trdgrp>
      </subsnc>
      <trd lng="ca">a<klr> (lletra)</klr></trd>
@@ -146,7 +146,7 @@
      <trd lng="pl">a<klr> (litera)</klr></trd>
      <trd lng="pt">a<klr> (letra)</klr></trd>
      <trd lng="ro">a<klr> (liter&abreve;)</klr></trd>
-     <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">A <pr>&#x0113;i</pr></trd>
+     <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">A</trd>
   </snc>
   <ref tip="hom" cel="a.0">-<tld/> (fina&jcirc;o)</ref>
   <trd lng="be">&c_l;&c_ib;&c_t;&c_a;&c_r;&c_a; a</trd>
@@ -439,8 +439,8 @@
  <trd lng="pt">arroba</trd>
  <trd lng="ro">a rond @</trd>
  <trdgrp lng="zh">
-   <trd fnt="AI: en ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x827E;&#x7279;&#x7B26;&#x865F; <pr>&agrave;it&egrave;f&uacute;h&agrave;o</pr></trd>,
-   <trd fnt="AI: en ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x827E;&#x7279;&#x7B26;&#x53F7; <pr>&agrave;it&egrave;f&uacute;h&agrave;o</pr></trd>
+   <trd fnt="AI: en ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x827E;&#x7279;&#x7B26;&#x865F;</trd>,
+   <trd fnt="AI: en ref; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x827E;&#x7279;&#x7B26;&#x53F7;</trd>
  </trdgrp>
 </drv>
 </art>

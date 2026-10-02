@@ -131,8 +131,8 @@
     <trd><baz>prediksi</baz>memprediksi</trd>
   </trdgrp>
   <trdgrp lng="zh">
-    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x9810;&#x793A; <pr>y&ugrave;sh&igrave;</pr></trd>,
-    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x9884;&#x793A; <pr>y&ugrave;sh&igrave;</pr></trd>
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x9810;&#x793A;</trd>,
+    <trd fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x9884;&#x793A;</trd>
   </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_r;&c_a;&c_d;&c_k;&c_a;&c_z;&c_v;&c_a;&c_c;&c_mol;</trd>
@@ -297,8 +297,8 @@
     </trdgrp>
     <trd lng="th">&#3621;&#3634;&#3591;&#3610;&#3629;&#3585;&#3648;&#3627;&#3605;&#3640;</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x9810;&#x5146; <pr>y&ugrave;zh&agrave;o</pr></trd>,
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x9884;&#x5146; <pr>y&ugrave;zh&agrave;o</pr></trd>
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x9810;&#x5146;</trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x9884;&#x5146;</trd>
     </trdgrp>
   </snc>
   <snc mrk="auxgur.0o.HIS">
@@ -324,8 +324,8 @@
     &c_p;&c_o; &c_p;&c_o;&c_l;&c_jo;&c_t;&c_u;
     &c_p;&c_t;&c_i;&c_c;</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: de it; proponis gpt-5.6-luna; taksis Jev 86%">&#x9CE5;&#x5360; <pr>ni&#x01CE;ozh&#x0101;n</pr></trd>,
-      <trd fnt="AI: de it; proponis gpt-5.6-luna; taksis Jev 86%">&#x9E1F;&#x5360; <pr>ni&#x01CE;ozh&#x0101;n</pr></trd>
+      <trd fnt="AI: de it; proponis gpt-5.6-luna; taksis Jev 86%">&#x9CE5;&#x5360;</trd>,
+      <trd fnt="AI: de it; proponis gpt-5.6-luna; taksis Jev 86%">&#x9E1F;&#x5360;</trd>
     </trdgrp>
   </snc>
   <snc mrk="auxgur.0o.EVI">
@@ -438,7 +438,7 @@
       <trd>augure</trd>
     </trdgrp>
     <trd lng="pl">wyrocznia</trd>
-    <trd lng="zh" fnt="AI: de it ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x5360;&#x535C;&#x796D;&#x53F8; <pr>zh&#x0101;nb&#x01D4;j&igrave;s&#x012B;</pr></trd>
+    <trd lng="zh" fnt="AI: de it ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x5360;&#x535C;&#x796D;&#x53F8;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_p;&c_r;&c_a;&c_d;&c_k;&c_a;&c_z;&c_a;&c_l;&c_mol;&c_n;&c_ib;&c_k;</trd>,
@@ -527,7 +527,7 @@
     &c_p;&c_r;&c_i;&c_m;&c_je;&c_t;&c_a;)</klr></trd>
     <trd>&c_b;&c_l;&c_a;&c_g;&c_o;&c_p;&c_r;&c_i;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 91%">&#x5409;&#x5146;&#x7684; <pr>j&iacute;zh&agrave;ode</pr></trd>
+  <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 91%">&#x5409;&#x5146;&#x7684;</trd>
 </drv>
 
 <drv mrk="auxgur.malbon0a">
@@ -597,7 +597,7 @@
     &c_p;&c_r;&c_i;&c_m;&c_je;&c_t;&c_a;)</klr></trd>,
     <trd>&c_n;&c_je;&c_b;&c_l;&c_a;&c_g;&c_o;&c_p;&c_r;&c_i;&c_ja;&c_t;&c_n;&c_y;&c_j;</trd>
   </trdgrp>
-  <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0D;&#x7965;&#x7684; <pr>b&ugrave;xi&aacute;ngde</pr></trd>
+  <trd lng="zh" fnt="AI: en fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x4E0D;&#x7965;&#x7684;</trd>
 </drv>
 
 <drv mrk="auxgur.man0i">
@@ -633,7 +633,7 @@
   <trd lng="en" fnt="AI: de ca pl dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">read palms</trd>
   <trd lng="id"><baz>ramal</baz>meramal dgn tangan</trd>
   <trd lng="pl">wr&oacute;&zdot;y&cacute; z r&eogonek;ki</trd>
-  <trd lng="zh" fnt="AI: de en pl; proponis gpt-5.6-luna; taksis Jev 85%">&#x624B;&#x76F8;&#x5360;&#x535C; <pr>sh&#x01D2;uxi&agrave;ngzh&#x0101;nb&#x01D4;</pr></trd>
+  <trd lng="zh" fnt="AI: de en pl; proponis gpt-5.6-luna; taksis Jev 85%">&#x624B;&#x76F8;&#x5360;&#x535C;</trd>
 </drv>
 
 <adm>

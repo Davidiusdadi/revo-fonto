@@ -44,8 +44,8 @@
     <trd lng="pt">academia</trd>
     <trd lng="sk">akad&eacute;mia</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: de fr en; proponis gpt-5.6-luna; taksis Jev 83%">&#x5B78;&#x6703; <pr>xu&eacute;hu&igrave;</pr></trd>,
-      <trd fnt="AI: de fr en; proponis gpt-5.6-luna; taksis Jev 83%">&#x5B66;&#x4F1A; <pr>xu&eacute;hu&igrave;</pr></trd>
+      <trd fnt="AI: de fr en; proponis gpt-5.6-luna; taksis Jev 83%">&#x5B78;&#x6703;</trd>,
+      <trd fnt="AI: de fr en; proponis gpt-5.6-luna; taksis Jev 83%">&#x5B66;&#x4F1A;</trd>
     </trdgrp>
   </snc>
   <snc mrk="akadem.0o.lernejo">
@@ -230,8 +230,8 @@
   <trd lng="fr">Acad&eacute;mie de l'Esp&eacute;ranto</trd>
 <trd lng="id">Akademi Esperanto</trd>
 <trdgrp lng="zh">
-  <trd fnt="AI: de fr id; proponis gpt-5.6-luna; taksis Jev 85%">&#x4E16;&#x754C;&#x8A9E;&#x5B78;&#x9662; <pr>Sh&igrave;ji&egrave;y&#x01D4; Xu&eacute;yu&agrave;n</pr></trd>,
-  <trd fnt="AI: de fr id; proponis gpt-5.6-luna; taksis Jev 85%">&#x4E16;&#x754C;&#x8BED;&#x5B66;&#x9662; <pr>Sh&igrave;ji&egrave;y&#x01D4; Xu&eacute;yu&agrave;n</pr></trd>
+  <trd fnt="AI: de fr id; proponis gpt-5.6-luna; taksis Jev 85%">&#x4E16;&#x754C;&#x8A9E;&#x5B78;&#x9662;</trd>,
+  <trd fnt="AI: de fr id; proponis gpt-5.6-luna; taksis Jev 85%">&#x4E16;&#x754C;&#x8BED;&#x5B66;&#x9662;</trd>
 </trdgrp>
 </drv>
 </art>

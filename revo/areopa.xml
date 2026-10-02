@@ -28,8 +28,8 @@
     <trd lng="ca">are&ograve;pag</trd>
     <trd lng="en" fnt="AI: dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol; serĉo">Areopagus</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 88%">&#x963F;&#x745E;&#x5967;&#x5E15;&#x6208;&#x65AF; <pr>&#x0100;ru&igrave;'&agrave;op&agrave;g&#x0113;s&#x012B;</pr></trd>,
-      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 88%">&#x963F;&#x745E;&#x5965;&#x5E15;&#x6208;&#x65AF; <pr>&#x0100;ru&igrave;'&agrave;op&agrave;g&#x0113;s&#x012B;</pr></trd>
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 88%">&#x963F;&#x745E;&#x5967;&#x5E15;&#x6208;&#x65AF;</trd>,
+      <trd fnt="AI: en; proponis gpt-5.6-luna; taksis Jev 88%">&#x963F;&#x745E;&#x5965;&#x5E15;&#x6208;&#x65AF;</trd>
     </trdgrp>
   </snc>
   <snc mrk="areopa.0o.tribunalo">
@@ -47,8 +47,8 @@
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">The highest court of Greece.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Oberster Gerichtshof Griechenlands.</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x963F;&#x745E;&#x5967;&#x5E15;&#x6208;&#x65AF;&#x6CD5;&#x9662; <pr>&#x0100;ru&igrave;'&agrave;op&agrave;g&#x0113;s&#x012B; f&#x01CE;yu&agrave;n</pr></trd>,
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x963F;&#x745E;&#x5965;&#x5E15;&#x6208;&#x65AF;&#x6CD5;&#x9662; <pr>&#x0100;ru&igrave;'&agrave;op&agrave;g&#x0113;s&#x012B; f&#x01CE;yu&agrave;n</pr></trd>
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x963F;&#x745E;&#x5967;&#x5E15;&#x6208;&#x65AF;&#x6CD5;&#x9662;</trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x963F;&#x745E;&#x5965;&#x5E15;&#x6208;&#x65AF;&#x6CD5;&#x9662;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_r;&c_e;&c_a;&c_p;&c_a;&c_g;</trd>

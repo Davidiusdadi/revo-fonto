@@ -45,7 +45,7 @@
       <trd><baz>sesal</baz>menyesalkan</trd>
     </trdgrp>
     <trd lng="no">sorge over</trd>
-    <trd lng="zh" fnt="AI: en fr ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x60CB;&#x60DC; <pr>w&#x01CE;nx&#x012B;</pr></trd>
+    <trd lng="zh" fnt="AI: en fr ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x60CB;&#x60DC;</trd>
   </snc>
   <snc mrk="bedaux.0i.malkontente">
     <dif>
@@ -101,8 +101,8 @@
     </trdgrp>
     <trd lng="no">beklage seg over</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x5F8C;&#x6094; <pr>h&ograve;uhu&#x01D0;</pr></trd>,
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x540E;&#x6094; <pr>h&ograve;uhu&#x01D0;</pr></trd>
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x5F8C;&#x6094;</trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 86%">&#x540E;&#x6094;</trd>
     </trdgrp>
   </snc>
   <snc mrk="bedaux.0i.kunsenti">
@@ -158,8 +158,8 @@
     <trd><baz>kasihan</baz>mengasihani</trd>
   </trdgrp>
   <trdgrp lng="zh">
-    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x6190;&#x61AB; <pr>li&aacute;nm&#x01D0;n</pr></trd>,
-    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x601C;&#x60AF; <pr>li&aacute;nm&#x01D0;n</pr></trd>
+    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x6190;&#x61AB;</trd>,
+    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x601C;&#x60AF;</trd>
   </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -340,8 +340,8 @@
     </dif>
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 88%">&#x5E26;&#x7740;&#x9057;&#x61BE;&#xFF0C;&#x611F;&#x5230;&#x9057;&#x61BE;&#x5730;&#x3002;</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: en fr de; proponis gpt-5.6-luna; taksis Jev 94%">&#x907A;&#x61BE;&#x5730; <pr>y&iacute;h&agrave;n de</pr></trd>,
-      <trd fnt="AI: en fr de; proponis gpt-5.6-luna; taksis Jev 94%">&#x9057;&#x61BE;&#x5730; <pr>y&iacute;h&agrave;n de</pr></trd>
+      <trd fnt="AI: en fr de; proponis gpt-5.6-luna; taksis Jev 94%">&#x907A;&#x61BE;&#x5730;</trd>,
+      <trd fnt="AI: en fr de; proponis gpt-5.6-luna; taksis Jev 94%">&#x9057;&#x61BE;&#x5730;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_z; <ind>&c_zh;&c_a;&c_l;&c_je;&c_m;</ind></trd>

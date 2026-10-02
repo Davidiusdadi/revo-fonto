@@ -52,8 +52,8 @@
   </trdgrp>
   <trd lng="sk">vymlie&tcaron;</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x640D; <pr>m&oacute;s&#x01D4;n</pr></trd>,
-    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x635F; <pr>m&oacute;s&#x01D4;n</pr></trd>
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x640D;</trd>,
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x635F;</trd>
   </trdgrp>
 </drv>
 
@@ -94,7 +94,7 @@
       <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x56E0;&#x53D7;&#x4F24;&#x6216;&#x51FA;&#x4E8E;&#x6CBB;&#x7597;&#x76EE;&#x7684;&#x522E;&#x9664;&#x7EC4;&#x7EC7;&#x3002;</dif>
       <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Scraping away of tissue, whether through injury or for a medical purpose.</dif>
     <trd lng="de">Ausschabung</trd>
-    <trd lng="zh" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x522E;&#x9664; <pr>gu&#x0101;ch&uacute;</pr></trd>
+    <trd lng="zh" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x522E;&#x9664;</trd>
     </subsnc>
     <ref tip="vid" cel="ablaci.0o">ablacio</ref>
   </snc>
@@ -108,8 +108,8 @@
     <trd>&c_v;&c_i;&c_s;&c_k;&c_r;&c_ib;&c_b;&c_a;&c_n;&c_n;&c_ja;</trd>
   </trdgrp>
   <trdgrp lng="zh">
-    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x8755; <pr>m&oacute;sh&iacute;</pr></trd>,
-    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x8680; <pr>m&oacute;sh&iacute;</pr></trd>
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x8755;</trd>,
+    <trd fnt="AI: en de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">&#x78E8;&#x8680;</trd>
   </trdgrp>
 </drv>
 </art>

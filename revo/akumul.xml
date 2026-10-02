@@ -154,8 +154,8 @@
 </trdgrp>
   <trd lng="es">acumulaci&oacute;n</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x7A4D;&#x7D2F;&#x7269; <pr>j&#x012B;l&egrave;iw&ugrave;</pr></trd>,
-    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x79EF;&#x7D2F;&#x7269; <pr>j&#x012B;l&egrave;iw&ugrave;</pr></trd>
+    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x7A4D;&#x7D2F;&#x7269;</trd>,
+    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x79EF;&#x7D2F;&#x7269;</trd>
   </trdgrp>
 </drv>
 
@@ -270,8 +270,8 @@
     <trd>sich <ind>ansammeln</ind></trd>
   </trdgrp>
   <trdgrp lng="zh">
-    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x7A4D;&#x805A; <pr>j&#x012B;j&ugrave;</pr></trd>,
-    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x79EF;&#x805A; <pr>j&#x012B;j&ugrave;</pr></trd>
+    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x7A4D;&#x805A;</trd>,
+    <trd fnt="AI: de en dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x79EF;&#x805A;</trd>
   </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -333,7 +333,7 @@
     (&c_r;&c_je;&c_g;&c_i;&c_s;&c_t;&c_r; &c_A;&c_U;)</klr></trd>
   </trdgrp>
   <trd lng="sk">register</trd>
-  <trd lng="zh" fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x7D2F;&#x52A0;&#x5668; <pr>l&egrave;iji&#x0101;q&igrave;</pr></trd>
+  <trd lng="zh" fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x7D2F;&#x52A0;&#x5668;</trd>
 </drv>
 
 <drv mrk="akumul.0ilo">
@@ -374,8 +374,8 @@
   <trd lng="ru">&c_a;&c_k;&c_k;&c_u;&c_m;&c_u;&c_l;&c_ja;&c_t;&c_o;&c_r;</trd>
   <trd lng="sk">akumul&aacute;tor</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: en ja dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x84C4;&#x96FB;&#x6C60; <pr>x&ugrave;di&agrave;nch&iacute;</pr></trd>,
-    <trd fnt="AI: en ja dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x84C4;&#x7535;&#x6C60; <pr>x&ugrave;di&agrave;nch&iacute;</pr></trd>
+    <trd fnt="AI: en ja dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x84C4;&#x96FB;&#x6C60;</trd>,
+    <trd fnt="AI: en ja dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x84C4;&#x7535;&#x6C60;</trd>
   </trdgrp>
 </drv>
 </art>

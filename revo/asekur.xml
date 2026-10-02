@@ -46,7 +46,7 @@
     <trd lng="de">versichern</trd>
     <trd lng="id"><baz>asuransi</baz>mengasuransikan</trd>
     <trd lng="sk">poisti&tcaron;</trd>
-    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x6295;&#x4FDD; <pr>t&oacute;ub&#x01CE;o</pr></trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x6295;&#x4FDD;</trd>
   </snc>
   <snc mrk="asekur.0i.FIG">
     <uzo tip="stl">FIG</uzo>
@@ -364,8 +364,8 @@
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 95%">&#x4E0E;&#x4FDD;&#x9669;&#x6709;&#x5173;&#x7684;&#x3002;</dif>
     <trd lng="en" fnt="Vikt: ru; juĝis claude-opus-5">insurance</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FDD;&#x96AA;&#x7684; <pr>b&#x01CE;oxi&#x01CE;n de</pr></trd>,
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FDD;&#x9669;&#x7684; <pr>b&#x01CE;oxi&#x01CE;n de</pr></trd>
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FDD;&#x96AA;&#x7684;</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x4FDD;&#x9669;&#x7684;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_y;</trd>
@@ -431,8 +431,8 @@
     </dif>
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 93%">&#x4FDD;&#x9669;&#x5408;&#x540C;&#x7684;&#x603B;&#x6C47;&#x3002;</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x4FDD;&#x96AA;&#x5408;&#x540C;&#x5F59;&#x7DE8; <pr>b&#x01CE;oxi&#x01CE;n h&eacute;t&oacute;ng hu&igrave;bi&#x0101;n</pr></trd>,
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x4FDD;&#x9669;&#x5408;&#x540C;&#x6C47;&#x7F16; <pr>b&#x01CE;oxi&#x01CE;n h&eacute;t&oacute;ng hu&igrave;bi&#x0101;n</pr></trd>
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x4FDD;&#x96AA;&#x5408;&#x540C;&#x5F59;&#x7DE8;</trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x4FDD;&#x9669;&#x5408;&#x540C;&#x6C47;&#x7F16;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_s;&c_t;&c_r;&c_a;&c_h;&c_a;&c_v;&c_y; <ind>&c_p;&c_a;&c_r;&c_t;&c_f;&c_e;&c_l;&c_mol;</ind></trd>

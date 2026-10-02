@@ -241,8 +241,8 @@
       <trd fnt="Vikt: fr; juĝis claude-opus-5">zustimmend</trd>
     </trdgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x8D0A;&#x540C;&#x7684; <pr>z&agrave;nt&oacute;ng de</pr></trd>,
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x8D5E;&#x540C;&#x7684; <pr>z&agrave;nt&oacute;ng de</pr></trd>
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x8D0A;&#x540C;&#x7684;</trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x8D5E;&#x540C;&#x7684;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -407,8 +407,8 @@
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 85%">&#x9002;&#x5408;&#x8D5E;&#x540C;&#x7684;&#x4E8B;&#x7269;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Something that it is fitting to approve.</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: de pl dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x503C;&#x5F97;&#x8D0A;&#x540C;&#x7684; <pr>zh&iacute;de z&agrave;nt&oacute;ng de</pr></trd>,
-      <trd fnt="AI: de pl dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x503C;&#x5F97;&#x8D5E;&#x540C;&#x7684; <pr>zh&iacute;de z&agrave;nt&oacute;ng de</pr></trd>
+      <trd fnt="AI: de pl dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x503C;&#x5F97;&#x8D0A;&#x540C;&#x7684;</trd>,
+      <trd fnt="AI: de pl dif; proponis gpt-5.6-luna; taksis Jev 88%">&#x503C;&#x5F97;&#x8D5E;&#x540C;&#x7684;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_p;&c_a;&c_h;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>
@@ -470,8 +470,8 @@
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 85%">&#x9002;&#x5408;&#x53CD;&#x5BF9;&#x7684;&#x4E8B;&#x7269;&#xFF0C;&#x5E94;&#x53D7;&#x8C34;&#x8D23;&#x7684;&#x3002;</dif>
     <trd lng="en" fnt="Vikt: it; juĝis claude-opus-5">reprehensible</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x61C9;&#x53D7;&#x8B74;&#x8CAC;&#x7684; <pr>y&#x012B;ng sh&ograve;u qi&#x01CE;nz&eacute; de</pr></trd>,
-      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x5E94;&#x53D7;&#x8C34;&#x8D23;&#x7684; <pr>y&#x012B;ng sh&ograve;u qi&#x01CE;nz&eacute; de</pr></trd>
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x61C9;&#x53D7;&#x8B74;&#x8CAC;&#x7684;</trd>,
+      <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x5E94;&#x53D7;&#x8C34;&#x8D23;&#x7684;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_n;&c_je;&c_p;&c_a;&c_h;&c_v;&c_a;&c_l;&c_mol;&c_n;&c_y;</trd>

@@ -420,8 +420,8 @@
       <trd fnt="Vikt: en; juĝis claude-opus-5">available</trd>
     </trdgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x7372;&#x5F97; <pr>k&ecaron; hu&ograve;d&eacute;</pr></trd>,
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x83B7;&#x5F97; <pr>k&ecaron; hu&ograve;d&eacute;</pr></trd>
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x7372;&#x5F97;</trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x83B7;&#x5F97;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_d;&c_a;&c_s;&c_t;&c_u;&c_p;&c_n;&c_y;</trd>
@@ -531,8 +531,8 @@
        <ref cel="pred.0o">predo</ref>
     </refgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x7375;&#x7372;&#x7269; <pr>li&egrave;hu&ograve;w&ugrave;</pr></trd>,
-      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x730E;&#x83B7;&#x7269; <pr>li&egrave;hu&ograve;w&ugrave;</pr></trd>
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x7375;&#x7372;&#x7269;</trd>,
+      <trd fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 92%">&#x730E;&#x83B7;&#x7269;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_d;&c_a;&c_b;&c_y;&c_ch;&c_a; <klr>(&c_z; &c_p;&c_a;&c_l;&c_ja;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_ja;)</klr></trd>

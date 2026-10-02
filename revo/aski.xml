@@ -47,8 +47,8 @@
     <trd lng="it">ASCII</trd>
     <trd lng="nl">ASCII</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">ASCII&#x78BC; <pr>ASCII m&#x01CE;</pr></trd>,
-      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">ASCII&#x7801; <pr>ASCII m&#x01CE;</pr></trd>
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">ASCII&#x78BC;</trd>,
+      <trd fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 92%">ASCII&#x7801;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -93,7 +93,7 @@
     <trd lng="hu">&aacute;talak&iacute;t <ind>ASCII-v&eacute;</ind></trd>
     <trd lng="it">ASCII-ficare</trd>
     <trd lng="nl">omzetten naar <ind>ASCII</ind></trd>
-    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 87%">ASCII&#x5316; <pr>ASCII hu&agrave;</pr></trd>
+    <trd lng="zh" fnt="AI: en dif; proponis gpt-5.6-luna; taksis Jev 87%">ASCII&#x5316;</trd>
   </snc>
 <trdgrp lng="be">
   <trd>&c_p;&c_je;&c_r;&c_a;&c_w;&c_t;&c_v;&c_a;&c_r;&c_a;&c_c;&c_mol; &c_u; &c_k;&c_o;&c_d; <ind>ASCII</ind></trd>,

@@ -121,7 +121,7 @@
     <trd>wpis w <ind>blogu</ind></trd>,
     <trd>wpis w <ind>pami&eogonek;tniku internetowym</ind></trd>
   </trdgrp>
-  <trd lng="zh" fnt="AI: en de ca dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x535A;&#x5BA2;&#x6587;&#x7AE0; <pr>b&oacute;k&egrave; w&eacute;nzh&#x0101;ng</pr></trd>
+  <trd lng="zh" fnt="AI: en de ca dif; proponis gpt-5.6-luna; taksis Jev 94%">&#x535A;&#x5BA2;&#x6587;&#x7AE0;</trd>
 </drv>
 
 <drv mrk="blog.0aro">
@@ -238,8 +238,8 @@
     <trd>prowadzi&cacute; <ind>pami&eogonek;tnik internetowy</ind></trd>
   </trdgrp>
   <trdgrp lng="zh">
-    <trd fnt="AI: en de es dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5BEB;&#x535A;&#x5BA2; <pr>xi&ecaron; b&oacute;k&egrave;</pr></trd>,
-    <trd fnt="AI: en de es dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5199;&#x535A;&#x5BA2; <pr>xi&ecaron; b&oacute;k&egrave;</pr></trd>
+    <trd fnt="AI: en de es dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5BEB;&#x535A;&#x5BA2;</trd>,
+    <trd fnt="AI: en de es dif; proponis gpt-5.6-luna; taksis Jev 92%">&#x5199;&#x535A;&#x5BA2;</trd>
   </trdgrp>
 </drv>
 </art>

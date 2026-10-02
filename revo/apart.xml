@@ -406,8 +406,8 @@
     <trd lng="ru">&c_o;&c_t;&c_d;&c_je;&c_l;&c_je;&c_n;&c_i;&c_je;</trd>
     <trd lng="sk">vyhraden&eacute; <ind>miesto</ind></trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x9694;&#x9593; <pr>g&eacute;ji&#x0101;n</pr></trd>,
-      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x9694;&#x95F4; <pr>g&eacute;ji&#x0101;n</pr></trd>
+      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x9694;&#x9593;</trd>,
+      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 80%">&#x9694;&#x95F4;</trd>
     </trdgrp>
   </snc>
   <snc mrk="apart.0ajxo.proprajxo">
@@ -538,8 +538,8 @@
       <trd>&c_s;&c_je;&c_p;&c_a;&c_r;&c_a;&c_t;&c_i;&c_v;&c_n;&c_y;&c_j;</trd>
     </trdgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x5206;&#x96E2;&#x7684; <pr>f&#x0113;nl&iacute; de</pr></trd>,
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x5206;&#x79BB;&#x7684; <pr>f&#x0113;nl&iacute; de</pr></trd>
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x5206;&#x96E2;&#x7684;</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 83%">&#x5206;&#x79BB;&#x7684;</trd>
     </trdgrp>
   </snc>
   <snc mrk="apart.0iga.topologio">
@@ -834,8 +834,8 @@
     </trdgrp>
     <trd lng="ru">&c_o;&c_t;&c_d;&c_je;&c_l;&c_i;&c_m;&c_y;&c_j;</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x5206;&#x96E2;&#x7684; <pr>k&ecaron; f&#x0113;nl&iacute; de</pr></trd>,
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x5206;&#x79BB;&#x7684; <pr>k&ecaron; f&#x0113;nl&iacute; de</pr></trd>
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x5206;&#x96E2;&#x7684;</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x53EF;&#x5206;&#x79BB;&#x7684;</trd>
     </trdgrp>
   </snc>
   <snc mrk="apart.0igebla.topologio">
@@ -867,7 +867,7 @@
     <trd lng="pl"><klr tip="amb">(przestrze&nacute;) </klr>o&sacute;rodkowa</trd>
     <trd lng="ru">&c_s;&c_je;&c_p;&c_a;&c_r;&c_a;&c_b;&c_je;&c_l;&c_mol;&c_n;&c_o;&c_je;<klr tip="amb">
     (&c_p;&c_r;&c_o;&c_s;&c_t;&c_r;&c_a;&c_n;&c_s;&c_t;&c_v;&c_o;)</klr></trd>
-    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x53EF;&#x5206;&#x7684; <pr>k&ecaron; f&#x0113;n de</pr></trd>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x53EF;&#x5206;&#x7684;</trd>
   </snc>
   <trd lng="be">&c_r;&c_a;&c_z;&c_l;&c_u;&c_ch;&c_n;&c_y;</trd>
   <trd lng="he">&nun;&#x5B8;&tav;&#x5B4;&yod;&qof;</trd>
@@ -910,7 +910,7 @@
       <ref cel="strang.0ulo.MOR">strangulo</ref>
     </refgrp>
     <trd lng="en" fnt="Vikt: fr; juĝis claude-opus-5">misfit</trd>
-    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x5C40;&#x5916;&#x4EBA; <pr>j&uacute;w&agrave;ir&eacute;n</pr></trd>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 81%">&#x5C40;&#x5916;&#x4EBA;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_n;&c_a;&c_a;&c_s;&c_o;&c_b;&c_n;&c_ib;&c_k;</trd>,

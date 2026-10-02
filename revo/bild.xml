@@ -48,7 +48,7 @@
       </trdgrp>
       <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">reflection</trd>
       <trd lng="nl">speigelbeeld</trd>
-      <trd lng="zh" fnt="AI: de; proponis gpt-5.6-luna; taksis Jev 88%">&#x5012;&#x5F71; <pr>d&agrave;oy&#x01D0;ng</pr></trd>
+      <trd lng="zh" fnt="AI: de; proponis gpt-5.6-luna; taksis Jev 88%">&#x5012;&#x5F71;</trd>
     </subsnc>
     <subsnc mrk="bild.0o.prezentita">
       <dif>
@@ -99,8 +99,8 @@
       <trd lng="en" fnt="AI: de dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">depiction</trd>
       <trd lng="nl">afbeelding</trd>
       <trdgrp lng="zh">
-        <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 92%">&#x5716;&#x50CF; <pr>t&uacute;xi&agrave;ng</pr></trd>,
-        <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 92%">&#x56FE;&#x50CF; <pr>t&uacute;xi&agrave;ng</pr></trd>
+        <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 92%">&#x5716;&#x50CF;</trd>,
+        <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 92%">&#x56FE;&#x50CF;</trd>
       </trdgrp>
     </subsnc>
     <subsnc mrk="bild.0o.simili">
@@ -297,7 +297,7 @@
       </rim>
       <trd lng="pl">obraz<klr tip="ind"> (podzbioru przez
       funkcj&eogonek;)</klr></trd>
-      <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x50CF;&#x96C6; <pr>xi&agrave;ngj&iacute;</pr></trd>
+      <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x50CF;&#x96C6;</trd>
     </subsnc>
     <subsnc mrk="bild.0o.elemento">
       <fnt><bib>EKV</bib>, <lok>&para;139</lok></fnt>
@@ -325,8 +325,8 @@
 	punkcie)</klr></trd>
       </trdgrp>
       <trdgrp lng="zh">
-        <trd fnt="AI: en pl; proponis gpt-5.6-luna; taksis Jev 81%">&#x51FD;&#x6578;&#x503C; <pr>h&aacute;nsh&ugrave;zh&iacute;</pr></trd>,
-        <trd fnt="AI: en pl; proponis gpt-5.6-luna; taksis Jev 81%">&#x51FD;&#x6570;&#x503C; <pr>h&aacute;nsh&ugrave;zh&iacute;</pr></trd>
+        <trd fnt="AI: en pl; proponis gpt-5.6-luna; taksis Jev 81%">&#x51FD;&#x6578;&#x503C;</trd>,
+        <trd fnt="AI: en pl; proponis gpt-5.6-luna; taksis Jev 81%">&#x51FD;&#x6570;&#x503C;</trd>
       </trdgrp>
     </subsnc>
     <trd lng="de">Bild</trd>
@@ -492,7 +492,7 @@
     <trd lng="ru">&c_m;&c_n;&c_o;&c_zh;&c_je;&c_s;&c_t;&c_v;&c_o;
     &c_o;&c_b;&c_r;&c_a;&c_z;&c_o;&c_v;<klr tip="ind">
     (&c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_ja;)</klr></trd>
-    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x50CF;&#x96C6; <pr>xi&agrave;ngj&iacute;</pr></trd>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x50CF;&#x96C6;</trd>
   </snc>
   <trdgrp lng="cs">
     <trd>souhrn obraz&uring;</trd>,
@@ -506,8 +506,8 @@
   <trd lng="ja">&#30011;&#38598;  <pr>&#12364;&#12375;&#12421;&#12358;</pr></trd>
   <trd lng="sk">s&uacute;hrn zobrazen&iacute;</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 86%">&#x5716;&#x50CF;&#x96C6; <pr>t&uacute;xi&agrave;ngj&iacute;</pr></trd>,
-    <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 86%">&#x56FE;&#x50CF;&#x96C6; <pr>t&uacute;xi&agrave;ngj&iacute;</pr></trd>
+    <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 86%">&#x5716;&#x50CF;&#x96C6;</trd>,
+    <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 86%">&#x56FE;&#x50CF;&#x96C6;</trd>
   </trdgrp>
 </drv>
 
@@ -597,7 +597,7 @@
       <trd>&c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_z;&c_i;&c_t;&c_mol;</trd>,
       <trd>&c_v;&c_i;&c_z;&c_u;&c_a;&c_l;&c_i;&c_z;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
     </trdgrp>
-    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x6E32;&#x67D3; <pr>xu&agrave;nr&#x01CE;n</pr></trd>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 82%">&#x6E32;&#x67D3;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_v;&c_y;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol;</trd>,
@@ -808,7 +808,7 @@
     </trdgrp>
     <trd lng="ru">
     &c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</trd>
-    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x6620;&#x5C04; <pr>y&igrave;ngsh&egrave;</pr></trd>
+    <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x6620;&#x5C04;</trd>
   </snc>
   <trdgrp lng="be">
     <trd>&c_a;&c_d;&c_l;&c_ju;&c_s;&c_t;&c_r;&c_a;&c_v;&c_a;&c_n;&c_mol;&c_n;&c_je;</trd>,
@@ -849,8 +849,8 @@
   <klr>(&c_p;&c_a;&c_p;&c_ja;&c_r;&c_e;&c_d;&c_n;&c_ja;&c_je;)</klr></trd>
   <trd lng="de">Vorstellung</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x9810;&#x60F3; <pr>y&ugrave;xi&#x01CE;ng</pr></trd>,
-    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x9884;&#x60F3; <pr>y&ugrave;xi&#x01CE;ng</pr></trd>
+    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x9810;&#x60F3;</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x9884;&#x60F3;</trd>
   </trdgrp>
 </drv>
 
@@ -914,8 +914,8 @@
   <trd lng="id">bitmap</trd>
   <trd lng="ja">&#12499;&#12483;&#12488;&#12510;&#12483;&#12503;</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x4F4D;&#x5716; <pr>w&egrave;it&uacute;</pr></trd>,
-    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x4F4D;&#x56FE; <pr>w&egrave;it&uacute;</pr></trd>
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x4F4D;&#x5716;</trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x4F4D;&#x56FE;</trd>
   </trdgrp>
 </drv>
 
@@ -949,8 +949,8 @@
   <trd lng="fr">autocollant</trd>
   <trd lng="id">stiker</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x8CBC;&#x7D19; <pr>ti&#x0113;zh&#x01D0;</pr></trd>,
-    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x8D34;&#x7EB8; <pr>ti&#x0113;zh&#x01D0;</pr></trd>
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x8CBC;&#x7D19;</trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 95%">&#x8D34;&#x7EB8;</trd>
   </trdgrp>
 </drv>
 
@@ -988,7 +988,7 @@
     <trd>Muster <klr>(Ideal)</klr></trd>
   </trdgrp>
   <trd lng="en" fnt="AI: de be dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">ideal</trd>
-  <trd lng="zh" fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x7406;&#x60F3;&#x5F62;&#x8C61; <pr>l&#x01D0;xi&#x01CE;ng x&iacute;ngxi&agrave;ng</pr></trd>
+  <trd lng="zh" fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x7406;&#x60F3;&#x5F62;&#x8C61;</trd>
 </drv>
 
 <drv mrk="bild.lum0o">
@@ -1102,7 +1102,7 @@
   <trd lng="fr">image de soi</trd>
   <trd lng="id"><ind>citra</ind> diri</trd>
   <trd lng="nl">zelfbeeld</trd>
-  <trd lng="zh" fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 94%">&#x81EA;&#x6211;&#x5F62;&#x8C61; <pr>z&igrave;w&#x01D2; x&iacute;ngxi&agrave;ng</pr></trd>
+  <trd lng="zh" fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 94%">&#x81EA;&#x6211;&#x5F62;&#x8C61;</trd>
 </drv>
 
 <drv mrk="bild.memor0o">
@@ -1134,8 +1134,8 @@
   <trd lng="be">&c_v;&c_o;&c_b;&c_r;&c_a;&c_z; &c_u; &c_p;&c_a;&c_m;&c_ja;&c_c;&c_ib;</trd>
   <trd lng="de">Erinnerungsbild</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x8A18;&#x61B6;&#x5F62;&#x8C61; <pr>j&igrave;y&igrave; x&iacute;ngxi&agrave;ng</pr></trd>,
-    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x8BB0;&#x5FC6;&#x5F62;&#x8C61; <pr>j&igrave;y&igrave; x&iacute;ngxi&agrave;ng</pr></trd>
+    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x8A18;&#x61B6;&#x5F62;&#x8C61;</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x8BB0;&#x5FC6;&#x5F62;&#x8C61;</trd>
   </trdgrp>
 </drv>
 
@@ -1168,8 +1168,8 @@
     </dif>
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 85%">&#x5E26;&#x6709;&#x5632;&#x5F04;&#x6027;&#x5938;&#x5F20;&#x548C;&#x4E11;&#x5316;&#x7684;&#x67D0;&#x4EBA;&#x6216;&#x67D0;&#x7269;&#x7684;&#x56FE;&#x50CF;&#xFF1B;&#x8BBD;&#x523A;&#x6F2B;&#x753B;&#xFF0C;&#x620F;&#x4EFF;&#x3002;</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x8AF7;&#x523A;&#x6F2B;&#x756B; <pr>f&ecaron;ngc&igrave; m&agrave;nhu&agrave;</pr></trd>,
-      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x8BBD;&#x523A;&#x6F2B;&#x753B; <pr>f&ecaron;ngc&igrave; m&agrave;nhu&agrave;</pr></trd>
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x8AF7;&#x523A;&#x6F2B;&#x756B;</trd>,
+      <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x8BBD;&#x523A;&#x6F2B;&#x753B;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -1270,8 +1270,8 @@
       </ekz>
     </dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x52D5;&#x756B; <pr>d&ograve;nghu&agrave;</pr></trd>,
-      <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x52A8;&#x753B; <pr>d&ograve;nghu&agrave;</pr></trd>
+      <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x52D5;&#x756B;</trd>,
+      <trd fnt="AI: en de ref; proponis gpt-5.6-luna; taksis Jev 88%">&#x52A8;&#x753B;</trd>
     </trdgrp>
   </snc>
   <rim>
@@ -1343,8 +1343,8 @@
   <trd lng="de">Heiligenbild</trd>
   <trd lng="en" fnt="AI: ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">icon</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8056;&#x50CF; <pr>sh&egrave;ngxi&agrave;ng</pr></trd>,
-    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x5723;&#x50CF; <pr>sh&egrave;ngxi&agrave;ng</pr></trd>
+    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x8056;&#x50CF;</trd>,
+    <trd fnt="AI: de dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x5723;&#x50CF;</trd>
   </trdgrp>
 </drv>
 
@@ -1421,8 +1421,8 @@
   </trdgrp>
   <trd lng="de">Traumbild</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x5922;&#x5883;&#x5716;&#x50CF; <pr>m&egrave;ngj&igrave;ng t&uacute;xi&agrave;ng</pr></trd>,
-    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x68A6;&#x5883;&#x56FE;&#x50CF; <pr>m&egrave;ngj&igrave;ng t&uacute;xi&agrave;ng</pr></trd>
+    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x5922;&#x5883;&#x5716;&#x50CF;</trd>,
+    <trd fnt="AI: de ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x68A6;&#x5883;&#x56FE;&#x50CF;</trd>
   </trdgrp>
 </drv>
 
@@ -1504,7 +1504,7 @@
     <trd>konstelasi</trd>
   </trdgrp>
   <trd lng="ja">&#26143;&#22259;  <pr>&#12379;&#12356;&#12378;</pr></trd>
-  <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x661F;&#x5EA7; <pr>x&#x012B;ngzu&ograve;</pr></trd>
+  <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 83%">&#x661F;&#x5EA7;</trd>
 </drv>
 
 <drv mrk="bild.ton0o">
@@ -1573,7 +1573,7 @@
   <trd>wide shot</trd>,
   <trd>long shot</trd>
 </trdgrp>
-<trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x5168;&#x666F; <pr>qu&aacute;nj&#x01D0;ng</pr></trd>
+<trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 89%">&#x5168;&#x666F;</trd>
 </drv>
 
 <drv mrk="bild.idento0igo">
@@ -1626,8 +1626,8 @@
   <ind>&c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</ind>
   </trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x6046;&#x7B49;&#x6620;&#x5C04; <pr>h&eacute;ngd&ecaron;ng y&igrave;ngsh&egrave;</pr></trd>,
-    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x6052;&#x7B49;&#x6620;&#x5C04; <pr>h&eacute;ngd&ecaron;ng y&igrave;ngsh&egrave;</pr></trd>
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x6046;&#x7B49;&#x6620;&#x5C04;</trd>,
+    <trd fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 94%">&#x6052;&#x7B49;&#x6620;&#x5C04;</trd>
   </trdgrp>
 </drv>
 
@@ -1719,7 +1719,7 @@
   <trd lng="ru">&c_o;&c_b;&c_r;&c_a;&c_t;&c_n;&c_o;&c_je; <ind>
   &c_o;&c_t;&c_o;&c_b;&c_r;&c_a;&c_zh;&c_je;&c_n;&c_i;&c_je;</ind></trd>
   <trd lng="sk">inverzn&eacute; zobrazenie</trd>
-  <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9006;&#x6620;&#x5C04; <pr>n&igrave; y&igrave;ngsh&egrave;</pr></trd>
+  <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9006;&#x6620;&#x5C04;</trd>
 </drv>
 
 <drv mrk="bild.inversa0o">
@@ -1792,7 +1792,7 @@
     <trd lng="ru">&c_p;&c_r;&c_o;&c_o;&c_b;&c_r;&c_a;&c_z;</trd>
   </snc>
 <trd lng="be">&c_p;&c_r;&c_a;&c_v;&c_o;&c_b;&c_r;&c_a;&c_z; <klr>(&c_m;&c_a;&c_t;.)</klr></trd>
-<trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x9006;&#x50CF; <pr>n&igrave;xi&agrave;ng</pr></trd>
+<trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x9006;&#x50CF;</trd>
 </drv>
 
 <drv mrk="bild.rekta0o">
@@ -1818,7 +1818,7 @@
   <trd lng="de" fnt="AI: ca ref; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Bild</trd>
   <trd lng="en" fnt="AI: ca ref dif; proponis gpt-5.6-sol; kontrolis gpt-5.6-sol">direct image</trd>
   <trd lng="id"><ind>gambar</ind>an (langsung)</trd>
-  <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x6B63;&#x50CF; <pr>zh&egrave;ngxi&agrave;ng</pr></trd>
+  <trd lng="zh" fnt="AI: en ref; proponis gpt-5.6-luna; taksis Jev 91%">&#x6B63;&#x50CF;</trd>
 </drv>
 </art>
 <!--

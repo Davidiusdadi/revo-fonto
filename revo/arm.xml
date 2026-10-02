@@ -73,8 +73,8 @@
     <trd lng="ru">&c_v;&c_o;&c_o;&c_r;&c_u;&c_zh;&c_a;&c_t;&c_mol;</trd>
     <trd lng="sk">vyzbroji&tcaron;</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: de en ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x88DD; <pr>w&#x01D4;zhu&#x0101;ng</pr></trd>,
-      <trd fnt="AI: de en ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x88C5; <pr>w&#x01D4;zhu&#x0101;ng</pr></trd>
+      <trd fnt="AI: de en ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x88DD;</trd>,
+      <trd fnt="AI: de en ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x88C5;</trd>
     </trdgrp>
   </snc>
   <snc mrk="arm.0i.TEK">
@@ -110,7 +110,7 @@
       <trd>meger&odblac;s&iacute;t<klr tip="amb"> (pl. vasal&aacute;ssal)</klr></trd>
     </trdgrp>
     <trd lng="ru">&c_a;&c_r;&c_m;&c_i;&c_r;&c_o;&c_v;&c_a;&c_t;&c_mol;</trd>
-    <trd lng="zh" fnt="AI: de en ru; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x56FA; <pr>ji&#x0101;g&ugrave;</pr></trd>
+    <trd lng="zh" fnt="AI: de en ru; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x56FA;</trd>
   </snc>
   <trd lng="ca">arma</trd>
   <trdgrp lng="cs">
@@ -343,13 +343,13 @@
       </trdgrp>
       <trd lng="nl">wapenuitrusting</trd>
       <trdgrp lng="zh">
-        <trd fnt="AI: en nl; proponis gpt-5.6-luna; taksis Jev 86%">&#x6B66;&#x5668;&#x88DD;&#x5099; <pr>w&#x01D4;q&igrave; zhu&#x0101;ngb&egrave;i</pr></trd>,
-        <trd fnt="AI: en nl; proponis gpt-5.6-luna; taksis Jev 86%">&#x6B66;&#x5668;&#x88C5;&#x5907; <pr>w&#x01D4;q&igrave; zhu&#x0101;ngb&egrave;i</pr></trd>
+        <trd fnt="AI: en nl; proponis gpt-5.6-luna; taksis Jev 86%">&#x6B66;&#x5668;&#x88DD;&#x5099;</trd>,
+        <trd fnt="AI: en nl; proponis gpt-5.6-luna; taksis Jev 86%">&#x6B66;&#x5668;&#x88C5;&#x5907;</trd>
       </trdgrp>
     </subsnc>
     <trdgrp lng="zh">
-      <trd fnt="AI: en de ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x5668;&#x88DD;&#x5099; <pr>w&#x01D4;q&igrave; zhu&#x0101;ngb&egrave;i</pr></trd>,
-      <trd fnt="AI: en de ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x5668;&#x88C5;&#x5907; <pr>w&#x01D4;q&igrave; zhu&#x0101;ngb&egrave;i</pr></trd>
+      <trd fnt="AI: en de ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x5668;&#x88DD;&#x5099;</trd>,
+      <trd fnt="AI: en de ru; proponis gpt-5.6-luna; taksis Jev 85%">&#x6B66;&#x5668;&#x88C5;&#x5907;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -406,8 +406,8 @@
 	</dif>
 	<ref tip="sin" cel="arsena.0o.armilejo">arsenalo</ref>
     <trdgrp lng="zh">
-      <trd fnt="AI: en de ja; proponis gpt-5.6-luna; taksis Jev 95%">&#x6B66;&#x5668;&#x5EAB; <pr>w&#x01D4;q&igrave;k&ugrave;</pr></trd>,
-      <trd fnt="AI: en de ja; proponis gpt-5.6-luna; taksis Jev 95%">&#x6B66;&#x5668;&#x5E93; <pr>w&#x01D4;q&igrave;k&ugrave;</pr></trd>
+      <trd fnt="AI: en de ja; proponis gpt-5.6-luna; taksis Jev 95%">&#x6B66;&#x5668;&#x5EAB;</trd>,
+      <trd fnt="AI: en de ja; proponis gpt-5.6-luna; taksis Jev 95%">&#x6B66;&#x5668;&#x5E93;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">

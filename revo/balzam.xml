@@ -100,7 +100,7 @@
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">A source of moral solace; consolation.</dif>
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Seelisches Beruhigungsmittel, Trost.</dif>
     <trd lng="pl">balsam</trd>
-    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x6170;&#x85C9; <pr>w&egrave;iji&egrave;</pr></trd>
+    <trd lng="zh" fnt="AI: ref; proponis gpt-5.6-luna; taksis Jev 85%">&#x6170;&#x85C9;</trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_l;&c_mol;&c_z;&c_a;&c_m;</trd>
   <trd lng="ca">b&agrave;lsam</trd>
@@ -164,7 +164,7 @@
       </ekz>
     </dif>
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 90%">&#x5177;&#x6709;&#x9999;&#x8102;&#x7684;&#x6C14;&#x5473;&#x6216;&#x4F5C;&#x7528;&#x3002;</dif>
-    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 81%">&#x9999;&#x8102;&#x7684; <pr>xi&#x0101;ngzh&#x012B;de</pr></trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 81%">&#x9999;&#x8102;&#x7684;</trd>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_l;&c_mol;&c_z;&c_a;&c_m;&c_ib;&c_ch;&c_n;&c_y;</trd>
   <trd lng="ca">bals&agrave;mic</trd>
@@ -245,8 +245,8 @@
     <trd lng="en">embalmer</trd>
     <trd lng="fr">embaumeur</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: en fr ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E2B; <pr>f&aacute;ngf&#x01D4;sh&#x012B;</pr></trd>,
-      <trd fnt="AI: en fr ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E08; <pr>f&aacute;ngf&#x01D4;sh&#x012B;</pr></trd>
+      <trd fnt="AI: en fr ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E2B;</trd>,
+      <trd fnt="AI: en fr ref; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E08;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_l;&c_mol;&c_z;&c_a;&c_m;&c_o;&c_w;&c_sh;&c_ch;&c_y;&c_k;</trd>
@@ -319,8 +319,8 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Person, die beruflich vor allem Leichen mit Balsam und gegebenenfalls anderen Verfahren zur Konservierung pr&auml;pariert.</dif>
   <trd lng="en">embalmer</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E2B; <pr>f&aacute;ngf&#x01D4;sh&#x012B;</pr></trd>,
-    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E08; <pr>f&aacute;ngf&#x01D4;sh&#x012B;</pr></trd>
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E2B;</trd>,
+    <trd fnt="AI: en de; proponis gpt-5.6-luna; taksis Jev 93%">&#x9632;&#x8150;&#x5E08;</trd>
   </trdgrp>
   </snc>
   <trd lng="be">&c_b;&c_a;&c_l;&c_mol;&c_z;&c_a;&c_m;&c_o;&c_w;&c_sh;&c_ch;&c_y;&c_k;</trd>

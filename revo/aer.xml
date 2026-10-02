@@ -295,8 +295,8 @@
     <trd lng="en">airy</trd>
   <trd lng="id"><baz>udara</baz>berudara</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x7A7A;&#x6C23;&#x7684; <pr>k&#x014D;ngq&igrave; de</pr></trd>,
-    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x7A7A;&#x6C14;&#x7684; <pr>k&#x014D;ngq&igrave; de</pr></trd>
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x7A7A;&#x6C23;&#x7684;</trd>,
+    <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 85%">&#x7A7A;&#x6C14;&#x7684;</trd>
   </trdgrp>
   </snc>
   <snc mrk="aer.0a.en_0o">
@@ -343,7 +343,7 @@
     <trd lng="en">airborne</trd>
     <trd lng="es">a&eacute;reo</trd>
     <trd lng="id"><baz>udara</baz>mengudara</trd>
-    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x7A7A;&#x4E2D;&#x7684; <pr>k&#x014D;ngzh&#x014D;ng de</pr></trd>
+    <trd lng="zh" fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 84%">&#x7A7A;&#x4E2D;&#x7684;</trd>
   </snc>
   <snc mrk="aer.0a.tra">
     <uzo tip="fak">AVI</uzo><uzo tip="fak">POSX</uzo><uzo tip="fak">MIL</uzo>
@@ -389,7 +389,7 @@
     <dif lng="de" fnt="AI: eo; tradukis claude-opus-5-5; kontrolis claude-opus-5-5">Durch die Luft, mit dem Flugzeug.</dif>
 <ref tip="vid" cel="posxt.aer0a">aerpo&scirc;ta</ref>
     <trd lng="pl">lotnicza</trd>
-    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x822A;&#x7A7A;&#x7684; <pr>h&aacute;ngk&#x014D;ng de</pr></trd>
+    <trd lng="zh" fnt="AI: dif ref; proponis gpt-5.6-luna; taksis Jev 90%">&#x822A;&#x7A7A;&#x7684;</trd>
   </snc>
   <snc mrk="aer.0a.0rilata">
     <dif>
@@ -433,8 +433,8 @@
     <trd lng="ja">&#31354;&#27671;&#12398; <pr>&#12367;&#12358;&#12365;&#12398;</pr></trd>
     <trd lng="pl">powietrzny</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x7A7A;&#x6C23;&#x7684; <pr>k&#x014D;ngq&igrave; de</pr></trd>,
-      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x7A7A;&#x6C14;&#x7684; <pr>k&#x014D;ngq&igrave; de</pr></trd>
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x7A7A;&#x6C23;&#x7684;</trd>,
+      <trd fnt="AI: dif; proponis gpt-5.6-luna; taksis Jev 93%">&#x7A7A;&#x6C14;&#x7684;</trd>
     </trdgrp>
   </snc>
   <snc mrk="aer.0a.malfirma">
@@ -596,8 +596,8 @@
   <trd lng="th">&#3648;&#3611;&#3636;&#3604;&#3619;&#3632;&#3610;&#3634;&#3618;&#3621;&#3617;</trd>
   <trd lng="uk">&c_p;&c_r;&c_o;&c_v;&c_ib;&c_t;&c_r;&c_ju;&c_v;&c_a;&c_t;&c_i;</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x901A;&#x98A8; <pr>t&#x014D;ngf&#x0113;ng</pr></trd>,
-    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x901A;&#x98CE; <pr>t&#x014D;ngf&#x0113;ng</pr></trd>
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x901A;&#x98A8;</trd>,
+    <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x901A;&#x98CE;</trd>
   </trdgrp>
 </drv>
 

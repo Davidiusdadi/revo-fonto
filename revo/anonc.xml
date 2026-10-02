@@ -579,15 +579,15 @@
         <trd fnt="AI: pl ja; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ansager</trd>
       </trdgrp>
       <trdgrp lng="zh">
-        <trd fnt="AI: ref bg; proponis gpt-5.6-luna; taksis Jev 86%">&#x64AD;&#x97F3;&#x54E1; <pr>b&#x014D;y&#x012B;nyu&aacute;n</pr></trd>,
-        <trd fnt="AI: ref bg; proponis gpt-5.6-luna; taksis Jev 86%">&#x64AD;&#x97F3;&#x5458; <pr>b&#x014D;y&#x012B;nyu&aacute;n</pr></trd>
+        <trd fnt="AI: ref bg; proponis gpt-5.6-luna; taksis Jev 86%">&#x64AD;&#x97F3;&#x54E1;</trd>,
+        <trd fnt="AI: ref bg; proponis gpt-5.6-luna; taksis Jev 86%">&#x64AD;&#x97F3;&#x5458;</trd>
       </trdgrp>
     </subsnc>
     <trd lng="de" fnt="AI: pl ja dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Ansager</trd>
     <trd lng="en" fnt="Vikt: en ja; juĝis claude-opus-5">announcer</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 90%">&#x64AD;&#x97F3;&#x54E1; <pr>b&#x014D;y&#x012B;nyu&aacute;n</pr></trd>,
-      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 90%">&#x64AD;&#x97F3;&#x5458; <pr>b&#x014D;y&#x012B;nyu&aacute;n</pr></trd>
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 90%">&#x64AD;&#x97F3;&#x54E1;</trd>,
+      <trd fnt="AI: de en; proponis gpt-5.6-luna; taksis Jev 90%">&#x64AD;&#x97F3;&#x5458;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -657,8 +657,8 @@
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 91%">&#x9884;&#x5148;&#x5BA3;&#x5E03;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Announce in advance.</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: de fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x9810;&#x5148;&#x5BA3;&#x5E03; <pr>y&ugrave;xi&#x0101;n xu&#x0101;nb&ugrave;</pr></trd>,
-      <trd fnt="AI: de fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x9884;&#x5148;&#x5BA3;&#x5E03; <pr>y&ugrave;xi&#x0101;n xu&#x0101;nb&ugrave;</pr></trd>
+      <trd fnt="AI: de fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x9810;&#x5148;&#x5BA3;&#x5E03;</trd>,
+      <trd fnt="AI: de fr; proponis gpt-5.6-luna; taksis Jev 93%">&#x9884;&#x5148;&#x5BA3;&#x5E03;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="be">
@@ -713,8 +713,8 @@
       <ref cel="trumpe.dis0i">distrumpeti</ref>
     </refgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x516C;&#x958B;&#x5BA3;&#x5E03; <pr>g&#x014D;ngk&#x0101;i xu&#x0101;nb&ugrave;</pr></trd>,
-      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x516C;&#x5F00;&#x5BA3;&#x5E03; <pr>g&#x014D;ngk&#x0101;i xu&#x0101;nb&ugrave;</pr></trd>
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x516C;&#x958B;&#x5BA3;&#x5E03;</trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 91%">&#x516C;&#x5F00;&#x5BA3;&#x5E03;</trd>
     </trdgrp>
   </snc>
   <trdgrp lng="de">
@@ -748,7 +748,7 @@
     </dif>
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 92%">&#x901A;&#x77E5;&#x5DF2;&#x5BA3;&#x5E03;&#x7684;&#x6D3B;&#x52A8;&#x5C06;&#x4E0D;&#x518D;&#x4E3E;&#x884C;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">Give notice that an announced event will no longer take place.</dif>
-    <trd lng="zh" fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x53D6;&#x6D88; <pr>q&#x01D4;xi&#x0101;o</pr></trd>
+    <trd lng="zh" fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 89%">&#x53D6;&#x6D88;</trd>
   </snc>
   <trd lng="be">&c_a;&c_b;&#8217;&c_ja;&c_w;&c_l;&c_ja;&c_c;&c_mol; &c_a;&c_b; &c_a;&c_d;&c_m;&c_je;&c_n;&c_je;</trd>
   <trdgrp lng="de">
@@ -802,8 +802,8 @@
     <dif lng="zh" fnt="AI: eo; tradukis gpt-5.6-luna; taksis Jev 88%">&#x901A;&#x8FC7;&#x62A5;&#x7EB8;&#x53D1;&#x8868;&#x7684;&#x516C;&#x544A;&#x3002;</dif>
     <dif lng="en" fnt="AI: eo; tradukis gpt-5.6-sol; kontrolis gpt-5.6-sol">An announcement published in a newspaper.</dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x5831;&#x7D19;&#x5EE3;&#x544A; <pr>b&agrave;ozh&#x01D0; gu&#x01CE;ngg&agrave;o</pr></trd>,
-      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x62A5;&#x7EB8;&#x5E7F;&#x544A; <pr>b&agrave;ozh&#x01D0; gu&#x01CE;ngg&agrave;o</pr></trd>
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x5831;&#x7D19;&#x5EE3;&#x544A;</trd>,
+      <trd fnt="AI: de fr dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x62A5;&#x7EB8;&#x5E7F;&#x544A;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_g;&c_a;&c_z;&c_e;&c_t;&c_n;&c_a;&c_ja; &c_a;&c_b;&#8217;&c_ja;&c_v;&c_a;</trd>

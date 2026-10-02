@@ -104,8 +104,8 @@
       <trd lng="pl">wstawi&cacute; <ind>apostrof</ind></trd>
       <trd lng="ro">introduce&#x21B;i un <ind>apostrof</ind></trd>
       <trdgrp lng="zh">
-        <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x865F; <pr>ji&#x0101; pi&#x0113;h&agrave;o</pr></trd>,
-        <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x53F7; <pr>ji&#x0101; pi&#x0113;h&agrave;o</pr></trd>
+        <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x865F;</trd>,
+        <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x53F7;</trd>
       </trdgrp>
     </subsnc>
     <subsnc mrk="apostr.0i.tr">
@@ -151,8 +151,8 @@
       <trd>ozna&ccaron;i&tcaron; apostrofom</trd>
     </trdgrp>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x865F; <pr>ji&#x0101; pi&#x0113;h&agrave;o</pr></trd>,
-      <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x53F7; <pr>ji&#x0101; pi&#x0113;h&agrave;o</pr></trd>
+      <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x865F;</trd>,
+      <trd fnt="AI: dif en; proponis gpt-5.6-luna; taksis Jev 81%">&#x52A0;&#x6487;&#x53F7;</trd>
     </trdgrp>
   </snc>
 </drv>
@@ -169,8 +169,8 @@
     </dif>
     <trd lng="en" fnt="Vikt: en; juĝis claude-opus-5">backtick</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: dif de; proponis gpt-5.6-luna; taksis Jev 90%">&#x53CD;&#x5F15;&#x865F; <pr>f&#x01CE;n y&#x01D0;nh&agrave;o</pr></trd>,
-      <trd fnt="AI: dif de; proponis gpt-5.6-luna; taksis Jev 90%">&#x53CD;&#x5F15;&#x53F7; <pr>f&#x01CE;n y&#x01D0;nh&agrave;o</pr></trd>
+      <trd fnt="AI: dif de; proponis gpt-5.6-luna; taksis Jev 90%">&#x53CD;&#x5F15;&#x865F;</trd>,
+      <trd fnt="AI: dif de; proponis gpt-5.6-luna; taksis Jev 90%">&#x53CD;&#x5F15;&#x53F7;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_z;&c_v;&c_a;&c_r;&c_o;&c_t;&c_n;&c_y; <ind>&c_a;&c_p;&c_o;&c_s;&c_t;&c_r;&c_a;&c_f;</ind></trd>

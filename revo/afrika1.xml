@@ -110,8 +110,8 @@
   <trd lng="de" fnt="AI: be de; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Afrikaans</trd>
   <trd lng="en" fnt="AI: be dif; proponis claude-opus-5-5; kontrolis claude-opus-5-5">Afrikaans</trd>
   <trdgrp lng="zh">
-    <trd fnt="AI: be dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5357;&#x975E;&#x8A9E; <pr>N&aacute;nf&#x0113;iy&#x01D4;</pr></trd>,
-    <trd fnt="AI: be dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5357;&#x975E;&#x8BED; <pr>N&aacute;nf&#x0113;iy&#x01D4;</pr></trd>
+    <trd fnt="AI: be dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5357;&#x975E;&#x8A9E;</trd>,
+    <trd fnt="AI: be dif; proponis gpt-5.6-luna; taksis Jev 90%">&#x5357;&#x975E;&#x8BED;</trd>
   </trdgrp>
   </snc>
 </drv>

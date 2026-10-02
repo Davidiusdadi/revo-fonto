@@ -60,8 +60,8 @@
     <trd lng="id">agregat</trd>
     <trd lng="ru">&c_a;&c_g;&c_r;&c_je;&c_g;&c_a;&c_t;</trd>
     <trdgrp lng="zh">
-      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6A5F;&#x7D44; <pr>j&#x012B;z&#x01D4;</pr></trd>,
-      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x673A;&#x7EC4; <pr>j&#x012B;z&#x01D4;</pr></trd>
+      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x6A5F;&#x7D44;</trd>,
+      <trd fnt="AI: de en ref; proponis gpt-5.6-luna; taksis Jev 87%">&#x673A;&#x7EC4;</trd>
     </trdgrp>
   </snc>
   <snc mrk="agregat.0o.MIN">
@@ -120,8 +120,8 @@
       Vd &leftquot;<ref cel="agregat.0astato"><tld/>a stato</ref>&rightquot;.
     </dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x805A;&#x96C6;&#x614B;&#x7684; <pr>j&ugrave;j&iacute; t&agrave;i de</pr></trd>,
-      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x805A;&#x96C6;&#x6001;&#x7684; <pr>j&ugrave;j&iacute; t&agrave;i de</pr></trd>
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x805A;&#x96C6;&#x614B;&#x7684;</trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 86%">&#x805A;&#x96C6;&#x6001;&#x7684;</trd>
     </trdgrp>
   </snc>
   <trd lng="be">&c_a;&c_g;&c_r;&c_e;&c_g;&c_a;&c_t;&c_n;&c_y;</trd>
@@ -157,8 +157,8 @@
       </ekz>
     </dif>
     <trdgrp lng="zh">
-      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x7269;&#x8CEA;&#x72C0;&#x614B; <pr>w&ugrave;zh&igrave; zhu&agrave;ngt&agrave;i</pr></trd>,
-      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x7269;&#x8D28;&#x72B6;&#x6001; <pr>w&ugrave;zh&igrave; zhu&agrave;ngt&agrave;i</pr></trd>
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x7269;&#x8CEA;&#x72C0;&#x614B;</trd>,
+      <trd fnt="AI: ref dif; proponis gpt-5.6-luna; taksis Jev 87%">&#x7269;&#x8D28;&#x72B6;&#x6001;</trd>
     </trdgrp>
   </snc>
   <ref tip="sin" cel="agreg.0ajxo.materistato">agrega&jcirc;o<sncref/></ref>
